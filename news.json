@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-08-05T16:30:00+00:00",
+  "items": [
+    {
+      "id": "demo1",
+      "source": "RTVE Noticias",
+      "title": "España actualiza su agenda informativa",
+      "summary": "Datos de demostración.",
+      "title_fa": "نسخه نهایی رادار فارسی اخبار اسپانیا آماده اجراست",
+      "summary_fa": "این نمونه پس از اجرای گردش‌کار، خبرهای واقعی رسانه‌های اسپانیایی را دریافت، ترجمه و خلاصه می‌کند و خبرهای مهم را به کانال تلگرام می‌فرستد.",
+      "impact_fa": "اطلاعات موردنیاز فارسی‌زبانان اسپانیا در یک کانال و داشبورد متمرکز می‌شود.",
+      "url": "https://www.rtve.es/noticias/",
+      "published_at": "2026-08-05T16:20:00+00:00",
+      "category": "sociedad",
+      "priority": 86,
+      "ai_translated": true
+    },
+    {
+      "id": "demo2",
+      "source": "EL PAÍS",
+      "title": "El sistema conserva siempre el enlace original",
+      "summary": "Datos de demostración.",
+      "title_fa": "لینک و عنوان اصلی هر خبر برای راستی‌آزمایی حفظ می‌شود",
+      "summary_fa": "در کنار ترجمه فارسی، عنوان اسپانیایی و لینک مستقیم رسانه منبع نیز نمایش داده می‌شود.",
+      "impact_fa": "کاربر می‌تواند ترجمه را با متن اولیه مقایسه کند.",
+      "url": "https://elpais.com/ultimas-noticias/",
+      "published_at": "2026-08-05T15:10:00+00:00",
+      "category": "ciencia",
+      "priority": 72,
+      "ai_translated": true
+    }
+  ],
+  "feeds": []
+}

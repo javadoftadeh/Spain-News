@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="رادار فارسی اخبار اسپانیا؛ ترجمه، خلاصه و انتشار خودکار در تلگرام">
+  <title>رادار اسپانیا | اخبار اسپانیا به فارسی</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="backdrop"></div>
+<header>
+  <a class="brand" href="#"><span class="flag"></span><span><b>رادار اسپانیا</b><small>ترجمه و تحلیل هوشمند اخبار</small></span></a>
+  <div class="status"><i></i><span id="statusText">در حال دریافت داده…</span></div>
+</header>
+
+<main>
+  <section class="hero panel">
+    <div>
+      <span class="eyebrow">SPAIN NEWS INTELLIGENCE</span>
+      <h1>اسپانیا، <em>بدون واسطه</em></h1>
+      <p>رصد رسانه‌های اسپانیایی، حذف خبرهای تکراری، ترجمه و خلاصه فارسی و آماده‌سازی خودکار پست برای کانال تلگرام.</p>
+      <div class="hero-links">
+        <a id="telegramLink" href="#" target="_blank">کانال تلگرام ↗</a>
+        <a href="data/news.json" target="_blank">داده‌های JSON ↗</a>
+      </div>
+    </div>
+    <div class="pulse">
+      <span>شاخص شدت خبری</span><b id="pulseValue">–</b>
+      <div><i id="pulseBar"></i></div><small id="pulseLabel">در حال محاسبه</small>
+    </div>
+  </section>
+
+  <section class="metrics">
+    <article class="panel"><span>خبرهای فعال</span><b id="metricTotal">–</b><small>۷۲ ساعت اخیر</small></article>
+    <article class="panel"><span>منابع فعال</span><b id="metricSources">–</b><small>رسانه‌های اسپانیایی</small></article>
+    <article class="panel"><span>خبرهای فوری</span><b id="metricAlerts">–</b><small>امتیاز بالای ۸۰</small></article>
+    <article class="panel"><span>آخرین به‌روزرسانی</span><b id="metricUpdated">–</b><small>به وقت مادرید</small></article>
+  </section>
+
+  <section class="toolbar panel">
+    <label class="search"><span>⌕</span><input id="search" placeholder="جست‌وجوی تیتر، موضوع یا منبع…"></label>
+    <div class="filters" id="filters">
+      <button class="active" data-filter="all">همه</button>
+      <button data-filter="politica">سیاست</button><button data-filter="economia">اقتصاد</button>
+      <button data-filter="sociedad">جامعه</button><button data-filter="ciencia">علم و فناوری</button>
+      <button data-filter="cultura">فرهنگ</button><button data-filter="deportes">ورزش</button>
+    </div>
+    <select id="sourceFilter"><option value="all">همه منابع</option></select>
+    <select id="sort"><option value="priority">مهم‌ترین</option><option value="newest">تازه‌ترین</option><option value="source">بر اساس منبع</option></select>
+  </section>
+
+  <section class="layout">
+    <div>
+      <div class="section-head"><div><span class="eyebrow">پخش زنده</span><h2>آخرین خبرهای اسپانیا</h2></div><span id="resultCount"></span></div>
+      <div id="newsList" class="news-list"><div class="empty">در حال پردازش خبرها…</div></div>
+    </div>
+    <aside>
+      <section class="panel side"><div class="section-head"><h3>هشدارهای مهم</h3><span id="alertCount"></span></div><div id="alerts"></div></section>
+      <section class="panel side"><div class="section-head"><h3>توزیع موضوعی</h3></div><div id="topics"></div></section>
+      <section class="panel side">
+        <h3>روش کار</h3>
+        <p>ترجمه و خلاصه با هوش مصنوعی انجام می‌شود. تیتر و لینک اصلی همیشه حفظ می‌شود تا کاربر بتواند خبر را در منبع اولیه بررسی کند.</p>
+      </section>
+    </aside>
+  </section>
+</main>
+<footer><span>پروژه مستقل؛ مالکیت محتوا متعلق به رسانه‌های منبع است.</span><span>به‌روزرسانی و ارسال تلگرام با GitHub Actions</span></footer>
+<script src="config.js"></script><script src="app.js"></script>
+</body></html>
