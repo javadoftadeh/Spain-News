@@ -49,24 +49,53 @@ def score(t,d):
 def norm(t): return set(re.sub(r"[^\wáéíóúüñ ]"," ",t.lower()).split())
 
 def translate_ai(item):
- key=os.getenv("OPENAI_API_KEY")
+ key=os.getenv("GEMINI_API_KEY")
  if not key:
   item["title_fa"]=item["title"];item["summary_fa"]=item["summary"];item["impact_fa"]="";item["ai_translated"]=False;return item
- prompt=f"""خبر زیر از رسانه اسپانیایی است. فقط JSON معتبر با کلیدهای title_fa، summary_fa، impact_fa برگردان.
-ترجمه فارسی باید روان، دقیق و بی‌طرف باشد. summary_fa دو یا سه جمله و impact_fa یک جمله کوتاه درباره اهمیت خبر برای فارسی‌زبانان ساکن اسپانیا باشد.
-نام‌ها، اعداد و عدم قطعیت خبر را حفظ کن و چیزی اضافه نکن.
+
+ model=os.getenv("GEMINI_MODEL","gemini-2.5-flash")
+ prompt=f"""خبر زیر از رسانه اسپانیایی است.
+ترجمه فارسی باید روان، دقیق و بی‌طرف باشد.
+summary_fa باید دو یا سه جمله باشد.
+impact_fa باید یک جمله کوتاه درباره اهمیت خبر برای فارسی‌زبانان ساکن اسپانیا باشد.
+نام‌ها، اعداد، نقل‌قول‌ها و عدم قطعیت خبر را حفظ کن و هیچ اطلاعات تازه‌ای اضافه نکن.
+
 عنوان: {item['title']}
 خلاصه: {item['summary']}
 منبع: {item['source']}"""
+
+ schema={
+  "type":"OBJECT",
+  "properties":{
+   "title_fa":{"type":"STRING"},
+   "summary_fa":{"type":"STRING"},
+   "impact_fa":{"type":"STRING"}
+  },
+  "required":["title_fa","summary_fa","impact_fa"]
+ }
+
  try:
-  r=requests.post("https://api.openai.com/v1/responses",headers={"Authorization":f"Bearer {key}","Content-Type":"application/json"},json={"model":os.getenv("OPENAI_MODEL","gpt-5-mini"),"input":prompt,"text":{"format":{"type":"json_object"}}},timeout=60)
-  r.raise_for_status();data=r.json()
-  text=data.get("output_text")
-  if not text:
-   text="".join(c.get("text","") for o in data.get("output",[]) for c in o.get("content",[]) if c.get("type")=="output_text")
-  obj=json.loads(text);item.update(obj);item["ai_translated"]=True
+  r=requests.post(
+   f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+   headers={"x-goog-api-key":key,"Content-Type":"application/json"},
+   json={
+    "contents":[{"role":"user","parts":[{"text":prompt}]}],
+    "generationConfig":{
+     "temperature":0.2,
+     "responseMimeType":"application/json",
+     "responseSchema":schema
+    }
+   },
+   timeout=60
+  )
+  r.raise_for_status()
+  data=r.json()
+  text=data["candidates"][0]["content"]["parts"][0]["text"]
+  obj=json.loads(text)
+  item.update(obj);item["ai_translated"]=True
  except Exception as e:
-  print("translation failed:",e);item["title_fa"]=item["title"];item["summary_fa"]=item["summary"];item["impact_fa"]="";item["ai_translated"]=False
+  print("Gemini translation failed:",e)
+  item["title_fa"]=item["title"];item["summary_fa"]=item["summary"];item["impact_fa"]="";item["ai_translated"]=False
  return item
 
 def collect():
@@ -130,4 +159,3 @@ if __name__=="__main__":
  OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2),"utf-8")
  sent=publish(translated)
  print(f"saved={len(translated)} telegram_sent={len(sent)}")
-
