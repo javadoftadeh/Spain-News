@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:51:26.378213+00:00",
+  "generated_at": "2026-08-05T17:58:21.005490+00:00",
   "items": [
     {
       "id": "0188fdb49b29",
@@ -296,20 +296,6 @@
       "ai_translated": false
     },
     {
-      "id": "bba721f3158f",
-      "source": "La Vanguardia",
-      "title": "Otra IA supera al humano: resuelve problemas matemáticos que llevaban 30 años sin respuesta",
-      "summary": "ChatGPT presenta “Astra”, un nuevo modelo que es capaz de resolver dos de los problemas más complejos del mundo académico, conocidos como “problemas de Erdős”",
-      "url": "https://www.lavanguardia.com/vida/20260805/11608370/ia-supera-humano-resuelve-problemas-matematicos-llevaban-treinta-anos-respuesta.html",
-      "published_at": "2026-08-05T13:56:34+02:00",
-      "category": "sociedad",
-      "priority": 71,
-      "title_fa": "Otra IA supera al humano: resuelve problemas matemáticos que llevaban 30 años sin respuesta",
-      "summary_fa": "ChatGPT presenta “Astra”, un nuevo modelo que es capaz de resolver dos de los problemas más complejos del mundo académico, conocidos como “problemas de Erdős”",
-      "impact_fa": "",
-      "ai_translated": false
-    },
-    {
       "id": "6ba23332cd0f",
       "source": "EL PAÍS",
       "title": "La policía alemana desactiva un dron bomba que cayó junto a un avión de carga ucranio en el aeropuerto de Leipzig",
@@ -390,6 +376,20 @@
       "priority": 71,
       "title_fa": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
       "summary_fa": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
+      "impact_fa": "",
+      "ai_translated": false
+    },
+    {
+      "id": "bba721f3158f",
+      "source": "La Vanguardia",
+      "title": "Otra IA supera al humano: resuelve problemas matemáticos que llevaban 30 años sin respuesta",
+      "summary": "ChatGPT presenta “Astra”, un nuevo modelo que es capaz de resolver dos de los problemas más complejos del mundo académico, conocidos como “problemas de Erdős”",
+      "url": "https://www.lavanguardia.com/vida/20260805/11608370/ia-supera-humano-resuelve-problemas-matematicos-llevaban-treinta-anos-respuesta.html",
+      "published_at": "2026-08-05T13:56:34+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Otra IA supera al humano: resuelve problemas matemáticos que llevaban 30 años sin respuesta",
+      "summary_fa": "ChatGPT presenta “Astra”, un nuevo modelo que es capaz de resolver dos de los problemas más complejos del mundo académico, conocidos como “problemas de Erdős”",
       "impact_fa": "",
       "ai_translated": false
     },
