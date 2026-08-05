@@ -15,17 +15,13 @@ concurrency:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
-
       - run: pip install -r requirements.txt
-
       - name: Collect, translate and publish
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -36,7 +32,6 @@ jobs:
           TELEGRAM_MAX_POSTS: "3"
           MAX_AI_TRANSLATIONS: "12"
         run: python scripts/pipeline.py
-
       - name: Commit data and delivery state
         run: |
           git config user.name "spain-news-bot"
