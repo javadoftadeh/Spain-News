@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:58:21.005490+00:00",
+  "generated_at": "2026-08-05T18:05:07.324297+00:00",
   "items": [
     {
       "id": "0188fdb49b29",
@@ -10,10 +10,10 @@
       "published_at": "2026-08-05T15:40:34+02:00",
       "category": "sociedad",
       "priority": 78,
-      "title_fa": "Marruecos exhibe una felicitación del Rey a Mohamed VI enviada antes de la crisis de Ceuta",
-      "summary_fa": "Como cada año, Felipe VI, por vía diplomática, trasladó un mensaje al monarca alauita por el aniversario de su llegada al trono",
-      "impact_fa": "",
-      "ai_translated": false
+      "title_fa": "مراکش تبریک پادشاه اسپانیا به محمد ششم را که پیش از بحران سبته ارسال شده بود، به نمایش گذاشت",
+      "summary_fa": "طبق روال هر سال، فلیپه ششم از طریق مجاری دیپلماتیک پیامی را به مناسبت سالگرد به تخت نشستن پادشاه مراکش ارسال کرد. این تبریک پیش از بروز بحران سیاسی در شهر سبته مبادله شده بود.",
+      "impact_fa": "آگاهی از این پیام‌های دیپلماتیک برای فارسی‌زبانان مقیم اسپانیا جهت درک تحولات سیاسی و روابط دوجانبه میان مادرید و ربات اهمیت دارد.",
+      "ai_translated": true
     },
     {
       "id": "f09f727c12c7",
@@ -24,10 +24,10 @@
       "published_at": "2026-08-05T13:13:22+00:00",
       "category": "sociedad",
       "priority": 78,
-      "title_fa": "Un exguardia civil asesina a su expareja, también agente, en Llanes (Asturias)",
-      "summary_fa": "El hombre, condenado por violencia de género contra la víctima, también ha muerto, abatido por otros agentes que intentaban frenar el ataque. Quedan huérfanos un hijo de 18 y dos hijas de 14 años",
-      "impact_fa": "",
-      "ai_translated": false
+      "title_fa": "یک مامور سابق گارد مدنی، نامزد سابق خود را که او نیز مامور بود در یانس (آستوریاس) به قتل رساند",
+      "summary_fa": "این مرد که به دلیل خشونت علیه زنان نسبت به قربانی محکوم شده بود، توسط ماموران دیگر که قصد متوقف کردن حمله را داشتند، از پا درآمد. این حادثه سه فرزند، شامل یک پسر ۱۸ ساله و دو دختر ۱۴ ساله را یتیم گذاشته است.",
+      "impact_fa": "این رویداد بار دیگر اهمیت حیاتی مبارزه با خشونت جنسیتی و لزوم حمایت از قربانیان در سراسر اسپانیا را برجسته می‌کند.",
+      "ai_translated": true
     },
     {
       "id": "0a333cb5b006",
@@ -38,10 +38,10 @@
       "published_at": "2026-08-05T11:56:54+02:00",
       "category": "cultura",
       "priority": 77,
-      "title_fa": "‘Safaris humanos’ de Rusia: un dron persigue a un civil ucraniano",
-      "summary_fa": "La víctima, un frutero de Jersón, logró sobrevivir a la explosión del artefacto aéreo",
-      "impact_fa": "",
-      "ai_translated": false
+      "title_fa": "«سافاری‌های انسانی» روسیه: یک پهپاد غیرنظامی اوکراینی را تعقیب می‌کند",
+      "summary_fa": "یک فروشنده میوه در خرسون هدف تعقیب یک پهپاد متعلق به روسیه قرار گرفت. این غیرنظامی اوکراینی موفق شد از انفجار این شیء پرنده جان سالم به در برد.",
+      "impact_fa": "این خبر خطرات جانی جنگ اوکراین برای غیرنظامیان را نشان می‌دهد که می‌تواند برای جامعه فارسی‌زبانان ساکن اسپانیا قابل توجه باشد.",
+      "ai_translated": true
     },
     {
       "id": "c5385fe4289f",
@@ -114,20 +114,6 @@
       "ai_translated": false
     },
     {
-      "id": "db76ba1d6870",
-      "source": "La Vanguardia",
-      "title": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
-      "summary": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
-      "url": "https://www.lavanguardia.com/politica/20260805/11608520/ayuso-afirma-nunca-penso-vivir-atico-lujo-6-3-millones-euros.html",
-      "published_at": "2026-08-05T17:03:13+02:00",
-      "category": "sociedad",
-      "priority": 72,
-      "title_fa": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
-      "summary_fa": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
-      "impact_fa": "",
-      "ai_translated": false
-    },
-    {
       "id": "a80804d13067",
       "source": "EL PAÍS",
       "title": "Irán insiste en mantener el control del estrecho de Ormuz mientras Trump amenaza con abrirlo por la fuerza",
@@ -166,6 +152,20 @@
       "priority": 72,
       "title_fa": "Israel anuncia la primera orden de desalojo en Líbano desde el acuerdo de paz anunciado por EE UU en junio",
       "summary_fa": "El ejército israelí “ha bombardeado selectivamente” el sur del país en respuesta a “una violación flagrante” de Hezbolá",
+      "impact_fa": "",
+      "ai_translated": false
+    },
+    {
+      "id": "db76ba1d6870",
+      "source": "La Vanguardia",
+      "title": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
+      "summary": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
+      "url": "https://www.lavanguardia.com/politica/20260805/11608520/ayuso-afirma-nunca-penso-vivir-atico-lujo-6-3-millones-euros.html",
+      "published_at": "2026-08-05T17:03:13+02:00",
+      "category": "sociedad",
+      "priority": 71,
+      "title_fa": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
+      "summary_fa": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
       "impact_fa": "",
       "ai_translated": false
     },
