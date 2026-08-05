@@ -53,7 +53,7 @@ def translate_ai(item):
  if not key:
   item["title_fa"]=item["title"];item["summary_fa"]=item["summary"];item["impact_fa"]="";item["ai_translated"]=False;return item
 
- model=os.getenv("GEMINI_MODEL","gemini-2.5-flash")
+ model=os.getenv("GEMINI_MODEL","gemini-3.5-flash-lite")
  prompt=f"""خبر زیر از رسانه اسپانیایی است.
 ترجمه فارسی باید روان، دقیق و بی‌طرف باشد.
 summary_fa باید دو یا سه جمله باشد.
@@ -152,7 +152,7 @@ if __name__=="__main__":
  max_ai=int(os.getenv("MAX_AI_TRANSLATIONS","12"))
  for i,x in enumerate(items):
   if x["id"] in old and old[x["id"]].get("ai_translated"):x.update({k:old[x["id"]].get(k) for k in ("title_fa","summary_fa","impact_fa","ai_translated")})
-  elif i<max_ai:x=translate_ai(x);time.sleep(.25)
+  elif i<max_ai:x=translate_ai(x);time.sleep(7)
   else:x["title_fa"]=x["title"];x["summary_fa"]=x["summary"];x["impact_fa"]="";x["ai_translated"]=False
   translated.append(x)
  data={"generated_at":datetime.now(timezone.utc).isoformat(),"items":translated,"feeds":feeds}
