@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:46:53.543893+00:00",
+  "generated_at": "2026-08-05T17:51:26.378213+00:00",
   "items": [
     {
       "id": "0188fdb49b29",
@@ -170,34 +170,6 @@
       "ai_translated": false
     },
     {
-      "id": "07f05eceb49d",
-      "source": "EL PAÍS",
-      "title": "El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual",
-      "summary": "El diésel también se encarece hasta los 1,79 euros por litro, el dato más elevado de los últimos cuatro meses",
-      "url": "https://elpais.com/economia/2026-08-05/el-precio-de-la-gasolina-en-espana-sube-por-quinta-semana-consecutiva-y-se-acerca-a-su-maximo-anual.html",
-      "published_at": "2026-08-05T14:48:21+00:00",
-      "category": "economia",
-      "priority": 72,
-      "title_fa": "El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual",
-      "summary_fa": "El diésel también se encarece hasta los 1,79 euros por litro, el dato más elevado de los últimos cuatro meses",
-      "impact_fa": "",
-      "ai_translated": false
-    },
-    {
-      "id": "6f11ef7fcf2f",
-      "source": "EL PAÍS España",
-      "title": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
-      "summary": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
-      "url": "https://elpais.com/espana/2026-08-04/mueren-al-menos-17-migrantes-al-tratar-de-alcanzar-las-costas-de-baleares.html",
-      "published_at": "2026-08-04T17:47:06+00:00",
-      "category": "sociedad",
-      "priority": 72,
-      "title_fa": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
-      "summary_fa": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
-      "impact_fa": "",
-      "ai_translated": false
-    },
-    {
       "id": "a16ad766a344",
       "source": "La Vanguardia",
       "title": "El socialista El Sayed vence al establishment demócrata en las primarias del Senado",
@@ -278,6 +250,20 @@
       "priority": 71,
       "title_fa": "Del volcán de Fuego a la sequía europea, las imágenes del día",
       "summary_fa": "La actualidad internacional deja una jornada marcada por los fenómenos naturales, los conflictos armados, los movimientos migratorios y la vida cotidiana en distintos rincones del planeta. Estas imágenes recogen algunos de los acontecimientos más destacados del día, desde las evacuaciones por la erupción del volcán de Fuego en Guatemala hasta las consecuencias de la guerra en Ucrania, la sequía en Europa o las altas temperaturas que afectan a bue",
+      "impact_fa": "",
+      "ai_translated": false
+    },
+    {
+      "id": "07f05eceb49d",
+      "source": "EL PAÍS",
+      "title": "El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual",
+      "summary": "El diésel también se encarece hasta los 1,79 euros por litro, el dato más elevado de los últimos cuatro meses",
+      "url": "https://elpais.com/economia/2026-08-05/el-precio-de-la-gasolina-en-espana-sube-por-quinta-semana-consecutiva-y-se-acerca-a-su-maximo-anual.html",
+      "published_at": "2026-08-05T14:48:21+00:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual",
+      "summary_fa": "El diésel también se encarece hasta los 1,79 euros por litro, el dato más elevado de los últimos cuatro meses",
       "impact_fa": "",
       "ai_translated": false
     },
@@ -390,6 +376,20 @@
       "priority": 71,
       "title_fa": "Marruecos procesa a 86 personas por organizar cruces irregulares en Ceuta y Melilla",
       "summary_fa": "La justicia les imputa delitos relacionados con la salida clandestina del país, transporte de pasajeros sin licencia o agresiones a los miembros de las fuerzas de seguridad",
+      "impact_fa": "",
+      "ai_translated": false
+    },
+    {
+      "id": "6f11ef7fcf2f",
+      "source": "EL PAÍS España",
+      "title": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
+      "summary": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
+      "url": "https://elpais.com/espana/2026-08-04/mueren-al-menos-17-migrantes-al-tratar-de-alcanzar-las-costas-de-baleares.html",
+      "published_at": "2026-08-04T17:47:06+00:00",
+      "category": "sociedad",
+      "priority": 71,
+      "title_fa": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
+      "summary_fa": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
       "impact_fa": "",
       "ai_translated": false
     },
@@ -1151,7 +1151,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 142
+      "count": 143
     },
     {
       "source": "EL PAÍS España",
