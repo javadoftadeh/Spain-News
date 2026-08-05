@@ -25,12 +25,12 @@ jobs:
       - name: Collect, translate and publish
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_MODEL: gemini-3.5-flash-lite
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_MIN_PRIORITY: "78"
           TELEGRAM_MAX_POSTS: "3"
-          MAX_AI_TRANSLATIONS: "12"
+          MAX_AI_TRANSLATIONS: "3"
         run: python scripts/pipeline.py
       - name: Commit data and delivery state
         run: |
