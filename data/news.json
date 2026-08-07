@@ -1,18 +1,75 @@
 {
-  "generated_at": "2026-08-07T10:31:22.168943+00:00",
+  "generated_at": "2026-08-07T11:28:43.420429+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "6ac3a48e7c7b",
+    "a0eb2f0a5dbb",
     "ad52954a3c24",
+    "6ac3a48e7c7b",
     "70675c20d1cf",
-    "13b3802c4b33",
-    "d579eb740a23"
+    "13b3802c4b33"
   ],
   "items": [
     {
+      "id": "a0eb2f0a5dbb",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno da un ultimátum a Italia para que retire los controles en frontera a los viajeros procedentes de España",
+      "summary": "El Ejecutivo ha registrado ya a 1.342 menores en Ceuta: “Van a ser atendidos todos” | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HRTNLD7K2ZGFBBNXEPACRYGHB4.jpg?auth=73d5c067ea5eee7a94f92d432ea5906741ff8fc65c5499315cff08f5c5c611bd",
+      "published_at": "2026-08-07T11:01:09+00:00",
+      "category": "politica",
+      "priority": 89,
+      "title_fa": "بحران مهاجرت در سئوتا و اولتیماتوم دولت به ایتالیا درباره مرزها",
+      "lead_fa": "دولت اسپانیا ثبت‌نام هزاران مهاجر خردسال را در سئوتا آغاز کرد و از رسیدگی به وضعیت تمامی آن‌ها خبر داد. همزمان، مادرید به ایتالیا درباره برقراری کنترل‌های مرزی اولتیماتوم داد.",
+      "key_points_fa": [
+        "ثبت‌نام و رسیدگی به وضعیت ۱,۳۴۲ خردسال مهاجر در سئوتا.",
+        "اولتیماتوم دولت اسپانیا به ایتالیا برای برداشتن کنترل‌های مرزی مسافران.",
+        "حضور و پاسخگویی وزرای کلیدی اسپانیا در کنگره درباره بحران سئوتا."
+      ],
+      "analysis_fa": "این تحولات نشان‌دهنده چالش‌های همزمان دولت اسپانیا در مدیریت بحران‌های مهاجرتی داخلی و تنش‌های دیپلماتیک درون‌اروپایی بر سر کنترل‌های مرزی است. حضور وزیران مختلف در پارلمان بیانگر ابعاد گسترده سیاسی و امنیتی این مسائل برای دولت مرکزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#اسپانیا",
+        "#مهاجرت",
+        "#ایتالیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ad52954a3c24",
+      "source": "EL PAÍS",
+      "title": "Robles, Marlaska, Bolaños y Albares comparecerán a finales de agosto en el Congreso por la crisis en Ceuta",
+      "summary": "El Gobierno comunica al Senado que ignorará las citas que el PP había fijado a los ministros de Interior, Defensa y Exteriores para la semana próxima",
+      "url": "https://elpais.com/espana/2026-08-07/el-gobierno-pide-la-comparecencia-de-marlaska-albares-robles-y-bolanos-en-el-congreso-por-la-crisis-en-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GVQCLKNOQNCQJDRCV7IWE7UEGQ.jpg?auth=28a1aaf848817e7443c9d60e43936f6e0112627d52b31cd0169c78060a27b185",
+      "published_at": "2026-08-07T11:22:50+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "فراخوان ۴ وزیر اسپانیایی به مجلس برای پاسخگویی درباره بحران سبته",
+      "lead_fa": "دولت اسپانیا درخواست حضور وزیران دفاع، کشور، خارجه و ریاست‌جمهوری را در کنگره ارائه داد. این نشست‌ها برای اواخر ماه اوت برنامه‌ریزی شده‌اند.",
+      "key_points_fa": [
+        "حضور وزیر دفاع در تاریخ ۲۵ اوت در مجلس",
+        "سخنرانی وزیر ریاست‌جمهوری در تاریخ ۲۷ اوت",
+        "حضور وزیران کشور و خارجه در تاریخ ۲۸ اوت"
+      ],
+      "analysis_fa": "این فراخوان‌ها در پی بحران اخیر در شهر سبته انجام شده و نشان‌دهنده تلاش اپوزیسیون و پارلمان برای شفاف‌سازی عملکرد بخش‌های مختلف دولت در مدیریت این وضعیت است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "6ac3a48e7c7b",
       "source": "La Vanguardia",
-      "title": "El PP responde al Gobierno citando en el Senado a tres ministros por Ceuta a mediados de agosto",
+      "title": "El PP cita en el Senado a tres ministros por Ceuta a partir de la semana que viene",
       "summary": "Los populares aseguran que “no puede ser” que el Ejecutivo “pretenda dar las explicaciones casi un mes después de una de las mayores crisis de seguridad” y llaman ya a Marlaska, Robles y Albares",
       "url": "https://www.lavanguardia.com/politica/20260807/11609573/pp-responde-gobierno-citando-senado-tres-ministros-ceuta-mediados-agosto.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/01/6a6e693107a7b.jpeg",
@@ -38,36 +95,8 @@
       "editorial_version": 2
     },
     {
-      "id": "ad52954a3c24",
-      "source": "EL PAÍS",
-      "title": "Robles, Marlaska, Bolaños y Albares comparecerán a finales de agosto en el Congreso por la crisis en Ceuta",
-      "summary": "Los populares quieren anticiparse y citan a los ministros de Interior, Defensa y Exteriores la próxima semana en el Senado",
-      "url": "https://elpais.com/espana/2026-08-07/el-gobierno-pide-la-comparecencia-de-marlaska-albares-robles-y-bolanos-en-el-congreso-por-la-crisis-en-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GVQCLKNOQNCQJDRCV7IWE7UEGQ.jpg?auth=28a1aaf848817e7443c9d60e43936f6e0112627d52b31cd0169c78060a27b185",
-      "published_at": "2026-08-07T09:04:00+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "فراخوان ۴ وزیر اسپانیایی به مجلس برای پاسخگویی درباره بحران سبته",
-      "lead_fa": "دولت اسپانیا درخواست حضور وزیران دفاع، کشور، خارجه و ریاست‌جمهوری را در کنگره ارائه داد. این نشست‌ها برای اواخر ماه اوت برنامه‌ریزی شده‌اند.",
-      "key_points_fa": [
-        "حضور وزیر دفاع در تاریخ ۲۵ اوت در مجلس",
-        "سخنرانی وزیر ریاست‌جمهوری در تاریخ ۲۷ اوت",
-        "حضور وزیران کشور و خارجه در تاریخ ۲۸ اوت"
-      ],
-      "analysis_fa": "این فراخوان‌ها در پی بحران اخیر در شهر سبته انجام شده و نشان‌دهنده تلاش اپوزیسیون و پارلمان برای شفاف‌سازی عملکرد بخش‌های مختلف دولت در مدیریت این وضعیت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "70675c20d1cf",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La crisis migratoria de Ceuta abre grietas entre los partidos de Marruecos que exigen una investigación por las muertes",
       "summary": "La oposición islamista y de izquierdas se enfrentan al Gobierno a pocas semanas de las elecciones legislativas",
       "url": "https://elpais.com/internacional/2026-08-07/la-crisis-migratoria-de-ceuta-abre-grietas-entre-los-partidos-de-marruecos-que-exigen-una-investigacion-por-las-muertes.html",
@@ -123,61 +152,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d579eb740a23",
-      "source": "La Vanguardia",
-      "title": "Moscú manipula la carrera al Elíseo",
-      "summary": "Alerta en Francia por las 'fake news' difamadoras contra varios aspirantes a la presidencia",
-      "url": "https://www.lavanguardia.com/internacional/20260807/11609081/moscu-manipula-carrera-eliseo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a758d5559a14.jpeg",
-      "published_at": "2026-08-07T06:00:00+02:00",
-      "category": "politica",
-      "priority": 81,
-      "title_fa": "هشدار در فرانسه نسبت به انتشار اخبار جعلی علیه نامزدهای ریاست‌جمهوری",
-      "lead_fa": "مقام‌های فرانسوی نسبت به کمپین اخبار جعلی و تخریب‌گرانه علیه نامزدهای انتخابات ریاست‌جمهوری ابراز نگرانی کرده‌اند. این اقدامات مشکوک با هدف تاثیرگذاری بر روند رقابت‌های انتخاباتی در حال بررسی است.",
-      "key_points_fa": [
-        "ابراز نگرانی در فرانسه درباره انتشار اخباری جعلی و مخدوش‌کننده علیه نامزدهای کاخ الیزه",
-        "بررسی ابعاد مختلف این عملیات رسانه‌ای و تلاش برای مقابله با اطلاعات نادرست"
-      ],
-      "analysis_fa": "افزایش جریان اخبار جعلی در آستانه رقابت‌های انتخاباتی، چالش جدی نهادهای نظارتی برای حفظ سلامت انتخابات و اعتماد عمومی است. این وضعیت نشان‌دهنده آسیب‌پذیری فضا‌ی دیجیتال در برابر مداخلات احتمالی خارجی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#فرانسه",
-        "#اخبار_جعلی",
-        "#انتخابات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "cc678ef5fe96",
-      "source": "La Vanguardia",
-      "title": "Muere un migrante que cayó al mar tras intentar entrar a Ceuta en parapente",
-      "summary": "El suceso se ha producido en la mañana de este viernes con origen en las montañas de Benzú",
-      "url": "https://www.lavanguardia.com/politica/20260807/11609611/muere-migrante-cayo-mar-intentar-entrar-ceuta-parapente.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/05/17/60a2a3ef58e52.r_d.3362-3875-0.jpeg",
-      "published_at": "2026-08-07T11:04:00+02:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "جان باختن یک مهاجر پس از سقوط در دریا حین تلاش برای ورود به سئوتا با پاراگلایدر",
-      "lead_fa": "یک مهاجر روز جمعه پس از سقوط به دریا در جریان تلاش برای ورود غیرقانونی به سئوتا جان خود را از دست داد. این حادثه صبح روز جمعه و پس از حرکت از ارتفاعات بنزو رخ داد.",
-      "key_points_fa": [
-        "حادثه در صبح روز جمعه رخ داده است",
-        "تلاش برای ورود به سئوتا با استفاده از پاراگلایدر انجام شده است",
-        "مبدا حرکت مهاجر کوه‌های بنزو بوده است"
-      ],
-      "analysis_fa": "استفاده از روش‌های غیرمتعارف مانند پاراگلایدر برای عبور از مرزهای سخت‌گیرانه سئوتا نشان‌دهنده افزایش ریسک‌پذیری مهاجران در مواجهه با موانع زمینی است. این رویدادها فشارها بر نیروهای مرزبانی و امنیتی را در مناطق مرزی اسپانیا افزایش می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e83fca7bc7ba",
       "source": "La Vanguardia",
       "title": "Los drones ucranianos lanzan el ataque más lejano contra un Wildberries, a 2.300 km",
@@ -215,42 +189,21 @@
       "published_at": "2026-08-07T10:10:18+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Viaje entre las llamas de Ávila: fuego, destrucción y caos en el mayor incendio de la historia de España",
-      "lead_fa": "Las llamas arrasan el sur abulense tras iniciarse en Burgohondo y abrasar unas 50.000 hectáreas en cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd51b1ab04ce",
-      "source": "La Vanguardia",
-      "title": "Más de 400 llamadas al 112 por el episodio de lluvias en Catalunya",
-      "summary": "Protecció Civil desactiva la alerta Inuncat tras las intensas tormentas del jueves",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260807/11609539/mas-400-llamadas-112-episodio-lluvias-catalunya.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a759378308e9.jpeg",
-      "published_at": "2026-08-07T09:55:33+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "پایان هشدار سیل در کاتالونیا پس از صدها تماس اضطراری",
-      "lead_fa": "پس از بارش‌های شدید پنجشنبه در کاتالونیا، مرکز امداد بیش از ۴۰۰ تماس دریافت کرد. نهاد دفاع مدنی این منطقه وضعیت هشدار سیل را لغو کرد.",
+      "title_fa": "بزرگترین آتش‌سوزی تاریخ اسپانیا در آویلا",
+      "lead_fa": "بزرگترین آتش‌سوزی تاریخ اسپانیا حدود ۵۰ هزار هکتار از اراضی جنوب آویلا را نابود کرد. این حریق پس از پنج روز تلاش و از سرگیری شعله‌ها از منطقه بورگوهوندو به بار آمد.",
       "key_points_fa": [
-        "ثبت بیش از ۴۰۰ تماس با شماره اضطراری ۱۱۲",
-        "وقوع تووفان‌های شدید در روز پنجشنبه",
-        "غیرفعال شدن هشدار سیل (Inuncat) توسط دفاع مدنی"
+        "آغاز آتش‌سوزی از منطقه بورگوهوندو در جنوب آویلا",
+        "تخریب حدود ۵۰ هزار هکتار اراضی طی پنج روز",
+        "ثبت این حادثه به عنوان بزرگترین آتش‌سوزی تاریخ اسپانیا"
       ],
-      "analysis_fa": "بارش‌های اخیر و طوفان‌های ناگهانی بار دیگر آسیب‌پذیری زیرساخت‌های شهری کاتالونیا در برابر حوادث جوی را نشان داد. واکنش سریع نهادهای امدادی و مدیریت بحران توانست مانع از بروز خسارات جبران‌ناپذیر شود، اما این رویدادها چالش‌های تغییرات اقلیمی برای مدیریت شهری را برجسته‌تر می‌کند.",
+      "analysis_fa": "این فاجعه زیست‌محیطی نشان‌دهنده چالش‌های فزاینده مدیریت بحران در برابر حریق‌های گسترده تحت تأثیر شرایط جوی است. گستردگی خسارات، مقامات را با پرسش‌های جدی درباره کارایی برنامه‌های پیشگیرانه و اطفای حریق مواجه کرده است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
-        "#سیل",
-        "#کاتالونیا",
-        "#هواشناسی"
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#محیط‌زیست",
+        "#آویلا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -340,6 +293,99 @@
       "editorial_version": 2
     },
     {
+      "id": "a18af8892669",
+      "source": "La Vanguardia",
+      "title": "PP y Vox se alinean en cumplir la ley, pero buscan mecanismos legales para rechazar la acogida de los menores",
+      "summary": "Los populares exigen que el Gobierno cumpla con la legalidad y trate con Marruecos el retorno de los migrantes",
+      "url": "https://www.lavanguardia.com/politica/20260807/11609679/pp-vox-alinean-cumplir-ley-buscan-mecanismos-legales-rechazar-acogida-menores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/20/6a5e0807294a7.jpeg",
+      "published_at": "2026-08-07T12:43:05+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "موضع حزب مردمی و ووکس درباره پذیرش اقلیت‌های مهاجر",
+      "lead_fa": "حزب مردمی و ووکس بر اجرای قانون تاکید دارند. آن‌ها به‌دنبال راهکارهای قانونی برای رد پذیرش اقلیت‌های مهاجر هستند.",
+      "key_points_fa": [
+        "تاکید احزاب بر لزوم رعایت قانون در پذیرش مهاجران",
+        "درخواست از دولت برای گفت‌وگو با مراکش درباره بازگرداندن مهاجران"
+      ],
+      "analysis_fa": "این موضع‌گیری نشان‌دهنده تلاش احزاب مخالف برای اعمال فشار بر دولت در زمینه مدیریت مهاجرت و جستجوی ابزارهای حقوقی جدید است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجرت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "61a4d1596e88",
+      "source": "La Vanguardia",
+      "title": "El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta",
+      "summary": "La ministra Rego anuncia que el 16 de agosto un equipo se trasladará a la ciudad con el objetivo de priorizar el retorno familiar de los menores con garantías",
+      "url": "https://www.lavanguardia.com/politica/20260807/11609669/gobierno-cifra-1-342-menores-acogidos-momento-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75617a83ba3.r_d.2735-1496-0.jpeg",
+      "published_at": "2026-08-07T12:04:05+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta",
+      "lead_fa": "La ministra Rego anuncia que el 16 de agosto un equipo se trasladará a la ciudad con el objetivo de priorizar el retorno familiar de los menores con garantías",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "11c260db336e",
+      "source": "EL PAÍS",
+      "title": "Las ONG de Marruecos elevan a 141 la cifra de muertos a ambos lados de la frontera de Ceuta",
+      "summary": "La Asociación Marroquí de Derechos Humanos recopila datos oficiales y de organizaciones humanitarias",
+      "url": "https://elpais.com/espana/2026-08-07/las-ong-de-marruecos-elevan-a-141-la-cifra-de-muertos-a-ambos-lados-de-la-frontera-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3A6MZOVB7BGSTDDKVH752T64JU.jpg?auth=0c6623bc6ba2ff1ad4631dec6757f852fd2cd832f5fe0223a41ab244f8e5618a",
+      "published_at": "2026-08-07T10:54:27+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "Las ONG de Marruecos elevan a 141 la cifra de muertos a ambos lados de la frontera de Ceuta",
+      "lead_fa": "La Asociación Marroquí de Derechos Humanos recopila datos oficiales y de organizaciones humanitarias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3fde2d6eaf32",
+      "source": "EL PAÍS",
+      "title": "Planifica Madrid actualiza su agenda una vez que El País publica que la mantenía oculta desde el 26 de marzo",
+      "summary": "La empresa pública se dispone ahora a resolver el apagón informativo, aunque limita la información relativa a la compra del ático de Chamberí a la siguiente anotación: “FIRMA NOTARIA. 14:00. EXTERNA”",
+      "url": "https://elpais.com/espana/madrid/2026-08-07/planifica-madrid-actualiza-su-agenda-una-vez-que-el-pais-publica-que-la-mantenia-oculta-desde-el-26-de-marzo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z4VOZIXRBBHM3LPEBSVQKGW2XQ.jpg?auth=22376cc34d175266fd40557c43c5a9aef6c3df1ab14eac7603305b3954b094d9",
+      "published_at": "2026-08-07T10:52:42+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Planifica Madrid actualiza su agenda una vez que El País publica que la mantenía oculta desde el 26 de marzo",
+      "lead_fa": "La empresa pública se dispone ahora a resolver el apagón informativo, aunque limita la información relativa a la compra del ático de Chamberí a la siguiente anotación: “FIRMA NOTARIA. 14:00. EXTERNA”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fc2c54944bbd",
       "source": "EL PAÍS",
       "title": "El empleo en el turismo crece un 5,4% en el segundo trimestre por la mejora de la actividad",
@@ -364,15 +410,37 @@
     {
       "id": "6b91de363772",
       "source": "EL PAÍS",
-      "title": "El PSOE denunciará ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
+      "title": "El PSOE denuncia ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
       "summary": "Óscar López anuncia medidas legales contra el consejo de administración de Planifica Madrid para aclarar la adquisición por más de seis millones del inmueble de lujo",
       "url": "https://elpais.com/espana/2026-08-07/el-psoe-denunciara-ante-la-justicia-la-compra-del-atico-del-gobierno-de-ayuso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MSFP4MVRURELFDABNMD6AFLRFY.jpg?auth=b5be99ed17d3c0ed53c9e4b74a0db814d4931eb9c4e183942105ac56cd70a31a",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202653_095930_video_1800.mp4",
       "published_at": "2026-08-07T09:15:08+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El PSOE denunciará ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
+      "title_fa": "El PSOE denuncia ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
       "lead_fa": "Óscar López anuncia medidas legales contra el consejo de administración de Planifica Madrid para aclarar la adquisición por más de seis millones del inmueble de lujo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e5a545c00106",
+      "source": "EL PAÍS España",
+      "title": "Interior saca pecho ante la UE por su lucha contra las mafias de inmigración irregular con una macrooperación con 78 detenidos",
+      "summary": "La Guardia Civil y la Policía Nacional desarticulan una organización que ganó más de 24 millones de euros por trasladar a más de 2.000 personas en 64 viajes a España",
+      "url": "https://elpais.com/espana/2026-08-07/interior-saca-pecho-ante-la-ue-de-su-lucha-contra-las-mafias-de-inmigracion-irregular-con-una-macrooperacion-con-78-detenidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/77F3PFSYTVA2HCXV7UP3M4IDY4.jpg?auth=9379a4bd90430f1317d0e0dc4316baf79825d2dec0ffc3718a7d31aa02305353",
+      "published_at": "2026-08-07T09:08:14+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "Interior saca pecho ante la UE por su lucha contra las mafias de inmigración irregular con una macrooperación con 78 detenidos",
+      "lead_fa": "La Guardia Civil y la Policía Nacional desarticulan una organización que ganó más de 24 millones de euros por trasladar a más de 2.000 personas en 64 viajes a España",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -523,14 +591,14 @@
       "id": "09e4b3c68aa7",
       "source": "EL PAÍS",
       "title": "La compra de viviendas en junio pone fin a cinco meses de caídas al crecer un 1,6%",
-      "summary": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE",
+      "summary": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE, unas 10.000 menos que en 2025",
       "url": "https://elpais.com/economia/2026-08-07/la-compra-de-viviendas-en-junio-pone-fin-a-cinco-meses-de-caidas-al-crecer-un-16.html",
       "image": "https://imagenes.elpais.com/resizer/v2/3DN56O7HORG75F7IFOMJ4W34Y4.jpg?auth=2656f4019bc929886f707bdd85ffc614412d20514870371f7671a9f5c8acb36f",
       "published_at": "2026-08-07T07:14:02+00:00",
       "category": "economia",
       "priority": 74,
       "title_fa": "La compra de viviendas en junio pone fin a cinco meses de caídas al crecer un 1,6%",
-      "lead_fa": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE",
+      "lead_fa": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE, unas 10.000 menos que en 2025",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -730,30 +798,8 @@
       "editorial_version": 2
     },
     {
-      "id": "4e22e6465391",
-      "source": "EL PAÍS",
-      "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "summary": "Hasta abril, la empresa pública mantenía un registro detallado de todos los eventos, reuniones, homenajes, firmas de contratos o visitas previstas para el mes, pero desde entonces no consta ningún acto",
-      "url": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260803/1201431_161406_video_1800.mp4",
-      "published_at": "2026-08-07T03:30:01+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
-      "lead_fa": "Hasta abril, la empresa pública mantenía un registro detallado de todos los eventos, reuniones, homenajes, firmas de contratos o visitas previstas para el mes, pero desde entonces no consta ningún acto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2fd7eedaaf02",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
       "summary": "Los especialistas en rescates en el mar de la Guardia Civil ya estaban desbordados en las primeras horas del jueves, el día que se produjo la gran avalancha en la ciudad autónoma",
       "url": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
@@ -884,6 +930,50 @@
       "editorial_version": 2
     },
     {
+      "id": "6565eed7cc47",
+      "source": "La Vanguardia",
+      "title": "Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio",
+      "summary": "El acuerdo, que se firmará hoy, consolida la creación de un eje de poder suní en un momento marcado por la guerra de Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260807/11609650/turquia-arabia-saudita-pakistan-forjan-nuevo-pacto-defensa-plenas-tensiones-oriente-medio.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/11/14/6372b259dd66c.r_d.2788-1432-0.jpeg",
+      "published_at": "2026-08-07T12:04:41+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio",
+      "lead_fa": "El acuerdo, que se firmará hoy, consolida la creación de un eje de poder suní en un momento marcado por la guerra de Irán",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8ebf5b584933",
+      "source": "La Vanguardia",
+      "title": "Calor intenso en puntos de la península y tormentas en el interior para el fin de semana",
+      "summary": "Se registrarán temperaturas de más de 40 grados, aunque en las zonas del interior del país se esperan fuertes temporales, incluso con granizo",
+      "url": "https://www.lavanguardia.com/vida/20260807/11609636/calor-intenso-puntos-peninsula-tormentas-interior-semana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f82cea64d6.r_d.5491-2108-0.jpeg",
+      "published_at": "2026-08-07T11:43:40+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Calor intenso en puntos de la península y tormentas en el interior para el fin de semana",
+      "lead_fa": "Se registrarán temperaturas de más de 40 grados, aunque en las zonas del interior del país se esperan fuertes temporales, incluso con granizo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "4d29a5120184",
       "source": "La Vanguardia",
       "title": "El PSOE denunciará ante la Fiscalía de delitos económicos la compra del ático de Ayuso",
@@ -950,16 +1040,38 @@
       "editorial_version": 2
     },
     {
+      "id": "11dbb2bb9895",
+      "source": "EL PAÍS",
+      "title": "Más de 3.400 fallecidos por las altas temperaturas desde junio: “Vamos camino de uno de los veranos más mortíferos”",
+      "summary": "Transcurrida apenas una semana de agosto, este verano ya es el tercero más mortal en una década",
+      "url": "https://elpais.com/sociedad/2026-08-07/el-verano-mas-caluroso-de-nuestras-vidas-vamos-camino-de-uno-de-los-mas-mortiferos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PKUJXL72WZEUZIB7C4TDG54CQQ.jpg?auth=f7568720df710b936cceb0af17e01d47bd98fd48fba972db149a559dbcf6d720",
+      "published_at": "2026-08-07T10:41:05+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Más de 3.400 fallecidos por las altas temperaturas desde junio: “Vamos camino de uno de los veranos más mortíferos”",
+      "lead_fa": "Transcurrida apenas una semana de agosto, este verano ya es el tercero más mortal en una década",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "88061373c63d",
       "source": "La Vanguardia",
-      "title": "Desmantelada una de las mayores redes de tráfico de personas y drogas de España: hay 78 detenidos",
+      "title": "Desmantelada un peligrosa red que traficaba con migrantes y drogas entre España y Argelia",
       "summary": "Hay 78 detenidos que a introdujeron forma irregular a más de 2.000 personas y obtuvieron beneficios superiores a los 24 millones de euros",
       "url": "https://www.lavanguardia.com/sucesos/20260807/11609582/desmantelada-mayores-redes-trafico-personas-drogas-espana-78-detenidos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/29/6888c5eecbbb0.r_d.512-374-0.jpeg",
       "published_at": "2026-08-07T10:33:44+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Desmantelada una de las mayores redes de tráfico de personas y drogas de España: hay 78 detenidos",
+      "title_fa": "Desmantelada un peligrosa red que traficaba con migrantes y drogas entre España y Argelia",
       "lead_fa": "Hay 78 detenidos que a introdujeron forma irregular a más de 2.000 personas y obtuvieron beneficios superiores a los 24 millones de euros",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1084,14 +1196,14 @@
     {
       "id": "094c03724a86",
       "source": "EL PAÍS",
-      "title": "El mensaje de Paula Echeverría por su cumpleaños: “Cumplo 49 en un momento difícil y con mucho dolor”",
+      "title": "El mensaje de Paula Echevarría por su cumpleaños: “Cumplo 49 en un momento difícil y con mucho dolor”",
       "summary": "La actriz celebrará su aniversario en Candás tras el fallecimiento de su padre hace una semana. “Hoy estaré muy atenta a tu señal papá, sé que encontrarás la forma de hacerlo”, ha dicho en Instagram",
       "url": "https://elpais.com/gente/2026-08-07/el-mensaje-de-paula-echeverria-por-sus-cumpleanos-cumplo-49-en-un-momento-dificil-y-con-mucho-dolor.html",
       "image": "https://imagenes.elpais.com/resizer/v2/74YAAHQUQBBO7AFCB45KELWNCM.jpg?auth=e48f777c32a3d27fc0aad51e15428f0cfca61e63220556c8f8052bafb3053c0f",
       "published_at": "2026-08-07T08:55:17+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El mensaje de Paula Echeverría por su cumpleaños: “Cumplo 49 en un momento difícil y con mucho dolor”",
+      "title_fa": "El mensaje de Paula Echevarría por su cumpleaños: “Cumplo 49 en un momento difícil y con mucho dolor”",
       "lead_fa": "La actriz celebrará su aniversario en Candás tras el fallecimiento de su padre hace una semana. “Hoy estaré muy atenta a tu señal papá, sé que encontrarás la forma de hacerlo”, ha dicho en Instagram",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1134,97 +1246,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/PDJKTSE74NOCJDURMVWEF57WFU.jpg?auth=78ccddb1f1de90711350d52a741fba61be3faaaa15f8e4e53a3e79a7395d9e60",
       "published_at": "2026-08-06T17:15:49+00:00",
       "category": "politica",
-      "priority": 70,
+      "priority": 69,
       "title_fa": "Vox no romperá los gobiernos autonómicos con el PP aunque acepten el reparto de menores extranjeros",
       "lead_fa": "El secretario general del grupo ultra en el Congreso, José María Figaredo, dice que “hay que cazar de uno en uno” a los inmigrantes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "765165b32747",
-      "source": "La Vanguardia",
-      "title": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
-      "summary": "En lo que va de año han llegado al archipiélago balear 219 pateras con 4.145 inmigrantes en situación irregular",
-      "url": "https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/04/66dab5a9ae984.r_d.821-806-0.jpeg",
-      "published_at": "2026-08-07T08:42:26+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
-      "lead_fa": "En lo que va de año han llegado al archipiélago balear 219 pateras con 4.145 inmigrantes en situación irregular",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "37fbca84d8e8",
-      "source": "La Vanguardia",
-      "title": "Un estudiante deja seis muertos en un instituto de Tailandia, tras asesinar a sus abuelos, y se suicida",
-      "summary": "El quinceañero habría disparado contra profesores y alumnos del centro antes de suicidarse",
-      "url": "https://www.lavanguardia.com/sucesos/20260807/11609495/seis-muertos-15-heridos-tiroteo-escuela-tailandia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75901b0930c.jpeg",
-      "published_at": "2026-08-07T07:29:43+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Un estudiante deja seis muertos en un instituto de Tailandia, tras asesinar a sus abuelos, y se suicida",
-      "lead_fa": "El quinceañero habría disparado contra profesores y alumnos del centro antes de suicidarse",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cbdde9b94409",
-      "source": "La Vanguardia",
-      "title": "El pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
-      "summary": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260807/11607600/bausen-pequeno-pueblo-aranes-cementerio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71c44222616.r_d.1060-707-0.jpeg",
-      "published_at": "2026-08-07T07:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
-      "lead_fa": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "410dee071524",
-      "source": "La Vanguardia",
-      "title": "Del gran eclipse al sol de medianoche: fenómenos que invitan a hacer la maleta",
-      "summary": "Presenciar eventos astronómicos que solo pueden observarse desde determinados lugares y en momentos concretos es una experiencia cada vez más buscada",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260807/11608253/gran-eclipse-sol-medianoche-fenomenos-invitan-maleta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a730c846f667.r_d.1042-853-0.jpeg",
-      "published_at": "2026-08-07T06:53:31+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Del gran eclipse al sol de medianoche: fenómenos que invitan a hacer la maleta",
-      "lead_fa": "Presenciar eventos astronómicos que solo pueden observarse desde determinados lugares y en momentos concretos es una experiencia cada vez más buscada",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1269,6 +1293,50 @@
       "priority": 69,
       "title_fa": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
       "lead_fa": "El organismo asegura que los efectos de la “perturbación energética” ocasionada por la guerra en Irán no se han “materializado aún plenamente”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cbdde9b94409",
+      "source": "La Vanguardia",
+      "title": "Bausen, el pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
+      "summary": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260807/11607600/bausen-pequeno-pueblo-aranes-cementerio.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71c44222616.r_d.1060-707-0.jpeg",
+      "published_at": "2026-08-07T07:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Bausen, el pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
+      "lead_fa": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "410dee071524",
+      "source": "La Vanguardia",
+      "title": "Del gran eclipse al sol de medianoche: fenómenos que invitan a hacer la maleta",
+      "summary": "Presenciar eventos astronómicos que solo pueden observarse desde determinados lugares y en momentos concretos es una experiencia cada vez más buscada",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260807/11608253/gran-eclipse-sol-medianoche-fenomenos-invitan-maleta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a730c846f667.r_d.1042-853-0.jpeg",
+      "published_at": "2026-08-07T06:53:31+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Del gran eclipse al sol de medianoche: fenómenos que invitan a hacer la maleta",
+      "lead_fa": "Presenciar eventos astronómicos que solo pueden observarse desde determinados lugares y en momentos concretos es una experiencia cada vez más buscada",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1524,14 +1592,14 @@
     {
       "id": "493c11c0b4a6",
       "source": "La Vanguardia",
-      "title": "“Todo está escrito, estamos predestinados”",
+      "title": "David Foenkinos: “Todo está escrito, estamos predestinados”",
       "summary": "David Foenkinos novela en ‘Todos aman a Clara’ el don de clarividencia tras una experiencia traumática",
       "url": "https://www.lavanguardia.com/cultura/20260807/11609264/esta-escrito-predestinados.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74bf6f177d9.r_d.1612-1236-0.jpeg",
       "published_at": "2026-08-07T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "“Todo está escrito, estamos predestinados”",
+      "title_fa": "David Foenkinos: “Todo está escrito, estamos predestinados”",
       "lead_fa": "David Foenkinos novela en ‘Todos aman a Clara’ el don de clarividencia tras una experiencia traumática",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1555,6 +1623,28 @@
       "priority": 68,
       "title_fa": "“Ahora los hijos no acaban de irse de casa, su habitación queda llena y no dejas de ayudarlos”: ¿sigue existiendo el síndrome del nido vacío?",
       "lead_fa": "Los cambios sociales de la actualidad impactan sobre experiencias emocionales que en otras épocas se vivían con más intensidad, como la emancipación de los hijos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e89181b0b6b2",
+      "source": "La Vanguardia",
+      "title": "Así fueron los dos meses más críticos por el error de Catalunya en PISA",
+      "summary": "La OCDE deliberó con sus órganos técnicos si el país cumplía con los estándares internacionales antes de tomar una decisión final",
+      "url": "https://www.lavanguardia.com/vida/20260807/11609242/asi-dos-meses-mas-criticos-error-catalunya-pisa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74b627dad82.r_d.2899-2424-0.jpeg",
+      "published_at": "2026-08-07T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Así fueron los dos meses más críticos por el error de Catalunya en PISA",
+      "lead_fa": "La OCDE deliberó con sus órganos técnicos si el país cumplía con los estándares internacionales antes de tomar una decisión final",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1808,28 +1898,6 @@
       "editorial_version": 2
     },
     {
-      "id": "33e1066310d3",
-      "source": "EL PAÍS",
-      "title": "La hora de la solidaridad con Ceuta",
-      "summary": "El reparto por la Península de los 1.200 menores inmigrantes que colapsan los recursos de la ciudad es una obligación legal y moral",
-      "url": "https://elpais.com/opinion/2026-08-07/la-hora-de-la-solidaridad-con-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N4GNVJ575REC7KM7BGAP2RGIOQ.jpg?auth=0b95892e91357f55139d6ccbb238ad12326fef2ec1200ec866917eb46a663a67",
-      "published_at": "2026-08-07T03:30:01+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "La hora de la solidaridad con Ceuta",
-      "lead_fa": "El reparto por la Península de los 1.200 menores inmigrantes que colapsan los recursos de la ciudad es una obligación legal y moral",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "bcf8bbdc7c0b",
       "source": "EL PAÍS Economía",
       "title": "Jaime Barea (Ganvam): “Habrá que esperar para ver si las marcas chinas son capaces de retener a los clientes”",
@@ -1918,28 +1986,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0d37e9bd4c80",
-      "source": "EL PAÍS España",
-      "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
-      "summary": "La ministra de Juventud e Infancia acaba de llegar a la ciudad autónoma y anuncia en una entrevista con EL PAÍS que el traslado de los menores a las comunidades será inminente",
-      "url": "https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RBZCCWKPCRDTXOXACGRABF2HNI.jpg?auth=48040d7e58a3e0cefe72fae7596af832e1c65b3daa462f27694b9779b3746ae6",
-      "published_at": "2026-08-06T19:31:23+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
-      "lead_fa": "La ministra de Juventud e Infancia acaba de llegar a la ciudad autónoma y anuncia en una entrevista con EL PAÍS que el traslado de los menores a las comunidades será inminente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "37d65b6e0fb2",
       "source": "EL PAÍS Economía",
       "title": "Los empleos del futuro ponen a prueba la inclusión laboral de las personas con discapacidad",
@@ -1973,6 +2019,28 @@
       "priority": 65,
       "title_fa": "Rodri, vaya golpe de efecto",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0d37e9bd4c80",
+      "source": "EL PAÍS España",
+      "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
+      "summary": "La ministra de Juventud e Infancia acaba de llegar a la ciudad autónoma y anuncia en una entrevista con EL PAÍS que el traslado de los menores a las comunidades será inminente",
+      "url": "https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RBZCCWKPCRDTXOXACGRABF2HNI.jpg?auth=48040d7e58a3e0cefe72fae7596af832e1c65b3daa462f27694b9779b3746ae6",
+      "published_at": "2026-08-06T19:31:23+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
+      "lead_fa": "La ministra de Juventud e Infancia acaba de llegar a la ciudad autónoma y anuncia en una entrevista con EL PAÍS que el traslado de los menores a las comunidades será inminente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2116,72 +2184,6 @@
       "editorial_version": 2
     },
     {
-      "id": "81c3f0129c35",
-      "source": "EL PAÍS España",
-      "title": "Más de 1.750 menores extranjeros han sido derivados desde Canarias, Ceuta y Melilla en un año",
-      "summary": "Las comunidades de la Península no han dejado de acoger niños y adolescentes desde que se aprobó la norma en agosto de 2025",
-      "url": "https://elpais.com/espana/2026-08-06/mas-de-1750-menores-extranjeros-han-sido-derivados-desde-canarias-ceuta-y-melilla-en-un-ano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XFO4HMB6LZC35KEBQ2PSL7H2NY.jpg?auth=6efc5f08aab51adb7e26313b864baacc856d1cbb007e52f4f01ab13c2f467fcf",
-      "published_at": "2026-08-06T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 65,
-      "title_fa": "Más de 1.750 menores extranjeros han sido derivados desde Canarias, Ceuta y Melilla en un año",
-      "lead_fa": "Las comunidades de la Península no han dejado de acoger niños y adolescentes desde que se aprobó la norma en agosto de 2025",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d73cf02240ff",
-      "source": "EL PAÍS España",
-      "title": "Ocaso en la frontera de la buena vecindad entre Ceuta y Marruecos",
-      "summary": "En la ciudad, que alberga cuatro culturas, se añoran los años del paso fluido hacia Marruecos, enrarecido ahora con la migración y moribundo desde la pandemia",
-      "url": "https://elpais.com/espana/2026-08-06/ocaso-en-la-frontera-de-la-buena-vecindad-entre-ceuta-y-marruecos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M6G7CSGQIFBWNCG2ALYGB6PJXQ.jpg?auth=13f61f41b3d719cbb90443fdb6048546e6e67a9a8a6070acdfe32f260a9be263",
-      "published_at": "2026-08-06T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 65,
-      "title_fa": "Ocaso en la frontera de la buena vecindad entre Ceuta y Marruecos",
-      "lead_fa": "En la ciudad, que alberga cuatro culturas, se añoran los años del paso fluido hacia Marruecos, enrarecido ahora con la migración y moribundo desde la pandemia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3f6107e4044e",
-      "source": "EL PAÍS España",
-      "title": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
-      "summary": "EL PAÍS accede a grupos de WhatsApp que coordinan las batidas contra los extranjeros",
-      "url": "https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZVNNL3FUERE3VCDABTHJC37OC4.jpg?auth=de4bcfa9aa597859113f8c67bdf4f34cce9a8553f67412ccd2fd58198d8a7c3a",
-      "published_at": "2026-08-06T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 65,
-      "title_fa": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
-      "lead_fa": "EL PAÍS accede a grupos de WhatsApp que coordinan las batidas contra los extranjeros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "fc12d86e1bfd",
       "source": "La Vanguardia",
       "title": "Los Mossos detienen al presunto autor del homicidio de Nou Barris",
@@ -2190,7 +2192,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74bd8ed80e0.jpeg",
       "published_at": "2026-08-06T16:24:42+02:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Los Mossos detienen al presunto autor del homicidio de Nou Barris",
       "lead_fa": "La víctima, que fue apuñalada, había iniciado una relación sentimental con la expareja del detenido",
       "key_points_fa": [],
@@ -2234,7 +2236,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CURKZBY4EFBJFN4QOF346BYNRQ.jpg?auth=658db604d1f28eff94e9e86f0b7a069cdaca6a49bd6c39d99a7eda4801b33d8d",
       "published_at": "2026-08-06T07:49:42+00:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Un juzgado cita como investigado al CEO de Vodafone España por el caso Finetwork",
       "lead_fa": "José Miguel García tendrá que declarar por presunta administración desleal tras la querella del fundador de la compañía alicantina de telecomunicaciones",
       "key_points_fa": [],
@@ -2292,17 +2294,17 @@
       "editorial_version": 2
     },
     {
-      "id": "6cb71a7944d8",
-      "source": "EL PAÍS España",
-      "title": "El Rey recibirá en Mallorca al presidente de Ceuta una semana después de la avalancha migratoria",
-      "summary": "La Zarzuela matiza que la reciente felicitación de Felipe VI a Mohamed VI por la Fiesta del Trono fue protocolaria",
-      "url": "https://elpais.com/espana/2026-08-05/el-rey-recibira-en-mallorca-al-presidente-de-ceuta-una-semana-despues-de-la-avalancha-migratoria.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/532FWZRKDBLRVKGZUXFEQBD2O4.jpg?auth=865c301afd7f409836cd2aedfcfe1e0a486f6856cc5c5022b86197c70b0f37fc",
-      "published_at": "2026-08-05T18:27:29+00:00",
-      "category": "sociedad",
+      "id": "8f36e687a3b7",
+      "source": "EL PAÍS Economía",
+      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "summary": "El tribunal confirma el criterio de la Agencia Tributaria de que la artista utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010",
+      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/G42AZCS7JJFTDN5O7DHMJEJI3U.jpg?auth=5c0a80c2d65b8d5f01c535f3fef2704fad0282a4d114c5bb5134190c59a79557",
+      "published_at": "2026-08-05T03:45:01+00:00",
+      "category": "politica",
       "priority": 57,
-      "title_fa": "El Rey recibirá en Mallorca al presidente de Ceuta una semana después de la avalancha migratoria",
-      "lead_fa": "La Zarzuela matiza que la reciente felicitación de Felipe VI a Mohamed VI por la Fiesta del Trono fue protocolaria",
+      "title_fa": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
+      "lead_fa": "El tribunal confirma el criterio de la Agencia Tributaria de que la artista utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2343,7 +2345,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 152
     },
     {
       "source": "EL PAÍS España",
@@ -2358,7 +2360,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 136
+      "count": 135
     }
   ]
 }
