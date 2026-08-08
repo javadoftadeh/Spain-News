@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T10:48:35.159926+00:00",
+  "generated_at": "2026-08-08T11:39:03.255494+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "4c967ad54410",
     "6d403af46c7e",
-    "ee62cbae127a",
     "5514af060a8c",
-    "b731072ad7fe"
+    "b731072ad7fe",
+    "795010d8c949"
   ],
   "items": [
     {
@@ -63,34 +63,6 @@
         "#ایتالیا",
         "#مهاجرت",
         "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ee62cbae127a",
-      "source": "La Vanguardia",
-      "title": "Preocupación máxima en Valencia por el riesgo de incendios en el eclipse",
-      "summary": "La Generalitat decreta el nivel 3 de preemergencia, prohíbe el tránsito de personas por senderos y campo a través en terreno forestal y restringe zonas de acampada para los días 11 y 12",
-      "url": "https://www.lavanguardia.com/local/valencia/20260808/11609943/preocupacion-maxima-valencia-riesgo-incendios-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760090b1e30.r_d.2969-2345-0.jpeg",
-      "published_at": "2026-08-08T05:20:00+02:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "آماده‌باش در والنسیا به دلیل خطر آتش‌سوزی همزمان با رویداد نجومی",
-      "lead_fa": "دولت محلی والنسیا بالاترین سطح هشدار پیش از بحران را برای روزهای ۱۱ و ۱۲ اعلام کرد. این تصمیم پس از افزایش خطر آتش‌سوزی در مناطق جنگلی اتخاذ شد.",
-      "key_points_fa": [
-        "اعلام سطح ۳ پیش‌آمدگی برای خطر آتش‌سوزی در والنسیا",
-        "ممنوعیت تردد افراد در مسیرهای جنگلی و خارج از جاده",
-        "محدودیت در مناطق کمپینگ برای روزهای ۱۱ و ۱۲"
-      ],
-      "analysis_fa": "محدودیت‌های اعمال شده از سوی دولت محلی والنسیا نشان‌دهنده رویکرد پیشگیرانه برای جلوگیری از حوادث طبیعی در ایام خاص است که تردد عمومی را به‌طور موقت تغییر می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#آتش_سوزی",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -216,7 +188,7 @@
       "summary": "Los equipos de control fronterizo decidirán sobre la marcha si revisan vuelos completos o a algunos pasajeros, según Interior | La medida se alargará en principio hasta el 7 de septiembre",
       "url": "https://elpais.com/espana/2026-08-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/SA6NT7BRFJDJFETRJ6NN5LN7BY.jpeg?auth=9c2be248734691b76c30f80b4e06ed5cabf5b5af3440ed439cf38ee94a7128ee",
-      "published_at": "2026-08-08T10:46:20+00:00",
+      "published_at": "2026-08-08T11:14:31+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "آغاز کنترل‌های مرزی جدید در اسپانیا و آخرین تحولات مهاجرتی در سبته",
@@ -317,6 +289,34 @@
         "#سئوتا",
         "#مهاجرت",
         "#اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ffe5f1d99409",
+      "source": "EL PAÍS",
+      "title": "Un millón en la basura: la doble suerte de una familia italiana que ganó la lotería y tiró el boleto a la papelera",
+      "summary": "Los premiados tuvieron que pagar 10.000 euros por las tareas de búsqueda a la empresa pública de recolección de residuos, que inspeccionó seis toneladas de desperdicios bajo vigilancia policial",
+      "url": "https://elpais.com/sociedad/2026-08-08/un-millon-en-la-basura-la-doble-suerte-de-una-familia-italiana-que-gano-la-loteria-y-tiro-el-boleto-a-la-papelera.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3MNN2XEPNRF6TK7HQG4YXMKKDM.jpg?auth=08a149e5e9478e85e9bc66aacd2f861ee967dbe5fd78dd1a5b60febb5aa2843c",
+      "published_at": "2026-08-08T11:16:22+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "پیدا شدن بلیط برنده یک میلیون یورویی در سطل زباله در ایتالیا",
+      "lead_fa": "یک خانواده ایتالیایی پس از گم کردن بلیط بخت‌آزمایی برنده یک میلیون یورو، آن را در زباله‌ها پیدا کردند. شرکت مدیریت پسماند برای جستجوی این بلیط ۱۰ هزار یورو دستمزد دریافت کرد.",
+      "key_points_fa": [
+        "بلیط برنده بخت‌آزمایی به اشتباه به سطل زباله اندخته شده بود.",
+        "شرکت عمومی جمع‌آوری زباله برای یافتن بلیط، ۶ تن زباله را با نظارت پلیس بازرسی کرد.",
+        "خانواده برنده ناچار شدند ۱۰ هزار یورو هزینه جستجو به این شرکت پرداخت کنند."
+      ],
+      "analysis_fa": "این حادثه نادر نشان‌دهنده اهمیت دقت در حفظ اسناد مالی و نقش خدمات شهری در حل مشکلات شهروندان است. اقدام شرکت پسماند با نظارت پلیس، فرآیند بازیابی دارایی از دست رفته را ممکن ساخت، اما هزینه‌ای قابل توجه برای برندگان به همراه داشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#اخبار_جهانی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -913,6 +913,34 @@
       "editorial_version": 2
     },
     {
+      "id": "594b1cf8c04f",
+      "source": "EL PAÍS",
+      "title": "Del hotel en la pandemia al ático de la Comunidad de Madrid: las polémicas de Ayuso con las viviendas",
+      "summary": "La presidenta de la Comunidad de Madrid se ha visto obligada a dar explicaciones en al menos cinco ocasiones por irregularidades en el uso de diferentes viviendas",
+      "url": "https://elpais.com/videos/2026-08-08/del-hotel-en-la-pandemia-al-atico-de-la-comunidad-de-madrid-las-polemicas-de-ayuso-con-las-viviendas.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202724_133809_video_1800.mp4",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "جنجال‌های مسکن ایزابل دیاز آیوسو در مادرید",
+      "lead_fa": "رئیس منطقه مادرید تاکنون بارها درباره مسائل مرتبط با اقامتگاه‌های خود توضیح داده است. این موضوع به یکی از چالش‌های سیاسی او تبدیل شده است.",
+      "key_points_fa": [
+        "ایزابل دیاز آیوسو دست‌کم پنج بار درباره وضعیت مسکن خود ناچار به پاسخگویی شده است.",
+        "این جنجال‌ها شامل اقامت در هتلی در دوران همه‌گیری کرونا و ماجرای پنت‌هاوس مرتبط با شریک زندگی اوست."
+      ],
+      "analysis_fa": "مسئله مسکن و نحوه استفاده از آن یکی از حوزه‌های حساس در سیاست اسپانیاست که می‌تواند بر جایگاه مقام‌های ارشد تأثیر بگذارد. مخالفان سیاسی از این پرونده‌ها برای زیر سوال بردن شفافیت مالی و اخلاقی دولت محلی مادرید استفاده می‌کنند، در حالی که حامیان او این اتهامات را سیاسی می‌دانند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آیوسو",
+        "#مادرید",
+        "#اسپانیا",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "a541643e3cf0",
       "source": "EL PAÍS",
       "title": "El comité de empresa de Telemadrid denuncia la contratación “irregular” del chófer del director general",
@@ -965,28 +993,6 @@
         "#ساندرا_فالکو"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5533080a1a75",
-      "source": "EL PAÍS",
-      "title": "Quiénes son los Mahomes: cómo Patrick y Brittany transformaron el éxito deportivo en una fortuna y valor seguro para las marcas",
-      "summary": "Contratos millonarios, impecable imagen familiar y copropietarios de uno de los clubes de fútbol femenino más importantes de EE UU. La fama del matrimonio, que tiene tres hijos en común, ha traspasado fronteras por su amistad con Taylor Swift y Travis Kelce",
-      "url": "https://elpais.com/gente/2026-08-08/quienes-son-los-mahomes-como-patrick-y-brittany-transformaron-el-exito-deportivo-en-una-fortuna-y-valor-seguro-para-las-marcas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/37BV7YHBIVG7ZCVEUTRVXHWNEA.jpg?auth=984ad51f674a00e31d54c6ce91f7d628d56d169d1a6775e0f0bb892d08a473b0",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 73,
-      "title_fa": "Quiénes son los Mahomes: cómo Patrick y Brittany transformaron el éxito deportivo en una fortuna y valor seguro para las marcas",
-      "lead_fa": "Contratos millonarios, impecable imagen familiar y copropietarios de uno de los clubes de fútbol femenino más importantes de EE UU. La fama del matrimonio, que tiene tres hijos en común, ha traspasado fronteras por su amistad con Taylor Swift y Travis Kelce",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1135,6 +1141,28 @@
       "editorial_version": 2
     },
     {
+      "id": "a53f03e9f7ed",
+      "source": "La Vanguardia",
+      "title": "Interceptan a 30 migrantes llegados en patera a Formentera y Cabrera",
+      "summary": "En lo que va de semana han llegado 21 pateras con 360 ocupantes a Baleares",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610323/interceptan-30-migrantes-llegados-patera-formentera-cabrera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/08/08/64d2142f36749.r_d.2214-2846-0.jpeg",
+      "published_at": "2026-08-08T12:12:24+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Interceptan a 30 migrantes llegados en patera a Formentera y Cabrera",
+      "lead_fa": "En lo que va de semana han llegado 21 pateras con 360 ocupantes a Baleares",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d797fb32a09d",
       "source": "La Vanguardia",
       "title": "Barcelona envía más de 15.000 notificaciones de multa a personas extranjeras en el 2025",
@@ -1157,34 +1185,12 @@
       "editorial_version": 2
     },
     {
-      "id": "d4e50da81088",
-      "source": "La Vanguardia",
-      "title": "Lotería Nacional, hoy sábado 8 de agosto | Sigue el sorteo y consulta los premios, en directo",
-      "summary": "La Lotería Nacional reparte hoy sábado reparte 60.000 euros por décimo premiado con el primer premio",
-      "url": "https://www.lavanguardia.com/loterias/20260808/11610280/loteria-nacional-sorteo-hoy-sabado-8-de-agosto-resultado-premios-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/06/23/62b480a87f396.jpeg",
-      "published_at": "2026-08-08T11:00:06+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Lotería Nacional, hoy sábado 8 de agosto | Sigue el sorteo y consulta los premios, en directo",
-      "lead_fa": "La Lotería Nacional reparte hoy sábado reparte 60.000 euros por décimo premiado con el primer premio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b3f450e7a87d",
       "source": "EL PAÍS",
       "title": "Todd Blanche, el candidato de Trump, se convierte en fiscal general tras una votación ajustada en el Senado",
       "summary": "El voto del senador republicano Bill Cassidy, enemistado con el presidente estadounidense, fue decisivo en el trámite final",
       "url": "https://elpais.com/internacional/2026-08-08/todd-blanche-el-candidato-de-trump-logra-la-nominacion-como-fiscal-general-tras-una-votacion-ajustada-en-el-senado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JIK7HELSCRLW7GMFOO7QY66SYE.jpg?auth=f9703bb75b692ed5f4a67196558aa613f03ce568633a081284a2264a7e958262",
+      "image": "https://imagenes.elpais.com/resizer/v2/56WTB72FANCIFADAL5JV6KSCTI.jpg?auth=2f4b85dfa56a3e1335ffb0e9884ae6a6babf3558d9de19af57efbf52298c070f",
       "published_at": "2026-08-08T10:37:09+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -1308,28 +1314,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ca9097c5c3a7",
-      "source": "La Vanguardia",
-      "title": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
-      "summary": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260807/11609977/adif-sensores-trinitat-vella-control-vibraciones-obras-vallbona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760698cc5a8.r_d.3664-2818-0.jpeg",
-      "published_at": "2026-08-07T19:10:32+02:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
-      "lead_fa": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "09e4b3c68aa7",
       "source": "EL PAÍS Economía",
       "title": "La compra de viviendas en junio pone fin a cinco meses de caídas al crecer un 1,6%",
@@ -1380,6 +1364,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ca9097c5c3a7",
+      "source": "La Vanguardia",
+      "title": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
+      "summary": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260807/11609977/adif-sensores-trinitat-vella-control-vibraciones-obras-vallbona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760698cc5a8.r_d.3664-2818-0.jpeg",
+      "published_at": "2026-08-07T19:10:32+02:00",
+      "category": "economia",
+      "priority": 69,
+      "title_fa": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
+      "lead_fa": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "5f20b38dd19b",
       "source": "La Vanguardia",
       "title": "Araújo jugará cedido en el Liverpool",
@@ -1388,7 +1394,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/05/69d245ee461e5.r_d.2298-1333-0.jpeg",
       "published_at": "2026-08-08T07:03:31+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Araújo jugará cedido en el Liverpool",
       "lead_fa": "A falta de la oficialidad el conjunto de Anfield se hará cargo del montante total de la ficha del defensa del Barça tras llegar a un acuerdo verbal",
       "key_points_fa": [],
@@ -1429,7 +1435,7 @@
       "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
       "summary": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
       "url": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a76f93b6655e.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75e929639ac.r_d.694-281-0.jpeg",
       "published_at": "2026-08-08T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
@@ -2018,28 +2024,6 @@
       "editorial_version": 2
     },
     {
-      "id": "55b0802e865e",
-      "source": "EL PAÍS",
-      "title": "Prudencia en la respuesta proteccionista",
-      "summary": "La defensa de la producción europea tiene sentido en el nuevo contexto global de competencia entre bloques",
-      "url": "https://elpais.com/opinion/2026-08-08/prudencia-en-la-respuesta-proteccionista.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LKANDUGAZRMK6WI5FY474RMW2Y.jpg?auth=79a3a680517a9abfa3ce2f51936b132818cc26b4cf3cbb27e929cac6e5df5c4c",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Prudencia en la respuesta proteccionista",
-      "lead_fa": "La defensa de la producción europea tiene sentido en el nuevo contexto global de competencia entre bloques",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "72f77ea8c751",
       "source": "EL PAÍS",
       "title": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
@@ -2274,7 +2258,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2462,6 +2446,32 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "d4e50da81088",
+      "source": "La Vanguardia",
+      "title": "Lotería Nacional: comprobar resultado en directo del sorteo de hoy sábado 8 de agosto",
+      "summary": "La Lotería Nacional ha repartido hoy sábado 60.000 euros por décimo premiado con el primer premio",
+      "url": "https://www.lavanguardia.com/loterias/20260808/11610280/loteria-nacional-sorteo-hoy-sabado-8-de-agosto-resultado-premios-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/06/23/62b480a62e93e.r_d.609-214-0.jpeg",
+      "published_at": "2026-08-08T11:00:06+02:00",
+      "category": "sociedad",
+      "priority": 50,
+      "title_fa": "نتایج قرعه‌کشی بخت‌آزمایی ملی اسپانیا",
+      "lead_fa": "قرعه‌کشی بخت‌آزمایی ملی اسپانیا امروز برگزار شد. این قرعه‌کشی جوایزی را برای برندگان به همراه داشت.",
+      "key_points_fa": [
+        "برگزاری قرعه‌کشی بخت‌آزمایی ملی در روز شنبه هشتم اوت",
+        "اختصاص جایزه ۶۰ هزار یورویی به هر دهم برنده جایزه اول"
+      ],
+      "analysis_fa": "بخت‌آزمایی ملی اسپانیا یکی از سنت‌های قدیمی و پرمخاطب در این کشور است که به صورت هفتگی برگزار می‌شود و توجه بسیاری از شهروندان را به خود جلب می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بخت_آزمایی",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2493,7 +2503,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 148
+      "count": 151
     },
     {
       "source": "EL PAÍS España",
@@ -2508,7 +2518,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 138
+      "count": 139
     }
   ]
 }
