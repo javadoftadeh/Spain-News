@@ -1,43 +1,14 @@
 {
-  "generated_at": "2026-08-08T13:09:25.358459+00:00",
+  "generated_at": "2026-08-08T13:54:58.935267+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "4c967ad54410",
     "6d403af46c7e",
+    "10e6575a9496",
     "5514af060a8c",
     "b731072ad7fe",
     "795010d8c949"
   ],
   "items": [
-    {
-      "id": "4c967ad54410",
-      "source": "La Vanguardia",
-      "title": "Arden Sierra de Engarcerán, Culla y Tírig y obliga a confinar masías y uno de los municipios",
-      "summary": "Los incendios del interior de Castellón obligan a desalojar a 91 personas por el incendio que afecta a un total de 45 hectáreas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260808/11610290/arden-sierra-engarceran-culla-tirig-fuegos-obligan-confinar-masias-municipios.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a76dfae9a8f8.r_d.540-960-0.jpeg",
-      "published_at": "2026-08-08T10:03:02+02:00",
-      "category": "sociedad",
-      "priority": 91,
-      "title_fa": "آتش‌سوزی گسترده در کاستلون و دستور به قرنطینه برخی مناطق",
-      "lead_fa": "آتش‌سوزی‌های جنگلی در مناطق داخلی کاستلون اواخر وقت دیروز آغاز شد. تیم‌های اضطراری و ارتش تمام طول شب گذشته را برای مهار آتش تلاش کردند.",
-      "key_points_fa": [
-        "آغاز آتش‌سوزی در ساعات پایانی عصر در مناطق سیرا د انگارسیران، کویا و تیریگ",
-        "مشارکت واحدهای اضطراری و نظامی (UME) در عملیات مهار آتش",
-        "دستور به قرنطینه برخی خانه‌های روستایی (ماسیاها) و یکی از شهرداری‌ها به دلیل شدت حریق"
-      ],
-      "analysis_fa": "این آتش‌سوزی نشان‌دهنده تداوم خطر حریق‌های جنگلی در مناطق داخلی کاستلون است که نیازمند واکنش سریع نهادهای امدادی و به‌کارگیری نیروهای ویژه نظامی برای جلوگیری از گسترش آن به مناطق مسکونی شده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "breaking",
-      "hashtags_fa": [
-        "#آتش‌سوزی",
-        "#کاستلون",
-        "#اسپانیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "6d403af46c7e",
       "source": "EL PAÍS",
@@ -63,6 +34,34 @@
         "#ایتالیا",
         "#مهاجرت",
         "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "10e6575a9496",
+      "source": "EL PAÍS",
+      "title": "Muere Jorge Messi, padre de Leo Messi, a los 68 años",
+      "summary": "El empresario y también agente del futbolista argentino luchaba desde hace tiempo contra una enfermedad",
+      "url": "https://elpais.com/deportes/futbol/2026-08-08/muere-jorge-messi-padre-de-leo-messi-a-los-68-anos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I5ZMC5FLNREZDD7JVU4JC3YEUE.jpg?auth=3dfeee6669f40e10d5cb4e96a966cba82e0e46b7ded2c97c112e179f2dcf1ff2",
+      "published_at": "2026-08-08T13:23:10+00:00",
+      "category": "sociedad",
+      "priority": 82,
+      "title_fa": "درگذشت خورخه مسی، پدر و مدیر برنامه‌های لیونل مسی",
+      "lead_fa": "خورخه مسی، پدر و مدیر برنامه‌های ستاره فوتبال آرژانتین، در سن ۶۸ سالگی درگذشت. او مدت‌ها با یک بیماری دست‌وپنجه نرم می‌کرد.",
+      "key_points_fa": [
+        "خورخه مسی ۶۸ سال داشت.",
+        "او علاوه بر نقش پدری، به عنوان مدیر برنامه‌های لیونل مسی نیز فعالیت می‌کرد.",
+        "وی مدت‌ها با بیماری مبارزه می‌کرد."
+      ],
+      "analysis_fa": "خورخه مسی نقش کلیدی در مسیر حرفه‌ای لیونل مسی، به ویژه در دوران کودکی و انتقال او به بارسلونا داشت و مدیریت امور مالی و ورزشی او را بر عهده گرفت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#لیونل_مسی",
+        "#خورخه_مسی",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -184,11 +183,11 @@
     {
       "id": "14169ff71576",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Primeros controles a viajeros desde Italia: “A los que no tenían DNI les han llevado a otra sala para identificarles”",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Primeros controles a viajeros desde Italia: “A los que no tenían DNI los han llevado a otra sala para identificarles”",
       "summary": "Los equipos de control fronterizo decidirán sobre la marcha si revisan vuelos completos o a algunos pasajeros, según Interior | Vivas dice que la situación en Ceuta es “absolutamente insostenible” y pide el retorno a Marruecos “de todos los que entraron”",
       "url": "https://elpais.com/espana/2026-08-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EH3GF3WJDBCELOUW7QJVV3FCTU.jpg?auth=53a0ea0703cc9467331d9af8392524c936917d9d03cf616d30f19929437ef97c",
-      "published_at": "2026-08-08T12:41:39+00:00",
+      "published_at": "2026-08-08T13:29:07+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "آغاز کنترل‌های مرزی جدید در اسپانیا و آخرین تحولات مهاجرتی در سبته",
@@ -1194,6 +1193,34 @@
       "editorial_version": 2
     },
     {
+      "id": "7441fb1bb7e9",
+      "source": "La Vanguardia",
+      "title": "Así son los controles a pie de avión procedente de Italia: centrados en ciudadanos de terceros países",
+      "summary": "Los agentes fronterizos están llevando a cabo la supervisión de forma aleatoria, no sistemática, sin que conlleve una desviación del flujo de pasajeros a una zona de control fronterizo exterior.",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610367/asi-son-controles-pie-avion-procedente-italia-centrados-ciudadanos-terceros-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7729e225dd0.jpeg",
+      "published_at": "2026-08-08T15:05:12+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "کنترل‌های تصادفی مرزی در پروازهای ایتالیا",
+      "lead_fa": "ماموران مرزی اسپانیا نظارت بر مسافران پروازهای ورودی از ایتالیا را آغاز کرده‌اند. این بازرسی‌ها به صورت تصادفی و غیرسیستماتیک انجام می‌شود.",
+      "key_points_fa": [
+        "کنترل‌ها به صورت تصادفی و غیرسیستماتیک انجام می‌شوند.",
+        "این نظارت‌ها تمرکز خود را بر شهروندان کشورهای ثالث معطوف کرده‌اند.",
+        "بازرسی‌ها مسافران را به مناطق کنترل مرزی خارج از مسیر هدایت نمی‌کند."
+      ],
+      "analysis_fa": "اجرای این بازرسی‌های تصادفی نشان‌دهنده افزایش حساسیت‌های امنیتی و نظارتی در مرزهای هوایی است، بدون اینکه روند عادی جابجایی مسافران دچار اختلال جدی شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#کنترل_مرزی",
+        "#ایتالیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "fc7f6ca42887",
       "source": "La Vanguardia",
       "title": "Un conductor atropella a seis ciclistas, da la vuelta y les vuelve a pasar por encima en Italia",
@@ -1229,10 +1256,39 @@
       "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610358/ferran-comunica-barca-quiere-irse-psg.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a76e8225d528.r_d.3247-2824-0.jpeg",
       "published_at": "2026-08-08T14:12:05+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "Ferran comunica al Barça que quiere irse al PSG",
-      "lead_fa": "El delantero desea marcharse y el club barcelonista espera la oferta del club francés para negociar",
+      "title_fa": "تمایل فران تورس برای جدایی از بارسلونا و پیوستن به پاری سن ژرمن",
+      "lead_fa": "فران تورس، مهاجم بارسلونا، تمایل خود را برای ترک این باشگاه ابراز کرده است. مدیران بارسلونا اکنون منتظر دریافت پیشنهاد رسمی باشگاه فرانسوی برای آغاز مذاکرات هستند.",
+      "key_points_fa": [
+        "اعلام تمایل فران تورس برای ترک بارسلونا",
+        "چشم‌دوختن باشگاه بارسلونا به پیشنهاد پاری سن ژرمن",
+        "آمادگی دو باشگاه برای انجام مذاکرات احتمالی"
+      ],
+      "analysis_fa": "این تصمیم می‌تواند توازن خط حمله بارسلونا را تحت تأثیر قرار دهد و باشگاه را ناچار به جستجوی گزینه‌های جایگزین در بازار نقل‌وانتقالات کند. با این حال، سرنوشت نهایی این انتقال به مبلغ و شرایط پیشنهاد رسمی پاری سن ژرمن بستگی خواهد داشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#فران_تورس",
+        "#بارسلونا",
+        "#پاری_سن_ژرمن",
+        "#نقل_وانتقالات"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "afc91f34c3f2",
+      "source": "EL PAÍS",
+      "title": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
+      "summary": "Ninguno de los dos países detectó el aparato antes de que cayera en un campo. Alemania investiga el avistamiento de dos aviones no tripulados sobre una base militar tras el incidente del aeropuerto de Leipzig",
+      "url": "https://elpais.com/internacional/2026-08-08/un-dron-con-explosivos-procedente-de-rumania-se-estrella-cerca-de-un-gasoducto-en-bulgaria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GQBDVTWJGRPSHOIEULTX77KCEI.jpg?auth=bced74dbb61affec7e2f3a782be5cdd72d1b2c25562e85e34072ae5789f6f44a",
+      "published_at": "2026-08-08T13:51:08+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
+      "lead_fa": "Ninguno de los dos países detectó el aparato antes de que cayera en un campo. Alemania investiga el avistamiento de dos aviones no tripulados sobre una base militar tras el incidente del aeropuerto de Leipzig",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1519,7 +1575,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3472f7adb5f.r_d.1033-581-0.jpeg",
       "published_at": "2026-08-08T06:23:01+02:00",
       "category": "cultura",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
       "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
       "key_points_fa": [],
@@ -1687,6 +1743,28 @@
       "editorial_version": 2
     },
     {
+      "id": "0b2e160396e4",
+      "source": "La Vanguardia",
+      "title": "Desde Egipto hasta Toledo: un viaje con Rilke",
+      "summary": "Uno de los grandes poetas nómadas de la historia emprendió una serie de rutas por Europa y el norte de África con las que se sobrepuso de una época turbulenta. Así pudo completar ‘Elegías de Duino’ y los ‘Sonetos a Orfeo’, uno de los grandes ciclos poéticos de todos los tiempos",
+      "url": "https://www.lavanguardia.com/cultura/culturas/20260808/11606772/viaje-rilke.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a748e6beabdd.r_d.1499-1407-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 67,
+      "title_fa": "Desde Egipto hasta Toledo: un viaje con Rilke",
+      "lead_fa": "Uno de los grandes poetas nómadas de la historia emprendió una serie de rutas por Europa y el norte de África con las que se sobrepuso de una época turbulenta. Así pudo completar ‘Elegías de Duino’ y los ‘Sonetos a Orfeo’, uno de los grandes ciclos poéticos de todos los tiempos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1420de5ac289",
       "source": "La Vanguardia",
       "title": "Más turistas y menos ‘jodechinchos’",
@@ -1753,17 +1831,17 @@
       "editorial_version": 2
     },
     {
-      "id": "e4e5ebe93bc2",
+      "id": "19c0b993b598",
       "source": "La Vanguardia",
-      "title": "Loli García, la alfarera que resiste con 79 años: “Los dibujos que me enseñó mi abuela a los 8 años seguirán vivos cuando me vaya”",
-      "summary": "Loli García tiene 79 años y se dedica a la alfarería desde niña; sexta generación de este oficio tradicional en Níjar, hoy comparte obrador con sus descendientes y se mantiene tan ilusionada como el primer día",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260808/11597598/loli-garcia-alfarera-resiste-79-anos-dibujos-me-enseno-mi-abuela-8-anos-seguiran-vivos-me.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f573632a39.r_d.673-351-0.jpeg",
+      "title": "Anna Wintour rehabilita a John Galliano en el Met",
+      "summary": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
+      "url": "https://www.lavanguardia.com/gente/20260808/11610016/anna-wintour-rehabilita-john-galliano-met.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b94c91ef600.r_d.3388-1993-0.jpeg",
       "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "cultura",
+      "category": "sociedad",
       "priority": 67,
-      "title_fa": "Loli García, la alfarera que resiste con 79 años: “Los dibujos que me enseñó mi abuela a los 8 años seguirán vivos cuando me vaya”",
-      "lead_fa": "Loli García tiene 79 años y se dedica a la alfarería desde niña; sexta generación de este oficio tradicional en Níjar, hoy comparte obrador con sus descendientes y se mantiene tan ilusionada como el primer día",
+      "title_fa": "Anna Wintour rehabilita a John Galliano en el Met",
+      "lead_fa": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1786,28 +1864,6 @@
       "priority": 67,
       "title_fa": "Cambió una multinacional en Tokio por un restaurante en Barcelona: “Aquí la gente es más feliz”",
       "lead_fa": "Tan, la fundadora de Mikan, cambió la oficina por los fogones y convirtió su historia entre China, Corea y Japón en la esencia de la cocina que sirve en la capital catalana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "19c0b993b598",
-      "source": "La Vanguardia",
-      "title": "Anna Wintour rehabilita a John Galliano en el Met",
-      "summary": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
-      "url": "https://www.lavanguardia.com/gente/20260808/11610016/anna-wintour-rehabilita-john-galliano-met.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b94c91ef600.r_d.3388-1993-0.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Anna Wintour rehabilita a John Galliano en el Met",
-      "lead_fa": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2017,28 +2073,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b89e66845030",
-      "source": "EL PAÍS",
-      "title": "El este de Alemania se rebela contra la reforma de las pensiones de Merz",
-      "summary": "El SPD y los barones de la CDU se oponen a suprimir la jubilación a los 63 años ante el crecimiento electoral de la extrema derecha",
-      "url": "https://elpais.com/internacional/2026-08-08/el-este-de-alemania-se-rebela-contra-la-reforma-de-las-pensiones-de-merz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LGNWD55NWJNT7DIBWBZMJHYICY.jpg?auth=7a9f2975ecf3909dc04bfcca7badd1bb0b358da0611c0810cc2f95cb1fa5b8b0",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El este de Alemania se rebela contra la reforma de las pensiones de Merz",
-      "lead_fa": "El SPD y los barones de la CDU se oponen a suprimir la jubilación a los 63 años ante el crecimiento electoral de la extrema derecha",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "43487e031849",
       "source": "EL PAÍS",
       "title": "Una boya de Mallorca bate el récord de calor en mar abierto del Mediterráneo con 33 grados",
@@ -2094,28 +2128,6 @@
       "priority": 67,
       "title_fa": "Mourinho y Guardiola, tan cerca y tan lejos",
       "lead_fa": "Los entrenadores del Barça y el Madrid partieron el fútbol en dos bandos irreconciliables",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b495dd8d5727",
-      "source": "EL PAÍS",
-      "title": "Rodri cambia de dirección: de su acercamiento al Madrid a ultimar su fichaje por el Barça",
-      "summary": "El mediocentro rechaza la oferta del club blanco y acepta la propuesta del Barcelona, que ya negocia por él, seducido por un estilo futbolístico más parecido al de la Roja y el City y un vestuario con nueve internacionales españoles",
-      "url": "https://elpais.com/deportes/futbol/2026-08-08/rodri-cambia-de-direccion-de-su-acercamiento-al-madrid-a-ultimar-su-fichaje-por-el-barca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2U4PW2SC25CHNDNGMUJN342BRI.jpg?auth=9f32ddde45076f4770f144282a44959f8479b343ac5d520a8ab5e628058f2f55",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "Rodri cambia de dirección: de su acercamiento al Madrid a ultimar su fichaje por el Barça",
-      "lead_fa": "El mediocentro rechaza la oferta del club blanco y acepta la propuesta del Barcelona, que ya negocia por él, seducido por un estilo futbolístico más parecido al de la Roja y el City y un vestuario con nueve internacionales españoles",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2311,7 +2323,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202870_230317_video_1800.mp4",
       "published_at": "2026-08-08T01:45:10+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
       "lead_fa": "Los presidentes Milei, Kast y Noboa asisten a la toma de posesión del nuevo presidente de Colombia, con quienes ha mantenido reuniones bilaterales",
       "key_points_fa": [],
@@ -2333,7 +2345,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2355,31 +2367,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
       "published_at": "2026-08-07T19:40:47+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Inveready y Mayoral asumen el control de Parlem",
       "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9da3098df3f1",
-      "source": "La Vanguardia",
-      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
-      "published_at": "2026-08-07T18:16:05+02:00",
-      "category": "ciencia",
-      "priority": 64,
-      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2499,6 +2489,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "9da3098df3f1",
+      "source": "La Vanguardia",
+      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
+      "published_at": "2026-08-07T18:16:05+02:00",
+      "category": "ciencia",
+      "priority": 63,
+      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2530,7 +2542,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 151
+      "count": 154
     },
     {
       "source": "EL PAÍS España",
@@ -2545,7 +2557,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 136
+      "count": 137
     }
   ]
 }
