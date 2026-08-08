@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:03:09.283611+00:00",
+  "generated_at": "2026-08-08T16:49:39.424421+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -344,6 +344,34 @@
         "#بارسلونا",
         "#اسپانیا",
         "#امنیت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "afc91f34c3f2",
+      "source": "EL PAÍS",
+      "title": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
+      "summary": "Ninguno de los dos países detectó el aparato, que según el Gobierno búlgaro era probablemente ucranio. Alemania investiga el avistamiento de dos aviones no tripulados sobre una base militar",
+      "url": "https://elpais.com/internacional/2026-08-08/un-dron-con-explosivos-procedente-de-rumania-se-estrella-cerca-de-un-gasoducto-en-bulgaria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GQBDVTWJGRPSHOIEULTX77KCEI.jpg?auth=bced74dbb61affec7e2f3a782be5cdd72d1b2c25562e85e34072ae5789f6f44a",
+      "published_at": "2026-08-08T16:37:42+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "سقوط پهپاد انفجاری در نزدیکی خط لوله گاز در بلغارستان",
+      "lead_fa": "یک پهپاد حامل مواد منفجره که از رومانی آمده بود، در نزدیکی یک خط لوله گاز در بلغارستان سقوط کرد. هیچ‌یک از دو کشور نتوانستند این پرنده هدایت‌پذیر از راه دور را پیش از سقوط ردیابی کنند.",
+      "key_points_fa": [
+        "پهپاد از مبدأ رومانی وارد حریم هوایی بلغارستان شده است.",
+        "دولت بلغارستان معتقد است این پهپاد احتمالاً متعلق به اوکراین بوده است.",
+        "آلمان نیز همزمان در حال تحقیق درباره رؤیت دو پهپاد بر فراز یک پایگاه نظامی است."
+      ],
+      "analysis_fa": "این رخداد آسیب‌پذیری حریم هوایی کشورهای اروپایی هم‌مرز یا نزدیک به منطقه درگیری را برجسته می‌کند. عدم رهگیری این پرنده نشان‌دهنده چالش‌های پدافندی در شناسایی تهدیدات در ارتفاع و مقیاس کوچک است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#بلغارستان",
+        "#رومانی",
+        "#پهپاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1222,6 +1250,83 @@
       "editorial_version": 2
     },
     {
+      "id": "f516dc533b64",
+      "source": "La Vanguardia",
+      "title": "Prisión para el presunto autor del homicidio de un hombre en Nou Barris",
+      "summary": "El individuo atacó con un arma blanca en la cara al amante de su exmujer, compañero de ésta en una panadería familiar de Gràcia",
+      "url": "https://www.lavanguardia.com/sucesos/20260808/11610426/prision-presunto-autor-homicidio-hombre-nou-barris.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74bd8ed80e0.jpeg",
+      "published_at": "2026-08-08T18:37:20+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "بازداشت قاتل مردی در نو باریس بارسلونا",
+      "lead_fa": "دادگاهی در بارسلونا حکم زندان موقت برای متهم به قتل یک مرد در منطقه نو باریس صادر کرد. ضحیه با سلاح سرد در محل کارش هدف حمله قرار گرفته بود.",
+      "key_points_fa": [
+        "متهم با سلاح سرد به مقتول حمله کرد.",
+        "این جنایت در رابطه با اختلافات شخصی رخ داده است.",
+        "حمله در یک نانوایی خانوادگی در منطقه گراسیا انجام شد."
+      ],
+      "analysis_fa": "این پرونده نشان‌دهنده ابعاد خشونت‌آمیز در اختلافات خانوادگی و شخصی است که به دخالت نهادهای قضایی و امنیتی انجامیده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#حوادث",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5ff7a0ebf576",
+      "source": "La Vanguardia",
+      "title": "Nueva predicción de la Aemet para el eclipse: las nubes pueden entorpecer la visión en algunas zonas",
+      "summary": "La predicción meteorológica es poco favorable para la observación de este fenómeno en el norte y este peninsular",
+      "url": "https://www.lavanguardia.com/vida/20260808/11610386/tiempo-eclipse-total-de-sol-agosto.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a773a96a3914.jpeg",
+      "published_at": "2026-08-08T16:53:40+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "پیش‌بینی آمت درباره خورشیدگرفتگی: ابرها مانع دید در برخی مناطق",
+      "lead_fa": "سازمان هواشناسی اسپانیا پیش‌بینی کرده است که شرایط جوی برای تماشای خورشیدگرفتگی مساعد نباشد. ابرها ممکن است دید این پدیده را در برخی نقاط مختل کنند.",
+      "key_points_fa": [
+        "پیش‌بینی نامساعد هواشناسی برای رصد خورشیدگرفتگی",
+        "احتمال پوشش ابری در مناطق شمالی و شرقی شبه‌جزیره"
+      ],
+      "analysis_fa": "این پیش‌بینی‌ها مبتنی بر داده‌های جوی فعلی آمت است و نشان می‌دهد شرایط دیداری پدیدههای نجومی به شدت تحت تاثیر الگوهای آب و هوایی محلی قرار دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#هواشناسی",
+        "#نجوم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "35ead25dc117",
+      "source": "EL PAÍS",
+      "title": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
+      "summary": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
+      "url": "https://elpais.com/espana/2026-08-08/primer-dia-de-control-a-los-viajeros-procedentes-de-italia-la-policia-pide-la-documentacion-a-solo-el-5-o-10-de-los-pasajeros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SDWG6MFXCNB7FFL7TI5R3LGALY.jpg?auth=96901d01826ac51db10d7292ae8fa9045f434e7e05aea9aeaed703c0159e8dd7",
+      "published_at": "2026-08-08T16:27:58+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
+      "lead_fa": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "45009c88c7cd",
       "source": "La Vanguardia",
       "title": "El Senado de EE.UU. confirma a Todd Blanche, abogado de Trump, como fiscal general",
@@ -1275,28 +1380,6 @@
         "#تامین_مالی"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "3e095d5b1ecc",
-      "source": "La Vanguardia",
-      "title": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
-      "summary": "El representante del futbolista llevaba años padeciendo una larga enfermedad",
-      "url": "https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77444707619.jpeg",
-      "published_at": "2026-08-08T15:26:20+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
-      "lead_fa": "El representante del futbolista llevaba años padeciendo una larga enfermedad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1378,28 +1461,6 @@
       "editorial_version": 2
     },
     {
-      "id": "35ead25dc117",
-      "source": "EL PAÍS",
-      "title": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
-      "summary": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
-      "url": "https://elpais.com/espana/2026-08-08/primer-dia-de-control-a-los-viajeros-procedentes-de-italia-la-policia-pide-la-documentacion-a-solo-el-5-o-10-de-los-pasajeros.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SDWG6MFXCNB7FFL7TI5R3LGALY.jpg?auth=96901d01826ac51db10d7292ae8fa9045f434e7e05aea9aeaed703c0159e8dd7",
-      "published_at": "2026-08-08T14:33:55+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
-      "lead_fa": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "aa8545514856",
       "source": "La Vanguardia",
       "title": "Ferran comunica al Barça que quiere irse al PSG",
@@ -1426,72 +1487,6 @@
         "#نقل_وانتقالات"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "afc91f34c3f2",
-      "source": "EL PAÍS",
-      "title": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
-      "summary": "Ninguno de los dos países detectó el aparato antes de que cayera en un campo. Alemania investiga el avistamiento de dos aviones no tripulados sobre una base militar tras el incidente del aeropuerto de Leipzig",
-      "url": "https://elpais.com/internacional/2026-08-08/un-dron-con-explosivos-procedente-de-rumania-se-estrella-cerca-de-un-gasoducto-en-bulgaria.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GQBDVTWJGRPSHOIEULTX77KCEI.jpg?auth=bced74dbb61affec7e2f3a782be5cdd72d1b2c25562e85e34072ae5789f6f44a",
-      "published_at": "2026-08-08T13:51:08+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
-      "lead_fa": "Ninguno de los dos países detectó el aparato antes de que cayera en un campo. Alemania investiga el avistamiento de dos aviones no tripulados sobre una base militar tras el incidente del aeropuerto de Leipzig",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "64410edc86af",
-      "source": "EL PAÍS",
-      "title": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
-      "summary": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
-      "url": "https://elpais.com/sociedad/2026-08-08/ingreso-en-prision-sin-fianza-para-el-hombre-que-asesino-a-su-expareja-en-un-centro-comercial-en-murcia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M5WB4JFDYJKOBM4EMYEC6ARZAI.jpg?auth=73f6813f69e0656f8142ca02145a7ef7fadcc9b84afb5099b5bf478819b9d7d4",
-      "published_at": "2026-08-08T13:46:30+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
-      "lead_fa": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fcc4f467b445",
-      "source": "EL PAÍS",
-      "title": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
-      "summary": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
-      "url": "https://elpais.com/deportes/2026-08-08/bouzan-y-llera-se-llevan-un-emocionante-y-disputado-descenso-del-sella-que-estreno-puente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PZS3YIGVLFIO5N4YIA22RU2GRU.jpg?auth=d5009446fe9fe695824ef27d6e449c404275728a707d419529fab26cd78634a9",
-      "published_at": "2026-08-08T13:16:41+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
-      "lead_fa": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1608,6 +1603,94 @@
       "editorial_version": 2
     },
     {
+      "id": "3e095d5b1ecc",
+      "source": "La Vanguardia",
+      "title": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
+      "summary": "El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud",
+      "url": "https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7749e7ad4bd.jpeg",
+      "published_at": "2026-08-08T15:26:20+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
+      "lead_fa": "El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f3831deaea22",
+      "source": "La Vanguardia",
+      "title": "Miel entre las ruinas de Gaza, juegos de agua y otras imágenes del día",
+      "summary": "Abejas en la devastación , deporte y naturaleza: el día en imágenes",
+      "url": "https://www.lavanguardia.com/fotos/20260808/11610295/miel-ruinas-gaza-juegos-agua-imagenes-dia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a771f2783ed3.r_d.3301-3348-0.jpeg",
+      "published_at": "2026-08-08T15:19:02+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Miel entre las ruinas de Gaza, juegos de agua y otras imágenes del día",
+      "lead_fa": "Abejas en la devastación , deporte y naturaleza: el día en imágenes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "64410edc86af",
+      "source": "EL PAÍS",
+      "title": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
+      "summary": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
+      "url": "https://elpais.com/sociedad/2026-08-08/ingreso-en-prision-sin-fianza-para-el-hombre-que-asesino-a-su-expareja-en-un-centro-comercial-en-murcia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M5WB4JFDYJKOBM4EMYEC6ARZAI.jpg?auth=73f6813f69e0656f8142ca02145a7ef7fadcc9b84afb5099b5bf478819b9d7d4",
+      "published_at": "2026-08-08T13:46:30+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
+      "lead_fa": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fcc4f467b445",
+      "source": "EL PAÍS",
+      "title": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
+      "summary": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
+      "url": "https://elpais.com/deportes/2026-08-08/bouzan-y-llera-se-llevan-un-emocionante-y-disputado-descenso-del-sella-que-estreno-puente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PZS3YIGVLFIO5N4YIA22RU2GRU.jpg?auth=d5009446fe9fe695824ef27d6e449c404275728a707d419529fab26cd78634a9",
+      "published_at": "2026-08-08T13:16:41+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
+      "lead_fa": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b510f58763b7",
       "source": "La Vanguardia",
       "title": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
@@ -1704,7 +1787,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3472f7adb5f.r_d.1033-581-0.jpeg",
       "published_at": "2026-08-08T06:23:01+02:00",
       "category": "cultura",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
       "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
       "key_points_fa": [],
@@ -1729,28 +1812,6 @@
       "priority": 66,
       "title_fa": "¿Narcopiso? ¿Qué es eso?",
       "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a6c97b819a2a",
-      "source": "La Vanguardia",
-      "title": "Las restricciones agravan el conflicto por el fondeo en la Costa Brava",
-      "summary": "Los ayuntamientos defienden el balizamiento para proteger bañistas y posidonia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260808/11610020/restricciones-agravan-conflicto-fondeo-costa-brava.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a761b50b1c62.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Las restricciones agravan el conflicto por el fondeo en la Costa Brava",
-      "lead_fa": "Los ayuntamientos defienden el balizamiento para proteger bañistas y posidonia",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1938,28 +1999,6 @@
       "editorial_version": 2
     },
     {
-      "id": "19c0b993b598",
-      "source": "La Vanguardia",
-      "title": "Anna Wintour rehabilita a John Galliano en el Met",
-      "summary": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
-      "url": "https://www.lavanguardia.com/gente/20260808/11610016/anna-wintour-rehabilita-john-galliano-met.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b94c91ef600.r_d.3388-1993-0.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Anna Wintour rehabilita a John Galliano en el Met",
-      "lead_fa": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b0aa983bf0dd",
       "source": "La Vanguardia",
       "title": "Cambió una multinacional en Tokio por un restaurante en Barcelona: “Aquí la gente es más feliz”",
@@ -1971,28 +2010,6 @@
       "priority": 66,
       "title_fa": "Cambió una multinacional en Tokio por un restaurante en Barcelona: “Aquí la gente es más feliz”",
       "lead_fa": "Tan, la fundadora de Mikan, cambió la oficina por los fogones y convirtió su historia entre China, Corea y Japón en la esencia de la cocina que sirve en la capital catalana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "253f8ec49aff",
-      "source": "La Vanguardia",
-      "title": "Jordi Cornelles, presidente de AstroAVA: “Estar con gente multiplicará la emotividad del eclipse”",
-      "summary": "El especialista explica que hay “una enorme expectación e ilusión” por el fenómeno, pero pide prudencia",
-      "url": "https://www.lavanguardia.com/local/valencia/20260808/11609200/jordi-cornelles-presidente-astroava-gente-multiplicara-emotividad-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74a2b87ec30.r_d.595-813-0.jpeg",
-      "published_at": "2026-08-08T05:00:00+02:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "Jordi Cornelles, presidente de AstroAVA: “Estar con gente multiplicará la emotividad del eclipse”",
-      "lead_fa": "El especialista explica que hay “una enorme expectación e ilusión” por el fenómeno, pero pide prudencia",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2364,7 +2381,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202870_230317_video_1800.mp4",
       "published_at": "2026-08-08T01:45:10+00:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
       "lead_fa": "Los presidentes Milei, Kast y Noboa asisten a la toma de posesión del nuevo presidente de Colombia, con quienes ha mantenido reuniones bilaterales",
       "key_points_fa": [],
@@ -2386,7 +2403,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2408,31 +2425,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
       "published_at": "2026-08-07T19:40:47+00:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Inveready y Mayoral asumen el control de Parlem",
       "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9da3098df3f1",
-      "source": "La Vanguardia",
-      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
-      "published_at": "2026-08-07T18:16:05+02:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2530,6 +2525,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "bde479d2bd4c",
+      "source": "EL PAÍS Economía",
+      "title": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "summary": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/aena-mantiene-la-subasta-en-los-contratos-de-su-macroplan-de-13000-millones-en-obras-pese-a-la-oposicion-de-las-constructoras.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LYYCE2KYAUD7PTHTS7EUL5UVTI.jpg?auth=fba4a56fb1c7eaf30117466a12f4b72d80847b1a6fe378efeea0a9e458c61b2f",
+      "published_at": "2026-08-07T03:15:00+00:00",
+      "category": "economia",
+      "priority": 63,
+      "title_fa": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "lead_fa": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2561,7 +2578,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 151
     },
     {
       "source": "EL PAÍS España",
@@ -2576,7 +2593,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 142
+      "count": 145
     }
   ]
 }
