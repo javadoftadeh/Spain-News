@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T05:08:04.217594+00:00",
+  "generated_at": "2026-08-08T05:54:00.207348+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
-    "5514af060a8c",
+    "ee62cbae127a",
     "b731072ad7fe",
-    "795010d8c949",
-    "ad52954a3c24"
+    "5514af060a8c",
+    "795010d8c949"
   ],
   "items": [
     {
@@ -39,30 +39,29 @@
       "editorial_version": 2
     },
     {
-      "id": "5514af060a8c",
-      "source": "EL PAÍS",
-      "title": "La crisis de Ceuta cuestiona una frontera en la que Interior ha invertido más de 37 millones desde 2019",
-      "summary": "El ministerio, que ha gastado otros 42,7 millones en reforzar el perímetro de Melilla, aún no ha presupuestado la instalación de la barrera marítima de El Tarajal",
-      "url": "https://elpais.com/espana/2026-08-08/la-crisis-de-ceuta-cuestiona-una-frontera-en-la-que-interior-ha-invertido-mas-de-37-millones-desde-2019.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7X3NKFR3XZN77ATQUYQ7FVBTV4.jpg?auth=2b194ded2092b96e056976e1f436f7eda4c3c143d5cd7261222d90dd25c27707",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "بحران سبته و چالش‌های مرزی؛ وزارت کشور بیش از ۳۷ میلیون یورو هزینه کرد",
-      "lead_fa": "بحران اخیر در سبته کارآمدی مرزهای این منطقه را زیر سوال برده است. وزارت کشور اسپانیا از سال ۲۰۱۹ بیش از ۳۷ میلیون یورو در این مرز سرمایه‌گذاری کرده است.",
+      "id": "ee62cbae127a",
+      "source": "La Vanguardia",
+      "title": "Preocupación máxima en Valencia por el riesgo de incendios en el eclipse",
+      "summary": "La Generalitat decreta el nivel 3 de preemergencia, prohíbe el tránsito de personas por senderos y campo a través en terreno forestal y restringe zonas de acampada para los días 11 y 12",
+      "url": "https://www.lavanguardia.com/local/valencia/20260808/11609943/preocupacion-maxima-valencia-riesgo-incendios-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760090b1e30.r_d.2969-2345-0.jpeg",
+      "published_at": "2026-08-08T05:20:00+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "آماده‌باش در والنسیا به دلیل خطر آتش‌سوزی همزمان با رویداد نجومی",
+      "lead_fa": "دولت محلی والنسیا بالاترین سطح هشدار پیش از بحران را برای روزهای ۱۱ و ۱۲ اعلام کرد. این تصمیم پس از افزایش خطر آتش‌سوزی در مناطق جنگلی اتخاذ شد.",
       "key_points_fa": [
-        "وزارت کشور اسپانیا بیش از ۳۷ میلیون یورو از سال ۲۰۱۹ برای مرز سبته هزینه کرده است.",
-        "۴۲.۷ میلیون یورو نیز برای تقویت حصار ملیلیه اختصاص یافته است.",
-        "نصب موانع دریایی در منطقه الساخت هنوز بودجه‌بندی نشده است."
+        "اعلام سطح ۳ پیش‌آمدگی برای خطر آتش‌سوزی در والنسیا",
+        "ممنوعیت تردد افراد در مسیرهای جنگلی و خارج از جاده",
+        "محدودیت در مناطق کمپینگ برای روزهای ۱۱ و ۱۲"
       ],
-      "analysis_fa": "این هزینه‌های کلان نشان‌دهنده تلاش‌های دولت اسپانیا برای مدیریت و کنترل مهاجرت‌های غیرقانونی در شهرهای خودمختار سبته و ملیلیه است. با این حال، تداوم بحران‌ها و تأخیر در اجرای برخی پروژه‌ها مانند موانع دریایی، کارایی این زیرساخت‌ها را در کانون توجه منتقدان قرار داده است.",
+      "analysis_fa": "محدودیت‌های اعمال شده از سوی دولت محلی والنسیا نشان‌دهنده رویکرد پیشگیرانه برای جلوگیری از حوادث طبیعی در ایام خاص است که تردد عمومی را به‌طور موقت تغییر می‌دهد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#مرز"
+        "#والنسیا",
+        "#آتش_سوزی",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -92,6 +91,35 @@
         "#مهاجرت",
         "#سبته",
         "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5514af060a8c",
+      "source": "EL PAÍS España",
+      "title": "La crisis de Ceuta cuestiona una frontera en la que Interior ha invertido más de 37 millones desde 2019",
+      "summary": "El ministerio, que ha gastado otros 42,7 millones en reforzar el perímetro de Melilla, aún no ha presupuestado la instalación de la barrera marítima de El Tarajal",
+      "url": "https://elpais.com/espana/2026-08-08/la-crisis-de-ceuta-cuestiona-una-frontera-en-la-que-interior-ha-invertido-mas-de-37-millones-desde-2019.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7X3NKFR3XZN77ATQUYQ7FVBTV4.jpg?auth=2b194ded2092b96e056976e1f436f7eda4c3c143d5cd7261222d90dd25c27707",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "بحران سبته و چالش‌های مرزی؛ وزارت کشور بیش از ۳۷ میلیون یورو هزینه کرد",
+      "lead_fa": "بحران اخیر در سبته کارآمدی مرزهای این منطقه را زیر سوال برده است. وزارت کشور اسپانیا از سال ۲۰۱۹ بیش از ۳۷ میلیون یورو در این مرز سرمایه‌گذاری کرده است.",
+      "key_points_fa": [
+        "وزارت کشور اسپانیا بیش از ۳۷ میلیون یورو از سال ۲۰۱۹ برای مرز سبته هزینه کرده است.",
+        "۴۲.۷ میلیون یورو نیز برای تقویت حصار ملیلیه اختصاص یافته است.",
+        "نصب موانع دریایی در منطقه الساخت هنوز بودجه‌بندی نشده است."
+      ],
+      "analysis_fa": "این هزینه‌های کلان نشان‌دهنده تلاش‌های دولت اسپانیا برای مدیریت و کنترل مهاجرت‌های غیرقانونی در شهرهای خودمختار سبته و ملیلیه است. با این حال، تداوم بحران‌ها و تأخیر در اجرای برخی پروژه‌ها مانند موانع دریایی، کارایی این زیرساخت‌ها را در کانون توجه منتقدان قرار داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#مرز"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -153,35 +181,6 @@
       "editorial_version": 2
     },
     {
-      "id": "43131fb26d1d",
-      "source": "La Vanguardia",
-      "title": "Hiroshima recuerda el horror de la bomba atómica mientras el mundo afronta nuevas crisis en las imágenes del día",
-      "summary": "Ceuta vuelve a ser uno de los principales puntos de la presión migratoria hacia España, los incendios forestales continúan activos en varios países europeos y el calor extremo sigue agravando la sequía.",
-      "url": "https://www.lavanguardia.com/fotos/20260807/11609862/hiroshima-recuerda-horror-bomba-atomica-mundo-afronta-nuevas-crisis-imagenes-dia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75ea06cd5c0.r_d.2852-1707-0.jpeg",
-      "published_at": "2026-08-07T17:18:22+02:00",
-      "category": "sociedad",
-      "priority": 80,
-      "title_fa": "یادواره هیروشیما و تداوم بحران‌های جهانی در تصاویر روز",
-      "lead_fa": "شهر هیروشیما سالگرد بمباران اتمی را همزمان با بروز بحران‌های جدید جهانی گرامی داشت. این تصاویر همچنین بازتاب‌دهنده چالش‌های جاری مهاجرت و تغییرات اقلیمی در اروپا هستند.",
-      "key_points_fa": [
-        "یادبود قربانیان بمب اتمی در هیروشیما در سایه بحران‌های جدید جهانی.",
-        "تداوم فشار مهاجرتی در شهر سبته به سمت اسپانیا.",
-        "ادامه آتش‌سوزی‌های جنگلی در چندین کشور اروپایی و تشدید خشکسالی ناشی از گرمای شدید."
-      ],
-      "analysis_fa": "انتشار این تصاویر بازتابی از هم‌زمانی چالش‌های تاریخی و بحران‌های مدرن است. از یک سو یادآوری فجایع گذشته و از سوی دیگر مواجهه با بحران‌های روزمره مانند مهاجرت و تغییرات اقلیمی، گویای فشارهای فزاینده بر نهادهای بین‌المللی و دولت‌هاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هیروشیما",
-        "#اسپانیا",
-        "#مهاجرت",
-        "#تغییرات_اقلیمی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9bfdc6f951e9",
       "source": "La Vanguardia",
       "title": "El incendio de madrugada en una vivienda de Alberic deja un fallecido y tres evacuados",
@@ -210,29 +209,57 @@
       "editorial_version": 2
     },
     {
-      "id": "320b91d4a749",
+      "id": "58c2a45594ed",
       "source": "La Vanguardia",
-      "title": "Muere Lluís Bonet, uno de los padres de la Sagrada Família moderna",
-      "summary": "Fue durante 25 años párroco de la parroquia del templo de Gaudí",
-      "url": "https://www.lavanguardia.com/cultura/20260807/11610042/muere-lluis-bonet-padres-sagrada-familia-moderna.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a763750b480c.r_d.437-338-0.jpeg",
-      "published_at": "2026-08-07T21:53:05+02:00",
+      "title": "Catalunya mantiene la alerta por lluvias intensas en el noroeste",
+      "summary": "Ayer se activó la alerta por posibles inundaciones y el riesgo de crecidas",
+      "url": "https://www.lavanguardia.com/natural/20260808/11610245/catalunya-mantiene-alerta-lluvias-intensas-noroeste.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a759378308e9.jpeg",
+      "published_at": "2026-08-08T07:03:33+02:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "درگذشت لوییس بونت، یکی از معماران کلیدی ساگرادا فامیلیا",
-      "lead_fa": "لوییس بونت، کشیش و یکی از چهره‌های کلیدی در پیشبرد ساخت معبد ساگرادا فامیلیا درگذشت. او به مدت ۲۵ سال مسئولیت کشیشی این کلیسای معروف اثر آنتونی گائودی را بر عهده داشت.",
+      "title_fa": "آماده‌باش در کاتالونیا به دلیل بارش‌های شدید در شمال‌غرب",
+      "lead_fa": "منطقه کاتالونیا به دلیل احتمال بارش‌های شدید و خطر طغیان رودخانه‌ها در حالت آماده‌باش قرار گرفت. این هشدار از روز گذشته برای مقابله با خطرات احتمالی سیل صادر شده است.",
       "key_points_fa": [
-        "درگذشت لوییس بونت در سنین بالا",
-        "بیست‌وپنج سال خدمت به عنوان کشیش در معبد ساگرادا فامیلیا",
-        "نقش برجسته در روند مدرن ساخت شاهکار آنتونی گائودی در بارسلونا"
+        "فعال شدن هشدار بارش شدید در شمال‌غرب کاتالونیا",
+        "برقراری آماده‌باش برای مقابله با احتمال آب‌گرفتگی و طغیان رودخانه‌ها"
       ],
-      "analysis_fa": "مرگ بونت پایان نسلی از چهره‌های مذهبی و فنی را رقم می‌زند که دهه‌ها به پروژه پیچیده و طولانی‌مدت تکمیل ساگرادا فامیلیا متعهد بودند. این واقعه تأثیری بر روند اجرایی یا ساخت‌وساز جاری این بنای تاریخی نخواهد گذاشت.",
+      "analysis_fa": "بارش‌های شدید و ناگهانی در مناطق شمال‌غربی کاتالونیا مقامات محلی را وادار به اتخاذ تدابیر پیشگیرانه کرده است. این وضعیت نشان‌دهنده استمرار پدیده‌های جوی ناپایدار در این منطقه است که مدیریت منابع آب و زیرساخت‌ها را با چالش مواجه می‌کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
+        "#کاتالونیا",
+        "#بارش_شدید",
         "#اسپانیا",
-        "#بارسلونا",
-        "#ساگرادافامیلیا"
+        "#هواشناسی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2c876ff6e28f",
+      "source": "La Vanguardia",
+      "title": "Quién apoya a quién en la gran crisis de Infantino",
+      "summary": "La figura del presidente de la FIFA genera diversos bandos en el seno del fútbol mundial entre los críticos, los que aún le apoyan y los dubitativos",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260808/11610005/apoya-gran-crisis-infantino.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7614a0b03aa.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 77,
+      "title_fa": "شکاف در فوتبال جهان بر سر بحران ریاست جیانی اینفانتینو",
+      "lead_fa": "ریاست جیانی اینفانتینو بر فیفا واکنش‌های متفاوتی را در سطح جهانی به همراه داشته است. جامعه فوتبال اکنون به سه دسته منتقدان، حامیان و افراد مردد تقسیم شده است.",
+      "key_points_fa": [
+        "شکل‌گیری صف‌بندی‌های جدید در میان اعضای فوتبال جهان",
+        "حفظ حمایت برخی از بخش‌ها از اینفانتینو در کنار افزایش انتقادات",
+        "وجود گروهی از اعضا که موضع مشخصی اتخاذ نکرده‌اند"
+      ],
+      "analysis_fa": "بحران‌های مدیریتی در نهادهای بین‌المللی ورزشی معمولاً به چالش‌های جدی در زمینه مشروعیت و اتحاد درون‌سازمانی منجر می‌شوند. وضعیت کنونی فیفا نشان‌دهنده تنش میان ساختار رهبری و بخشی از بدنه منتقد است که می‌تواند بر تصمیم‌گیری‌های کلان آینده تاثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#فیفا",
+        "#فوتبال_جهان",
+        "#اینفانتینو"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -290,6 +317,28 @@
         "#تحولات_سیاسی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "c4bb23af10d5",
+      "source": "La Vanguardia",
+      "title": "Rodalies revierte su precaria situación en ascensores y escaleras mecánicas",
+      "summary": "La mitad de los sistemas de elevación no funcionaban en febrero del 2025, cuando se produjo el cambio de empresa de mantenimiento, pero ahora están sobre el 90% de operatividad",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260808/11604446/rodalies-revierte-precaria-situacion-ascensores-escaleras-mecanicas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b309525b88.r_d.3800-3337-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Rodalies revierte su precaria situación en ascensores y escaleras mecánicas",
+      "lead_fa": "La mitad de los sistemas de elevación no funcionaban en febrero del 2025, cuando se produjo el cambio de empresa de mantenimiento, pero ahora están sobre el 90% de operatividad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -359,28 +408,6 @@
       "editorial_version": 2
     },
     {
-      "id": "58e6bf867e73",
-      "source": "EL PAÍS",
-      "title": "Los migrantes registrados por entidades sociales y organismos públicos en Ceuta superan con creces las cifras de Interior",
-      "summary": "El Gobierno insiste en un cálculo aproximado de 2.000, pero solo en la playa del Trampolín se entregan cada día más raciones para alimentar a los recién llegados",
-      "url": "https://elpais.com/espana/2026-08-08/los-migrantes-registrados-por-entidades-sociales-y-organismos-publicos-en-ceuta-supera-con-creces-las-cifras-de-interior.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BHRX7ESWENOUZJPRXPUEBBRZOQ.jpg?auth=5d2e8ddc7ad90e4286e1c8efd4f58ee7a1e4329be9d7349af153deb557c69ad0",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Los migrantes registrados por entidades sociales y organismos públicos en Ceuta superan con creces las cifras de Interior",
-      "lead_fa": "El Gobierno insiste en un cálculo aproximado de 2.000, pero solo en la playa del Trampolín se entregan cada día más raciones para alimentar a los recién llegados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0158da4ae889",
       "source": "EL PAÍS",
       "title": "Un barrido de las redes sociales marroquíes advierte de que la recluta de migrantes se ha vuelto menos visible pero sigue activa",
@@ -392,6 +419,28 @@
       "priority": 75,
       "title_fa": "Un barrido de las redes sociales marroquíes advierte de que la recluta de migrantes se ha vuelto menos visible pero sigue activa",
       "lead_fa": "El cierre de los grupos proemigración en Facebook los ha hecho mudarse a otros en apariencia inocuos donde son menos detectables",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "58e6bf867e73",
+      "source": "EL PAÍS",
+      "title": "Los migrantes registrados por entidades sociales y organismos públicos en Ceuta superan con creces las cifras de Interior",
+      "summary": "El Gobierno insiste en un cálculo aproximado de 2.000, pero solo en la playa del Trampolín se entregan cada día más raciones para alimentar a los recién llegados",
+      "url": "https://elpais.com/espana/2026-08-08/los-migrantes-registrados-por-entidades-sociales-y-organismos-publicos-en-ceuta-supera-con-creces-las-cifras-de-interior.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BHRX7ESWENOUZJPRXPUEBBRZOQ.jpg?auth=5d2e8ddc7ad90e4286e1c8efd4f58ee7a1e4329be9d7349af153deb557c69ad0",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Los migrantes registrados por entidades sociales y organismos públicos en Ceuta superan con creces las cifras de Interior",
+      "lead_fa": "El Gobierno insiste en un cálculo aproximado de 2.000, pero solo en la playa del Trampolín se entregan cada día más raciones para alimentar a los recién llegados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -654,33 +703,6 @@
         "#ایتالیا",
         "#مرز",
         "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0df0f5b7e724",
-      "source": "La Vanguardia",
-      "title": "Viaje exprés del Rey a Colombia: 24 horas de vuelo y diez en Cali por el relevo presidencial",
-      "summary": "Felipe VI asiste a la toma de posesión del ultraderechista Abelardo de la Espriella que se celebra en la capital del Valle del Cauca en vez de en Bogotá",
-      "url": "https://www.lavanguardia.com/politica/20260807/11609941/viaje-expres-rey-colombia-24-horas-vuelo-diez-cali-relevo-presidencial.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75ffb7eb536.jpeg",
-      "published_at": "2026-08-07T18:41:49+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "سفر ۲۴ ساعته پادشاه اسپانیا به کلمبیا",
-      "lead_fa": "پادشاه اسپانیا برای شرکت در مراسم تحلیف ریاست جمهوری کلمبیا به این کشور سفر کرد. این سفر کوتاه شامل ۲۴ ساعت پرواز و ۱۰ ساعت حضور در کالی بود.",
-      "key_points_fa": [
-        "فلیپه ششم در مراسم تحلیف در شهر کالی حضور یافت.",
-        "این مراسم برخلاف روال معمول به جای بوگوتا در کالی برگزار شد."
-      ],
-      "analysis_fa": "حضور پادشاه اسپانیا در این مراسم نشان‌دهنده تداوم روابط دیپلماتیک مادرید با دولت جدید کلمبیا است، در حالی که تغییر محل برگزاری مراسم به کالی توجه رسانه‌ها را جلب کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#کلمبیا",
-        "#پادشاه_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -963,6 +985,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ca9097c5c3a7",
+      "source": "La Vanguardia",
+      "title": "Adif instala sensores en Trinitat Vella tras las vibraciones de las obras",
+      "summary": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260807/11609977/adif-sensores-trinitat-vella-control-vibraciones-obras-vallbona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760698cc5a8.r_d.3664-2818-0.jpeg",
+      "published_at": "2026-08-07T19:10:32+02:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "Adif instala sensores en Trinitat Vella tras las vibraciones de las obras",
+      "lead_fa": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e5a545c00106",
       "source": "EL PAÍS España",
       "title": "Interior saca pecho ante la UE por su lucha contra las mafias de inmigración irregular con una macrooperación con 78 detenidos",
@@ -989,6 +1033,72 @@
         "#پلیس"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5f20b38dd19b",
+      "source": "La Vanguardia",
+      "title": "Araújo jugará cedido en el Liverpool",
+      "summary": "A falta de la oficialidad el conjunto de Anfield se hará cargo del montante total de la ficha del defensa del Barça tras llegar a un acuerdo verbal",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610242/araujo-jugara-cedido-liverpool.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/05/69d245ee461e5.r_d.2298-1333-0.jpeg",
+      "published_at": "2026-08-08T07:03:31+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Araújo jugará cedido en el Liverpool",
+      "lead_fa": "A falta de la oficialidad el conjunto de Anfield se hará cargo del montante total de la ficha del defensa del Barça tras llegar a un acuerdo verbal",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0f7e8c7fdc58",
+      "source": "La Vanguardia",
+      "title": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
+      "summary": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
+      "url": "https://www.lavanguardia.com/series/20260808/11609861/cuatro-series-enamorarse-son-dramas-juveniles-comedias-romanticas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3472f7adb5f.r_d.1033-581-0.jpeg",
+      "published_at": "2026-08-08T06:23:01+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
+      "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "575e88d6f4af",
+      "source": "La Vanguardia",
+      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
+      "summary": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
+      "url": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75e929639ac.r_d.694-281-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
+      "lead_fa": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1080,6 +1190,94 @@
       "editorial_version": 2
     },
     {
+      "id": "67be679f2cf5",
+      "source": "La Vanguardia",
+      "title": "Consejos para ver el eclipse total",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260808/11608508/consejos-ver-eclipse-total-sol-agosto-2026.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/05/6a7344f0da693.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Consejos para ver el eclipse total",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c22c1538a559",
+      "source": "La Vanguardia",
+      "title": "La ciencia sigue persiguiendo la sombra lunar para entender mejor el Sol",
+      "summary": "A pesar de disponer de satélites y telescopios avanzados, los astrónomos continúan aprovechando los eclipses solares para estudiar la corona sin distorsiones",
+      "url": "https://www.lavanguardia.com/ciencia/20260808/11597390/ciencia-sigue-persiguiendo-sombra-lunar-entender-mejor-sol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/27/676e6abfdd14b.r_d.640-426-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "La ciencia sigue persiguiendo la sombra lunar para entender mejor el Sol",
+      "lead_fa": "A pesar de disponer de satélites y telescopios avanzados, los astrónomos continúan aprovechando los eclipses solares para estudiar la corona sin distorsiones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a9b881abb0cc",
+      "source": "La Vanguardia",
+      "title": "La invasión de babosas españolas desespera a los jardineros de Moscú",
+      "summary": "Los científicos consideran que erradicar completamente la especie ya no es posible y recomiendan centrar los esfuerzos en controlar su expansión",
+      "url": "https://www.lavanguardia.com/internacional/20260808/11609830/invasion-babosas-espana-rusia-jardines-jardineros-moscu.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75f996887ce.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La invasión de babosas españolas desespera a los jardineros de Moscú",
+      "lead_fa": "Los científicos consideran que erradicar completamente la especie ya no es posible y recomiendan centrar los esfuerzos en controlar su expansión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e4e1ed5fab19",
+      "source": "La Vanguardia",
+      "title": "Perdido en un área de servicio de carretera",
+      "summary": "El autor permanece unas horas encerrado en uno de esos no lugares que, en 1992, el antropólogo Marc Augé definió como esos espacios intercambiables donde el ser humano permanece anónimo",
+      "url": "https://www.lavanguardia.com/cultura/20260808/11609775/perdido-area-servicio-carretera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75c7887de30.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Perdido en un área de servicio de carretera",
+      "lead_fa": "El autor permanece unas horas encerrado en uno de esos no lugares que, en 1992, el antropólogo Marc Augé definió como esos espacios intercambiables donde el ser humano permanece anónimo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1420de5ac289",
       "source": "La Vanguardia",
       "title": "Más turistas y menos ‘jodechinchos’",
@@ -1102,17 +1300,105 @@
       "editorial_version": 2
     },
     {
-      "id": "575e88d6f4af",
+      "id": "b0aa983bf0dd",
       "source": "La Vanguardia",
-      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
-      "summary": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
-      "url": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75e929639ac.r_d.694-281-0.jpeg",
+      "title": "Cambió la multinacional en Tokio por Barcelona y un restaurante: “Aquí la gente es más feliz”",
+      "summary": "Tan, la fundadora de Mikan, cambió la oficina por los fogones y convirtió su historia entre China, Corea y Japón en la esencia de la cocina que sirve en la capital catalana",
+      "url": "https://www.lavanguardia.com/comer/sitios/20260808/11607546/cambio-multinacional-tokio-restaurante-barcelona-gente-mas-feliz.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b9f24b6c8.r_d.453-430-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Cambió la multinacional en Tokio por Barcelona y un restaurante: “Aquí la gente es más feliz”",
+      "lead_fa": "Tan, la fundadora de Mikan, cambió la oficina por los fogones y convirtió su historia entre China, Corea y Japón en la esencia de la cocina que sirve en la capital catalana",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e4e5ebe93bc2",
+      "source": "La Vanguardia",
+      "title": "La alfarera que resiste con 79 años: “Los dibujos que me enseñó mi abuela seguirán vivos”",
+      "summary": "Loli García tiene 79 años y se dedica a la alfarería desde niña; sexta generación de este oficio tradicional en Níjar, hoy comparte obrador con sus descendientes y se mantiene tan ilusionada como el primer día",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260808/11597598/loli-garcia-alfarera-resiste-79-anos-dibujos-me-enseno-mi-abuela-8-anos-seguiran-vivos-me.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f573632a39.r_d.673-351-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "La alfarera que resiste con 79 años: “Los dibujos que me enseñó mi abuela seguirán vivos”",
+      "lead_fa": "Loli García tiene 79 años y se dedica a la alfarería desde niña; sexta generación de este oficio tradicional en Níjar, hoy comparte obrador con sus descendientes y se mantiene tan ilusionada como el primer día",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "19c0b993b598",
+      "source": "La Vanguardia",
+      "title": "Anna Wintour rehabilita a John Galliano en el Met",
+      "summary": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
+      "url": "https://www.lavanguardia.com/gente/20260808/11610016/anna-wintour-rehabilita-john-galliano-met.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b94c91ef600.r_d.3388-1993-0.jpeg",
       "published_at": "2026-08-08T06:00:00+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
-      "lead_fa": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
+      "title_fa": "Anna Wintour rehabilita a John Galliano en el Met",
+      "lead_fa": "El británico, que elogio a Hitlter, será el centro de la gala y exposición del 2027",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "253f8ec49aff",
+      "source": "La Vanguardia",
+      "title": "Jordi Cornelles: “Estar con gente multiplicará la emotividad del eclipse”",
+      "summary": "El especialista explica que hay “una enorme expectación e ilusión” por el fenómeno, pero pide prudencia",
+      "url": "https://www.lavanguardia.com/local/valencia/20260808/11609200/jordi-cornelles-presidente-astroava-gente-multiplicara-emotividad-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74a2b87ec30.r_d.595-813-0.jpeg",
+      "published_at": "2026-08-08T05:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Jordi Cornelles: “Estar con gente multiplicará la emotividad del eclipse”",
+      "lead_fa": "El especialista explica que hay “una enorme expectación e ilusión” por el fenómeno, pero pide prudencia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7a9595641277",
+      "source": "La Vanguardia",
+      "title": "Agosto en el hospital",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260808/11588389/agosto-hospital.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/07/25/62defd096d0f1.r_d.415-528-0.jpeg",
+      "published_at": "2026-08-08T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Agosto en el hospital",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1135,6 +1421,28 @@
       "priority": 70,
       "title_fa": "Ciclos combinados: la firmeza que sostiene el verano",
       "lead_fa": "A mayor penetración de energías renovables, mayor es la necesidad de contar con capacidad de respaldo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1a55d13ffb4a",
+      "source": "EL PAÍS",
+      "title": "Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”",
+      "summary": "La presidenta de la Fundación Raíces, que lleva 30 años asistiendo a menores como los que han llegado a Ceuta, pone en duda la versión oficial y lamenta la “instrumentalización” partidista",
+      "url": "https://elpais.com/espana/2026-08-08/lourdes-reyzabal-nadie-pagaria-a-una-mafia-por-entrar-por-una-puerta-que-estaba-abierta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VDQ2XWDON5DK5MG6JKBGVK42PA.jpg?auth=f53e2099897d774437c3cae6a14ef430e3e6d0279b3b8d189133c12be1f5d0dc",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”",
+      "lead_fa": "La presidenta de la Fundación Raíces, que lleva 30 años asistiendo a menores como los que han llegado a Ceuta, pone en duda la versión oficial y lamenta la “instrumentalización” partidista",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1421,28 +1729,6 @@
       "priority": 70,
       "title_fa": "Chopin nos saca las tripas",
       "lead_fa": "Preferimos los relatos que escribe la IA porque pensamos que son mejores, sobre todo si nos dicen que son obra de una persona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1a55d13ffb4a",
-      "source": "EL PAÍS España",
-      "title": "Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”",
-      "summary": "La presidenta de la Fundación Raíces, que lleva 30 años asistiendo a menores como los que han llegado a Ceuta, pone en duda la versión oficial y lamenta la “instrumentalización” partidista",
-      "url": "https://elpais.com/espana/2026-08-08/lourdes-reyzabal-nadie-pagaria-a-una-mafia-por-entrar-por-una-puerta-que-estaba-abierta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VDQ2XWDON5DK5MG6JKBGVK42PA.jpg?auth=f53e2099897d774437c3cae6a14ef430e3e6d0279b3b8d189133c12be1f5d0dc",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Lourdes Reyzábal: “Nadie pagaría a una mafia por entrar por una puerta que estaba abierta”",
-      "lead_fa": "La presidenta de la Fundación Raíces, que lleva 30 años asistiendo a menores como los que han llegado a Ceuta, pone en duda la versión oficial y lamenta la “instrumentalización” partidista",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1787,17 +2073,17 @@
       "editorial_version": 2
     },
     {
-      "id": "1ea54da46ce9",
+      "id": "2d54e4e12de9",
       "source": "La Vanguardia",
-      "title": "El eclipse de 1905: de las excursiones al Tibidabo a las grandes expediciones astronómicas",
-      "summary": "El fenómeno astronómico que pudo observarse desde buena parte de la Península se convirtió en un gran acontecimiento social y científico",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260808/11610093/eclipse-1905-excursiones-tibidabo-grandes-expediciones-astronomicas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2017/09/28/5fa3dadcb075a.r_d.560-370-0.jpeg",
-      "published_at": "2026-08-08T00:53:43+02:00",
-      "category": "ciencia",
+      "title": "El atrevido cruce de la aeronave",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/opinion/20260808/11610105/atrevido-cruce-aeronave.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7661be0a3e1.jpeg",
+      "published_at": "2026-08-08T00:52:46+02:00",
+      "category": "sociedad",
       "priority": 68,
-      "title_fa": "El eclipse de 1905: de las excursiones al Tibidabo a las grandes expediciones astronómicas",
-      "lead_fa": "El fenómeno astronómico que pudo observarse desde buena parte de la Península se convirtió en un gran acontecimiento social y científico",
+      "title_fa": "El atrevido cruce de la aeronave",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1811,7 +2097,7 @@
     {
       "id": "f1438baf5876",
       "source": "La Vanguardia",
-      "title": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
+      "title": "España fija desde hoy controles a los italianos tras el desafío de Meloni",
       "summary": "El Ministerio del Interior establecerá desde la medianoche de este sábado controles en puertos y aeropuertos para los desplazamientos desde Italia por su “persistente presión migratoria”",
       "url": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75ece5780b9.r_d.1737-1769-0.jpeg",
@@ -1991,28 +2277,6 @@
       "editorial_version": 2
     },
     {
-      "id": "de88e973c928",
-      "source": "La Vanguardia",
-      "title": "Marc Puigtió deja la militancia de ERC y todos los cargos institucionales",
-      "summary": "El que fuera exalcalde de Sant Julià de Ramis da este paso tras renunciar ayer a ser el candidato de los republicanos en Girona",
-      "url": "https://www.lavanguardia.com/politica/20260807/11609966/marc-puigtio-deja-militancia-erc-todos-cargos-institucionales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74f9d24d3d1.jpeg",
-      "published_at": "2026-08-07T18:33:23+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Marc Puigtió deja la militancia de ERC y todos los cargos institucionales",
-      "lead_fa": "El que fuera exalcalde de Sant Julià de Ramis da este paso tras renunciar ayer a ser el candidato de los republicanos en Girona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9da3098df3f1",
       "source": "La Vanguardia",
       "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
@@ -2024,28 +2288,6 @@
       "priority": 66,
       "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
       "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7476dd98e4e8",
-      "source": "La Vanguardia",
-      "title": "Javier Ruiz cierra su etapa en TVE: “Os voy a echar mucho de menos”",
-      "summary": "El periodista termina ha dicho adiós al programa ‘Mañaneros 360’ (TVE) para ser el número 2 de La Séptima y provoca un efecto dominó en el ente público",
-      "url": "https://www.lavanguardia.com/television/20260807/11609834/javier-ruiz-la-septima-tve-mananeros.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75df70b9d27.jpeg",
-      "published_at": "2026-08-07T15:30:05+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Javier Ruiz cierra su etapa en TVE: “Os voy a echar mucho de menos”",
-      "lead_fa": "El periodista termina ha dicho adiós al programa ‘Mañaneros 360’ (TVE) para ser el número 2 de La Séptima y provoca un efecto dominó en el ente público",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2079,72 +2321,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f6519fcd91c6",
-      "source": "La Vanguardia",
-      "title": "Huesos hallados en una villa romana señalan una masacre en Gran Bretaña en el siglo IV d.C. como parte de la venganza de un emperador",
-      "summary": "Los investigadores vinculan los restos con la brutal purga de los partidarios del usurpador Magnencio",
-      "url": "https://www.lavanguardia.com/cultura/20260807/11609752/huesos-hallados-villa-romana-senalan-masacre-gran-bretana-siglo-iv-d-c-parte-venganza-emperador.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75c57c83948.r_d.2023-1229-0.jpeg",
-      "published_at": "2026-08-07T13:52:46+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "Huesos hallados en una villa romana señalan una masacre en Gran Bretaña en el siglo IV d.C. como parte de la venganza de un emperador",
-      "lead_fa": "Los investigadores vinculan los restos con la brutal purga de los partidarios del usurpador Magnencio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a19f0bf00588",
-      "source": "La Vanguardia",
-      "title": "El avistamiento de un enorme varano desata una búsqueda frenética en una pequeña localidad italiana",
-      "summary": "El animal, fotografiado por un agricultor, ha provocado una 'prohibición de circular a pie' y se ha convertido en un caso viral en la red",
-      "url": "https://www.lavanguardia.com/natural/20260807/11609749/avistamiento-enorme-varano-desata-busqueda-frenetica-pequena-localidad-italiana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2019/03/29/5fa51ae449996.r_d.373-109-0.jpeg",
-      "published_at": "2026-08-07T13:50:16+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "El avistamiento de un enorme varano desata una búsqueda frenética en una pequeña localidad italiana",
-      "lead_fa": "El animal, fotografiado por un agricultor, ha provocado una 'prohibición de circular a pie' y se ha convertido en un caso viral en la red",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "75a691bc04e9",
-      "source": "La Vanguardia",
-      "title": "Denuncian el cartel sexista de una peña de toros en las fiestas de Sagunt",
-      "summary": "La Generalitat Valenciana rechaza la imagen que muestra “un toro sometiendo sexualmente a una mujer desnuda”",
-      "url": "https://www.lavanguardia.com/local/valencia/20260807/11609744/denuncian-cartel-sexista-pena-toros-fiestas-sagunt.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75bf6761fc1.jpeg",
-      "published_at": "2026-08-07T13:39:00+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "Denuncian el cartel sexista de una peña de toros en las fiestas de Sagunt",
-      "lead_fa": "La Generalitat Valenciana rechaza la imagen que muestra “un toro sometiendo sexualmente a una mujer desnuda”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "08643bc0e0cf",
       "source": "EL PAÍS España",
       "title": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
@@ -2156,28 +2332,6 @@
       "priority": 65,
       "title_fa": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
       "lead_fa": "El ministerio público dicta un decreto una semana después de la entrada irregular de más de 72.000 personas a la ciudad autónoma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c8a64e05d150",
-      "source": "La Vanguardia",
-      "title": "“¡Ferran, Ferran, Ferran!”: decenas de seguidores celebran al campeón del mundo en València",
-      "summary": "El autor del gol que dio el Mundial a España en Nueva York firma un convenio con la Generalitat Valenciana para convertirse en el nuevo embajador del territorio valenciano: “Ser su imagen es orgullo y responsabilidad”",
-      "url": "https://www.lavanguardia.com/local/valencia/20260807/11609700/ferran-ferran-ferran-decenas-seguidores-celebran-campeon-mundo-valencia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75ee3c1e13e.jpeg",
-      "published_at": "2026-08-07T13:25:27+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "“¡Ferran, Ferran, Ferran!”: decenas de seguidores celebran al campeón del mundo en València",
-      "lead_fa": "El autor del gol que dio el Mundial a España en Nueva York firma un convenio con la Generalitat Valenciana para convertirse en el nuevo embajador del territorio valenciano: “Ser su imagen es orgullo y responsabilidad”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2219,163 +2373,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BPUX2AKQBJFFPCEDVXEYJDFOSQ.png?auth=6c8ca0f700669039f6103dcc88837938067d4a85e34fb98e18dcbcfe3d5862a6",
       "published_at": "2026-08-07T08:35:27+00:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Hispasat se adjudica el contrato del programa satelital Iris² por 1.600 millones",
       "lead_fa": "La filial de Indra coordinará la infraestructura de antenas, los sistemas de control y la conexión a las redes de tierra de la constelación europea",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f33d99c0da97",
-      "source": "La Vanguardia",
-      "title": "Dos detenidos tras un incidente a balazos en la Rambla del Raval",
-      "summary": "La Guardia Urbana arrestó a dos hombres, localizó seis vainas percutadas, pero no el arma de fuego",
-      "url": "https://www.lavanguardia.com/sucesos/20260807/11609524/detenidas-dos-personas-tiroteo-rambla-raval.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/02/06/67a5041aebf92.jpeg",
-      "published_at": "2026-08-07T09:18:07+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Dos detenidos tras un incidente a balazos en la Rambla del Raval",
-      "lead_fa": "La Guardia Urbana arrestó a dos hombres, localizó seis vainas percutadas, pero no el arma de fuego",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b54d7ad05dc",
-      "source": "EL PAÍS Economía",
-      "title": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
-      "summary": "Un estudio del BCE sostiene que solo el 13% de los europeos que ya tiene un trabajo se interesa activamente por otro, frente al 19% de los estadounidenses",
-      "url": "https://elpais.com/economia/2026-08-06/que-mueve-a-los-trabajadores-a-buscar-otro-empleo-mas-sueldo-en-estados-unidos-y-miedo-al-despido-en-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/A7L32WEZO5BKVIRMZPN3Z7CLPE.jpg?auth=069589582089092a06ac86e1b721d42687e72a453a487562fc24afeb9aca212b",
-      "published_at": "2026-08-06T16:07:02+00:00",
-      "category": "economia",
-      "priority": 63,
-      "title_fa": "Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa",
-      "lead_fa": "Un estudio del BCE sostiene que solo el 13% de los europeos que ya tiene un trabajo se interesa activamente por otro, frente al 19% de los estadounidenses",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aebfbe3e8531",
-      "source": "EL PAÍS Economía",
-      "title": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
-      "summary": "El organismo asegura que los efectos de la “perturbación energética” ocasionada por la guerra en Irán no se han “materializado aún plenamente”",
-      "url": "https://elpais.com/economia/2026-08-06/el-bce-advierte-de-que-la-inflacion-no-ha-alcanzado-su-pico-y-se-mantendra-elevada-en-lo-que-resta-de-ano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OAHVQS23YBCGDMLDANPHOHETR4.jpg?auth=034f7b0b1991a6281026e82dadc3899350be1c2e5446bc89d98a630bfafe19c7",
-      "published_at": "2026-08-06T14:33:37+00:00",
-      "category": "economia",
-      "priority": 63,
-      "title_fa": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
-      "lead_fa": "El organismo asegura que los efectos de la “perturbación energética” ocasionada por la guerra en Irán no se han “materializado aún plenamente”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cbdde9b94409",
-      "source": "La Vanguardia",
-      "title": "Bausen, el pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
-      "summary": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260807/11607600/bausen-pequeno-pueblo-aranes-cementerio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71c44222616.r_d.1060-707-0.jpeg",
-      "published_at": "2026-08-07T07:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Bausen, el pequeño pueblo aranés que seduce a los visitantes con su antiguo drama de amor",
-      "lead_fa": "El centro de atención es el cementerio de Teresa Estampa, con su única lápida",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a5831141000b",
-      "source": "La Vanguardia",
-      "title": "2.500 panes y 60 kilos de queso ‘vuelan’ ante 2.000 personas en Quel",
-      "summary": "Una tradición que data de 1479",
-      "url": "https://www.lavanguardia.com/local/la-rioja/20260807/11609104/pan-queso-espana-larioja-tradicion-quel.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74d1a559c59.jpeg",
-      "published_at": "2026-08-07T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "2.500 panes y 60 kilos de queso ‘vuelan’ ante 2.000 personas en Quel",
-      "lead_fa": "Una tradición que data de 1479",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "493c11c0b4a6",
-      "source": "La Vanguardia",
-      "title": "David Foenkinos: “Todo está escrito, estamos predestinados”",
-      "summary": "El escritor francés novela en ‘Todos aman a Clara’ el don de clarividencia tras una experiencia traumática",
-      "url": "https://www.lavanguardia.com/cultura/20260807/11609264/esta-escrito-predestinados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74bf6f177d9.r_d.1612-1236-0.jpeg",
-      "published_at": "2026-08-07T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "David Foenkinos: “Todo está escrito, estamos predestinados”",
-      "lead_fa": "El escritor francés novela en ‘Todos aman a Clara’ el don de clarividencia tras una experiencia traumática",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "329e11d1b4e7",
-      "source": "La Vanguardia",
-      "title": "La primera cátedra sobre mujeres en menopausia: “La alimentación y el ejercicio, al revés”",
-      "summary": "La mediática farmacéutica Boticaria García está detrás de un proyecto conjunto con la Universidad de Granada que pretende generar conocimiento riguroso pero aterrizado al día a día en salud femenina, ejercicio y nutrición",
-      "url": "https://www.lavanguardia.com/vivo/20260807/11602735/primera-catedra-investiga-mujeres-reales-menopausia-ejercicio-alimentacion-han-explicado-reves.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/23/68d298a535945.r_d.489-358-0.jpeg",
-      "published_at": "2026-08-07T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "La primera cátedra sobre mujeres en menopausia: “La alimentación y el ejercicio, al revés”",
-      "lead_fa": "La mediática farmacéutica Boticaria García está detrás de un proyecto conjunto con la Universidad de Granada que pretende generar conocimiento riguroso pero aterrizado al día a día en salud femenina, ejercicio y nutrición",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2416,7 +2416,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 147
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
@@ -2431,7 +2431,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 128
+      "count": 132
     }
   ]
 }
