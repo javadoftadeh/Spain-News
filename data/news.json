@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:10:47.334699+00:00",
+  "generated_at": "2026-08-08T07:58:29.415021+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -181,28 +181,27 @@
       "editorial_version": 2
     },
     {
-      "id": "9bfdc6f951e9",
+      "id": "2039119220c4",
       "source": "La Vanguardia",
-      "title": "El incendio de madrugada en una vivienda de Alberic deja un fallecido y tres evacuados",
-      "summary": "El Consorcio Provincial de Bomberos de Valencia extingue el fuego pasadas las seis de la madrugada en el edificio de tres alturas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260807/11609554/incendio-madrugada-vivienda-alberic-deja-fallecido-tres-evacuados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75912acb383.r_d.960-960-0.jpeg",
-      "published_at": "2026-08-07T10:07:19+02:00",
+      "title": "Confinado Serra d' en Galcerán y desalojos por un incendio forestal",
+      "summary": "Trabajan en apagar el fuego once unidades de bomberos",
+      "url": "https://www.lavanguardia.com/local/valencia/20260808/11610255/confinado-serra-d-galceran-castellon-desalojos-incendio-forestal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a707a04a3d06.r_d.2536-1691-0.jpeg",
+      "published_at": "2026-08-08T08:24:16+02:00",
       "category": "sociedad",
-      "priority": 78,
-      "title_fa": "آتش‌سوزی در خانه‌ای در آلبریک والنسیا یک کشته برجای گذاشت",
-      "lead_fa": "وقوع حریق در ساعات اولیه بامداد یک ساختمان مسکونی در آلبریک منجر به مرگ یک نفر شد. سه نفر نیز از محل حادثه تخلیه و به بیرون منتقل شدند.",
+      "priority": 77,
+      "title_fa": "قرنطینه و تخلیه ساکنان در پی آتش‌سوزی جنگلی در سرا دِ ان گالسران",
+      "lead_fa": "آتش‌سوزی گسترده جنگلی در منطقه سرا دِ ان گالسران در اسپانیا منجر به قرنطینه و تخلیه اضطراری شد. تیم‌های امدادی و آتش‌نشانی برای مهار این حریق در تلاش هستند.",
       "key_points_fa": [
-        "آتش‌سوزی در یک ساختمان سه طبقه رخ داده است.",
-        "نیروهای آتش‌نشانی استان والنسیا حریق را پس از ساعت ۶ صبح مهار کردند.",
-        "سه تن از ساکنان ساختمان تخلیه شدند."
+        "منطقه سرا دِ ان گالسران تحت قرنطینه و تخلیه اجباری قرار گرفت.",
+        "یازده یگان آتش‌نشانی برای اطفای حریق در محل مستقر هستند."
       ],
-      "analysis_fa": "این حادثه به عنوان یک رویداد ناگوار محلی توسط آتش‌نشانی والنسیا مدیریت شد و بررسی علل وقوع آتش‌سوزی در دست اقدام است.",
+      "analysis_fa": "وقوع آتش‌سوزی‌های جنگلی در مناطق مختلف اسپانیا، به‌ویژه در فصل گرم، به یک چالش جدی برای مدیریت بحران و حفاظت از مناطق مسکونی تبدیل شده است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
-        "#آلبریک",
-        "#والنسیا",
+        "#آتش_سوزی",
+        "#اسپانیا",
         "#حوادث"
       ],
       "ai_translated": true,
@@ -584,16 +583,22 @@
       "published_at": "2026-08-08T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Expectativas contra realidad: todo tiene un precio",
-      "lead_fa": "La inteligencia artificial va a cambiar el mundo, pero eso no convierte automáticamente la revolución tecnológica en una inversión rentable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "واقع‌گرایی در اقتصاد هوش مصنوعی",
+      "lead_fa": "انقلاب فناوری هوش مصنوعی جهان را تغییر خواهد داد، اما این به معنای سودآور بودن خودکار سرمایه‌گذاری‌ها نیست. کارشناسان بر لزوم بررسی دقیق‌تر بازگشت سرمایه در این حوزه تأکید می‌کنند.",
+      "key_points_fa": [
+        "هوش مصنوعی در حال دگرگونی ساختارهای جهانی است.",
+        "توسعه فناوری لزوماً به معنای سودآوری فوری سرمایه‌گذاری نیست.",
+        "بازار فناوری نیازمند ارزیابی دقیق‌تر هزینه‌ها و درآمدها است."
+      ],
+      "analysis_fa": "این گزارش نشان می‌دهد که هیجان پیرامون هوش مصنوعی نباید مانع از تحلیل‌های اقتصادی واقع‌بینانه شود. بسیاری از طرح‌های فناورانه با چالش توجیه اقتصادی و سودآوری درازمدت مواجه هستند که سرمایه‌گذاران را وادار به بازنگری در استراتژی‌های خود می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#اقتصاد_اسپانیا",
+        "#سرمایه_گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -604,18 +609,24 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-08/tenemos-la-ley-para-nacer-nos-falta-la-ley-para-crecer.html",
       "image": "https://imagenes.elpais.com/resizer/v2/Q4YMSCEQANFHZM6NHS3QKZZ2LA.jpeg?auth=5b041382997610d5a0f2a8f032df8debec143efa0cc47d56e477449554d72d08",
       "published_at": "2026-08-08T03:40:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 74,
-      "title_fa": "Tenemos la ley para nacer. Nos falta la ley para crecer",
-      "lead_fa": "El marco que impulsó en España la creación de empresas emergentes se agota justo cuando estas empiezan a escalar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "چالش‌های قانون استارتاپ‌ها در اسپانیا",
+      "lead_fa": "قانون شرکت‌های نوپا در اسپانیا که برای حمایت از کسب‌وکارهای جدید ایجاد شده بود، اکنون با موانعی در مسیر رشد مواجه است. کارشناسان بر این باورند که این چارچوب قانونی برای مرحله مقیاس‌پذیری شرکت‌ها کافی نیست.",
+      "key_points_fa": [
+        "قانون فعلی استارتاپ‌ها در اسپانیا در حال از دست دادن کارایی خود است.",
+        "مشکلات بیشتر در مرحله رشد و مقیاس‌پذیری شرکت‌ها بروز می‌کند.",
+        "نیاز به بازنگری در قوانین برای حمایت بهتر از کسب‌وکارهای نوپا وجود دارد."
+      ],
+      "analysis_fa": "قوانین حمایتی اولیه در اسپانیا توانسته‌اند به تاسیس شرکت‌های نوپا کمک کنند، اما با گذشت زمان و ورود این شرکت‌ها به مراحل بعدی توسعه، نیازهای جدیدی پدید آمده است که چارچوب فعلی پاسخگوی آن‌ها نیست. این وضعیت می‌تواند بر پویایی اکوسیستم کارآفرینی این کشور تاثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#استارتاپ",
+        "#اسپانیا",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -624,7 +635,7 @@
       "title": "Un barrido de las redes sociales marroquíes advierte de que la recluta de migrantes se ha vuelto menos visible pero sigue activa",
       "summary": "El cierre de los grupos proemigración en Facebook los ha hecho mudarse a otros en apariencia inocuos donde son menos detectables",
       "url": "https://elpais.com/espana/2026-08-08/un-barrido-de-las-redes-sociales-marroquies-advierte-de-que-la-recluta-de-migrantes-se-ha-vuelto-menos-visible-pero-sigue-activa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7PMRDL4NDZOCFPQOBVZF2BUPAA.jpg?auth=3fd6cd9bec301a3e7fc9471634d73f85febe2ed663a1d7e87877fa95535dc3fe",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202916_073339_video_1800.mp4",
       "published_at": "2026-08-08T03:30:01+00:00",
       "category": "migracion",
       "priority": 74,
@@ -646,7 +657,7 @@
       "title": "Los migrantes registrados por entidades sociales y organismos públicos en Ceuta superan con creces las cifras de Interior",
       "summary": "El Gobierno insiste en un cálculo aproximado de 2.000, pero solo en la playa del Trampolín se entregan cada día más raciones para alimentar a los recién llegados",
       "url": "https://elpais.com/espana/2026-08-08/los-migrantes-registrados-por-entidades-sociales-y-organismos-publicos-en-ceuta-supera-con-creces-las-cifras-de-interior.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BHRX7ESWENOUZJPRXPUEBBRZOQ.jpg?auth=5d2e8ddc7ad90e4286e1c8efd4f58ee7a1e4329be9d7349af153deb557c69ad0",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202916_073339_video_1800.mp4",
       "published_at": "2026-08-08T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
@@ -796,7 +807,7 @@
     },
     {
       "id": "78629e5d9a3d",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior",
       "summary": "Meléndez es la principal empresa del sector con 120 millones en ventas. Su plan de crecimiento pasa ahora por la internacionalización",
       "url": "https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html",
@@ -1097,28 +1108,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0f7e8c7fdc58",
-      "source": "La Vanguardia",
-      "title": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
-      "summary": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
-      "url": "https://www.lavanguardia.com/series/20260808/11609861/cuatro-series-enamorarse-son-dramas-juveniles-comedias-romanticas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3472f7adb5f.r_d.1033-581-0.jpeg",
-      "published_at": "2026-08-08T06:23:01+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
-      "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1049a8b05c11",
       "source": "EL PAÍS",
       "title": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
@@ -1229,6 +1218,28 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0f7e8c7fdc58",
+      "source": "La Vanguardia",
+      "title": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
+      "summary": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
+      "url": "https://www.lavanguardia.com/series/20260808/11609861/cuatro-series-enamorarse-son-dramas-juveniles-comedias-romanticas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3472f7adb5f.r_d.1033-581-0.jpeg",
+      "published_at": "2026-08-08T06:23:01+02:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
+      "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1848,28 +1859,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5a7f91a15f27",
-      "source": "EL PAÍS",
-      "title": "Playas de interior: ríos, pozas, embalses y otros lugares de baño que casi nunca aparecen en las guías",
-      "summary": "Lejos de la playa, el deseo de agua en verano se resuelve en agua dulce. Marcos Avilés decidió convertir esos lugares en protagonistas de uno de sus últimos proyectos. “Bañarse allí es una forma de estar en casa”, explica",
-      "url": "https://elpais.com/eps/2026-08-08/playas-de-interior-rios-pozas-embalses-y-otros-lugares-de-bano-que-casi-nunca-aparecen-en-las-guias.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QSYDSEU2VJE5NLLQOHR4255B3M.jpg?auth=349d67646cd6d2853cde4ef2b67761bd5d5dcc9b7f74f3a4c6497ce046d2bdcb",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Playas de interior: ríos, pozas, embalses y otros lugares de baño que casi nunca aparecen en las guías",
-      "lead_fa": "Lejos de la playa, el deseo de agua en verano se resuelve en agua dulce. Marcos Avilés decidió convertir esos lugares en protagonistas de uno de sus últimos proyectos. “Bañarse allí es una forma de estar en casa”, explica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "55b0802e865e",
       "source": "EL PAÍS",
       "title": "Prudencia en la respuesta proteccionista",
@@ -2098,7 +2087,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202870_230317_video_1800.mp4",
       "published_at": "2026-08-08T01:45:10+00:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Abelardo de la Espriella convierte su investidura en una cumbre de la derecha: “Colombia, desde ahora, deja de ser un paria”",
       "lead_fa": "Los presidentes Milei, Kast y Noboa asisten a la toma de posesión del nuevo presidente de Colombia, con quienes ha mantenido reuniones bilaterales",
       "key_points_fa": [],
@@ -2148,7 +2137,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2170,31 +2159,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
       "published_at": "2026-08-07T19:40:47+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Inveready y Mayoral asumen el control de Parlem",
       "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9da3098df3f1",
-      "source": "La Vanguardia",
-      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
-      "published_at": "2026-08-07T18:16:05+02:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2316,6 +2283,28 @@
       "editorial_version": 2
     },
     {
+      "id": "9da3098df3f1",
+      "source": "La Vanguardia",
+      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
+      "published_at": "2026-08-07T18:16:05+02:00",
+      "category": "ciencia",
+      "priority": 65,
+      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "08643bc0e0cf",
       "source": "EL PAÍS España",
       "title": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
@@ -2324,7 +2313,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/UT5TKDQRZVA2DELP3ALV7DPFLU.jpg?auth=388290fe40cc55380bbac2fd770c05b75ea0ae2537e36dc3cec96f3684819c41",
       "published_at": "2026-08-07T13:33:49+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
       "lead_fa": "El ministerio público dicta un decreto una semana después de la entrada irregular de más de 72.000 personas a la ciudad autónoma",
       "key_points_fa": [],
@@ -2346,7 +2335,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YRAQDTJNW3PMEUIHRWI2Y4NJRU.jpg?auth=8d6e94e6985420a14e60f45fda32feffefaa6ebbe8a2fce0a16ca888de1b1f66",
       "published_at": "2026-08-07T13:15:26+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "La Fiscalía pide 30 años de cárcel para cinco exjefes de ETA por el asesinato de Gregorio Ordóñez",
       "lead_fa": "El ministerio público propone escuchar en el juicio a dos etarras que declararon como testigos protegidos contra la antigua cúpula de la banda terrorista",
       "key_points_fa": [],
@@ -2402,6 +2391,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "aebfbe3e8531",
+      "source": "EL PAÍS Economía",
+      "title": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
+      "summary": "El organismo asegura que los efectos de la “perturbación energética” ocasionada por la guerra en Irán no se han “materializado aún plenamente”",
+      "url": "https://elpais.com/economia/2026-08-06/el-bce-advierte-de-que-la-inflacion-no-ha-alcanzado-su-pico-y-se-mantendra-elevada-en-lo-que-resta-de-ano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OAHVQS23YBCGDMLDANPHOHETR4.jpg?auth=034f7b0b1991a6281026e82dadc3899350be1c2e5446bc89d98a630bfafe19c7",
+      "published_at": "2026-08-06T14:33:37+00:00",
+      "category": "economia",
+      "priority": 62,
+      "title_fa": "El BCE advierte de que la inflación no ha alcanzado su pico y se mantendrá “elevada” en lo que resta de año",
+      "lead_fa": "El organismo asegura que los efectos de la “perturbación energética” ocasionada por la guerra en Irán no se han “materializado aún plenamente”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2433,7 +2444,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 148
+      "count": 147
     },
     {
       "source": "EL PAÍS España",
@@ -2448,7 +2459,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 133
+      "count": 134
     }
   ]
 }
