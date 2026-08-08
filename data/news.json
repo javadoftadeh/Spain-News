@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T13:54:58.935267+00:00",
+  "generated_at": "2026-08-08T14:46:42.449907+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
+    "899d4a3c1058",
     "10e6575a9496",
-    "5514af060a8c",
     "b731072ad7fe",
-    "795010d8c949"
+    "5514af060a8c"
   ],
   "items": [
     {
@@ -34,6 +34,34 @@
         "#ایتالیا",
         "#مهاجرت",
         "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "899d4a3c1058",
+      "source": "La Vanguardia",
+      "title": "Fallece Jorge Messi, padre de Leo, a los 68 años",
+      "summary": "El progenitor y representante del crack argentino muere en Rosario víctima de una larga enfermedad",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260808/11610352/fallece-jorge-messi-padre-leo-68-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/19/6a3505a269888.jpeg",
+      "published_at": "2026-08-08T15:21:18+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "درگذشت خورخه مسی، پدر لیونل مسی در سن ۶۸ سالگی",
+      "lead_fa": "خورخه مسی، پدر و مدیر برنامه‌های ستاره آرژانتینی، در زادگاهش روساریو درگذشت. او پس از تحمل یک دوره بیماری طولانی درگذشت.",
+      "key_points_fa": [
+        "خورخه مسی در سن ۶۸ سالگی در شهر روساریو آرژانتین درگذشت.",
+        "او علاوه بر نقش پدری، به عنوان مدیر برنامه‌های لیونل مسی نیز فعالیت می‌کرد.",
+        "علت فوت او ابتلا به یک بیماری طولانی‌مدت عنوان شده است."
+      ],
+      "analysis_fa": "خورخه مسی نقش کلیدی در شکل‌گیری و هدایت دوران حرفه‌ای پسرش لیونل مسی داشت و در تمامی مراحل انتقال‌های مهم ورزشی او در کنارش بود. درگذشت او از منظر مدیریتی و عاطفی برای خانواده مسی واقعه‌ای مهم به شمار می‌رود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#لیونل_مسی",
+        "#خورخه_مسی",
+        "#فوتبال_جهان"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -67,6 +95,35 @@
       "editorial_version": 2
     },
     {
+      "id": "b731072ad7fe",
+      "source": "EL PAÍS",
+      "title": "La misma crisis en Ceuta en un mundo diferente",
+      "summary": "Europa necesita recuperar una conversación adulta sobre la inmigración que transforme su vulnerabilidad presente en resiliencia",
+      "url": "https://elpais.com/opinion/2026-08-08/la-misma-crisis-en-ceuta-en-un-mundo-diferente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XUEE5X6PE5HSTMAL5CHA356IXA.jpg?auth=e699dcb0fa970b5c0d718f093636ad08560656fb07a5e90f75d80862496f269d",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "بحران مهاجرت در سبته و نیاز اروپا به گفتگوی جدی",
+      "lead_fa": "اروپا بار دیگر با بحران مهاجرت در سبته مواجه شده است. کارشناسان بر این باورند که قاره سبز نیازمند بازنگری در سیاست‌های مهاجرتی خود است.",
+      "key_points_fa": [
+        "تکرار بحران‌های مهاجرتی در منطقه مرزی سبته",
+        "لزوم تبدیل آسیب‌پذیری‌های کنونی به پایداری ساختاری",
+        "درخواست برای انجام گفتگوی بزرگسالانه و واقع‌بینانه در سطح اروپا"
+      ],
+      "analysis_fa": "تحولات اخیر در مرزهای اسپانیا بار دیگر نشان‌دهنده پیچیدگی مدیریت مرزی و فشارهای فزاینده مهاجرتی بر مرزهای جنوبی اروپاست. این وضعیت بیش از پیش بر ضرورت اتخاذ راهبردهای جامع و مشترک میان کشورهای عضو اتحادیه اروپا تاکید دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجرت",
+        "#سبته",
+        "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "5514af060a8c",
       "source": "EL PAÍS España",
       "title": "La crisis de Ceuta cuestiona una frontera en la que Interior ha invertido más de 37 millones desde 2019",
@@ -91,35 +148,6 @@
         "#مهاجرت",
         "#اسپانیا",
         "#مرز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b731072ad7fe",
-      "source": "EL PAÍS España",
-      "title": "La misma crisis en Ceuta en un mundo diferente",
-      "summary": "Europa necesita recuperar una conversación adulta sobre la inmigración que transforme su vulnerabilidad presente en resiliencia",
-      "url": "https://elpais.com/opinion/2026-08-08/la-misma-crisis-en-ceuta-en-un-mundo-diferente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XUEE5X6PE5HSTMAL5CHA356IXA.jpg?auth=e699dcb0fa970b5c0d718f093636ad08560656fb07a5e90f75d80862496f269d",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "بحران مهاجرت در سبته و نیاز اروپا به گفتگوی جدی",
-      "lead_fa": "اروپا بار دیگر با بحران مهاجرت در سبته مواجه شده است. کارشناسان بر این باورند که قاره سبز نیازمند بازنگری در سیاست‌های مهاجرتی خود است.",
-      "key_points_fa": [
-        "تکرار بحران‌های مهاجرتی در منطقه مرزی سبته",
-        "لزوم تبدیل آسیب‌پذیری‌های کنونی به پایداری ساختاری",
-        "درخواست برای انجام گفتگوی بزرگسالانه و واقع‌بینانه در سطح اروپا"
-      ],
-      "analysis_fa": "تحولات اخیر در مرزهای اسپانیا بار دیگر نشان‌دهنده پیچیدگی مدیریت مرزی و فشارهای فزاینده مهاجرتی بر مرزهای جنوبی اروپاست. این وضعیت بیش از پیش بر ضرورت اتخاذ راهبردهای جامع و مشترک میان کشورهای عضو اتحادیه اروپا تاکید دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#سبته",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -187,7 +215,7 @@
       "summary": "Los equipos de control fronterizo decidirán sobre la marcha si revisan vuelos completos o a algunos pasajeros, según Interior | Vivas dice que la situación en Ceuta es “absolutamente insostenible” y pide el retorno a Marruecos “de todos los que entraron”",
       "url": "https://elpais.com/espana/2026-08-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EH3GF3WJDBCELOUW7QJVV3FCTU.jpg?auth=53a0ea0703cc9467331d9af8392524c936917d9d03cf616d30f19929437ef97c",
-      "published_at": "2026-08-08T13:29:07+00:00",
+      "published_at": "2026-08-08T14:23:37+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "آغاز کنترل‌های مرزی جدید در اسپانیا و آخرین تحولات مهاجرتی در سبته",
@@ -238,34 +266,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2c876ff6e28f",
-      "source": "La Vanguardia",
-      "title": "Quién apoya a quién en la gran crisis de Infantino",
-      "summary": "La figura del presidente de la FIFA genera diversos bandos en el seno del fútbol mundial entre los críticos, los que aún le apoyan y los dubitativos",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260808/11610005/apoya-gran-crisis-infantino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7614a0b03aa.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 77,
-      "title_fa": "شکاف در فوتبال جهان بر سر بحران ریاست جیانی اینفانتینو",
-      "lead_fa": "ریاست جیانی اینفانتینو بر فیفا واکنش‌های متفاوتی را در سطح جهانی به همراه داشته است. جامعه فوتبال اکنون به سه دسته منتقدان، حامیان و افراد مردد تقسیم شده است.",
-      "key_points_fa": [
-        "شکل‌گیری صف‌بندی‌های جدید در میان اعضای فوتبال جهان",
-        "حفظ حمایت برخی از بخش‌ها از اینفانتینو در کنار افزایش انتقادات",
-        "وجود گروهی از اعضا که موضع مشخصی اتخاذ نکرده‌اند"
-      ],
-      "analysis_fa": "بحران‌های مدیریتی در نهادهای بین‌المللی ورزشی معمولاً به چالش‌های جدی در زمینه مشروعیت و اتحاد درون‌سازمانی منجر می‌شوند. وضعیت کنونی فیفا نشان‌دهنده تنش میان ساختار رهبری و بخشی از بدنه منتقد است که می‌تواند بر تصمیم‌گیری‌های کلان آینده تاثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فیفا",
-        "#فوتبال_جهان",
-        "#اینفانتینو"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "43efdc959daa",
       "source": "EL PAÍS España",
       "title": "Europa y el espejismo ceutí",
@@ -288,6 +288,34 @@
         "#سئوتا",
         "#مهاجرت",
         "#اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5f2f3b340fbc",
+      "source": "La Vanguardia",
+      "title": "El presidente de Ceuta sitúa entre 8.000 y 11.000 los migrantes que siguen en la ciudad",
+      "summary": "Juan Vivas exige al Gobierno que agilice el retorno a Marruecos, al considerar que es la “única salida” para resolver una situación “absolutamente insostenible”",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610370/presidente-ceuta-situa-8-000-11-000-migrantes-siguen-ciudad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a772b93beae3.r_d.810-540-0.jpeg",
+      "published_at": "2026-08-08T15:15:02+02:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "درخواست رئیس سبته برای بازگرداندن مهاجران به مراکش",
+      "lead_fa": "خوان ویواس بحران مهاجران در سبته را کاملاً غیرقابل تحمل توصیف کرد. او از دولت مرکزی خواست روند بازگرداندن آنان را سرعت بخشد.",
+      "key_points_fa": [
+        "شمار مهاجران باقی‌مانده در سبته بین ۸۰۰۰ تا ۱۱۰۰۰ نفر تخمین زده شده است.",
+        "رئیس دولت محلی سبته بازگشت به مراکش را تنها راه حل این بحران می‌داند."
+      ],
+      "analysis_fa": "این درخواست بار دیگر چالش‌های مدیریت مهاجرت و فشارهای وارده بر شهرهای مرزی اسپانیا مانند سبته و ملیلیه را برجسته می‌کند. بحث درباره نحوه تعامل با دولت مراکش و سرعت‌بخشیدن به روندهای اداری و دیپلماتیک همچنان در کانون توجه سیاستمداران قرار دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجران",
+        "#مراکش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -576,34 +604,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c4bb23af10d5",
-      "source": "La Vanguardia",
-      "title": "Rodalies revierte su precaria situación en ascensores y escaleras mecánicas",
-      "summary": "La mitad de los sistemas de elevación no funcionaban en febrero del 2025, cuando se produjo el cambio de empresa de mantenimiento, pero ahora están sobre el 90% de operatividad",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260808/11604446/rodalies-revierte-precaria-situacion-ascensores-escaleras-mecanicas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b309525b88.r_d.3800-3337-0.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "بهبود چشمگیر وضعیت آسانسورها و پله‌های برقی در شبکه رودالیس",
-      "lead_fa": "عملکرد آسانسورها و پله‌های برقی در شبکه قطارهای حومه‌ای رودالیس به بالای ۹۰ درصد رسید. این در حالی است که در فوریه ۲۰۲۵ نیمی از این تجهیزات از کار افتاده بودند.",
-      "key_points_fa": [
-        "در فوریه ۲۰۲۵ و همزمان با تغییر شرکت نگهداری، نیمی از سیستم‌های بالابر غیرقابل استفاده بودند.",
-        "نرخ بهره‌برداری از این تجهیزات اکنون به بیش از ۹۰ درصد افزایش یافته است.",
-        "این تغییر پس از واگذاری خدمات به پیمانکار جدید حاصل شده است."
-      ],
-      "analysis_fa": "عملکرد زیرساخت‌های حمل‌ونقل عمومی همواره یکی از چالش‌های کلیدی در کاتالونیا بوده است. تغییر شرکت‌های نگهداری و تعمیرات در شبکه رودالیس نشان می‌دهد که مدیریت پیمانکاران نقش مستقیمی در کیفیت خدمات‌رسانی به مسافران دارد، هرچند پایداری این وضعیت نیازمند نظارت مستمر است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#رودالیس",
-        "#اسپانیا",
-        "#حمل_ونقل"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "957279d70046",
       "source": "EL PAÍS",
       "title": "El ICE detiene a un futbolista argentino cuando viajaba con su equipo para jugar un partido",
@@ -884,33 +884,6 @@
       "editorial_version": 2
     },
     {
-      "id": "85373158e624",
-      "source": "EL PAÍS",
-      "title": "El giro de Colombia",
-      "summary": "Abelardo de la Espriella asume la presidencia sin una trayectoria política previa que indique cómo gobernará las instituciones",
-      "url": "https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZSHF67GQGBKGDOEUGI44C7OYTM.jpg?auth=bb31fa06b4ce98e50dad289beca5a3c2d9ffa9258d04c9f954841024211921c1",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "آبلاردو د لا اسپریلا، بدون سابقه سیاسی رئیس‌جمهور کلمبیا شد",
-      "lead_fa": "آبلاردو د la اسپریلا ریاست‌جمهوری کلمبیا را بر عهده گرفت. او هیچ سابقه سیاسی قبلی برای نشان دادن نحوه اداره نهادها ندارد.",
-      "key_points_fa": [
-        "آبلاردو د لا اسپریلا به ریاست‌جمهوری کلمبیا رسید.",
-        "وی فاقد هرگونه سابقه سیاسی پیشین است.",
-        "نحوه مدیریت نهادها توسط او در هاله‌ای از ابهام قرار دارد."
-      ],
-      "analysis_fa": "به قدرت رسیدن فردی بدون سابقه سیاسی سنتی می‌تواند پویایی جدیدی در نهادهای دولتی کلمبیا ایجاد کند و چالش‌های پیش‌بینی‌نشده‌ای برای حکمرانی کشور به همراه داشته باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کلمبیا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ce1858ac5367",
       "source": "EL PAÍS",
       "title": "‘Adults Only’",
@@ -995,29 +968,28 @@
       "editorial_version": 2
     },
     {
-      "id": "70294fe40a03",
+      "id": "85373158e624",
       "source": "EL PAÍS",
-      "title": "Xandra Falcó (Círculo Fortuny): “En España todavía hay cierto tabú para hablar de lujo y de dinero”",
-      "summary": "Lleva seis años al frente de una asociación que trabaja para potenciar las marcas de alta gama españolas y resalta la importancia que el sector tiene en la economía. Trabaja para que la labor de los artesanos tenga más visibilidad",
-      "url": "https://cincodias.elpais.com/fortunas/2026-08-08/xandra-falco-circulo-fortuny-en-espana-todavia-hay-cierto-tabu-para-hablar-de-lujo-y-de-dinero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CJ2RCO6HYZEIJDMVG7M5REIS3I.jpg?auth=b4ce06ec8cb62727046adac7dc03e0b17405cf692456bcf81bde8d7d5691b04c",
+      "title": "El giro de Colombia",
+      "summary": "Abelardo de la Espriella asume la presidencia sin una trayectoria política previa que indique cómo gobernará las instituciones",
+      "url": "https://elpais.com/opinion/2026-08-08/el-giro-de-colombia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZSHF67GQGBKGDOEUGI44C7OYTM.jpg?auth=bb31fa06b4ce98e50dad289beca5a3c2d9ffa9258d04c9f954841024211921c1",
       "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "economia",
+      "category": "politica",
       "priority": 73,
-      "title_fa": "ساندرا فالکو: در اسپانیا هنوز درباره ثروت و لوکس صحبت کردن تابو است",
-      "lead_fa": "رئیس انجمن سیرکولو فورتونی بر اهمیت اقتصادی بخش کالاهای لوکس در اسپانیا تاکید کرد. او بر تلاش برای افزایش دیده‌شدن فعالیت صنعتگران و برندهای برتر تمرکز دارد.",
+      "title_fa": "آبلاردو د لا اسپریلا، بدون سابقه سیاسی رئیس‌جمهور کلمبیا شد",
+      "lead_fa": "آبلاردو د la اسپریلا ریاست‌جمهوری کلمبیا را بر عهده گرفت. او هیچ سابقه سیاسی قبلی برای نشان دادن نحوه اداره نهادها ندارد.",
       "key_points_fa": [
-        "ساندرا فالکو شش سال است که رهبری انجمن حامی برندهای رده‌بالای اسپانیایی را بر عهده دارد.",
-        "این بخش نقش مهمی در اقتصاد اسپانیا ایفا می‌کند اما همچنان با تابوهای فرهنگی روبروست.",
-        "تمرکز اصلی این نهاد بر افزایش دیده‌شدن کار استادکاران و هنرمندان صنایع دستی است."
+        "آبلاردو د لا اسپریلا به ریاست‌جمهوری کلمبیا رسید.",
+        "وی فاقد هرگونه سابقه سیاسی پیشین است.",
+        "نحوه مدیریت نهادها توسط او در هاله‌ای از ابهام قرار دارد."
       ],
-      "analysis_fa": "اظهارات رئیس سیرکولو فورتونی نشان‌دهنده چالش‌های فرهنگی موجود در مسیر معرفی و توسعه صنعت لوکس در اسپانیا است. با وجود نقش پررنگ این صنعت در اقتصاد کلان، نگرش‌های اجتماعی سنتی گاه مانع از پذیرش عمومی آن به عنوان یک موتور محرک اقتصادی می‌شود.",
+      "analysis_fa": "به قدرت رسیدن فردی بدون سابقه سیاسی سنتی می‌تواند پویایی جدیدی در نهادهای دولتی کلمبیا ایجاد کند و چالش‌های پیش‌بینی‌نشده‌ای برای حکمرانی کشور به همراه داشته باشد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اقتصاد_اسپانیا",
-        "#کالای_لوکس",
-        "#ساندرا_فالکو"
+        "#کلمبیا",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1102,6 +1074,34 @@
         "#برلین",
         "#گردشگری",
         "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5533080a1a75",
+      "source": "EL PAÍS",
+      "title": "Quiénes son los Mahomes: cómo Patrick y Brittany transformaron el éxito deportivo en una fortuna y valor seguro para las marcas",
+      "summary": "Contratos millonarios, impecable imagen familiar y copropietarios de uno de los clubes de fútbol femenino más importantes de EE UU. La fama del matrimonio, que tiene tres hijos en común, ha traspasado fronteras por su amistad con Taylor Swift y Travis Kelce",
+      "url": "https://elpais.com/gente/2026-08-08/quienes-son-los-mahomes-como-patrick-y-brittany-transformaron-el-exito-deportivo-en-una-fortuna-y-valor-seguro-para-las-marcas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/37BV7YHBIVG7ZCVEUTRVXHWNEA.jpg?auth=984ad51f674a00e31d54c6ce91f7d628d56d169d1a6775e0f0bb892d08a473b0",
+      "published_at": "2026-08-08T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 72,
+      "title_fa": "پاتریک و بریتانی ماهومز؛ از موفقیت ورزشی تا ثروت کلان و برند جهانی",
+      "lead_fa": "پاتریک و بریتانی ماهومز موفق شده‌اند موفقیت‌های ورزشی خود را به یک امپراتوری تجاری و ثروتی چشمگیر تبدیل کنند. تصویر خانوادگی آن‌ها و دوستی با چهره‌های سرشناس بر محبوبیت جهانی‌شان افزوده است.",
+      "key_points_fa": [
+        "امضای قراردادهای مالی چند میلیون دلاری توسط این زوج",
+        "مالکیت مشترک یکی از باشگاه‌های مهم فوتبال زنان در ایالات متحده",
+        "افزایش شهرت بین‌المللی به واسطه ارتباط با تیلور سوئیفت و تراویس کلسی"
+      ],
+      "analysis_fa": "این زوج موفق شده‌اند با ترکیب دستاوردهای ورزشی، مدیریت هوشمندانه تصویر عمومی و سرمایه‌گذاری‌های استراتژیک، نام خود را به یک برند تجاری مطمئن برای شرکت‌های بزرگ تبدیل کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ماهمز",
+        "#ورزش_آمریکا",
+        "#اقتصاد_ورزش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1193,6 +1193,50 @@
       "editorial_version": 2
     },
     {
+      "id": "45009c88c7cd",
+      "source": "La Vanguardia",
+      "title": "El Senado de EE.UU. confirma a Todd Blanche, abogado de Trump, como fiscal general",
+      "summary": "Tras superar las dudas de los republicanos sobre la independencia del Departamento de Justicia, el fiel abogado del presidente se pone al mando de la persecución de sus enemigos políticos",
+      "url": "https://www.lavanguardia.com/internacional/20260808/11610378/senado-ee-uu-confirma-todd-blanche-abogado-trump-fiscal-general.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a773354f03cb.jpeg",
+      "published_at": "2026-08-08T15:51:01+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El Senado de EE.UU. confirma a Todd Blanche, abogado de Trump, como fiscal general",
+      "lead_fa": "Tras superar las dudas de los republicanos sobre la independencia del Departamento de Justicia, el fiel abogado del presidente se pone al mando de la persecución de sus enemigos políticos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3e095d5b1ecc",
+      "source": "La Vanguardia",
+      "title": "El fútbol despide a Jorge Messi, padre de Lionel Messi: sigue las últimas reacciones en directo",
+      "summary": "El representante del futbolista llevaba años padeciendo una larga enfermedad",
+      "url": "https://www.lavanguardia.com/deportes/20260808/11610369/muere-jorge-messi-padre-leo-messi-68-anos-reacciones-ultima-hora-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/04/05/5fa523a2503ea.jpeg",
+      "published_at": "2026-08-08T15:26:20+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "El fútbol despide a Jorge Messi, padre de Lionel Messi: sigue las últimas reacciones en directo",
+      "lead_fa": "El representante del futbolista llevaba años padeciendo una larga enfermedad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "7441fb1bb7e9",
       "source": "La Vanguardia",
       "title": "Así son los controles a pie de avión procedente de Italia: centrados en ciudadanos de terceros países",
@@ -1249,6 +1293,28 @@
       "editorial_version": 2
     },
     {
+      "id": "35ead25dc117",
+      "source": "EL PAÍS España",
+      "title": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
+      "summary": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
+      "url": "https://elpais.com/espana/2026-08-08/primer-dia-de-control-a-los-viajeros-procedentes-de-italia-la-policia-pide-la-documentacion-a-solo-el-5-o-10-de-los-pasajeros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SDWG6MFXCNB7FFL7TI5R3LGALY.jpg?auth=96901d01826ac51db10d7292ae8fa9045f434e7e05aea9aeaed703c0159e8dd7",
+      "published_at": "2026-08-08T14:33:55+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
+      "lead_fa": "Los registros se han iniciado en Barajas y El Prat y se han ido extendiendo durante la mañana a los de Málaga, Sevilla, Bilbao, Alicante y Valencia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "aa8545514856",
       "source": "La Vanguardia",
       "title": "Ferran comunica al Barça que quiere irse al PSG",
@@ -1300,17 +1366,39 @@
       "editorial_version": 2
     },
     {
-      "id": "b510f58763b7",
-      "source": "La Vanguardia",
-      "title": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
-      "summary": "La situación en el aeropuerto de El Prat es de absoluta normalidad y solo ha habido control de identidad a los viajeros de un vuelo procedente de Roma",
-      "url": "https://www.lavanguardia.com/politica/20260808/11610333/primeros-controles-aeropuerto-prat-vuelos-procedentes-italia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7713085e501.jpeg",
-      "published_at": "2026-08-08T13:11:55+02:00",
-      "category": "turismo",
+      "id": "64410edc86af",
+      "source": "EL PAÍS",
+      "title": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
+      "summary": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
+      "url": "https://elpais.com/sociedad/2026-08-08/ingreso-en-prision-sin-fianza-para-el-hombre-que-asesino-a-su-expareja-en-un-centro-comercial-en-murcia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M5WB4JFDYJKOBM4EMYEC6ARZAI.jpg?auth=73f6813f69e0656f8142ca02145a7ef7fadcc9b84afb5099b5bf478819b9d7d4",
+      "published_at": "2026-08-08T13:46:30+00:00",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
-      "lead_fa": "La situación en el aeropuerto de El Prat es de absoluta normalidad y solo ha habido control de identidad a los viajeros de un vuelo procedente de Roma",
+      "title_fa": "Ingreso en prisión sin fianza para el hombre que asesinó a su expareja en un centro comercial en Murcia",
+      "lead_fa": "El agresor, que tenía una orden de alejamiento en vigor, ha confesado el crimen. La justicia considera que enviarlo a la cárcel de manera provisional es la única forma de no “comprometer” el proceso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fcc4f467b445",
+      "source": "EL PAÍS",
+      "title": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
+      "summary": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
+      "url": "https://elpais.com/deportes/2026-08-08/bouzan-y-llera-se-llevan-un-emocionante-y-disputado-descenso-del-sella-que-estreno-puente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PZS3YIGVLFIO5N4YIA22RU2GRU.jpg?auth=d5009446fe9fe695824ef27d6e449c404275728a707d419529fab26cd78634a9",
+      "published_at": "2026-08-08T13:16:41+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Bouzán y Llera se llevan un emocionante y disputado Descenso del Sella que estrenó puente",
+      "lead_fa": "Santiago Cazorla ejerce de pregonero en la 88ª edición de la prueba, que congregó a decenas de miles de personas en las riberas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1479,61 +1567,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d797fb32a09d",
+      "id": "b510f58763b7",
       "source": "La Vanguardia",
-      "title": "Barcelona envía más de 15.000 notificaciones de multa a personas extranjeras en el 2025",
-      "summary": "El Ayuntamiento ha implantado una aplicación que detecta las matrículas extranjeras",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260808/11610308/barcelona-envia-mas-15-000-notificaciones-multa-personas-extranjeras-2025.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/01/68b54cf4f15ce.jpeg",
-      "published_at": "2026-08-08T11:29:37+02:00",
-      "category": "deportes",
+      "title": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
+      "summary": "La situación en el aeropuerto de El Prat es de absoluta normalidad y solo ha habido control de identidad a los viajeros de un vuelo procedente de Roma",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610333/primeros-controles-aeropuerto-prat-vuelos-procedentes-italia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7713085e501.jpeg",
+      "published_at": "2026-08-08T13:11:55+02:00",
+      "category": "turismo",
       "priority": 69,
-      "title_fa": "Barcelona envía más de 15.000 notificaciones de multa a personas extranjeras en el 2025",
-      "lead_fa": "El Ayuntamiento ha implantado una aplicación que detecta las matrículas extranjeras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e638696bb93e",
-      "source": "EL PAÍS",
-      "title": "La Guardia Civil desplegará más de 24.000 agentes en el dispositivo especial del eclipse solar",
-      "summary": "El operativo garantizará la seguridad de más de 660 puntos de observación del fenómeno este 12 de agosto",
-      "url": "https://elpais.com/sociedad/2026-08-08/la-guardia-civil-desplegara-mas-de-24000-agentes-en-el-dispositivo-especial-del-eclipse-solar.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202961_123942_video_1800.mp4",
-      "published_at": "2026-08-08T08:51:20+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "La Guardia Civil desplegará más de 24.000 agentes en el dispositivo especial del eclipse solar",
-      "lead_fa": "El operativo garantizará la seguridad de más de 660 puntos de observación del fenómeno este 12 de agosto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ca9097c5c3a7",
-      "source": "La Vanguardia",
-      "title": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
-      "summary": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260807/11609977/adif-sensores-trinitat-vella-control-vibraciones-obras-vallbona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760698cc5a8.r_d.3664-2818-0.jpeg",
-      "published_at": "2026-08-07T19:10:32+02:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
-      "lead_fa": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
+      "title_fa": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
+      "lead_fa": "La situación en el aeropuerto de El Prat es de absoluta normalidad y solo ha habido control de identidad a los viajeros de un vuelo procedente de Roma",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1578,28 +1622,6 @@
       "priority": 67,
       "title_fa": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
       "lead_fa": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "575e88d6f4af",
-      "source": "La Vanguardia",
-      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
-      "summary": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
-      "url": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75e929639ac.r_d.694-281-0.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
-      "lead_fa": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1688,6 +1710,28 @@
       "priority": 67,
       "title_fa": "Las aerolíneas endurecen el control del equipaje de mano durante el embarque",
       "lead_fa": "El celo con que se miden mochilas o bultos lleva a recargos que encarecen el billete",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "575e88d6f4af",
+      "source": "La Vanguardia",
+      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
+      "summary": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
+      "url": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75e929639ac.r_d.694-281-0.jpeg",
+      "published_at": "2026-08-08T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
+      "lead_fa": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1941,28 +1985,6 @@
       "editorial_version": 2
     },
     {
-      "id": "da7c83670fa2",
-      "source": "EL PAÍS",
-      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
-      "summary": "Los limpios cielos de la provincia, que tiene algunas de las comarcas más despobladas de Europa, han hecho de ella un semillero de vocaciones astronómicas",
-      "url": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ISV7DLNUIZBJHLG25SOLXQJJGY.jpg?auth=4a0f5a7dcce12404a4e0cb3bb7663e97bd8fc9fcbb8e69543b592959f5a5a600",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 67,
-      "title_fa": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
-      "lead_fa": "Los limpios cielos de la provincia, que tiene algunas de las comarcas más despobladas de Europa, han hecho de ella un semillero de vocaciones astronómicas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6c8b8145f9e1",
       "source": "EL PAÍS",
       "title": "Garik Israelian: “El terraplanismo es un problema que debe tratar la psicología, no la astronomía”",
@@ -2073,50 +2095,6 @@
       "editorial_version": 2
     },
     {
-      "id": "43487e031849",
-      "source": "EL PAÍS",
-      "title": "Una boya de Mallorca bate el récord de calor en mar abierto del Mediterráneo con 33 grados",
-      "summary": "Un mar cada vez más cálido tiene fuertes impactos en el tiempo, el clima, los ecosistemas y hasta en el turismo",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-08/una-boya-de-mallorca-bate-el-record-de-calor-en-mar-abierto-del-mediterraneo-con-33-grados.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZJ2QEPMEIVAZBO74B33HJ7WEUA.jpg?auth=96395b968a36286f8c7b0ecac6cd9562481d2e9cec69c74e33cf19b91192ee55",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Una boya de Mallorca bate el récord de calor en mar abierto del Mediterráneo con 33 grados",
-      "lead_fa": "Un mar cada vez más cálido tiene fuertes impactos en el tiempo, el clima, los ecosistemas y hasta en el turismo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8653870dd40a",
-      "source": "EL PAÍS",
-      "title": "El escenario donde apareció Puigdemont: “Lo grabé para que me creyeran mi novia y mi madre”",
-      "summary": "Dos años después de aquel episodio nada ha cambiado en el pasaje Sant Benet de Barcelona",
-      "url": "https://elpais.com/espana/catalunya/2026-08-08/el-escenario-donde-aparecio-puigdemont-lo-grabe-para-que-me-creyeran-mi-novia-y-mi-madre.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20240808/982991_074110_video_1800.mp4",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "El escenario donde apareció Puigdemont: “Lo grabé para que me creyeran mi novia y mi madre”",
-      "lead_fa": "Dos años después de aquel episodio nada ha cambiado en el pasaje Sant Benet de Barcelona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "dca7e0337aff",
       "source": "EL PAÍS",
       "title": "Mourinho y Guardiola, tan cerca y tan lejos",
@@ -2139,28 +2117,6 @@
       "editorial_version": 2
     },
     {
-      "id": "72f77ea8c751",
-      "source": "EL PAÍS",
-      "title": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
-      "summary": "La económica fue una de las muchas formas de violencia que el ya exguardia civil ejerció contra su expareja y también agente hasta que la asesinó el 5 de agosto en el cuartel de Llanes, donde ella vivía y trabajaba",
-      "url": "https://elpais.com/sociedad/2026-08-08/la-ultima-denuncia-de-laura-cruz-tengo-tanto-miedo-a-damaso-porque-no-le-importa-a-quien-llevarse-por-medio.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202920_082737_video_1800.mp4",
-      "published_at": "2026-08-08T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
-      "lead_fa": "La económica fue una de las muchas formas de violencia que el ya exguardia civil ejerció contra su expareja y también agente hasta que la asesinó el 5 de agosto en el cuartel de Llanes, donde ella vivía y trabajaba",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "bb3e7b10e6f1",
       "source": "EL PAÍS",
       "title": "¿Cómo hay que usar las gafas especiales durante el eclipse solar total del 12 de agosto?",
@@ -2172,6 +2128,28 @@
       "priority": 67,
       "title_fa": "¿Cómo hay que usar las gafas especiales durante el eclipse solar total del 12 de agosto?",
       "lead_fa": "Guía con todos los pasos para emplear el accesorio imprescindible para disfrutar del fenómeno y comprobar que cumple todos los requisitos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "72f77ea8c751",
+      "source": "EL PAÍS",
+      "title": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
+      "summary": "La económica fue una de las muchas formas de violencia que el ya exguardia civil ejerció contra su expareja y también agente hasta que la asesinó el 5 de agosto en el cuartel de Llanes, donde ella vivía y trabajaba",
+      "url": "https://elpais.com/sociedad/2026-08-08/la-ultima-denuncia-de-laura-cruz-tengo-tanto-miedo-a-damaso-porque-no-le-importa-a-quien-llevarse-por-medio.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202920_082737_video_1800.mp4",
+      "published_at": "2026-08-08T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
+      "lead_fa": "La económica fue una de las muchas formas de violencia que el ya exguardia civil ejerció contra su expareja y también agente hasta que la asesinó el 5 de agosto en el cuartel de Llanes, donde ella vivía y trabajaba",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2238,6 +2216,28 @@
       "priority": 67,
       "title_fa": "Leanne ten Brinke, psicóloga: “Hay tres veces más personalidades cercanas a la psicopatía en los altos cargos que en la población general”",
       "lead_fa": "La experta asegura que vivimos rodeados de muchas personas que, sin alcanzar ni de lejos estas cotas de violencia extrema, sí comparten muchos rasgos con los psicópatas de nuestro imaginario colectivo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "db44437a279a",
+      "source": "EL PAÍS",
+      "title": "“Era desagradable a la vista, pero pensamos que tenía posibilidades”: cómo un arquitecto español “tiró” una casa de Los Ángeles para resucitarla",
+      "summary": "Ubicada al nordeste de la ciudad californiana, Casa Granada conserva la esencia de la arquitectura colonial española, pero también admite muebles ‘mid-century’, como sillas de los Eames, objetos de estética industrial y algunos toques ‘art nouveau’",
+      "url": "https://elpais.com/icon-design/2026-08-08/era-desagradable-a-la-vista-pero-pensamos-que-tenia-posibilidades-como-un-arquitecto-espanol-tiro-una-casa-de-los-angeles-para-resucitarla.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NHUKPVQJPFGN5A6NYBBZ4QOOY4.jpg?auth=95ea7583c32d6fa0f4387b4121c739ebafb21b44b8f71d18f963bdba17ee73ab",
+      "published_at": "2026-08-08T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "“Era desagradable a la vista, pero pensamos que tenía posibilidades”: cómo un arquitecto español “tiró” una casa de Los Ángeles para resucitarla",
+      "lead_fa": "Ubicada al nordeste de la ciudad californiana, Casa Granada conserva la esencia de la arquitectura colonial española, pero también admite muebles ‘mid-century’, como sillas de los Eames, objetos de estética industrial y algunos toques ‘art nouveau’",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2542,7 +2542,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 154
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
@@ -2557,7 +2557,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 140
     }
   ]
 }
