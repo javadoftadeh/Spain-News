@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:08:04.299402+00:00",
+  "generated_at": "2026-08-09T10:50:00.518955+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -181,34 +181,6 @@
       "editorial_version": 2
     },
     {
-      "id": "47cf7613c17e",
-      "source": "La Vanguardia",
-      "title": "La pastelería para turistas con un queso gigante cambiará su cartel la semana que viene",
-      "summary": "Este rótulo contraviene las ordenanzas municipales y crispa a los vecinos, que alertan de la turistificación del barrio",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260809/11610356/pasteleria-turistas-queso-gigante-consell-cent-cambiara-cartel-semana-viene.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a771b29e5b59.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 77,
-      "title_fa": "تغییر تابلوی قنادی جنجالی با پنیر غول‌پیکر در بارسلونا",
-      "lead_fa": "یک قنادی مخصوص گردشگران که به خاطر تابلوی پنیر غول‌پیکر خود جنجال‌ساز شده بود، هفته آینده آن را تغییر می‌دهد. این تابلو با مخالفت اهالی محل و نقض قوانین شهرداری مواجه شده بود.",
-      "key_points_fa": [
-        "تابلوی پنیر غول‌پیکر با مقررات شهرداری مغایرت دارد.",
-        "ساکنان محلی نسبت به روند فزاینده گردشگری‌سازی در محله اعتراض کرده بودند.",
-        "مدیریت قنادی پذیرفته است که تابلو را هفته آینده اصلاح کند."
-      ],
-      "analysis_fa": "این رویداد بار دیگر چالش میان کسب‌وکارهای وابسته به گردشگری انبوه و حقوق ساکنان محلی در شهرهای بزرگ اسپانیا نظیر بارسلونا را برجسته می‌کند. اجرای دقیق‌تر مقررات شهری توسط نهادهای محلی راهکاری برای ایجاد تعادل میان اقتصاد گردشگری و کیفیت زندگی شهروندان است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#گردشگری",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ce2cf7a8297f",
       "source": "EL PAÍS",
       "title": "La Marcha Azul de Ceuta descubre brechas en la UE y malestar en Marruecos",
@@ -350,12 +322,40 @@
       "editorial_version": 2
     },
     {
+      "id": "b3252e72cf21",
+      "source": "La Vanguardia",
+      "title": "El exsecretario general del sindicato agrario UAGA y su esposa, hallados muertos con signos de violencia en su vivienda",
+      "summary": "Los cuerpos fueron encontrados el sábado con signos de violencia",
+      "url": "https://www.lavanguardia.com/sucesos/20260809/11610673/hallados-muertos-domicilio-tauste-zaragoza.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/05/68e220ea442bf.jpeg",
+      "published_at": "2026-08-09T11:23:38+02:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "قتل دبیرکل پیشین اتحادیه کشاورزی UAGA و همسرش در منزل",
+      "lead_fa": "پلیس اسپانیا از کشف اجساد بی‌جان دبیرکل پیشین اتحادیه کشاورزی UAGA و همسرش خبر داد. روی بدن هر دو قربانی آثار خشونت مشهود است.",
+      "key_points_fa": [
+        "اجساد در روز شنبه داخل منزل مسکونی کشف شدند.",
+        "آثار خشونت روی پیکر قربانیان یافت شده است.",
+        "تحقیقات پلیس برای روشن شدن ابعاد این پرونده جریان دارد."
+      ],
+      "analysis_fa": "این واقعه جنایی در حوزه امنیت داخلی و جامعه رخ داده و پرونده تحت بررسی مراجع انتظامی و قضایی قرار دارد تا انگیزه و جزئیات آن مشخص شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "6a7a02587513",
       "source": "La Vanguardia",
       "title": "Así fue cómo la sentencia del Tribunal Supremo y los bulos derivaron en el asalto en Ceuta",
       "summary": "La embestida fronteriza que nadie vio venir pese a los avisos",
       "url": "https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77693641e16.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a784b4418094.jpeg",
       "published_at": "2026-08-09T06:02:53+02:00",
       "category": "politica",
       "priority": 75,
@@ -842,18 +842,23 @@
       "url": "https://elpais.com/opinion/2026-08-09/carlos-senghor-diatta-no-quiere-ser-futbolista.html",
       "image": "https://imagenes.elpais.com/resizer/v2/KBPJP5GHUZHDXDHK4NXFPAYSWI.jpg?auth=9bb547b15e2df0ec43b54ecbad32237e29da4184dc7d0f8c6e3a6bdfa1fc122a",
       "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "politica",
+      "category": "sociedad",
       "priority": 73,
-      "title_fa": "Carlos Senghor Diatta no quiere ser futbolista",
-      "lead_fa": "El activista Moha Gerehou observa más hostilidad en los espacios compartidos. Hay pocos niños y molestan",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نگاهی به افزایش تنش‌ها و خصومت در فضاهای مشترک در اسپانیا",
+      "lead_fa": "فعالان اجتماعی از افزایش رفتارهای خصمانه در فضاهای عمومی و مشترک گزارش می‌دهند. حضور کودکان مهاجر در این فضاها اغلب با واکنش‌های منفی روبه‌رو می‌شود.",
+      "key_points_fa": [
+        "مهاا Gerehou نسبت به رشد خصومت در فضاهای مشترک هشدار داد.",
+        "حضور کودکان در این محیط‌ها مایه نارضایتی برخی افراد می‌شود."
+      ],
+      "analysis_fa": "این مسئله بازتاب‌دهنده چالش‌های اجتماعی پیرامون همزیستی و نگرش‌های عمومی نسبت به اقلیت‌ها و کودکان در فضاهای شهری اسپانیا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مهاجران",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -866,16 +871,22 @@
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "economia",
       "priority": 73,
-      "title_fa": "¿Qué hace Planifica Madrid? “Compra y vende inmuebles”, según Ayuso, aunque la realidad lo desmiente: solo ha comprado dos en cinco años",
-      "lead_fa": "La empresa pública madrileña era una desconocida para el público general y en su trayectoria no consta una adquisición semejante a la del ático de 485 metros cuadrados que le ha puesto en el punto de mira",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "عملکرد شرکت «پلانیفیکا مادرید» زیر ذره‌بین؛ خرید ملکی جنجالی در پنج سال",
+      "lead_fa": "شرکت دولتی پلانیفیکا مادرید که تاکنون برای عموم ناشناخته بود، با یک خرید ملکی بزرگ در کانون توجه قرار گرفت. ایزابل دایوسو مدعی خرید و فروش املاک توسط این نهاد شده، اما سوابق آن نشان‌دهنده خرید تنها دو ملک در پنج سال گذشته است.",
+      "key_points_fa": [
+        "شرکت دولتی پلانیفیکا مادرید تنها دو ملک را طی پنج سال گذشته خریداری کرده است.",
+        "این شرکت اخیراً به دلیل خرید یک پنت‌هاوس ۴۸۵ متری مورد توجه رسانه‌ها قرار گرفته است.",
+        "مقام‌های محلی ادعاهای متفاوتی درباره فعالیت‌های تجاری و خرید و فروش املاک توسط این نهاد مطرح کرده‌اند."
+      ],
+      "analysis_fa": "این مسئله چالش‌های شفافیت در نهادهای دولتی محلی و نحوه مدیریت دارایی‌های عمومی در مادرید را برجسته می‌کند. تفاوت میان ادعاهای مقامات رسمی و آمار واقعی عملکرد، پرسش‌هایی را درباره نظارت بر این شرکت‌ها ایجاد کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مادرید",
+        "#اقتصاد_اسپانیا",
+        "#مسکن"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1096,6 +1107,50 @@
       "editorial_version": 2
     },
     {
+      "id": "01de8a73af04",
+      "source": "La Vanguardia",
+      "title": "Mourinho ve en Bernardo Silva una parte de Rodri",
+      "summary": "El entrenador quiso destacar la versatilidad del portugués, a quien conoce bien, y que puede utilizar como seis u ocho en un mediocampo discutido en la plantilla blanca",
+      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260809/11610675/mourinho-ve-bernardo-silva-parte-rodri-ayudara-salida-balon.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a784786d58f1.jpeg",
+      "published_at": "2026-08-09T11:38:24+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Mourinho ve en Bernardo Silva una parte de Rodri",
+      "lead_fa": "El entrenador quiso destacar la versatilidad del portugués, a quien conoce bien, y que puede utilizar como seis u ocho en un mediocampo discutido en la plantilla blanca",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4c91fc561a18",
+      "source": "La Vanguardia",
+      "title": "Flick lamenta la salida de Araújo, que ya viaja a Liverpool: “Es una pena, no pudimos incluirlo”",
+      "summary": "El técnico elogió el carácter y potencial del central tras el triangular de Udine",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260809/11610670/araujo-viaja-liverpool-flick-lamenta-adios.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/31/6a6cee39bc3ef.r_d.2202-2493-0.jpeg",
+      "published_at": "2026-08-09T11:16:19+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Flick lamenta la salida de Araújo, que ya viaja a Liverpool: “Es una pena, no pudimos incluirlo”",
+      "lead_fa": "El técnico elogió el carácter y potencial del central tras el triangular de Udine",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "eb1e05ecb677",
       "source": "La Vanguardia",
       "title": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
@@ -1212,34 +1267,6 @@
       "editorial_version": 2
     },
     {
-      "id": "df311eb3e803",
-      "source": "La Vanguardia",
-      "title": "Carrara no es solo cosa de oligarcas",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7621a51ef3b.jpeg",
-      "published_at": "2026-08-09T00:00:00+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "کالارا؛ فراتر از بازی الیگارش‌ها",
-      "lead_fa": "بررسی ابعاد جدیدی از مسابقات کالارا فراتر از منافع اقشار مرفه. این رویداد ورزشی ابعاد اجتماعی و اقتصادی متفاوتی را به نمایش می‌گذارد.",
-      "key_points_fa": [
-        "نگاهی نو به ساختار مسابقات کالارا در اسپانیا",
-        "تلاش برای کاهش نگاه الیگارشی به این رشته ورزشی",
-        "بازتاب گسترده در رسانه‌های ورزشی La Vanguardia"
-      ],
-      "analysis_fa": "این گزارش نشان می‌دهد که مسابقات کالارا در حال فاصله گرفتن از انحصار طبقات خاص است و تلاش می‌کند مخاطبان گسترده‌تری را جذب کند، هرچند چالش‌های ساختاری همچنان پابرجا هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ورزش",
-        "#اسپانیا",
-        "#کالارا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "35ead25dc117",
       "source": "EL PAÍS España",
       "title": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
@@ -1333,7 +1360,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75c46ed0420.jpeg",
       "published_at": "2026-08-09T06:36:42+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "“Me fascinan las áreas grises de la moralidad”",
       "lead_fa": "La actriz, recordada por 'El fantasma de la ópera' y 'Shameless,' regresa con 'Furious', donde interpreta a una agente novata del FBI marcada por el trauma",
       "key_points_fa": [],
@@ -1355,7 +1382,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7767f89fd64.jpeg",
       "published_at": "2026-08-09T06:26:47+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Un Govern a dos velocidades",
       "lead_fa": "Illa tiene presupuestos y una alianza sólida con ERC y Comuns, pero se le resisten los temas prioritarios Salvador Illa tiene presupuestos y una alianza sólida con ERC y Comuns, pero se le resisten los temas prioritarios",
       "key_points_fa": [],
@@ -1578,28 +1605,6 @@
       "priority": 68,
       "title_fa": "“La baja laboral no debería ser blanco o negro”",
       "lead_fa": "Olga Pané, consellera de Salut, se reincorpora después de más de tres meses de ausencia por un accidente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4c59219bcf15",
-      "source": "La Vanguardia",
-      "title": "Salidas a todo trapo: Araújo va al Liverpool, el Barça ya sabe que Ferran quiere jugar en el PSG...",
-      "summary": "El equipo británico se hará cargo de la totalidad de la ficha del central uruguayo y el valenciano piensa que merece un estatus superior al que el club blaugrana puede ofrecerle",
-      "url": "https://www.lavanguardia.com/deportes/20260809/11610577/salidas-trapo-araujo-liverpool-barca-ferran-quiere-jugar-psg.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a76e8225d528.r_d.3247-2824-0.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Salidas a todo trapo: Araújo va al Liverpool, el Barça ya sabe que Ferran quiere jugar en el PSG...",
-      "lead_fa": "El equipo británico se hará cargo de la totalidad de la ficha del central uruguayo y el valenciano piensa que merece un estatus superior al que el club blaugrana puede ofrecerle",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2320,7 +2325,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 58,
+      "priority": 57,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2342,31 +2347,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
       "published_at": "2026-08-07T19:40:47+00:00",
       "category": "sociedad",
-      "priority": 58,
+      "priority": 57,
       "title_fa": "Inveready y Mayoral asumen el control de Parlem",
       "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9da3098df3f1",
-      "source": "La Vanguardia",
-      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
-      "published_at": "2026-08-07T18:16:05+02:00",
-      "category": "ciencia",
-      "priority": 57,
-      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2464,6 +2447,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "bde479d2bd4c",
+      "source": "EL PAÍS Economía",
+      "title": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "summary": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/aena-mantiene-la-subasta-en-los-contratos-de-su-macroplan-de-13000-millones-en-obras-pese-a-la-oposicion-de-las-constructoras.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LYYCE2KYAUD7PTHTS7EUL5UVTI.jpg?auth=fba4a56fb1c7eaf30117466a12f4b72d80847b1a6fe378efeea0a9e458c61b2f",
+      "published_at": "2026-08-07T03:15:00+00:00",
+      "category": "economia",
+      "priority": 57,
+      "title_fa": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "lead_fa": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2510,7 +2515,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 139
+      "count": 141
     }
   ]
 }
