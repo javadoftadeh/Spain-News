@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:15:53.901082+00:00",
+  "generated_at": "2026-08-09T06:26:46.347821+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -239,7 +239,7 @@
     },
     {
       "id": "233f45c75c6c",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Lecciones de la crisis en Ceuta",
       "summary": "Es posible que esto no haya hecho más que empezar y que detrás de todo esté la cuestión de la soberanía",
       "url": "https://elpais.com/opinion/2026-08-09/lecciones-de-la-crisis-en-ceuta.html",
@@ -275,16 +275,22 @@
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "La hora cero de los megaincendios de julio: las pistas que siguen los investigadores",
-      "lead_fa": "La Guardia Civil intenta resolver las incógnitas que han dejado los fuegos, ambos provocados, en Ávila y la Vall d’Uixó",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تحقیقات درباره آتش‌سوزی‌های عمدی اخیر در اسپانیا",
+      "lead_fa": "گارد ملی اسپانیا در حال بررسی ابعاد آتش‌سوزی‌های عمدی در آویلا و بای د اوشو است. کارشناسان به دنبال یافتن سرنخ‌هایی از عاملان این فجایع هستند.",
+      "key_points_fa": [
+        "آتش‌سوزی‌های اخیر در مناطق آویلا و بای د اوشو رخ داده است.",
+        "شواهد اولیه نشان می‌دهد که این حریق‌ها به صورت عمدی ایجاد شده‌اند.",
+        "گارد ملی اسپانیا تحقیقات تخصصی را برای شناسایی عوامل این آتش‌سوزی‌ها آغاز کرده است."
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی‌های عمدی در فصل گرم سال یکی از چالش‌های بزرگ امنیتی و زیست‌محیطی در اسپانیا است. تمرکز نهادهای انتظامی بر کشف زوایای پنهان این حوادث نشان‌دهنده تلاش دولت برای پیشگیری از تکرار بحران‌های مشابه در آینده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#حوادث"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -297,43 +303,21 @@
       "published_at": "2026-08-09T03:30:00+00:00",
       "category": "ciencia",
       "priority": 77,
-      "title_fa": "Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse",
-      "lead_fa": "Con destinos del interior con lleno total desde hace más de un año y miles de personas que tomarán una decisión a última hora, España vivirá este 12 de agosto un fenómeno astronómico único que supondrá un desafío para las autoridades",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "164b4793e609",
-      "source": "EL PAÍS",
-      "title": "La crisis de Ceuta da alas a los partidarios de los centros de deportación de migrantes fuera de la UE",
-      "summary": "Los Estados miembros que apoyan estas instalaciones quieren llegar a los primeros acuerdos con terceros países antes de acabar el año",
-      "url": "https://elpais.com/internacional/2026-08-08/la-crisis-de-ceuta-da-alas-a-los-partidarios-de-los-centros-de-deportacion-fuera-de-la-ue.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ESCWOUKGUFDMVADFNQY4U6PBNI.jpg?auth=cbaaf7955fafea36d9ced44dc29c76c92636bfa9812a3ae30a489f551cc5b3d9",
-      "published_at": "2026-08-08T17:25:14+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "بحران سبته و قوت گرفتن طرح مراکز اخراج مهاجران خارج از اتحادیه اروپا",
-      "lead_fa": "کشورهای حامی ایجاد مراکز اخراج مهاجران در خارج از اتحادیه اروپا تلاش می‌کنند تا پیش از پایان سال جاری میلادی به نخستین توافق‌ها با کشورهای ثالث دست یابند. بحران اخیر در سبته به این طرح‌ها شتاب بخشیده است.",
+      "title_fa": "آمادگی اسپانیا برای پدیده نجومی نادر خورشیدگرفتگی",
+      "lead_fa": "اسپانیا در ۱۲ اوت میزبان یک پدیده نجومی بی‌نظیر خواهد بود که چالشی جدی برای مقامات این کشور محسوب می‌شود. مقصدهای داخلی از بیش از یک سال پیش کاملاً رزرو شده‌اند و هزاران نفر تصمیم‌گیری را به لحظات آخر موکول کرده‌اند.",
       "key_points_fa": [
-        "حمایت برخی کشورهای عضو اتحادیه اروپا از ایجاد مراکز اخراج مهاجران در خارج از مرزهای این بلوک",
-        "تلاش برای دستیابی به توافق با کشورهای ثالث قبل از پایان سال جاری میلادی",
-        "نقش بحران سبته در تقویت جایگاه حامیان این طرح"
+        "وقوع پدیده نجومی خاص در تاریخ ۱۲ اوت در اسپانیا",
+        "ت تکمیل ظرفیت مقصدهای گردشگری داخلی از بیش از یک سال پیش",
+        "تصمیم‌گیری هزاران نفر در لحظه آخر برای تماشای این پدیده",
+        "ایجاد چالش برای مقامات محلی و اجرایی در مدیریت رویداد"
       ],
-      "analysis_fa": "تحولات اخیر در مرزهای اسپانیا بار دیگر بحث درباره مدیریت مهاجرت و راه‌حل‌های برون‌مرزی را در اتحادیه اروپا برجسته کرده است. در حالی که حامیان این مراکز بر ضرورت کنترل شدیدتر مرزها تاکید دارند، اجرای عملی و ابعاد حقوقی چنین توافق‌هایی با کشورهای ثالث همچنان با ابهاماتی روبه‌رو است.",
+      "analysis_fa": "این رویداد نجومی علاوه بر جذابیت‌های علمی، فشار قابل توجهی بر زیرساخت‌های گردشگری و مدیریت شهری اسپانیا وارد کرده است. هجوم مسافران به مناطق مختلف نشان‌دهنده ظرفیت بالای گردشگری رویدادهای علمی است، اما در عین حال نیاز به آمادگی بیشتر نهادهای دولتی را برجسته می‌کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#مهاجران",
         "#اسپانیا",
-        "#اتحادیه_اروپا",
-        "#سبته"
+        "#نجوم",
+        "#گردشگری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -361,6 +345,34 @@
         "#سئوتا",
         "#مهاجرت",
         "#اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6a7a02587513",
+      "source": "La Vanguardia",
+      "title": "Así fue cómo la sentencia del Tribunal Supremo y los bulos derivaron en el asalto en Ceuta",
+      "summary": "La embestida fronteriza que nadie vio venir pese a los avisos",
+      "url": "https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77693641e16.jpeg",
+      "published_at": "2026-08-09T06:02:53+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "حمله غافلگیرکننده به مرز سبته؛ از حکم دیوان عالی تا انتشار اخبار جعلی",
+      "lead_fa": "یورش ناگهانی به مرز سبته با وجود هشدارهای قبلی رخ داد. ترکیب حکم دیوان عالی و شایعات نادرست در شکل‌گیری این ناآرامی‌ها نقش داشت.",
+      "key_points_fa": [
+        "وقوع یورش غیرمنتظره به مرز سبته با وجود هشدارها",
+        "نقش حکم دیوان عالی در تنش‌های اخیر",
+        "تاثیر اخبار جعلی و شایعات در تشدید ناآرامی‌ها"
+      ],
+      "analysis_fa": "این حادثه نشان‌دهنده شکنندگی کنترل مرزی در برابر موجی از اطلاعات نادرست و تصمیمات قضایی است که می‌تواند چالش‌های امنیتی و سیاسی تازه‌ای برای مدیریت مرزی ایجاد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#اسپانیا",
+        "#مرز_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1011,28 +1023,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6a7a02587513",
-      "source": "La Vanguardia",
-      "title": "Ceuta, una embestida fronteriza que nadie vio venir a pesar de los avisos",
-      "summary": "La embestida fronteriza que nadie vio venir pese a los avisos",
-      "url": "https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77693641e16.jpeg",
-      "published_at": "2026-08-09T06:02:53+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ceuta, una embestida fronteriza que nadie vio venir a pesar de los avisos",
-      "lead_fa": "La embestida fronteriza que nadie vio venir pese a los avisos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0cda71447e22",
       "source": "La Vanguardia",
       "title": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
@@ -1407,6 +1397,28 @@
       "editorial_version": 2
     },
     {
+      "id": "b3b42343fe84",
+      "source": "EL PAÍS",
+      "title": "El eclipse de todos",
+      "summary": "La mayor cita astronómica en décadas unirá al país en el asombro, pero también ante el reto de gestionar un evento multitudinario",
+      "url": "https://elpais.com/opinion/2026-08-09/el-eclipse-de-todos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2ZVPD2G52JHUVEXBH2DJ272ZYQ.jpg?auth=416a7afb535ea520fb6ad1ff64ba2980b6d205fd5eecb21fd07c292dcb1d1c39",
+      "published_at": "2026-08-09T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "El eclipse de todos",
+      "lead_fa": "La mayor cita astronómica en décadas unirá al país en el asombro, pero también ante el reto de gestionar un evento multitudinario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fb8a817f7149",
       "source": "EL PAÍS",
       "title": "Solas y acosadas: el drama de las niñas que nadaron a Ceuta",
@@ -1440,28 +1452,6 @@
       "priority": 70,
       "title_fa": "El escritor marroquí Tahar Ben Jelloun: “No entiendo por qué se dejó pasar a decenas de miles de jóvenes hacia Ceuta. Tenemos la policía más potente del Magreb”",
       "lead_fa": "El novelista más reconocido de Marruecos cree que la Italia de Meloni y otros países quieren castigar a España de forma histérica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9c0dae632f07",
-      "source": "EL PAÍS",
-      "title": "La rebelión de la Generación Z sacude el sur del mundo",
-      "summary": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
-      "url": "https://elpais.com/internacional/2026-08-09/la-rebelion-de-la-generacion-z-sacude-el-sur-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5QBQXJ7GSBGOXBBFDAJ7TLFZC4.jpg?auth=a0eb965b42dc256bdf8b22bc141d252685718a151e7c12f90977e35d6459a28a",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La rebelión de la Generación Z sacude el sur del mundo",
-      "lead_fa": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1561,6 +1551,28 @@
       "editorial_version": 2
     },
     {
+      "id": "9c0dae632f07",
+      "source": "EL PAÍS",
+      "title": "La rebelión de la Generación Z sacude el sur del mundo",
+      "summary": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
+      "url": "https://elpais.com/internacional/2026-08-09/la-rebelion-de-la-generacion-z-sacude-el-sur-del-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5QBQXJ7GSBGOXBBFDAJ7TLFZC4.jpg?auth=a0eb965b42dc256bdf8b22bc141d252685718a151e7c12f90977e35d6459a28a",
+      "published_at": "2026-08-09T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La rebelión de la Generación Z sacude el sur del mundo",
+      "lead_fa": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ccc553f07ec5",
       "source": "EL PAÍS",
       "title": "La democracia comienza donde termina el enemigo",
@@ -1583,28 +1595,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bba7647dd7c7",
-      "source": "EL PAÍS",
-      "title": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
-      "summary": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
-      "url": "https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QRYIJLWPEZHJZCHSOIEZSYPNCE.JPG?auth=bcf7948bf503cc04c2f725507a950ddb3295e44c045dada28ad320d6ce8e6db1",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
-      "lead_fa": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "246fb1817d57",
       "source": "EL PAÍS",
       "title": "¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total",
@@ -1616,6 +1606,50 @@
       "priority": 70,
       "title_fa": "¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total",
       "lead_fa": "La totalidad durará tan solo unos segundos, pero sucederán cosas inusuales tanto en el cielo como a nuestro alrededor. Repasamos qué esperar antes, durante y después del gran fenómeno astronómico",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4db720110f84",
+      "source": "EL PAÍS",
+      "title": "Una mirada más profunda a la belleza de un eclipse",
+      "summary": "En un eclipse conviven física y belleza. Quizá ahí reside la verdadera fascinación: en recordarnos que podemos, al mismo tiempo, aprehender el universo y maravillarnos de su encanto",
+      "url": "https://elpais.com/ciencia/2026-08-09/una-mirada-mas-profunda-a-la-belleza-de-un-eclipse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ABCJNNLRZVHCHOQG5JTXMNOWSQ.jpg?auth=0a33c5b286858af49c870f9680a75b12e25ff6b02a57fb8e8baab238c4e4e2c0",
+      "published_at": "2026-08-09T03:30:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Una mirada más profunda a la belleza de un eclipse",
+      "lead_fa": "En un eclipse conviven física y belleza. Quizá ahí reside la verdadera fascinación: en recordarnos que podemos, al mismo tiempo, aprehender el universo y maravillarnos de su encanto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bba7647dd7c7",
+      "source": "EL PAÍS",
+      "title": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
+      "summary": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
+      "url": "https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QRYIJLWPEZHJZCHSOIEZSYPNCE.JPG?auth=bcf7948bf503cc04c2f725507a950ddb3295e44c045dada28ad320d6ce8e6db1",
+      "published_at": "2026-08-09T03:30:00+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
+      "lead_fa": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1825,50 +1859,6 @@
       "editorial_version": 2
     },
     {
-      "id": "eed6e6575a5d",
-      "source": "EL PAÍS",
-      "title": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
-      "summary": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
-      "url": "https://elpais.com/gastronomia/2026-08-09/mas-alla-del-cachopo-los-platos-que-recomiendan-los-cocineros-en-asturias-del-pote-a-la-merluza-de-meryl-streep.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FVAES63ZYFFAJPPRQKG245MPRM.jpg?auth=99409cc091e2ff23698b8ed96f80fb5f6f32b50a9dcd0822cf47805eb5749e93",
-      "published_at": "2026-08-09T03:25:00+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
-      "lead_fa": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b94014705add",
-      "source": "EL PAÍS",
-      "title": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
-      "summary": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
-      "url": "https://elpais.com/ciencia/2026-08-09/el-eclipse-solar-total-o-el-dia-de-las-dos-noches-deberiamos-sentirnos-afortunados-de-poder-vivir-algo-asi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201719_152755_video_1800.mp4",
-      "published_at": "2026-08-09T03:15:00+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
-      "lead_fa": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "70c8243b1164",
       "source": "La Vanguardia",
       "title": "El Conde Basura reta a la ultraderecha",
@@ -2007,6 +1997,50 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eed6e6575a5d",
+      "source": "EL PAÍS",
+      "title": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
+      "summary": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
+      "url": "https://elpais.com/gastronomia/2026-08-09/mas-alla-del-cachopo-los-platos-que-recomiendan-los-cocineros-en-asturias-del-pote-a-la-merluza-de-meryl-streep.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FVAES63ZYFFAJPPRQKG245MPRM.jpg?auth=99409cc091e2ff23698b8ed96f80fb5f6f32b50a9dcd0822cf47805eb5749e93",
+      "published_at": "2026-08-09T03:25:00+00:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
+      "lead_fa": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b94014705add",
+      "source": "EL PAÍS",
+      "title": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
+      "summary": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
+      "url": "https://elpais.com/ciencia/2026-08-09/el-eclipse-solar-total-o-el-dia-de-las-dos-noches-deberiamos-sentirnos-afortunados-de-poder-vivir-algo-asi.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201719_152755_video_1800.mp4",
+      "published_at": "2026-08-09T03:15:00+00:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
+      "lead_fa": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2169,7 +2203,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/UQRD47K6PJGSLLIKO566OA3XDI.png?auth=30767c845d16328afe9c1a82ab99a4409eda58940945362885c67dc6b6123120",
       "published_at": "2026-08-08T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla",
       "lead_fa": "La filial del gigante chino ha recortado más de la mitad sus ingresos desde el máximo de 2018 mientras se estrecha el cerco regulatorio sobre sus redes",
       "key_points_fa": [],
@@ -2249,94 +2283,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e5f92da7a383",
-      "source": "EL PAÍS Economía",
-      "title": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
-      "summary": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MDZIMUH5QZJKRCD6XGC24CMO54.jpg?auth=51b7b0b1fac23c5b0062a261588e9cf5c1a88ebd903652dde90bae3b0af845e8",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 59,
-      "title_fa": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
-      "lead_fa": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "56552d61ee34",
-      "source": "EL PAÍS Economía",
-      "title": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
-      "summary": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/las-pequenas-empresas-preparan-una-avalancha-de-salidas-a-bolsa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PA5NHULQVNE5FDJOQAQZ7TAQKI.jpg?auth=183df3b982fce96e504701cdc951cd02ee51ea9ad4295ed0b476ae77ed26dcbf",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 59,
-      "title_fa": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
-      "lead_fa": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1d0ae2dce8e9",
-      "source": "EL PAÍS Economía",
-      "title": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
-      "summary": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-cenicienta-en-bolsa-disney-intenta-remontar-tras-perder-la-mitad-de-su-valor-desde-maximos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RMQPN2UJEFE23IA4N3KZGWMF2M.jpg?auth=24dd3a8ca754140a2ca23c50bca68a59b872014e29f00372d9c0643e6080d60d",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 59,
-      "title_fa": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
-      "lead_fa": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bde479d2bd4c",
-      "source": "EL PAÍS Economía",
-      "title": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
-      "summary": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
-      "url": "https://cincodias.elpais.com/companias/2026-08-07/aena-mantiene-la-subasta-en-los-contratos-de-su-macroplan-de-13000-millones-en-obras-pese-a-la-oposicion-de-las-constructoras.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LYYCE2KYAUD7PTHTS7EUL5UVTI.jpg?auth=fba4a56fb1c7eaf30117466a12f4b72d80847b1a6fe378efeea0a9e458c61b2f",
-      "published_at": "2026-08-07T03:15:00+00:00",
-      "category": "economia",
-      "priority": 59,
-      "title_fa": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
-      "lead_fa": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9da3098df3f1",
       "source": "La Vanguardia",
       "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
@@ -2359,17 +2305,83 @@
       "editorial_version": 2
     },
     {
-      "id": "bcf8bbdc7c0b",
+      "id": "e5f92da7a383",
       "source": "EL PAÍS Economía",
-      "title": "Jaime Barea (Ganvam): “Habrá que esperar para ver si las marcas chinas son capaces de retener a los clientes”",
-      "summary": "El presidente de la patronal española de reparadores y vendedores de vehículos reconoce que “la duda en la posventa existe”",
-      "url": "https://cincodias.elpais.com/companias/2026-08-07/jaime-barea-ganvam-habra-que-esperar-para-ver-si-las-marcas-chinas-son-capaces-de-retener-a-los-clientes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GGBLRBQEINCZ5PCSYORDCGMJLY.jpg?auth=b6e245251a382a5678acab58b8ca2810aad45e65d3a77ff42378265ec50db562",
+      "title": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
+      "summary": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MDZIMUH5QZJKRCD6XGC24CMO54.jpg?auth=51b7b0b1fac23c5b0062a261588e9cf5c1a88ebd903652dde90bae3b0af845e8",
+      "published_at": "2026-08-07T03:25:00+00:00",
+      "category": "economia",
+      "priority": 58,
+      "title_fa": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
+      "lead_fa": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "56552d61ee34",
+      "source": "EL PAÍS Economía",
+      "title": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
+      "summary": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/las-pequenas-empresas-preparan-una-avalancha-de-salidas-a-bolsa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PA5NHULQVNE5FDJOQAQZ7TAQKI.jpg?auth=183df3b982fce96e504701cdc951cd02ee51ea9ad4295ed0b476ae77ed26dcbf",
+      "published_at": "2026-08-07T03:25:00+00:00",
+      "category": "economia",
+      "priority": 58,
+      "title_fa": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
+      "lead_fa": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1d0ae2dce8e9",
+      "source": "EL PAÍS Economía",
+      "title": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
+      "summary": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-cenicienta-en-bolsa-disney-intenta-remontar-tras-perder-la-mitad-de-su-valor-desde-maximos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RMQPN2UJEFE23IA4N3KZGWMF2M.jpg?auth=24dd3a8ca754140a2ca23c50bca68a59b872014e29f00372d9c0643e6080d60d",
+      "published_at": "2026-08-07T03:25:00+00:00",
+      "category": "economia",
+      "priority": 58,
+      "title_fa": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
+      "lead_fa": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bde479d2bd4c",
+      "source": "EL PAÍS Economía",
+      "title": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "summary": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
+      "url": "https://cincodias.elpais.com/companias/2026-08-07/aena-mantiene-la-subasta-en-los-contratos-de-su-macroplan-de-13000-millones-en-obras-pese-a-la-oposicion-de-las-constructoras.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LYYCE2KYAUD7PTHTS7EUL5UVTI.jpg?auth=fba4a56fb1c7eaf30117466a12f4b72d80847b1a6fe378efeea0a9e458c61b2f",
       "published_at": "2026-08-07T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 54,
-      "title_fa": "Jaime Barea (Ganvam): “Habrá que esperar para ver si las marcas chinas son capaces de retener a los clientes”",
-      "lead_fa": "El presidente de la patronal española de reparadores y vendedores de vehículos reconoce que “la duda en la posventa existe”",
+      "category": "economia",
+      "priority": 58,
+      "title_fa": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
+      "lead_fa": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2410,7 +2422,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 139
+      "count": 140
     },
     {
       "source": "EL PAÍS España",
