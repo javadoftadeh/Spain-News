@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T10:50:00.518955+00:00",
+  "generated_at": "2026-08-09T11:40:24.894906+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
     "4c42ae7b5a1e",
-    "a185f5b06e17",
+    "3da0bdc16f6c",
     "9a5183898bd5",
-    "b731072ad7fe"
+    "a185f5b06e17"
   ],
   "items": [
     {
@@ -68,29 +68,28 @@
       "editorial_version": 2
     },
     {
-      "id": "a185f5b06e17",
+      "id": "3da0bdc16f6c",
       "source": "EL PAÍS",
-      "title": "Así explota la extrema derecha la crisis en Ceuta: hipérboles, bulos y vídeos virales",
-      "summary": "Vox se alinea con sus pares europeos para volcarse en la mano dura contra la inmigración. El discurso ya no solo arrastra a la derecha conservadora clásica",
-      "url": "https://elpais.com/espana/2026-08-09/asi-explota-la-extrema-derecha-la-crisis-en-ceuta-hiperboles-bulos-y-videos-virales.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260802/1201250_203824_video_1800.mp4",
-      "published_at": "2026-08-09T03:30:01+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno, sobre la negativa de Vox a acoger menores: “Los españoles esperan que trabajemos de manera coordinada”",
+      "summary": "El BOE publica la orden que restablece los controles a viajeros procedentes de Italia",
+      "url": "https://elpais.com/espana/2026-08-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GTEIGKYZXVAH5BX5BB5VIITTQA.jpg?auth=854b7cb317064f77fb1c8343d270f474c26dcf2d349d9eb1171fa74279465b78",
+      "published_at": "2026-08-09T10:52:36+00:00",
       "category": "migracion",
       "priority": 82,
-      "title_fa": "بهره‌برداری راست افراطی از بحران سبته با بزرگ‌نمایی و اخبار جعلی",
-      "lead_fa": "حزب ووکس با هم‌پیمانان اروپایی خود برای اتخاذ رویکرد سخت‌گیرانه در قبال مهاجرت همسو شده است. این گفتمان اکنون توانسته جناح راست محافظه‌کار سنتی را نیز با خود همراه کند.",
+      "title_fa": "بازگشت کنترل‌های مرزی اسپانیا برای مسافران ایتالیا",
+      "lead_fa": "روزنامه رسمی دولت اسپانیا (BOE) دستورالعمل جدیدی را منتشر کرد. بر اساس این تصمیم، کنترل‌های مرزی برای مسافران ورودی از ایتالیا دوباره برقرار می‌شود.",
       "key_points_fa": [
-        "سوءاستفاده راست افراطی از بحران سبته از طریق بزرگ‌نمایی و انتشار ویدئوهای ویروسی",
-        "همسویی حزب ووکس با گروه‌های همتای اروپایی در زمینه مهاجرت",
-        "تأثیرگذاری گفتمان سخت‌گیرانه مهاجرتی بر جریان‌های راست محافظه‌کار سنتی"
+        "انتشار دستورالعمل رسمی در روزنامه رسمی دولت (BOE)",
+        "بازگشت کنترل‌های مسافران ورودی از ایتالیا"
       ],
-      "analysis_fa": "استفاده از ابزارهای رسانه‌ای و محتوای ویروسی توسط جریان‌های راست افراطی، بخشی از یک استراتژی هماهنگ اروپایی برای تشدید فشارهای سیاسی بر سر موضوع مهاجرت است. این روند نشان‌دهنده تغییر توازن در سپهر سیاسی و کشیده شدن جریان‌های میانه‌روتر به سمت مواضع تندتر است.",
+      "analysis_fa": "این تصمیم در چارچوب سیاست‌های کنترلی مرزی و در راستای توافقات و قوانین مرتبط با جابجایی مسافران اتخاذ شده است و جزئیات اجرایی آن از طریق مراجع رسمی دنبال می‌شود.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#مهاجرت",
-        "#راست_افراطی"
+        "#ایتالیا",
+        "#مرز"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -118,6 +117,34 @@
         "#اسپانیا",
         "#سیاست",
         "#محیط‌زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a185f5b06e17",
+      "source": "EL PAÍS España",
+      "title": "Así explota la extrema derecha la crisis en Ceuta: hipérboles, bulos y vídeos virales",
+      "summary": "Vox se alinea con sus pares europeos para volcarse en la mano dura contra la inmigración. El discurso ya no solo arrastra a la derecha conservadora clásica",
+      "url": "https://elpais.com/espana/2026-08-09/asi-explota-la-extrema-derecha-la-crisis-en-ceuta-hiperboles-bulos-y-videos-virales.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260802/1201250_203824_video_1800.mp4",
+      "published_at": "2026-08-09T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "بهره‌برداری راست افراطی از بحران سبته با بزرگ‌نمایی و اخبار جعلی",
+      "lead_fa": "حزب ووکس با هم‌پیمانان اروپایی خود برای اتخاذ رویکرد سخت‌گیرانه در قبال مهاجرت همسو شده است. این گفتمان اکنون توانسته جناح راست محافظه‌کار سنتی را نیز با خود همراه کند.",
+      "key_points_fa": [
+        "سوءاستفاده راست افراطی از بحران سبته از طریق بزرگ‌نمایی و انتشار ویدئوهای ویروسی",
+        "همسویی حزب ووکس با گروه‌های همتای اروپایی در زمینه مهاجرت",
+        "تأثیرگذاری گفتمان سخت‌گیرانه مهاجرتی بر جریان‌های راست محافظه‌کار سنتی"
+      ],
+      "analysis_fa": "استفاده از ابزارهای رسانه‌ای و محتوای ویروسی توسط جریان‌های راست افراطی، بخشی از یک استراتژی هماهنگ اروپایی برای تشدید فشارهای سیاسی بر سر موضوع مهاجرت است. این روند نشان‌دهنده تغییر توازن در سپهر سیاسی و کشیده شدن جریان‌های میانه‌روتر به سمت مواضع تندتر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجرت",
+        "#راست_افراطی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -176,6 +203,34 @@
         "#مهاجرت",
         "#اسپانیا",
         "#مرز"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1d5bf94fccc6",
+      "source": "EL PAÍS",
+      "title": "El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas",
+      "summary": "La vicepresidenta tercera y ministra de Transición Ecológica, Sara Aagesen, visita este domingo el Puesto de Mando Avanzado",
+      "url": "https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4LHXGVAGBJJ47O2ZAABTTB5N2Q.jpg?auth=f16ae902a997bcf1b01479d197cb9ed03e145db7254c38773973fd17eef304c5",
+      "published_at": "2026-08-09T11:13:51+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تخلیه ۴۶۷ نفر در پی آتش‌سوزی وسیع در اوئلوا",
+      "lead_fa": "آتش‌سوزی جنگلی در منطقه نیبلا در استان اوئلوا باعث سوختن ۸ هزار هکتار اراضی شد. این حادثه تخلیه اضطراب‌آور ۴۶۷ نفر را در پی داشته است.",
+      "key_points_fa": [
+        "وسعت مناطق آسیب‌دیده به ۸ هزار هکتار رسیده است.",
+        "۴۶۷ نفر از ساکنان محلی از خانه‌های خود تخلیه شدند.",
+        "سارا آاِگِسن، معاون سوم نخست‌وزیر و وزیر گذار اکولوژیک، از ستاد فرماندهی عملیات بازدید می‌کند."
+      ],
+      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی گسترده در منطقه است که مدیریت بحران و منابع اطفای حریق را به شدت درگیر کرده است. حضور مقامات ارشد دولتی نشان‌دهنده اهمیت و ابعاد بحران در این منطقه از اسپانیا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#اوئلوا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -325,7 +380,7 @@
       "id": "b3252e72cf21",
       "source": "La Vanguardia",
       "title": "El exsecretario general del sindicato agrario UAGA y su esposa, hallados muertos con signos de violencia en su vivienda",
-      "summary": "Los cuerpos fueron encontrados el sábado con signos de violencia",
+      "summary": "Los cuerpos fueron encontrados el sábado en el interior del domicilio conyugal",
       "url": "https://www.lavanguardia.com/sucesos/20260809/11610673/hallados-muertos-domicilio-tauste-zaragoza.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/05/68e220ea442bf.jpeg",
       "published_at": "2026-08-09T11:23:38+02:00",
@@ -493,35 +548,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1d2d21bfcf6f",
-      "source": "La Vanguardia",
-      "title": "Tres comunidades se niegan a acoger a los menores procedentes de Ceuta",
-      "summary": "Extremadura, Castilla y León y Aragón plantarán al Gobierno",
-      "url": "https://www.lavanguardia.com/politica/20260809/11610472/tres-comunidades-niegan-acoger-menores-procedentes-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77a53833375.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "مخالفت سه بخش خودمختار اسپانیا با پذیرش مهاجران خردسال سئوتا",
-      "lead_fa": "سه بخش خودمختار اسپانیا از پذیرش کودکان مهاجر اهل سئوتا سر باز زدند. این تصمیم دولت مرکزی برای توزیع خردسالان مهاجر را با چالشی جدی روبه‌رو کرده است.",
-      "key_points_fa": [
-        "بخش‌های اکسترمادورا، کاستیا و لئون و آراگون با دولت مرکزی مخالفت کردند.",
-        "این اختلاف‌نظر بر سر انتقال و پذیرش کودکان و نوجوانان مهاجر بدون همراه از سئوتا شکل گرفته است.",
-        "موضوع توزیع مهاجران خردسال بار دیگر تنش میان دولت مرکزی و جوامع خودمختار را افزایش داده است."
-      ],
-      "analysis_fa": "مخالفت این سه بخش خودمختار نشان‌دهنده تداوم اختلاف‌نظرهای سیاسی و اجرایی در اسپانیا درباره نحوه مدیریت بحران مهاجرت و تقسیم بار مسئولیت میان مناطق مختلف این کشور است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#سئوتا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9eb005110ade",
       "source": "La Vanguardia",
       "title": "Las millas de oro de Barcelona y Madrid chocan con la falta de locales",
@@ -553,7 +579,7 @@
     {
       "id": "db75a2552127",
       "source": "La Vanguardia",
-      "title": "De estrella de YouTube a 30 años de cárcel: la gran estafa del magnate de los algoritmos",
+      "title": "De estrella YouTube a 30 años de cárcel: la gran estafa del magnate de los algoritmos",
       "summary": "De la especulación inmobiliaria a la creación de un imperio mediático digital: el caso del empresario chino que instrumentalizó las redes, las criptomonedas y los prejuicios geopolíticos para ejecutar una de las mayores estafas de la era de la información",
       "url": "https://www.lavanguardia.com/neo/sociedad-neo/20260809/11604327/estrella-youtube-30-anos-carcel-gran-estafa-magnate-algoritmos-uso-discurso-anti-china-enganar-red.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b18621c932.r_d.984-538-0.jpeg",
@@ -575,34 +601,6 @@
         "#ارزدیجیتال",
         "#اسپانیا",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "13b9844c8328",
-      "source": "La Vanguardia",
-      "title": "La historia (del alma) de la hamburguesería más viral y antisistema de toda Barcelona",
-      "summary": "El Burger Niu nació como una válvula de escape de un empresario al que el médico le dijo que tenía que rebajar el ritmo sí o sí",
-      "url": "https://www.lavanguardia.com/comer/al-dia/20260809/11610363/historia-alma-hamburgueseria-mas-viral-antisistema-toda-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a771fa6368bd.r_d.2682-1788-0.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "داستان همبرگرفروشی وایرال و ساختارشکن بارسلونا",
-      "lead_fa": "برگر نیو به عنوان راه فراری برای یک کارآفرین تأسیس شد. پزشکان به او توصیه کرده بودند که باید سرعت کار خود را کاهش دهد.",
-      "key_points_fa": [
-        "شکل‌گیری برگر نیو بر اساس توصیه پزشکی به مؤسس آن",
-        "تبدیل شدن این کسب‌وکار به یکی از مکان‌های وایرال و خاص در بارسلونا",
-        "رویکرد متفاوت و غیرمعمول در اداره این همبرگرفروشی"
-      ],
-      "analysis_fa": "این کسب‌وکار نمونه‌ای از تغییر مسیرهای شغلی است که به دلیل فشارهای کاری و توصیه‌های پزشکی شکل گرفته و توانسته توجه رسانه‌ها و کاربران فضای مجازی را به خود جلب کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اقتصاد",
-        "#کارآفرینی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -890,6 +888,34 @@
       "editorial_version": 2
     },
     {
+      "id": "3a32eb355841",
+      "source": "EL PAÍS",
+      "title": "Las primarias demócratas muestran la decreciente influencia política de Israel en Estados Unidos",
+      "summary": "El éxito del izquierdista El-Sayed en las primarias de Míchigan, pese a los 30 millones de dólares en su contra del ‘lobby’ israelí, expone el progresivo alejamiento de los aliados tradicionales",
+      "url": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BM5NA2GLQNL7JM3VL46WP2IYE4.jpg?auth=b6b9cae3b095e5a8ad64a1fb59f415421cc8718b554aa57330768e61e516ae71",
+      "published_at": "2026-08-09T03:30:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "کاهش نفوذ لابی اسرائیل در مقدماتی دموکرات‌ها",
+      "lead_fa": "شکست مخارج سنگین لابی اسرائیل در مقدماتی میشیگان، نشان‌دهنده تغییرات سیاسی در ایالات متحده است. این تحول فاصله گرفتن بدنه حزب دموکرات از متحدان سنتی خود را برجسته می‌کند.",
+      "key_points_fa": [
+        "پیروزی نامزد چپ‌گرا در میشیگان علیرغم هزینه‌های سنگین لابی اسرائیل",
+        "تغییر در پویایی‌های سیاسی درون حزب دموکرات ایالات متحده",
+        "کاهش اثربخشی کارزارهای مالی سنتی در رقابت‌های درون‌حزبی"
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده تحولی تدریجی در رویکرد سیاسی حامیان حزب دموکرات است، جایی که فشار مالی لابی‌های سنتی دیگر تضمین‌کننده پیروزی قطعی نیست. با این حال، ارزیابی اینکه این روند به یک تغییر پایدار در سیاست خارجی آمریکا تبدیل خواهد شد یا خیر، هنوز زود است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سیاست_آمریکا",
+        "#دموکرات‌ها"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "530e303fcf73",
       "source": "EL PAÍS",
       "title": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
@@ -901,28 +927,6 @@
       "priority": 73,
       "title_fa": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
       "lead_fa": "La representante lidera una delegación del Capitolio en el Congreso Panamericano, reunión en Montevideo de líderes progresistas para tratar los retos del imperialismo de Trump en el continente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3a32eb355841",
-      "source": "EL PAÍS",
-      "title": "Las primarias demócratas muestran la decreciente influencia política de Israel en Estados Unidos",
-      "summary": "El éxito del izquierdista El-Sayed en las primarias de Míchigan, pese a los 30 millones de dólares en su contra del ‘lobby’ israelí, expone el progresivo alejamiento de los aliados tradicionales",
-      "url": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BM5NA2GLQNL7JM3VL46WP2IYE4.jpg?auth=b6b9cae3b095e5a8ad64a1fb59f415421cc8718b554aa57330768e61e516ae71",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Las primarias demócratas muestran la decreciente influencia política de Israel en Estados Unidos",
-      "lead_fa": "El éxito del izquierdista El-Sayed en las primarias de Míchigan, pese a los 30 millones de dólares en su contra del ‘lobby’ israelí, expone el progresivo alejamiento de los aliados tradicionales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1107,6 +1111,50 @@
       "editorial_version": 2
     },
     {
+      "id": "e60ead509c3b",
+      "source": "La Vanguardia",
+      "title": "Italia dice que la decisión de Sánchez de suspender Schengen es “inaceptable”",
+      "summary": "Italia levantará su medida cuando detecte que el riesgo ha desaparecido",
+      "url": "https://www.lavanguardia.com/internacional/20260809/11610689/tajani-dice-decision-espana-suspender-schengen-inaceptable-e-incomprensible.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77a52c4c845.jpeg",
+      "published_at": "2026-08-09T12:35:35+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Italia dice que la decisión de Sánchez de suspender Schengen es “inaceptable”",
+      "lead_fa": "Italia levantará su medida cuando detecte que el riesgo ha desaparecido",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "54324fb27a5a",
+      "source": "La Vanguardia",
+      "title": "De Paul dedica un gol a Messi tras la muerte de su padre",
+      "summary": "El argentino mostró la camiseta del 10 después de marcar ante Monterrey",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260809/11610682/de-paul-dedica-gol-messi-muerte-padre-jorge.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/02/6a46c5310460e.r_d.2492-1197-0.jpeg",
+      "published_at": "2026-08-09T12:15:25+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "De Paul dedica un gol a Messi tras la muerte de su padre",
+      "lead_fa": "El argentino mostró la camiseta del 10 después de marcar ante Monterrey",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "01de8a73af04",
       "source": "La Vanguardia",
       "title": "Mourinho ve en Bernardo Silva una parte de Rodri",
@@ -1156,7 +1204,7 @@
       "title": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
       "summary": "El rosarino viajó en avión privado junto a su esposa y sus hijos",
       "url": "https://www.lavanguardia.com/deportes/futbol/20260809/11610665/messi-viaja-avion-rosario-despedir-padre-jorge.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/26/6a65d8b4694a9.r_d.1449-1094-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a785501152ea.jpeg",
       "published_at": "2026-08-09T10:54:58+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1178,7 +1226,7 @@
       "title": "Hallados los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)",
       "summary": "Los cuerpos fueron encontrados por la hermana y el cuñado de la mujer a primera hora de la noche de este sábado",
       "url": "https://elpais.com/espana/2026-08-09/hallan-los-cadaveres-del-exsecretario-de-uaga-y-su-mujer-con-signos-de-violencia-en-tauste-zaragoza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7CTVB2IIAS6C7FRVICVXRMFMXA.jpg?auth=d967c67dc97e0a1182a73b442dea0a243b501f06167e469971907958120edd71",
+      "image": "https://imagenes.elpais.com/resizer/v2/EC5HODEE6BFERAN5DES7ZLGZYU.jpg?auth=4464eb234762059ec6776a2ab3071203417dee3977defa82b89e02678535d397",
       "published_at": "2026-08-09T09:46:01+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -1206,28 +1254,6 @@
       "priority": 70,
       "title_fa": "Jódar arrolla a Lehecka y se mete por tercera vez en cuartos de un Masters 1.000",
       "lead_fa": "El español, 15 del mundo, se deshizo del checo por 6-3 y 6-3 en 1 hora y 14 minutos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1d5bf94fccc6",
-      "source": "EL PAÍS",
-      "title": "La complejidad sigue marcando el fuego de Niebla (Huelva), tras una noche “más favorable”",
-      "summary": "La vicepresidenta tercera y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, visita este domingo el Puesto de Mando Avanzado",
-      "url": "https://elpais.com/espana/2026-08-09/la-complejidad-sigue-marcando-el-fuego-de-niebla-huelva-tras-una-noche-mas-favorable.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4LHXGVAGBJJ47O2ZAABTTB5N2Q.jpg?auth=f16ae902a997bcf1b01479d197cb9ed03e145db7254c38773973fd17eef304c5",
-      "published_at": "2026-08-09T09:26:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La complejidad sigue marcando el fuego de Niebla (Huelva), tras una noche “más favorable”",
-      "lead_fa": "La vicepresidenta tercera y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, visita este domingo el Puesto de Mando Avanzado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1396,17 +1422,17 @@
       "editorial_version": 2
     },
     {
-      "id": "0cda71447e22",
+      "id": "1bf1d5650c73",
       "source": "La Vanguardia",
-      "title": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
-      "summary": "La presidenta de la Fundación Raíces, Loures Reyzábal, denuncia que algunos menores han sufrido violencia a manos de las autoridades de Rabat",
-      "url": "https://www.lavanguardia.com/politica/20260809/11610407/reunificacion-familiar-debe-consistir-mera-entrega-menores-marruecos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a774da47be57.jpeg",
+      "title": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
+      "summary": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
+      "url": "https://www.lavanguardia.com/politica/20260809/11610452/espana-aumentara-proximos-dias-controles-fronterizos-pasajeros-italia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7713085e501.jpeg",
       "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 68,
-      "title_fa": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
-      "lead_fa": "La presidenta de la Fundación Raíces, Loures Reyzábal, denuncia que algunos menores han sufrido violencia a manos de las autoridades de Rabat",
+      "title_fa": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
+      "lead_fa": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1418,17 +1444,17 @@
       "editorial_version": 2
     },
     {
-      "id": "44246199f63a",
+      "id": "0cda71447e22",
       "source": "La Vanguardia",
-      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "summary": "El comercio de fosfatos ha quedado exento de aranceles del país norteamericano",
-      "url": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760e3471eec.r_d.461-346-0.jpeg",
+      "title": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
+      "summary": "La presidenta de la Fundación Raíces, Loures Reyzábal, denuncia que algunos menores han sufrido violencia a manos de las autoridades de Rabat",
+      "url": "https://www.lavanguardia.com/politica/20260809/11610407/reunificacion-familiar-debe-consistir-mera-entrega-menores-marruecos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a774da47be57.jpeg",
       "published_at": "2026-08-09T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
-      "lead_fa": "El comercio de fosfatos ha quedado exento de aranceles del país norteamericano",
+      "title_fa": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
+      "lead_fa": "La presidenta de la Fundación Raíces, Loures Reyzábal, denuncia que algunos menores han sufrido violencia a manos de las autoridades de Rabat",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1462,17 +1488,17 @@
       "editorial_version": 2
     },
     {
-      "id": "1bf1d5650c73",
+      "id": "44246199f63a",
       "source": "La Vanguardia",
-      "title": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
-      "summary": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
-      "url": "https://www.lavanguardia.com/politica/20260809/11610452/espana-aumentara-proximos-dias-controles-fronterizos-pasajeros-italia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7713085e501.jpeg",
+      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "summary": "El comercio de fosfatos ha quedado exento de aranceles del país norteamericano",
+      "url": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760e3471eec.r_d.461-346-0.jpeg",
       "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 68,
-      "title_fa": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
-      "lead_fa": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
+      "title_fa": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "lead_fa": "El comercio de fosfatos ha quedado exento de aranceles del país norteamericano",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2196,7 +2222,7 @@
     {
       "id": "47261f5be32d",
       "source": "La Vanguardia",
-      "title": "Así fue como desapareció Amélie",
+      "title": "Así desapareció Amélie",
       "summary": "Audrey Tautou se convirtió en la actriz más famosa de Francia, rechazó viajar a Hollywood y en 2019 rodó su último filme y adoptó una niña vietnamita: dijo que volvería y se la sigue echando de menos",
       "url": "https://www.lavanguardia.com/gente/20260808/11609927/asi-desaparecio-amelie.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a760929867a4.jpeg",
@@ -2248,6 +2274,28 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eb88446f06c9",
+      "source": "La Vanguardia",
+      "title": "Italia recibe, pese a todo, más inmigrantes que España",
+      "summary": "El Gobierno de Meloni no ha logrado impedir que sigan arribando a su territorio miles de ciudadanos al mes procedentes del África y de Oriente Medio",
+      "url": "https://www.lavanguardia.com/politica/20260808/11610014/italia-recibe-pese-mas-inmigrantes-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a76f5d726a72.jpeg",
+      "published_at": "2026-08-08T00:05:00+02:00",
+      "category": "politica",
+      "priority": 63,
+      "title_fa": "Italia recibe, pese a todo, más inmigrantes que España",
+      "lead_fa": "El Gobierno de Meloni no ha logrado impedir que sigan arribando a su territorio miles de ciudadanos al mes procedentes del África y de Oriente Medio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2425,50 +2473,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "1d0ae2dce8e9",
-      "source": "EL PAÍS Economía",
-      "title": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
-      "summary": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/la-cenicienta-en-bolsa-disney-intenta-remontar-tras-perder-la-mitad-de-su-valor-desde-maximos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RMQPN2UJEFE23IA4N3KZGWMF2M.jpg?auth=24dd3a8ca754140a2ca23c50bca68a59b872014e29f00372d9c0643e6080d60d",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 57,
-      "title_fa": "La Cenicienta en Bolsa: Disney intenta remontar tras perder la mitad de su valor desde máximos",
-      "lead_fa": "La acción sube un 6% en 10 días gracias al impulso de los resultados del segundo trimestre, favorecidos por la evolución de sus negocios de parques temáticos y ‘streaming’",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bde479d2bd4c",
-      "source": "EL PAÍS Economía",
-      "title": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
-      "summary": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
-      "url": "https://cincodias.elpais.com/companias/2026-08-07/aena-mantiene-la-subasta-en-los-contratos-de-su-macroplan-de-13000-millones-en-obras-pese-a-la-oposicion-de-las-constructoras.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LYYCE2KYAUD7PTHTS7EUL5UVTI.jpg?auth=fba4a56fb1c7eaf30117466a12f4b72d80847b1a6fe378efeea0a9e458c61b2f",
-      "published_at": "2026-08-07T03:15:00+00:00",
-      "category": "economia",
-      "priority": 57,
-      "title_fa": "Aena mantiene la subasta en los contratos de su macroplán de 13.000 millones en obras pese a la oposición de las constructoras",
-      "lead_fa": "En los cuatro primeros proyectos licitados solo se aplica la revisión de precios de los materiales en uno, por su alto presupuesto, complejidad y plazo de ejecución",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2515,7 +2519,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 141
+      "count": 143
     }
   ]
 }
