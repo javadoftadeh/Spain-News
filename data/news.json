@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:58:35.306103+00:00",
+  "generated_at": "2026-08-09T14:49:21.230942+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -383,7 +383,7 @@
       "summary": "El primer ministro israelí afirma que el ejército no se retirará de la Franja palestina hasta que la milicia palestina entregue todas sus armas",
       "url": "https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html",
       "image": "https://imagenes.elpais.com/resizer/v2/TZSWG24FOFPWDLBRDCI2G2WEU4.jpg?auth=7b1bc0371020891c7730d1f0429b6a8f819cc39faa6c84a63094c61ebe8d8c9c",
-      "published_at": "2026-08-09T13:43:44+00:00",
+      "published_at": "2026-08-09T13:59:36+00:00",
       "category": "politica",
       "priority": 75,
       "title_fa": "مخالفت نتانیاهو با طرح ترامپ درباره خلع سلاح حماس",
@@ -571,35 +571,6 @@
         "#اقتصاد",
         "#مهاجران",
         "#حواله_ارزی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9eb005110ade",
-      "source": "La Vanguardia",
-      "title": "Las millas de oro de Barcelona y Madrid chocan con la falta de locales",
-      "summary": "La dificultad para entrar en las grandes avenidas empuja al alza los precios",
-      "url": "https://www.lavanguardia.com/economia/20260809/11610415/millas-oro-barcelona-madrid-chocan-falta-locales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a7751f2572d1.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "کمبود مغازه در خیابان‌های لوکس مادرید و بارسلونا",
-      "lead_fa": "کمبود فضاهای تجاری در خیابان‌های اصلی مادرید و بارسلونا به معضلی جدی تبدیل شده است. این دشواری در دسترسی به واحدهای تجاری، قیمت‌ها را در این مناطق به شدت افزایش داده است.",
-      "key_points_fa": [
-        "محدودیت واحدهای تجاری در معابر پرتردد مادرید و بارسلونا",
-        "رصدمشکلات دسترسی به فضاهای مناسب برای کسب‌وکارها",
-        "افزایش چشمگیر قیمت املاک تجاری به دلیل تقاضای بالا"
-      ],
-      "analysis_fa": "رشد تقاضا در خیابان‌های تجاری برتر اسپانیا در کنار محدودیت عرضه، تعادل بازار املاک تجاری را تحت تأثیر قرار داده است. ادامه این روند می‌تواند برندهای کوچک‌تر را از حضور در این مناطق محروم کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاداسپانیا",
-        "#مادرید",
-        "#بارسلونا",
-        "#املاک_تجاری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1058,10 +1029,38 @@
       "editorial_version": 2
     },
     {
+      "id": "13b9844c8328",
+      "source": "La Vanguardia",
+      "title": "La historia (del alma) de la hamburguesería más viral y antisistema de toda Barcelona",
+      "summary": "El Burger Niu nació como una válvula de escape de un empresario al que el médico le dijo que tenía que rebajar el ritmo sí o sí",
+      "url": "https://www.lavanguardia.com/comer/al-dia/20260809/11610363/historia-alma-hamburgueseria-mas-viral-antisistema-toda-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a771fa6368bd.r_d.2682-1788-0.jpeg",
+      "published_at": "2026-08-09T06:00:00+02:00",
+      "category": "economia",
+      "priority": 72,
+      "title_fa": "داستان همبرگرفروشی ساختارشکن و وایرال بارسلونا",
+      "lead_fa": "برگر نیو به عنوان دریچه تنفسی برای یک کارآفرین تأسیس شد. پزشک به او توصیه کرده بود که باید به سرعت سرعت کار خود را کاهش دهد.",
+      "key_points_fa": [
+        "تأسیس به عنوان راهی برای کاهش استرس کاری بنیان‌گذار",
+        "تبدیل شدن به یک کسب‌وکار وایرال و محبوب در بارسلونا",
+        "رویکردی متفاوت و غیرمتعارف در اداره رستوران"
+      ],
+      "analysis_fa": "این کسب‌وکار نمونه‌ای از تغییر مسیرهای شغلی به دلیل فشارهای سلامتی است که توانسته با رویکردی خاص توجه عمومی را جلب کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#کسب_و_کار",
+        "#اقتصاد_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "fd37f8230061",
       "source": "EL PAÍS",
       "title": "Charlotte Gainsbourg: “Me siento bastante cómoda con la idea de ser una impostora”",
-      "summary": "Después de la muerte de Serge Gainsbourg, venerado como un rey en un país republicano, su casa en París se convirtió en un sitio de peregrinaciones de millones de fans. En 2023 a su hija Charlotte se le ocurrió que podría abrir las puertas de aquella vivienda. Hablamos con la musa de la maison Saint Laurent en Arlés, donde se confiesa una impostora.",
+      "summary": "Después de la muerte de Serge Gainsbourg, venerado como un rey en un país republicano, su casa en París se convirtió en un sitio de peregrinaciones de millones de fans. En 2023 a su hija Charlotte se le ocurrió que podría abrir las puertas de aquella vivienda. Hablamos con la musa de la maison Saint Laurent en Arlés, donde se confiesa una impostora",
       "url": "https://elpais.com/eps/2026-08-09/charlotte-gainsbourg-me-siento-bastante-comoda-con-la-idea-de-ser-una-impostora.html",
       "image": "https://imagenes.elpais.com/resizer/v2/IA2RQD56HJGXTIPRGHLGJC6I7U.jpg?auth=d5c13935c827e10c64b440236ba23691b7bfd51a32e97751ba58e4e43dc4cc79",
       "published_at": "2026-08-09T03:30:00+00:00",
@@ -1165,6 +1164,35 @@
         "#مهاجران",
         "#اسپانیا",
         "#کادیس"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "31ef14d2fb6a",
+      "source": "EL PAÍS",
+      "title": "Raúl Fernández remata el festín de Aprilia en el GP de Gran Bretaña",
+      "summary": "El madrileño del Trackhouse celebra su continuidad en MotoGP con la segunda victoria de su vida tras superar con holgura al líder Jorge Martín y Marco Bezzecchi",
+      "url": "https://elpais.com/deportes/motociclismo/2026-08-09/raul-fernandez-remata-el-festin-de-aprilia-en-el-gp-de-gran-bretana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ARWXCRESDJLTTIZNLEVYFESB2M.jpg?auth=948362f58f84c8e874f98656b240d3fc2d0b549ddfe2815321d02b9e69753a25",
+      "published_at": "2026-08-09T14:11:53+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "پیروزی درخشان رائول فرناندز در گر جایزه بریتانیا",
+      "lead_fa": "رائول فرناندز، موتورسوار تیم ترک‌هاوس، دومین پیروزی دوران حرفه‌ای خود را در مسابقات موتو جی‌پی بریتانیا کسب کرد. او موفق شد بالاتر از خورخه مارتین و مارکو بزکی از خط پایان عبور کند.",
+      "key_points_fa": [
+        "رائول فرناندز توانست پیروزی دوم خود در مسابقات موتو جی‌پی را جشن بگیرد.",
+        "این موفقیت پس از قطعی شدن ادامه حضور او در رقابت‌ها به دست آمد.",
+        "خورخه مارتین (پیشتاز مسابقات) و مارکو بزکی در رده‌های بعدی قرار گرفتند."
+      ],
+      "analysis_fa": "این پیروزی روحیه رائول فرناندز را پس از تداوم حضورش در مسابقات موتو جی‌پی به شکل چشمگیری افزایش داده است. عملکرد او در بریتانیا نشان‌دهنده آمادگی بالای او و تیمش در رقابت با مدعیان اصلی قهرمانی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#موتوجی_پی",
+        "#رائول_فرناندز",
+        "#اسپانیا",
+        "#ورزش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1345,18 +1373,24 @@
       "url": "https://www.lavanguardia.com/deportes/futbol/20260809/11610682/de-paul-dedica-gol-messi-muerte-padre-jorge.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/02/6a46c5310460e.r_d.2492-1197-0.jpeg",
       "published_at": "2026-08-09T12:15:25+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 69,
-      "title_fa": "De Paul dedica un gol a Messi tras la muerte de su padre",
-      "lead_fa": "El argentino mostró la camiseta del 10 después de marcar ante Monterrey",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ادای احترام رودریگو دی پل به مسی پس از درگذشت پدرش",
+      "lead_fa": "رودریگو دی پل، بازیکن آرژانتینی، پس از گلزنی مقابل مونتری یاد پدر خود را گرامی داشت. او در جریان شادی پس از گل، پیراهن شماره ۱۰ لیونل مسی را به نمایش گذاشت.",
+      "key_points_fa": [
+        "گلزنی دی پل در مسابقه برابر تیم مونتری",
+        "نمایش پیراهن شماره ۱۰ لیونل مسی به عنوان ادای احترام",
+        "این اقدام پس از درگذشت پدر این بازیکن صورت گرفت"
+      ],
+      "analysis_fa": "این اقدام احساسی بازیکن تیم ملی آرژانتین بازتاب گسترده‌ای در رسانه‌های ورزشی داشته و نشان‌دهنده همبستگی و ارادت او به لیونل مسی در شرایط سخت شخصی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دی_پل",
+        "#مسی",
+        "#فوتبال_آرژانتین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1640,28 +1674,6 @@
       "category": "sociedad",
       "priority": 67,
       "title_fa": "El Nilo amenaza a los faraones",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ce0226b26379",
-      "source": "La Vanguardia",
-      "title": "Los ríos heridos del Mediterráneo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260809/11608537/rios-heridos-mediterraneo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/05/6a7358841aaea.jpeg",
-      "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Los ríos heridos del Mediterráneo",
       "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -2026,28 +2038,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3005dfee7b9b",
-      "source": "EL PAÍS",
-      "title": "Iris Tió, nadadora artística sincronizada: “Me hace feliz ver que llego al alma de la gente”",
-      "summary": "La catalana, ganadora de seis medallas en los Europeos, apunta a los Juegos de Los Ángeles",
-      "url": "https://elpais.com/deportes/2026-08-09/iris-tio-nadadora-artistica-sincronizada-me-hace-feliz-ver-que-llego-al-alma-de-la-gente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Y4ZYALAXRRERZDOKHQ52VKFZHE.jpg?auth=9ec5640afb1754fe602fc61db4b07634ed076012a65a214a7bad1a2577476702",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Iris Tió, nadadora artística sincronizada: “Me hace feliz ver que llego al alma de la gente”",
-      "lead_fa": "La catalana, ganadora de seis medallas en los Europeos, apunta a los Juegos de Los Ángeles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "974da9470ecb",
       "source": "EL PAÍS",
       "title": "Las mariposas mediterráneas se mudan al País Vasco en busca del clima del pasado",
@@ -2279,6 +2269,28 @@
       "priority": 67,
       "title_fa": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
       "lead_fa": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "df311eb3e803",
+      "source": "La Vanguardia",
+      "title": "Carrara no es solo cosa de oligarcas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7621a51ef3b.jpeg",
+      "published_at": "2026-08-09T00:00:00+02:00",
+      "category": "deportes",
+      "priority": 65,
+      "title_fa": "Carrara no es solo cosa de oligarcas",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2546,7 +2558,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 141
+      "count": 142
     },
     {
       "source": "EL PAÍS España",
@@ -2561,7 +2573,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 142
+      "count": 141
     }
   ]
 }
