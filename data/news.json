@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:46:47.688337+00:00",
+  "generated_at": "2026-08-09T23:43:52.058815+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -1198,6 +1198,33 @@
       "editorial_version": 2
     },
     {
+      "id": "e405cb0e3623",
+      "source": "La Vanguardia",
+      "title": "El tonto del verano",
+      "summary": "De entre todos, el gañán más rutilante es el veraneante crecidito",
+      "url": "https://www.lavanguardia.com/opinion/20260810/11610727/tonto-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/04/02/67ece7b0cb980.jpeg",
+      "published_at": "2026-08-10T00:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "پدیده تابستانی؛ نگاهی به رفتارهای رایج مسافران در تعطیلات",
+      "lead_fa": "رسانه‌های اسپانیایی به رفتار برخي مسافران و گردشگران در فصل تابستان پرداخته‌اند. این پدیده به عنوان بخشی از فرهنگ عامه در ایام تعطیلات بررسی شده است.",
+      "key_points_fa": [
+        "بررسی رفتارهای ناهنجار یا اغراق‌آمیز برخی گردشگران در فصل تابستان",
+        "بازتاب این موضوع در رسانه‌های داخلی اسپانیا"
+      ],
+      "analysis_fa": "این نوع مطالب معمولاً با نگاهی طنز یا انتقادی به فرهنگ عامه و تغییرات رفتاری افراد در فصل تعطیلات و سفرهای تابستانی در رسانه‌های اسپانیا منتشر می‌شوند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#جامعه",
+        "#تابستان"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "b556611aeaf6",
       "source": "EL PAÍS",
       "title": "Messi despide a su padre en una ceremonia íntima y rodeado del aliento de los hinchas: “Fuerza, Leo”",
@@ -1853,18 +1880,25 @@
       "url": "https://www.lavanguardia.com/natural/20260809/11610381/asi-dinosaurios-habitaban-francia-140-millones-anos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/08/6a77338c73183.jpeg",
       "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 64,
-      "title_fa": "Así eran los dinosaurios que habitaban en Francia hace 140 millones de años",
-      "lead_fa": "El Museo Nacional de Historia Natural recrea el ecosistema del actual territorio francés durante el Cretácico a partir de fósiles hallados en algunos de los principales yacimientos paleontológicos del país",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازسازی اکوسیستم دایناسورهای ۱۴۰ میلیون ساله در فرانسه",
+      "lead_fa": "موزه ملی تاریخ طبیعی فرانسه اکوسیستم این کشور در دوره کرتاسه را بازسازی کرد. این نمایشگاه بر اساس فسیل‌های کشف‌شده در محوطه‌های باستانی کلیدی طراحی شده است.",
+      "key_points_fa": [
+        "بازسازی حیات دایناسورها در دوره کرتاسه",
+        "استفاده از فسیل‌های واقعی کشف‌شده در خاک فرانسه",
+        "اقدام توسط موزه ملی تاریخ طبیعی"
+      ],
+      "analysis_fa": "این نمایشگاه علمی با اتکا بر یافته‌های فسیل‌شناسی، دیدگاهی روشن‌تر از تاریخ زمین‌شناسی و زیست‌محیطی منطقه در میلیون‌ها سال پیش ارائه می‌دهد و به شناخت بهتر دیرینه‌شناسی اروپا کمک می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دایناسور",
+        "#فرانسه",
+        "#دیرینه‌شناسی",
+        "#موزه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1875,18 +1909,25 @@
       "url": "https://www.lavanguardia.com/comer/sitios/20260809/11607501/huyo-guerra-abrio-primer-restaurante-libanes-barcelona-primero-explicar-que-hummus.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71ae9b9958c.r_d.418-371-0.jpeg",
       "published_at": "2026-08-09T06:00:00+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 64,
-      "title_fa": "Huyó de la guerra y abrió el primer restaurante libanés de Barcelona",
-      "lead_fa": "Miguel Kathib cambió la bata de médico por los fogones y fundó Abou Khalil, local pionero en introducir platos como el falafel en la ciudad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "از پزشکی در جنگ تا تاسیس نخستین رستوران لبنانی بارسلونا",
+      "lead_fa": "میگل خطیب پزشکی بود که به دلیل جنگ از کشورش گریخت و تغییر مسیر داد. او با تاسیس رستوران ابوعلیل، برای نخستین بار غذاهایی مانند فلافل را به بارسلونا معرفی کرد.",
+      "key_points_fa": [
+        "میگل خطیب پیش از مهاجرت به عنوان پزشک فعالیت می‌کرد.",
+        "او پس از فرار از جنگ، رستوران ابوعلیل را تاسیس کرد.",
+        "این رستوران نخستین مرکز معرفی غذای لبنانی مانند فلافل در بارسلونا بود."
+      ],
+      "analysis_fa": "این داستان بازتابی از مسیرهای دشوار مهاجرت و تلاش پناهجویان برای بازآفرینی زندگی خود در جوامع میزبان است. تغییر شغل از پزشکی به آشپزی نشان‌دهنده انعطاف‌پذیری و کارآفرینی مهاجران در انطباق با شرایط جدید و غنی‌سازی فرهنگی شهرهایی مانند بارسلونا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجران",
+        "#بارسلونا",
+        "#رستوران_لبنانی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2374,35 +2415,6 @@
       "editorial_version": 2
     },
     {
-      "id": "47261f5be32d",
-      "source": "La Vanguardia",
-      "title": "Así desapareció Amélie",
-      "summary": "Audrey Tautou se convirtió en la actriz más famosa de Francia, rechazó viajar a Hollywood y en 2019 rodó su último filme y adoptó una niña vietnamita: dijo que volvería y se la sigue echando de menos",
-      "url": "https://www.lavanguardia.com/gente/20260808/11609927/asi-desaparecio-amelie.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a760929867a4.jpeg",
-      "published_at": "2026-08-08T06:56:50+02:00",
-      "category": "cultura",
-      "priority": 64,
-      "title_fa": "سرنوشت اودره توتو؛ بازیگر نقش «آمیلی» کجاست؟",
-      "lead_fa": "اودره توتو، ستاره مشهور سینمای فرانسه و بازیگر فیلم محبوب «آمیلی»، پس از آخرین فیلم خود در سال ۲۰۱۹ از دنیای بازیگری فاصله گرفت. او پیشنهادهای هالیوود را رد کرد و اعلام کرد که بازخواهد گشت.",
-      "key_points_fa": [
-        "اودره توتو پس از موفقیت جهانی فیلم آمیلی به شهرت رسید.",
-        "او از سفر و فعالیت در هالیوود خودداری کرد.",
-        "در سال ۲۰۱۹ آخرین فیلم خود را بازی کرد و یک دختر ویتنامی به فرزندخواندگی پذیرفت."
-      ],
-      "analysis_fa": "کناره‌گیری تدریجی این بازیگر سرشناس از سینما و تمرکز بر زندگی شخصی، نمونه‌ای از دوری هنرمندان از فضای سنگین شهرت و هالیوود است. با این حال، غیبت طولانی‌مدت او همچنان مورد توجه رسانه‌ها و طرفدارانش قرار دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سینما",
-        "#فرانسه",
-        "#آمیلی",
-        "#اودره_توتو"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "df311eb3e803",
       "source": "La Vanguardia",
       "title": "Carrara no es solo cosa de oligarcas",
@@ -2521,7 +2533,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 54,
+      "priority": 53,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2667,7 +2679,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 145
+      "count": 143
     }
   ]
 }
