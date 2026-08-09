@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:40:24.894906+00:00",
+  "generated_at": "2026-08-09T12:05:14.805945+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
@@ -925,16 +925,22 @@
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
-      "lead_fa": "La representante lidera una delegación del Capitolio en el Congreso Panamericano, reunión en Montevideo de líderes progresistas para tratar los retos del imperialismo de Trump en el continente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "هشدار پرامیلا جایاپال درباره احتمال تلاش ترامپ برای ربودن انتخابات",
+      "lead_fa": "نماینده دموکرات کنگره آمریکا نسبت به احتمال تلاش دونالد ترامپ برای دستکاری انتخابات هشدار داد. او رهبری هیئتی از کنگره را در نشست مترقیان در مونته‌ویدئو بر عهده دارد.",
+      "key_points_fa": [
+        "رهبری هیئت کنگره آمریکا در کنگره پان‌آمریکن در مونته‌ویدئو",
+        "بررسی چالش‌های مرتبط با سیاست‌های دونالد ترامپ در قاره آمریکا",
+        "تاکید بر لزوم آمادگی در برابر احتمال تلاش برای تاثیرگذاری بر نتایج انتخابات"
+      ],
+      "analysis_fa": "این اظهارات در چارچوب نشست رهبران مترقی در اوروگوئه مطرح شده است که به بررسی چالش‌های سیاسی و منطقه‌ای مرتبط با رویکرد دولت آینده آمریکا می‌پردازند. این موضع‌گیری نشان‌دهنده نگرانی فزاینده جریان‌های سیاسی مخالف ترامپ در سطح بین‌المللی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست_آمریکا",
+        "#انتخابات"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -947,16 +953,23 @@
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Meloni contra el desgaste: la primera ministra italiana vuelve a la inmigración para recuperar la iniciativa política",
-      "lead_fa": "La líder ultraderechista retoma uno de sus temas predilectos para hacer frente a los reveses de su Gobierno y a las crecientes tensiones con sus socios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جورجا ملونی برای احیای ابتکار سیاسی به موضوع مهاجرت بازگشت",
+      "lead_fa": "نخست‌وزیر ایتالیا با چالش‌های دولتش و تنش با شرکای سیاسی مواجه است. او برای جبران عقب‌نشینی‌ها دوباره به موضوع مهاجرت روی آورده است.",
+      "key_points_fa": [
+        "رهبر راست افراطی ایتالیا دوباره موضوع مهاجرت را در دستور کار قرار داد.",
+        "این اقدام پاسخی به شکست‌ها و ناکامی‌های اخیر دولت تلقی می‌شود.",
+        "روابط ملونی با شرکای ائتلافی خود با تنش‌هایی روبه‌رو است."
+      ],
+      "analysis_fa": "بازگشت به موضوع مهاجرت یکی از ابزارهای سنتی رهبران راست افراطی برای بسیج پایگاه رأی و تغییر تمرکز افکار عمومی از مشکلات اقتصادی و تنش‌های درون‌حزبی است. این رویکرد نشان‌دهنده تلاش دولت برای بازیابی ابتکار عمل سیاسی در شرایط دشوار داخلی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ایتالیا",
+        "#مهاجرت",
+        "#جورجاملونی",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -967,18 +980,24 @@
       "url": "https://elpais.com/internacional/2026-08-09/las-afganas-resisten-solas-tras-cinco-anos-de-terror-taliban-guardar-silencio-representaria-aceptar-la-injusticia.html",
       "image": "https://imagenes.elpais.com/resizer/v2/VBP3HUUTJKGUC45BLXEPCGCIL4.jpg?auth=63c06cf2f79679f9e93ac726889911fbc0aafc2210e8556aca7dd69589743da1",
       "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "economia",
+      "category": "sociedad",
       "priority": 73,
-      "title_fa": "Las afganas resisten solas tras cinco años de terror talibán: “Guardar silencio representaría aceptar la injusticia”",
-      "lead_fa": "Las mujeres y niñas del país desafían a los fundamentalistas con escuelas clandestinas, manifestándose y creando empresas, mientras la UE se acerca a los radicales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مقاومت زنان افغانستان در برابر طالبان پس از پنج سال",
+      "lead_fa": "زنان و دختران افغانستان با وجود سرکوب شدید طالبان همچنان به مقاومت ادامه می‌دهند. این در حالی است که اتحادیه اروپا رویکرد تعامل با حکومت حاکم را در پیش گرفته است.",
+      "key_points_fa": [
+        "ادامه مقاومت زنان و دختران افغان پس از پنج سال تسلط طالبان",
+        "تأسیس مدارس زیرزمینی، برگزاری اعتراضات و راه‌اندازی کسب‌وکارها توسط زنان",
+        "نزدیک شدن اتحادیه اروپا به حاکمان تندرو افغانستان"
+      ],
+      "analysis_fa": "مقاومت مدنی زنان در افغانستان نشان‌دهنده پایداری اجتماعی در برابر سیاست‌های سخت‌گیرانه طالبان است، هم‌زمان تغییر رویکرد دیپلماتیک اتحادیه اروپا می‌تواند معادلات سیاسی پیرامون این کشور را تحت تأثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#افغانستان",
+        "#زنان",
+        "#طالبان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1199,28 +1218,6 @@
       "editorial_version": 2
     },
     {
-      "id": "eb1e05ecb677",
-      "source": "La Vanguardia",
-      "title": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
-      "summary": "El rosarino viajó en avión privado junto a su esposa y sus hijos",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260809/11610665/messi-viaja-avion-rosario-despedir-padre-jorge.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a785501152ea.jpeg",
-      "published_at": "2026-08-09T10:54:58+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
-      "lead_fa": "El rosarino viajó en avión privado junto a su esposa y sus hijos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "159069568ef3",
       "source": "EL PAÍS",
       "title": "Hallados los cadáveres del exsecretario de UAGA y su mujer con signos de violencia en Tauste (Zaragoza)",
@@ -1375,6 +1372,28 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eb1e05ecb677",
+      "source": "La Vanguardia",
+      "title": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
+      "summary": "El rosarino viajó en avión privado junto a su esposa y sus hijos",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260809/11610665/messi-viaja-avion-rosario-despedir-padre-jorge.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a785501152ea.jpeg",
+      "published_at": "2026-08-09T10:54:58+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Messi viaja a Argentina para poder despedir a su padre, Jorge Messi",
+      "lead_fa": "El rosarino viajó en avión privado junto a su esposa y sus hijos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
