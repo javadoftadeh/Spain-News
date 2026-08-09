@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T07:39:06.321714+00:00",
+  "generated_at": "2026-08-09T08:21:40.741423+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "6d403af46c7e",
+    "93e23a0acad5",
     "4c42ae7b5a1e",
     "a185f5b06e17",
-    "9a5183898bd5",
-    "b731072ad7fe"
+    "9a5183898bd5"
   ],
   "items": [
     {
@@ -34,6 +34,34 @@
         "#ایتالیا",
         "#مهاجرت",
         "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "93e23a0acad5",
+      "source": "EL PAÍS",
+      "title": "Muere un hombre de 61 años en la explosión de un semisótano en Madrid",
+      "summary": "No se detectan daños estructurales en el resto del edificio, ubicado en Pavones, pero los vecinos son confinados",
+      "url": "https://elpais.com/espana/madrid/2026-08-09/muere-un-hombre-de-61-anos-en-la-explosion-de-un-semisotano-en-madrid.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YYUPGDTKIFEMPAVKZ26565R2GY.png?auth=69861b87bcca6b86543f8bb682a04f88c2069c4493ca68dd816a2922809e2090",
+      "published_at": "2026-08-09T07:48:38+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "انفجار در مادرید؛ جان باختن یک مرد در طبقه نیمه‌زیرزمین",
+      "lead_fa": "مردی ۶۱ ساله در جریان یک انفجار در منطقه پاوونس مادرید جان خود را از دست داد. این حادثه در یک طبقه نیمه‌زیرزمین رخ داد و ساکنان ساختمان به طور موقت محبوس شدند.",
+      "key_points_fa": [
+        "وقتی انفجار رخ داد، مرد ۶۱ ساله در نیمه‌زیرزمین حضور داشت.",
+        "مأموران آتش‌نشانی و امدادرسانی بلافاصله در محل حادثه حاضر شدند.",
+        "طبق بررسی‌های اولیه، آسیبی به سازه اصلی ساختمان وارد نشده است."
+      ],
+      "analysis_fa": "وقوع انفجار در منازل مسکونی معمولاً ناشی از مشکلات تأسیساتی یا گازی است. بررسی‌های تخصصی برای تعیین علت دقیق این حادثه ادامه دارد، در حالی که ایمنی ساکنان به دلیل عدم آسیب سازه‌ای تأیید شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مادرید",
+        "#حوادث",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -560,16 +588,23 @@
       "published_at": "2026-08-09T06:00:00+02:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "De estrella de YouTube a 30 años de cárcel: la gran estafa del magnate de los algoritmos",
-      "lead_fa": "De la especulación inmobiliaria a la creación de un imperio mediático digital: el caso del empresario chino que instrumentalizó las redes, las criptomonedas y los prejuicios geopolíticos para ejecutar una de las mayores estafas de la era de la información",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "محکومیت سنگین ستاره یوتیوب به ۳۰ سال زندان به جرم کلاهبرداری کلان",
+      "lead_fa": "یک سرمایه‌گذار و چهره سرشناس رسانه‌ای دیجیتال به اتهام کلاهبرداری عظیم از طریق شبکه‌های اجتماعی و ارزهای دیجیتال به ۳۰ سال زندان محکوم شد. این پرونده یکی از بزرگ‌ترین تخلفات مالی عصر اطلاعات ارزیابی می‌شود.",
+      "key_points_fa": [
+        "سوءاستفاده از شبکه‌های اجتماعی و رمزارزها برای اجرای کلاهبرداری",
+        "گذر از سوداگری املاک به ایجاد یک امپراتوری رسانه‌ای دیجیتال",
+        "صدور حکم ۳۰ سال حبس برای متهم اصلی پرونده"
+      ],
+      "analysis_fa": "این پرونده ابعاد پیچیده استفاده ابزاری از فناوری‌های نوین و پلتفرم‌های دیجیتال را برای انجام تخلفات مالی بزرگ نشان می‌دهد. روند رسیدگی به این جرایم مالی پیچیده بر ضرورت نظارت دقیق‌تر بر بازارهای دیجیتال و شبکه‌های اجتماعی تاکید دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کلاهبرداری",
+        "#ارزدیجیتال",
+        "#اسپانیا",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -582,16 +617,22 @@
       "published_at": "2026-08-09T06:00:00+02:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "La historia (del alma) de la hamburguesería más viral y antisistema de toda Barcelona",
-      "lead_fa": "El Burger Niu nació como una válvula de escape de un empresario al que el médico le dijo que tenía que rebajar el ritmo sí o sí",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "داستان همبرگرفروشی وایرال و ساختارشکن بارسلونا",
+      "lead_fa": "برگر نیو به عنوان راه فراری برای یک کارآفرین تأسیس شد. پزشکان به او توصیه کرده بودند که باید سرعت کار خود را کاهش دهد.",
+      "key_points_fa": [
+        "شکل‌گیری برگر نیو بر اساس توصیه پزشکی به مؤسس آن",
+        "تبدیل شدن این کسب‌وکار به یکی از مکان‌های وایرال و خاص در بارسلونا",
+        "رویکرد متفاوت و غیرمعمول در اداره این همبرگرفروشی"
+      ],
+      "analysis_fa": "این کسب‌وکار نمونه‌ای از تغییر مسیرهای شغلی است که به دلیل فشارهای کاری و توصیه‌های پزشکی شکل گرفته و توانسته توجه رسانه‌ها و کاربران فضای مجازی را به خود جلب کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#اقتصاد",
+        "#کارآفرینی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -618,7 +659,7 @@
     },
     {
       "id": "ab5dd13baccf",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
       "summary": "Jóvenes sin vía de entrada al mercado y vecinos con rentas antiguas amenazados de desahucio ilustran que arrendar habitaciones o un contrato indefinido han dejado de ser garantía de acceso a la vivienda",
       "url": "https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html",
@@ -2246,7 +2287,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
       "published_at": "2026-08-07T19:49:18+00:00",
       "category": "sociedad",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
       "key_points_fa": [],
@@ -2268,7 +2309,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
       "published_at": "2026-08-07T19:40:47+00:00",
       "category": "sociedad",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "Inveready y Mayoral asumen el control de Parlem",
       "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
       "key_points_fa": [],
@@ -2390,28 +2431,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "9da3098df3f1",
-      "source": "La Vanguardia",
-      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
-      "published_at": "2026-08-07T18:16:05+02:00",
-      "category": "ciencia",
-      "priority": 57,
-      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2443,7 +2462,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 140
+      "count": 141
     },
     {
       "source": "EL PAÍS España",
