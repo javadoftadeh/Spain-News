@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:19:20.805309+00:00",
+  "generated_at": "2026-08-10T12:29:06.404214+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "973075b8642d",
-    "eec2c0c18d77",
-    "2d0adaa48fa1",
+    "ff1a24505b0f",
     "ea02f3303740",
+    "2d0adaa48fa1",
     "49c6d5f505dd"
   ],
   "items": [
@@ -37,29 +37,57 @@
       "editorial_version": 2
     },
     {
-      "id": "eec2c0c18d77",
-      "source": "EL PAÍS",
-      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
-      "summary": "Las comunidades cierran sus parques naturales y suspenden actividades y festivales ya autorizados debido a las predicciones de riesgo extremo de fuegos",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/O53F2YGVHFJ5RBX4RI2D6RWHPY.jpg?auth=e19663c488feea9c23e935a14a3c4044344da945837c7cf797e7ad950e8d6a80",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "اسپانیا در آستانه خورشیدگرفتگی در حالت آماده‌باش قرمز حریق قرار گرفت",
-      "lead_fa": "مناطق مختلف اسپانیا پارک‌های طبیعی خود را تعطیل کردند. این اقدام برای پیشگیری از آتش‌سوزی‌های ناشی از بی‌احتیاطی حین رصد خورشیدگرفتگی انجام شده است.",
+      "id": "ff1a24505b0f",
+      "source": "La Vanguardia",
+      "title": "Los ferrocarriles históricos del Reino Unido se pasan al diésel",
+      "summary": "Las 'Heritage railways', las líneas que hacen viajes en viejos trenes de vapor, cambian de combustible por el precio del carbón y ante el temor de que puedan provocar un incendio",
+      "url": "https://www.lavanguardia.com/vida/20260810/11611125/ferrocarriles-historicos-reino-unido-pasan-diesel.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79a7a114557.r_d.1145-718-0.jpeg",
+      "published_at": "2026-08-10T12:52:53+02:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "راه‌آهن‌های تاریخی بریتانیا به دلیل گرانی زغال‌سنگ به گازوئیل روی آوردند",
+      "lead_fa": "خطوط ریلی تاریخی بریتانیا که به‌خاطر قطارهای بخار قدیمی شناخته می‌شوند، سوخت خود را تغییر می‌دهند. این تصمیم به دلیل افزایش قیمت زغال‌سنگ و خطر آتش‌سوزی اتخاذ شده است.",
       "key_points_fa": [
-        "اعلام هشدار قرمز برای خطر آتش‌سوزی در مناطق مختلف اسپانیا",
-        "تعطیلی پارک‌های طبیعی و لغو فعالیت‌ها و فستیوال‌های از پیش مجاز شده",
-        "نگرانی مقامات از خطرات ناشی از سهل‌انگاری در جریان رصد خورشیدگرفتگی"
+        "افزایش بهای زغال‌سنگ سوخت خطوط راه‌آهن تاریخی را تغییر داد.",
+        "نگرانی از بروز آتش‌سوزی یکی دیگر از دلایل این جابجایی سوخت است.",
+        "این خطوط عمدتاً برای سفرهای تفریحی با قطارهای قدیمی استفاده می‌شوند."
       ],
-      "analysis_fa": "مقارن شدن رویدادهای نجومی با شرایط خشک‌سالی و خطر بالای آتش‌سوزی، دولت‌های محلی اسپانیا را ناچار به اتخاذ تصمیمات پیشگیرانه شدید کرده است. تمرکز بر محدود کردن دسترسی به طبیعت نشان‌دهنده اهمیت مدیریت بحران‌های زیست‌محیطی پیش از وقوع فاجعه است.",
+      "analysis_fa": "تغییر سوخت در راه‌آهن‌های تاریخی بریتانیا نشان‌دهنده فشارهای اقتصادی ناشی از هزینه‌های انرژی و چالش‌های زیست‌محیطی و ایمنی در حفظ سنت‌های حمل‌ونقل است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بریتانیا",
+        "#راه‌آهن",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ea02f3303740",
+      "source": "EL PAÍS",
+      "title": "Italia y Dinamarca vinculan la “inmigración descontrolada” con la delincuencia y piden centros de deportación tras la crisis de Ceuta",
+      "summary": "La primera ministra italiana, Giorgia Meloni, y su homóloga danesa, Mette Frederiksen, publican un comunicado en el que afirman que los inmigrantes sin papeles cometen “delitos violentos”, “narcotráfico” y “violencia sexual”",
+      "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/74GM2WLM5FIOZPIW3MZI2O5BPU.jpg?auth=d5f495cfb6a2c54e2e1325e0d856d3b9455723e409881e3bd19db35c1c841d68",
+      "published_at": "2026-08-10T12:21:23+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "موضع‌گیری ایتالیا و دانمارک علیه مهاجرت و درخواست ایجاد مراکز اخراج",
+      "lead_fa": "نخست‌وزیران ایتالیا و دانمارک در بیانیه‌ای مشترک خواستار مقابله با مهاجرت کنترل‌نشده شدند. آن‌ها همچنین خواستار ایجاد مراکز اخراج مهاجران در خارج از اتحادیه اروپا شدند.",
+      "key_points_fa": [
+        "انتشار بیانیه مشترک توسط جورجا ملونی و مته فردریکسن",
+        "اشاره به چالش‌های مرتبط با مهاجرت غیرقانونی و جرایم",
+        "درخواست برای تاسیس مراکز اخراج مهاجران"
+      ],
+      "analysis_fa": "این موضع‌گیری مشترک نشان‌دهنده افزایش فشارهای سیاسی در اروپا برای اتخاذ سیاست‌های سخت‌گیرانه‌تر در قبال مهاجرت است. کشورهای عضو اتحادیه اروپا به طور فزاینده‌ای به دنبال راه‌حل‌های خارج از مرزهای خود برای مدیریت جریان‌های مهاجرتی هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#آتش_سوزی",
-        "#خورشیدگرفتگی"
+        "#مهاجرت",
+        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -67,11 +95,11 @@
     {
       "id": "2d0adaa48fa1",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP mantiene en el Senado la convocatoria de las comisiones pese a la negativa de los ministros de asistir a la cita",
-      "summary": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de deportación",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta pide al Gobierno un “mando único” para gestionar la situación tras la entrada masiva de migrantes",
+      "summary": "El Gobierno reitera que los ministros no irán al Senado para hablar de Ceuta",
       "url": "https://elpais.com/espana/2026-08-10/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/L3VEMRLMQRO6FFF554JBRVE2YY.jpg?auth=56047df6560a1cdbabf64155d1359e76b6cb01511a870d2b0b863e86c0a10ff3",
-      "published_at": "2026-08-10T11:16:28+00:00",
+      "published_at": "2026-08-10T12:16:44+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "مخالفت ایتالیا و دانمارک با مهاجرت بی‌رویه و ادامه وضعیت سبته",
@@ -94,40 +122,12 @@
       "editorial_version": 2
     },
     {
-      "id": "ea02f3303740",
-      "source": "EL PAÍS",
-      "title": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de deportación tras la crisis de Ceuta",
-      "summary": "La primera ministra italiana, Giorgia Meloni, y su homóloga danesa, Mette Frederiksen, publican un comunicado en el que afirman que los inmigrantes sin papeles cometen “delitos violentos”, “narcotráfico” y “violencia sexual”",
-      "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/74GM2WLM5FIOZPIW3MZI2O5BPU.jpg?auth=d5f495cfb6a2c54e2e1325e0d856d3b9455723e409881e3bd19db35c1c841d68",
-      "published_at": "2026-08-10T10:24:06+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "موضع‌گیری ایتالیا و دانمارک علیه مهاجرت و درخواست ایجاد مراکز اخراج",
-      "lead_fa": "نخست‌وزیران ایتالیا و دانمارک در بیانیه‌ای مشترک خواستار مقابله با مهاجرت کنترل‌نشده شدند. آن‌ها همچنین خواستار ایجاد مراکز اخراج مهاجران در خارج از اتحادیه اروپا شدند.",
-      "key_points_fa": [
-        "انتشار بیانیه مشترک توسط جورجا ملونی و مته فردریکسن",
-        "اشاره به چالش‌های مرتبط با مهاجرت غیرقانونی و جرایم",
-        "درخواست برای تاسیس مراکز اخراج مهاجران"
-      ],
-      "analysis_fa": "این موضع‌گیری مشترک نشان‌دهنده افزایش فشارهای سیاسی در اروپا برای اتخاذ سیاست‌های سخت‌گیرانه‌تر در قبال مهاجرت است. کشورهای عضو اتحادیه اروپا به طور فزاینده‌ای به دنبال راه‌حل‌های خارج از مرزهای خود برای مدیریت جریان‌های مهاجرتی هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "49c6d5f505dd",
       "source": "La Vanguardia",
       "title": "El eclipse desata el FOMO: por tierra, mar y aire",
       "summary": "Se dispara a última hora el miedo a perderse el espectáculo astronómico y el deseo de vivirlo de una forma especial con amigos y familia, pero si no se ha actuado con previsión ahora quizás ya es tarde: todo vendido o precios abusivos",
       "url": "https://www.lavanguardia.com/vida/20260810/11610792/eclipse-desata-fomo-tierra-mar-aire.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a78bd8e99fa0.r_d.1114-910-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79bdd559fd3.jpeg",
       "published_at": "2026-08-10T06:00:00+02:00",
       "category": "economia",
       "priority": 82,
@@ -234,6 +234,34 @@
       "editorial_version": 2
     },
     {
+      "id": "6c0f9f625efd",
+      "source": "La Vanguardia",
+      "title": "Alertan de la retirada de 6 modelos de gafas para el eclipse por riesgo de lesiones oculares",
+      "summary": "Se trata de productos de las marcas Lionstar, ECP Eye Care Proffesional, Pelispan, Homanaje, Orro y Opticalia",
+      "url": "https://www.lavanguardia.com/vida/20260810/11611117/alertan-retirada-6-modelos-gafas-eclipse-riesgo-lesiones-oculares.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a773a96a3914.r_d.1119-712-0.jpeg",
+      "published_at": "2026-08-10T12:50:56+02:00",
+      "category": "ciencia",
+      "priority": 77,
+      "title_fa": "هشدار درباره جمع‌آوری ۶ مدل عینک خورشیدگرفتگی به دلیل خطر آسیب چشمی",
+      "lead_fa": "مقامات درباره خطرات احتمالی استفاده از عینک‌های غیرمجاز برای تماشای خورشیدگرفتگی هشدار دادند. شش مدل عینک از برندهای مختلف از بازار جمع‌آوری می‌شوند.",
+      "key_points_fa": [
+        "جمع‌آوری شش مدل عینک مخصوص خورشیدگرفتگی از بازار",
+        "برندهای متخلف شامل Lionstar، Opticalia و چند نام تجاری دیگر هستند",
+        "هدف از این اقدام پیشگیری از بروز آسیب‌های جدی چشمی است"
+      ],
+      "analysis_fa": "این اقدام نظارتی نشان‌دهنده حساسیت نهادهای مسئول بر ایمنی ابزارهای رصد پدیده‌های نجومی است. نظارت بر استانداردهای ایمنی تجهیزات نوری از بروز صدمات بینایی جبران‌ناپذیر جلوگیری می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سلامت",
+        "#نجوم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "88a97b7555fe",
       "source": "La Vanguardia",
       "title": "Cancelados los permisos de militares desplegados en Ceuta ante un posible nuevo salto masivo",
@@ -265,7 +293,7 @@
     {
       "id": "c3b37de9c15d",
       "source": "EL PAÍS",
-      "title": "El incendio de Niebla (Huelva) supera ya las 20.000 hectáreas afectadas",
+      "title": "El incendio de Niebla (Huelva) supera ya las 20.000 hectáreas afectadas y se encuentra “fuera de la capacidad de extinción”",
       "summary": "Un total de 176 personas seguirán evacuadas de sus casas por el fuego en Segovia, que en las últimas horas ha evolucionado a mejor",
       "url": "https://elpais.com/espana/2026-08-10/el-incendio-de-niebla-huelva-supera-ya-las-20000-hectareas-afectadas.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203282_074809_video_1800.mp4",
@@ -296,7 +324,7 @@
       "title": "Un nuevo ataque de drones ucranianos mata al menos a 13 personas en la región rusa de Tartaristán",
       "summary": "Las autoridades rusas denuncian que la ofensiva afectó a instalaciones industriales y civiles en Nizhnekamsk, donde se encuentra una importante refinería",
       "url": "https://www.lavanguardia.com/internacional/20260810/11611007/un-nuevo-ataque-de-drones-ucranianos-mata-al-menos-a-12-personas-en-la-region-rusa-de-tartaristan.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/30/6a43c781b7f5a.r_d.2475-1616-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79ba14cc55e.jpeg",
       "published_at": "2026-08-10T10:37:16+02:00",
       "category": "politica",
       "priority": 77,
@@ -345,34 +373,6 @@
         "#اسپانیا",
         "#محیط_زیست",
         "#کشاورزی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b76847502638",
-      "source": "La Vanguardia",
-      "title": "Alertas por calor y lluvias en diez comunidades autónomas durante este lunes",
-      "summary": "En concreto, estarán en aviso Catalunya, Andalucía, Aragón, Illes Balears, Castilla-La Mancha, Comunidad de Madrid, Región de Murcia, Navarra, La Rioja y la Comunitat Valenciana",
-      "url": "https://www.lavanguardia.com/natural/20260810/11610959/alertas-calor-lluvias-diez-comunidades-autonomas-lunes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a796c64c2fb5.r_d.2699-1499-0.jpeg",
-      "published_at": "2026-08-10T08:25:06+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "هشدار هواشناسی گرما و بارندگی در ده منطقه اسپانیا",
-      "lead_fa": "سازمان هواشناسی اسپانیا برای روز دوشنبه در ده منطقه خود مختار هشدار صادر کرد. این هشدارها شامل وضعیت‌های جوی مرتبط با گرما و بارندگی شدید است.",
-      "key_points_fa": [
-        "صدور هشدار هواشناسی برای ده منطقه خود مختار در روز دوشنبه.",
-        "مناطق کاتالونیا، اندلس، آراگون، جزایر بالئارس و کاستیا-لا مانچا در وضعیت هشدار هستند.",
-        "جامعه مادرید، مورسیا، ناوارا، لا ریوخا و والنسیا نیز تحت تاثیر این شرایط قرار دارند."
-      ],
-      "analysis_fa": "صدور هشدارهای هواشناسی در مناطق مختلف اسپانیا نشان‌دهنده ناپایداری‌های جوی فصلی است که معمولاً بر فعالیت‌های روزمره و زیرساخت‌های محلی تاثیر می‌گذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هواشناسی_اسپانیا",
-        "#بارندگی",
-        "#گرما"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -469,7 +469,7 @@
       "title": "La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI",
       "summary": "Preocupa el riesgo de espionaje al arsenal militar y el astillero de Navantia, que trabajan con avanzados sistemas de combate de EE UU",
       "url": "https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/54HP3GYAIVFAHGDF3T336GCC7Y.jpg?auth=777f7f58e09e8294cfc055becc2df94d128389440014785cf4947a614e4e0b75",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203341_113136_video_1800.mp4",
       "published_at": "2026-08-10T03:30:01+00:00",
       "category": "politica",
       "priority": 77,
@@ -550,29 +550,30 @@
       "editorial_version": 2
     },
     {
-      "id": "4004dda85823",
-      "source": "EL PAÍS España",
-      "title": "La hora cero de los megaincendios de julio: las pistas que siguen los investigadores",
-      "summary": "La Guardia Civil intenta resolver las incógnitas que han dejado los fuegos, ambos provocados, en Ávila y la Vall d’Uixó",
-      "url": "https://elpais.com/espana/2026-08-09/la-hora-cero-de-los-megaincendios-de-julio-las-pistas-que-siguen-los-investigadores.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBWTIJTWFHCTFGI24OC2DDUCU.jpg?auth=470fc4cebdc78bdfcebba8b920758187a11b33ded3bbc49b800b48d5f19cba6c",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "تحقیقات درباره آتش‌سوزی‌های عمدی اخیر در اسپانیا",
-      "lead_fa": "گارد ملی اسپانیا در حال بررسی ابعاد آتش‌سوزی‌های عمدی در آویلا و بای د اوشو است. کارشناسان به دنبال یافتن سرنخ‌هایی از عاملان این فجایع هستند.",
+      "id": "01fea660864c",
+      "source": "La Vanguardia",
+      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
+      "summary": "Los populares denuncian desde Barcelona que el PSOE ha prorrogado 70 veces la ley contra las ocupaciones que remitió el Senado al Congreso",
+      "url": "https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79b78b1c857.r_d.2125-1325-0.jpeg",
+      "published_at": "2026-08-10T12:58:19+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "موضع حزب مردمی اسپانیا درباره نشست مهاجران سئوتا و انتقاد از دولت",
+      "lead_fa": "حزب مردمی (PP) اعلام کرد که با وجود مخالفت ووکس، در نشست دولتی درباره مهاجران خردسال سئوتا شرکت می‌کند. این حزب همچنین دولت را به تاخیر در بررسی قوانین مرتبط متهم کرد.",
       "key_points_fa": [
-        "آتش‌سوزی‌های اخیر در مناطق آویلا و بای د اوشو رخ داده است.",
-        "شواهد اولیه نشان می‌دهد که این حریق‌ها به صورت عمدی ایجاد شده‌اند.",
-        "گارد ملی اسپانیا تحقیقات تخصصی را برای شناسایی عوامل این آتش‌سوزی‌ها آغاز کرده است."
+        "حزب مردمی در نشست دولتی مربوط به کودکان مهاجر سئوتا شرکت خواهد کرد.",
+        "این تصمیم علیرغم خودداری حزب ووکس از حضور در جلسه اتخاذ شده است.",
+        "مقامات حزب مردمی در بارسلونا از عملکرد حزب سوسیالیست در زمینه قوانین انتقاد کردند."
       ],
-      "analysis_fa": "وقوع آتش‌سوزی‌های عمدی در فصل گرم سال یکی از چالش‌های بزرگ امنیتی و زیست‌محیطی در اسپانیا است. تمرکز نهادهای انتظامی بر کشف زوایای پنهان این حوادث نشان‌دهنده تلاش دولت برای پیشگیری از تکرار بحران‌های مشابه در آینده است.",
+      "analysis_fa": "این تنش سیاسی نشان‌دهنده اختلاف‌نظر میان احزاب راست و راست افراطی در اسپانیا بر سر نحوه مدیریت مهاجرت و پرونده‌های کلیدی پارلمانی است. همکاری حزب مردمی با دولت در این نشست خاص، پویایی روابط سیاسی احزاب اپوزیسیون را برجسته می‌کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#آتش_سوزی",
         "#اسپانیا",
-        "#حوادث"
+        "#سیاست",
+        "#مهاجرت",
+        "#حزب_مردمی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -597,35 +598,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6f48baabc0bd",
-      "source": "La Vanguardia",
-      "title": "La NASA alquila un pueblo pequeño de Burgos para retransmitir el eclipse solar",
-      "summary": "La agencia buscó el lugar apropiado durante un año y eligió el pueblo de Villalibado, restaurado por un empresario, donde ha instalado cuatro telescopios de gran potencia junto a la iglesia románica",
-      "url": "https://www.lavanguardia.com/vida/20260809/11610764/nasa-alquila-aldea-abandonada-burgos-retransmision-eclipse-solar.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a797e7043534.jpeg",
-      "published_at": "2026-08-09T18:29:04+02:00",
-      "category": "ciencia",
-      "priority": 75,
-      "title_fa": "اجاره یک روستای کوچک در بورگوس توسط ناسا برای پخش خورشیدگرفتگی",
-      "lead_fa": "ناسا پس از یک سال جستجو، روستای ویلاليبادو در استان بورگوس را برای استقرار تجهیزات انتخاب کرد. این روستا توسط یک کارآفرین بازسازی شده است.",
-      "key_points_fa": [
-        "ناسا روستای ویلاليبادو را برای پخش خورشیدگرفتگی انتخاب کرد.",
-        "چهار تلسکوپ قدرتمند در کنار کلیسای رومانیک این روستا نصب شده است.",
-        "انتخاب این محل پس از یک سال بررسی صورت گرفت."
-      ],
-      "analysis_fa": "انتخاب مناطق روستایی و تاریخی اسپانیا توسط آژانس‌های فضایی بین‌المللی نشان‌دهنده اهمیت شرایط جغرافیایی و دسترسی به زیرساخت‌های مناسب برای پروژه‌های علمی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ناسا",
-        "#اسپانیا",
-        "#خورشیدگرفتگی",
-        "#نجوم"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -682,15 +654,15 @@
     {
       "id": "617625bff79c",
       "source": "La Vanguardia",
-      "title": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación en terceros países",
-      "summary": "Sus primeras ministras, Giorgia Meloni y Mette Frederiksen, aseguran en un comunicado conjunto que, pese a sus diferencias políticas, les une su “deseo de defender Europa”",
+      "title": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación",
+      "summary": "Las primeras ministras Giorgia Meloni y Mette Frederiksen se alían para defender “los valores de Europa”",
       "url": "https://www.lavanguardia.com/internacional/20260810/11610972/italia-dinamarca-rechazan-inmigracion-descontrolada-piden-centros-repatriacion-terceros-paises.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79894f61dc1.jpeg",
       "published_at": "2026-08-10T09:17:22+02:00",
       "category": "migracion",
       "priority": 74,
-      "title_fa": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación en terceros países",
-      "lead_fa": "Sus primeras ministras, Giorgia Meloni y Mette Frederiksen, aseguran en un comunicado conjunto que, pese a sus diferencias políticas, les une su “deseo de defender Europa”",
+      "title_fa": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación",
+      "lead_fa": "Las primeras ministras Giorgia Meloni y Mette Frederiksen se alían para defender “los valores de Europa”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -815,28 +787,6 @@
       "editorial_version": 2
     },
     {
-      "id": "30c80ffb319f",
-      "source": "La Vanguardia",
-      "title": "“Soy partidario de avanzar, puede haber acuerdos con Aliança que funcionen”",
-      "summary": "El exdirigente de CDC ocupó diversos cargos en los gobiernos de Jordi Pujol entre 1994 y el 2003; también fue portavoz de Convergència",
-      "url": "https://www.lavanguardia.com/politica/20260810/11610743/david-madi-partidario-avanzar-haber-acuerdos-alianca-funcionen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a78968bd928e.r_d.3943-2822-0.jpeg",
-      "published_at": "2026-08-10T06:00:00+02:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "“Soy partidario de avanzar, puede haber acuerdos con Aliança que funcionen”",
-      "lead_fa": "El exdirigente de CDC ocupó diversos cargos en los gobiernos de Jordi Pujol entre 1994 y el 2003; también fue portavoz de Convergència",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9221c394eade",
       "source": "La Vanguardia",
       "title": "Semana clave para el mercado de fichajes del Barça",
@@ -848,28 +798,6 @@
       "priority": 73,
       "title_fa": "Semana clave para el mercado de fichajes del Barça",
       "lead_fa": "Hay operaciones que se deciden en los despachos y otras en las que la voluntad del futbolista pesa mucho más que cualquier otra circunstancia y termina inclinando la balanza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b0bbfbbb375f",
-      "source": "La Vanguardia",
-      "title": "La fascinación del mercado",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/deportes/20260810/11610798/fascinacion-mercado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a76636773e53.r_d.4365-2133-0.jpeg",
-      "published_at": "2026-08-10T06:00:00+02:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "La fascinación del mercado",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1079,94 +1007,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5608f95643a4",
-      "source": "EL PAÍS Economía",
-      "title": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
-      "summary": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/mas-alla-del-furor-por-el-eclipse-la-inversion-espacial-rinde-el-30-en-2026-con-sus-promesas-lunaticas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Y2R4BUKR6BAMHPM5JRL52HOWBQ.jpg?auth=27dee3517fdcad08873eae2c3e46a36396b78acc2dd5f37cf4f4c7811f8d5d5d",
-      "published_at": "2026-08-10T03:25:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
-      "lead_fa": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a17281b91df7",
-      "source": "EL PAÍS Economía",
-      "title": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
-      "summary": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/un-tribunal-de-munich-admite-la-demanda-de-un-accionista-minoritario-contra-telefonica-alemania.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MKRB3C3F6FCCPBROTG4FYHBQCA.jpg?auth=de92ac334602650cfbf9d7c0ffb9da45473a905579cb89226f9463b1bcdf2446",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
-      "lead_fa": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3c8b51c3f954",
-      "source": "EL PAÍS Economía",
-      "title": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
-      "summary": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RY3EMYAX2NBKZAMRQQY3QHTF7M.jpg?auth=e8ba6336e0c85bea68a091c21fd327fe30f270cc0a8e8d984d60ff86f8fa1ab4",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
-      "lead_fa": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f354f263ce1a",
-      "source": "EL PAÍS",
-      "title": "Una cuenta atrás salpicada de obstáculos para cotizar y quedarse",
-      "summary": "Los inmigrantes que obtienen el permiso provisional tienen un año para contribuir nueve meses a la Seguridad Social, pero temen que un gobierno del PP y Vox frustre su futuro",
-      "url": "https://elpais.com/masterdeperiodismo/master2026/2026-08-10/una-cuenta-atras-salpicada-de-obstaculos-para-cotizar-y-quedarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VGMR4JJ75VGIZK2RKENKYHALZE.jpg?auth=df6df2177b6a704ac5d63b9de1cf480bbeeb6d096427c5a861d0318b5752fd06",
-      "published_at": "2026-08-10T03:00:00+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Una cuenta atrás salpicada de obstáculos para cotizar y quedarse",
-      "lead_fa": "Los inmigrantes que obtienen el permiso provisional tienen un año para contribuir nueve meses a la Seguridad Social, pero temen que un gobierno del PP y Vox frustre su futuro",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9d0379939225",
       "source": "EL PAÍS Economía",
       "title": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
@@ -1224,34 +1064,6 @@
       "editorial_version": 2
     },
     {
-      "id": "df2298d7779b",
-      "source": "EL PAÍS España",
-      "title": "¿Qué hace Planifica Madrid? “Compra y vende inmuebles”, según Ayuso, aunque la realidad lo desmiente: solo ha comprado dos en cinco años",
-      "summary": "La empresa pública madrileña era una desconocida para el público general y en su trayectoria no consta una adquisición semejante a la del ático de 485 metros cuadrados que le ha puesto en el punto de mira",
-      "url": "https://elpais.com/espana/madrid/2026-08-09/que-hace-planifica-madrid-compra-y-vende-inmuebles-segun-ayuso-aunque-la-realidad-lo-desmiente-solo-ha-comprado-dos-en-cinco-anos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260805/1202033_124735_video_1800.mp4",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "عملکرد شرکت «پلانیفیکا مادرید» زیر ذره‌بین؛ خرید ملکی جنجالی در پنج سال",
-      "lead_fa": "شرکت دولتی پلانیفیکا مادرید که تاکنون برای عموم ناشناخته بود، با یک خرید ملکی بزرگ در کانون توجه قرار گرفت. ایزابل دایوسو مدعی خرید و فروش املاک توسط این نهاد شده، اما سوابق آن نشان‌دهنده خرید تنها دو ملک در پنج سال گذشته است.",
-      "key_points_fa": [
-        "شرکت دولتی پلانیفیکا مادرید تنها دو ملک را طی پنج سال گذشته خریداری کرده است.",
-        "این شرکت اخیراً به دلیل خرید یک پنت‌هاوس ۴۸۵ متری مورد توجه رسانه‌ها قرار گرفته است.",
-        "مقام‌های محلی ادعاهای متفاوتی درباره فعالیت‌های تجاری و خرید و فروش املاک توسط این نهاد مطرح کرده‌اند."
-      ],
-      "analysis_fa": "این مسئله چالش‌های شفافیت در نهادهای دولتی محلی و نحوه مدیریت دارایی‌های عمومی در مادرید را برجسته می‌کند. تفاوت میان ادعاهای مقامات رسمی و آمار واقعی عملکرد، پرسش‌هایی را درباره نظارت بر این شرکت‌ها ایجاد کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مادرید",
-        "#اقتصاد_اسپانیا",
-        "#مسکن"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "78629e5d9a3d",
       "source": "EL PAÍS Economía",
       "title": "El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior",
@@ -1281,6 +1093,94 @@
       "editorial_version": 2
     },
     {
+      "id": "5608f95643a4",
+      "source": "EL PAÍS Economía",
+      "title": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
+      "summary": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/mas-alla-del-furor-por-el-eclipse-la-inversion-espacial-rinde-el-30-en-2026-con-sus-promesas-lunaticas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y2R4BUKR6BAMHPM5JRL52HOWBQ.jpg?auth=27dee3517fdcad08873eae2c3e46a36396b78acc2dd5f37cf4f4c7811f8d5d5d",
+      "published_at": "2026-08-10T03:25:00+00:00",
+      "category": "economia",
+      "priority": 72,
+      "title_fa": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
+      "lead_fa": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a17281b91df7",
+      "source": "EL PAÍS Economía",
+      "title": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "summary": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/un-tribunal-de-munich-admite-la-demanda-de-un-accionista-minoritario-contra-telefonica-alemania.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MKRB3C3F6FCCPBROTG4FYHBQCA.jpg?auth=de92ac334602650cfbf9d7c0ffb9da45473a905579cb89226f9463b1bcdf2446",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "politica",
+      "priority": 72,
+      "title_fa": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "lead_fa": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3c8b51c3f954",
+      "source": "EL PAÍS Economía",
+      "title": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
+      "summary": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RY3EMYAX2NBKZAMRQQY3QHTF7M.jpg?auth=e8ba6336e0c85bea68a091c21fd327fe30f270cc0a8e8d984d60ff86f8fa1ab4",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "economia",
+      "priority": 72,
+      "title_fa": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
+      "lead_fa": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f354f263ce1a",
+      "source": "EL PAÍS",
+      "title": "Una cuenta atrás salpicada de obstáculos para cotizar y quedarse",
+      "summary": "Los inmigrantes que obtienen el permiso provisional tienen un año para contribuir nueve meses a la Seguridad Social, pero temen que un gobierno del PP y Vox frustre su futuro",
+      "url": "https://elpais.com/masterdeperiodismo/master2026/2026-08-10/una-cuenta-atras-salpicada-de-obstaculos-para-cotizar-y-quedarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VGMR4JJ75VGIZK2RKENKYHALZE.jpg?auth=df6df2177b6a704ac5d63b9de1cf480bbeeb6d096427c5a861d0318b5752fd06",
+      "published_at": "2026-08-10T03:00:00+00:00",
+      "category": "politica",
+      "priority": 72,
+      "title_fa": "Una cuenta atrás salpicada de obstáculos para cotizar y quedarse",
+      "lead_fa": "Los inmigrantes que obtienen el permiso provisional tienen un año para contribuir nueve meses a la Seguridad Social, pero temen que un gobierno del PP y Vox frustre su futuro",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a6ada4058f9b",
       "source": "EL PAÍS Economía",
       "title": "El crédito a las empresas vuelve, pero no a todas por igual",
@@ -1306,6 +1206,94 @@
         "#سرمایه‌گذاری"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a616995340da",
+      "source": "La Vanguardia",
+      "title": "El Prado celebra el eclipse con una luz especial",
+      "summary": "El museo elabora un vídeo en el que muestra cómo serían las obras de la pinacoteca bajo la súbita penumbra",
+      "url": "https://www.lavanguardia.com/cultura/20260810/11611113/prado-celebra-eclipse-luz-especial.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/05/13/627e4a607c77c.jpeg",
+      "published_at": "2026-08-10T13:05:40+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "El Prado celebra el eclipse con una luz especial",
+      "lead_fa": "El museo elabora un vídeo en el que muestra cómo serían las obras de la pinacoteca bajo la súbita penumbra",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8915a9caccb3",
+      "source": "La Vanguardia",
+      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
+      "summary": "Los ladrones de cobre actúan en la red ferroviaria de Rodalies prácticamente a diario",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/30/6a43f445481a0.r_d.1705-1136-0.jpeg",
+      "published_at": "2026-08-10T12:45:15+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
+      "lead_fa": "Los ladrones de cobre actúan en la red ferroviaria de Rodalies prácticamente a diario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3ba01efc3383",
+      "source": "EL PAÍS",
+      "title": "Consumo retira seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
+      "summary": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
+      "url": "https://elpais.com/sociedad/2026-08-10/consumo-retira-seis-modelos-de-gafas-para-el-eclipse-por-riesgo-de-lesiones-oculares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KPI6S45NCFEARBA7OGHFWB7SGI.jpg?auth=57c92619444cf1b85da708f7dbb409ebf74973863fbf52e25b07a72c2d68a929",
+      "published_at": "2026-08-10T12:11:32+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Consumo retira seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
+      "lead_fa": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2e8487f0b9e5",
+      "source": "EL PAÍS",
+      "title": "Detenidos una de las hijas y su novio por la muerte violenta de un dirigente agrario aragonés y su esposa",
+      "summary": "La Guardia Civil continúa con la investigación sobre el asesinato cometido el pasado viernes en casa de la víctima en Tauste (Zaragoza)",
+      "url": "https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7I5CWJDXZNELVGXMWQDKLLUFPM.jpg?auth=a5e777f31a06be90ed13630b20ca4081ef367e1cf428fd6c7b2c896c834651ef",
+      "published_at": "2026-08-10T12:08:12+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Detenidos una de las hijas y su novio por la muerte violenta de un dirigente agrario aragonés y su esposa",
+      "lead_fa": "La Guardia Civil continúa con la investigación sobre el asesinato cometido el pasado viernes en casa de la víctima en Tauste (Zaragoza)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1353,6 +1341,50 @@
       "editorial_version": 2
     },
     {
+      "id": "6db3e7af68cd",
+      "source": "EL PAÍS España",
+      "title": "La libertad de quedarse",
+      "summary": "No hay ninguna valla más alta que la desesperación",
+      "url": "https://elpais.com/espana/2026-08-10/la-libertad-de-quedarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZV3FZ5DMLNCBLF5DUODN6PXWTU.jpg?auth=686485101547c2e22688741361f1f6a74027b39ec83afb4b5f7f1f0bc4f47eb4",
+      "published_at": "2026-08-10T11:46:02+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La libertad de quedarse",
+      "lead_fa": "No hay ninguna valla más alta que la desesperación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6f69353d3df7",
+      "source": "EL PAÍS España",
+      "title": "La trama de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
+      "summary": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
+      "url": "https://elpais.com/espana/2026-08-10/la-trama-de-la-cocaina-de-algeciras-que-blanqueo-dinero-para-conseguir-la-libertad-y-fugarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RI6WFT7BEBDZ7GUPTRFYEXNSQE.jpg?auth=b12078c5d44c35aad9603f287c40a6c56d06bf1ca2f7a4fa776d07aea1898f3b",
+      "published_at": "2026-08-10T11:01:25+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La trama de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
+      "lead_fa": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "071665c1c727",
       "source": "EL PAÍS",
       "title": "La UEFA, AFC y CONCACAF se unen para cargar contra Infantino por la propuesta de vender una participación del Mundial",
@@ -1364,50 +1396,6 @@
       "priority": 70,
       "title_fa": "La UEFA, AFC y CONCACAF se unen para cargar contra Infantino por la propuesta de vender una participación del Mundial",
       "lead_fa": "Las organizaciones señalan que la propuesta de Infantino rompe la confianza “mediante el engaño”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "dbc33efa4998",
-      "source": "EL PAÍS",
-      "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
-      "summary": "La memoria de Maxwell Cremona de 2025 asegura que hubo ese pago, pero el balance y la cuenta de resultados no cuadran con esa afirmación",
-      "url": "https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/37SL6JKALNAWPMUWGYCJ4ULXL4.jpg?auth=572f87c363c214437a14c3ac3d69b213c0aad21c9eb517cb61f3e6bcb0ac7a36",
-      "published_at": "2026-08-10T09:11:15+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
-      "lead_fa": "La memoria de Maxwell Cremona de 2025 asegura que hubo ese pago, pero el balance y la cuenta de resultados no cuadran con esa afirmación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b32bcf3d6fa6",
-      "source": "EL PAÍS",
-      "title": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
-      "summary": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
-      "url": "https://elpais.com/internacional/2026-08-10/el-tifon-dolphin-obliga-a-evacuar-a-mas-de-un-millon-de-personas-en-china.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203288_081946_video_1800.mp4",
-      "published_at": "2026-08-10T09:11:00+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
-      "lead_fa": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1474,6 +1462,50 @@
       "editorial_version": 2
     },
     {
+      "id": "dbc33efa4998",
+      "source": "EL PAÍS",
+      "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
+      "summary": "La memoria de Maxwell Cremona de 2025 asegura que hubo ese pago, pero el balance y la cuenta de resultados no cuadran con esa afirmación",
+      "url": "https://elpais.com/espana/madrid/2026-08-10/se-pago-otro-dividendo-de-12-millones-la-pareja-de-ayuso-o-se-equivoco-en-las-cuentas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/37SL6JKALNAWPMUWGYCJ4ULXL4.jpg?auth=572f87c363c214437a14c3ac3d69b213c0aad21c9eb517cb61f3e6bcb0ac7a36",
+      "published_at": "2026-08-10T09:11:15+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
+      "lead_fa": "La memoria de Maxwell Cremona de 2025 asegura que hubo ese pago, pero el balance y la cuenta de resultados no cuadran con esa afirmación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b32bcf3d6fa6",
+      "source": "EL PAÍS",
+      "title": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
+      "summary": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
+      "url": "https://elpais.com/internacional/2026-08-10/el-tifon-dolphin-obliga-a-evacuar-a-mas-de-un-millon-de-personas-en-china.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203288_081946_video_1800.mp4",
+      "published_at": "2026-08-10T09:11:00+00:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
+      "lead_fa": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "60c8a172d468",
       "source": "La Vanguardia",
       "title": "La televisión prepara una avalancha de series de 'romantasy'",
@@ -1496,16 +1528,16 @@
       "editorial_version": 2
     },
     {
-      "id": "2d182fcc1f44",
+      "id": "4a379c6e73d5",
       "source": "La Vanguardia",
-      "title": "¿Quién vigila en Rodalies?",
+      "title": "En defensa del espacio Schengen",
       "summary": "",
-      "url": "https://www.lavanguardia.com/opinion/20260810/11610738/vigila-rodalies.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/16/66bf1e4c7af6e.r_d.2128-1227-0.jpeg",
+      "url": "https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a78969311391.r_d.454-352-0.jpeg",
       "published_at": "2026-08-10T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 68,
-      "title_fa": "¿Quién vigila en Rodalies?",
+      "title_fa": "En defensa del espacio Schengen",
       "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1540,39 +1572,17 @@
       "editorial_version": 2
     },
     {
-      "id": "4a379c6e73d5",
+      "id": "2d182fcc1f44",
       "source": "La Vanguardia",
-      "title": "En defensa del espacio Schengen",
+      "title": "¿Quién vigila en Rodalies?",
       "summary": "",
-      "url": "https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a78969311391.r_d.454-352-0.jpeg",
-      "published_at": "2026-08-10T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "En defensa del espacio Schengen",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "849095ef122b",
-      "source": "La Vanguardia",
-      "title": "China conecta sus puertos con Europa a través del Ártico ruso",
-      "summary": "La naviera Sea Legend lanza hasta octubre una línea semanal de mercancías, con origen en Ningbo",
-      "url": "https://www.lavanguardia.com/internacional/20260810/11610327/china-conecta-puertos-europa-traves-artico-ruso.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/09/08/61390107c17cf.jpeg",
+      "url": "https://www.lavanguardia.com/opinion/20260810/11610738/vigila-rodalies.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/16/66bf1e4c7af6e.r_d.2128-1227-0.jpeg",
       "published_at": "2026-08-10T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "China conecta sus puertos con Europa a través del Ártico ruso",
-      "lead_fa": "La naviera Sea Legend lanza hasta octubre una línea semanal de mercancías, con origen en Ningbo",
+      "title_fa": "¿Quién vigila en Rodalies?",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1606,17 +1616,17 @@
       "editorial_version": 2
     },
     {
-      "id": "e3b18337641e",
+      "id": "849095ef122b",
       "source": "La Vanguardia",
-      "title": "“Da miedo darse cuenta de que cazar seres humanos ni siquiera es tan ficticio”",
-      "summary": "La escritora belga publica en España 'El trofeo', una novela de éxito internacional con una premisa tan perturbadora como trepidante",
-      "url": "https://www.lavanguardia.com/cultura/20260810/11610762/gaea-schoeters-da-miedo-darse-cuenta-cazar-seres-humanos-siquiera-ficticio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a78a125b7c5d.jpeg",
+      "title": "China conecta sus puertos con Europa a través del Ártico ruso",
+      "summary": "La naviera Sea Legend lanza hasta octubre una línea semanal de mercancías, con origen en Ningbo",
+      "url": "https://www.lavanguardia.com/internacional/20260810/11610327/china-conecta-puertos-europa-traves-artico-ruso.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/09/08/61390107c17cf.jpeg",
       "published_at": "2026-08-10T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "“Da miedo darse cuenta de que cazar seres humanos ni siquiera es tan ficticio”",
-      "lead_fa": "La escritora belga publica en España 'El trofeo', una novela de éxito internacional con una premisa tan perturbadora como trepidante",
+      "title_fa": "China conecta sus puertos con Europa a través del Ártico ruso",
+      "lead_fa": "La naviera Sea Legend lanza hasta octubre una línea semanal de mercancías, con origen en Ningbo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1628,17 +1638,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9954cf70b73f",
+      "id": "e3b18337641e",
       "source": "La Vanguardia",
-      "title": "Sobre niños que esquivan sobredosis en el portal del edificio de la calle Muntaner",
-      "summary": "Un madre de este maltrecho edificio cuenta cómo viven sus hijos que uno de los pisos fue tomado por toxicómanos",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11610796/sobre-ninos-esquivan-sobredosis-portal-edificio-calle-muntaner.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a78c3edf007f.jpeg",
+      "title": "“Da miedo darse cuenta de que cazar seres humanos ni siquiera es tan ficticio”",
+      "summary": "La escritora belga publica en España 'El trofeo', una novela de éxito internacional con una premisa tan perturbadora como trepidante",
+      "url": "https://www.lavanguardia.com/cultura/20260810/11610762/gaea-schoeters-da-miedo-darse-cuenta-cazar-seres-humanos-siquiera-ficticio.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/09/6a78a125b7c5d.jpeg",
       "published_at": "2026-08-10T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Sobre niños que esquivan sobredosis en el portal del edificio de la calle Muntaner",
-      "lead_fa": "Un madre de este maltrecho edificio cuenta cómo viven sus hijos que uno de los pisos fue tomado por toxicómanos",
+      "title_fa": "“Da miedo darse cuenta de que cazar seres humanos ni siquiera es tan ficticio”",
+      "lead_fa": "La escritora belga publica en España 'El trofeo', una novela de éxito internacional con una premisa tan perturbadora como trepidante",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1892,17 +1902,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9194c17de253",
+      "id": "66ae6e9069b9",
       "source": "EL PAÍS",
-      "title": "Los veranos en que me enamoré",
-      "summary": "La playa es la misma, tú no. Un año te encanta ‘Humor amarillo’ y al otro, las películas de instituto en las que el malote baila con la empollona",
-      "url": "https://elpais.com/television/2026-08-10/los-veranos-en-que-me-enamore.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7HNXMOU7MJHP5G66BB466FUVTI.jpg?auth=64ed6a864764f733ad28c5b5838df31e733bb8855166d4dbc2f2469549540451",
+      "title": "De Gabinete Caligari a Maluma: una lista de canciones para mirar el eclipse",
+      "summary": "El 12 de agosto póngase las gafas y estas melodías para disfrutar de un momento único",
+      "url": "https://elpais.com/cultura/2026-08-10/de-gabinete-caligari-a-maluma-una-lista-de-canciones-para-mirar-el-eclipse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GYW2UCF7HVF2LNSTMGTGFWVTWI.jpg?auth=33d182b5e90a67a9d64247f1301b25fb9cda53dfa8d1abc532753b7f371397a8",
       "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 68,
-      "title_fa": "Los veranos en que me enamoré",
-      "lead_fa": "La playa es la misma, tú no. Un año te encanta ‘Humor amarillo’ y al otro, las películas de instituto en las que el malote baila con la empollona",
+      "title_fa": "De Gabinete Caligari a Maluma: una lista de canciones para mirar el eclipse",
+      "lead_fa": "El 12 de agosto póngase las gafas y estas melodías para disfrutar de un momento único",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2002,17 +2012,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ce8403a77c28",
+      "id": "89a71dc03637",
       "source": "EL PAÍS",
-      "title": "Eclipse, tú antes molabas",
-      "summary": "¿Qué me importa a mí un fenómeno astronómico si no distingo Venus de una farola? Además, si algo le sobra al mundo es oscuridad",
-      "url": "https://elpais.com/television/2026-08-10/eclipse-tu-antes-molabas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VNOMG25VERE2BHTMEZPVNHKD3Q.jpg?auth=af574100759af6ecc24191061dcec9029df0dec7b42e1e46d16387726faf034e",
-      "published_at": "2026-08-10T03:30:01+00:00",
+      "title": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
+      "summary": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
+      "url": "https://elpais.com/smoda/belleza/2026-08-10/creatina-si-pero-vitamina-d-no-hay-sesgo-de-genero-tambien-en-torno-a-los-suplementos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QQMY2TPPFBCB5LNRFK7HTH5DFU.jpg?auth=bc8648d5ca998505d88a022b6f464cd44bb7c2268b6395002ad64afad2fafafc",
+      "published_at": "2026-08-10T03:30:00+00:00",
       "category": "ciencia",
       "priority": 68,
-      "title_fa": "Eclipse, tú antes molabas",
-      "lead_fa": "¿Qué me importa a mí un fenómeno astronómico si no distingo Venus de una farola? Además, si algo le sobra al mundo es oscuridad",
+      "title_fa": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
+      "lead_fa": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2035,28 +2045,6 @@
       "priority": 68,
       "title_fa": "Seis recetas de “melón con cosas” para exprimir la temporada del aperitivo al postre",
       "lead_fa": "En ensalada con chile y lima, gazpacho, pinchitos con bacalao ahumado o al grill: la cucurbitácea más veraniega -con permiso de la sandía- ofrece infinitas posibilidades",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "89a71dc03637",
-      "source": "EL PAÍS",
-      "title": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
-      "summary": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
-      "url": "https://elpais.com/smoda/belleza/2026-08-10/creatina-si-pero-vitamina-d-no-hay-sesgo-de-genero-tambien-en-torno-a-los-suplementos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QQMY2TPPFBCB5LNRFK7HTH5DFU.jpg?auth=bc8648d5ca998505d88a022b6f464cd44bb7c2268b6395002ad64afad2fafafc",
-      "published_at": "2026-08-10T03:30:00+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
-      "lead_fa": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2112,72 +2100,6 @@
       "editorial_version": 2
     },
     {
-      "id": "002f5f8f1904",
-      "source": "EL PAÍS Economía",
-      "title": "Morante y la gestión ‘value’",
-      "summary": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/morante-y-la-gestion-value.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QP5JOG47CJE2ZPCAUVSJBX5MMM.jpg?auth=bc24430f56840b86d037c7872269ee16cf95f7500a9369e5c8e231ce431ede5a",
-      "published_at": "2026-08-10T03:25:00+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Morante y la gestión ‘value’",
-      "lead_fa": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "55b9a1991365",
-      "source": "EL PAÍS Economía",
-      "title": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
-      "summary": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/grifols-acusa-a-gotham-de-obstaculizar-la-obtencion-de-pruebas-para-preparar-el-juicio-en-nueva-york.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5UINOMRKEKQXTW6SPB4DICCKIY.jpg?auth=3c513c7fc19c40c0eb63b26d7a2fae136e9bdb8d48c0eb831d62e46bfce52604",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
-      "lead_fa": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "666be1c9a2e1",
-      "source": "EL PAÍS Economía",
-      "title": "Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos",
-      "summary": "La inmobiliaria está a la espera de la licencia para arrancar la primera fase de la infraestructura de Navalmoral, que tendrá 1,4 GW de capacidad y supondrá 14.000 millones de inversión",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/merlin-arrancara-este-otono-en-extremadura-las-obras-de-su-mayor-centro-de-datos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FSECU56OMVEHLLUVXLMADQPHBU.png?auth=a44b0ec12d289e113bc0e852c7574ad45740f45a8e1104e71561160d89e998a7",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos",
-      "lead_fa": "La inmobiliaria está a la espera de la licencia para arrancar la primera fase de la infraestructura de Navalmoral, que tendrá 1,4 GW de capacidad y supondrá 14.000 millones de inversión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "52fe12bea438",
       "source": "EL PAÍS Economía",
       "title": "El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura",
@@ -2203,6 +2125,94 @@
         "#حوادث"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "002f5f8f1904",
+      "source": "EL PAÍS Economía",
+      "title": "Morante y la gestión ‘value’",
+      "summary": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/morante-y-la-gestion-value.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QP5JOG47CJE2ZPCAUVSJBX5MMM.jpg?auth=bc24430f56840b86d037c7872269ee16cf95f7500a9369e5c8e231ce431ede5a",
+      "published_at": "2026-08-10T03:25:00+00:00",
+      "category": "ciencia",
+      "priority": 67,
+      "title_fa": "Morante y la gestión ‘value’",
+      "lead_fa": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "55b9a1991365",
+      "source": "EL PAÍS Economía",
+      "title": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
+      "summary": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/grifols-acusa-a-gotham-de-obstaculizar-la-obtencion-de-pruebas-para-preparar-el-juicio-en-nueva-york.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5UINOMRKEKQXTW6SPB4DICCKIY.jpg?auth=3c513c7fc19c40c0eb63b26d7a2fae136e9bdb8d48c0eb831d62e46bfce52604",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
+      "lead_fa": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "666be1c9a2e1",
+      "source": "EL PAÍS Economía",
+      "title": "Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos",
+      "summary": "La inmobiliaria está a la espera de la licencia para arrancar la primera fase de la infraestructura de Navalmoral, que tendrá 1,4 GW de capacidad y supondrá 14.000 millones de inversión",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/merlin-arrancara-este-otono-en-extremadura-las-obras-de-su-mayor-centro-de-datos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FSECU56OMVEHLLUVXLMADQPHBU.png?auth=a44b0ec12d289e113bc0e852c7574ad45740f45a8e1104e71561160d89e998a7",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos",
+      "lead_fa": "La inmobiliaria está a la espera de la licencia para arrancar la primera fase de la infraestructura de Navalmoral, que tendrá 1,4 GW de capacidad y supondrá 14.000 millones de inversión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "37b512103475",
+      "source": "EL PAÍS España",
+      "title": "“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión",
+      "summary": "El malestar acumulado tras la entrada de más de 70.000 personas rompe a voz en grito en una de las manifestaciones más multitudinarias que recuerdan los ceutíes",
+      "url": "https://elpais.com/espana/2026-08-09/ceuta-no-se-vende-la-ciudad-se-echa-a-la-calle-tras-diez-dias-de-tension.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260809/1203214_201124_video_1800.mp4",
+      "published_at": "2026-08-09T19:42:01+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión",
+      "lead_fa": "El malestar acumulado tras la entrada de más de 70.000 personas rompe a voz en grito en una de las manifestaciones más multitudinarias que recuerdan los ceutíes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2278,50 +2288,6 @@
       "editorial_version": 2
     },
     {
-      "id": "eed4696e0326",
-      "source": "EL PAÍS España",
-      "title": "El escritor marroquí Tahar Ben Jelloun: “No entiendo por qué se dejó pasar a decenas de miles de jóvenes hacia Ceuta. Tenemos la policía más potente del Magreb”",
-      "summary": "El novelista más reconocido de Marruecos cree que la Italia de Meloni y otros países quieren castigar a España de forma histérica",
-      "url": "https://elpais.com/espana/2026-08-09/el-escritor-marroqui-tahar-ben-jelloun-no-entiendo-por-que-se-dejo-pasar-a-decenas-de-miles-de-jovenes-hacia-ceuta-tenemos-la-policia-mas-potente-del-magreb.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PKSIOHRMLVBB5AN5ZLZ6ILVO3M.jpg?auth=803fd987453aaf87e05f5e7987c974ecb8cce46d95aaea23f7dfd99a6f7c8b04",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "El escritor marroquí Tahar Ben Jelloun: “No entiendo por qué se dejó pasar a decenas de miles de jóvenes hacia Ceuta. Tenemos la policía más potente del Magreb”",
-      "lead_fa": "El novelista más reconocido de Marruecos cree que la Italia de Meloni y otros países quieren castigar a España de forma histérica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3ca8e00faba7",
-      "source": "EL PAÍS España",
-      "title": "Génova da un paso atrás en la polémica del ático de Ayuso",
-      "summary": "Los portavoces del PP se remiten a las “explicaciones” de la Comunidad y apenas ningún alto cargo nacional defiende a la baronesa en redes sociales. “Hay sensación de incomodidad innecesaria”, señala una fuente",
-      "url": "https://elpais.com/espana/2026-08-09/genova-da-un-paso-atras-en-la-polemica-del-atico-de-ayuso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/45STSDAHKFCBPM6OP2CGMJ2MAQ.jpg?auth=74a2717f6c9d0c4d3c0d9b332e78ecec8650e71187a2bda73604421c9c1e8eec",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Génova da un paso atrás en la polémica del ático de Ayuso",
-      "lead_fa": "Los portavoces del PP se remiten a las “explicaciones” de la Comunidad y apenas ningún alto cargo nacional defiende a la baronesa en redes sociales. “Hay sensación de incomodidad innecesaria”, señala una fuente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c7964c7bb688",
       "source": "EL PAÍS España",
       "title": "El Gobierno establece controles en la frontera para los italianos después de que Meloni se niegue a eliminar los suyos para los españoles",
@@ -2333,28 +2299,6 @@
       "priority": 54,
       "title_fa": "El Gobierno establece controles en la frontera para los italianos después de que Meloni se niegue a eliminar los suyos para los españoles",
       "lead_fa": "El Ejecutivo adelanta a esta medianoche las medidas “proporcionales” que había anunciado si Roma no acababa con las restricciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "67be679f2cf5",
-      "source": "La Vanguardia",
-      "title": "Consejos para ver el eclipse total",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260808/11608508/consejos-ver-eclipse-total-sol-agosto-2026.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/05/6a7344f0da693.jpeg",
-      "published_at": "2026-08-08T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 52,
-      "title_fa": "Consejos para ver el eclipse total",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2388,28 +2332,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9b718cc3e399",
-      "source": "EL PAÍS Economía",
-      "title": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
-      "summary": "La candidatura de la vicepresidenta, que se despejará en noviembre, propone negociar unas normas básicas universales desde el diálogo entre gobiernos, empresas y trabajadores",
-      "url": "https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XWHAXGYYFFHIHLXWPJXT3AD53U.jpg?auth=475ef8d86efb3dde1098c8b983e136d5e042f0968b8125b9912171c78b7b4af1",
-      "published_at": "2026-08-07T11:31:00+00:00",
-      "category": "politica",
-      "priority": 52,
-      "title_fa": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
-      "lead_fa": "La candidatura de la vicepresidenta, que se despejará en noviembre, propone negociar unas normas básicas universales desde el diálogo entre gobiernos, empresas y trabajadores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4fede134ad5",
       "source": "EL PAÍS Economía",
       "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
@@ -2421,6 +2343,50 @@
       "priority": 49,
       "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
       "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4f8335de73de",
+      "source": "EL PAÍS Economía",
+      "title": "Inveready y Mayoral asumen el control de Parlem",
+      "summary": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
+      "url": "https://elpais.com/economia/2026-08-07/inveready-y-mayoral-asumen-el-control-de-parlem.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
+      "published_at": "2026-08-07T19:40:47+00:00",
+      "category": "sociedad",
+      "priority": 49,
+      "title_fa": "Inveready y Mayoral asumen el control de Parlem",
+      "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9da3098df3f1",
+      "source": "La Vanguardia",
+      "title": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260721/11592032/eclipse-total-espana-cuando-donde-como-verlo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/14/69de34657c175.r_d.657-257-0.jpeg",
+      "published_at": "2026-08-07T18:16:05+02:00",
+      "category": "ciencia",
+      "priority": 48,
+      "title_fa": "El eclipse total en España.Cuándo, dónde y cómo verlo",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2461,7 +2427,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 146
     },
     {
       "source": "EL PAÍS España",
