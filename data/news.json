@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-10T02:30:36.766238+00:00",
+  "generated_at": "2026-08-10T04:17:03.519865+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "973075b8642d",
     "6d403af46c7e",
+    "eec2c0c18d77",
     "4c42ae7b5a1e",
-    "9c5944985f5c",
-    "9a5183898bd5",
-    "a185f5b06e17"
+    "9c5944985f5c"
   ],
   "items": [
+    {
+      "id": "973075b8642d",
+      "source": "EL PAÍS",
+      "title": "Un Gobierno en emergencia permanente",
+      "summary": "Desde la pandemia, el Ejecutivo de coalición ha afrontado una crisis tras otra, pero los datos apuntan a que ese no ha sido el motivo principal de su desgaste",
+      "url": "https://elpais.com/espana/2026-08-10/un-gobierno-en-emergencia-permanente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5TXN75NVOJN4XM6XEP62EE6GHA.jpg?auth=63cd3a09cc9edf5a893fd6845484e61493a286c624fb503f52a4a739bc85b987",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 89,
+      "title_fa": "دولت اسپانیا و چالش بحران‌های دائمی",
+      "lead_fa": "دولت ائتلافی اسپانیا از دوران پاندمی کرونا تاکنون با بحران‌های پی‌درپی مواجه بوده است. با این حال، داده‌ها نشان می‌دهند که این بحران‌ها دلیل اصلی فرسایش سیاسی آن نبوده‌اند.",
+      "key_points_fa": [
+        "دولت ائتلافی اسپانیا از زمان شیوع پاندمی در وضعیت بحران دائمی قرار داشته است.",
+        "تحلیل داده‌ها نشان می‌دهد بحران‌ها عامل اصلی افت محبوبیت و فرسایش دولت نیستند."
+      ],
+      "analysis_fa": "استمرار بحران‌ها در سال‌های اخیر به بخشی از روند اجرایی دولت ائتلافی اسپانیا تبدیل شده است. با وجود این، بررسی داده‌های سیاسی حاکی از آن است که چالش‌های ساختاری یا درون‌گروهی دیگر ممکن است نقش پررنگ‌تری در کاهش سرمایه سیاسی دولت داشته باشند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#دولت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "6d403af46c7e",
       "source": "EL PAÍS España",
@@ -34,6 +61,34 @@
         "#ایتالیا",
         "#مهاجرت",
         "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eec2c0c18d77",
+      "source": "EL PAÍS",
+      "title": "España, en alerta roja por miedo a los incendios por negligencias durante la observación del eclipse",
+      "summary": "Las comunidades cierran sus parques naturales y suspenden actividades y festivales ya autorizados debido a las predicciones de riesgo extremo de fuegos",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/espana-en-alerta-roja-por-miedo-a-los-incendios-por-negligencias-durante-la-observacion-del-eclipse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O53F2YGVHFJ5RBX4RI2D6RWHPY.jpg?auth=e19663c488feea9c23e935a14a3c4044344da945837c7cf797e7ad950e8d6a80",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "اسپانیا در آستانه خورشیدگرفتگی در حالت آماده‌باش قرمز حریق قرار گرفت",
+      "lead_fa": "مناطق مختلف اسپانیا پارک‌های طبیعی خود را تعطیل کردند. این اقدام برای پیشگیری از آتش‌سوزی‌های ناشی از بی‌احتیاطی حین رصد خورشیدگرفتگی انجام شده است.",
+      "key_points_fa": [
+        "اعلام هشدار قرمز برای خطر آتش‌سوزی در مناطق مختلف اسپانیا",
+        "تعطیلی پارک‌های طبیعی و لغو فعالیت‌ها و فستیوال‌های از پیش مجاز شده",
+        "نگرانی مقامات از خطرات ناشی از سهل‌انگاری در جریان رصد خورشیدگرفتگی"
+      ],
+      "analysis_fa": "مقارن شدن رویدادهای نجومی با شرایط خشک‌سالی و خطر بالای آتش‌سوزی، دولت‌های محلی اسپانیا را ناچار به اتخاذ تصمیمات پیشگیرانه شدید کرده است. تمرکز بر محدود کردن دسترسی به طبیعت نشان‌دهنده اهمیت مدیریت بحران‌های زیست‌محیطی پیش از وقوع فاجعه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#خورشیدگرفتگی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -97,7 +152,7 @@
     },
     {
       "id": "9a5183898bd5",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Política e incendios, una pasajera tormenta de verano",
       "summary": "Los fuegos encienden el debate en estío para desaparecer luego de la conversación pública. En el Congreso no han provocado ni una pregunta desde septiembre",
       "url": "https://elpais.com/espana/2026-08-09/politica-e-incendios-una-pasajera-tormenta-de-verano.html",
@@ -206,6 +261,57 @@
         "#مرز"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d4935e6a9623",
+      "source": "EL PAÍS",
+      "title": "La instalación de una planta china junto a la base naval de Ferrol enciende las alertas en Defensa y el CNI",
+      "summary": "Preocupa el riesgo de espionaje al arsenal militar y el astillero de Navantia, que trabajan con avanzados sistemas de combate de EE UU",
+      "url": "https://elpais.com/espana/2026-08-10/la-instalacion-de-una-planta-china-junto-a-la-base-naval-de-ferrol-enciende-las-alertas-en-defensa-y-el-cni.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/54HP3GYAIVFAHGDF3T336GCC7Y.jpg?auth=777f7f58e09e8294cfc055becc2df94d128389440014785cf4947a614e4e0b75",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "نگرانی وزارت دفاع اسپانیا از ساخت تأسیسات چینی در نزدیکی پایگاه فرول",
+      "lead_fa": "ساخت یک کارخانه چینی در مجاورت پایگاه دریایی فرول و کارخانه کشتی‌سازی ناوانتیا زنگ خطر را در نهادهای امنیتی اسپانیا به صدا درآورده است. این وضعیت احتمال خطرات جاسوسی از سامانه‌های پیشرفته نظامی مشترک با ایالات متحده را افزایش داده است.",
+      "key_points_fa": [
+        "احداث تأسیسات چینی در جوار پایگاه نظامی و ناوانتیا در فرول",
+        "هشدار وزارت دفاع و مرکز اطلاعات ملی اسپانیا (CNI)",
+        "نگرانی از دسترسی احتمالی به سامانه‌های پیشرفته نظامی ایالات متحده"
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده حساسیت فزاینده دولت اسپانیا نسبت به سرمایه‌گذاری‌های استراتژیک چین در مجاورت زیرساخت‌های حیاتی نظامی است. هم‌زمان، این مسئله چالش‌های تعادل میان روابط اقتصادی با پکن و تعهدات امنیتی به متحدان غربی، به‌ویژه ایالات متحده را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#امنیت_ملی",
+        "#چین",
+        "#فرول"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0e22d218ab91",
+      "source": "EL PAÍS",
+      "title": "Trump estrecha el control sobre la justicia en Estados Unidos",
+      "summary": "El presidente estadounidense coloca a su exabogado Todd Blanche como fiscal general para que impulse las causas contra sus enemigos políticos y lo defienda de posibles ataques judiciales",
+      "url": "https://elpais.com/internacional/2026-08-10/trump-estrecha-el-control-sobre-la-justicia-en-estados-unidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HDAEHGF5FBANFELOQO4MQPT5UE.jpeg?auth=10d1922cd7530479916f6f0b01b218b4cd05eabe959b56ffa49fa6f4aae23a83",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Trump estrecha el control sobre la justicia en Estados Unidos",
+      "lead_fa": "El presidente estadounidense coloca a su exabogado Todd Blanche como fiscal general para que impulse las causas contra sus enemigos políticos y lo defienda de posibles ataques judiciales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -322,7 +428,7 @@
     },
     {
       "id": "ce2cf7a8297f",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La Marcha Azul de Ceuta descubre brechas en la UE y malestar en Marruecos",
       "summary": "La avalancha migratoria subraya el descontento interno en el país magrebí, las vulnerabilidades de España y la UE, y deja como legado una potencial crisis humanitaria con miles de menores deambulando por las calles",
       "url": "https://elpais.com/espana/2026-08-09/la-marcha-azul-de-ceuta-descubre-brechas-en-la-ue-y-malestar-en-marruecos.html",
@@ -406,59 +512,289 @@
       "editorial_version": 2
     },
     {
-      "id": "43f6be949958",
+      "id": "7e3e5d31cd65",
       "source": "EL PAÍS",
-      "title": "Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse",
-      "summary": "Con destinos del interior con lleno total desde hace más de un año y miles de personas que tomarán una decisión a última hora, España vivirá este 12 de agosto un fenómeno astronómico único que supondrá un desafío para las autoridades",
-      "url": "https://elpais.com/ciencia/2026-08-09/llega-el-dia-de-las-dos-noches-millones-de-espanoles-buscan-su-lugar-para-ver-el-eclipse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AFIYMSGN5FIX7AL2JU7NP6XSQ4.jpg?auth=94e37b209eea33345b86f64f8e0f57183397a8938267a7b649819769fb469d5b",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "ciencia",
-      "priority": 77,
-      "title_fa": "آمادگی اسپانیا برای پدیده نجومی نادر خورشیدگرفتگی",
-      "lead_fa": "اسپانیا در ۱۲ اوت میزبان یک پدیده نجومی بی‌نظیر خواهد بود که چالشی جدی برای مقامات این کشور محسوب می‌شود. مقصدهای داخلی از بیش از یک سال پیش کاملاً رزرو شده‌اند و هزاران نفر تصمیم‌گیری را به لحظات آخر موکول کرده‌اند.",
-      "key_points_fa": [
-        "وقوع پدیده نجومی خاص در تاریخ ۱۲ اوت در اسپانیا",
-        "ت تکمیل ظرفیت مقصدهای گردشگری داخلی از بیش از یک سال پیش",
-        "تصمیم‌گیری هزاران نفر در لحظه آخر برای تماشای این پدیده",
-        "ایجاد چالش برای مقامات محلی و اجرایی در مدیریت رویداد"
-      ],
-      "analysis_fa": "این رویداد نجومی علاوه بر جذابیت‌های علمی، فشار قابل توجهی بر زیرساخت‌های گردشگری و مدیریت شهری اسپانیا وارد کرده است. هجوم مسافران به مناطق مختلف نشان‌دهنده ظرفیت بالای گردشگری رویدادهای علمی است، اما در عین حال نیاز به آمادگی بیشتر نهادهای دولتی را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title": "Vicente Fox: “A la gente hay que darle preparación, no dinero para que esté de huevón”",
+      "summary": "El expresidente de México aplaude el viraje de América Latina a la derecha más radical y afirma que hay un hartazgo hacia las políticas de izquierdas",
+      "url": "https://elpais.com/mexico/2026-08-10/vicente-fox-a-la-gente-hay-que-darle-preparacion-no-dinero-para-que-este-de-huevon.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260809/1203210_193052_video_1800.mp4",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Vicente Fox: “A la gente hay que darle preparación, no dinero para que esté de huevón”",
+      "lead_fa": "El expresidente de México aplaude el viraje de América Latina a la derecha más radical y afirma que hay un hartazgo hacia las políticas de izquierdas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#نجوم",
-        "#گردشگری"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
-      "id": "43efdc959daa",
-      "source": "EL PAÍS España",
-      "title": "Europa y el espejismo ceutí",
-      "summary": "La respuesta a la crisis migratoria en Ceuta se enmarca en la deriva hacia el autoritarismo posdemocrático que amenaza a las democracias europeas",
-      "url": "https://elpais.com/opinion/2026-08-07/europa-y-el-espejismo-ceuti.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ODSAT3IESMHLQYQKQ3LDF5GQBU.jpg?auth=624d65fc3cb61a56a38169bd484816a58a171624d58c0733ab19636a686dbe80",
-      "published_at": "2026-08-07T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "اروپا و سراب مهاجرتی سئوتا؛ چالشی برای دموکراسی",
-      "lead_fa": "پاسخ به بحران مهاجرت در سئوتا ابعادی تازه یافته است. این وضعیت بازتابی از گرایش به اقتدارگرایی در نهادهای اروپایی ارزیابی می‌شود.",
-      "key_points_fa": [
-        "مدیریت بحران مهاجرت در سئوتا مورد انتقاد قرار گرفته است.",
-        "این رویدادها تهدیدی برای دموکراسی‌های اروپایی به شمار می‌روند."
-      ],
-      "analysis_fa": "این تحلیل به بررسی چالش‌های ساختاری اتحادیه اروپا در مواجهه dengan بحران‌های مرزی می‌پردازد و نشان می‌دهد چگونه فشارهای مهاجرتی می‌تواند اصول دموکراتیک را تحت تأثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "id": "c0cf32df0f97",
+      "source": "EL PAÍS",
+      "title": "El futuro de Venezuela se dirime en una nueva negociación bajo el control de Estados Unidos",
+      "summary": "Chavismo y oposición iniciaron esta semana las conversaciones que deben conducir a nuevas elecciones",
+      "url": "https://elpais.com/america/2026-08-10/el-futuro-de-venezuela-se-dirime-en-una-nueva-negociacion-bajo-el-control-de-estados-unidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LACIY4S4QBOGZAOSCY25EHEMPU.jpg?auth=3fee2ad657bad84c13d121078411365d21786b3289c3c64c632043bd0933bb9e",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El futuro de Venezuela se dirime en una nueva negociación bajo el control de Estados Unidos",
+      "lead_fa": "Chavismo y oposición iniciaron esta semana las conversaciones que deben conducir a nuevas elecciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اروپا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "14d71334feaf",
+      "source": "EL PAÍS",
+      "title": "Capitalismo a lo castrista: La Habana promete cambios económicos, sin ceder el control político",
+      "summary": "Economistas y empresarios aseguran que no habrá una nueva economía en Cuba si no llega con una transformación política, algo que el Gobierno de la isla no parece estar dispuesto a negociar",
+      "url": "https://elpais.com/us/2026-08-10/capitalismo-a-lo-castrista-la-habana-promete-cambios-economicos-sin-ceder-el-control-politico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OD6BXV65XRPRFJDXWVLP5FWXEM.jpg?auth=6a44d9bd7aab7169236e0baab5259b0b054b349fef2a23cb1e3ee47db2403ea2",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Capitalismo a lo castrista: La Habana promete cambios económicos, sin ceder el control político",
+      "lead_fa": "Economistas y empresarios aseguran que no habrá una nueva economía en Cuba si no llega con una transformación política, algo que el Gobierno de la isla no parece estar dispuesto a negociar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6ca70a5232a0",
+      "source": "EL PAÍS",
+      "title": "La masificación turística tensa la cuerda en Baleares: “Se legisla contra nosotros”",
+      "summary": "El abrumador respaldo a la manifestación de julio y la nueva movilización de este fin de semana contra la saturación refuerzan la demanda de un cambio de modelo que comparten empresarios, agentes sociales y partidos políticos",
+      "url": "https://elpais.com/economia/2026-08-10/la-masificacion-turistica-tensa-la-cuerda-en-baleares-se-legisla-contra-nosotros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VQT2YJWCUBF2HF4BKKOSOUA2H4.jpg?auth=d1e7a6a6a858315da7948a9819752da902ef474b9e7afb54fbde1f82638a9f26",
+      "published_at": "2026-08-10T03:45:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "La masificación turística tensa la cuerda en Baleares: “Se legisla contra nosotros”",
+      "lead_fa": "El abrumador respaldo a la manifestación de julio y la nueva movilización de este fin de semana contra la saturación refuerzan la demanda de un cambio de modelo que comparten empresarios, agentes sociales y partidos políticos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9de9cacbaedf",
+      "source": "EL PAÍS Economía",
+      "title": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+      "summary": "El conflicto en Oriente Próximo expone la dependencia de un país que ha dejado en manos de las importaciones casi el 80% de su suministro energético",
+      "url": "https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJOLVCOW55DXNBBVQSUCTM2RYE.jpg?auth=f1c63b9bdf400a9a9986b1fcd584539bc2c49f1f13c95c9c6f5cad586fc4572f",
+      "published_at": "2026-08-10T03:45:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Australia estudia construir su primera refinería en seis décadas para aplacar el impacto de la guerra entre EE UU e Irán",
+      "lead_fa": "El conflicto en Oriente Próximo expone la dependencia de un país que ha dejado en manos de las importaciones casi el 80% de su suministro energético",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fbc5b833ce06",
+      "source": "EL PAÍS",
+      "title": "El asilo que no llega a Ceuta: “Soy palestino, crucé a nado y no me dicen nada de mi solicitud”",
+      "summary": "Más de 2.000 refugiados están a la espera de que se resuelva su demanda de protección internacional",
+      "url": "https://elpais.com/espana/2026-08-10/el-asilo-que-no-llega-a-ceuta-soy-palestino-cruce-a-nado-y-no-me-dicen-nada-de-mi-solicitud.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MWORE7L23RGHVGBNKV6R3T6EIQ.jpg?auth=556fa6a636a1ca801f554101ab646ec6054a5af340b5c8351185495828cbf4b0",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "El asilo que no llega a Ceuta: “Soy palestino, crucé a nado y no me dicen nada de mi solicitud”",
+      "lead_fa": "Más de 2.000 refugiados están a la espera de que se resuelva su demanda de protección internacional",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e92c3dd9375c",
+      "source": "EL PAÍS",
+      "title": "Ver para no creer: cuando la fotografía deja de ser una prueba y se convierte en ficción",
+      "summary": "De las fotos de supuestos ovnis a las escenas inquietantes de Park Chan-wook, pasando por el redescubrimiento de Martine Barrat y la cultura visual de las independencias africanas, los Encuentros de Arlés exploran la frontera difusa entre documento y construcción",
+      "url": "https://elpais.com/cultura/2026-08-10/ver-para-no-creer-cuando-la-fotografia-deja-de-ser-una-prueba-y-se-convierte-en-ficcion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YVLNT2KUS5GYFGWL72GVW6VQNU.jpg?auth=ea3536d9e1e984a0aed30733a3e88ee67a8bd2d84c2b56c13ff716eaed879e2f",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "Ver para no creer: cuando la fotografía deja de ser una prueba y se convierte en ficción",
+      "lead_fa": "De las fotos de supuestos ovnis a las escenas inquietantes de Park Chan-wook, pasando por el redescubrimiento de Martine Barrat y la cultura visual de las independencias africanas, los Encuentros de Arlés exploran la frontera difusa entre documento y construcción",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a73faca25257",
+      "source": "EL PAÍS",
+      "title": "Las últimas elecciones de Trump",
+      "summary": "Diga lo que diga y haga lo que haga el presidente tras los comicios de noviembre, sus resultados y sus consecuencias no van a cambiar",
+      "url": "https://elpais.com/opinion/2026-08-10/las-ultimas-elecciones-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R3HQVQVG55H33EZWUQB5VKKESI.jpg?auth=c4614acb4e5cf609759a2110434d91f6bb4a52fe360b3d5587a7321a305cda92",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Las últimas elecciones de Trump",
+      "lead_fa": "Diga lo que diga y haga lo que haga el presidente tras los comicios de noviembre, sus resultados y sus consecuencias no van a cambiar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3568ae57e08f",
+      "source": "EL PAÍS",
+      "title": "La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático",
+      "summary": "La inexplicada compra del inmueble marcará el arranque del curso político en la Asamblea de Madrid y en los tribunales con la denuncia del PSOE",
+      "url": "https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DSMVWVSKJ5CCJLMXRGPZ5VHGNI.JPG?auth=d64367d0af9adc173c1628c749dde814b6eca6d0a41765c0317e22c1738c525a",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático",
+      "lead_fa": "La inexplicada compra del inmueble marcará el arranque del curso político en la Asamblea de Madrid y en los tribunales con la denuncia del PSOE",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "432f746b4f13",
+      "source": "EL PAÍS",
+      "title": "Andalucía busca relanzar la minería entre las dudas políticas y ecologistas",
+      "summary": "El Gobierno declara Reserva Minera cuatro áreas de Sierra Morena en Córdoba y Jaén",
+      "url": "https://elpais.com/espana/andalucia/2026-08-10/andalucia-busca-relanzar-la-mineria-entre-las-dudas-politicas-y-ecologistas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PREB5OPPBFDC5LM32JSW7XNEOU.jpg?auth=dc3fd8b79c105e68b274218e562cb2ebbafd626227799fd87b93ba93ba24da90",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Andalucía busca relanzar la minería entre las dudas políticas y ecologistas",
+      "lead_fa": "El Gobierno declara Reserva Minera cuatro áreas de Sierra Morena en Córdoba y Jaén",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d7632eee4c82",
+      "source": "EL PAÍS",
+      "title": "La mujer que inmortalizó el punk neoyorquino",
+      "summary": "Su cámara documentó una revolución cultural que parecía destinada al fracaso y que hoy es objeto de exposiciones y documentales. Roberta Bayley fue taquillera del CBGB y retrató antes que nadie a Ramones, Blondie o Talking Heads",
+      "url": "https://elpais.com/eps/2026-08-10/la-mujer-que-inmortalizo-el-punk-neoyorquino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CIJQ2VVPJ5BYLNBLFCS4DJUSLA.jpg?auth=d1362c53fe97df034eec23e1e7b2c00ce36b1926fe8dbfa8b8c0bf29bcf553e4",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "La mujer que inmortalizó el punk neoyorquino",
+      "lead_fa": "Su cámara documentó una revolución cultural que parecía destinada al fracaso y que hoy es objeto de exposiciones y documentales. Roberta Bayley fue taquillera del CBGB y retrató antes que nadie a Ramones, Blondie o Talking Heads",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "51b798597ac2",
+      "source": "EL PAÍS",
+      "title": "Las invasiones bárbaras",
+      "summary": "El proceso migratorio español ha hecho crecer la economía, y, desde luego, no ha atacado la identidad española",
+      "url": "https://elpais.com/opinion/2026-08-10/las-invasiones-barbaras.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/U7KYYBMPZNAORFFKFHHAJYNHUU.JPG?auth=7a26c62122226a9ce4dc095b1acf534d4a25e7fc64c55f6ae2a43065aa26e5a6",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Las invasiones bárbaras",
+      "lead_fa": "El proceso migratorio español ha hecho crecer la economía, y, desde luego, no ha atacado la identidad española",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a17281b91df7",
+      "source": "EL PAÍS Economía",
+      "title": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "summary": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/un-tribunal-de-munich-admite-la-demanda-de-un-accionista-minoritario-contra-telefonica-alemania.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2RAJIJLN35FKJM3NKFRO65BMCQ.png?auth=c3f67926433afe9d3b8bbbc7e1a1bd67814b35a364cd2e2511c68429017a1f67",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "lead_fa": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -604,63 +940,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4176a97d0cff",
-      "source": "EL PAÍS Economía",
-      "title": "Estados Unidos perdió 23.000 puestos de trabajo en julio, el peor dato para ese mes desde 2010",
-      "summary": "El débil desempeño del empleo, que crece a menor ritmo desde que Trump regresó a la Casa Blanca, enciende las alarmas sobre la marcha de la economía",
-      "url": "https://elpais.com/economia/2026-08-07/estados-unidos-perdio-23000-puestos-de-trabajo-en-julio-el-peor-dato-para-ese-mes-desde-2010.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I4RLQG73V5GLBMSKF4ISLKXBTE.jpg?auth=57d386d3562145b5f8defdf434946b3faa5abe71898e9cfb4df0200342ca19ce",
-      "published_at": "2026-08-07T13:11:54+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "افت شغل در ایالات متحده در ماه ژوئیه",
-      "lead_fa": "اقتصاد ایالات متحده در ماه ژوئیه با از دست رفتن ۲۳ هزار شغل مواجه شد. این ضعیف‌ترین آمار برای ماه ژوئیه از سال ۲۰۱۰ تاکنون به شمار می‌رود.",
-      "key_points_fa": [
-        "از دست رفتن ۲۳ هزار شغل در ماه ژوئیه در ایالات متحده.",
-        "کُند شدن روند رشد اشتغال از زمان بازگشت ترامپ به کاخ سفید.",
-        "ایجاد نگرانی‌های جدید درباره وضعیت اقتصادی کشور."
-      ],
-      "analysis_fa": "آمار ضعیف اشتغال در ماه ژوئیه نشان‌دهنده کُند شدن رشد اقتصادی ایالات متحده است. این پدیده زنگ خطری برای سیاست‌های اقتصادی دولت فعلی محسوب می‌شود و می‌تواند بر تصمیم‌گیری‌های کلان مالی و روندهای بازار کار تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد_آمریکا",
-        "#اشتغال",
-        "#بازار_کار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "52dcba2928ea",
-      "source": "EL PAÍS Economía",
-      "title": "Los municipios apenas invirtieron el 8% de su millonario superávit el año pasado",
-      "summary": "La autorización tardía de Hacienda y el rígido corsé fiscal de los ayuntamientos complican la ejecución. La mayoría de importes se destinaron a vivienda",
-      "url": "https://elpais.com/economia/2026-08-07/los-municipios-apenas-invirtieron-el-8-de-su-millonario-superavit-el-ano-pasado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3LTLBCVROVHEFKFBA5D5W5KGH4.jpg?auth=6274e89146ba93a049f7a78f98fe94212ed3e23d43eb947b201ba7f1e11d4321",
-      "published_at": "2026-08-07T03:45:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "شهرداری‌های اسپانیا تنها ۸ درصد از مازاد بودجه خود را سرمایه‌گذاری کردند",
-      "lead_fa": "شهرداری‌های اسپانیا سال گذشته میلادی تنها بخش کوچکی از مازاد بودجه کلان خود را سرمایه‌گذاری کردند. این تاخیر ناشی از مجوز دیرهنگام وزارت دارایی و قوانین سختگیرانه مالیاتی بود.",
-      "key_points_fa": [
-        "تنها حدود ۸ درصد از مازاد بودجه شهرداری‌ها در سال گذشته سرمایه‌گذاری شد.",
-        "تاخیر وزارت دارایی و محدودیت‌های مالی از دلایل اصلی عدم اجرای پروژه‌ها بود.",
-        "بیشتر مبالغ صرف شده در بخش مسکن هزینه شد."
-      ],
-      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های ساختاری در مدیریت مالی نهادهای محلی اسپانیاست. قوانین انضباطی سخت ووکالت‌های بوروکراتیک مانع از استفاده بهینه از منابع مالی برای توسعه شهری و پاسخگویی به نیازهای مسکن می‌شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#شهرداری",
-        "#بودجه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "db75a2552127",
       "source": "La Vanguardia",
       "title": "De estrella YouTube a 30 años de cárcel: la gran estafa del magnate de los algoritmos",
@@ -691,7 +970,7 @@
     },
     {
       "id": "d6f98bc4257a",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
       "summary": "La debilidad de ambas economías, sumada al encarecimiento de los servicios y a la subida de las temperaturas, explican el retroceso de dos de los principales mercados turísticos del país",
       "url": "https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html",
@@ -803,34 +1082,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9b718cc3e399",
-      "source": "EL PAÍS Economía",
-      "title": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
-      "summary": "La candidatura de la vicepresidenta, que se despejará en noviembre, propone negociar unas normas básicas universales desde el diálogo entre gobiernos, empresas y trabajadores",
-      "url": "https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XWHAXGYYFFHIHLXWPJXT3AD53U.jpg?auth=475ef8d86efb3dde1098c8b983e136d5e042f0968b8125b9912171c78b7b4af1",
-      "published_at": "2026-08-07T11:31:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "برنامه یولاندا دیاز برای رهبری سازمان بین‌المللی کار",
-      "lead_fa": "یولاندا دیاز، معاون نخست‌وزیر اسپانیا، نامزدی خود را برای احراز پست ریاست سازمان بین‌المللی کار مطرح کرده است. این برنامه شامل دفاع از حقوق حداقلی کارگران در سطح جهانی است.",
-      "key_points_fa": [
-        "پیشنهاد تدوین منشور جهانی حقوق حداقلی کار",
-        "تکیه بر گفتگو میان دولت‌ها، شرکت‌ها و کارگران",
-        "تعیین تکلیف نهایی نامزدی در ماه نوامبر"
-      ],
-      "analysis_fa": "این نامزدی تلاشی از سوی یکی از چهره‌های ارشد دولت اسپانیا برای تاثیرگذاری بر سیاست‌های کلان کارگری در سطح بین‌المللی است. موفقیت این طرح به جلب نظر موافق نهادهای جهانی و شرکای اجتماعی بستگی دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سازمان_بین‌المللی_کار",
-        "#یولاندا_دیاز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9d0379939225",
       "source": "EL PAÍS Economía",
       "title": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
@@ -888,64 +1139,8 @@
       "editorial_version": 2
     },
     {
-      "id": "a728b89f32b3",
-      "source": "EL PAÍS",
-      "title": "Fergie Chambers, el activista millonario detenido en Ibiza: “Soy un defensor de los derechos humanos”",
-      "summary": "Los abogados del estadounidense, encabezados por Baltasar Garzón, denuncian una “persecución política” por parte de Trump por su apoyo a Palestina. El Gobierno tendrá que decidir si lo extradita",
-      "url": "https://elpais.com/espana/2026-08-09/fergie-chambers-el-activista-millonario-detenido-en-ibiza-soy-un-defensor-de-los-derechos-humanos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/INF4WZCK5BG4BN4F6CCRFTMXNM.jpg?auth=1f2b42f841d308f572c9d15f44d2deb951d3954fb2e83456e487671cb0880e6f",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "بازداشت فرگی چمبرز، فعال آمریکایی در ایبیزا",
-      "lead_fa": "فرگی چمبرز، فعال متمول آمریکایی در جزیره ایبیزا بازداشت شد. وکلای او این اقدام را سیاسی خوانده‌اند و دولت اسپانیا باید درباره استرداد او تصمیم بگیرد.",
-      "key_points_fa": [
-        "فرگی چمبرز در ایبیزا بازداشت شد.",
-        "تیم حقوقی او با سرپرستی بالتازار گارزون این پرونده را سیاسی دانستند.",
-        "چمبرز حامی فلسطین است و وکلا مدعی تعقیب سیاسی از سوی ترامپ هستند.",
-        "دولت اسپانیا درباره درخواست استرداد وی تصمیم‌گیری خواهد کرد."
-      ],
-      "analysis_fa": "این پرونده در تقاطع سیاست خارجی ایالات متحده و سیستم قضایی اسپانیا قرار دارد. حضور وکلای برجسته مانند بالتازار گارزون نشان می‌دهد که این پرونده ابعاد حقوقی و سیاسی پیچیده‌ای پیدا خواهد کرد و تصمیم دولت اسپانیا درباره استرداد، آزمونی برای روابط دیپلماتیک دو کشور خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#ایبیزا",
-        "#استرداد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ae1ce20dd2a5",
-      "source": "EL PAÍS",
-      "title": "Carlos Senghor Diatta no quiere ser futbolista",
-      "summary": "El activista Moha Gerehou observa más hostilidad en los espacios compartidos. Hay pocos niños y molestan",
-      "url": "https://elpais.com/opinion/2026-08-09/carlos-senghor-diatta-no-quiere-ser-futbolista.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KBPJP5GHUZHDXDHK4NXFPAYSWI.jpg?auth=9bb547b15e2df0ec43b54ecbad32237e29da4184dc7d0f8c6e3a6bdfa1fc122a",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 73,
-      "title_fa": "نگاهی به افزایش تنش‌ها و خصومت در فضاهای مشترک در اسپانیا",
-      "lead_fa": "فعالان اجتماعی از افزایش رفتارهای خصمانه در فضاهای عمومی و مشترک گزارش می‌دهند. حضور کودکان مهاجر در این فضاها اغلب با واکنش‌های منفی روبه‌رو می‌شود.",
-      "key_points_fa": [
-        "مهاا Gerehou نسبت به رشد خصومت در فضاهای مشترک هشدار داد.",
-        "حضور کودکان در این محیط‌ها مایه نارضایتی برخی افراد می‌شود."
-      ],
-      "analysis_fa": "این مسئله بازتاب‌دهنده چالش‌های اجتماعی پیرامون همزیستی و نگرش‌های عمومی نسبت به اقلیت‌ها و کودکان در فضاهای شهری اسپانیا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجران",
-        "#جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "df2298d7779b",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "¿Qué hace Planifica Madrid? “Compra y vende inmuebles”, según Ayuso, aunque la realidad lo desmiente: solo ha comprado dos en cinco años",
       "summary": "La empresa pública madrileña era una desconocida para el público general y en su trayectoria no consta una adquisición semejante a la del ático de 485 metros cuadrados que le ha puesto en el punto de mira",
       "url": "https://elpais.com/espana/madrid/2026-08-09/que-hace-planifica-madrid-compra-y-vende-inmuebles-segun-ayuso-aunque-la-realidad-lo-desmiente-solo-ha-comprado-dos-en-cinco-anos.html",
@@ -972,86 +1167,30 @@
       "editorial_version": 2
     },
     {
-      "id": "3a32eb355841",
-      "source": "EL PAÍS",
-      "title": "Las primarias demócratas muestran la decreciente influencia política de Israel en Estados Unidos",
-      "summary": "El éxito del izquierdista El-Sayed en las primarias de Míchigan, pese a los 30 millones de dólares en su contra del ‘lobby’ israelí, expone el progresivo alejamiento de los aliados tradicionales",
-      "url": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BM5NA2GLQNL7JM3VL46WP2IYE4.jpg?auth=b6b9cae3b095e5a8ad64a1fb59f415421cc8718b554aa57330768e61e516ae71",
+      "id": "a728b89f32b3",
+      "source": "EL PAÍS España",
+      "title": "Fergie Chambers, el activista millonario detenido en Ibiza: “Soy un defensor de los derechos humanos”",
+      "summary": "Los abogados del estadounidense, encabezados por Baltasar Garzón, denuncian una “persecución política” por parte de Trump por su apoyo a Palestina. El Gobierno tendrá que decidir si lo extradita",
+      "url": "https://elpais.com/espana/2026-08-09/fergie-chambers-el-activista-millonario-detenido-en-ibiza-soy-un-defensor-de-los-derechos-humanos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/INF4WZCK5BG4BN4F6CCRFTMXNM.jpg?auth=1f2b42f841d308f572c9d15f44d2deb951d3954fb2e83456e487671cb0880e6f",
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "کاهش نفوذ لابی اسرائیل در مقدماتی دموکرات‌ها",
-      "lead_fa": "شکست مخارج سنگین لابی اسرائیل در مقدماتی میشیگان، نشان‌دهنده تغییرات سیاسی در ایالات متحده است. این تحول فاصله گرفتن بدنه حزب دموکرات از متحدان سنتی خود را برجسته می‌کند.",
+      "title_fa": "بازداشت فرگی چمبرز، فعال آمریکایی در ایبیزا",
+      "lead_fa": "فرگی چمبرز، فعال متمول آمریکایی در جزیره ایبیزا بازداشت شد. وکلای او این اقدام را سیاسی خوانده‌اند و دولت اسپانیا باید درباره استرداد او تصمیم بگیرد.",
       "key_points_fa": [
-        "پیروزی نامزد چپ‌گرا در میشیگان علیرغم هزینه‌های سنگین لابی اسرائیل",
-        "تغییر در پویایی‌های سیاسی درون حزب دموکرات ایالات متحده",
-        "کاهش اثربخشی کارزارهای مالی سنتی در رقابت‌های درون‌حزبی"
+        "فرگی چمبرز در ایبیزا بازداشت شد.",
+        "تیم حقوقی او با سرپرستی بالتازار گارزون این پرونده را سیاسی دانستند.",
+        "چمبرز حامی فلسطین است و وکلا مدعی تعقیب سیاسی از سوی ترامپ هستند.",
+        "دولت اسپانیا درباره درخواست استرداد وی تصمیم‌گیری خواهد کرد."
       ],
-      "analysis_fa": "این رویداد نشان‌دهنده تحولی تدریجی در رویکرد سیاسی حامیان حزب دموکرات است، جایی که فشار مالی لابی‌های سنتی دیگر تضمین‌کننده پیروزی قطعی نیست. با این حال، ارزیابی اینکه این روند به یک تغییر پایدار در سیاست خارجی آمریکا تبدیل خواهد شد یا خیر، هنوز زود است.",
+      "analysis_fa": "این پرونده در تقاطع سیاست خارجی ایالات متحده و سیستم قضایی اسپانیا قرار دارد. حضور وکلای برجسته مانند بالتازار گارزون نشان می‌دهد که این پرونده ابعاد حقوقی و سیاسی پیچیده‌ای پیدا خواهد کرد و تصمیم دولت اسپانیا درباره استرداد، آزمونی برای روابط دیپلماتیک دو کشور خواهد بود.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#سیاست_آمریکا",
-        "#دموکرات‌ها"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "530e303fcf73",
-      "source": "EL PAÍS",
-      "title": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
-      "summary": "La representante lidera una delegación del Capitolio en el Congreso Panamericano, reunión en Montevideo de líderes progresistas para tratar los retos del imperialismo de Trump en el continente",
-      "url": "https://elpais.com/us/2026-08-09/pramila-jayapal-congresista-democrata-nos-tenemos-que-preparar-por-si-trump-intenta-robar-las-elecciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YU4JY74FRVDNVHRZJRLZW4BNDE.JPG?auth=7bf4a1da649a1aa5d3e1e0a2e16a44871c3d39a312221a4cc24178f6a3d74e65",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "هشدار پرامیلا جایاپال درباره احتمال تلاش ترامپ برای ربودن انتخابات",
-      "lead_fa": "نماینده دموکرات کنگره آمریکا نسبت به احتمال تلاش دونالد ترامپ برای دستکاری انتخابات هشدار داد. او رهبری هیئتی از کنگره را در نشست مترقیان در مونته‌ویدئو بر عهده دارد.",
-      "key_points_fa": [
-        "رهبری هیئت کنگره آمریکا در کنگره پان‌آمریکن در مونته‌ویدئو",
-        "بررسی چالش‌های مرتبط با سیاست‌های دونالد ترامپ در قاره آمریکا",
-        "تاکید بر لزوم آمادگی در برابر احتمال تلاش برای تاثیرگذاری بر نتایج انتخابات"
-      ],
-      "analysis_fa": "این اظهارات در چارچوب نشست رهبران مترقی در اوروگوئه مطرح شده است که به بررسی چالش‌های سیاسی و منطقه‌ای مرتبط با رویکرد دولت آینده آمریکا می‌پردازند. این موضع‌گیری نشان‌دهنده نگرانی فزاینده جریان‌های سیاسی مخالف ترامپ در سطح بین‌المللی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست_آمریکا",
-        "#انتخابات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a52bceb9f00e",
-      "source": "EL PAÍS",
-      "title": "Meloni contra el desgaste: la primera ministra italiana vuelve a la inmigración para recuperar la iniciativa política",
-      "summary": "La líder ultraderechista retoma uno de sus temas predilectos para hacer frente a los reveses de su Gobierno y a las crecientes tensiones con sus socios",
-      "url": "https://elpais.com/internacional/2026-08-09/meloni-contra-el-desgaste-la-primera-ministra-italiana-vuelve-a-la-inmigracion-para-recuperar-la-iniciativa-politica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TSW6A2IZMBIUFBY2O5AVKVL3ZE.jpg?auth=7ff43d5c4e4a3355bc4a396d053537e856ae2437d340c3535e548679cd495b0b",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "جورجا ملونی برای احیای ابتکار سیاسی به موضوع مهاجرت بازگشت",
-      "lead_fa": "نخست‌وزیر ایتالیا با چالش‌های دولتش و تنش با شرکای سیاسی مواجه است. او برای جبران عقب‌نشینی‌ها دوباره به موضوع مهاجرت روی آورده است.",
-      "key_points_fa": [
-        "رهبر راست افراطی ایتالیا دوباره موضوع مهاجرت را در دستور کار قرار داد.",
-        "این اقدام پاسخی به شکست‌ها و ناکامی‌های اخیر دولت تلقی می‌شود.",
-        "روابط ملونی با شرکای ائتلافی خود با تنش‌هایی روبه‌رو است."
-      ],
-      "analysis_fa": "بازگشت به موضوع مهاجرت یکی از ابزارهای سنتی رهبران راست افراطی برای بسیج پایگاه رأی و تغییر تمرکز افکار عمومی از مشکلات اقتصادی و تنش‌های درون‌حزبی است. این رویکرد نشان‌دهنده تلاش دولت برای بازیابی ابتکار عمل سیاسی در شرایط دشوار داخلی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ایتالیا",
-        "#مهاجرت",
-        "#جورجاملونی",
-        "#سیاست"
+        "#ایبیزا",
+        "#استرداد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1114,34 +1253,6 @@
       "editorial_version": 2
     },
     {
-      "id": "fd37f8230061",
-      "source": "EL PAÍS",
-      "title": "Charlotte Gainsbourg: “Me siento bastante cómoda con la idea de ser una impostora”",
-      "summary": "Después de la muerte de Serge Gainsbourg, venerado como un rey en un país republicano, su casa en París se convirtió en un sitio de peregrinaciones de millones de fans. En 2023 a su hija Charlotte se le ocurrió que podría abrir las puertas de aquella vivienda. Hablamos con la musa de la maison Saint Laurent en Arlés, donde se confiesa una impostora",
-      "url": "https://elpais.com/eps/2026-08-09/charlotte-gainsbourg-me-siento-bastante-comoda-con-la-idea-de-ser-una-impostora.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IA2RQD56HJGXTIPRGHLGJC6I7U.jpg?auth=d5c13935c827e10c64b440236ba23691b7bfd51a32e97751ba58e4e43dc4cc79",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 72,
-      "title_fa": "شارلوت گنزبور: با ایده شیاد بودن کاملاً احساس راحتی می‌کنم",
-      "lead_fa": "خانه سرژ گنزبور پس از مرگ او به مکان زیارتی هواداران تبدیل شد. در سال ۲۰۲۳، دخترش شارلوت تصمیم گرفت درهای این خانه را به روی عموم باز کند.",
-      "key_points_fa": [
-        "سرژ گنزبور در فرانسه به عنوان یک پادشاه تکریم می‌شد.",
-        "خانه این هنرمند در پاریس پس از مرگش میزبان میلیون‌ها طرفدار بود.",
-        "شارلوت گنزبور در سال ۲۰۲۳ تصمیم به باز کردن درهای این خانه گرفت."
-      ],
-      "analysis_fa": "تبدیل خانه‌های چهره‌های سرشناس فرهنگی به موزه‌ها یا مکان‌های عمومی، راهکاری است که علاوه بر حفظ میراث هنری، به تداوم یاد و خاطره آن‌ها کمک می‌کند. اقدام شارلوت گنزبور در این راستا نشان‌دهنده تمایل خانواده برای مدیریت عمومی این میراث است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#شارلوت_گنزبور",
-        "#سینمای_فرانسه",
-        "#فرهنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "a6ada4058f9b",
       "source": "EL PAÍS Economía",
       "title": "El crédito a las empresas vuelve, pero no a todas por igual",
@@ -1170,31 +1281,443 @@
       "editorial_version": 2
     },
     {
-      "id": "fc2c54944bbd",
-      "source": "EL PAÍS Economía",
-      "title": "El empleo en el turismo crece un 5,4% en el segundo trimestre por la mejora de la actividad",
-      "summary": "Los 3,2 millones de trabajadores empleados en el sector representan el 14% de todos los ocupados",
-      "url": "https://elpais.com/economia/2026-08-07/el-empleo-en-el-turismo-crece-un-54-en-el-segundo-trimestre-por-la-mejora-de-la-actividad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XUA5S5UMZZAH3JDGJCB7GCR3OU.jpg?auth=571f148b7e316f5fab1dc49b5e28f8a77719bdd7d839e53935b6b0817972b182",
-      "published_at": "2026-08-07T09:21:52+00:00",
-      "category": "economia",
-      "priority": 72,
-      "title_fa": "رشد ۵.۴ درصدی اشتغال در بخش گردشگری اسپانیا",
-      "lead_fa": "اشتغال در بخش گردشگری اسپانیا در سه ماهه دوم سال جاری میلادی افزایش یافت. این حوزه اکنون ۱۴ درصد از کل شاغلان کشور را شامل می‌شود.",
-      "key_points_fa": [
-        "ثبت رشد ۵.۴ درصدی در اشتغال گردشگری",
-        "فعالیت ۳.۲ میلیون شاغل در این بخش",
-        "سهم ۱۴ درصدی گردشگری از کل اشتغال اسپانیا"
-      ],
-      "analysis_fa": "آمارهای جدید نشان‌دهنده رونق فعالیت‌های اقتصادی و گردشگری در فصل دوم سال است که مستقیماً بر بازار کار تاثیر مثبت گذاشته و سهم قابل توجهی از اشتغال کل کشور را به خود اختصاص داده است.",
-      "audience_impact_fa": "برای مهاجران شاغل یا جویای کار در بخش خدمات و گردشگری اسپانیا، این آمار نشان‌دهنده بهبود فرصت‌های شغلی در این حوزه است.",
+      "id": "5b2f5ed67d54",
+      "source": "EL PAÍS",
+      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
+      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "lead_fa": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#گردشگری",
-        "#اقتصاد_اسپانیا",
-        "#اشتغال"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf785f2b73f1",
+      "source": "EL PAÍS",
+      "title": "Viaje por el lecho de un Danubio desnudo por la sequía: “Cada año la situación es peor”",
+      "summary": "EL PAÍS recorre un tramo del segundo río más largo de Europa, a su paso por Hungría, que está bajo límites por la falta de agua",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/viaje-por-el-lecho-de-un-danubio-desnudo-por-la-sequia-cada-ano-la-situacion-es-peor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BGATWKS2SNFRVNVPCJ6RTTTG5Y.jpg?auth=03106274548add304cc9a6cfa02b452a1f847e9cd595f31931faa23dc622de62",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Viaje por el lecho de un Danubio desnudo por la sequía: “Cada año la situación es peor”",
+      "lead_fa": "EL PAÍS recorre un tramo del segundo río más largo de Europa, a su paso por Hungría, que está bajo límites por la falta de agua",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9194c17de253",
+      "source": "EL PAÍS",
+      "title": "Los veranos en que me enamoré",
+      "summary": "La playa es la misma, tú no. Un año te encanta ‘Humor amarillo’ y al otro, las películas de instituto en las que el malote baila con la empollona",
+      "url": "https://elpais.com/television/2026-08-10/los-veranos-en-que-me-enamore.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7HNXMOU7MJHP5G66BB466FUVTI.jpg?auth=64ed6a864764f733ad28c5b5838df31e733bb8855166d4dbc2f2469549540451",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los veranos en que me enamoré",
+      "lead_fa": "La playa es la misma, tú no. Un año te encanta ‘Humor amarillo’ y al otro, las películas de instituto en las que el malote baila con la empollona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "66ae6e9069b9",
+      "source": "EL PAÍS",
+      "title": "De Gabinete Caligari a Maluma: una lista de canciones para mirar el eclipse",
+      "summary": "El 12 de agosto póngase las gafas y estas melodías para disfrutar de un momento único",
+      "url": "https://elpais.com/cultura/2026-08-10/de-gabinete-caligari-a-maluma-una-lista-de-canciones-para-mirar-el-eclipse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HNSHFRDMKJDEZE2RJ2UXD5Q4BM.jpg?auth=884dcdaf56f600a983c825ff38983a0173b34d0bf87b7ddcbc9c94887945235e",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "De Gabinete Caligari a Maluma: una lista de canciones para mirar el eclipse",
+      "lead_fa": "El 12 de agosto póngase las gafas y estas melodías para disfrutar de un momento único",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5d1511e7ad06",
+      "source": "EL PAÍS",
+      "title": "Dieciséis virus sintéticos",
+      "summary": "Es el momento de preparar nuestras infraestructuras sanitarias para una pandemia mucho más extraña de lo que podemos anticipar",
+      "url": "https://elpais.com/opinion/2026-08-10/dieciseis-virus-sinteticos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OWZUCGKXXZO77LLTLTUZ2LY4QE.jpg?auth=813d7ebf644b778c140f1ea55e35b7f1379a9506ead33979401b89a76b614b8b",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Dieciséis virus sintéticos",
+      "lead_fa": "Es el momento de preparar nuestras infraestructuras sanitarias para una pandemia mucho más extraña de lo que podemos anticipar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "928383a1e22d",
+      "source": "EL PAÍS",
+      "title": "Vivir, morir y sobrevivir a la epidemia de ébola de crecimiento más rápido jamás registrado de la historia",
+      "summary": "Una enterradora, una médica, un desplazado, una superviviente y un viudo cuentan cómo afrontan en la República Democrática del Congo el segundo brote de ébola con más casos",
+      "url": "https://elpais.com/planeta-futuro/2026-08-10/vivir-morir-y-sobrevivir-a-la-epidemia-de-ebola-de-crecimiento-mas-rapido-jamas-registrado-de-la-historia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OMY54IZI2NEYBGTMCFMLRGQROM.jpg?auth=df5e1a8f20dc28c3959619af0704a5af4f20c9379b3c369b0d4d82fcc7721073",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Vivir, morir y sobrevivir a la epidemia de ébola de crecimiento más rápido jamás registrado de la historia",
+      "lead_fa": "Una enterradora, una médica, un desplazado, una superviviente y un viudo cuentan cómo afrontan en la República Democrática del Congo el segundo brote de ébola con más casos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "76bad073c2a1",
+      "source": "EL PAÍS",
+      "title": "Hallan restos de semen en la zona genital de una de las mujeres operadas por el cirujano acusado de violar a sus pacientes en el quirófano",
+      "summary": "La jueza mantiene al facultativo en prisión provisional porque hay “indicios claros de criminalidad en su contra”",
+      "url": "https://elpais.com/sociedad/2026-08-10/hallan-restos-de-semen-en-la-zona-genital-de-una-de-las-mujeres-operadas-por-el-cirujano-acusado-de-violar-a-sus-pacientes-en-el-quirofano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4WT63R3YPRGX5GQVUHDMWG62BM.jpg?auth=4b2f44c183bfb3be3730d367a57803211df0bed011f4c5de0d4f67466c0d3812",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Hallan restos de semen en la zona genital de una de las mujeres operadas por el cirujano acusado de violar a sus pacientes en el quirófano",
+      "lead_fa": "La jueza mantiene al facultativo en prisión provisional porque hay “indicios claros de criminalidad en su contra”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "50fffe7bf567",
+      "source": "EL PAÍS",
+      "title": "Escalada incoherente",
+      "summary": "Los viajeros de España e Italia no pueden pagar en los aeropuertos las consecuencias de una disputa ideológica entre sus gobiernos",
+      "url": "https://elpais.com/opinion/2026-08-10/escalada-incoherente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/466K6UVIMRECXJ7I37SEETQ5VY.jpg?auth=ea9e6625607843f7df228dbc4fb0a58c208bdcf3141f77d8e812575030558653",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Escalada incoherente",
+      "lead_fa": "Los viajeros de España e Italia no pueden pagar en los aeropuertos las consecuencias de una disputa ideológica entre sus gobiernos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "841cacc1c708",
+      "source": "EL PAÍS",
+      "title": "Los reyes de la baraja",
+      "summary": "Hoy en día ser dictador de derecha o izquierda ha dejado de tener relevancia. Bukele calla frente a su vecino Ortega, aliado de Rusia y China",
+      "url": "https://elpais.com/opinion/2026-08-10/los-reyes-de-la-baraja.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5EVITPSWIJCIRCQRCLLT2R3UVM.jpg?auth=2291908d658d928568a0cb192e648db31c6a71c9072a032d89238469f36c1e6a",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los reyes de la baraja",
+      "lead_fa": "Hoy en día ser dictador de derecha o izquierda ha dejado de tener relevancia. Bukele calla frente a su vecino Ortega, aliado de Rusia y China",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a6be75abd4e6",
+      "source": "EL PAÍS",
+      "title": "No, la IA no es inteligente",
+      "summary": "Los modelos de lenguaje pueden encadenar razones y producir respuestas extraordinariamente convincentes, pero eso no demuestra que comprenda lo que dice ni que pueda responder por sus consecuencias",
+      "url": "https://elpais.com/tecnologia/2026-08-10/no-la-ia-no-es-inteligente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IP6E4SLZYJBRFMACMCYUWAQ5H4.jpg?auth=2a05432265e6f64a99ecfbd6daa249c9430e436941d63205f1693f2dbcd2986e",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "No, la IA no es inteligente",
+      "lead_fa": "Los modelos de lenguaje pueden encadenar razones y producir respuestas extraordinariamente convincentes, pero eso no demuestra que comprenda lo que dice ni que pueda responder por sus consecuencias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fc01f1151dcc",
+      "source": "EL PAÍS",
+      "title": "Moda agosteña de Flavita Banana: la falda",
+      "summary": "Viñeta del 10 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-10/moda-agostena-de-flavita-banana-la-falda.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GYAMHS7OKVDRHHQSOJKOQOKLGA.jpg?auth=8c63dbf3f1bad19f577df2bf56df598d4ee5a28fa7689609d868b766fac7ff51",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Moda agosteña de Flavita Banana: la falda",
+      "lead_fa": "Viñeta del 10 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a1c1b825355e",
+      "source": "EL PAÍS",
+      "title": "Historia de un ático",
+      "summary": "En demasiadas ocasiones se conducen sin pudor quienes a falta de ejemplaridad deberían, al menos, aprender a disimular mejor",
+      "url": "https://elpais.com/opinion/2026-08-10/historia-de-un-atico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WE5IA4XP5NASJN7BUKEBK4ISIE.JPG?auth=1d5cee5b99ba90dec13d3eea13dd19044d9cc3f0646ec932b7878478d24f47ec",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Historia de un ático",
+      "lead_fa": "En demasiadas ocasiones se conducen sin pudor quienes a falta de ejemplaridad deberían, al menos, aprender a disimular mejor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c426e11a793b",
+      "source": "EL PAÍS",
+      "title": "Matar en directo: el asesinato de un ‘influencer’ al servicio del narco en México",
+      "summary": "Las autoridades de México relacionan el asesinato de César Gastelum, el noveno creador de contenido muerto en dos años, con los mensajes que difundía en apoyo al Cartel de Sinaloa",
+      "url": "https://elpais.com/opinion/2026-08-10/matar-en-directo-el-asesinato-de-un-influencer-al-servicio-del-narco-en-mexico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HCGKJI2JS5OO3FJFH5LQM675ZQ.jpg?auth=bc0ac5e4e3597878958d104172577ee3d5b4c70a3f84e28eaaba8d58c6dec5d9",
+      "published_at": "2026-08-10T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Matar en directo: el asesinato de un ‘influencer’ al servicio del narco en México",
+      "lead_fa": "Las autoridades de México relacionan el asesinato de César Gastelum, el noveno creador de contenido muerto en dos años, con los mensajes que difundía en apoyo al Cartel de Sinaloa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0858ff0f009f",
+      "source": "EL PAÍS",
+      "title": "Seis recetas de “melón con cosas” para exprimir la temporada del aperitivo al postre",
+      "summary": "En ensalada con chile y lima, gazpacho, pinchitos con bacalao ahumado o al grill: la cucurbitácea más veraniega -con permiso de la sandía- ofrece infinitas posibilidades",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-10/seis-recetas-de-melon-con-cosas-para-exprimir-la-temporada-del-aperitivo-al-postre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BF5WN3NALFGITBPDDQM3YWHPT4.jpg?auth=3e3b2feefd73de473783c4c8306d783189f244adc34db27038649e587df83ed5",
+      "published_at": "2026-08-10T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Seis recetas de “melón con cosas” para exprimir la temporada del aperitivo al postre",
+      "lead_fa": "En ensalada con chile y lima, gazpacho, pinchitos con bacalao ahumado o al grill: la cucurbitácea más veraniega -con permiso de la sandía- ofrece infinitas posibilidades",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d021cdd74fca",
+      "source": "EL PAÍS",
+      "title": "Ceci Hace y Nahuel Ivorra, dos fenómenos del humor argentino en redes",
+      "summary": "La pareja de comediantes y creadores de personajes como La Checha, están detrás de vídeos que han llegado a contar con más de 30 millones de visitas",
+      "url": "https://elpais.com/eps/2026-08-10/ceci-hace-y-nahuel-ivorra-dos-fenomenos-del-humor-argentino-en-redes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BPX3GIMFV5C73KKQ53AJ5PYPKE.jpg?auth=9c70037bc0172409141000be945fd6d5955a288326798eec4ed3a229133af47c",
+      "published_at": "2026-08-10T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ceci Hace y Nahuel Ivorra, dos fenómenos del humor argentino en redes",
+      "lead_fa": "La pareja de comediantes y creadores de personajes como La Checha, están detrás de vídeos que han llegado a contar con más de 30 millones de visitas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "89a71dc03637",
+      "source": "EL PAÍS",
+      "title": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
+      "summary": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
+      "url": "https://elpais.com/smoda/belleza/2026-08-10/creatina-si-pero-vitamina-d-no-hay-sesgo-de-genero-tambien-en-torno-a-los-suplementos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QQMY2TPPFBCB5LNRFK7HTH5DFU.jpg?auth=bc8648d5ca998505d88a022b6f464cd44bb7c2268b6395002ad64afad2fafafc",
+      "published_at": "2026-08-10T03:30:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
+      "lead_fa": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3a0092fa7f3f",
+      "source": "EL PAÍS",
+      "title": "El dilema del hombre descalzo: ¿cuándo y cómo enseñar el pie masculino, tan repudiado como erótico?",
+      "summary": "Las altísimas temperaturas hacen que cada vez más hombres vistan chanclas o sandalias fuera de los entornos de baño o, directamente, se descalcen en público",
+      "url": "https://elpais.com/icon/2026-08-10/el-dilema-del-hombre-descalzo-cuando-y-como-ensenar-el-pie-masculino-tan-repudiado-como-erotico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SMNY322JHVAQZGIWCYH2FKBMSQ.jpg?auth=f5b7ab00dcf2701e63202dde71a98c5818fe77d3fb8e29a854fdea1b35f1c057",
+      "published_at": "2026-08-10T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El dilema del hombre descalzo: ¿cuándo y cómo enseñar el pie masculino, tan repudiado como erótico?",
+      "lead_fa": "Las altísimas temperaturas hacen que cada vez más hombres vistan chanclas o sandalias fuera de los entornos de baño o, directamente, se descalcen en público",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5a7c17130339",
+      "source": "EL PAÍS Economía",
+      "title": "Así son las nuevas oficinas para trabajadores quemados por la IA",
+      "summary": "Las sedes corporativas empiezan a incorporar zonas libres de pantallas para aminorar la fatiga mental que añade esta tecnología a las plantillas",
+      "url": "https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YTDWNEIUFANJARCVDWXNQXOBI.jpg?auth=805bd17ebc75b9e48193887467196c5d4e0613c1564ae48fcbb8236970d7c3d0",
+      "published_at": "2026-08-10T03:30:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Así son las nuevas oficinas para trabajadores quemados por la IA",
+      "lead_fa": "Las sedes corporativas empiezan a incorporar zonas libres de pantallas para aminorar la fatiga mental que añade esta tecnología a las plantillas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "002f5f8f1904",
+      "source": "EL PAÍS Economía",
+      "title": "Morante y la gestión ‘value’",
+      "summary": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/morante-y-la-gestion-value.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QP5JOG47CJE2ZPCAUVSJBX5MMM.jpg?auth=bc24430f56840b86d037c7872269ee16cf95f7500a9369e5c8e231ce431ede5a",
+      "published_at": "2026-08-10T03:25:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Morante y la gestión ‘value’",
+      "lead_fa": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "55b9a1991365",
+      "source": "EL PAÍS Economía",
+      "title": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
+      "summary": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/grifols-acusa-a-gotham-de-obstaculizar-la-obtencion-de-pruebas-para-preparar-el-juicio-en-nueva-york.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5UINOMRKEKQXTW6SPB4DICCKIY.jpg?auth=3c513c7fc19c40c0eb63b26d7a2fae136e9bdb8d48c0eb831d62e46bfce52604",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
+      "lead_fa": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1225,62 +1748,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b556611aeaf6",
-      "source": "EL PAÍS",
-      "title": "Messi despide a su padre en una ceremonia íntima y rodeado del aliento de los hinchas: “Fuerza, Leo”",
-      "summary": "El capitán de la selección argentina viaja desde Miami junto a su esposa y sus tres hijos para dar el último adiós junto a la familia",
-      "url": "https://elpais.com/argentina/2026-08-09/messi-despide-a-su-padre-en-una-ceremonia-intima-y-rodeado-del-aliento-de-los-hinchas-fuerza-leo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SERLRJO6RRKPRI3V4TUHJXXDPQ.jpg?auth=ffe310b684cf40b6dca97277713313341e956db76854e32e0b722f9c76607b30",
-      "published_at": "2026-08-09T20:17:30+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "مسی با برگزاری مراسمی خصوصی با پدرش وداع کرد",
-      "lead_fa": "کاپیتان تیم ملی آرژانتین برای شرکت در مراسم خاکسپاری و وداع خانوادگی به همراه همسر و سه فرزندش از میامی سفر کرد. هواداران حاضر در محل با فریادهای «قدرت، لئو» از او حمایت کردند.",
-      "key_points_fa": [
-        "سفر لیونل مسی به همراه همسر و سه فرزندش از میامی به محل برگزاری مراسم",
-        "برگزاری مراسم وداع در فضایی خصوصی و در حضور خانواده",
-        "ابراز همدردی و حمایت هواداران حاضر با شعار «فشار نیاور» و «قوی باش، لئو»"
-      ],
-      "analysis_fa": "این رویداد بازتاب گسترده‌ای در رسانه‌های ورزشی و عمومی داشته و نشان‌دهنده جایگاه عاطفی کاپیتان تیم ملی آرژانتین در میان هوادارانش است. این سفر در پی یک فقدان شخصی انجام شده و توجه رسانه‌ها را به ابعاد انسانی زندگی ورزشی او جلب کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#لیونل_مسی",
-        "#آرژانتین",
-        "#فوتبال"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "37b512103475",
-      "source": "EL PAÍS",
-      "title": "“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión",
-      "summary": "El malestar acumulado tras la entrada de más de 70.000 personas rompe a voz en grito en una de las manifestaciones más multitudinarias que recuerdan los ceutíes",
-      "url": "https://elpais.com/espana/2026-08-09/ceuta-no-se-vende-la-ciudad-se-echa-a-la-calle-tras-diez-dias-de-tension.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260809/1203214_201124_video_1800.mp4",
-      "published_at": "2026-08-09T19:42:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "اعتراضات گسترده در سبته پس از روزها تنش",
-      "lead_fa": "شهروندان سبته در پی تنش‌های اخیر به خیابان‌ها آمدند. این یکی از بزرگ‌ترین تظاهرات‌های ثبت‌شده در این شهر است.",
-      "key_points_fa": [
-        "تجمع اعتراضی پس از ده روز تنش و نارضایتی انباشته شده برگزار شد.",
-        "معترضان با شعار «سبته فروشی نیست» دست به راهپیمایی زدند.",
-        "این تجمع یکی از پرجمعیت‌ترین تظاهرات‌های تاریخ اخیر این منطقه محسوب می‌شود."
-      ],
-      "analysis_fa": "این تظاهرات نشان‌دهنده افزایش مطالبات اجتماعی و فشارهای ناشی از تحولات اخیر در مرزهاست که به سطح خیابان‌ها کشیده شده و توجه عمومی را به خود جلب کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سبته",
-        "#اسپانیا",
-        "#اعتراضات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "fd339c17c592",
       "source": "La Vanguardia",
       "title": "Vollering, imparable en Niza, conquista su segundo Tour",
@@ -1305,34 +1772,6 @@
         "#تورفرانس",
         "#ورزشی",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d1c7acf6ac0f",
-      "source": "EL PAÍS",
-      "title": "El orgullo de Demi Vollering, ganadora en Niza de su segundo Tour de Francia",
-      "summary": "La holandesa se impone también en la última etapa, en la que la magnífica Paula Blasi fue segunda, y quinta en la general final",
-      "url": "https://elpais.com/deportes/ciclismo/2026-08-09/el-orgullo-de-demi-vollering-ganadora-en-niza-de-su-segundo-tour-de-francia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5ZOHTLULPFLDXHVU66X5UQUCVQ.jpg?auth=f23f18eb524d1b19842dafb8be065076fb83eda7d11ab133168b297938bcea9f",
-      "published_at": "2026-08-09T18:25:10+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "قهرمانی دمی فولرینگ در تور دو فرانس زنان",
-      "lead_fa": "دمی فولرینگ هلندی با پیروزی در مرحله پایانی، دومین عنوان قهرمانی خود در تور دو فرانس را کسب کرد. پائولا بلاسیک اسپانیایی نیز در این مرحله دوم شد و در رده‌بندی کل در جایگاه پنجم ایستاد.",
-      "key_points_fa": [
-        "دمی فولرینگ فاتح دومین تور دو فرانس زنان شد.",
-        "پائولا بلاسیک در مرحله پایانی مقام دوم را کسب کرد.",
-        "بلاسیک در رده‌بندی نهایی مسابقات در رتبه پنجم قرار گرفت."
-      ],
-      "analysis_fa": "این مسابقات سطح بالای رقابت‌های دوچرخه‌سواری زنان را به نمایش گذاشت و حضور ورزشکاران اسپانیایی در رتبه‌های برتر نشان‌دهنده پتانسیل بالای این کشور در سطح حرفه‌ای است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#توردوفرانس",
-        "#دوچرخه‌سواری",
-        "#ورزشی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1507,7 +1946,7 @@
     },
     {
       "id": "924746c61d64",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Así funciona el ejército anónimo de ‘mecenas’ en España: cuando la unión (financiera) hace la fuerza",
       "summary": "El ‘crowdfunding’, fórmula en la que pequeños inversores se juntan para inyectar dinero en distintos proyectos a cambio de una rentabilidad, se abre paso como vía complementaria a la banca",
       "url": "https://elpais.com/economia/negocios/2026-08-08/asi-funciona-el-ejercito-anonimo-de-mecenas-en-espana-cuando-la-union-financiera-hace-la-fuerza.html",
@@ -1529,34 +1968,6 @@
         "#اقتصاد_اسپانیا",
         "#سرمایه_گذاری",
         "#تامین_مالی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "09e4b3c68aa7",
-      "source": "EL PAÍS Economía",
-      "title": "La compra de viviendas en junio pone fin a cinco meses de caídas al crecer un 1,6%",
-      "summary": "El mercado cierra el primer semestre del año con cerca de 348.000 transacciones, según el INE, unas 10.000 menos que en 2025",
-      "url": "https://elpais.com/economia/2026-08-07/la-compra-de-viviendas-en-junio-pone-fin-a-cinco-meses-de-caidas-al-crecer-un-16.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3DN56O7HORG75F7IFOMJ4W34Y4.jpg?auth=2656f4019bc929886f707bdd85ffc614412d20514870371f7671a9f5c8acb36f",
-      "published_at": "2026-08-07T07:14:02+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "رشد ۱.۶ درصدی خرید مسکن در اسپانیا پس از پنج ماه افت",
-      "lead_fa": "بازار مسکن اسپانیا در ماه ژوئن پس از پنج ماه متوالی کاهش، رشد ۱.۶ درصدی را ثبت کرد. نیمه نخست سال با حدود ۳۴۸ هزار معامله به پایان رسید.",
-      "key_points_fa": [
-        "ثبت رشد ۱.۶ درصدی در معاملات مسکن در ماه ژوئن",
-        "کاهش حدود ۱۰ هزار معامله در نیمه نخست سال نسبت به سال گذشته",
-        "آمار رسمی اعلام شده از سوی مرکز آمار اسپانیا (INE)"
-      ],
-      "analysis_fa": "آمار جدید انستیتو ملی آمار اسپانیا نشان‌دهنده توقف موقت روند نزولی معاملات مسکن در ماه ژوئن است. با این حال، مقایسه مجموع معاملات نیمه اول سال با دوره مشابه نشان می‌دهد که بازار همچنان با نوسانات و کاش جزئی در حجم کلی خرید و فروش مواجه است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مسکن",
-        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1586,35 +1997,6 @@
         "#مهاجرت",
         "#اسپانیا",
         "#گارد_ملی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "159069568ef3",
-      "source": "EL PAÍS",
-      "title": "Hallados los cadáveres del exsecretario de UAGA y su esposa con signos de violencia en Tauste (Zaragoza)",
-      "summary": "Los cuerpos fueron encontrados por la hermana y el cuñado de la mujer a primera hora de la noche de este sábado",
-      "url": "https://elpais.com/espana/2026-08-09/hallan-los-cadaveres-del-exsecretario-de-uaga-y-su-mujer-con-signos-de-violencia-en-tauste-zaragoza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EC5HODEE6BFERAN5DES7ZLGZYU.jpg?auth=4464eb234762059ec6776a2ab3071203417dee3977defa82b89e02678535d397",
-      "published_at": "2026-08-09T18:18:49+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "کشف جسد دبیر سابق اتحادیه کشاورزان آراگون و همسرش در تائسته",
-      "lead_fa": "اجساد دبیر سابق اتحادیه کشاورزان آراگون و همسرش با نشانه‌های خشونت در خانه‌ای در ساراگوسا پیدا شد. این پیکرها نخستین ساعات شب شنبه توسط بستگان قربانیان کشف شد.",
-      "key_points_fa": [
-        "اجساد در شهر تائسته در استان ساراگوسا پیدا شدند.",
-        "قربانیان شامل دبیر سابق اتحادیه کشاورزان و دامداران آراگون (UAGA) و همسرش هستند.",
-        "پیکرها دارای نشانه‌های خشونت بوده‌اند.",
-        "خواهر و همسرخواهر زن قربانی، کشف‌کنندگان اجساد در شب شنبه بوده‌اند."
-      ],
-      "analysis_fa": "مقام‌های امنیتی و قضایی اسپانیا تحقیقات درباره این پرونده را آغاز کرده‌اند تا انگیزه و عاملان این واقعه مشخص شود. جزئیات بیشتر درباره مظنونان یا نحوه وقوع حادثه هنوز به صورت رسمی اعلام نشده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#ساراگوسا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1673,6 +2055,28 @@
         "#حوادث"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "20c955c83518",
+      "source": "EL PAÍS",
+      "title": "Verónica Gago, filósofa y activista: “El feminismo ha liberado otras formas de desear y de amar”",
+      "summary": "La pensadora argentina denuncia la ‘fascistización’ de la vida cotidiana: la imposición política de una austeridad cruel, opresiva y violenta",
+      "url": "https://elpais.com/ideas/2026-08-09/veronica-gago-filosofa-y-activista-el-feminismo-ha-liberado-otras-formas-de-desear-y-de-amar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XLGLUAIPN5A4PJPFZGVS4VWTK4.jpg?auth=fa72cd892091ba75d2b1e26621daeb118dc0f08957a36bbe55e9da1e6dc7e0d6",
+      "published_at": "2026-08-09T03:30:00+00:00",
+      "category": "politica",
+      "priority": 67,
+      "title_fa": "Verónica Gago, filósofa y activista: “El feminismo ha liberado otras formas de desear y de amar”",
+      "lead_fa": "La pensadora argentina denuncia la ‘fascistización’ de la vida cotidiana: la imposición política de una austeridad cruel, opresiva y violenta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2024,7 +2428,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Y2OKLJO2ZRKOJHNJMWRHACRQOE.jpg?auth=95159d6d24eaa6ab256cd1f9a5bdf04d44ca5f9ba2ac60d7f2567c78151b64eb",
       "published_at": "2026-08-09T03:40:00+00:00",
       "category": "ciencia",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Las claves: el incentivo de vender una IA más poderosa que sus creadores",
       "lead_fa": "Meta se suma también a las compañías que han anunciado que su tecnología atacó otras plataformas",
       "key_points_fa": [],
@@ -2039,14 +2443,14 @@
     },
     {
       "id": "fb8a817f7149",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Solas y acosadas: el drama de las niñas que nadaron a Ceuta",
       "summary": "Las vecinas se convierten en “nuevas madres” para las chicas ante su desprotección. La policía investiga cinco violaciones",
       "url": "https://elpais.com/espana/2026-08-09/situacion-critica-de-las-menores-en-ceuta-violencia-sexual-y-refugiadas-con-sus-nuevas-madres.html",
       "image": "https://imagenes.elpais.com/resizer/v2/XHST4YHGC5EDXC5B3LYDGJ276I.jpg?auth=1b619f4db2b67ddfa30fb00c88031c309d68bf296eab191ec6976ad5aecc7f30",
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Solas y acosadas: el drama de las niñas que nadaron a Ceuta",
       "lead_fa": "Las vecinas se convierten en “nuevas madres” para las chicas ante su desprotección. La policía investiga cinco violaciones",
       "key_points_fa": [],
@@ -2061,14 +2465,14 @@
     },
     {
       "id": "eed4696e0326",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "El escritor marroquí Tahar Ben Jelloun: “No entiendo por qué se dejó pasar a decenas de miles de jóvenes hacia Ceuta. Tenemos la policía más potente del Magreb”",
       "summary": "El novelista más reconocido de Marruecos cree que la Italia de Meloni y otros países quieren castigar a España de forma histérica",
       "url": "https://elpais.com/espana/2026-08-09/el-escritor-marroqui-tahar-ben-jelloun-no-entiendo-por-que-se-dejo-pasar-a-decenas-de-miles-de-jovenes-hacia-ceuta-tenemos-la-policia-mas-potente-del-magreb.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PKSIOHRMLVBB5AN5ZLZ6ILVO3M.jpg?auth=803fd987453aaf87e05f5e7987c974ecb8cce46d95aaea23f7dfd99a6f7c8b04",
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "El escritor marroquí Tahar Ben Jelloun: “No entiendo por qué se dejó pasar a decenas de miles de jóvenes hacia Ceuta. Tenemos la policía más potente del Magreb”",
       "lead_fa": "El novelista más reconocido de Marruecos cree que la Italia de Meloni y otros países quieren castigar a España de forma histérica",
       "key_points_fa": [],
@@ -2082,347 +2486,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d1bceffcd81d",
-      "source": "EL PAÍS",
-      "title": "La nueva era de las redes sociales y los artistas: ya no te cuentan su vida como antes",
-      "summary": "Los perfiles de Instagram se profesionalizan y los contenidos más personales se limitan ante los riesgos que las estrellas de la cultura perciben al compartir sus reflexiones más personales",
-      "url": "https://elpais.com/cultura/2026-08-09/la-nueva-era-de-las-redes-sociales-y-los-artistas-de-la-intimidad-espontanea-a-la-controlada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IZSZEN3MIRFYLDQXMN654EM4II.jpg?auth=b358b3643c0d2ba9de79c40f8b3e5ceff1c4c30a0e9da14b01f4e6177ebbab90",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "La nueva era de las redes sociales y los artistas: ya no te cuentan su vida como antes",
-      "lead_fa": "Los perfiles de Instagram se profesionalizan y los contenidos más personales se limitan ante los riesgos que las estrellas de la cultura perciben al compartir sus reflexiones más personales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ab17bae46f98",
-      "source": "EL PAÍS",
-      "title": "¿Por qué se ríen de ‘La odisea’ de Christopher Nolan?",
-      "summary": "Estamos siendo asaltados por un gran caballo de Troya que alcanza pueblos y países pacíficos sin que podamos hacer nada",
-      "url": "https://elpais.com/opinion/2026-08-09/por-que-se-rien-de-la-odisea-de-christopher-nolan.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/W6XUNNMQMVBI7O62BTNKD2KS4I.jpg?auth=477907ebdde86078d883050f2948efabcbbfebd0546a232fa0a00b81091aa87e",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "¿Por qué se ríen de ‘La odisea’ de Christopher Nolan?",
-      "lead_fa": "Estamos siendo asaltados por un gran caballo de Troya que alcanza pueblos y países pacíficos sin que podamos hacer nada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3ca8e00faba7",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Génova da un paso atrás en la polémica del ático de Ayuso",
       "summary": "Los portavoces del PP se remiten a las “explicaciones” de la Comunidad y apenas ningún alto cargo nacional defiende a la baronesa en redes sociales. “Hay sensación de incomodidad innecesaria”, señala una fuente",
       "url": "https://elpais.com/espana/2026-08-09/genova-da-un-paso-atras-en-la-polemica-del-atico-de-ayuso.html",
       "image": "https://imagenes.elpais.com/resizer/v2/45STSDAHKFCBPM6OP2CGMJ2MAQ.jpg?auth=74a2717f6c9d0c4d3c0d9b332e78ecec8650e71187a2bda73604421c9c1e8eec",
       "published_at": "2026-08-09T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Génova da un paso atrás en la polémica del ático de Ayuso",
       "lead_fa": "Los portavoces del PP se remiten a las “explicaciones” de la Comunidad y apenas ningún alto cargo nacional defiende a la baronesa en redes sociales. “Hay sensación de incomodidad innecesaria”, señala una fuente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9c0dae632f07",
-      "source": "EL PAÍS",
-      "title": "La rebelión de la Generación Z sacude el sur del mundo",
-      "summary": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
-      "url": "https://elpais.com/internacional/2026-08-09/la-rebelion-de-la-generacion-z-sacude-el-sur-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5QBQXJ7GSBGOXBBFDAJ7TLFZC4.jpg?auth=a0eb965b42dc256bdf8b22bc141d252685718a151e7c12f90977e35d6459a28a",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "La rebelión de la Generación Z sacude el sur del mundo",
-      "lead_fa": "El movimiento de las ‘cucarachas’ en la India es el enésimo episodio de un profundo malestar social que se abate sobre los pilares del poder tradicional",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "974da9470ecb",
-      "source": "EL PAÍS",
-      "title": "Las mariposas mediterráneas se mudan al País Vasco en busca del clima del pasado",
-      "summary": "Centenares de especies han cambiado sus territorios, mientras que otras suben a las montañas en un mundo que está transformando sus paisajes",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-09/las-mariposas-mediterraneas-se-mudan-al-pais-vasco-en-busca-del-clima-del-pasado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OBYW3CURRRH4PCQPWY7K7VGDAA.jpg?auth=5ef1fa927acf4c724f06806bad525311f1ec4280984a2dd8b257c4ed3f7058c7",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "Las mariposas mediterráneas se mudan al País Vasco en busca del clima del pasado",
-      "lead_fa": "Centenares de especies han cambiado sus territorios, mientras que otras suben a las montañas en un mundo que está transformando sus paisajes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ccc553f07ec5",
-      "source": "EL PAÍS",
-      "title": "La democracia comienza donde termina el enemigo",
-      "summary": "La democracia no elimina los conflictos, los transforma en deliberación y alternancia a través del Parlamento, voz soberana de una ciudadanía plural",
-      "url": "https://elpais.com/opinion/2026-08-09/la-democracia-comienza-donde-termina-el-enemigo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YNYXLAZOCJATDIDWP5VE3V5GMA.jpg?auth=b3105c2bdc2a6044891886035d630198aaecc937315cdb6e238cc340d41ce6fe",
-      "published_at": "2026-08-09T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "La democracia comienza donde termina el enemigo",
-      "lead_fa": "La democracia no elimina los conflictos, los transforma en deliberación y alternancia a través del Parlamento, voz soberana de una ciudadanía plural",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "246fb1817d57",
-      "source": "EL PAÍS",
-      "title": "¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total",
-      "summary": "La totalidad durará tan solo unos segundos, pero sucederán cosas inusuales tanto en el cielo como a nuestro alrededor. Repasamos qué esperar antes, durante y después del gran fenómeno astronómico",
-      "url": "https://elpais.com/ciencia/2026-08-09/que-pasara-cuando-la-luna-tape-el-sol-en-que-debes-fijarte-para-apreciar-el-eclipse-total.html",
-      "image": "",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "¿Qué pasará cuando la Luna tape el Sol? En qué debes fijarte para apreciar el eclipse total",
-      "lead_fa": "La totalidad durará tan solo unos segundos, pero sucederán cosas inusuales tanto en el cielo como a nuestro alrededor. Repasamos qué esperar antes, durante y después del gran fenómeno astronómico",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bba7647dd7c7",
-      "source": "EL PAÍS",
-      "title": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
-      "summary": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
-      "url": "https://elpais.com/ciencia/2026-08-09/arcos-de-salinas-el-pueblo-turolense-que-teme-desbordarse-de-turistas-por-el-eclipse-vamos-a-morir-de-exito.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QRYIJLWPEZHJZCHSOIEZSYPNCE.JPG?auth=bcf7948bf503cc04c2f725507a950ddb3295e44c045dada28ad320d6ce8e6db1",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "turismo",
-      "priority": 63,
-      "title_fa": "Arcos de las Salinas, el pueblo turolense que teme desbordarse de turistas por el eclipse: “Vamos a morir de éxito”",
-      "lead_fa": "El municipio de 80 habitantes está a las faldas del cerro que alberga el mayor centro de divulgación astronómica de Europa, pero no cuenta con plazas hoteleras ni servicios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e0f1e45796c8",
-      "source": "EL PAÍS",
-      "title": "De San Sebastián a Barcelona: por qué empieza a ser habitual (y práctico) pasear con sombrillas de mano",
-      "summary": "Más olas de calor, ciudades poco preparadas para afrontarlo y mucha necesidad de sombra. El paraguas para el sol ha dejado de ser un gesto de turistas asiáticos para convertirse en un objeto cotidiano en Europa",
-      "url": "https://elpais.com/smoda/2026-08-06/de-san-sebastian-a-barcelona-por-que-empieza-a-ser-habitual-pasear-con-sombrillas-de-mano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HXVKYLAU25HAZHGQAMEVPY4TR4.jpg?auth=f3171f6d468ae8016cee3a38d3473db23b57a909e8deceb7b9e9946f6d841dec",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "De San Sebastián a Barcelona: por qué empieza a ser habitual (y práctico) pasear con sombrillas de mano",
-      "lead_fa": "Más olas de calor, ciudades poco preparadas para afrontarlo y mucha necesidad de sombra. El paraguas para el sol ha dejado de ser un gesto de turistas asiáticos para convertirse en un objeto cotidiano en Europa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "40a6cbd550e1",
-      "source": "EL PAÍS",
-      "title": "Diez recetas de aperitivos para disfrutar el resto del verano",
-      "summary": "Con hortalizas de temporada, con pescado o con huevos puedes hacer todas estas recetas para abrir el apetito o para preparar una comida entera",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-09/diez-recetas-de-aperitivos-para-disfrutar-el-resto-del-verano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3M5AP6MJ6VDZFAXRAETDYYGWQM.jpeg?auth=a6f3d7b6d03518274d08a02b01b5a24adf2361fbeb075288892f4dd7a12dc097",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Diez recetas de aperitivos para disfrutar el resto del verano",
-      "lead_fa": "Con hortalizas de temporada, con pescado o con huevos puedes hacer todas estas recetas para abrir el apetito o para preparar una comida entera",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9c01ec2de45a",
-      "source": "EL PAÍS",
-      "title": "Un gran poema",
-      "summary": "Un gran poema",
-      "url": "https://elpais.com/eps/2026-08-09/un-gran-poema.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DOOMZ346VVDA3GC3DXKOYCKPGQ.jpg?auth=4991c6b552d653acee93467da1f6dc72e974ce3468a1b5b1f37be7436984ec83",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Un gran poema",
-      "lead_fa": "Un gran poema",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cbc3bc589aa5",
-      "source": "EL PAÍS",
-      "title": "La despedida a Laura Cruz: “La mató porque era feliz”",
-      "summary": "El funeral de la guardia civil fue el viernes, dos días después de ser asesinada por Dámaso Fernández, su expareja, tras años de denuncias, recursos y coacciones. Su entierro dibuja gran parte de quién era esa mujer querida y protegida siempre por su entorno",
-      "url": "https://elpais.com/sociedad/2026-08-09/asesinato-machista-en-la-casa-cuartel.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1202920_082737_video_1800.mp4",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "La despedida a Laura Cruz: “La mató porque era feliz”",
-      "lead_fa": "El funeral de la guardia civil fue el viernes, dos días después de ser asesinada por Dámaso Fernández, su expareja, tras años de denuncias, recursos y coacciones. Su entierro dibuja gran parte de quién era esa mujer querida y protegida siempre por su entorno",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "59d21ddd48ae",
-      "source": "EL PAÍS",
-      "title": "María Eugenia Prendes: “Laura Cruz había dicho que sabía que no iba a parar hasta matarla. Eso es algo tan rotundo que tiene que ser lo primero que tengamos en la cabeza”",
-      "summary": "La fiscal de sala de Violencia sobre la Mujer fue también fiscal en el juicio a Dámaso Fernández por violencia machista contra Laura Cruz, a la que el ya exguardia civil asesinó el pasado miércoles en el cuartel del Instituto Armado en Llanes",
-      "url": "https://elpais.com/sociedad/2026-08-09/maria-eugenia-prendes-laura-cruz-habia-dicho-que-sabia-que-no-iba-a-parar-hasta-matarla-eso-es-algo-tan-rotundo-que-tiene-que-ser-lo-primero-que-tengamos-en-la-cabeza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UDEBGRZFJNEX5AINA3VFZPC2KM.jpg?auth=e26a84dd54d4c9e77decbd66660dea1d0db79afd9e726f591c464c0b3cbd032d",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "María Eugenia Prendes: “Laura Cruz había dicho que sabía que no iba a parar hasta matarla. Eso es algo tan rotundo que tiene que ser lo primero que tengamos en la cabeza”",
-      "lead_fa": "La fiscal de sala de Violencia sobre la Mujer fue también fiscal en el juicio a Dámaso Fernández por violencia machista contra Laura Cruz, a la que el ya exguardia civil asesinó el pasado miércoles en el cuartel del Instituto Armado en Llanes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9250e032add5",
-      "source": "EL PAÍS Economía",
-      "title": "Es hora de rediseñar la sanidad",
-      "summary": "La tecnología importa, pero casi nunca hace la revolución por sí sola, y probablemente este sector no será la excepción",
-      "url": "https://elpais.com/economia/negocios/2026-08-09/es-hora-de-redisenar-la-sanidad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/C6JLKWBZCZAVXA6XGDFMFETSCQ.jpg?auth=8f5577b0db89597fde14050d25b5801ad5dc97c3a86705a6dae74d312df7b343",
-      "published_at": "2026-08-09T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Es hora de rediseñar la sanidad",
-      "lead_fa": "La tecnología importa, pero casi nunca hace la revolución por sí sola, y probablemente este sector no será la excepción",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "eed6e6575a5d",
-      "source": "EL PAÍS",
-      "title": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
-      "summary": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
-      "url": "https://elpais.com/gastronomia/2026-08-09/mas-alla-del-cachopo-los-platos-que-recomiendan-los-cocineros-en-asturias-del-pote-a-la-merluza-de-meryl-streep.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FVAES63ZYFFAJPPRQKG245MPRM.jpg?auth=99409cc091e2ff23698b8ed96f80fb5f6f32b50a9dcd0822cf47805eb5749e93",
-      "published_at": "2026-08-09T03:25:00+00:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "Más allá del cachopo: los platos que recomiendan los cocineros en Asturias, del pote a la merluza de Meryl Streep",
-      "lead_fa": "Reivindican recetas tradicionales como el pote, los chipirones afogaos, el repollo relleno, las xulies, el rollo de bonito o los escalopines al cabrales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b94014705add",
-      "source": "EL PAÍS",
-      "title": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
-      "summary": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
-      "url": "https://elpais.com/ciencia/2026-08-09/el-eclipse-solar-total-o-el-dia-de-las-dos-noches-deberiamos-sentirnos-afortunados-de-poder-vivir-algo-asi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201719_152755_video_1800.mp4",
-      "published_at": "2026-08-09T03:15:00+00:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "El eclipse solar total o el día de las dos noches: “Deberíamos sentirnos afortunados de poder vivir algo así”",
-      "lead_fa": "La sombra de la Luna cruzará gran parte del país al atardecer en un fenómeno excepcional que no se veía en la España peninsular desde 1905",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2442,7 +2516,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7621a51ef3b.jpeg",
       "published_at": "2026-08-09T00:00:00+02:00",
       "category": "deportes",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Carrara no es solo cosa de oligarcas",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2464,7 +2538,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202747_143909_video_1800.mp4",
       "published_at": "2026-08-07T19:14:12+00:00",
       "category": "politica",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "El Gobierno establece controles en la frontera para los italianos después de que Meloni se niegue a eliminar los suyos para los españoles",
       "lead_fa": "El Ejecutivo adelanta a esta medianoche las medidas “proporcionales” que había anunciado si Roma no acababa con las restricciones",
       "key_points_fa": [],
@@ -2486,163 +2560,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/05/6a7344f0da693.jpeg",
       "published_at": "2026-08-08T06:00:00+02:00",
       "category": "ciencia",
-      "priority": 55,
+      "priority": 54,
       "title_fa": "Consejos para ver el eclipse total",
       "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f639d9d19682",
-      "source": "EL PAÍS Economía",
-      "title": "El hombre en España del dinero sudafricano que se está haciendo con los centros comerciales: “Estos espacios han sido denostados, pero no desaparecerán”",
-      "summary": "Alfonso Brunet, consejero delegado de Castellana Properties, dirige la rápida expansión de esta Socimi, que tiene detrás al fondo Vukile.",
-      "url": "https://elpais.com/economia/negocios/2026-08-08/el-hombre-en-espana-del-dinero-sudafricano-que-se-esta-haciendo-con-los-centros-comerciales-estos-espacios-han-sido-denostados-pero-no-desapareceran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FEZJC3FEXRGLPOKLVAWQNBU3IM.jpg?auth=ca67fc3aec0743a6909600e79a7042e5d553e18c272e373cbdf9a6ca8a06bc59",
-      "published_at": "2026-08-08T03:30:00+00:00",
-      "category": "ciencia",
-      "priority": 55,
-      "title_fa": "El hombre en España del dinero sudafricano que se está haciendo con los centros comerciales: “Estos espacios han sido denostados, pero no desaparecerán”",
-      "lead_fa": "Alfonso Brunet, consejero delegado de Castellana Properties, dirige la rápida expansión de esta Socimi, que tiene detrás al fondo Vukile.",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2de2a458fb89",
-      "source": "EL PAÍS Economía",
-      "title": "Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla",
-      "summary": "La filial del gigante chino ha recortado más de la mitad sus ingresos desde el máximo de 2018 mientras se estrecha el cerco regulatorio sobre sus redes",
-      "url": "https://cincodias.elpais.com/companias/2026-08-08/huawei-recupera-la-rentabilidad-en-espana-a-costa-de-reducir-el-negocio-y-la-plantilla.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UQRD47K6PJGSLLIKO566OA3XDI.png?auth=30767c845d16328afe9c1a82ab99a4409eda58940945362885c67dc6b6123120",
-      "published_at": "2026-08-08T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla",
-      "lead_fa": "La filial del gigante chino ha recortado más de la mitad sus ingresos desde el máximo de 2018 mientras se estrecha el cerco regulatorio sobre sus redes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b4fede134ad5",
-      "source": "EL PAÍS Economía",
-      "title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
-      "summary": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
-      "url": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QGLOX3QLSBE5NHKYE2HZGGDKWQ.JPG?auth=232049f6e0128d279a1dcac942b77f23e84bf38ac34837add22c80dc9bad5e0e",
-      "published_at": "2026-08-07T19:49:18+00:00",
-      "category": "sociedad",
-      "priority": 52,
-      "title_fa": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
-      "lead_fa": "El presidente estadounidense envía una carta a la gobernadora de la Reserva Federal para intentar despedirla pese a que el Supremo blindó la autonomía del organismo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4f8335de73de",
-      "source": "EL PAÍS Economía",
-      "title": "Inveready y Mayoral asumen el control de Parlem",
-      "summary": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "url": "https://elpais.com/economia/2026-08-07/inveready-y-mayoral-asumen-el-control-de-parlem.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HWQKUQ7SNJBQBKOPDONNNXYVLI.png?auth=5aab801da07c05bb10099da10532c8edf0eab77605564ec5e549faf685e3d0ba",
-      "published_at": "2026-08-07T19:40:47+00:00",
-      "category": "sociedad",
-      "priority": 52,
-      "title_fa": "Inveready y Mayoral asumen el control de Parlem",
-      "lead_fa": "La junta de accionistas respalda la reestructuración financiera de la operadora catalana con el canje de deuda y la ampliación de capital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "641d32dbf9c8",
-      "source": "EL PAÍS Economía",
-      "title": "Mojito, piscina y despido: el peligro del teletrabajo en verano fuera de tu residencia habitual",
-      "summary": "Esta práctica genera dudas entre los expertos en derecho laboral por el cumplimiento del contrato, los riesgos laborales y el deber de confidencialidad",
-      "url": "https://elpais.com/economia/negocios/2026-08-07/mojito-piscina-y-despido-el-peligro-del-teletrabajo-en-verano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HEOJONRAEZB5XILZMSFJ6PFSWY.jpg?auth=839f0f0224ef238520af6af0d759678eefaf0f88ca9383504067ee450e999c49",
-      "published_at": "2026-08-07T03:30:00+00:00",
-      "category": "migracion",
-      "priority": 52,
-      "title_fa": "Mojito, piscina y despido: el peligro del teletrabajo en verano fuera de tu residencia habitual",
-      "lead_fa": "Esta práctica genera dudas entre los expertos en derecho laboral por el cumplimiento del contrato, los riesgos laborales y el deber de confidencialidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e5f92da7a383",
-      "source": "EL PAÍS Economía",
-      "title": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
-      "summary": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/los-recelos-sobre-la-moda-ultrarrapida-enfrian-la-salida-a-bolsa-de-shein.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MDZIMUH5QZJKRCD6XGC24CMO54.jpg?auth=51b7b0b1fac23c5b0062a261588e9cf5c1a88ebd903652dde90bae3b0af845e8",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 52,
-      "title_fa": "Los recelos sobre la moda ultrarrápida enfrían la salida a Bolsa de Shein",
-      "lead_fa": "La compañía busca una valoración de hasta 43.000 millones, muy lejos de los más de 85.000 millones que alcanzó en 2022, lastrada por la presión regulatoria y el deterioro de sus resultados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "56552d61ee34",
-      "source": "EL PAÍS Economía",
-      "title": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
-      "summary": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-07/las-pequenas-empresas-preparan-una-avalancha-de-salidas-a-bolsa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PA5NHULQVNE5FDJOQAQZ7TAQKI.jpg?auth=183df3b982fce96e504701cdc951cd02ee51ea9ad4295ed0b476ae77ed26dcbf",
-      "published_at": "2026-08-07T03:25:00+00:00",
-      "category": "economia",
-      "priority": 52,
-      "title_fa": "Las pequeñas empresas preparan una avalancha de salidas a Bolsa",
-      "lead_fa": "La Unión Europea estrena la regulación que facilita que las pymes coticen en los mercados. BME y Euronext ponen el foco en la recta final del año",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2683,7 +2603,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 142
+      "count": 134
     },
     {
       "source": "EL PAÍS España",
@@ -2693,7 +2613,7 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "La Vanguardia",
