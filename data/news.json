@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T17:33:17.583662+00:00",
+  "generated_at": "2026-08-10T18:30:13.747808+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "973075b8642d",
+    "20b046d85978",
     "ffd2adeb1d1c",
     "2cabce0d122a",
-    "6f2c9c1c32cb",
     "ea02f3303740"
   ],
   "items": [
@@ -37,13 +37,41 @@
       "editorial_version": 2
     },
     {
+      "id": "20b046d85978",
+      "source": "La Vanguardia",
+      "title": "Terremoto en Colombia, última hora | Ascienden a 71 los fallecidos y el país declara 'desastre nacional'",
+      "summary": "Un terremoto de magnitud 7,4 ha afectado a distintas zonas de Colombia, especialmente el eje cafetero",
+      "url": "https://www.lavanguardia.com/internacional/20260810/11611560/terremoto-colombia-ultima-hora-numero-desaparecidos-victimas-balance-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79ded7a0a37.jpeg",
+      "published_at": "2026-08-10T19:09:21+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "زمین‌لرزه در کلمبیا؛ شمار جان‌باختگان به ۷۱ نفر رسید",
+      "lead_fa": "زمین‌لرزه‌ای با مگیچود ۷.۴ مناطق مختلفی از کلمبیا، به‌ویژه منطقه قهوه را لرزاند. دولت این کشور وضعیت «فاجعه ملی» اعلام کرد.",
+      "key_points_fa": [
+        "زمین‌لرزه با بزرگی ۷.۴ مناطق مختلف کلمبیا را تحت تأثیر قرار داد.",
+        "شمار قربانیان تأییدشده به ۷۱ نفر افزایش یافت.",
+        "دولت کلمبیا به‌دلیل وسعت خسارت‌ها وضعیت فاجعه ملی اعلام کرد."
+      ],
+      "analysis_fa": "وقوع این زلزله شدید در مناطق مسکونی و اقتصادی کلمبیا چالشی جدی برای زیرساخت‌ها و بخش امدادرسانی این کشور ایجاد کرده است. تمرکز مقامات در حال حاضر بر مدیریت بحران و ارزیابی خسارت‌های دقیق در مناطق آسیب‌دیده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#زلزله",
+        "#کلمبیا",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "ffd2adeb1d1c",
       "source": "EL PAÍS",
       "title": "Última hora del terremoto en Colombia, en directo | Al menos 80 muertos por el terremoto de magnitud 7,4 en Colombia",
-      "summary": "El área metropolitana de Pereira concentra la mitad de los fallecidos | Una treintena de infraestructuras se derrumban en Cali con personas dentro y siete aeropuertos suspenden su actividad tras sufrir daños",
+      "summary": "El área metropolitana de Pereira concentra la mitad de los fallecidos y una treintena de infraestructuras se derrumban en Cali con personas dentro | Siete aeropuertos suspenden su actividad tras sufrir daños y el Gobierno declara el desastre nacional",
       "url": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/CGETGIA7CBHDBLUU3TX5RT3XCQ.JPG?auth=b8881989a2f4f1a31ff9c2bc986e220fbe424a2ee03e3649d150422575304f9c",
-      "published_at": "2026-08-10T17:29:23+00:00",
+      "published_at": "2026-08-10T18:18:37+00:00",
       "category": "sociedad",
       "priority": 84,
       "title_fa": "افزایش جان‌باختگان زلزله کلمبیا به ۲۲ نفر",
@@ -88,34 +116,6 @@
         "#اسپانیا",
         "#آتش‌سوزی_جنگلی",
         "#کاستلیون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6f2c9c1c32cb",
-      "source": "La Vanguardia",
-      "title": "El presidente de Ceuta pide al Gobierno un centro de internamiento para confinar y expulsar a los migrantes",
-      "summary": "Juan Jesús Vivas reclama un mando único al Ejecutivo para dar una respuesta urgente y eficaz a la “invasión”",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611396/presidente-ceuta-pide-gobierno-centro-internamiento-confinar-expulsar-inmigrantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c204b619f.r_d.452-652-0.jpeg",
-      "published_at": "2026-08-10T14:22:45+02:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "درخواست رئیس سئوتا برای ایجاد بازداشتگاه مهاجران",
-      "lead_fa": "رئیس دولت محلی سئوتا از دولت مرکزی خواست یک مرکز نگهداری برای محدود کردن و اخراج مهاجران ایجاد کند. او همچنین خواهان تعیین یک فرمانده واحد برای پاسخ فوری به این وضعیت شد.",
-      "key_points_fa": [
-        "درخواست خوان خِسوس ویواس از دولت مرکزی اسپانیا",
-        "تاکید بر لزوم ایجاد مرکز بازداشت و اخراج مهاجران",
-        "مطالبه تعیین فرمانده واحد برای پاسخگویی به وضعیت فعلی"
-      ],
-      "analysis_fa": "این درخواست بار دیگر چالش‌های مدیریت مهاجرت در شهرهای مرزی اسپانیا و فشار بر زیرساخت‌های محلی را برجسته می‌کند. بحث درباره نحوه برخورد با ورود مهاجران همواره موضوعی بحث‌برانگیز میان دولت‌های محلی و مرکزی در اسپانیا بوده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجران",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -233,31 +233,109 @@
       "editorial_version": 2
     },
     {
-      "id": "218041153f0e",
+      "id": "9a9a3ed702dc",
       "source": "La Vanguardia",
-      "title": "El Gobierno defiende su actuación en Ceuta ante el giro migratorio en el seno de la UE",
-      "summary": "Moncloa busca certificar la contención de la crisis fronteriza mientras se reactiva el debate europeo sobre la externalización de las repatriaciones",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611424/gobierno-defiende-actuacion-ceuta-giro-migratorio-seno-ue.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a799ad397bff.jpeg",
-      "published_at": "2026-08-10T15:12:40+02:00",
-      "category": "migracion",
-      "priority": 81,
-      "title_fa": "دفاع دولت اسپانیا از مدیریت بحران سبته در آستانه تحولات مهاجرتی اروپا",
-      "lead_fa": "دولت اسپانیا از عملکرد خود در مدیریت مرزهای سبته دفاع کرد. این اقدام همزمان با از سرگیری بحث‌های اتحادیه اروپا درباره برون‌سپاری اخراج مهاجران انجام شد.",
+      "title": "Así ha temblado el aeropuerto de Pereira durante el terremoto de magnitud 7,4 en Colombia",
+      "summary": "Siete aeródromos, incluido el de Pereira, han cerrado sus operaciones por los daños registrados en las terminales",
+      "url": "https://www.lavanguardia.com/internacional/20260810/11611565/asi-temnblado-aeopuerto-pereira-terremoto-magnitud-7-4-colombia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a7a0a093caf6.jpeg",
+      "published_at": "2026-08-10T19:17:11+02:00",
+      "category": "turismo",
+      "priority": 77,
+      "title_fa": "تعطیلی فرودگاه پریرا و شش فرودگاه دیگر در کلمبیا پس از زمین‌لرزه",
+      "lead_fa": "زمین‌لرزه ۷.۴ ریشتری در کلمبیا خساراتی به پایانه‌های هوایی وارد کرد. هفت فرودگاه از جمله فرودگاه پریرا موقتاً عملیات خود را متوقف کردند.",
       "key_points_fa": [
-        "تلاش مادرید برای اثبات مهار بحران مرزی سبته",
-        "بازگشت بحث‌های اروپایی درباره اخراج برون‌سپاری‌شده مهاجران"
+        "زمین‌لرزه قدرتمند ۷.۴ ریشتری در کلمبیا به وقوع پیوست.",
+        "هفت فرودگاه کشور به دلیل خسارات وارده به پایانه‌ها تعطیل شدند.",
+        "فرودگاه پریرا در میان مراکز آسیب‌دیده قرار دارد."
       ],
-      "analysis_fa": "دولت اسپانیا تلاش می‌کند با برجسته کردن ثبات در مرزهای سبته، موضع خود را در سیاست‌های مهاجرتی اتحادیه اروپا تقویت کند. در همین حال، باز شدن دوباره بحث‌های مربوط به برون‌سپاری اخراج‌ها می‌تواند رویکرد مشترک کشورهای عضو را تحت تأثیر قرار دهد.",
+      "analysis_fa": "این زمین‌لرزه زیرساخت‌های حمل‌ونقل هوایی کلمبیا را تحت تأثیر قرار داده و ارزیابی خسارات برای ازسرگیری ایمن پروازها در جریان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#کلمبیا",
+        "#زمین_لرزه",
+        "#فرودگاه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8796f5c8d534",
+      "source": "La Vanguardia",
+      "title": "Estabilizado el fuego de Tírig: la UME se desescala y se pone en guardia ante el eclipse",
+      "summary": "Emergencias cifra en 754 hectáreas la afectación del fuego con un perímetro de 22,8 kilómetros calcinados",
+      "url": "https://www.lavanguardia.com/local/valencia/20260810/11611532/estabilizado-fuego-tirig-ume-desescala-pone-guardia-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79f3156de5a.r_d.2732-2083-0.jpeg",
+      "published_at": "2026-08-10T18:07:42+02:00",
+      "category": "ciencia",
+      "priority": 77,
+      "title_fa": "مهار آتش‌سوزی در تیریک و آماده‌باش برای خورشیدگرفتگی",
+      "lead_fa": "آتش‌سوزی جنگلی در منطقه تیریک اسپانیا تثبیت و مهار شد. واحد اضطراری نظامی پس از سوختن ۷۵۴ هکتار منطقه را ترک کرد.",
+      "key_points_fa": [
+        "وسعت اراضی سوخته ۷۵۴ هکتار اعلام شد.",
+        "محیط آتش‌سوزی به ۲۲.۸ کیلومتر رسید.",
+        "واحد اضطراری نظامی (UME) پس از بهبود شرایط کاهش یافت."
+      ],
+      "analysis_fa": "کنترل این آتش‌سوزی پس از تلاش‌های گسترده امدادی انجام شد و هم‌زمان نیروها به دلیل رویداد طبیعی پیش‌رو در حالت آماده‌باش قرار گرفتند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
+        "#آتش‌سوزی",
+        "#حوادث"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6ec2ba41c85e",
+      "source": "EL PAÍS",
+      "title": "Al menos 80 muertos tras un terremoto de 7,4 en Colombia",
+      "summary": "Abelardo de la Espriella, que lleva tres días en la Presidencia, convoca a un Plan de Mando Unificado para coordinar la atención",
+      "url": "https://elpais.com/america-colombia/2026-08-10/un-fuerte-temblor-sacude-colombia.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203454_173149_video_1800.mp4",
+      "published_at": "2026-08-10T17:38:03+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "فراخوان برای ایجاد ستاد مدیریت بحران پس از زلزله ۷.۴ ریشتری",
+      "lead_fa": "زمین‌لرزه‌ای به بزرگی ۷.۴ ریشتر دست‌کم ۵۰ کشته برجا گذاشت. این زلزله که حدود چهار دقیقه طول کشید، ساعت ۷:۳۴ صبح رخ داد.",
+      "key_points_fa": [
+        "زمین‌لرزه با بزرگی ۷.۴ ریشتر ثبت شد.",
+        "شمار قربانیان دست‌کم ۵۰ نفر اعلام شده است.",
+        "مدت زمان لرزش حدود چهار دقیقه گزارش شد."
+      ],
+      "analysis_fa": "وقوع این زمین‌لرزه شدید و طولانی‌مدت ضرورت هماهنگی فوری نهادهای امدادی را برای کاهش تلفات و مدیریت بحران برجسته کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#زلزله",
+        "#اسپانیا",
+        "#مدیریت_بحران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1a76ae12484a",
+      "source": "EL PAÍS",
+      "title": "El terremoto en Colombia obliga a desalojar en directo el estudio de Radio Tropicana: ¡Salgamos, Dios mío, salgamos!",
+      "summary": "El equipo del programa intentó mantenerse en antena hasta que las sacudían a Cali les obligaron a interrumpir con la emisión",
+      "url": "https://elpais.com/videos/2026-08-10/el-terremoto-en-colombia-obliga-a-desalojar-en-directo-el-estudio-de-radio-tropicana-salgamos-dios-mio-salgamos.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203443_170629_video_1800.mp4",
+      "published_at": "2026-08-10T17:32:23+00:00",
+      "category": "deportes",
+      "priority": 77,
+      "title_fa": "El terremoto en Colombia obliga a desalojar en directo el estudio de Radio Tropicana: ¡Salgamos, Dios mío, salgamos!",
+      "lead_fa": "El equipo del programa intentó mantenerse en antena hasta que las sacudían a Cali les obligaron a interrumpir con la emisión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -321,7 +399,7 @@
       "id": "5116331fc3b2",
       "source": "EL PAÍS",
       "title": "Estados Unidos y México tienden la mano a Colombia y ofrecen enviar ayuda tras el terremoto",
-      "summary": "Marco Rubio y Claudia Sheinbaum se solidarizan con las víctimas del sismo de 7,4 que ha dejado al menos 25 fallecidos",
+      "summary": "Marco Rubio y Claudia Sheinbaum se solidarizan con las víctimas del sismo de 7,4 que ha dejado al menos 80 fallecidos",
       "url": "https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html",
       "image": "https://imagenes.elpais.com/resizer/v2/KH5BFDTENZHNHEHBEUR3NZWST4.JPG?auth=536b2581fc710252962fa1657d2d8b16768d24eaf3a7b9975aa49d16ea6804d2",
       "published_at": "2026-08-10T16:37:48+00:00",
@@ -342,34 +420,6 @@
         "#زلزله",
         "#آمریکا",
         "#مکزیک"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6ec2ba41c85e",
-      "source": "EL PAÍS",
-      "title": "Al menos 80 muertos tras un terremoto de 7,4 en Colombia",
-      "summary": "Abelardo de la Espriella, que lleva tres días en la presidencia, convoca a un Plan de Mando Unificado para coordinar la atención",
-      "url": "https://elpais.com/america-colombia/2026-08-10/un-fuerte-temblor-sacude-colombia.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203442_165943_video_1800.mp4",
-      "published_at": "2026-08-10T16:33:46+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "فراخوان برای ایجاد ستاد مدیریت بحران پس از زلزله ۷.۴ ریشتری",
-      "lead_fa": "زمین‌لرزه‌ای به بزرگی ۷.۴ ریشتر دست‌کم ۵۰ کشته برجا گذاشت. این زلزله که حدود چهار دقیقه طول کشید، ساعت ۷:۳۴ صبح رخ داد.",
-      "key_points_fa": [
-        "زمین‌لرزه با بزرگی ۷.۴ ریشتر ثبت شد.",
-        "شمار قربانیان دست‌کم ۵۰ نفر اعلام شده است.",
-        "مدت زمان لرزش حدود چهار دقیقه گزارش شد."
-      ],
-      "analysis_fa": "وقوع این زمین‌لرزه شدید و طولانی‌مدت ضرورت هماهنگی فوری نهادهای امدادی را برای کاهش تلفات و مدیریت بحران برجسته کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "breaking",
-      "hashtags_fa": [
-        "#زلزله",
-        "#اسپانیا",
-        "#مدیریت_بحران"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -403,31 +453,9 @@
       "editorial_version": 2
     },
     {
-      "id": "8f8cf1b1dc2a",
-      "source": "EL PAÍS",
-      "title": "Las primeras imágenes de rescates de afectados por el terremoto en medio de los escombros de Cali",
-      "summary": "Un sismo de 7.4 sacude Colombia, el movimiento ha durado unos cuatro minutos, tras iniciarse a las 7:34 de la mañana. Se conoce de 22 personas muertas",
-      "url": "https://elpais.com/america-colombia/2026-08-10/video-ciudadanos-inician-labores-de-rescate-en-medio-de-los-escombros-de-cali.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203402_151137_video_1800.mp4",
-      "published_at": "2026-08-10T15:10:06+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "Las primeras imágenes de rescates de afectados por el terremoto en medio de los escombros de Cali",
-      "lead_fa": "Un sismo de 7.4 sacude Colombia, el movimiento ha durado unos cuatro minutos, tras iniciarse a las 7:34 de la mañana. Se conoce de 22 personas muertas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ea23a1d214cc",
       "source": "La Vanguardia",
-      "title": "Al menos 70 muertos y edificios caídos tras un terremoto de 7,4 de magnitud en Colombia",
+      "title": "Colombia declara “desastre nacional” tras el terremoto de 7,4 que deja al menos 71 muertos",
       "summary": "‌El temblor se sintió en varias ciudades del ​país de 50 millones de habitantes, incluidas Cali, Quibdó, Pereira, Manizales y Bogotá y también en Panamá y Ecuador",
       "url": "https://www.lavanguardia.com/internacional/20260810/11611420/terremoto-colombia.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79dceb3822c.jpeg",
@@ -740,17 +768,39 @@
       "editorial_version": 2
     },
     {
-      "id": "3bbf64dd4b60",
-      "source": "La Vanguardia",
-      "title": "Marruecos exige el retorno de sus menores y responsabiliza a España de su situación",
-      "summary": "El ministro de Justicia alauí afirma que Rabat “reclamará a sus niños por la vía legal y política”",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611521/marruecos-exige-retorno-menores-responsabiliza-espana-situacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a787d1c0d097.r_d.2295-1015-0.jpeg",
-      "published_at": "2026-08-10T17:34:04+02:00",
+      "id": "8f8cf1b1dc2a",
+      "source": "EL PAÍS",
+      "title": "Las primeras imágenes de rescates de afectados por el terremoto en medio de los escombros de Cali",
+      "summary": "Un sismo de 7.4 sacude Colombia, el movimiento ha durado unos cuatro minutos, tras iniciarse a las 7:34 de la mañana. Se conoce de 22 personas muertas",
+      "url": "https://elpais.com/america-colombia/2026-08-10/video-ciudadanos-inician-labores-de-rescate-en-medio-de-los-escombros-de-cali.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203402_151137_video_1800.mp4",
+      "published_at": "2026-08-10T15:10:06+00:00",
+      "category": "sociedad",
+      "priority": 76,
+      "title_fa": "Las primeras imágenes de rescates de afectados por el terremoto en medio de los escombros de Cali",
+      "lead_fa": "Un sismo de 7.4 sacude Colombia, el movimiento ha durado unos cuatro minutos, tras iniciarse a las 7:34 de la mañana. Se conoce de 22 personas muertas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2ecc39357e65",
+      "source": "EL PAÍS",
+      "title": "El ministro Puente califica de “absoluta ignominia” que el Rey se haga una foto con Javier Negre",
+      "summary": "El Ministro de Transportes ha compartido un mensaje en X este lunes",
+      "url": "https://elpais.com/espana/2026-08-10/el-ministro-puente-califica-de-absoluta-ignominia-que-el-rey-se-haga-una-foto-con-javier-negre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XNRN3NFG5ZD5ZNVHR4X2NBO6PM.jpg?auth=361e6641725bb7e3ee6439b14a7796886e9daccb4aa009824b9cec7d8536f160",
+      "published_at": "2026-08-10T17:32:36+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Marruecos exige el retorno de sus menores y responsabiliza a España de su situación",
-      "lead_fa": "El ministro de Justicia alauí afirma que Rabat “reclamará a sus niños por la vía legal y política”",
+      "title_fa": "El ministro Puente califica de “absoluta ignominia” que el Rey se haga una foto con Javier Negre",
+      "lead_fa": "El Ministro de Transportes ha compartido un mensaje en X este lunes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -773,28 +823,6 @@
       "priority": 75,
       "title_fa": "Un hombre increpa a Bendodo en plena rueda de prensa del PP en Barcelona",
       "lead_fa": "Daniel Sirera consigue apartar al joven que, en catalán, acusaba al PP de hacer un discurso contra la inmigración",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c3a0c3db44ed",
-      "source": "La Vanguardia",
-      "title": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
-      "summary": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
-      "url": "https://www.lavanguardia.com/internacional/20260810/11611492/trump-sopesa-declarar-victoria-iran-alcanzar-acuerdo-nuclear-integral.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79e5432865a.jpeg",
-      "published_at": "2026-08-10T16:57:39+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
-      "lead_fa": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -831,36 +859,14 @@
       "id": "38bc329546e3",
       "source": "EL PAÍS",
       "title": "Un juzgado de Madrid estudia cinco denuncias por la compra del ático del Gobierno de Ayuso",
-      "summary": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europea",
+      "summary": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europa",
       "url": "https://elpais.com/espana/madrid/2026-08-10/un-juzgado-de-madrid-investiga-ya-la-compra-del-atico-del-gobierno-de-ayuso.html",
       "image": "https://imagenes.elpais.com/resizer/v2/RNNL2BGSWFCX5CSB2ANE6L7Y5Y.JPG?auth=764d46d422b9fe954b96a1aa18fac6d6543433156e002c484f34903d3e875086",
       "published_at": "2026-08-10T15:36:43+00:00",
       "category": "politica",
       "priority": 75,
       "title_fa": "Un juzgado de Madrid estudia cinco denuncias por la compra del ático del Gobierno de Ayuso",
-      "lead_fa": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europea",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7e3e5d31cd65",
-      "source": "EL PAÍS",
-      "title": "Vicente Fox: “A la gente hay que darle preparación, no dinero para que esté de huevón”",
-      "summary": "El expresidente de México aplaude el viraje de América Latina a la derecha más radical y afirma que hay un hartazgo hacia las políticas de izquierdas",
-      "url": "https://elpais.com/mexico/2026-08-10/vicente-fox-a-la-gente-hay-que-darle-preparacion-no-dinero-para-que-este-de-huevon.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260809/1203210_193052_video_1800.mp4",
-      "published_at": "2026-08-10T14:57:41+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Vicente Fox: “A la gente hay que darle preparación, no dinero para que esté de huevón”",
-      "lead_fa": "El expresidente de México aplaude el viraje de América Latina a la derecha más radical y afirma que hay un hartazgo hacia las políticas de izquierdas",
+      "lead_fa": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -883,6 +889,28 @@
       "priority": 75,
       "title_fa": "Precauciones sobre el eclipse, la victoria de Demi Vollering y protestas en Sri Lanka; entre otras imágenes del día",
       "lead_fa": "El fuego sigue marcando la jornada a nivel mundial: mientras los medios aéreos intentan extinguir el incendio forestal de Tírig (Castellón), los bomberos continúan luchando contra las llamas en Kouvaras, al sur de Atenas. En Ceuta, multitud de menores esperan ante la Jefatura Superior de la Policía Nacional para ser identificados.",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c3a0c3db44ed",
+      "source": "La Vanguardia",
+      "title": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
+      "summary": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
+      "url": "https://www.lavanguardia.com/internacional/20260810/11611492/trump-sopesa-declarar-victoria-iran-alcanzar-acuerdo-nuclear-integral.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79e5432865a.jpeg",
+      "published_at": "2026-08-10T16:57:39+02:00",
+      "category": "politica",
+      "priority": 74,
+      "title_fa": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
+      "lead_fa": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1001,28 +1029,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5cf57b65933c",
-      "source": "La Vanguardia",
-      "title": "Italia pide a España que “asuma sus responsabilidades” tras la regularización de inmigrantes",
-      "summary": "El viceministro de Asuntos Exteriores insiste en que mantendrán los controles a los pasajeros procedentes de España por vía aérea y marítima “al menos hasta mediados de agosto”",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611064/italia-pide-espana-asuma-responsabilidades-regularizacion-inmigrantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a799e4856a4a.jpeg",
-      "published_at": "2026-08-10T11:48:17+02:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Italia pide a España que “asuma sus responsabilidades” tras la regularización de inmigrantes",
-      "lead_fa": "El viceministro de Asuntos Exteriores insiste en que mantendrán los controles a los pasajeros procedentes de España por vía aérea y marítima “al menos hasta mediados de agosto”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9d0379939225",
       "source": "EL PAÍS Economía",
       "title": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
@@ -1106,28 +1112,6 @@
         "#صادرات"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "617625bff79c",
-      "source": "La Vanguardia",
-      "title": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación en terceros países",
-      "summary": "Las primeras ministras Giorgia Meloni y Mette Frederiksen se alían para defender “los valores de Europa”",
-      "url": "https://www.lavanguardia.com/internacional/20260810/11610972/italia-dinamarca-rechazan-inmigracion-descontrolada-piden-centros-repatriacion-terceros-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79894f61dc1.jpeg",
-      "published_at": "2026-08-10T09:17:22+02:00",
-      "category": "migracion",
-      "priority": 72,
-      "title_fa": "Italia y Dinamarca rechazan “la inmigración descontrolada” y piden centros de repatriación en terceros países",
-      "lead_fa": "Las primeras ministras Giorgia Meloni y Mette Frederiksen se alían para defender “los valores de Europa”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1269,72 +1253,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5608f95643a4",
-      "source": "EL PAÍS Economía",
-      "title": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
-      "summary": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/mas-alla-del-furor-por-el-eclipse-la-inversion-espacial-rinde-el-30-en-2026-con-sus-promesas-lunaticas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Y2R4BUKR6BAMHPM5JRL52HOWBQ.jpg?auth=27dee3517fdcad08873eae2c3e46a36396b78acc2dd5f37cf4f4c7811f8d5d5d",
-      "published_at": "2026-08-10T03:25:00+00:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
-      "lead_fa": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a17281b91df7",
-      "source": "EL PAÍS Economía",
-      "title": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
-      "summary": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/un-tribunal-de-munich-admite-la-demanda-de-un-accionista-minoritario-contra-telefonica-alemania.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MKRB3C3F6FCCPBROTG4FYHBQCA.jpg?auth=de92ac334602650cfbf9d7c0ffb9da45473a905579cb89226f9463b1bcdf2446",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "politica",
-      "priority": 71,
-      "title_fa": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
-      "lead_fa": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3c8b51c3f954",
-      "source": "EL PAÍS Economía",
-      "title": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
-      "summary": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RY3EMYAX2NBKZAMRQQY3QHTF7M.jpg?auth=e8ba6336e0c85bea68a091c21fd327fe30f270cc0a8e8d984d60ff86f8fa1ab4",
-      "published_at": "2026-08-10T03:15:00+00:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
-      "lead_fa": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ac53306b3572",
       "source": "La Vanguardia",
       "title": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
@@ -1401,17 +1319,61 @@
       "editorial_version": 2
     },
     {
-      "id": "44b8c0adf466",
-      "source": "EL PAÍS",
-      "title": "El mapa corporal más detallado de las cosquillas da la razón a Darwin: las sentimos más donde menos las esperamos",
-      "summary": "Un estudio revela que esta experiencia sensorial es igual en distintas culturas, ya que comparten los mismos puntos sensibles, que son distintos de los de otras sensaciones como el dolor o el placer",
-      "url": "https://elpais.com/ciencia/2026-08-10/el-mapa-corporal-mas-detallado-de-las-cosquillas-da-la-razon-a-darwin-las-sentimos-mas-donde-menos-las-esperamos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/W6VWYNLPIZCHRKDXCPT2WRKY6A.jpg?auth=b5e2e7b89a61ce3231a286c15009af6dded9b3f992206be33d32c1116476a5df",
-      "published_at": "2026-08-10T15:00:06+00:00",
-      "category": "cultura",
+      "id": "5608f95643a4",
+      "source": "EL PAÍS Economía",
+      "title": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
+      "summary": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-10/mas-alla-del-furor-por-el-eclipse-la-inversion-espacial-rinde-el-30-en-2026-con-sus-promesas-lunaticas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y2R4BUKR6BAMHPM5JRL52HOWBQ.jpg?auth=27dee3517fdcad08873eae2c3e46a36396b78acc2dd5f37cf4f4c7811f8d5d5d",
+      "published_at": "2026-08-10T03:25:00+00:00",
+      "category": "economia",
       "priority": 70,
-      "title_fa": "El mapa corporal más detallado de las cosquillas da la razón a Darwin: las sentimos más donde menos las esperamos",
-      "lead_fa": "Un estudio revela que esta experiencia sensorial es igual en distintas culturas, ya que comparten los mismos puntos sensibles, que son distintos de los de otras sensaciones como el dolor o el placer",
+      "title_fa": "Más allá del furor por el eclipse: la inversión espacial rinde el 30% en 2026 con sus promesas lunáticas",
+      "lead_fa": "La industria liderada por SpaceX abarca desde gigantes de la defensa hasta telecos innovadoras e incluso una empresa dedicada a eclipsar el Sol",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a17281b91df7",
+      "source": "EL PAÍS Economía",
+      "title": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "summary": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/un-tribunal-de-munich-admite-la-demanda-de-un-accionista-minoritario-contra-telefonica-alemania.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MKRB3C3F6FCCPBROTG4FYHBQCA.jpg?auth=de92ac334602650cfbf9d7c0ffb9da45473a905579cb89226f9463b1bcdf2446",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "Un tribunal de Múnich admite la demanda de un accionista minoritario contra Telefónica Alemania",
+      "lead_fa": "El fondo Mainberg Asset Management reclama información sobre el ‘cash pooling’, el sistema por el que el grupo centraliza la liquidez de sus filiales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3c8b51c3f954",
+      "source": "EL PAÍS Economía",
+      "title": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
+      "summary": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/el-ecosistema-de-startups-de-la-aviacion-sigue-confiando-en-el-avion-electrico-o-a-hidrogeno.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RY3EMYAX2NBKZAMRQQY3QHTF7M.jpg?auth=e8ba6336e0c85bea68a091c21fd327fe30f270cc0a8e8d984d60ff86f8fa1ab4",
+      "published_at": "2026-08-10T03:15:00+00:00",
+      "category": "economia",
+      "priority": 70,
+      "title_fa": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
+      "lead_fa": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1478,39 +1440,17 @@
       "editorial_version": 2
     },
     {
-      "id": "2b340c34df25",
-      "source": "La Vanguardia",
-      "title": "Un turista desencadena un brote de sarampión en Mallorca y se teme una cadena de contagios",
-      "summary": "El primer afectado, un menor de edad, fue atendido de urgencias en un hospital de la Isla",
-      "url": "https://www.lavanguardia.com/local/baleares/20260810/11611399/turista-desencadena-brote-sarampion-mallorca-teme-cadena-contagios.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/03/26/5fa8fd6eb774d.jpeg",
-      "published_at": "2026-08-10T14:28:18+02:00",
-      "category": "turismo",
+      "id": "44b8c0adf466",
+      "source": "EL PAÍS",
+      "title": "El mapa corporal más detallado de las cosquillas da la razón a Darwin: las sentimos más donde menos las esperamos",
+      "summary": "Un estudio revela que esta experiencia sensorial es igual en distintas culturas, ya que comparten los mismos puntos sensibles, que son distintos de los de otras sensaciones como el dolor o el placer",
+      "url": "https://elpais.com/ciencia/2026-08-10/el-mapa-corporal-mas-detallado-de-las-cosquillas-da-la-razon-a-darwin-las-sentimos-mas-donde-menos-las-esperamos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/W6VWYNLPIZCHRKDXCPT2WRKY6A.jpg?auth=b5e2e7b89a61ce3231a286c15009af6dded9b3f992206be33d32c1116476a5df",
+      "published_at": "2026-08-10T15:00:06+00:00",
+      "category": "cultura",
       "priority": 69,
-      "title_fa": "Un turista desencadena un brote de sarampión en Mallorca y se teme una cadena de contagios",
-      "lead_fa": "El primer afectado, un menor de edad, fue atendido de urgencias en un hospital de la Isla",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5f7c09dd4127",
-      "source": "La Vanguardia",
-      "title": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
-      "summary": "La Guardia Civil continúa con la investigación para reconstruir los hechos ocurridos la noche del sábado",
-      "url": "https://www.lavanguardia.com/politica/20260810/11611389/detenidos-hija-pareja-muerte-exsecretario-uaga-aragon-mujer.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-10T14:20:17+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
-      "lead_fa": "La Guardia Civil continúa con la investigación para reconstruir los hechos ocurridos la noche del sábado",
+      "title_fa": "El mapa corporal más detallado de las cosquillas da la razón a Darwin: las sentimos más donde menos las esperamos",
+      "lead_fa": "Un estudio revela que esta experiencia sensorial es igual en distintas culturas, ya que comparten los mismos puntos sensibles, que son distintos de los de otras sensaciones como el dolor o el placer",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1632,17 +1572,17 @@
       "editorial_version": 2
     },
     {
-      "id": "3ba01efc3383",
-      "source": "EL PAÍS",
-      "title": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
-      "summary": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
-      "url": "https://elpais.com/sociedad/2026-08-10/consumo-retira-seis-modelos-de-gafas-para-el-eclipse-por-riesgo-de-lesiones-oculares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KPI6S45NCFEARBA7OGHFWB7SGI.jpg?auth=57c92619444cf1b85da708f7dbb409ebf74973863fbf52e25b07a72c2d68a929",
-      "published_at": "2026-08-10T12:11:32+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
-      "lead_fa": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
+      "id": "2b340c34df25",
+      "source": "La Vanguardia",
+      "title": "Un turista desencadena un brote de sarampión en Mallorca y se teme una cadena de contagios",
+      "summary": "El primer afectado, un menor de edad, fue atendido de urgencias en un hospital de la Isla",
+      "url": "https://www.lavanguardia.com/local/baleares/20260810/11611399/turista-desencadena-brote-sarampion-mallorca-teme-cadena-contagios.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/03/26/5fa8fd6eb774d.jpeg",
+      "published_at": "2026-08-10T14:28:18+02:00",
+      "category": "turismo",
+      "priority": 68,
+      "title_fa": "Un turista desencadena un brote de sarampión en Mallorca y se teme una cadena de contagios",
+      "lead_fa": "El primer afectado, un menor de edad, fue atendido de urgencias en un hospital de la Isla",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1654,17 +1594,17 @@
       "editorial_version": 2
     },
     {
-      "id": "6db3e7af68cd",
-      "source": "EL PAÍS España",
-      "title": "La libertad de quedarse",
-      "summary": "No hay ninguna valla más alta que la desesperación",
-      "url": "https://elpais.com/espana/2026-08-10/la-libertad-de-quedarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZV3FZ5DMLNCBLF5DUODN6PXWTU.jpg?auth=686485101547c2e22688741361f1f6a74027b39ec83afb4b5f7f1f0bc4f47eb4",
-      "published_at": "2026-08-10T11:46:02+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La libertad de quedarse",
-      "lead_fa": "No hay ninguna valla más alta que la desesperación",
+      "id": "5f7c09dd4127",
+      "source": "La Vanguardia",
+      "title": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
+      "summary": "La Guardia Civil continúa con la investigación para reconstruir los hechos ocurridos la noche del sábado",
+      "url": "https://www.lavanguardia.com/politica/20260810/11611389/detenidos-hija-pareja-muerte-exsecretario-uaga-aragon-mujer.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-10T14:20:17+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
+      "lead_fa": "La Guardia Civil continúa con la investigación para reconstruir los hechos ocurridos la noche del sábado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1720,6 +1660,28 @@
       "editorial_version": 2
     },
     {
+      "id": "3ba01efc3383",
+      "source": "EL PAÍS",
+      "title": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
+      "summary": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
+      "url": "https://elpais.com/sociedad/2026-08-10/consumo-retira-seis-modelos-de-gafas-para-el-eclipse-por-riesgo-de-lesiones-oculares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KPI6S45NCFEARBA7OGHFWB7SGI.jpg?auth=57c92619444cf1b85da708f7dbb409ebf74973863fbf52e25b07a72c2d68a929",
+      "published_at": "2026-08-10T12:11:32+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
+      "lead_fa": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "793a7c13dbff",
       "source": "La Vanguardia",
       "title": "La falsa boda de Cristiano Ronaldo y Georgina Rodríguez provoca el caos en Madeira: la reacción del futbolista ante las 2.000 personas que colapsaron la catedral",
@@ -1753,6 +1715,50 @@
       "priority": 68,
       "title_fa": "La Aemet pronostica mucho calor y pocas nubes para la llegada del eclipse total a España",
       "lead_fa": "A la hora del eclipse, las temperaturas habrán bajado entre 2 y 5 grados con respecto a las máximas previstas, aunque el efecto será prácticamente imperceptible",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "433e52827e1b",
+      "source": "La Vanguardia",
+      "title": "Once años de prisión por violar a una menor en València y amenazarla con divulgar imágenes",
+      "summary": "El condenado aprovechó que era amigo de sus padres para abusar de la chica en su propio domicilio",
+      "url": "https://www.lavanguardia.com/local/valencia/20260810/11611062/once-anos-prision-violar-menor-valencia-amenazarla-divulgar-imagenes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/16/68267aea4120b.jpeg",
+      "published_at": "2026-08-10T11:47:04+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Once años de prisión por violar a una menor en València y amenazarla con divulgar imágenes",
+      "lead_fa": "El condenado aprovechó que era amigo de sus padres para abusar de la chica en su propio domicilio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6db3e7af68cd",
+      "source": "EL PAÍS España",
+      "title": "La libertad de quedarse",
+      "summary": "No hay ninguna valla más alta que la desesperación",
+      "url": "https://elpais.com/espana/2026-08-10/la-libertad-de-quedarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZV3FZ5DMLNCBLF5DUODN6PXWTU.jpg?auth=686485101547c2e22688741361f1f6a74027b39ec83afb4b5f7f1f0bc4f47eb4",
+      "published_at": "2026-08-10T11:46:02+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La libertad de quedarse",
+      "lead_fa": "No hay ninguna valla más alta que la desesperación",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1808,28 +1814,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b32bcf3d6fa6",
-      "source": "EL PAÍS",
-      "title": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
-      "summary": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
-      "url": "https://elpais.com/internacional/2026-08-10/el-tifon-dolphin-obliga-a-evacuar-a-mas-de-un-millon-de-personas-en-china.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203288_081946_video_1800.mp4",
-      "published_at": "2026-08-10T09:11:00+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "El tifón ‘Dolphin’ obliga a evacuar a más de un millón de personas en China",
-      "lead_fa": "El ciclón tropical deja lluvias de una intensidad inédita en más de siglo y medio de registros meteorológicos en Shanghái",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "52fe12bea438",
       "source": "EL PAÍS Economía",
       "title": "El arrollamiento mortal de una persona en Talavera de la Reina provoca el corte de la línea de tren Madrid-Extremadura",
@@ -1855,6 +1839,28 @@
         "#حوادث"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "81b4c23a4f85",
+      "source": "La Vanguardia",
+      "title": "Los Mossos detectan un repunte del tráfico de animales en la AP-7",
+      "summary": "La mayoría son perros que vienen de países del este y el beneficio para las mafias se puede multiplicar por veinte",
+      "url": "https://www.lavanguardia.com/local/girona/20260810/11610992/mossos-detectan-repunte-trafico-animales-ap-7.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79837b0757a.jpeg",
+      "published_at": "2026-08-10T09:58:04+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Los Mossos detectan un repunte del tráfico de animales en la AP-7",
+      "lead_fa": "La mayoría son perros que vienen de países del este y el beneficio para las mafias se puede multiplicar por veinte",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2306,7 +2312,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QP5JOG47CJE2ZPCAUVSJBX5MMM.jpg?auth=bc24430f56840b86d037c7872269ee16cf95f7500a9369e5c8e231ce431ede5a",
       "published_at": "2026-08-10T03:25:00+00:00",
       "category": "ciencia",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Morante y la gestión ‘value’",
       "lead_fa": "Invertir hoy en Estados Unidos, en tecnología o en las siete magníficas, no es lo más prudente",
       "key_points_fa": [],
@@ -2328,7 +2334,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/5UINOMRKEKQXTW6SPB4DICCKIY.jpg?auth=3c513c7fc19c40c0eb63b26d7a2fae136e9bdb8d48c0eb831d62e46bfce52604",
       "published_at": "2026-08-10T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York",
       "lead_fa": "El fondo norteamericano aguarda a que la justicia resuelva definitivamente su solicitud de protección para no entregar toda la documentación reclamada por la farmacéutica",
       "key_points_fa": [],
@@ -2350,7 +2356,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FSECU56OMVEHLLUVXLMADQPHBU.png?auth=a44b0ec12d289e113bc0e852c7574ad45740f45a8e1104e71561160d89e998a7",
       "published_at": "2026-08-10T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Merlin arrancará este otoño en Extremadura las obras de su mayor centro de datos",
       "lead_fa": "La inmobiliaria está a la espera de la licencia para arrancar la primera fase de la infraestructura de Navalmoral, que tendrá 1,4 GW de capacidad y supondrá 14.000 millones de inversión",
       "key_points_fa": [],
@@ -2459,7 +2465,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 155
+      "count": 156
     },
     {
       "source": "EL PAÍS España",
@@ -2474,7 +2480,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 144
+      "count": 141
     }
   ]
 }
