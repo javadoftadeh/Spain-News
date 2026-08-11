@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T19:42:20.409558+00:00",
+  "generated_at": "2026-08-11T20:24:17.774852+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "973075b8642d",
-    "0eba5cfdc73d",
+    "b3629f4e428d",
     "12222092b708",
     "a015e82f6e5f",
     "6aae1102b58e"
@@ -37,30 +37,29 @@
       "editorial_version": 2
     },
     {
-      "id": "0eba5cfdc73d",
+      "id": "b3629f4e428d",
       "source": "EL PAÍS",
-      "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo en Colombia de magnitud 7,4",
-      "summary": "El presidente de El Salvador dice que Colombia no necesita de momento equipos de rescate | Exteriores informa de que hay 164 españoles sin localizar tras el siniestro",
-      "url": "https://elpais.com/america-colombia/2026-08-11/ultima-hora-del-terremoto-en-colombia-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/G7X2T3SV2BFW3DNXVAYMPINNDY.jpg?auth=96ba9ca9321f5006920ffcf27b64bea02bef99dc75da6e23bb79b362ee3716b5",
-      "published_at": "2026-08-11T19:18:34+00:00",
+      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
+      "summary": "El sismo de magnitud 7,4 deja más de dos centenares de muertos en un país que lanza un despliegue urgente de bomberos, militares y vecinos",
+      "url": "https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203785_184507_video_1800.mp4",
+      "published_at": "2026-08-11T20:13:27+00:00",
       "category": "sociedad",
       "priority": 84,
-      "title_fa": "افزایش جان‌باختگان زمین‌لرزه کلمبیا و بی‌سرنوشتی شهروندان اسپانیایی",
-      "lead_fa": "شمار قربانیان زمین‌لرزه ۷.۴ ریشتری در کلمبیا به ۲۲۴ نفر افزایش یافت. وزارت خارجه اسپانیا از بی‌سرنوشتی ۱۶۴ شهروند این کشور خبر داد.",
+      "title_fa": "تلاش کلمبیا برای نجات بازماندگان زلزله مرگبار",
+      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۷.۴ بیش از ۲۰۰ کشته در کلمبیا بر جای گذاشت. نیروهای امدادی، نظامیان و مردم برای یافتن بازماندگان به مناطق آسیب‌دیده اعزام شدند.",
       "key_points_fa": [
-        "ثبت زمین‌لرزه با بزرگای ۷.۴ در کلمبیا",
-        "افزایش شمار جان‌باختگان به ۲۲۴ نفر",
-        "نامشخص بودن وضعیت ۱۶۴ تبعه اسپانیایی",
-        "ثبت ۴۷ پس‌لرزه توسط مرکز زمین‌شناسی کلمبیا"
+        "وقوع زمین‌لرزه با قدرت ۷.۴ ریشتر در کلمبیا.",
+        "افزایش شمار قربانیان به بیش از دویست نفر.",
+        "بسیج فوری آتش‌نشانان، ارتش و شهروندان برای عملیات امداد و نجات."
       ],
-      "analysis_fa": "این زمین‌لرزه شدید خسارات گسترده‌ای در کلمبیا به بار آورده و تلاش امدادگران برای یافتن افراد مفقود شده، از جمله اتباع خارجی، ادامه دارد.",
+      "analysis_fa": "این زمین‌لرزه سنگین زیرساخت‌های مناطق آسیب‌دیده را به شدت تحت تأثیر قرار داده و دولت را ناچار به واکنش فوری کرده است. تمرکز اصلی بر نجات افراد گرفتار در آوار است، اما ابعاد خسارات نشان می‌دهد که روند امدادرسانی با چالش‌های بزرگی روبه‌روست.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "breaking",
       "hashtags_fa": [
+        "#زلزله",
         "#کلمبیا",
-        "#زمین_لرزه",
-        "#اسپانیا"
+        "#امداد_و_نجات"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -381,35 +380,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8a1faa302e3d",
-      "source": "EL PAÍS",
-      "title": "Cali pasa la primera noche después del terremoto: “¿Qué viene después de esto?”",
-      "summary": "En medio de la incertidumbre, la ciudad se organiza: los vecinos llegan hasta las zonas afectadas y forman cadenas humanas para retirar escombros y apoyar a los rescatistas",
-      "url": "https://elpais.com/america-colombia/2026-08-11/cali-pasa-la-primera-noche-despues-del-terremoto-que-viene-despues-de-esto.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203562_070255_video_1800.mp4",
-      "published_at": "2026-08-11T04:00:00+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "کالی در شوک پس‌لرزه: شب اول زلزله و همبستگی شهروندان",
-      "lead_fa": "شهر کالی اولین شب پس از وقوع زمین‌لرزه را در میان ابهام و نگرانی سپری کرد. شهروندان برای آواربرداری و کمک به امدادگران دست‌به‌کار شدند.",
-      "key_points_fa": [
-        "سازماندهی مردمی برای تشکیل زنجیره‌های انسانی جهت آواربرداری",
-        "حضور ساکنان در مناطق آسیب‌دیده برای حمایت از تیم‌های امداد و نجات",
-        "فضایی از بلاتکلیفی و پرسش درباره آینده در میان شهروندان"
-      ],
-      "analysis_fa": "وقوع این زمین‌لرزه و واکنش سریع مردمی نشان‌دهنده شکنندگی زیرساخت‌ها در برابر حوادث طبیعی و همزمان اهمیت همبستگی اجتماعی در ساعات اولیه بحران است. چالش اصلی مقامات در روزهای آینده مدیریت بحران، اسکان اضطراری و ارزیابی خسارات خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#زلزله",
-        "#کالی",
-        "#اسپانیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9a9a3ed702dc",
       "source": "La Vanguardia",
       "title": "Así ha temblado el aeropuerto de Pereira durante el terremoto de magnitud 7,4 en Colombia",
@@ -497,11 +467,11 @@
     {
       "id": "1ab948e07bff",
       "source": "EL PAÍS",
-      "title": "Rafa Jódar - Arthur Fils en directo | Se suspende el partido temporalmente por las lluvias en Canadá",
+      "title": "Rafa Jódar - Arthur Fils en directo | Se reanuda el partido tras las lluvias en Canadá",
       "summary": "Jódar se enfrenta al francés Arthur Fils, su verdugo en el Conde Godó de Barcelona",
       "url": "https://elpais.com/deportes/tenis/2026-08-11/rafa-jodar-arthur-fils-en-directo-los-cuartos-del-masters-1000-de-canada-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/RWOF7VQKRFK5HPG23J6XDDZCUA.jpg?auth=a0b0fbc3aeffcf35311d2522b35e0f5c282d174bd14690bb313e139f59e0b949",
-      "published_at": "2026-08-11T19:06:25+00:00",
+      "published_at": "2026-08-11T20:20:44+00:00",
       "category": "deportes",
       "priority": 75,
       "title_fa": "تعلیق موقت مسابقه تنیس رافا خودار و آرتور فیلس به دلیل بارندگی در کانادا",
@@ -1042,18 +1012,24 @@
       "url": "https://www.lavanguardia.com/vida/20260811/11611777/detienen-hombre-episodio-violencia-genero-mujer-muerto.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a745138a50c7.jpeg",
       "published_at": "2026-08-11T08:43:06+02:00",
-      "category": "economia",
+      "category": "sociedad",
       "priority": 71,
-      "title_fa": "Detenido por matar a puñaladas a su pareja, una mujer trans de 35 años, en Marbella",
-      "lead_fa": "El hombre de 59 años detenido este lunes confesó el crimen a la llegada de los agentes a la vivienda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازداشت مرد ۵۹ ساله در ماربلا به اتهام قتل شریک زندگی‌اش",
+      "lead_fa": "مردی ۵۹ ساله در ماربلا پس از اعتراف به قتل شریک زندگی ۳۵ ساله‌اش بازداشت شد. مأموران پلیس پس از حضور در محل، این جنایت را تأیید کردند.",
+      "key_points_fa": [
+        "مقتول زنی ترنس و ۳۵ ساله بوده است.",
+        "فرد مظنون ۵۹ ساله است و به جرم خود اعتراف کرده است.",
+        "این رویداد روز دوشنبه در محل سکونت مشترک رخ داده است."
+      ],
+      "analysis_fa": "این پرونده نمونه‌ای دیگر از خشونت خانگی است که نهادهای امنیتی اسپانیا را درگیر کرده و بررسی ابعاد دقیق آن توسط مراجع قضایی در جریان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث",
+        "#ماربلا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1111,7 +1087,7 @@
       "id": "18d1bf12e8ea",
       "source": "La Vanguardia",
       "title": "Luca Hoek derriba un muro con un récord estratosférico en 100 m libre y huele a medalla",
-      "summary": "El joven nadador de Sitges, de 19 años, se codeó con David Popovici en las semifinales de los 100 libre y pasó segundo con 47s26, una marca de nivel de final olímpica y cinco décimas mejor que su plusmarca",
+      "summary": "El joven nadador de Sitges, de 18 años, se codeó con David Popovici en las semifinales de los 100 libre y pasó segundo con 47s26, una marca de nivel de final olímpica y cinco décimas mejor que su plusmarca",
       "url": "https://www.lavanguardia.com/deportes/natacion/20260811/11612194/estella-tonrath-le-falta-aceleron-cazar-bronce-europeo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b61d45d118.r_d.319-1034-0.jpeg",
       "published_at": "2026-08-11T18:54:31+02:00",
@@ -1147,50 +1123,6 @@
       "priority": 70,
       "title_fa": "eToro compra TradeZero por 231 millones para ampliar su negocio a Estados Unidos",
       "lead_fa": "La plataforma de inversión redujo sus ingresos un 23% por el peor comportamiento de su negocio de criptomonedas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bc451d426b6f",
-      "source": "EL PAÍS",
-      "title": "Rusia libera al exmarine estadounidense Robert Gilman tras cuatro años de prisión",
-      "summary": "El militar fue detenido por golpear a un policía ruso en un viaje de tren. Será trasladado a Estados Unidos para recibir atención médica después de que Putin aprobara el indulto por “motivos humanitarios”",
-      "url": "https://elpais.com/internacional/2026-08-11/rusia-libera-al-exmarine-estadounidense-robert-gilman-tras-cuatro-anos-de-prision.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7M5RUVQBOFIVBO23NGMXE4GRU4.jpg?auth=70941826b7e5b768042c9244068b6bc03c3f2cf023e696456f53d498739cf76d",
-      "published_at": "2026-08-11T16:47:45+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Rusia libera al exmarine estadounidense Robert Gilman tras cuatro años de prisión",
-      "lead_fa": "El militar fue detenido por golpear a un policía ruso en un viaje de tren. Será trasladado a Estados Unidos para recibir atención médica después de que Putin aprobara el indulto por “motivos humanitarios”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1d4054147c58",
-      "source": "EL PAÍS",
-      "title": "EE UU dispara contra un barco de Panamá por tratar de saltarse el bloqueo de los puertos iraníes decretado por Trump",
-      "summary": "Tras el fracaso de las conversaciones de paz, la estrategia de Washington pasa por la asfixia económica de Teherán",
-      "url": "https://elpais.com/internacional/2026-08-11/ee-uu-dispara-contra-un-barco-de-panama-por-tratar-de-saltarse-el-bloqueo-de-los-puertos-iranies-decretado-por-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6GDODKDWNFGKTCALCBQSMLOIBI.jpg?auth=e4eb2b40082affafa058a8be235038d049a0d1c054959b9f480c7508f73d50ce",
-      "published_at": "2026-08-11T16:44:00+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "EE UU dispara contra un barco de Panamá por tratar de saltarse el bloqueo de los puertos iraníes decretado por Trump",
-      "lead_fa": "Tras el fracaso de las conversaciones de paz, la estrategia de Washington pasa por la asfixia económica de Teherán",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1268,6 +1200,50 @@
       "editorial_version": 2
     },
     {
+      "id": "bc451d426b6f",
+      "source": "EL PAÍS",
+      "title": "Rusia libera al exmarine estadounidense Robert Gilman tras cuatro años de prisión",
+      "summary": "El militar fue detenido por golpear a un policía ruso en un viaje de tren. Será trasladado a Estados Unidos para recibir atención médica después de que Putin aprobara el indulto por “motivos humanitarios”",
+      "url": "https://elpais.com/internacional/2026-08-11/rusia-libera-al-exmarine-estadounidense-robert-gilman-tras-cuatro-anos-de-prision.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7M5RUVQBOFIVBO23NGMXE4GRU4.jpg?auth=70941826b7e5b768042c9244068b6bc03c3f2cf023e696456f53d498739cf76d",
+      "published_at": "2026-08-11T16:47:45+00:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Rusia libera al exmarine estadounidense Robert Gilman tras cuatro años de prisión",
+      "lead_fa": "El militar fue detenido por golpear a un policía ruso en un viaje de tren. Será trasladado a Estados Unidos para recibir atención médica después de que Putin aprobara el indulto por “motivos humanitarios”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1d4054147c58",
+      "source": "EL PAÍS",
+      "title": "EE UU dispara contra un barco de Panamá por tratar de saltarse el bloqueo de los puertos iraníes decretado por Trump",
+      "summary": "Tras el fracaso de las conversaciones de paz, la estrategia de Washington pasa por la asfixia económica de Teherán",
+      "url": "https://elpais.com/internacional/2026-08-11/ee-uu-dispara-contra-un-barco-de-panama-por-tratar-de-saltarse-el-bloqueo-de-los-puertos-iranies-decretado-por-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6GDODKDWNFGKTCALCBQSMLOIBI.jpg?auth=e4eb2b40082affafa058a8be235038d049a0d1c054959b9f480c7508f73d50ce",
+      "published_at": "2026-08-11T16:44:00+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "EE UU dispara contra un barco de Panamá por tratar de saltarse el bloqueo de los puertos iraníes decretado por Trump",
+      "lead_fa": "Tras el fracaso de las conversaciones de paz, la estrategia de Washington pasa por la asfixia económica de Teherán",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "aead56f5ee28",
       "source": "La Vanguardia",
       "title": "Cuidado con Brad Pitt",
@@ -1290,28 +1266,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7e2059ecb399",
-      "source": "La Vanguardia",
-      "title": "Bardghji tiene el cruzado roto y se perderá toda la temporada",
-      "summary": "El extremo sueco pasará por el quirófano en los próximo días por esta grave lesión",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260811/11612110/roony-lesion-ligamento-cruzado-rodilla-derecha.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54ce38ae843.jpeg",
-      "published_at": "2026-08-11T16:20:10+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Bardghji tiene el cruzado roto y se perderá toda la temporada",
-      "lead_fa": "El extremo sueco pasará por el quirófano en los próximo días por esta grave lesión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "532bcac1b8df",
       "source": "EL PAÍS",
       "title": "El Govern verá el eclipse en un punto amenazado por las nubes: “Estamos muy preocupados”",
@@ -1323,28 +1277,6 @@
       "priority": 69,
       "title_fa": "El Govern verá el eclipse en un punto amenazado por las nubes: “Estamos muy preocupados”",
       "lead_fa": "Los responsables del Observatorio del Ebro, punto oficial de seguimiento, muestran su inquietud por la previsión de nubes durante el momento del fenómeno astronómico",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f4044aaf8902",
-      "source": "La Vanguardia",
-      "title": "La hija del líder de UAGA y su pareja siguen detenidos mientras avanza la investigación del crimen",
-      "summary": "Más de un millar de personas homenajean al exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA Aragón), Javier Sánchez, y a su esposa asesinados el viernes",
-      "url": "https://www.lavanguardia.com/sucesos/20260811/11612094/hija-matrimonio-asesinado-tauste-pareja-siguen-detenidos-guardia-civil-avanza-investigacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c1a10bebc.r_d.1171-949-0.jpeg",
-      "published_at": "2026-08-11T15:56:15+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "La hija del líder de UAGA y su pareja siguen detenidos mientras avanza la investigación del crimen",
-      "lead_fa": "Más de un millar de personas homenajean al exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA Aragón), Javier Sánchez, y a su esposa asesinados el viernes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1400,17 +1332,17 @@
       "editorial_version": 2
     },
     {
-      "id": "84e10191993f",
-      "source": "EL PAÍS",
-      "title": "Los talibanes han dejado a 2,4 millones de niñas sin educación secundaria en Afganistán desde su regreso al poder en 2021, según la ONU",
-      "summary": "Si la prohibición continúa, cerca de cuatro millones de alumnas quedarán excluidas del sistema escolar en el año 2030",
-      "url": "https://elpais.com/planeta-futuro/2026-08-11/los-talibanes-han-dejado-a-24-millones-de-ninas-sin-educacion-secundaria-en-afganistan-desde-su-regreso-al-poder-en-2021-segun-la-onu.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203776_182134_video_1800.mp4",
-      "published_at": "2026-08-11T14:15:05+00:00",
+      "id": "7e2059ecb399",
+      "source": "La Vanguardia",
+      "title": "Bardghji tiene el cruzado roto y se perderá toda la temporada",
+      "summary": "El extremo sueco pasará por el quirófano en los próximo días por esta grave lesión",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260811/11612110/roony-lesion-ligamento-cruzado-rodilla-derecha.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54ce38ae843.jpeg",
+      "published_at": "2026-08-11T16:20:10+02:00",
       "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Los talibanes han dejado a 2,4 millones de niñas sin educación secundaria en Afganistán desde su regreso al poder en 2021, según la ONU",
-      "lead_fa": "Si la prohibición continúa, cerca de cuatro millones de alumnas quedarán excluidas del sistema escolar en el año 2030",
+      "priority": 68,
+      "title_fa": "Bardghji tiene el cruzado roto y se perderá toda la temporada",
+      "lead_fa": "El extremo sueco pasará por el quirófano en los próximo días por esta grave lesión",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1422,17 +1354,17 @@
       "editorial_version": 2
     },
     {
-      "id": "dc9265c43808",
-      "source": "EL PAÍS",
-      "title": "El ‘tour’ veraniego de los ‘hobbits’ de carne y hueso en el 25º aniversario del estreno de ‘El señor de los anillos’",
-      "summary": "Los cuatro actores que dieron vida a Frodo y sus compañeros mantienen una buena amistad, de la que están dejando huella en sus redes sociales durante su gira para celebrar la llegada a los cines de la saga de J. R. R. Tolkien",
-      "url": "https://elpais.com/gente/2026-08-11/el-tour-veraniego-de-los-hobbits-de-carne-y-hueso-en-el-25-aniversario-del-estreno-de-el-senor-de-los-anillos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CJ72Q6MLL5AVFHEPYXBDEL6ERU.jpg?auth=7f643352ad69efeff922d8c330ab4ed5e697ec00927807b747adae2e0598426e",
-      "published_at": "2026-08-11T14:02:27+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "El ‘tour’ veraniego de los ‘hobbits’ de carne y hueso en el 25º aniversario del estreno de ‘El señor de los anillos’",
-      "lead_fa": "Los cuatro actores que dieron vida a Frodo y sus compañeros mantienen una buena amistad, de la que están dejando huella en sus redes sociales durante su gira para celebrar la llegada a los cines de la saga de J. R. R. Tolkien",
+      "id": "f4044aaf8902",
+      "source": "La Vanguardia",
+      "title": "La hija del líder de UAGA y su pareja siguen detenidos mientras avanza la investigación del crimen",
+      "summary": "Más de un millar de personas homenajean al exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA Aragón), Javier Sánchez, y a su esposa asesinados el viernes",
+      "url": "https://www.lavanguardia.com/sucesos/20260811/11612094/hija-matrimonio-asesinado-tauste-pareja-siguen-detenidos-guardia-civil-avanza-investigacion.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c1a10bebc.r_d.1171-949-0.jpeg",
+      "published_at": "2026-08-11T15:56:15+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "La hija del líder de UAGA y su pareja siguen detenidos mientras avanza la investigación del crimen",
+      "lead_fa": "Más de un millar de personas homenajean al exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA Aragón), Javier Sánchez, y a su esposa asesinados el viernes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1466,6 +1398,28 @@
       "editorial_version": 2
     },
     {
+      "id": "84e10191993f",
+      "source": "EL PAÍS",
+      "title": "Los talibanes han dejado a 2,4 millones de niñas sin educación secundaria en Afganistán desde su regreso al poder en 2021, según la ONU",
+      "summary": "Si la prohibición continúa, cerca de cuatro millones de alumnas quedarán excluidas del sistema escolar en el año 2030",
+      "url": "https://elpais.com/planeta-futuro/2026-08-11/los-talibanes-han-dejado-a-24-millones-de-ninas-sin-educacion-secundaria-en-afganistan-desde-su-regreso-al-poder-en-2021-segun-la-onu.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203776_182134_video_1800.mp4",
+      "published_at": "2026-08-11T14:15:05+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Los talibanes han dejado a 2,4 millones de niñas sin educación secundaria en Afganistán desde su regreso al poder en 2021, según la ONU",
+      "lead_fa": "Si la prohibición continúa, cerca de cuatro millones de alumnas quedarán excluidas del sistema escolar en el año 2030",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b4b412171b43",
       "source": "La Vanguardia",
       "title": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
@@ -1477,6 +1431,28 @@
       "priority": 68,
       "title_fa": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
       "lead_fa": "En todo el mundo solo se han podido registrar estas imágenes en dos ocasiones anteriores, de ahí el gran valor del documento grabado frente a la costa de Badalona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "dc9265c43808",
+      "source": "EL PAÍS",
+      "title": "El ‘tour’ veraniego de los ‘hobbits’ de carne y hueso en el 25º aniversario del estreno de ‘El señor de los anillos’",
+      "summary": "Los cuatro actores que dieron vida a Frodo y sus compañeros mantienen una buena amistad, de la que están dejando huella en sus redes sociales durante su gira para celebrar la llegada a los cines de la saga de J. R. R. Tolkien",
+      "url": "https://elpais.com/gente/2026-08-11/el-tour-veraniego-de-los-hobbits-de-carne-y-hueso-en-el-25-aniversario-del-estreno-de-el-senor-de-los-anillos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CJ72Q6MLL5AVFHEPYXBDEL6ERU.jpg?auth=7f643352ad69efeff922d8c330ab4ed5e697ec00927807b747adae2e0598426e",
+      "published_at": "2026-08-11T14:02:27+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "El ‘tour’ veraniego de los ‘hobbits’ de carne y hueso en el 25º aniversario del estreno de ‘El señor de los anillos’",
+      "lead_fa": "Los cuatro actores que dieron vida a Frodo y sus compañeros mantienen una buena amistad, de la que están dejando huella en sus redes sociales durante su gira para celebrar la llegada a los cines de la saga de J. R. R. Tolkien",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1972,28 +1948,6 @@
       "editorial_version": 2
     },
     {
-      "id": "100d7849c04e",
-      "source": "EL PAÍS",
-      "title": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
-      "summary": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
-      "url": "https://elpais.com/television/series/2026-08-11/de-amy-adams-a-juliette-lewis-todos-aman-al-malvado-bardem-de-el-cabo-del-miedo-es-un-osito-de-peluche.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203593_090212_video_1800.mp4",
-      "published_at": "2026-08-11T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
-      "lead_fa": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "afdedc1b9360",
       "source": "EL PAÍS",
       "title": "La brecha orgásmica",
@@ -2082,6 +2036,28 @@
       "editorial_version": 2
     },
     {
+      "id": "100d7849c04e",
+      "source": "EL PAÍS",
+      "title": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
+      "summary": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
+      "url": "https://elpais.com/television/series/2026-08-11/de-amy-adams-a-juliette-lewis-todos-aman-al-malvado-bardem-de-el-cabo-del-miedo-es-un-osito-de-peluche.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203593_090212_video_1800.mp4",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
+      "lead_fa": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "dd0d5a4eb27f",
       "source": "EL PAÍS",
       "title": "Trump y el muro israelí",
@@ -2093,6 +2069,28 @@
       "priority": 65,
       "title_fa": "Trump y el muro israelí",
       "lead_fa": "Netanyahu rechaza el plan para Gaza propuesto por Washington y deja en evidencia su interés en el bloqueo de la situación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "95988134d524",
+      "source": "EL PAÍS",
+      "title": "Ceuta: lecciones de una catástrofe",
+      "summary": "Europa necesita un proyecto claro: que en 2027 no haya más muertes ni más llegadas irregulares en el Mediterráneo",
+      "url": "https://elpais.com/opinion/2026-08-11/ceuta-lecciones-de-una-catastrofe.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LB2FILTUMNEHPKVIGDMCC3QBJI.jpg?auth=9613353601d831e72ab6988cc27a4bce98a3ba1a52c91f91b0dca7a3211f795c",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Ceuta: lecciones de una catástrofe",
+      "lead_fa": "Europa necesita un proyecto claro: que en 2027 no haya más muertes ni más llegadas irregulares en el Mediterráneo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2159,28 +2157,6 @@
       "priority": 65,
       "title_fa": "Mapfre sale de compras para acelerar su expansión en Estados Unidos",
       "lead_fa": "La aseguradora se hace con el control de Safety Insurance Group por 1.542 millones de dólares y se afianza en el noreste del país",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cd7fcdf52b8b",
-      "source": "EL PAÍS",
-      "title": "Tres recetas sanas y rápidas con ‘air fryer’, del aperitivo al postre, y tres libros para aprender",
-      "summary": "Este electrodoméstico ya se ha hecho un hueco en muchos hogares, lo que ha llevado a los cocineros a publicar recetarios que enseñan cómo aprovecharlo al máximo",
-      "url": "https://elpais.com/gastronomia/2026-08-11/tres-recetas-sanas-y-rapidas-con-air-fryer-del-aperitivo-al-postre-y-tres-libros-para-aprender.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HKZ5FMK6VRBURCKTX5VADJLITM.jpg?auth=9f1ab28dec20ef78e7a2cf5c3da47165e933cf0fb1f1ad988eb94e99de26456b",
-      "published_at": "2026-08-11T03:25:00+00:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "Tres recetas sanas y rápidas con ‘air fryer’, del aperitivo al postre, y tres libros para aprender",
-      "lead_fa": "Este electrodoméstico ya se ha hecho un hueco en muchos hogares, lo que ha llevado a los cocineros a publicar recetarios que enseñan cómo aprovecharlo al máximo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2432,6 +2408,34 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "e977913d8920",
+      "source": "EL PAÍS",
+      "title": "Cristiano Ronaldo y Georgina se casan en una ceremonia íntima acompañados de sus cinco hijos",
+      "summary": "El futbolista y la ‘influencer’ han compartido una publicación conjunta en Instagram en la que muestran sus respectivas alianzas de recién casados. Según un comunicado emitido por la pareja, la ceremonia civil ha tenido lugar este 11 de agosto en Cascais (Portugal)",
+      "url": "https://elpais.com/gente/2026-08-11/cristiano-ronaldo-y-georgina-se-casan-en-una-ceremonia-intima-acompanados-de-sus-cinco-hijos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M6TCYVJRLNBHRHUW4E72UPMABM.jpg?auth=7be5bc0fb12d5ab1eaafc3b7d5a6919a05a52f8728098803acc7b76c6d056da9",
+      "published_at": "2026-08-11T20:03:11+00:00",
+      "category": "cultura",
+      "priority": 50,
+      "title_fa": "ازدواج کریستیانو رونالدو و جورجینا رودریگرس در مراسمی خصوصی",
+      "lead_fa": "این زوج معروف با انتشار تصاویری در شبکه‌های اجتماعی خبر ازدواج خود را اعلام کردند. این مراسم در تاریخ ۱۱ اوت در شهر کاسکایش در پرتغال برگزار شد.",
+      "key_points_fa": [
+        "مراسم ازدواج به صورت مدنی و در تاریخ ۱۱ اوت برگزار شده است.",
+        "این زوج تصاویر حلقه‌های ازدواج خود را به اشتراک گذاشته‌اند.",
+        "فرزندان این زوج نیز در مراسم حضور داشته‌اند."
+      ],
+      "analysis_fa": "اعلام خبر ازدواج چهره‌های سرشناس در شبکه‌های اجتماعی به روشی استاندارد برای مدیریت ارتباط با رسانه‌ها و هواداران تبدیل شده است. این رویداد بازتاب گسترده‌ای در رسانه‌های بین‌المللی داشته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#کریستیانو_رونالدو",
+        "#جورجینا_رودریگرس",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2463,7 +2467,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 149
     },
     {
       "source": "EL PAÍS España",
