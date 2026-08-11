@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:16:11.427737+00:00",
+  "generated_at": "2026-08-11T00:05:06.896653+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "973075b8642d",
@@ -43,7 +43,7 @@
       "summary": "“Le encomiendo nuestro país al señor Jesucristo”, dice el presidente De la Espriella | El número de viviendas afectadas supera las 1.500 y siete aeropuertos suspenden su actividad tras sufrir daños",
       "url": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/CGETGIA7CBHDBLUU3TX5RT3XCQ.JPG?auth=b8881989a2f4f1a31ff9c2bc986e220fbe424a2ee03e3649d150422575304f9c",
-      "published_at": "2026-08-10T22:29:19+00:00",
+      "published_at": "2026-08-10T23:39:08+00:00",
       "category": "sociedad",
       "priority": 84,
       "title_fa": "افزایش جان‌باختگان زلزله کلمبیا به ۲۲ نفر",
@@ -914,28 +914,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c3a0c3db44ed",
-      "source": "La Vanguardia",
-      "title": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
-      "summary": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
-      "url": "https://www.lavanguardia.com/internacional/20260810/11611492/trump-sopesa-declarar-victoria-iran-alcanzar-acuerdo-nuclear-integral.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79e5432865a.jpeg",
-      "published_at": "2026-08-10T16:57:39+02:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
-      "lead_fa": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8bbb40ef2aeb",
       "source": "EL PAÍS Economía",
       "title": "Las ventas de las empresas españolas aceleran en el segundo trimestre por la mejora de las exportaciones",
@@ -945,16 +923,22 @@
       "published_at": "2026-08-10T16:38:32+00:00",
       "category": "economia",
       "priority": 73,
-      "title_fa": "Las ventas de las empresas españolas aceleran en el segundo trimestre por la mejora de las exportaciones",
-      "lead_fa": "Los salarios crecieron un 3,5% entre abril y junio en grandes compañías y pymes, en línea con el repunte de la inflación, según la Agencia Tributaria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رشد فروش شرکت‌های اسپانیایی در سه ماهه دوم سال",
+      "lead_fa": "فروش شرکت‌های بزرگ و متوسط اسپانیایی در سه ماهه دوم سال جاری میلادی تسریع شد. این روند ناشی از بهبود صادرات و رشد دستمزدها بوده است.",
+      "key_points_fa": [
+        "رشد دستمزدها بین ماه‌های آوریل تا ژوئن به ۳.۵ درصد رسید.",
+        "افزایش درآمد شرکت‌ها همگام با تورم ثبت شده است.",
+        "سازمان امور مالیاتی اسپانیا این آمار را منتشر کرده است."
+      ],
+      "analysis_fa": "آمار جدید سازمان امور مالیاتی نشان‌دهنده پویایی نسبی در بخش شرکتی اسپانیاست که تحت تأثیر بهبود صادرات و تعدیل دستمزدها متناسب با تورم شکل گرفته است. این داده‌ها می‌توانند نشانگر تاب‌آوری اقتصاد در برابر فشارهای تورمی باشند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد_اسپانیا",
+        "#صادرات",
+        "#تورم"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -967,16 +951,22 @@
       "published_at": "2026-08-10T15:36:43+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Un juzgado de Madrid estudia cinco denuncias por la compra del ático del Gobierno de Ayuso",
-      "lead_fa": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بررسی پنج شکایت جدید درباره خرید پنت‌هاوس دولت آیوسو در دادگاهی در مادرید",
+      "lead_fa": "دادستانی مادرید شکایات مربوط به خرید جنجالی پنت‌هاوس را به دادگاه ارجاع داد. این پرونده شامل شکایات احزاب سیاسی و شهروندان است.",
+      "key_points_fa": [
+        "ارجاع شکایات سه شخص حقیقی و حزب PSOE به دادگاه مربوطه",
+        "گسترش تحقیقات قضایی درباره خرید پنت‌هاوس مرتبط با دولت ایزابل دیاز آیوسو",
+        "آغاز اولیه روند قانونی با شکایت سازمان «ایوستییا اروپا»"
+      ],
+      "analysis_fa": "این پرونده حقوقی ابعاد سیاسی تازه‌ای را در مادرید گشوده است و روند بررسی قضایی آن ادامه دارد تا تخلفات احتمالی مشخص شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مادرید",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1061,6 +1051,35 @@
         "#اقتصاد",
         "#صنایع_غذایی",
         "#صادرات"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "c3a0c3db44ed",
+      "source": "La Vanguardia",
+      "title": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
+      "summary": "El presidente prioriza el levantamiento del bloqueo en Ormuz y busca una salida a la impopular guerra a tres meses de las elecciones legislativas",
+      "url": "https://www.lavanguardia.com/internacional/20260810/11611492/trump-sopesa-declarar-victoria-iran-alcanzar-acuerdo-nuclear-integral.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79e5432865a.jpeg",
+      "published_at": "2026-08-10T16:57:39+02:00",
+      "category": "politica",
+      "priority": 72,
+      "title_fa": "بررسی احتمال اعلام پیروزی ترامپ در ایران بدون توافق جامع هسته‌ای",
+      "lead_fa": "رئیس‌جمهور آمریکا رفع انسداد تنگه هرمز را در اولویت قرار داده است. او به دنبال خروج از جنگی نامحبوب در آستانه انتخابات قانون‌گذاری است.",
+      "key_points_fa": [
+        "اولویت‌بندی رفع مسدودی تنگه هرمز توسط دونالد ترامپ",
+        "تلاش برای پایان دادن به جنگی نامحبوب در فاصله سه ماه تا انتخابات",
+        "احتمال اعلام پیروزی بدون دستیابی به توافق جامع هسته‌ای"
+      ],
+      "analysis_fa": "این رویکرد نشان‌دهنده تغییر تمرکز در سیاست خارجی ایالات متحده با محوریت مسائل امنیتی فوری و تحولات انتخاباتی داخلی است. تمرکز بر تنگه هرمز و تلاش برای پایان دادن به درگیری‌ها می‌تواند معادلات منطقه‌ای را تحت تأثیر قرار دهد، بدون اینکه راهکار پایداری برای پرونده هسته‌ای ارائه دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#ایران",
+        "#سیاست_خارجی",
+        "#انتخابات"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1190,28 +1209,6 @@
         "#تامین_مالی"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ea792150cd4c",
-      "source": "La Vanguardia",
-      "title": "El metro consolida una bajada de las denuncias en el primer semestre del año",
-      "summary": "El suburbano barcelonés contabiliza un 34% menos de delitos los primeros seis meses del 2026",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11611571/metro-consolida-bajada-denuncias-primer-semestre-ano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/05/25/628d6aeb0c2fa.r_d.2756-1307-0.jpeg",
-      "published_at": "2026-08-10T19:37:09+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El metro consolida una bajada de las denuncias en el primer semestre del año",
-      "lead_fa": "El suburbano barcelonés contabiliza un 34% menos de delitos los primeros seis meses del 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1424,6 +1421,28 @@
       "priority": 69,
       "title_fa": "El ecosistema de ‘startups’ de la aviación sigue confiando en el avión eléctrico o a hidrógeno",
       "lead_fa": "Pequeñas empresas europeas siguen la estela de los gigantes Airbus y Boeing, pero con proyectos propios para una aviación sostenible en las cortas y medias distancias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ea792150cd4c",
+      "source": "La Vanguardia",
+      "title": "El metro consolida una bajada de las denuncias en el primer semestre del año",
+      "summary": "El suburbano barcelonés contabiliza un 34% menos de delitos los primeros seis meses del 2026",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260810/11611571/metro-consolida-bajada-denuncias-primer-semestre-ano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/05/25/628d6aeb0c2fa.r_d.2756-1307-0.jpeg",
+      "published_at": "2026-08-10T19:37:09+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El metro consolida una bajada de las denuncias en el primer semestre del año",
+      "lead_fa": "El suburbano barcelonés contabiliza un 34% menos de delitos los primeros seis meses del 2026",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1771,28 +1790,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6db3e7af68cd",
-      "source": "EL PAÍS España",
-      "title": "La libertad de quedarse",
-      "summary": "No hay ninguna valla más alta que la desesperación",
-      "url": "https://elpais.com/espana/2026-08-10/la-libertad-de-quedarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZV3FZ5DMLNCBLF5DUODN6PXWTU.jpg?auth=686485101547c2e22688741361f1f6a74027b39ec83afb4b5f7f1f0bc4f47eb4",
-      "published_at": "2026-08-10T11:46:02+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La libertad de quedarse",
-      "lead_fa": "No hay ninguna valla más alta que la desesperación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a616995340da",
       "source": "La Vanguardia",
       "title": "El Prado celebra el eclipse con una luz especial",
@@ -1870,6 +1867,28 @@
       "priority": 66,
       "title_fa": "Once años de prisión por violar a una menor en València y amenazarla con divulgar imágenes",
       "lead_fa": "El condenado aprovechó que era amigo de sus padres para abusar de la chica en su propio domicilio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6db3e7af68cd",
+      "source": "EL PAÍS España",
+      "title": "La libertad de quedarse",
+      "summary": "No hay ninguna valla más alta que la desesperación",
+      "url": "https://elpais.com/espana/2026-08-10/la-libertad-de-quedarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZV3FZ5DMLNCBLF5DUODN6PXWTU.jpg?auth=686485101547c2e22688741361f1f6a74027b39ec83afb4b5f7f1f0bc4f47eb4",
+      "published_at": "2026-08-10T11:46:02+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La libertad de quedarse",
+      "lead_fa": "No hay ninguna valla más alta que la desesperación",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
