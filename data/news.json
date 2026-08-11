@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-08-11T04:05:05.017385+00:00",
+  "generated_at": "2026-08-11T05:19:41.196805+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "db7df476aa15",
     "973075b8642d",
+    "f1dfef8c48ec",
     "ffd2adeb1d1c",
-    "a015e82f6e5f",
-    "6aae1102b58e",
-    "22d57a33141f"
+    "a015e82f6e5f"
   ],
   "items": [
+    {
+      "id": "db7df476aa15",
+      "source": "La Vanguardia",
+      "title": "Terremoto en Colombia, en directo | Al menos 132 muertos: última hora de los rescates, heridos y desaparecidos tras el seísmo de magnitud 7,4",
+      "summary": "Cali, Pereira, Chocó y otras zonas del oeste del país concentran los daños más graves, con edificios colapsados, infraestructuras afectadas y nuevas réplicas durante una noche marcada por la emergencia",
+      "url": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a7a0210e3f77.r_d.2167-1445-0.jpeg",
+      "published_at": "2026-08-11T06:02:38+02:00",
+      "category": "sociedad",
+      "priority": 91,
+      "title_fa": "زمین‌لرزه ۷.۴ ریشتری در کلمبیا؛ جان‌باختن دست‌کم ۱۳۲ نفر",
+      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۷.۴ ریشتر غرب کلمبیا را لرزاند و خسارات سنگینی به بار آورد. عملیات امداد و نجات برای یافتن مفقودان در مناطق آسیب‌دیده ادامه دارد.",
+      "key_points_fa": [
+        "شمار جان‌باختگان این زلزله دست‌کم به ۱۳۲ نفر رسیده است.",
+        "شهرهای کالی، پریرا و چوکو بیشترین آسیب و تخریب ساختمان‌ها را متحمل شده‌اند.",
+        "پس‌لرزه‌های متعدد باعث تشدید وضعیت اضطراری در منطقه شده است."
+      ],
+      "analysis_fa": "این زمین‌لرزه شدید در مناطق غربی کلمبیا زیرساخت‌های حیاتی را مختل کرده و تمرکز دولت را بر مدیریت بحران، امدادرسانی و ارزیابی خسارات در مناطق صعب‌العبور معطوف کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#کلمبیا",
+        "#زلزله",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "973075b8642d",
       "source": "EL PAÍS España",
@@ -32,6 +60,34 @@
         "#اسپانیا",
         "#دولت",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f1dfef8c48ec",
+      "source": "EL PAÍS",
+      "title": "Colombia amanece bajo el estado de emergencia por el terremoto que deja más de 130 muertos",
+      "summary": "Abelardo de la Espriella se estrena como presidente con un desastre que pone a prueba su liderazgo",
+      "url": "https://elpais.com/america-colombia/2026-08-11/colombia-amanece-bajo-el-estado-de-emergencia-por-el-terremoto-que-deja-mas-de-130-muertos.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203478_184206_video_1800.mp4",
+      "published_at": "2026-08-11T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "اعلام وضعیت اضطراری در کلمبیا پس از زلزله مرگبار",
+      "lead_fa": "کلمبیا پس از زمین‌لرزه‌ای که بیش از ۱۳۰ کشته برجا گذاشت، در وضعیت اضطراری قرار گرفت. این فاجعه طبیعی نخستین آزمون جدی رهبری آبلاردو د لا اسپریلا در مقام ریاست‌جمهوری است.",
+      "key_points_fa": [
+        "اعلام وضعیت اضطراری در سراسر کلمبیا پس از وقوع زلزله شدید",
+        "تائید جان باختن بیش از ۱۳۰ نفر در این فاجعه طبیعی",
+        "آغاز به کار آبلاردو د لا اسپریلا به عنوان رئیس‌جمهور همزمان با این بحران"
+      ],
+      "analysis_fa": " وقوع این زمین‌لرزه سنگین در نخستین روزهای آغاز به کار دولت جدید، چالش مدیریتی و اجرایی بزرگی را برای رئیس‌جمهور تازه کلمبیا ایجاد کرده است و توانایی واکنش اضطراری نهادهای دولتی را محک می‌زند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#کلمبیا",
+        "#زلزله",
+        "#وضعیت_اضطراری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -66,7 +122,7 @@
     },
     {
       "id": "a015e82f6e5f",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta",
       "summary": "El PP reformó el reglamento de la Cámara alta para hacer “obligatoria” su asistencia y ya recurrió al Constitucional cuando Sánchez no respondió a una cita por Adamuz",
       "url": "https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html",
@@ -95,8 +151,8 @@
     },
     {
       "id": "6aae1102b58e",
-      "source": "EL PAÍS España",
-      "title": "Los bulos que propiciaron la la avalancha migratoria hacia Ceuta: “La puerta está abierta”",
+      "source": "EL PAÍS",
+      "title": "Los bulos que propiciaron la avalancha migratoria hacia Ceuta: “La puerta está abierta”",
       "summary": "El estudio de un investigador marroquí que siguió al instante la crisis muestra que los vídeos de los primeros cruces exitosos con millones de visualizaciones arrastraron la marea de jóvenes a la frontera. Un organismo oficial de Marruecos identifica “cuentas extranjeras y posibles redes organizadas”",
       "url": "https://elpais.com/espana/2026-08-11/los-bulos-que-propiciaron-la-la-avalancha-migratoria-hacia-ceuta-la-puerta-esta-abierta.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PMKEPGCY6VMEXDIKUATPK3VH3A.jpg?auth=4822a8cf1f6d6efc2a7a6f88d4103cce42e745917cf31ba8f03a9e025802c45e",
@@ -151,34 +207,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ea02f3303740",
-      "source": "EL PAÍS",
-      "title": "Italia y Dinamarca vinculan la “inmigración descontrolada” con la delincuencia y piden centros de deportación tras la crisis de Ceuta",
-      "summary": "La primera ministra italiana, Giorgia Meloni, y su homóloga danesa, Mette Frederiksen, publican un comunicado en el que afirman que los inmigrantes sin papeles cometen “delitos violentos”, “narcotráfico” y “violencia sexual”",
-      "url": "https://elpais.com/internacional/2026-08-10/italia-y-dinamarca-rechazan-la-inmigracion-descontrolada-y-piden-centros-de-deportacion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/74GM2WLM5FIOZPIW3MZI2O5BPU.jpg?auth=d5f495cfb6a2c54e2e1325e0d856d3b9455723e409881e3bd19db35c1c841d68",
-      "published_at": "2026-08-10T12:21:23+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "موضع‌گیری ایتالیا و دانمارک علیه مهاجرت و درخواست ایجاد مراکز اخراج",
-      "lead_fa": "نخست‌وزیران ایتالیا و دانمارک در بیانیه‌ای مشترک خواستار مقابله با مهاجرت کنترل‌نشده شدند. آن‌ها همچنین خواستار ایجاد مراکز اخراج مهاجران در خارج از اتحادیه اروپا شدند.",
-      "key_points_fa": [
-        "انتشار بیانیه مشترک توسط جورجا ملونی و مته فردریکسن",
-        "اشاره به چالش‌های مرتبط با مهاجرت غیرقانونی و جرایم",
-        "درخواست برای تاسیس مراکز اخراج مهاجران"
-      ],
-      "analysis_fa": "این موضع‌گیری مشترک نشان‌دهنده افزایش فشارهای سیاسی در اروپا برای اتخاذ سیاست‌های سخت‌گیرانه‌تر در قبال مهاجرت است. کشورهای عضو اتحادیه اروپا به طور فزاینده‌ای به دنبال راه‌حل‌های خارج از مرزهای خود برای مدیریت جریان‌های مهاجرتی هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "49c6d5f505dd",
       "source": "La Vanguardia",
       "title": "El eclipse desata el FOMO: por tierra, mar y aire",
@@ -202,6 +230,35 @@
         "#اسپانیا",
         "#گردشگری",
         "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8a1faa302e3d",
+      "source": "EL PAÍS",
+      "title": "Cali pasa la primera noche después del terremoto: “¿Qué viene después de esto?”",
+      "summary": "En medio de la incertidumbre, la ciudad se organiza: los vecinos llegan hasta las zonas afectadas y forman cadenas humanas para retirar escombros y apoyar a los rescatistas",
+      "url": "https://elpais.com/america-colombia/2026-08-11/cali-pasa-la-primera-noche-despues-del-terremoto-que-viene-despues-de-esto.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203505_213652_video_1800.mp4",
+      "published_at": "2026-08-11T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "کالی در شوک پس‌لرزه: شب اول زلزله و همبستگی شهروندان",
+      "lead_fa": "شهر کالی اولین شب پس از وقوع زمین‌لرزه را در میان ابهام و نگرانی سپری کرد. شهروندان برای آواربرداری و کمک به امدادگران دست‌به‌کار شدند.",
+      "key_points_fa": [
+        "سازماندهی مردمی برای تشکیل زنجیره‌های انسانی جهت آواربرداری",
+        "حضور ساکنان در مناطق آسیب‌دیده برای حمایت از تیم‌های امداد و نجات",
+        "فضایی از بلاتکلیفی و پرسش درباره آینده در میان شهروندان"
+      ],
+      "analysis_fa": "وقوع این زمین‌لرزه و واکنش سریع مردمی نشان‌دهنده شکنندگی زیرساخت‌ها در برابر حوادث طبیعی و همزمان اهمیت همبستگی اجتماعی در ساعات اولیه بحران است. چالش اصلی مقامات در روزهای آینده مدیریت بحران، اسکان اضطراری و ارزیابی خسارات خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#زلزله",
+        "#کالی",
+        "#اسپانیا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -292,34 +349,6 @@
       "editorial_version": 2
     },
     {
-      "id": "affe2cd4e61e",
-      "source": "EL PAÍS",
-      "title": "Colombia revive el trauma del terremoto que arrasó el Eje Cafetero hace 27 años",
-      "summary": "Armenia, Pereira y Manizales son tres de las ciudades más afectadas por el terremoto de 7,4 que colapsó el Occidente del país este lunes",
-      "url": "https://elpais.com/america-colombia/2026-08-10/colombia-revive-el-trauma-del-terremoto-que-arraso-el-eje-cafetero-hace-27-anos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203424_155135_video_1800.mp4",
-      "published_at": "2026-08-10T20:52:04+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "یادآوری فاجعه زلزله در کلمبیا پس از ۲۷ سال",
-      "lead_fa": "کلمبیا بیست و هفتمین سالگرد زلزله ویرانگر منطقه قهوه را گرامی داشت. این زمین‌لرزه بزرگ شهرهای ارمنیا، پریرا و مانیسالس را به شدت تحت تأثیر قرار داده بود.",
-      "key_points_fa": [
-        "بزرگداشت سالگرد زلزله ۷.۴ ریشتری در غرب کلمبیا.",
-        "شهرهای ارمنیا، پریرا و مانیسالس از آسیب‌دیدگان اصلی آن حادثه بودند.",
-        "این فاجعه تاریخی همچنان در حافظه جمعی کلمبیا باقی مانده است."
-      ],
-      "analysis_fa": "یادآوری بلایای طبیعی بزرگ در کشورهای آمریکای لاتین معمولاً فرصتی برای بررسی میزان آمادگی در برابر زلزله و بازنگری در زیرساخت‌های شهری است. این رویدادها ابعاد عاطفی و اجتماعی عمیقی برای جامعه محلی به همراه دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کلمبیا",
-        "#زلزله",
-        "#تاریخ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "4767adb47b79",
       "source": "EL PAÍS",
       "title": "Rodrigo León, geólogo colombiano experto en terremotos: “Habrá réplicas, la ciudadanía tiene que prepararse”",
@@ -348,34 +377,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b7a64c772532",
-      "source": "EL PAÍS",
-      "title": "Cali escarba entre los escombros del terremoto: “No podía salir y dejar tirados a mis pacientes”",
-      "summary": "En el Hospital Universitario de la tercera ciudad más poblada de Colombia, uno de los centros asistenciales afectados, se desplomó parte de la unidad de cuidados intensivos",
-      "url": "https://elpais.com/america-colombia/2026-08-10/cali-escarba-entre-los-escombros-del-terremoto-no-podia-salir-y-dejar-tirados-a-mis-pacientes.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203494_204209_video_1800.mp4",
-      "published_at": "2026-08-10T20:28:12+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "تخریب بخش مراقبت‌های ویژه بیمارستانی در کالی کلمبیا پس از زمین‌لرزه",
-      "lead_fa": "شهر کالی در کلمبیا پس از وقوع زمین‌لرزه با ویرانی‌های گسترده مواجه شده است. بخشی از واحد مراقبت‌های ویژه بیمارستان دانشگاهی این شهر فرو ریخت.",
-      "key_points_fa": [
-        "بیمارستان دانشگاهی کالی به عنوان یکی از مراکز درمانی اصلی آسیب دید.",
-        "بخش مراقبت‌های ویژه این بیمارستان دچار ریزش آوار شد.",
-        "کالی سومین شهر پرجمعیت کلمبیا است."
-      ],
-      "analysis_fa": "وقوع زمین‌لرزه در مناطق پرجمعیت کلمبیا بار دیگر آسیب‌پذیری زیرساخت‌های درمانی را برجسته کرده است. توانایی بیمارستان‌ها در ارائه خدمات حیاتی پس از بحران‌های طبیعی، یکی از چالش‌های اصلی مدیریت بحران در این کشورها به شمار می‌رود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#کلمبیا",
-        "#زمین‌لرزه",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9a9a3ed702dc",
       "source": "La Vanguardia",
       "title": "Así ha temblado el aeropuerto de Pereira durante el terremoto de magnitud 7,4 en Colombia",
@@ -399,34 +400,6 @@
         "#کلمبیا",
         "#زمین_لرزه",
         "#فرودگاه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "531d19d3b176",
-      "source": "EL PAÍS",
-      "title": "Video | La devastación en Cali tras el terremoto vista desde el aire",
-      "summary": "Al menos 110 muertos ha dejado el terremoto de magnitud 7,4 en Colombia y el derrumbe de una veintena de infraestructuras en Cali y Chocó",
-      "url": "https://elpais.com/america-colombia/2026-08-10/video-la-devastacion-en-cali-tras-el-terremoto-vista-desde-el-aire.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203478_184206_video_1800.mp4",
-      "published_at": "2026-08-10T18:51:05+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "ویرانی‌های ناشی از زلزله ۷.۴ ریشتری در کلمبیا از نگاه تصویر هوایی",
-      "lead_fa": "زمین‌لرزه ۷.۴ ریشتری در کلمبیا دست‌کم ۱۱۰ کشته برجا گذاشت. این زلزله موجب تخریب ده‌ها زیرساخت در شهرهای کالی و چوکو شد.",
-      "key_points_fa": [
-        "ثبت زمین‌لرزه با قدرت ۷.۴ ریشتر در کلمبیا",
-        "تایید کشته شدن حداقل ۱۱۰ نفر تاکنون",
-        "تخریب حدود بیست زیرساخت در مناطق کالی و چوکو"
-      ],
-      "analysis_fa": "این زمین‌لرزه شدید خسارات گسترده‌ای به زیرساخت‌های شهری وارد کرده و امدادرسانی در مناطق آسیب‌دیده مانند کالی و چوکو را با چالش مواجه ساخته است. ابعاد کامل خسارات جانی و مالی پس از بررسی‌های دقیق‌تر مراجع امدادی مشخص خواهد شد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "breaking",
-      "hashtags_fa": [
-        "#زلزله",
-        "#کلمبیا",
-        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -516,35 +489,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5cb1a9f62bf0",
-      "source": "EL PAÍS",
-      "title": "Un hombre de 83 años muere ahogado mientras se bañaba en una playa de Roses",
-      "summary": "Protección Civil reclama desde hace días prudencia al haber aumentado el número de bañistas fallecidos respecto al verano pasado",
-      "url": "https://elpais.com/espana/catalunya/2026-08-10/un-hombre-de-83-anos-muere-ahogado-mientras-se-banaba-en-una-playa-de-roses.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q37UAQ6IMREMNFGPJMCY6BAHFQ.jpg?auth=b28634cf33cd19ab4b546b5e034bd389e07be7d8d8d57d9d9f36513023b1626a",
-      "published_at": "2026-08-10T16:57:53+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "مرگ یک مرد ۸۳ ساله در حال شنا در ساحلی در روس",
-      "lead_fa": "یک مرد ۸۳ ساله در ساحلی در شهر روس غرق شد و جان باخت. حفاظت مدنی بار دیگر نسبت به افزایش تلفات غرق‌شدگی در تابستان امسال هشدار داد.",
-      "key_points_fa": [
-        "حادثه غرق‌شدگی در یکی از ساحل‌های روس رخ داد.",
-        "قربانی این حادثه یک مرد ۸۳ ساله بود.",
-        "نهاد حفاظت مدنی خواستار احتیاط بیشتر شناگران شده است.",
-        "آمار جان‌باختگان در آب نسبت به تابستان گذشته افزایش یافته است."
-      ],
-      "analysis_fa": "افزایش تعداد غرق‌شدگان در تابستان جاری باعث نگرانی نهادهای امدادی و حفاظتی اسپانیا شده است. این روند صعودی ضرورت توجه جدی‌تر به هشدارهای ایمنی و نظارت بر سواحل را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#شنا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ea23a1d214cc",
       "source": "La Vanguardia",
       "title": "Colombia declara “desastre nacional” tras un terremoto de 7,4 que deja más de cien muertos",
@@ -575,7 +519,7 @@
     },
     {
       "id": "c3b37de9c15d",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "El incendio de Niebla (Huelva) está “fuera de la capacidad de extinción” y obliga a desalojar a 800 personas tras afectar a más de 20.000 hectáreas",
       "summary": "Evacuados dos municipios más de Huelva y Sevilla. El consejero de Presidencia andaluz indica que el fuego presenta “obstáculos cada vez más difíciles”",
       "url": "https://elpais.com/espana/2026-08-10/el-incendio-de-niebla-huelva-supera-ya-las-20000-hectareas-afectadas.html",
@@ -597,34 +541,6 @@
         "#آتش_سوزی",
         "#اسپانیا",
         "#هوئلبا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "88cc5c0fb801",
-      "source": "EL PAÍS",
-      "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
-      "summary": "La presidenta difundió la información falsa de que España no le permite la entrada a los italianos",
-      "url": "https://elpais.com/espana/madrid/2026-08-10/ayuso-se-pone-de-parte-de-meloni-y-trump-en-la-crisis-schengen-y-evita-hablar-del-atico.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203373_135027_video_1800.mp4",
-      "published_at": "2026-08-10T13:23:04+00:00",
-      "category": "politica",
-      "priority": 77,
-      "title_fa": "حمایت آیوسو از ملونی و ترامپ در بحران شنگن",
-      "lead_fa": "رئیس منطقه مادرید در بحران مرزی شنگن از جورجا ملونی و دونالد ترامپ حمایت کرد. او مدعی شد اسپانیا ورود ایتالیایی‌ها را ممنوع کرده است.",
-      "key_points_fa": [
-        "حمایت ایزابل دیاز آیوسو از مواضع جورجا ملونی و دونالد ترامپ.",
-        "انتشار ادعایی نادرست درباره ممنوعیت ورود شهروندان ایتالیایی به اسپانیا.",
-        "حاشیه‌سازی رسانه‌ای پیرامون سخنان آیوسو در بحران شنگن."
-      ],
-      "analysis_fa": "این موضع‌گیری نشان‌دهنده تلاش رهبران محلی برای همسویی با جریان‌های سیاسی راست‌گرا در اروپا و آمریکا است. استفاده از اطلاعات نادرست در مناقشات دیپلماتیک و مرزی می‌تواند بر تنش‌های سیاسی بیافزاید و افکار عمومی را تحت تأثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مادرید",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -653,65 +569,6 @@
         "#اسپانیا",
         "#سلامت",
         "#نجوم"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6cb8c080c61",
-      "source": "EL PAÍS",
-      "title": "Más de 250 organizaciones de la sociedad civil se han adherido ya al pacto de Estado frente a la emergencia climática que rechaza el PP",
-      "summary": "Entre las entidades que se han sumado desde el 27 de julio destacan grupos del sector agrario como UPA, COAG y la Federación Nacional de Comunidades de Regantes",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/mas-de-250-organizaciones-de-la-sociedad-civil-se-han-adherido-ya-al-pacto-de-estado-frente-a-la-emergencia-climatica-que-rechaza-el-pp.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IUILDCBRCJO67DI5OISFFOXVNA.jpg?auth=98fe9ba7fed1cf747b30ca6455d96e4f7fa948b13ab6f97e8ea50bd7ff93afff",
-      "published_at": "2026-08-10T08:34:24+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "پیوستن بیش از ۲۵۰ نهاد مدنی به پیمان اضطراری اقلیمی",
-      "lead_fa": "بیش از ۲۵۰ سازمان جامعه مدنی پیمان ملی مقابله با بحران اقلیمی را امضا کردند. این پیمان از سوی حزب مردمی (PP) رد شده است.",
-      "key_points_fa": [
-        "بیش از ۲۵۰ سازمان مدنی به پیمان اضطراری اقلیمی پیوستند.",
-        "گروه‌های کشاورزی مانند UPA و COAG و فدراسیون جوامع آبیاری از جمله حامیان این پیمان هستند.",
-        "این اقدام از تاریخ ۲۷ ژوئیه تاکنون شتاب بیشتری گرفته است.",
-        "حزب مردمی (PP) با این توافق مخالفت کرده است."
-      ],
-      "analysis_fa": "پیوستن نهادهای کلیدی بخش کشاورزی به این پیمان نشان‌دهنده نگرانی عمیق بخش‌های تولیدی از تغییرات اقلیمی است، در حالی که مخالفت احزاب سیاسی مانند PP بر سر رویکردهای مدیریتی ادامه دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقلیم",
-        "#اسپانیا",
-        "#محیط_زیست",
-        "#کشاورزی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "dc6c3b5758c5",
-      "source": "EL PAÍS",
-      "title": "Al menos 13 muertos en un ataque ucranio con drones en la región rusa de Tartaristán",
-      "summary": "El alcalde de Nizhnekamsk, localidad donde se ha concentrado la ofensiva, afirma que los objetivos eran “tanto industriales como civiles”. Según medios ucranios, las aeronaves de ataque tenían como destino una refinería local",
-      "url": "https://elpais.com/internacional/2026-08-10/varios-muertos-en-un-ataque-ucranio-con-drones-en-la-region-rusa-de-tartaristan.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203315_101457_video_1800.mp4",
-      "published_at": "2026-08-10T08:03:09+00:00",
-      "category": "politica",
-      "priority": 77,
-      "title_fa": "حمله پهپادی اوکراین به منطقه تاتارستان روسیه دست‌کم ۱۲ کشته برجای گذاشت",
-      "lead_fa": "مقامات روسی اعلام کردند که در پی حمله پهپادی اوکراین به منطقه تاتارستان دست‌کم ۱۲ نفر کشته شدند. اهداف این حمله مناطقی صنعتی و غیرنظامی گزارش شده است.",
-      "key_points_fa": [
-        "شهردار نیژن‌کامسک اعلام کرد که اهداف این تهاجم هم صنعتی و هم غیرنظامی بوده است.",
-        "رسانه‌های اوکراینی هدف این پهپادها را یک پالایشگاه محلی ذکر کرده‌اند.",
-        "منطقه تاتارستان روسیه هدف این حملات پهپادی قرار گرفته است."
-      ],
-      "analysis_fa": "این حملات نشان‌دهنده گسترش جغرافیایی درگیری‌ها و استفاده از پهپادها برای هدف قرار دادن زیرساخت‌ها در اعماق خاک روسیه است. تداوم و توسعه چنین عملیاتی می‌تواند بر امنیت تاسیسات صنعتی و واکنش‌های نظامی مسکو تاثیرگذار باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اوکراین",
-        "#روسیه",
-        "#پهپاد",
-        "#تاتارستان"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -797,6 +654,72 @@
       "editorial_version": 2
     },
     {
+      "id": "64335fe755b6",
+      "source": "EL PAÍS",
+      "title": "Así se justificó elegir a dedo el diseño de la reforma de la sede de la Comunidad: “una obra de arte” que “solo podía encomendarse” a un estudio",
+      "summary": "El Gobierno de Ayuso establece en los pliegos que las obras no empezarán hasta el primer trimestre de 2027, casi un año después de la compra del ático",
+      "url": "https://elpais.com/espana/madrid/2026-08-11/asi-se-justifico-elegir-a-dedo-el-diseno-de-la-reforma-de-la-sede-de-la-comunidad-es-una-obra-de-arte-que-solo-podia-encomendarse-a-un-estudio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3XM5PGMCBRBV5GMETBGBMXWXQQ.jpg?auth=e777cef7b1788a6f018fe8a97e08d30fdf20df5a57704ab0974581ce9bcc6aa5",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Así se justificó elegir a dedo el diseño de la reforma de la sede de la Comunidad: “una obra de arte” que “solo podía encomendarse” a un estudio",
+      "lead_fa": "El Gobierno de Ayuso establece en los pliegos que las obras no empezarán hasta el primer trimestre de 2027, casi un año después de la compra del ático",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fd33d19f4b8a",
+      "source": "EL PAÍS",
+      "title": "Las Glock ‘low cost’ irrumpen en el mercado negro de armas de fuego",
+      "summary": "Una operación policial destapa por primera vez la producción a gran escala de pistolas enteramente falsas. Los Mossos d’Esquadra advierten del riesgo de su proliferación",
+      "url": "https://elpais.com/espana/catalunya/2026-08-11/las-glock-low-cost-irrumpen-en-el-mercado-negro-de-armas-de-fuego.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SSQNT4UAEBLPVPVCMVLY5JL7TA.jpg?auth=5440bece7e100a5eb5172927ac8962263b0a4b47ada3d846448cdacee2b84504",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Las Glock ‘low cost’ irrumpen en el mercado negro de armas de fuego",
+      "lead_fa": "Una operación policial destapa por primera vez la producción a gran escala de pistolas enteramente falsas. Los Mossos d’Esquadra advierten del riesgo de su proliferación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "be4e261611d1",
+      "source": "EL PAÍS",
+      "title": "Fichados a cambio de una plaza, pero privados de ella: el agujero de la estabilización de los contratos Ramón y Cajal",
+      "summary": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades que desacatan la ley",
+      "url": "https://elpais.com/educacion/2026-08-11/fichados-a-cambio-de-una-plaza-pero-privados-de-ella-el-agujero-de-la-estabilizacion-de-los-contratos-ramon-y-cajal.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DA5CP2OGNNFZTNUK2K4K5BXCIE.jpg?auth=6a735955c09d8accc3329062014234243622ff7a77e1d78d03ef7b9d7e857d42",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Fichados a cambio de una plaza, pero privados de ella: el agujero de la estabilización de los contratos Ramón y Cajal",
+      "lead_fa": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades que desacatan la ley",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "591859674503",
       "source": "EL PAÍS Economía",
       "title": "La Inspección de Trabajo investiga a Enaire por incumplir la normativa de prevención de riesgos laborales",
@@ -848,7 +771,7 @@
     },
     {
       "id": "2ecc39357e65",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "El ministro Puente califica de “absoluta ignominia” que el Rey se haga una foto con Javier Negre",
       "summary": "El Ministro de Transportes ha compartido un mensaje en X este lunes",
       "url": "https://elpais.com/espana/2026-08-10/el-ministro-puente-califica-de-absoluta-ignominia-que-el-rey-se-haga-una-foto-con-javier-negre.html",
@@ -1016,34 +939,6 @@
       "editorial_version": 2
     },
     {
-      "id": "38bc329546e3",
-      "source": "EL PAÍS",
-      "title": "Un juzgado de Madrid estudia cinco denuncias por la compra del ático del Gobierno de Ayuso",
-      "summary": "La Fiscalía remite la denuncia de tres particulares y el PSOE al juzgado que abrió el procedimiento por un escrito de Iustitia Europa",
-      "url": "https://elpais.com/espana/madrid/2026-08-10/un-juzgado-de-madrid-investiga-ya-la-compra-del-atico-del-gobierno-de-ayuso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RNNL2BGSWFCX5CSB2ANE6L7Y5Y.JPG?auth=764d46d422b9fe954b96a1aa18fac6d6543433156e002c484f34903d3e875086",
-      "published_at": "2026-08-10T15:36:43+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "بررسی پنج شکایت جدید درباره خرید پنت‌هاوس دولت آیوسو در دادگاهی در مادرید",
-      "lead_fa": "دادستانی مادرید شکایات مربوط به خرید جنجالی پنت‌هاوس را به دادگاه ارجاع داد. این پرونده شامل شکایات احزاب سیاسی و شهروندان است.",
-      "key_points_fa": [
-        "ارجاع شکایات سه شخص حقیقی و حزب PSOE به دادگاه مربوطه",
-        "گسترش تحقیقات قضایی درباره خرید پنت‌هاوس مرتبط با دولت ایزابل دیاز آیوسو",
-        "آغاز اولیه روند قانونی با شکایت سازمان «ایوستییا اروپا»"
-      ],
-      "analysis_fa": "این پرونده حقوقی ابعاد سیاسی تازه‌ای را در مادرید گشوده است و روند بررسی قضایی آن ادامه دارد تا تخلفات احتمالی مشخص شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مادرید",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c3a0c3db44ed",
       "source": "La Vanguardia",
       "title": "Trump sopesa declarar la victoria en Irán sin alcanzar un acuerdo nuclear integral",
@@ -1073,36 +968,8 @@
       "editorial_version": 2
     },
     {
-      "id": "66e9feeeea81",
-      "source": "EL PAÍS",
-      "title": "Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal",
-      "summary": "La Proposición No de Ley se votará en el inicio del nuevo curso político",
-      "url": "https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XJDQUSTOI5AWDLNOPYBJEM4PQI.jpg?auth=7a6f87b8e62458bca9db1d1d9a85a0c230399891a95d759d0445fb7db0c6f3c3",
-      "published_at": "2026-08-10T12:30:42+00:00",
-      "category": "politica",
-      "priority": 71,
-      "title_fa": "رأی موافق ووکس به پیشنهاد سومار برای حذف مراکش از جام جهانی ۲۰۳۰",
-      "lead_fa": "حزب ووکس اعلام کرد به طرح غیرقانونی حزب سومار برای حذف مراکش از میزبانی مشترک جام جهانی ۲۰۳۰ رأی مثبت خواهد داد. این پیشنهاد در آغاز دوره جدید سیاسی در پارلمان اسپانیا به رأی گذاشته می‌شود.",
-      "key_points_fa": [
-        "حزب سومار طرحی را برای حذف مراکش از میزبانی جام جهانی ۲۰۳۰ ارائه کرده است.",
-        "حزب راست‌گرای ووکس تصمیم گرفته است به این پیشنهاد رأی موافق دهد.",
-        "این رأی‌گیری در آغاز فصل جدید سیاسی پارلمان اسپانیا برگزار خواهد شد."
-      ],
-      "analysis_fa": "هم‌رایی احزاب با گرایش‌های سیاسی متفاوت در این موضوع نشان‌دهنده پیچیدگی‌های سیاسی پیرامون مدیریت و میزبانی رویدادهای بزرگ ورزشی در اسپانیا است. با این حال، تصمیم نهایی پارلمان و واکنش دولت و فیفا هنوز قطعی نیست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#جام_جهانی۲۰۳۰",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "78b212367973",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles",
       "summary": "Dueña de la marca MG, fue la automovilística del gigante asiático que más vehículos vendió en el mundo en el primer semestre",
       "url": "https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html",
@@ -1124,7 +991,7 @@
     },
     {
       "id": "a18b7c128841",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "Los profesores y los informáticos lideran la burbuja de las horas extra sin pagar: no se les compensa el 83% del exceso de jornada",
       "summary": "Madrid es la única comunidad donde se hacen más horas extraordinarias sin retribuir que retribuidas",
       "url": "https://elpais.com/economia/2026-08-11/los-profesores-y-los-informaticos-lideran-la-burbuja-de-las-horas-extra-sin-pagar-no-se-les-compensa-el-83-del-exceso-de-jornada.html",
@@ -1211,8 +1078,96 @@
       "editorial_version": 2
     },
     {
+      "id": "1d10953069aa",
+      "source": "EL PAÍS",
+      "title": "Mapa de sitios donde ver el eclipse total: EL PAÍS completa un buscador con casi 500 miradores oficiales",
+      "summary": "A solo un día del fenómeno astronómico, las comunidades autónomas que están dentro de la banda de totalidad ultiman los preparativos en torno a los puntos de observación escogidos con sus ayuntamientos",
+      "url": "https://elpais.com/ciencia/2026-08-11/mapa-de-sitios-donde-ver-el-eclipse-total-el-pais-completa-un-buscador-con-casi-500-miradores-oficiales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LAOCSIDRMFGV3OGWNPW3SPFXUY.jpg?auth=d6661e2c1cc2dcd8c56fa5adc53df38f34f0b6540786b3f3d9553be20f2cf3b4",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Mapa de sitios donde ver el eclipse total: EL PAÍS completa un buscador con casi 500 miradores oficiales",
+      "lead_fa": "A solo un día del fenómeno astronómico, las comunidades autónomas que están dentro de la banda de totalidad ultiman los preparativos en torno a los puntos de observación escogidos con sus ayuntamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0615d6f9a4e0",
+      "source": "EL PAÍS",
+      "title": "De los presagios divinos a la teoría de Einstein: así han cambiado los eclipses la historia",
+      "summary": "El fenómeno influyó en decisiones militares, ayudó a detener guerras y fue utilizado por Cristóbal Colón para chantajear a los indígenas aprovechando sus conocimientos astronómicos",
+      "url": "https://elpais.com/videos/2026-08-11/de-los-presagios-divinos-a-la-teoria-de-einstein-asi-han-cambiado-los-eclipses-la-historia.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200714_132736_video_1800.mp4",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "De los presagios divinos a la teoría de Einstein: así han cambiado los eclipses la historia",
+      "lead_fa": "El fenómeno influyó en decisiones militares, ayudó a detener guerras y fue utilizado por Cristóbal Colón para chantajear a los indígenas aprovechando sus conocimientos astronómicos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fa8ab7a2ca07",
+      "source": "EL PAÍS",
+      "title": "Así vivirán los lectores de EL PAÍS el eclipse solar del 12 de agosto: “Pondremos unas mesas y unas sillas junto a las matas de tomates”",
+      "summary": "De miradores o playas a huertas y llanos en la montaña y con la mejor compañía. Estos son los testimonios de nuestros lectores sobre cómo vivirán el fenómeno astronómico que cruzará España este miércoles",
+      "url": "https://elpais.com/sociedad/2026-08-11/asi-viviran-los-lectores-de-el-pais-el-eclipse-solar-del-12-de-agosto-pondremos-unas-mesas-y-unas-sillas-junto-a-las-matas-de-tomates.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TLKEGCUUY5FHFNOKG6YDCQIF2I.jpg?auth=47edecf07b5a13f90bd7ec4c965c3652de471a2b13b9b63afaf74390a3937572",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Así vivirán los lectores de EL PAÍS el eclipse solar del 12 de agosto: “Pondremos unas mesas y unas sillas junto a las matas de tomates”",
+      "lead_fa": "De miradores o playas a huertas y llanos en la montaña y con la mejor compañía. Estos son los testimonios de nuestros lectores sobre cómo vivirán el fenómeno astronómico que cruzará España este miércoles",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4093702274d9",
+      "source": "EL PAÍS",
+      "title": "Una nueva vida para el Observatorio del Ebro: “Nacimos con el eclipse de hace 121 años, el actual nos dará un nuevo impulso”",
+      "summary": "El centro astronómico catalán reivindica su importante legado con datos de más de un siglo y una biblioteca con más de 50.000 ejemplares",
+      "url": "https://elpais.com/espana/catalunya/2026-08-11/una-nueva-vida-para-el-observatorio-del-ebre-nacimos-con-el-eclipse-de-hace-121-anos-el-actual-nos-dara-un-nuevo-impulso.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NMC36YOXLVA2JOSTLXI4APFT3U.jpg?auth=c167b4e69c6c2eeb816aed2b2188037d8d776ebd79e573978ebdf7c5fce927cf",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Una nueva vida para el Observatorio del Ebro: “Nacimos con el eclipse de hace 121 años, el actual nos dará un nuevo impulso”",
+      "lead_fa": "El centro astronómico catalán reivindica su importante legado con datos de más de un siglo y una biblioteca con más de 50.000 ejemplares",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1241c5193298",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "Crimen de Tauste: la investigación se centra en esclarecer el papel de la hija y su novio en el homicidio y en cómo llegaron a la casa",
       "summary": "El entorno de las víctimas apunta que los detenidos habían hablado recientemente con el matrimonio del pueblo zaragozano sobre un tema personal que pudo desencadenar el crimen",
       "url": "https://elpais.com/espana/2026-08-11/crimen-de-tauste-la-investigacion-se-centra-en-esclarecer-el-papel-de-la-hija-y-su-novio-en-el-homicidio-y-en-como-llegaron-a-la-casa.html",
@@ -1233,8 +1188,30 @@
       "editorial_version": 2
     },
     {
+      "id": "bfc0f808af6a",
+      "source": "EL PAÍS",
+      "title": "Destinos al límite: cuando el verano desborda hasta los municipios más preparados",
+      "summary": "Noja, Lloret de Mar o Sanxenxo ejemplifican el reto de las localidades turísticas: poblaciones que se multiplican entre seis y 33 veces respecto al resto del año",
+      "url": "https://elpais.com/espana/2026-08-11/destinos-al-limite-cuando-el-verano-desborda-hasta-los-municipios-mas-preparados.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BNFVYF7HEZH4NL4Q52KKEKSYWY.jpg?auth=5a47899c9490b31d130132c54d148f5ec2d080dfe42d3c43601e32fdf30f7678",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Destinos al límite: cuando el verano desborda hasta los municipios más preparados",
+      "lead_fa": "Noja, Lloret de Mar o Sanxenxo ejemplifican el reto de las localidades turísticas: poblaciones que se multiplican entre seis y 33 veces respecto al resto del año",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "db94f22912d0",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "Jordi Sànchez, líder social del 1-O: “En prisión, lo más suave que me decían era golpista”",
       "summary": "El expresidente de la Assemblea Nacional Catalana afirma que los tres años y ocho meses que pasó entre rejas lo han hecho más resiliente y agradece “el apoyo masivo de los catalanes”",
       "url": "https://elpais.com/espana/2026-08-11/jordi-sanchez-lider-social-del-1-o-en-prision-lo-mas-suave-que-me-decian-era-golpista.html",
@@ -1244,6 +1221,314 @@
       "priority": 70,
       "title_fa": "Jordi Sànchez, líder social del 1-O: “En prisión, lo más suave que me decían era golpista”",
       "lead_fa": "El expresidente de la Assemblea Nacional Catalana afirma que los tres años y ocho meses que pasó entre rejas lo han hecho más resiliente y agradece “el apoyo masivo de los catalanes”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "100d7849c04e",
+      "source": "EL PAÍS",
+      "title": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
+      "summary": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
+      "url": "https://elpais.com/television/series/2026-08-11/de-amy-adams-a-juliette-lewis-todos-aman-al-malvado-bardem-de-el-cabo-del-miedo-es-un-osito-de-peluche.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JUXACP62GJEELNHSMM2TNC733Y.jpg?auth=0208618f062fa454781247501de127cd0626e50fe794cfe78390b62306176e8f",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "De Amy Adams a Juliette Lewis, todos aman al malvado Bardem de ‘El cabo del miedo’: “Es un osito de peluche”",
+      "lead_fa": "Los compañeros de reparto del actor en la ficción de Apple TV, que acaba de terminar su primera temporada, admiran su compromiso laboral y su sentido del humor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "95988134d524",
+      "source": "EL PAÍS",
+      "title": "Ceuta: lecciones de una catástrofe",
+      "summary": "Europa necesita un proyecto claro: que en 2027 no haya más muertes ni más llegadas irregulares en el Mediterráneo",
+      "url": "https://elpais.com/opinion/2026-08-11/ceuta-lecciones-de-una-catastrofe.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LB2FILTUMNEHPKVIGDMCC3QBJI.jpg?auth=9613353601d831e72ab6988cc27a4bce98a3ba1a52c91f91b0dca7a3211f795c",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ceuta: lecciones de una catástrofe",
+      "lead_fa": "Europa necesita un proyecto claro: que en 2027 no haya más muertes ni más llegadas irregulares en el Mediterráneo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f7c6b93cd561",
+      "source": "EL PAÍS",
+      "title": "Crónicas de un eclipse",
+      "summary": "Mañana, gafas en ristre, es un día magnífico para disfrutar del juego de sombras cósmicas que nos regala la mecánica celeste",
+      "url": "https://elpais.com/opinion/2026-08-11/cronicas-de-un-eclipse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/F6DYYKVEDNBMBCISTFASUWTRKQ.jpg?auth=c7e93786970b79b2afb197439a53b73f4babeb5c271d74c320845bbf0bdc03c8",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Crónicas de un eclipse",
+      "lead_fa": "Mañana, gafas en ristre, es un día magnífico para disfrutar del juego de sombras cósmicas que nos regala la mecánica celeste",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "912e5e3e1b13",
+      "source": "EL PAÍS",
+      "title": "Una universitaria afgana narra cómo los talibanes han expulsado a millones de mujeres y niñas de las escuelas: “Esperábamos que la comunidad internacional escuchara nuestro grito”",
+      "summary": "Karishma cuenta en primera persona cómo ha impactado en su vida el regreso de los fundamentalistas, tras tomar el poder hace cinco años",
+      "url": "https://elpais.com/internacional/2026-08-11/una-universitaria-afgana-narra-como-los-talibanes-han-expulsado-a-millones-de-mujeres-y-ninas-de-las-escuelas-esperabamos-que-la-comunidad-internacional-escuchara-nuestro-grito.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VNEMYCFYFEHYYIHI5LQSKD5MCU.jpg?auth=54597c3b0d18ccf1cd4128886e69f7dcba94587f9df43084b4b71a885148bf83",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Una universitaria afgana narra cómo los talibanes han expulsado a millones de mujeres y niñas de las escuelas: “Esperábamos que la comunidad internacional escuchara nuestro grito”",
+      "lead_fa": "Karishma cuenta en primera persona cómo ha impactado en su vida el regreso de los fundamentalistas, tras tomar el poder hace cinco años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7d8f6016593f",
+      "source": "EL PAÍS",
+      "title": "La violencia habitual que la justicia no supo ver en el caso Laura Cruz: “La actitud de Dámaso no se explica si no es desde una clara obsesión”",
+      "summary": "La Fiscalía, a lo largo de todo el proceso judicial, recurrió para que el asesino de la agente fuese condenado por acoso y por violencia continuada con decenas de ejemplos de ese “asedio”, pero los distintos fallos lo absolvieron siempre de esos delitos",
+      "url": "https://elpais.com/sociedad/2026-08-11/la-violencia-habitual-que-la-justicia-no-supo-ver-en-el-caso-laura-cruz-la-actitud-de-damaso-no-se-explica-si-no-es-desde-una-clara-obsesion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7MKLD67EQNGD5FVGNOUNSZ3UNE.jpg?auth=ae73dd5eba11f5c32ce84c787142a8af05f9f13a319b39a726eb8a71b7f72f29",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La violencia habitual que la justicia no supo ver en el caso Laura Cruz: “La actitud de Dámaso no se explica si no es desde una clara obsesión”",
+      "lead_fa": "La Fiscalía, a lo largo de todo el proceso judicial, recurrió para que el asesino de la agente fuese condenado por acoso y por violencia continuada con decenas de ejemplos de ese “asedio”, pero los distintos fallos lo absolvieron siempre de esos delitos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "90bcbb55afe7",
+      "source": "EL PAÍS",
+      "title": "Vlaada Chvátil, el inventor capaz de resumir la civilización en un tablero",
+      "summary": "El creador de juegos de mesa como ‘Through the ages’ o el exitoso ‘Código secreto’, del que publica una nueva versión, analiza su trayectoria, su método y sus obras más conocidas",
+      "url": "https://elpais.com/cultura/2026-08-11/vlaada-chvatil-el-inventor-capaz-de-resumir-la-civilizacion-en-un-tablero.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S2WBZTPA7NCLTBRWPQ3DMUBFDA.jpg?auth=5d2c319acacb22a6d8558db757f2ebda572bd3448e7b6bb4a224c96518d7e69d",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Vlaada Chvátil, el inventor capaz de resumir la civilización en un tablero",
+      "lead_fa": "El creador de juegos de mesa como ‘Through the ages’ o el exitoso ‘Código secreto’, del que publica una nueva versión, analiza su trayectoria, su método y sus obras más conocidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "774ac410eb6b",
+      "source": "EL PAÍS",
+      "title": "Lo más importante a la hora de escoger un protector solar que no provoque granos",
+      "summary": "Dermatólogos y expertos en formulación explican por qué la textura importa tanto como la protección, qué significan realmente términos como ‘oil free’ o ‘no comedogénico’ y cuáles son los errores que más favorecen la aparición de brotes de acné en verano",
+      "url": "https://elpais.com/smoda/belleza/2026-08-11/lo-mas-importante-a-la-hora-de-escoger-un-protector-solar-que-no-provoque-granos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DSEIUAP4MNEIBENFXSHJAGZ5FA.jpg?auth=c03142e2cdc47dce395b776b3cc6791193c667b86d322cb97fb2a66eb7d933f5",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Lo más importante a la hora de escoger un protector solar que no provoque granos",
+      "lead_fa": "Dermatólogos y expertos en formulación explican por qué la textura importa tanto como la protección, qué significan realmente términos como ‘oil free’ o ‘no comedogénico’ y cuáles son los errores que más favorecen la aparición de brotes de acné en verano",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "dd0d5a4eb27f",
+      "source": "EL PAÍS",
+      "title": "Trump y el muro israelí",
+      "summary": "Netanyahu rechaza el plan para Gaza propuesto por Washington y deja en evidencia su interés en el bloqueo de la situación",
+      "url": "https://elpais.com/opinion/2026-08-11/trump-y-el-muro-israeli.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M4VA7SVBHZMSFJTVF2FZ6N664Q.jpg?auth=685d15d03ad935997474e8ca365da00742f2ac7211dd715716629da7f793706e",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Trump y el muro israelí",
+      "lead_fa": "Netanyahu rechaza el plan para Gaza propuesto por Washington y deja en evidencia su interés en el bloqueo de la situación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6c60c2431cfa",
+      "source": "EL PAÍS",
+      "title": "El día se hizo noche",
+      "summary": "El nombre de Tales es símbolo de que la naturaleza permite ser desvelada",
+      "url": "https://elpais.com/opinion/2026-08-11/el-dia-se-hizo-noche.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XOMMLH3CCRKTLCAQZF2ULYR76A.jpg?auth=ddbebc80e4bd0864661174e3a6fe5653c9500fd136ab16e6a79abb8dbf51dde4",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El día se hizo noche",
+      "lead_fa": "El nombre de Tales es símbolo de que la naturaleza permite ser desvelada",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "98b806050c08",
+      "source": "EL PAÍS",
+      "title": "El verano del Estado fallido",
+      "summary": "El problema no es de los ciudadanos ni de los populistas, sino de quienes no han hecho su trabajo",
+      "url": "https://elpais.com/opinion/2026-08-11/el-verano-del-estado-fallido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PNUEUBD7CBEWFLGSHBIOG2AOXA.jpg?auth=a2ff28d660d8ff5ae8c476d2973f30ea9b05ce1808d1c80723f3cf9ee745b429",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El verano del Estado fallido",
+      "lead_fa": "El problema no es de los ciudadanos ni de los populistas, sino de quienes no han hecho su trabajo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1338cf4629c4",
+      "source": "EL PAÍS",
+      "title": "Moda agosteña de Flavita Banana: el pijama",
+      "summary": "Viñeta del 11 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-11/moda-agostena-de-flavita-banana-el-pijama.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XYDGFE4WGRAG3CHKID2MYQ47WQ.jpg?auth=d3da318c3d84d18a5f61c1bc40512df63fa84a0827d0704712115d1cc13e62bd",
+      "published_at": "2026-08-11T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Moda agosteña de Flavita Banana: el pijama",
+      "lead_fa": "Viñeta del 11 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4e3637dad3c8",
+      "source": "EL PAÍS",
+      "title": "Nunca lo ocultaron pero nunca cantaron sobre ello: cómo The B-52’s llevaron la reivindicación LGTB al pop masivo",
+      "summary": "El grupo cumple 50 años convertido en un símbolo por su mezcla inaudita de ‘new wave’ y celebración de lo camp y lo diferente y, además, mencionado por Madonna en ‘Danceteria’",
+      "url": "https://elpais.com/icon/2026-08-11/nunca-lo-ocultaron-pero-nunca-cantaron-sobre-ello-como-the-b-52s-llevaron-la-reivindicacion-lgtb-al-pop-masivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QABX5AIAORBSHK3NDTTQWYFHMI.jpg?auth=426ad2781636a8ebdc66eebe1d6ecd10b46a4100b8683af8fb9ceda7acc6536b",
+      "published_at": "2026-08-11T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Nunca lo ocultaron pero nunca cantaron sobre ello: cómo The B-52’s llevaron la reivindicación LGTB al pop masivo",
+      "lead_fa": "El grupo cumple 50 años convertido en un símbolo por su mezcla inaudita de ‘new wave’ y celebración de lo camp y lo diferente y, además, mencionado por Madonna en ‘Danceteria’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6565f6c2f18b",
+      "source": "EL PAÍS",
+      "title": "Ensalada de pollo asado y judías verdes con aliño de cacahuete",
+      "summary": "Esta receta muy fácil funciona como plato único y te sirve para almorzar o cenar, para llevar en un taper a la playa o al trabajo",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-11/ensalada-de-pollo-asado-y-judias-verdes-con-alino-de-cacahuete.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SGFTR4RS4NFXVOEBBURPI6ESGU.jpg?auth=71c50260e9dc0ce381ea0d75082ecdefa02222a549ce7e118077c40f8a7f9ff8",
+      "published_at": "2026-08-11T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ensalada de pollo asado y judías verdes con aliño de cacahuete",
+      "lead_fa": "Esta receta muy fácil funciona como plato único y te sirve para almorzar o cenar, para llevar en un taper a la playa o al trabajo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d3c01a767166",
+      "source": "EL PAÍS",
+      "title": "Las maletas que resisten al fuego, a los martillazos y a las caídas desde altura",
+      "summary": "La marca Rimowa tiene garantía de por vida porque aspira a crear objetos que se conserven para siempre. Visitamos su fábrica en Colonia",
+      "url": "https://elpais.com/eps/2026-08-11/las-maletas-que-resisten-al-fuego-a-los-martillazos-y-a-las-caidas-desde-altura.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ERCZXKMI4ZEG5NULYRIPT6EZTQ.jpg?auth=8dd70163dcdee9750fee35980cd0971501f18d398774f15271dd02c8eedb5450",
+      "published_at": "2026-08-11T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Las maletas que resisten al fuego, a los martillazos y a las caídas desde altura",
+      "lead_fa": "La marca Rimowa tiene garantía de por vida porque aspira a crear objetos que se conserven para siempre. Visitamos su fábrica en Colonia",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1266,6 +1551,28 @@
       "priority": 70,
       "title_fa": "Mapfre sale de compras para acelerar su expansión en Estados Unidos",
       "lead_fa": "La aseguradora se hace con el control de Safety Insurance Group por 1.542 millones de dólares y se afianza en el noreste del país",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cd7fcdf52b8b",
+      "source": "EL PAÍS",
+      "title": "Tres recetas sanas y rápidas con ‘air fryer’, del aperitivo al postre, y tres libros para aprender",
+      "summary": "Este electrodoméstico ya se ha hecho un hueco en muchos hogares, lo que ha llevado a los cocineros a publicar recetarios que enseñan cómo aprovecharlo al máximo",
+      "url": "https://elpais.com/gastronomia/2026-08-11/tres-recetas-sanas-y-rapidas-con-air-fryer-del-aperitivo-al-postre-y-tres-libros-para-aprender.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HKZ5FMK6VRBURCKTX5VADJLITM.jpg?auth=9f1ab28dec20ef78e7a2cf5c3da47165e933cf0fb1f1ad988eb94e99de26456b",
+      "published_at": "2026-08-11T03:25:00+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Tres recetas sanas y rápidas con ‘air fryer’, del aperitivo al postre, y tres libros para aprender",
+      "lead_fa": "Este electrodoméstico ya se ha hecho un hueco en muchos hogares, lo que ha llevado a los cocineros a publicar recetarios que enseñan cómo aprovecharlo al máximo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1354,35 +1661,6 @@
       "editorial_version": 2
     },
     {
-      "id": "fb3415921bf8",
-      "source": "EL PAÍS",
-      "title": "Trump recupera su cruzada contra las vacunas y exige reducir las dosis para los niños",
-      "summary": "El presidente de Estados Unidos aprueba una orden ejecutiva que insta a los Estados a revisar sus protocolos sobre las vacunas y separar las dosis en varias citas",
-      "url": "https://elpais.com/us/2026-08-10/trump-recupera-su-cruzada-contra-las-vacunas-y-exige-reducir-las-dosis-para-los-ninos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203519_001127_video_1800.mp4",
-      "published_at": "2026-08-10T22:52:37+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "فرمان اجرایی ترامپ برای بازبینی پروتکل‌های واکسیناسیون کودکان",
-      "lead_fa": "رئیس‌جمهور ایالات متحده دستور اجرایی جدیدی امضا کرد که از ایالت‌ها می‌خواهد پروتکل‌های واکسیناسیون را بررسی کنند. این طرح بر تفکیک دوزهای واکسن کودکان در چندین جلسه تاکید دارد.",
-      "key_points_fa": [
-        "امضای دستور اجرایی برای بازبینی پروتکل‌های واکسیناسیون",
-        "درخواست تفکیک دوزهای واکسن کودکان به چند نوبت تزریق",
-        "لزوم همکاری ایالت‌ها با دستورالعمل‌های جدید دولت فدرال"
-      ],
-      "analysis_fa": "این تصمیم بخشی از رویکرد دولت جدید ایالات متحده در قبال سیاست‌های بهداشتی و نظارت بر واکسن‌هاست. تغییر در نحوه توزیع و زمان‌بندی دوزهای واکسن می‌تواند چالش‌های اجرایی و بحث‌های کارشناسی جدیدی را در نظام سلامت این کشور ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#واکسن",
-        "#آمریکا",
-        "#بهداشت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ea792150cd4c",
       "source": "La Vanguardia",
       "title": "El metro consolida una bajada de las denuncias en el primer semestre del año",
@@ -1434,50 +1712,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0d7b3e26407b",
-      "source": "La Vanguardia",
-      "title": "Brad Pitt reconoce que ha vuelto a beber tras siete años de sobriedad: “Me salí del camino”",
-      "summary": "El actor, que dejó el alcohol en 2016 y llegó a participar en un programa de 12 pasos, asegura que ahora consume vino de forma moderada y que debe “ser profesional” con ello",
-      "url": "https://www.lavanguardia.com/gente/20260810/11611534/brad-pitt-reconoce-vuelto-beber-siete-anos-sobriedad-me-sali-camino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/14/689e5784f1f56.r_d.4320-2880-0.jpeg",
-      "published_at": "2026-08-10T18:51:35+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Brad Pitt reconoce que ha vuelto a beber tras siete años de sobriedad: “Me salí del camino”",
-      "lead_fa": "El actor, que dejó el alcohol en 2016 y llegó a participar en un programa de 12 pasos, asegura que ahora consume vino de forma moderada y que debe “ser profesional” con ello",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ac53306b3572",
-      "source": "La Vanguardia",
-      "title": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
-      "summary": "La definición es distinta en Catalunya y España, y los criterios para emitir avisos no son los mismos que para evaluar los fenómenos posteriormente",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260810/11611548/medios-ponen-acuerdo-olas-calor-llevamos-verano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79fecf1552c.jpeg",
-      "published_at": "2026-08-10T18:50:41+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
-      "lead_fa": "La definición es distinta en Catalunya y España, y los criterios para emitir avisos no son los mismos que para evaluar los fenómenos posteriormente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "86256d5ffe10",
       "source": "EL PAÍS España",
       "title": "Marruecos reclama el retorno al país de sus menores en España, la misma oferta que planteó hace dos años pero no ha aplicado",
@@ -1489,72 +1723,6 @@
       "priority": 67,
       "title_fa": "Marruecos reclama el retorno al país de sus menores en España, la misma oferta que planteó hace dos años pero no ha aplicado",
       "lead_fa": "El país magrebí asegura que lo impiden “obstáculos judiciales y administrativos” por parte de España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "abfb64ec23d5",
-      "source": "La Vanguardia",
-      "title": "Pedro Porro anuncia boda con María Hurtado tras una espectacular pedida de mano",
-      "summary": "El futbolista del Tottenham aprovechó unas vacaciones a las Islas Turcos y Caicos para dar pedir matrimonio a su novia",
-      "url": "https://www.lavanguardia.com/gente/20260810/11611538/pedro-porro-anuncia-boda-pareja-maria-hurtado-espectacular-pedida-mano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/20/6a5df5eb793a9.jpeg",
-      "published_at": "2026-08-10T18:24:30+02:00",
-      "category": "turismo",
-      "priority": 67,
-      "title_fa": "Pedro Porro anuncia boda con María Hurtado tras una espectacular pedida de mano",
-      "lead_fa": "El futbolista del Tottenham aprovechó unas vacaciones a las Islas Turcos y Caicos para dar pedir matrimonio a su novia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7e001aaa87aa",
-      "source": "EL PAÍS",
-      "title": "El mundo del fútbol estrecha la presión sobre Infantino",
-      "summary": "La UEFA, la AFC y la Concacaf cargan contra el dirigente en una carta conjunta por querer vender una participación del Mundial y la Asociación Transparencia y Democracia de Miguel Galán lo denuncia ante la Comisión Ética de la FIFA",
-      "url": "https://elpais.com/deportes/futbol/2026-08-10/la-asociacion-transparencia-y-democracia-en-el-deporte-de-miguel-galan-denuncia-a-infantino-ante-la-comision-de-etica-de-la-fifa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GYQCNZNF6NCEXBT3T66UFCBIQM.jpg?auth=58b0bf45279867e3b4b6bdd74503d46b1da375c47dd9f1fb6fe4f7500cba2726",
-      "published_at": "2026-08-10T16:50:03+00:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "El mundo del fútbol estrecha la presión sobre Infantino",
-      "lead_fa": "La UEFA, la AFC y la Concacaf cargan contra el dirigente en una carta conjunta por querer vender una participación del Mundial y la Asociación Transparencia y Democracia de Miguel Galán lo denuncia ante la Comisión Ética de la FIFA",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "595af3c77102",
-      "source": "EL PAÍS",
-      "title": "Brad Pitt confiesa que ya no es abstemio y que pensó en el suicidio tras el divorcio de Angelina Jolie",
-      "summary": "En una larga entrevista con ‘Esquire’, el actor habla de cómo tras su separación “el dolor era tan fuerte como una bala en la cabeza”, y reflexiona sobre cómo superó la pérdida y el duelo",
-      "url": "https://elpais.com/gente/2026-08-10/brad-pitt-confiesa-que-ha-recaido-en-el-alcohol-y-que-penso-en-el-suicidio-tras-el-divorcio-de-angelina-jolie.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TZXCEHISGZGB3KSYFTAOBB2AVE.jpg?auth=eff121f8826e38b62e85b58c10da1e114e1fd2f9bc173d5042c82fe787fd3cc3",
-      "published_at": "2026-08-10T16:19:45+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Brad Pitt confiesa que ya no es abstemio y que pensó en el suicidio tras el divorcio de Angelina Jolie",
-      "lead_fa": "En una larga entrevista con ‘Esquire’, el actor habla de cómo tras su separación “el dolor era tan fuerte como una bala en la cabeza”, y reflexiona sobre cómo superó la pérdida y el duelo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1589,7 +1757,7 @@
     },
     {
       "id": "6ca70a5232a0",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "La masificación turística tensa la cuerda en Baleares: “Se legisla contra nosotros”",
       "summary": "El abrumador respaldo a la manifestación de julio y la nueva movilización de este fin de semana contra la saturación refuerzan la demanda de un cambio de modelo que comparten empresarios, agentes sociales y partidos políticos",
       "url": "https://elpais.com/economia/2026-08-10/la-masificacion-turistica-tensa-la-cuerda-en-baleares-se-legisla-contra-nosotros.html",
@@ -1720,39 +1888,17 @@
       "editorial_version": 2
     },
     {
-      "id": "8426a67c8d5c",
-      "source": "EL PAÍS",
-      "title": "¿Puedo quitarme las gafas cuando el eclipse sea total? Esta es la manera segura de hacerlo",
-      "summary": "La clave para poder ver el fenómeno en su momento culminante, y sin riesgo de daños oculares, es no exponerse a la potente luz del Sol en cuanto empieza a reaparecer tras la totalidad",
-      "url": "https://elpais.com/ciencia/2026-08-10/puedo-quitarme-las-gafas-cuando-el-eclipse-sea-total-esta-es-la-manera-segura-de-hacerlo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/THEWULVV3VBARNVKWVOUWUSAYI.jpg?auth=c204ed18aba8e9e2a00a257f4fe36232def4562b904e542f0357b3e14d3e56ed",
-      "published_at": "2026-08-10T13:58:05+00:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "¿Puedo quitarme las gafas cuando el eclipse sea total? Esta es la manera segura de hacerlo",
-      "lead_fa": "La clave para poder ver el fenómeno en su momento culminante, y sin riesgo de daños oculares, es no exponerse a la potente luz del Sol en cuanto empieza a reaparecer tras la totalidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5d9bcf6b2ffe",
-      "source": "EL PAÍS",
-      "title": "Jessie Cave, de ‘Harry Potter’, revela que ha ganado más dinero en OnlyFans en un año que en toda su carrera como actriz",
-      "summary": "La intérprete británica, madre de cuatro hijos, acudió a la plataforma de contenido de pago en un momento vulnerable, pero defiende que es lo más empoderante que ha hecho en su vida. En sus vídeos, su larga melena es la protagonista: “Es un nicho muy, muy específico”",
-      "url": "https://elpais.com/gente/2026-08-10/jessie-cave-de-harry-potter-revela-que-ha-ganado-mas-dinero-en-onlyfans-en-un-ano-que-en-toda-su-carrera-como-actriz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6OZG7XGHC5GL7LM5NCCBYDRNE4.jpg?auth=c0f0e00b66e41518ecbe1df4409808f389334e9ba7a4798f4ab41b682de57dfe",
-      "published_at": "2026-08-10T13:37:50+00:00",
+      "id": "0d7b3e26407b",
+      "source": "La Vanguardia",
+      "title": "Brad Pitt reconoce que ha vuelto a beber tras siete años de sobriedad: “Me salí del camino”",
+      "summary": "El actor, que dejó el alcohol en 2016 y llegó a participar en un programa de 12 pasos, asegura que ahora consume vino de forma moderada y que debe “ser profesional” con ello",
+      "url": "https://www.lavanguardia.com/gente/20260810/11611534/brad-pitt-reconoce-vuelto-beber-siete-anos-sobriedad-me-sali-camino.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/14/689e5784f1f56.r_d.4320-2880-0.jpeg",
+      "published_at": "2026-08-10T18:51:35+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Jessie Cave, de ‘Harry Potter’, revela que ha ganado más dinero en OnlyFans en un año que en toda su carrera como actriz",
-      "lead_fa": "La intérprete británica, madre de cuatro hijos, acudió a la plataforma de contenido de pago en un momento vulnerable, pero defiende que es lo más empoderante que ha hecho en su vida. En sus vídeos, su larga melena es la protagonista: “Es un nicho muy, muy específico”",
+      "title_fa": "Brad Pitt reconoce que ha vuelto a beber tras siete años de sobriedad: “Me salí del camino”",
+      "lead_fa": "El actor, que dejó el alcohol en 2016 y llegó a participar en un programa de 12 pasos, asegura que ahora consume vino de forma moderada y que debe “ser profesional” con ello",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1764,39 +1910,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9e302c241f07",
-      "source": "EL PAÍS",
-      "title": "¿Aún no tienes claro dónde ver el eclipse? Descubre tu lugar ideal con el móvil o en el mapa de miradores oficiales",
-      "summary": "Varias aplicaciones gratuitas permiten saber si la ocultación va a ser completa en cualquier ubicación, a qué hora exacta ocurrirá y, además, comprobar si el Sol estará allí a la vista",
-      "url": "https://elpais.com/tecnologia/2026-08-10/aun-no-tienes-claro-donde-ver-el-eclipse-descubre-tu-lugar-ideal-con-el-movil-o-en-el-mapa-de-miradores-oficiales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DL5VZWOQKNDLLOFLPF7BMMAOI4.JPG?auth=34f8794232348c82a9b51bdfe44f0f6fb6465e5d63c0e70a3f5fb1b5afa03f0d",
-      "published_at": "2026-08-10T13:35:47+00:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "¿Aún no tienes claro dónde ver el eclipse? Descubre tu lugar ideal con el móvil o en el mapa de miradores oficiales",
-      "lead_fa": "Varias aplicaciones gratuitas permiten saber si la ocultación va a ser completa en cualquier ubicación, a qué hora exacta ocurrirá y, además, comprobar si el Sol estará allí a la vista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "74bedfe89198",
-      "source": "EL PAÍS",
-      "title": "Irán y EE UU alejan la perspectiva de un acuerdo con la exigencia mutua de reparaciones económicas",
-      "summary": "Teherán, en una posición de fuerza, añade nuevas exigencias para negociar y Trump responde que reclamará compensaciones por los daños causados durante décadas por la República Islámica",
-      "url": "https://elpais.com/internacional/2026-08-10/iran-pide-que-ee-uu-corrija-su-comportamiento-y-le-indemnice-para-reabrir-el-estrecho-de-ormuz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CKBCFQXA7BKT3OXFADZVRV4ZWQ.jpg?auth=9be99ebc63bb6b66765cb96284789460ca43b061f3e0fbdcd6e82ff7793cb001",
-      "published_at": "2026-08-10T13:33:14+00:00",
+      "id": "ac53306b3572",
+      "source": "La Vanguardia",
+      "title": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
+      "summary": "La definición es distinta en Catalunya y España, y los criterios para emitir avisos no son los mismos que para evaluar los fenómenos posteriormente",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20260810/11611548/medios-ponen-acuerdo-olas-calor-llevamos-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79fecf1552c.jpeg",
+      "published_at": "2026-08-10T18:50:41+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Irán y EE UU alejan la perspectiva de un acuerdo con la exigencia mutua de reparaciones económicas",
-      "lead_fa": "Teherán, en una posición de fuerza, añade nuevas exigencias para negociar y Trump responde que reclamará compensaciones por los daños causados durante décadas por la República Islámica",
+      "title_fa": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
+      "lead_fa": "La definición es distinta en Catalunya y España, y los criterios para emitir avisos no son los mismos que para evaluar los fenómenos posteriormente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1808,17 +1932,17 @@
       "editorial_version": 2
     },
     {
-      "id": "2e8487f0b9e5",
-      "source": "EL PAÍS",
-      "title": "Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen",
-      "summary": "La Guardia Civil continúa con la investigación sobre el asesinato de los dirigentes agrarios apuñalados el pasado viernes en su casa",
-      "url": "https://elpais.com/espana/2026-08-10/detenidos-una-de-las-hijas-y-su-novio-por-la-muerte-violenta-de-un-dirigente-agrario-aragones-y-su-pareja.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203367_133908_video_1800.mp4",
-      "published_at": "2026-08-10T13:31:38+00:00",
-      "category": "ciencia",
+      "id": "abfb64ec23d5",
+      "source": "La Vanguardia",
+      "title": "Pedro Porro anuncia boda con María Hurtado tras una espectacular pedida de mano",
+      "summary": "El futbolista del Tottenham aprovechó unas vacaciones a las Islas Turcos y Caicos para dar pedir matrimonio a su novia",
+      "url": "https://www.lavanguardia.com/gente/20260810/11611538/pedro-porro-anuncia-boda-pareja-maria-hurtado-espectacular-pedida-mano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/20/6a5df5eb793a9.jpeg",
+      "published_at": "2026-08-10T18:24:30+02:00",
+      "category": "turismo",
       "priority": 66,
-      "title_fa": "Detenida una hija del matrimonio asesinado en Tauste (Zaragoza) y su novio como presuntos autores del crimen",
-      "lead_fa": "La Guardia Civil continúa con la investigación sobre el asesinato de los dirigentes agrarios apuñalados el pasado viernes en su casa",
+      "title_fa": "Pedro Porro anuncia boda con María Hurtado tras una espectacular pedida de mano",
+      "lead_fa": "El futbolista del Tottenham aprovechó unas vacaciones a las Islas Turcos y Caicos para dar pedir matrimonio a su novia",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1874,28 +1998,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1d3de7497e68",
-      "source": "La Vanguardia",
-      "title": "Igualdad remite dos oficios al Ayuntamiento de Sagunto por el cartel sexista de una peña",
-      "summary": "El consistorio valenciano ya pidió la retirada de la imagen por considerarla contraria “a los principios de igualdad y convivencia ciudadana”",
-      "url": "https://www.lavanguardia.com/local/valencia/20260810/11611379/igualdad-remite-dos-oficios-ayuntamiento-sagunto-cartel-sexista-pena.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75bf6761fc1.r_d.1024-319-0.jpeg",
-      "published_at": "2026-08-10T14:15:00+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "Igualdad remite dos oficios al Ayuntamiento de Sagunto por el cartel sexista de una peña",
-      "lead_fa": "El consistorio valenciano ya pidió la retirada de la imagen por considerarla contraria “a los principios de igualdad y convivencia ciudadana”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a616995340da",
       "source": "La Vanguardia",
       "title": "El Prado celebra el eclipse con una luz especial",
@@ -1904,31 +2006,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79caf43a071.jpeg",
       "published_at": "2026-08-10T13:05:40+02:00",
       "category": "ciencia",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El Prado celebra el eclipse con una luz especial",
       "lead_fa": "El museo elabora un vídeo en el que muestra cómo serían las obras de la pinacoteca bajo la súbita penumbra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3ba01efc3383",
-      "source": "EL PAÍS",
-      "title": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
-      "summary": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
-      "url": "https://elpais.com/sociedad/2026-08-10/consumo-retira-seis-modelos-de-gafas-para-el-eclipse-por-riesgo-de-lesiones-oculares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KPI6S45NCFEARBA7OGHFWB7SGI.jpg?auth=57c92619444cf1b85da708f7dbb409ebf74973863fbf52e25b07a72c2d68a929",
-      "published_at": "2026-08-10T12:11:32+00:00",
-      "category": "ciencia",
-      "priority": 65,
-      "title_fa": "Retirados seis modelos de gafas para el eclipse por riesgo de lesiones oculares",
-      "lead_fa": "FACUA advierte que otras lentes comercializadas en los últimos meses pueden presentar problemas similares",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1948,53 +2028,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/11/29/6386216001e18.r_d.2098-1282-0.jpeg",
       "published_at": "2026-08-10T12:06:35+02:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "La falsa boda de Cristiano Ronaldo y Georgina Rodríguez provoca el caos en Madeira: la reacción del futbolista ante las 2.000 personas que colapsaron la catedral",
       "lead_fa": "Los rumores del inminente 'sí, quiero' del futbolista y la influencer acabaron afectando a la ceremonia de unos vecinos de la isla portuguesa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6f69353d3df7",
-      "source": "EL PAÍS España",
-      "title": "El narco de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
-      "summary": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
-      "url": "https://elpais.com/espana/2026-08-10/la-trama-de-la-cocaina-de-algeciras-que-blanqueo-dinero-para-conseguir-la-libertad-y-fugarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RI6WFT7BEBDZ7GUPTRFYEXNSQE.jpg?auth=b12078c5d44c35aad9603f287c40a6c56d06bf1ca2f7a4fa776d07aea1898f3b",
-      "published_at": "2026-08-10T11:01:25+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "El narco de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
-      "lead_fa": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5caf6ad84ce2",
-      "source": "EL PAÍS Economía",
-      "title": "Las consultas por ciberestafas se duplican en el primer semestre tras registrar 95.000 asistencias en el 017",
-      "summary": "El canal gratuito atiende un 40% de incidencias ciudadanas por fraudes de suplantación de identidad por teléfono, SMS o correo electrónico",
-      "url": "https://cincodias.elpais.com/companias/2026-08-10/las-consultas-por-ciberestafas-se-duplican-en-el-primer-semestre-tras-registrar-95000-asistencias-en-el-017.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GMZXVJI77ZHPXOWCLDT4HYRFYY.jpeg?auth=3c80a43e7e5cc1faff4b1458b1e3880a69580fff0dd848083824093564ea8c46",
-      "published_at": "2026-08-10T10:22:55+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Las consultas por ciberestafas se duplican en el primer semestre tras registrar 95.000 asistencias en el 017",
-      "lead_fa": "El canal gratuito atiende un 40% de incidencias ciudadanas por fraudes de suplantación de identidad por teléfono, SMS o correo electrónico",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2050,6 +2086,50 @@
       "editorial_version": 2
     },
     {
+      "id": "6f69353d3df7",
+      "source": "EL PAÍS España",
+      "title": "El narco de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
+      "summary": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
+      "url": "https://elpais.com/espana/2026-08-10/la-trama-de-la-cocaina-de-algeciras-que-blanqueo-dinero-para-conseguir-la-libertad-y-fugarse.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RI6WFT7BEBDZ7GUPTRFYEXNSQE.jpg?auth=b12078c5d44c35aad9603f287c40a6c56d06bf1ca2f7a4fa776d07aea1898f3b",
+      "published_at": "2026-08-10T11:01:25+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "El narco de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
+      "lead_fa": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5caf6ad84ce2",
+      "source": "EL PAÍS Economía",
+      "title": "Las consultas por ciberestafas se duplican en el primer semestre tras registrar 95.000 asistencias en el 017",
+      "summary": "El canal gratuito atiende un 40% de incidencias ciudadanas por fraudes de suplantación de identidad por teléfono, SMS o correo electrónico",
+      "url": "https://cincodias.elpais.com/companias/2026-08-10/las-consultas-por-ciberestafas-se-duplican-en-el-primer-semestre-tras-registrar-95000-asistencias-en-el-017.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GMZXVJI77ZHPXOWCLDT4HYRFYY.jpeg?auth=3c80a43e7e5cc1faff4b1458b1e3880a69580fff0dd848083824093564ea8c46",
+      "published_at": "2026-08-10T10:22:55+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Las consultas por ciberestafas se duplican en el primer semestre tras registrar 95.000 asistencias en el 017",
+      "lead_fa": "El canal gratuito atiende un 40% de incidencias ciudadanas por fraudes de suplantación de identidad por teléfono, SMS o correo electrónico",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "81b4c23a4f85",
       "source": "La Vanguardia",
       "title": "Los Mossos detectan un repunte del tráfico de animales en la AP-7",
@@ -2058,7 +2138,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79837b0757a.jpeg",
       "published_at": "2026-08-10T09:58:04+02:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Los Mossos detectan un repunte del tráfico de animales en la AP-7",
       "lead_fa": "La mayoría son perros que vienen de países del este y el beneficio para las mafias se puede multiplicar por veinte",
       "key_points_fa": [],
@@ -2080,31 +2160,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a75931792686.r_d.2129-1323-0.jpeg",
       "published_at": "2026-08-10T07:00:00+02:00",
       "category": "cultura",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "La televisión prepara una avalancha de series de 'romantasy'",
       "lead_fa": "'Alas de sangre' de Rebecca Yarros es uno de los títulos que tiene una de las adaptaciones más interesantes en marcha",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1b92ed6784c6",
-      "source": "EL PAÍS",
-      "title": "Así ha sido la Gala Starlite: del regreso de Antonio Banderas al inesperado dueto de Michael Bublé y Bertín Osborne",
-      "summary": "Como cada verano, la cantera de Nagüeles ha reunido a personalidades nacionales e internacionales en una noche solidaria. Venezuela estuvo presente en una fiesta que concluyó con el tenor Plácido Domingo cantándole al actor malagueño por su cumpleaños",
-      "url": "https://elpais.com/gente/2026-08-10/asi-ha-sido-la-gala-starlite-del-regreso-de-antonio-banderas-al-inesperado-dueto-de-michael-buble-y-bertin-osborne.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203307_093740_video_1800.mp4",
-      "published_at": "2026-08-10T05:09:12+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Así ha sido la Gala Starlite: del regreso de Antonio Banderas al inesperado dueto de Michael Bublé y Bertín Osborne",
-      "lead_fa": "Como cada verano, la cantera de Nagüeles ha reunido a personalidades nacionales e internacionales en una noche solidaria. Venezuela estuvo presente en una fiesta que concluyó con el tenor Plácido Domingo cantándole al actor malagueño por su cumpleaños",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2226,182 +2284,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5b2f5ed67d54",
-      "source": "EL PAÍS",
-      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
-      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "lead_fa": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cf785f2b73f1",
-      "source": "EL PAÍS",
-      "title": "Viaje por el lecho de un Danubio desnudo por la sequía: “Cada año la situación es peor”",
-      "summary": "EL PAÍS recorre un tramo del segundo río más largo de Europa, a su paso por Hungría, que está bajo límites por la falta de agua",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-10/viaje-por-el-lecho-de-un-danubio-desnudo-por-la-sequia-cada-ano-la-situacion-es-peor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BGATWKS2SNFRVNVPCJ6RTTTG5Y.jpg?auth=03106274548add304cc9a6cfa02b452a1f847e9cd595f31931faa23dc622de62",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 62,
-      "title_fa": "Viaje por el lecho de un Danubio desnudo por la sequía: “Cada año la situación es peor”",
-      "lead_fa": "EL PAÍS recorre un tramo del segundo río más largo de Europa, a su paso por Hungría, que está bajo límites por la falta de agua",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "945e8109d869",
-      "source": "EL PAÍS",
-      "title": "El descanso que cansa: la paradoja de que nos agote pasar un día en la playa",
-      "summary": "Tumbados bajo una sombrilla creemos que no hacemos nada, pero el cuerpo sigue trabajando: regular la temperatura, reponer líquidos y responder al sol consume energía",
-      "url": "https://elpais.com/salud-y-bienestar/2026-08-10/el-descanso-que-cansa-la-paradoja-de-que-nos-agote-pasar-un-dia-en-la-playa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MKJBBUBYARBIXHTOW3IJVDYH2U.jpg?auth=e56d4a95cc5a447e687f4a0ea1fe72f6f0f40c1b618a28fad903c9c993381624",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "El descanso que cansa: la paradoja de que nos agote pasar un día en la playa",
-      "lead_fa": "Tumbados bajo una sombrilla creemos que no hacemos nada, pero el cuerpo sigue trabajando: regular la temperatura, reponer líquidos y responder al sol consume energía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "76bad073c2a1",
-      "source": "EL PAÍS",
-      "title": "Hallados restos de semen en la zona genital de una de las mujeres operadas por el cirujano acusado de violar a sus pacientes en el quirófano",
-      "summary": "La jueza mantiene al facultativo en prisión provisional porque hay “indicios claros de criminalidad en su contra”",
-      "url": "https://elpais.com/sociedad/2026-08-10/hallan-restos-de-semen-en-la-zona-genital-de-una-de-las-mujeres-operadas-por-el-cirujano-acusado-de-violar-a-sus-pacientes-en-el-quirofano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4WT63R3YPRGX5GQVUHDMWG62BM.jpg?auth=4b2f44c183bfb3be3730d367a57803211df0bed011f4c5de0d4f67466c0d3812",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Hallados restos de semen en la zona genital de una de las mujeres operadas por el cirujano acusado de violar a sus pacientes en el quirófano",
-      "lead_fa": "La jueza mantiene al facultativo en prisión provisional porque hay “indicios claros de criminalidad en su contra”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e6fe5b645658",
-      "source": "EL PAÍS",
-      "title": "La madre de Marc, ahogado cuando amarraba boyas en Sa Riera: “Los responsables están tan panchos, como si no hubiera pasado nada”",
-      "summary": "Los progenitores afean a la justicia que no haya tomado ni una sola declaración en más de dos años y piden respuestas",
-      "url": "https://elpais.com/espana/catalunya/2026-08-10/la-madre-de-marc-ahogado-cuando-amarraba-boyas-en-sa-riera-los-responsables-estan-tan-panchos-como-si-no-hubiera-pasado-nada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/G53LKDBQXRHANID7IA2J5MON34.jpg?auth=4f0350a4ae560596922ac22eecc3528cc7dc876e28c632d86aebf04edcc0de28",
-      "published_at": "2026-08-10T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "La madre de Marc, ahogado cuando amarraba boyas en Sa Riera: “Los responsables están tan panchos, como si no hubiera pasado nada”",
-      "lead_fa": "Los progenitores afean a la justicia que no haya tomado ni una sola declaración en más de dos años y piden respuestas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "89a71dc03637",
-      "source": "EL PAÍS",
-      "title": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
-      "summary": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
-      "url": "https://elpais.com/smoda/belleza/2026-08-10/creatina-si-pero-vitamina-d-no-hay-sesgo-de-genero-tambien-en-torno-a-los-suplementos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QQMY2TPPFBCB5LNRFK7HTH5DFU.jpg?auth=bc8648d5ca998505d88a022b6f464cd44bb7c2268b6395002ad64afad2fafafc",
-      "published_at": "2026-08-10T03:30:00+00:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "“Creatina sí, pero vitamina D no”: ¿Hay sesgo de género también en torno a los suplementos?",
-      "lead_fa": "Los hombres los toman sobre todo para mejorar su rendimiento deportivo; las mujeres, las mayores consumidoras, para mejorar la calidad de vida o paliar síntomas en etapas concretas como la menopausia. Pero mientras sobre la creatina hay décadas de investigación, los productos en mujeres no siempre se estudian",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0858ff0f009f",
-      "source": "EL PAÍS",
-      "title": "Seis recetas de “melón con cosas” para exprimir la temporada del aperitivo al postre",
-      "summary": "En ensalada con chile y lima, gazpacho, pinchitos con bacalao ahumado o al grill: la cucurbitácea más veraniega -con permiso de la sandía- ofrece infinitas posibilidades",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-10/seis-recetas-de-melon-con-cosas-para-exprimir-la-temporada-del-aperitivo-al-postre.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BF5WN3NALFGITBPDDQM3YWHPT4.jpg?auth=3e3b2feefd73de473783c4c8306d783189f244adc34db27038649e587df83ed5",
-      "published_at": "2026-08-10T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Seis recetas de “melón con cosas” para exprimir la temporada del aperitivo al postre",
-      "lead_fa": "En ensalada con chile y lima, gazpacho, pinchitos con bacalao ahumado o al grill: la cucurbitácea más veraniega -con permiso de la sandía- ofrece infinitas posibilidades",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3a0092fa7f3f",
-      "source": "EL PAÍS",
-      "title": "El dilema del hombre descalzo: ¿cuándo y cómo enseñar el pie masculino, tan repudiado como erótico?",
-      "summary": "Las altísimas temperaturas hacen que cada vez más hombres vistan chanclas o sandalias fuera de los entornos de baño o, directamente, se descalcen en público",
-      "url": "https://elpais.com/icon/2026-08-10/el-dilema-del-hombre-descalzo-cuando-y-como-ensenar-el-pie-masculino-tan-repudiado-como-erotico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SMNY322JHVAQZGIWCYH2FKBMSQ.jpg?auth=f5b7ab00dcf2701e63202dde71a98c5818fe77d3fb8e29a854fdea1b35f1c057",
-      "published_at": "2026-08-10T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "El dilema del hombre descalzo: ¿cuándo y cómo enseñar el pie masculino, tan repudiado como erótico?",
-      "lead_fa": "Las altísimas temperaturas hacen que cada vez más hombres vistan chanclas o sandalias fuera de los entornos de baño o, directamente, se descalcen en público",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5a7c17130339",
       "source": "EL PAÍS Economía",
       "title": "Así son las nuevas oficinas para trabajadores quemados por la IA",
@@ -2497,7 +2379,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 157
+      "count": 146
     },
     {
       "source": "EL PAÍS España",
@@ -2512,7 +2394,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 138
     }
   ]
 }
