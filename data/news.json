@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T16:08:23.102667+00:00",
+  "generated_at": "2026-08-12T17:09:24.748543+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d2029037591e",
     "b3629f4e428d",
     "6f40f3abffe2",
     "851e6d1269f7",
-    "52d82f983daf"
+    "7b57d417590a"
   ],
   "items": [
     {
@@ -68,11 +68,11 @@
     {
       "id": "6f40f3abffe2",
       "source": "EL PAÍS",
-      "title": "Eclipse en España, en directo | El eclipse comienza en Alaska",
-      "summary": "España se prepara para un fenómeno histórico: “La belleza astronómica va a ser espectacular” | La DGT estima hasta 1,5 millones de desplazamientos hacia las zonas donde será visible",
+      "title": "Eclipse en España, en directo | Comienza el eclipse total en el Ártico ruso",
+      "summary": "España se prepara para un fenómeno histórico que ha comenzado hace una hora sobre Alaska: “La belleza astronómica va a ser espectacular”",
       "url": "https://elpais.com/ciencia/2026-08-12/ultima-hora-del-eclipse-solar-de-agosto-en-espana-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RK6AS7AAIJGSVKEQ25RQSJCMB4.JPG?auth=439bc27dd4f0358a46730fbe52b1b72df67bbf8c7e9cc48c81edf64298965a95",
-      "published_at": "2026-08-12T16:05:56+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/5NZFOMQO3REW5KCZGF4GK7YHVQ.jpg?auth=4d1e1276f05cf8fc7ab43dd04292bafc7d722849e6e715bb6fcb3a5eda028bb6",
+      "published_at": "2026-08-12T17:03:00+00:00",
       "category": "sociedad",
       "priority": 82,
       "title_fa": "آماده‌باش در اسپانیا برای خورشیدگرفتگی؛ هشدار ترافیکی و هشدار اضطراری",
@@ -119,34 +119,6 @@
         "#سنا",
         "#اسپانیا",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "52d82f983daf",
-      "source": "La Vanguardia",
-      "title": "Exteriores reduce a 75 los españoles desaparecidos en el seísmo de Colombia",
-      "summary": "Albares detalló en un primer momento que su departamento tenía contabilizadas a 164 personas de nacionalidad española en paradero desconocido",
-      "url": "https://www.lavanguardia.com/internacional/20260812/11612521/exteriores-reduce-75-espanoles-desaparecidos-terremoto-colombia-constar-fallecidos-heridos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c5cbfecb70.jpeg",
-      "published_at": "2026-08-12T10:54:26+02:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "کاهش شمار مفقودان اسپانیایی در زلزله کلمبیا",
-      "lead_fa": "وزارت خارجه اسپانیا آمار شهروندان مفقودشده در زلزله کلمبیا را کاهش داد. این رقم از ۱۶۴ نفر اولیه به ۷۵ نفر رسیده است.",
-      "key_points_fa": [
-        "خوزه مانويل آلبارس آمار جدید مفقودان را اعلام کرد.",
-        "شمار مفقودان تبعه اسپانیا به ۷۵ نفر کاهش یافته است.",
-        "پیش‌تر وزارت خارجه شمار مفقودان را ۱۶۴ نفر اعلام کرده بود."
-      ],
-      "analysis_fa": "تغییر در آمار مفقودان پس از بحران‌های طبیعی امری رایج است که معمولاً با برقراری ارتباط با افراد یا تثبیت اطلاعات حاصل می‌شود. این روند نشان‌دهنده پویایی ارزیابی‌های اولیه در وزارتخانه‌ها است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#کلمبیا",
-        "#زلزله"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -269,6 +241,34 @@
       "editorial_version": 2
     },
     {
+      "id": "20739ce152ba",
+      "source": "La Vanguardia",
+      "title": "El eclipse solar se deja notar sobre la Tierra: ya es visible en el Mar de Bering",
+      "summary": "La Dirección General de Tráfico (DGT) prevé un aumento de entre el 30 y el 100% del tráfico hacia las zonas de observación del eclipse total de sol de este miércole",
+      "url": "https://www.lavanguardia.com/vida/20260812/11612420/eclipse-total-sol-espana-12-agosto-hora-donde-ver-ultima-hora-hoy-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7ca262da29d.jpeg",
+      "published_at": "2026-08-12T18:43:54+02:00",
+      "category": "ciencia",
+      "priority": 77,
+      "title_fa": "جزئیات رصد خورشیدگرفتگی در اسپانیا و تمهیدات ترافیکی",
+      "lead_fa": "پنجره‌ای ویژه برای رصد خورشیدگرفتگی در اسپانیا فراهم شده است. مقام‌ها برای جلوگیری از راه‌بندان تدابیر ویژه‌ای اتخاذ کرده‌اند.",
+      "key_points_fa": [
+        "اجرای طرح ویژه ترافیکی برای جلوگیری از انسداد جاده‌ها",
+        "بزرگراه AP-7 جنوبی به عنوان نقطه بحرانی ترافیک شناسایی شد",
+        "توصیه به استفاده از عینک‌های مخصوص برای تماشای امن پدیده"
+      ],
+      "analysis_fa": "رویدادهای نجومی بزرگ در اسپانیا معمولاً با استقبال گسترده مردمی و گردشگران مواجه می‌شوند که این امر چالش‌هایی را در حوزه حمل‌ونقل جاده‌ای ایجاد می‌کند. تمرکز نهادهای ذی‌ربط بر مدیریت ترافیک نشان‌دهنده آمادگی زیرساختی برای کنترل تجمع‌های موقتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#خورشیدگرفتگی",
+        "#اسپانیا",
+        "#نجوم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "435ee05af296",
       "source": "EL PAÍS España",
       "title": "España acumula ya 226.391 hectáreas quemadas por los incendios forestales, un 38% más que en 2025",
@@ -320,34 +320,6 @@
         "#کاتالونیا",
         "#ترافیک",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "20739ce152ba",
-      "source": "La Vanguardia",
-      "title": "La llegada inminente del eclipse causa retenciones en algunas vías",
-      "summary": "Aemet prevé cielos despejados en gran parte de España, mientras comienzan las primeras retenciones y cortes de carretera en las zonas más concurridas para observar el eclipse",
-      "url": "https://www.lavanguardia.com/vida/20260812/11612420/eclipse-total-sol-espana-12-agosto-hora-donde-ver-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c542196fc1.jpeg",
-      "published_at": "2026-08-12T11:42:51+02:00",
-      "category": "ciencia",
-      "priority": 77,
-      "title_fa": "جزئیات رصد خورشیدگرفتگی در اسپانیا و تمهیدات ترافیکی",
-      "lead_fa": "پنجره‌ای ویژه برای رصد خورشیدگرفتگی در اسپانیا فراهم شده است. مقام‌ها برای جلوگیری از راه‌بندان تدابیر ویژه‌ای اتخاذ کرده‌اند.",
-      "key_points_fa": [
-        "اجرای طرح ویژه ترافیکی برای جلوگیری از انسداد جاده‌ها",
-        "بزرگراه AP-7 جنوبی به عنوان نقطه بحرانی ترافیک شناسایی شد",
-        "توصیه به استفاده از عینک‌های مخصوص برای تماشای امن پدیده"
-      ],
-      "analysis_fa": "رویدادهای نجومی بزرگ در اسپانیا معمولاً با استقبال گسترده مردمی و گردشگران مواجه می‌شوند که این امر چالش‌هایی را در حوزه حمل‌ونقل جاده‌ای ایجاد می‌کند. تمرکز نهادهای ذی‌ربط بر مدیریت ترافیک نشان‌دهنده آمادگی زیرساختی برای کنترل تجمع‌های موقتی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#خورشیدگرفتگی",
-        "#اسپانیا",
-        "#نجوم"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -870,16 +842,22 @@
       "published_at": "2026-08-12T03:30:01+00:00",
       "category": "politica",
       "priority": 71,
-      "title_fa": "El Gobierno afirma que irá al Senado pero no en los plazos que impone el PP",
-      "lead_fa": "El Ejecutivo da largas a la Cámara alta, que sufrirá este miércoles el primer plantón, por parte de Marlaska",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دولت اسپانیا حضور در سنا را تأیید کرد اما زمان آن را رد کرد",
+      "lead_fa": "دولت اسپانیا اعلام کرده که در سنا حضور خواهد یافت اما زیر بار مهلت‌های تعیین‌شده توسط حزب مردمی (PP) نمی‌رود. این تنش سیاسی فردا با عدم حضور وزیر کشور در مجلس علیا وارد مرحله تازه‌ای می‌شود.",
+      "key_points_fa": [
+        "دولت حضور در سنا را پذیرفته اما زمان‌بندی آن را رد کرده است.",
+        "حزب مردمی (PP) مهلت‌هایی را برای حضور مقامات دولتی در سنا تعیین کرده بود.",
+        "نخستین غیبت احتمالی وزیر کشور، فرناندو گراند مارلاسکا، روز چهارشنبه در سنا رقم خواهد خورد."
+      ],
+      "analysis_fa": "اختلاف میان قوه مجریه و سنای اسپانیا که تحت کنترل حزب مخالف (PP) است، نشان‌دهنده تنش‌های نهادی بر سر نظارت پارلمانی است. دولت تلاش می‌کند ابتکار عمل در زمان‌بندی پاسخگویی را حفظ کند، در حالی که جناح مخالف بهبالا بردن فشار سیاسی ادامه می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سنا",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -892,16 +870,22 @@
       "published_at": "2026-08-12T03:30:01+00:00",
       "category": "migracion",
       "priority": 71,
-      "title_fa": "El Tarajal contiene la respiración: presión policial y tensa espera en la frontera de Ceuta",
-      "lead_fa": "El paso fronterizo vive con intensidad los días tras el cruce a nado y la vuelta a Marruecos de migrantes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تنش و انتظار در مرز سبته پس از موج ورود و بازگشت مهاجران",
+      "lead_fa": "گذرگاه مرزی ال‌تاراجل در سبته روزهای پرتنشی را سپری می‌کند. این وضعیت پس از شنای مهاجران و بازگشت آن‌ها به مراکش ایجاد شده است.",
+      "key_points_fa": [
+        "حضور شدید نیروهای پلیس در گذرگاه مرزی ال‌تاراجل",
+        "تداوم فضای انتظار متنشج در مرز سبته",
+        "ثبت ترددها پس از عبور شناگران و بازگشت به مراکش"
+      ],
+      "analysis_fa": "حوادث اخیر در مرز سبته بار دیگر چالش‌های مدیریتی و امنیتی در مرزهای جنوبی اسپانیا و مراکش را برجسته کرده است. فشار پلیس و واکنش‌های متقابل نشان‌دهنده شکنندگی تعادل در این منطقه مرزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -914,16 +898,23 @@
       "published_at": "2026-08-12T03:30:01+00:00",
       "category": "economia",
       "priority": 71,
-      "title_fa": "Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas",
-      "lead_fa": "La popularización de esta alternativa casi indistinguible llena el mercado de piedras hasta 40 veces más baratas y desesperan a los gigantes del sector",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "سقوط ارزش الماس طبیعی در سایه رشد سنگ‌های مصنوعی",
+      "lead_fa": "ارزش الماس‌های طبیعی طی سه سال گذشته به دلیل محبوبیت نسخه‌های مصنوعی به نصف کاهش یافته است. این جایگزین‌های ارزان‌قیمت بازار را تسخیر کرده و غول‌های صنعت را نگران کرده‌اند.",
+      "key_points_fa": [
+        "کاهش ۵۰ درصدی ارزش الماس‌های طبیعی در سه سال اخیر",
+        "گسترش سنگ‌های مصنوعی که تشخیص آن‌ها دشوار است",
+        "عرضه سنگ‌های مصنوعی با قیمتی تا ۴۰ برابر ارزان‌تر"
+      ],
+      "analysis_fa": "افزایش محبوبیت الماس‌های مصنوعی چالش جدی برای بازار سنتی الماس ایجاد کرده است. دسترسی به سنگ‌های ارزان‌تر و مشابه با نمونه‌های طبیعی، پویایی قیمت‌گذاری در این صنعت را دگرگون کرده و فعالان سنتی را وادار به بازنگری در استراتژی‌های خود کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#الماس",
+        "#اقتصاد",
+        "#اسپانیا",
+        "#بازار"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -993,6 +984,94 @@
       "editorial_version": 2
     },
     {
+      "id": "8766f3f1f38a",
+      "source": "La Vanguardia",
+      "title": "Presos de la cárcel de Girona hackean el sistema de la Generalitat",
+      "summary": "Los piratas no han accedido a sistemas de información críticos ni han comprometido el funcionamiento del centro",
+      "url": "https://www.lavanguardia.com/local/girona/20260812/11612786/presos-carcel-girona-hackean-sistema-generalitat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/26/66cd9cf022b84.r_d.1500-1000-0.jpeg",
+      "published_at": "2026-08-12T18:32:32+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Presos de la cárcel de Girona hackean el sistema de la Generalitat",
+      "lead_fa": "Los piratas no han accedido a sistemas de información críticos ni han comprometido el funcionamiento del centro",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7382329ded5b",
+      "source": "La Vanguardia",
+      "title": "El eclipse total de Sol en luz blanca y h-alfa desde España, en streaming",
+      "summary": "Un eclipse en H-alfa (Hα) consiste en observar un eclipse solar a través de una longitud de onda muy concreta de la luz emitida por el hidrógeno",
+      "url": "https://www.lavanguardia.com/ciencia/universo/20260812/11611198/eclipse-sol-luz-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79b5aaa2f62.jpeg",
+      "published_at": "2026-08-12T18:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "El eclipse total de Sol en luz blanca y h-alfa desde España, en streaming",
+      "lead_fa": "Un eclipse en H-alfa (Hα) consiste en observar un eclipse solar a través de una longitud de onda muy concreta de la luz emitida por el hidrógeno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4c0baaa38d43",
+      "source": "La Vanguardia",
+      "title": "Bob Iger y Josh Kushner compran Los Angeles Lakers por 12.500 millones de dólares",
+      "summary": "El ex director ejecutivo de Disney y el hermano del yerno de Trump se hacen de forma sorprendente con la propiedad de la legendaria franquicia californiana",
+      "url": "https://www.lavanguardia.com/deportes/20260812/11612772/bob-iger-josh-kuhsner-compran-angeles-lakers-12-000-millones-dolares.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c9445a92bf.jpeg",
+      "published_at": "2026-08-12T17:53:54+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Bob Iger y Josh Kushner compran Los Angeles Lakers por 12.500 millones de dólares",
+      "lead_fa": "El ex director ejecutivo de Disney y el hermano del yerno de Trump se hacen de forma sorprendente con la propiedad de la legendaria franquicia californiana",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "db92d3722d98",
+      "source": "La Vanguardia",
+      "title": "Trump planea equipar a los agentes del ICE con guantes que administran descargas eléctricas",
+      "summary": "El Departamento de Seguridad Nacional anuncia que prevé invertir hasta 20 millones de dólares en esta controvertida tecnología para facilitar arrestos",
+      "url": "https://www.lavanguardia.com/internacional/20260812/11612767/administracion-trump-planea-equipar-agentes-ice-guantes-administran-descargas-electricas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c945173373.jpeg",
+      "published_at": "2026-08-12T17:44:49+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Trump planea equipar a los agentes del ICE con guantes que administran descargas eléctricas",
+      "lead_fa": "El Departamento de Seguridad Nacional anuncia que prevé invertir hasta 20 millones de dólares en esta controvertida tecnología para facilitar arrestos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6bbfcdd938ab",
       "source": "La Vanguardia",
       "title": "Consulta el estado de las carreteras para evitar atascos por el eclipse solar",
@@ -1018,14 +1097,14 @@
       "id": "cf1438c0ae8c",
       "source": "La Vanguardia",
       "title": "Ventajas de llegar tarde al tren (o al eclipse)",
-      "summary": "Diluirse en una masa tiene el efecto narcótico de un relajante muscular",
+      "summary": "El Mundial de fútbol y el eclipse tienen mucho de rito colectivo",
       "url": "https://www.lavanguardia.com/opinion/20260812/11612644/ventajas-llegar-tarde-tren.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/21/6a5f43fae64df.jpeg",
       "published_at": "2026-08-12T16:38:37+02:00",
       "category": "ciencia",
       "priority": 70,
       "title_fa": "Ventajas de llegar tarde al tren (o al eclipse)",
-      "lead_fa": "Diluirse en una masa tiene el efecto narcótico de un relajante muscular",
+      "lead_fa": "El Mundial de fútbol y el eclipse tienen mucho de rito colectivo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1059,17 +1138,17 @@
       "editorial_version": 2
     },
     {
-      "id": "5b2f5ed67d54",
+      "id": "ba1af86acc10",
       "source": "EL PAÍS",
-      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
-      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
-      "published_at": "2026-08-12T15:48:39+00:00",
-      "category": "ciencia",
+      "title": "¿Dónde hay tráfico por el eclipse? Consulte los atascos en toda España",
+      "summary": "Las cámaras de la DGT y los datos de Mapbox muestran el estado de las carreteras en tiempo real",
+      "url": "https://elpais.com/ciencia/2026-08-12/donde-hay-trafico-por-el-eclipse-consulte-los-atascos-en-toda-espana.html",
+      "image": "",
+      "published_at": "2026-08-12T16:16:55+00:00",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "lead_fa": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
+      "title_fa": "¿Dónde hay tráfico por el eclipse? Consulte los atascos en toda España",
+      "lead_fa": "Las cámaras de la DGT y los datos de Mapbox muestran el estado de las carreteras en tiempo real",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1081,17 +1160,39 @@
       "editorial_version": 2
     },
     {
-      "id": "91f7bb4b6898",
-      "source": "La Vanguardia",
-      "title": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
-      "summary": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol” y ahora “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260812/11612677/te-amo-pa-emotivo-mensaje-despedida-leo-messi-padre-fallecimiento.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c82a882781.png",
-      "published_at": "2026-08-12T15:36:16+02:00",
-      "category": "deportes",
+      "id": "15b9471dd371",
+      "source": "EL PAÍS",
+      "title": "Eurovisión pone otra traba a Israel: el nuevo reglamento impide que países en conflicto armado sean anfitriones del festival",
+      "summary": "La revisión anual del certamen realizada por su organizador, la UER, ha aprobado una serie de modificaciones de sus normas, que se aplicarán a partir de 2027",
+      "url": "https://elpais.com/television/2026-08-12/eurovision-pone-una-nueva-traba-a-israel-el-nuevo-reglamento-impide-que-paises-en-conflicto-armado-sean-anfitriones-del-festival.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/J2UEBZR5MBDGDK6BJRE5ITB3JA.jpg?auth=f826564a2a8d042fe712c1c78de3cd6ba4ee0bf384564dbb06d782de7a503282",
+      "published_at": "2026-08-12T16:01:40+00:00",
+      "category": "cultura",
       "priority": 70,
-      "title_fa": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
-      "lead_fa": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol” y ahora “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
+      "title_fa": "Eurovisión pone otra traba a Israel: el nuevo reglamento impide que países en conflicto armado sean anfitriones del festival",
+      "lead_fa": "La revisión anual del certamen realizada por su organizador, la UER, ha aprobado una serie de modificaciones de sus normas, que se aplicarán a partir de 2027",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5b2f5ed67d54",
+      "source": "EL PAÍS",
+      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
+      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
+      "published_at": "2026-08-12T15:48:39+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "lead_fa": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1169,6 +1270,50 @@
       "editorial_version": 2
     },
     {
+      "id": "91f7bb4b6898",
+      "source": "La Vanguardia",
+      "title": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
+      "summary": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol” y ahora “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260812/11612677/te-amo-pa-emotivo-mensaje-despedida-leo-messi-padre-fallecimiento.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c82a882781.png",
+      "published_at": "2026-08-12T15:36:16+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
+      "lead_fa": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol” y ahora “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ba93eaef05b0",
+      "source": "La Vanguardia",
+      "title": "Georgina Rodríguez, una novia apasionada del encaje, el escote corazón y joyas espectaculares",
+      "summary": "La recién casada aún no ha mostrado su diseño nupcial, aunque podría haber dado pistas con sus últimos looks",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260812/11612668/georgina-rodriguez-novia-apasionada-encaje-escote-corazon-joyas-espectaculares.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/06/69fb2728d0912.r_d.2892-797-0.jpeg",
+      "published_at": "2026-08-12T14:19:57+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Georgina Rodríguez, una novia apasionada del encaje, el escote corazón y joyas espectaculares",
+      "lead_fa": "La recién casada aún no ha mostrado su diseño nupcial, aunque podría haber dado pistas con sus últimos looks",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1935a15ead24",
       "source": "La Vanguardia",
       "title": "Consulta los horarios clave para ver el eclipse en los distintos puntos de la península",
@@ -1194,36 +1339,14 @@
       "id": "5af94404bbad",
       "source": "EL PAÍS",
       "title": "El primer juez del ‘caso Leire Díez’ acepta que la Audiencia Nacional se quede con la investigación",
-      "summary": "El instructor Santiago Pedraz quedará al frente de la investigación abierta contra la exmilitante socialista",
+      "summary": "El magistrado Santiago Pedraz queda al frente de la investigación abierta a la exmilitante socialista por sus maniobras contra la UCO y fiscales",
       "url": "https://elpais.com/espana/2026-08-12/el-juez-zamarriego-acepta-que-la-audiencia-nacional-se-quede-con-el-caso-leire-diez.html",
       "image": "https://imagenes.elpais.com/resizer/v2/NQCRWDAESVBKDDQL2JLFAK2WQI.jpg?auth=e2979b8d8ba5cbf5d9bba51f2177ccbfd33984dacf278494f721f894ef7decc1",
       "published_at": "2026-08-12T12:53:34+00:00",
       "category": "ciencia",
       "priority": 69,
       "title_fa": "El primer juez del ‘caso Leire Díez’ acepta que la Audiencia Nacional se quede con la investigación",
-      "lead_fa": "El instructor Santiago Pedraz quedará al frente de la investigación abierta contra la exmilitante socialista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e8466424df69",
-      "source": "La Vanguardia",
-      "title": "Los sindicatos policiales niegan la acusación de un organismo oficial marroquí de maltrato a migrantes",
-      "summary": "El Consejo Nacional de Derechos Humanos señala en un informe preliminar a la policía española por infligir “malos tratos y agresiones” en Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260812/11612597/sindicatos-policiales-niegan-acusacion-organismo-oficial-marroqui-maltrato-migrantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c4d2a2ad7c.jpeg",
-      "published_at": "2026-08-12T12:49:01+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Los sindicatos policiales niegan la acusación de un organismo oficial marroquí de maltrato a migrantes",
-      "lead_fa": "El Consejo Nacional de Derechos Humanos señala en un informe preliminar a la policía española por infligir “malos tratos y agresiones” en Ceuta",
+      "lead_fa": "El magistrado Santiago Pedraz queda al frente de la investigación abierta a la exmilitante socialista por sus maniobras contra la UCO y fiscales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1301,28 +1424,6 @@
       "editorial_version": 2
     },
     {
-      "id": "99e0ee0b183f",
-      "source": "La Vanguardia",
-      "title": "Cómo saber si unas gafas están homologadas y son adecuadas para un eclipse",
-      "summary": "Elena Salobrar, investigadora de la UCM, advierte de que durante un eclipse de Sol la “guardia baja” y el ojo está “más abierto y más expuesto”",
-      "url": "https://www.lavanguardia.com/vida/20260812/11612579/como-gafas-son-adecuadas-homologadas-ver-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74bc57bed34.r_d.983-654-0.jpeg",
-      "published_at": "2026-08-12T12:41:16+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Cómo saber si unas gafas están homologadas y son adecuadas para un eclipse",
-      "lead_fa": "Elena Salobrar, investigadora de la UCM, advierte de que durante un eclipse de Sol la “guardia baja” y el ojo está “más abierto y más expuesto”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6ed13547b175",
       "source": "EL PAÍS",
       "title": "La erupción del Etna desata el caos en los aeropuertos de Sicilia en plena temporada alta",
@@ -1334,50 +1435,6 @@
       "priority": 69,
       "title_fa": "La erupción del Etna desata el caos en los aeropuertos de Sicilia en plena temporada alta",
       "lead_fa": "La ceniza obliga a cerrar repetidamente las terminales de Catania y alcanza también Comiso, mientras miles de turistas tratan de reorganizar sus viajes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6fcb0b7cee5",
-      "source": "La Vanguardia",
-      "title": "Valldemossa comunica que las gafas repartidas por el Ayuntamiento no son adecuadas",
-      "summary": "El Consistorio ha explicado que se trata de los modelos donados por la firma Eclipse Baleares 2026 y que desaconseja su uso",
-      "url": "https://www.lavanguardia.com/local/baleares/20260812/11612594/valldemossa-comunica-gafas-repartidas-ayuntamiento-son-adecuadas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74bc5c24f26.jpeg",
-      "published_at": "2026-08-12T12:34:13+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Valldemossa comunica que las gafas repartidas por el Ayuntamiento no son adecuadas",
-      "lead_fa": "El Consistorio ha explicado que se trata de los modelos donados por la firma Eclipse Baleares 2026 y que desaconseja su uso",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ddb09923d61c",
-      "source": "La Vanguardia",
-      "title": "Los aeropuertos baten un nuevo récord en julio pese al queroseno y la incertidumbre",
-      "summary": "El Prat lidera el crecimiento entre las principales infraestructuras mientras Ryanair sigue elevando su presencia en España",
-      "url": "https://www.lavanguardia.com/economia/20260812/11612562/aeropuertos-baten-nuevo-record-julio-pese-queroseno-incertidumbre.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/20/691f51029a119.r_d.2126-1417-0.jpeg",
-      "published_at": "2026-08-12T12:10:43+02:00",
-      "category": "turismo",
-      "priority": 69,
-      "title_fa": "Los aeropuertos baten un nuevo récord en julio pese al queroseno y la incertidumbre",
-      "lead_fa": "El Prat lidera el crecimiento entre las principales infraestructuras mientras Ryanair sigue elevando su presencia en España",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1411,17 +1468,17 @@
       "editorial_version": 2
     },
     {
-      "id": "95f44e7cd975",
-      "source": "EL PAÍS",
-      "title": "Riesgos y consejos para proteger a los niños durante el eclipse de Sol total",
-      "summary": "Explicar bien lo que va ocurrir y plantear juegos, algunas de las recomendaciones para evitar daños para los que puede no haber tratamiento",
-      "url": "https://elpais.com/ciencia/2026-08-12/riesgos-y-consejos-para-proteger-a-los-ninos-durante-el-eclipse-de-sol-total.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203930_103817_video_1800.mp4",
-      "published_at": "2026-08-12T11:03:23+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Riesgos y consejos para proteger a los niños durante el eclipse de Sol total",
-      "lead_fa": "Explicar bien lo que va ocurrir y plantear juegos, algunas de las recomendaciones para evitar daños para los que puede no haber tratamiento",
+      "id": "e8466424df69",
+      "source": "La Vanguardia",
+      "title": "Los sindicatos policiales niegan la acusación de un organismo oficial marroquí de maltrato a migrantes",
+      "summary": "El Consejo Nacional de Derechos Humanos señala en un informe preliminar a la policía española por infligir “malos tratos y agresiones” en Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260812/11612597/sindicatos-policiales-niegan-acusacion-organismo-oficial-marroqui-maltrato-migrantes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c4d2a2ad7c.jpeg",
+      "published_at": "2026-08-12T12:49:01+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Los sindicatos policiales niegan la acusación de un organismo oficial marroquí de maltrato a migrantes",
+      "lead_fa": "El Consejo Nacional de Derechos Humanos señala en un informe preliminar a la policía española por infligir “malos tratos y agresiones” en Ceuta",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1433,17 +1490,39 @@
       "editorial_version": 2
     },
     {
-      "id": "d895221a95cc",
+      "id": "99e0ee0b183f",
       "source": "La Vanguardia",
-      "title": "Las diferencias que separan a los terremotos de Colombia y Venezuela",
-      "summary": "A primera vista, los desastres parecen similares, pero las consecuencias podrían ser muy distintas",
-      "url": "https://www.lavanguardia.com/internacional/20260811/11611926/diferencias-separan-terremotos-colombia-venezuela.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b3374a028a.r_d.1484-2044-0.jpeg",
-      "published_at": "2026-08-11T17:30:54+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Las diferencias que separan a los terremotos de Colombia y Venezuela",
-      "lead_fa": "A primera vista, los desastres parecen similares, pero las consecuencias podrían ser muy distintas",
+      "title": "Cómo saber si unas gafas están homologadas y son adecuadas para un eclipse",
+      "summary": "Elena Salobrar, investigadora de la UCM, advierte de que durante un eclipse de Sol la “guardia baja” y el ojo está “más abierto y más expuesto”",
+      "url": "https://www.lavanguardia.com/vida/20260812/11612579/como-gafas-son-adecuadas-homologadas-ver-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74bc57bed34.r_d.983-654-0.jpeg",
+      "published_at": "2026-08-12T12:41:16+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Cómo saber si unas gafas están homologadas y son adecuadas para un eclipse",
+      "lead_fa": "Elena Salobrar, investigadora de la UCM, advierte de que durante un eclipse de Sol la “guardia baja” y el ojo está “más abierto y más expuesto”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6fcb0b7cee5",
+      "source": "La Vanguardia",
+      "title": "Valldemossa comunica que las gafas repartidas por el Ayuntamiento no son adecuadas",
+      "summary": "El Consistorio ha explicado que se trata de los modelos donados por la firma Eclipse Baleares 2026 y que desaconseja su uso",
+      "url": "https://www.lavanguardia.com/local/baleares/20260812/11612594/valldemossa-comunica-gafas-repartidas-ayuntamiento-son-adecuadas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74bc5c24f26.jpeg",
+      "published_at": "2026-08-12T12:34:13+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Valldemossa comunica que las gafas repartidas por el Ayuntamiento no son adecuadas",
+      "lead_fa": "El Consistorio ha explicado que se trata de los modelos donados por la firma Eclipse Baleares 2026 y que desaconseja su uso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1458,36 +1537,14 @@
       "id": "95ce733fa1dc",
       "source": "La Vanguardia",
       "title": "El Eclipse solar, en directo",
-      "summary": "Para observarlo es imprescindible utilizar gafas especiales homologadas para eclipses solares y evitar mirar directamente al Sol sin protección",
+      "summary": "En España, el eclipse comenzará a ser visible a las 19:30 horas, alcanzando la totalidad a las 20:26 horas",
       "url": "https://www.lavanguardia.com/ciencia/universo/20260812/11612033/eclipse-solar-total-espana-barcelona-madrid.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b0bd41121b.r_d.960-540-0.jpeg",
       "published_at": "2026-08-12T12:00:00+02:00",
       "category": "ciencia",
       "priority": 68,
       "title_fa": "El Eclipse solar, en directo",
-      "lead_fa": "Para observarlo es imprescindible utilizar gafas especiales homologadas para eclipses solares y evitar mirar directamente al Sol sin protección",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7382329ded5b",
-      "source": "La Vanguardia",
-      "title": "El eclipse total de Sol en luz blanca y h-alfa desde España, en streaming",
-      "summary": "Un eclipse en H-alfa (Hα) consiste en observar un eclipse solar a través de una longitud de onda muy concreta de la luz emitida por el hidrógeno",
-      "url": "https://www.lavanguardia.com/ciencia/universo/20260812/11611198/eclipse-sol-luz-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79b5aaa2f62.jpeg",
-      "published_at": "2026-08-12T12:00:00+02:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "El eclipse total de Sol en luz blanca y h-alfa desde España, en streaming",
-      "lead_fa": "Un eclipse en H-alfa (Hα) consiste en observar un eclipse solar a través de una longitud de onda muy concreta de la luz emitida por el hidrógeno",
+      "lead_fa": "En España, el eclipse comenzará a ser visible a las 19:30 horas, alcanzando la totalidad a las 20:26 horas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1532,28 +1589,6 @@
       "priority": 68,
       "title_fa": "El eclipse solar desde Islandia hasta España: la vista desde diferentes lugares del mundo, en streaming",
       "lead_fa": "El eclipse solar total también recorrerá el norte de España con una franja de totalidad de entre 290 y 300 kilómetros de ancho",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b5260bdfc528",
-      "source": "La Vanguardia",
-      "title": "Putin ve una amenaza para Rusia la “infiltración” de la OTAN en la región Asia-Pacífico",
-      "summary": "El jefe del Kremlin avisa a la UE que responderá en aguas de todo el mundo a la confiscación de los buques de la llamada “flota fantasma” rusa",
-      "url": "https://www.lavanguardia.com/internacional/20260812/11612549/putin-ve-una-amenaza-para-rusia-la-infiltracion-de-la-otan-en-la-region-de-asia-pacifico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c41e5c6805.r_d.2815-1698-0.jpeg",
-      "published_at": "2026-08-12T11:54:39+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Putin ve una amenaza para Rusia la “infiltración” de la OTAN en la región Asia-Pacífico",
-      "lead_fa": "El jefe del Kremlin avisa a la UE que responderá en aguas de todo el mundo a la confiscación de los buques de la llamada “flota fantasma” rusa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1939,28 +1974,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4570693fa96a",
-      "source": "EL PAÍS",
-      "title": "Todos los errores que pueden arruinar la experiencia del eclipse y que puedes evitar",
-      "summary": "Una mala elección del lugar, unas gafas en mal estado o no prever el tráfico son algunos de los inconvenientes que pueden estropear el disfrute de un fenómeno que dura menos de dos minutos",
-      "url": "https://elpais.com/videos/2026-08-12/todos-los-errores-que-pueden-arruinar-la-experiencia-del-eclipse-y-que-puedes-evitar.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260808/1203047_200029_video_1800.mp4",
-      "published_at": "2026-08-12T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Todos los errores que pueden arruinar la experiencia del eclipse y que puedes evitar",
-      "lead_fa": "Una mala elección del lugar, unas gafas en mal estado o no prever el tráfico son algunos de los inconvenientes que pueden estropear el disfrute de un fenómeno que dura menos de dos minutos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cfbb22d470af",
       "source": "EL PAÍS",
       "title": "Los ‘haters’ del eclipse: “Prefiero ir al cine antes que verlo”",
@@ -2211,7 +2224,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7ZJNQN67OZFLPJN3F57EWGCCU4.jpg?auth=f802135a59380148b085a95ec5520dc45a6d0e2e6e6f2f271c7a7259e2ceb5cd",
       "published_at": "2026-08-11T13:59:08+00:00",
       "category": "deportes",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Arranca el mayor escaparate de las estrellas del mundo",
       "lead_fa": "23 de los 52 jugadores convocados para la final del Mundial y 18 campeones juegan en LALIGA. Ninguna de las grandes ligas europeas supera el dato. La competición arranca este viernes con nuevas caras y viejos conocidos que elevan el nivel del torneo",
       "key_points_fa": [],
@@ -2348,7 +2361,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 154
+      "count": 153
     },
     {
       "source": "EL PAÍS España",
@@ -2363,7 +2376,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 149
+      "count": 148
     }
   ]
 }
