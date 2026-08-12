@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:03:27.659578+00:00",
+  "generated_at": "2026-08-12T09:22:22.900822+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ef496a2ec272",
@@ -243,11 +243,11 @@
     {
       "id": "20739ce152ba",
       "source": "La Vanguardia",
-      "title": "Eclipse solar hoy, en directo | A qué hora es en España, cómo verlo con gafas y última hora hora del fenómeno astronómico este 12 de agosto",
-      "summary": "Un dispositivo especial intentará evitar el colapso viario, siendo la AP-7 sur el punto negro",
+      "title": "Eclipse solar, en directo | Última hora: mapa, dónde verlo, horarios y recomendaciones para hoy, 12 de agosto",
+      "summary": "El president de la Generalitat, Salvador Illa, ha hecho un llamamiento a la “prudencia” para seguir el eclipse solar total de hoy",
       "url": "https://www.lavanguardia.com/vida/20260812/11612420/eclipse-total-sol-espana-12-agosto-hora-donde-ver-ultima-hora-hoy-en-directo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b3a410dddf.jpeg",
-      "published_at": "2026-08-12T09:31:14+02:00",
+      "published_at": "2026-08-12T10:37:58+02:00",
       "category": "ciencia",
       "priority": 77,
       "title_fa": "جزئیات رصد خورشیدگرفتگی در اسپانیا و تمهیدات ترافیکی",
@@ -274,7 +274,7 @@
       "title": "Todo preparado para el eclipse con las incógnitas de la movilidad y la meteorología",
       "summary": "Un dispositivo especial intentará evitar el colapso viario, siendo la AP-7 sur el punto negro, en una jornada con alto riesgo de incendios",
       "url": "https://www.lavanguardia.com/vida/20260812/11612202/preparado-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b56646ae81.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32c1b7a97.jpeg",
       "published_at": "2026-08-12T06:00:00+02:00",
       "category": "sociedad",
       "priority": 77,
@@ -446,16 +446,23 @@
       "published_at": "2026-08-12T03:30:01+00:00",
       "category": "sociedad",
       "priority": 76,
-      "title_fa": "Las Médulas siguen sin planes de protección propios un año después de que el fuego arrasara el Patrimonio de la Humanidad",
-      "lead_fa": "La Junta de Castilla y León reconstruye el mirador turístico pero no actualiza las estrategias contra los incendios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "لاس مدولاس پس از آتش‌سوزی همچنان بدون برنامه حفاظتی اختصاصی",
+      "lead_fa": "منطقه باستانی لاس مدولاس یک سال پس از وقوع آتش‌سوزی گسترده هنوز فاقد برنامه جامع حفاظتی است. دولت محلی کاستیا و لئون تنها به بازسازی یک منظرگاه گردشگری بسنده کرده است.",
+      "key_points_fa": [
+        "منطقه ثبت‌شده در فهرست میراث جهانی همچنان بدون استراتژی به‌روزشده ضد حریق است.",
+        "دولت کاستیا و لئون میرادور (منظرگاه) توریستی را بازسازی کرده است.",
+        "اقدامات پیشگیرانه کافی برای حفاظت از این اثر تاریخی انجام نشده است."
+      ],
+      "analysis_fa": "تأخیر در به‌روزرسانی استراتژی‌های ایمنی و حفاظتی در مناطق میراث جهانی اسپانیا نشان‌دهنده چالش‌های مدیریتی میان حفاظت از آثار باستانی و تخصیص بودجه برای پیشگیری از بحران‌های طبیعی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#لاس_مدولاس",
+        "#میراث_فرهنگی",
+        "#اسپانیا",
+        "#آتش_سوزی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -466,18 +473,24 @@
       "url": "https://cincodias.elpais.com/criptoactivos/2026-08-12/la-adaptacion-a-la-normativa-cripto-abre-nuevas-brechas-para-los-estafadores.html",
       "image": "https://imagenes.elpais.com/resizer/v2/6HDD277CDJB5LOF52SZWUGC6WI.jpg?auth=c71d63df87633340add11dd5f909862a23c6ae843b1a6b29535369628516b2f6",
       "published_at": "2026-08-12T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 76,
-      "title_fa": "La adaptación a la normativa cripto abre nuevas brechas para los estafadores",
-      "lead_fa": "La ESMA alerta de que los ciberdelincuentes suplantan la identidad de los supervisores para captar los fondos de los inversores que migran a otras plataformas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کلاهبرداری جدید با سوءاستفاده از قوانین رمزارز در اسپانیا",
+      "lead_fa": "سازمان بورس و اوراق بهادار اروپا درباره کلاهبرداری سایبری جدیدی هشدار داد. مجرمان با جعل عنوان نهادهای نظارتی، سرمایه‌گذاران را هدف قرار می‌دهند.",
+      "key_points_fa": [
+        "هشدار ESMA درباره سوءاستفاده از انطباق با قوانین جدید رمزارز",
+        "جعل هویت نهادهای نظارتی برای فریب سرمایه‌گذاران",
+        "هدف قرار دادن کاربرانی که در حال انتقال دارایی به پلتفرم‌های دیگر هستند"
+      ],
+      "analysis_fa": "با اجرایی شدن مقررات جدید مربوط به دارایی‌های دیجیتال، کلاهبرداران سایبری روش‌های خود را به‌روز کرده و با سوءاستفاده از فضای گذار، تلاش می‌کنند تا اعتماد سرمایه‌گذاران را جلب کرده و دارایی‌های آن‌ها را به تاراج ببرند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#رمزارز",
+        "#اسپانیا",
+        "#کلاهبرداری_سایبری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -486,34 +499,40 @@
       "title": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha victoria centrista",
       "summary": "En Minnesota se impone la candidata izquierdista, que aspirará a un escaño de senadora en las elecciones de noviembre",
       "url": "https://elpais.com/us/2026-08-12/las-primarias-democratas-en-wisconsin-muestran-la-division-extrema-del-partido-con-una-estrecha-ventaja-centrista.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E5L3MD7GZBNIFBMKWEWSSX6SPU.jpg?auth=1185c5479ea8699af58f90fffb244c6e39b8b33059339f119b562c4192300433",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203900_081618_video_1800.mp4",
       "published_at": "2026-08-12T07:50:07+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha victoria centrista",
-      "lead_fa": "En Minnesota se impone la candidata izquierdista, que aspirará a un escaño de senadora en las elecciones de noviembre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پیروزی میانه‌روها در مقدماتی ویسکانسین و چپ‌گرایان در مینه‌سوتا",
+      "lead_fa": "انتخابات مقدماتی حزب دمکرات در ایالات ویسکانسین و مینه‌سوتا برگزار شد. این رقابت‌ها شکاف عمیق درون‌حزبی را پیش از انتخابات نوامبر به نمایش گذاشت.",
+      "key_points_fa": [
+        "پیروزی نزدیک نامزد میانه‌رو در انتخابات مقدماتی ویسکانسین",
+        "پیروزی نامزد چپ‌گرا در مینه‌سوتا و راهیابی به رقابت سنا در نوامبر",
+        "نمایش شکاف شدید میان طیف‌های مختلف حزب دمکرات در ایالات کلیدی"
+      ],
+      "analysis_fa": "نتایج این انتخابات مقدماتی نشان‌دهنده چالش‌های درونی حزب دمکرات برای ایجاد اجماع میان جناح‌های میانه‌رو و چپ‌گرا است. این دودستگی می‌تواند بر پویایی مبارزات انتخاباتی نوامبر تأثیرگذار باشد، در حالی که حزب تلاش می‌کند آرای طیف‌های مختلف را جذب کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمریکا",
+        "#انتخابات",
+        "#دمکرات"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "c1f10986c188",
+      "id": "252bc178371d",
       "source": "La Vanguardia",
-      "title": "Meta y Tik-Tok monitorizarán los mensajes sobre Ceuta tras la advertencia de Europa",
-      "summary": "Bruselas ha mantenido conversaciones con ambas compañías en la convicción de que el salto a la frontera que causó 141 muertes fue propiciado por desinformación distribuida por redes sociales",
-      "url": "https://www.lavanguardia.com/politica/20260812/11612421/meta-tik-tok-monitorizaran-mensajes-sobre-ceuta-advertencia-europa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/30/6a6b5519c0616.jpeg",
-      "published_at": "2026-08-12T07:36:22+02:00",
-      "category": "migracion",
+      "title": "Un despliegue de seguridad nunca visto para seguir el eclipse en la Comunitat Valenciana",
+      "summary": "El dispositivo está formado por 15.000 efectivos, 29 medios aéreos y 40 drones para garantizar la seguridad, se cierra el paso a parques naturales y habrá atención especial a la posibilidad de incendios forestales",
+      "url": "https://www.lavanguardia.com/local/valencia/20260812/11612157/despliegue-seguridad-nunca-visto-seguir-eclipse-comunitat-valenciana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b438dc0484.r_d.2459-2214-0.jpeg",
+      "published_at": "2026-08-12T05:00:00+02:00",
+      "category": "sociedad",
       "priority": 75,
-      "title_fa": "Meta y Tik-Tok monitorizarán los mensajes sobre Ceuta tras la advertencia de Europa",
-      "lead_fa": "Bruselas ha mantenido conversaciones con ambas compañías en la convicción de que el salto a la frontera que causó 141 muertes fue propiciado por desinformación distribuida por redes sociales",
+      "title_fa": "Un despliegue de seguridad nunca visto para seguir el eclipse en la Comunitat Valenciana",
+      "lead_fa": "El dispositivo está formado por 15.000 efectivos, 29 medios aéreos y 40 drones para garantizar la seguridad, se cierra el paso a parques naturales y habrá atención especial a la posibilidad de incendios forestales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -663,6 +682,28 @@
         "#جوانان"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "c1f10986c188",
+      "source": "La Vanguardia",
+      "title": "Meta y Tik-Tok monitorizarán los mensajes sobre Ceuta tras la advertencia de Europa",
+      "summary": "Bruselas ha mantenido conversaciones con ambas compañías en la convicción de que el salto a la frontera que causó 141 muertes fue propiciado por desinformación distribuida por redes sociales",
+      "url": "https://www.lavanguardia.com/politica/20260812/11612421/meta-tik-tok-monitorizaran-mensajes-sobre-ceuta-advertencia-europa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/30/6a6b5519c0616.jpeg",
+      "published_at": "2026-08-12T07:36:22+02:00",
+      "category": "migracion",
+      "priority": 74,
+      "title_fa": "Meta y Tik-Tok monitorizarán los mensajes sobre Ceuta tras la advertencia de Europa",
+      "lead_fa": "Bruselas ha mantenido conversaciones con ambas compañías en la convicción de que el salto a la frontera que causó 141 muertes fue propiciado por desinformación distribuida por redes sociales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -869,10 +910,10 @@
       "title": "La Audiencia Nacional confirma la multa de 15.000 euros al periodista de ‘El Confidencial’ que usó información privilegiada",
       "summary": "El tribunal ratifica la primera sanción de la CNMV a un informador al constatar que adquirió los títulos de OHL días antes de publicar una exclusiva sobre la compañía",
       "url": "https://cincodias.elpais.com/companias/2026-08-12/la-audiencia-nacional-confirma-la-multa-de-15000-euros-al-periodista-de-el-confidencial-que-uso-informacion-privilegiada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CJ5G75P2ABMTXDI6QFVTASBZRA.jpg?auth=2547acff43ccb4574eb1602e5d65b3c934915964f86c466287cc633e5d02061f",
+      "image": "https://imagenes.elpais.com/resizer/v2/3GGDZFIY2VI6XCQQKZJQJTQJ6E.jpg?auth=8b6ac42a08f49b318e85cf1319bc1fbb0dce07dced2a958f278b937f0c49af30",
       "published_at": "2026-08-12T03:15:00+00:00",
       "category": "politica",
-      "priority": 74,
+      "priority": 73,
       "title_fa": "La Audiencia Nacional confirma la multa de 15.000 euros al periodista de ‘El Confidencial’ que usó información privilegiada",
       "lead_fa": "El tribunal ratifica la primera sanción de la CNMV a un informador al constatar que adquirió los títulos de OHL días antes de publicar una exclusiva sobre la compañía",
       "key_points_fa": [],
@@ -908,17 +949,17 @@
       "editorial_version": 2
     },
     {
-      "id": "8d0c144f42c2",
+      "id": "75ceabbee784",
       "source": "La Vanguardia",
-      "title": "Trump y el cambio de avión: “Cumplí órdenes; recibo muchas amenazas”",
-      "summary": "El presidente estadounidense asegura que se limitó a cumplir órdenes y actuó bajo la supervisión del Servicio Secreto y del Ejército",
-      "url": "https://www.lavanguardia.com/internacional/20260812/11612418/trump-justifica-cambio-avion-ankara-orden-servicio-secreto-recibo-muchas-amenazas-desconocen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c015e117c7.r_d.2936-1625-0.jpeg",
-      "published_at": "2026-08-12T07:24:16+02:00",
+      "title": "Todos los detalles de la boda secreta de Cristiano Ronaldo y Georgina Rodríguez: del lugar elegido a los imprescindibles invitados",
+      "summary": "El futbolista y la influencer se dieron el “sí, quiero” en una ceremonia íntima que no desvelaron hasta después de convertirse en marido y mujer",
+      "url": "https://www.lavanguardia.com/gente/20260812/11612476/todos-detalles-boda-secreta-cristiano-ronaldo-georgina-rodriguez-lugar-elegido-imprescindibles-invitados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/04/27/644a0eaeeb0ee.r_d.468-258-0.jpeg",
+      "published_at": "2026-08-12T10:10:52+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Trump y el cambio de avión: “Cumplí órdenes; recibo muchas amenazas”",
-      "lead_fa": "El presidente estadounidense asegura que se limitó a cumplir órdenes y actuó bajo la supervisión del Servicio Secreto y del Ejército",
+      "title_fa": "Todos los detalles de la boda secreta de Cristiano Ronaldo y Georgina Rodríguez: del lugar elegido a los imprescindibles invitados",
+      "lead_fa": "El futbolista y la influencer se dieron el “sí, quiero” en una ceremonia íntima que no desvelaron hasta después de convertirse en marido y mujer",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -927,6 +968,34 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5b2f5ed67d54",
+      "source": "EL PAÍS",
+      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
+      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
+      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
+      "published_at": "2026-08-12T08:18:14+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "وضعیت پوشش ابر در مناطق مختلف اسپانیا برای خورشیدگرفتگی ۱۲ اوت",
+      "lead_fa": "نقشه‌های پیش‌بینی وضعیت آسمان و میزان ابرناکی برای روز چهارشنبه ۱۲ اوت به‌روزرسانی شده‌اند. این اطلاعات به علاقه‌مندان کمک می‌کند تا وضعیت افق را در هر منطقه بررسی کنند.",
+      "key_points_fa": [
+        "به‌روزرسانی نقشه‌های پیش‌بینی ابرناکی برای ۱۲ اوت",
+        "ارائه جزئیات درباره نوع ابرها و جهت مناسب برای رصد",
+        "پوشش وضعیت جوی به تفکیک شهرداری‌های مختلف"
+      ],
+      "analysis_fa": "دسترسی به داده‌های دقیق جوی برای رویدادهای نجومی اهمیت بالایی دارد و ابزارهای آنلاین پیش‌بینی ابر به رصدگران کمک می‌کنند تا بهترین مکان را برای مشاهده پدیده انتخاب کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#نجوم",
+        "#هواشناسی"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -949,34 +1018,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5b2f5ed67d54",
-      "source": "EL PAÍS",
-      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada municipio",
-      "summary": "Mostramos y actualizamos en un mapa varias previsiones de nubosidad para el miércoles 12 de agosto: dónde habrá nubes, de qué tipo y en qué dirección mirar",
-      "url": "https://elpais.com/el-tiempo/2026-08-10/donde-habra-nubes-que-impidan-ver-el-eclipse-consulte-como-estaran-los-cielos-y-el-horizonte-en-cada-municipio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XV7WRR7D2LXNX2T2WVGTZ44ZJ4.jpg?auth=131e5d1d6a8f718e70f4d2a4193bb4a4d855274af7252cf33e808682babba985",
-      "published_at": "2026-08-12T05:37:33+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "وضعیت پوشش ابر در مناطق مختلف اسپانیا برای خورشیدگرفتگی ۱۲ اوت",
-      "lead_fa": "نقشه‌های پیش‌بینی وضعیت آسمان و میزان ابرناکی برای روز چهارشنبه ۱۲ اوت به‌روزرسانی شده‌اند. این اطلاعات به علاقه‌مندان کمک می‌کند تا وضعیت افق را در هر منطقه بررسی کنند.",
-      "key_points_fa": [
-        "به‌روزرسانی نقشه‌های پیش‌بینی ابرناکی برای ۱۲ اوت",
-        "ارائه جزئیات درباره نوع ابرها و جهت مناسب برای رصد",
-        "پوشش وضعیت جوی به تفکیک شهرداری‌های مختلف"
-      ],
-      "analysis_fa": "دسترسی به داده‌های دقیق جوی برای رویدادهای نجومی اهمیت بالایی دارد و ابزارهای آنلاین پیش‌بینی ابر به رصدگران کمک می‌کنند تا بهترین مکان را برای مشاهده پدیده انتخاب کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#نجوم",
-        "#هواشناسی"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1004,6 +1045,28 @@
         "#علم"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8d0c144f42c2",
+      "source": "La Vanguardia",
+      "title": "Trump y el cambio de avión: “Cumplí órdenes; recibo muchas amenazas”",
+      "summary": "El presidente estadounidense asegura que se limitó a cumplir órdenes y actuó bajo la supervisión del Servicio Secreto y del Ejército",
+      "url": "https://www.lavanguardia.com/internacional/20260812/11612418/trump-justifica-cambio-avion-ankara-orden-servicio-secreto-recibo-muchas-amenazas-desconocen.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b305585c6d.jpeg",
+      "published_at": "2026-08-12T07:24:16+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Trump y el cambio de avión: “Cumplí órdenes; recibo muchas amenazas”",
+      "lead_fa": "El presidente estadounidense asegura que se limitó a cumplir órdenes y actuó bajo la supervisión del Servicio Secreto y del Ejército",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1056,7 +1119,7 @@
       "title": "El pequeño pueblo burgalés señalado en el mapa: “Estamos agobiadísimos”",
       "summary": "La localidad había preparado un apacible encuentro de vecinos para celebrar el fenómeno astronómico hasta que apareció en un reportaje bucólico de la BBC",
       "url": "https://www.lavanguardia.com/vida/20260812/11612199/avellanosa-muno-agobiadisimos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b54dab27d8.r_d.1720-1404-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c26d73a050.jpeg",
       "published_at": "2026-08-12T06:00:00+02:00",
       "category": "sociedad",
       "priority": 69,
@@ -1194,28 +1257,6 @@
       "priority": 69,
       "title_fa": "“Podríamos recuperar órganos que hasta ahora considerábamos dañados de forma irreversible”",
       "lead_fa": "En ‘La edad no importa’, esta experta en medicina de longevidad saludable explica de qué forma los hábitos cotidianos desempeñan un papel decisivo para llegar a la vejez con más salud y autonomía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1be7a2f4daea",
-      "source": "La Vanguardia",
-      "title": "El apoderado de Maradona ofrece 150.000 dólares a sus herederos a cambio de retirar la querella contra él",
-      "summary": "Mientras el juicio por la muerte del astro argentino entra en la recta final, la familia acusa a Matías Morla de administración fraudulenta sobre los ingresos derivados de su nombre",
-      "url": "https://www.lavanguardia.com/gente/20260812/11612257/maradona-querella-morla-dolares-juicio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b920fdd076.r_d.545-238-0.jpeg",
-      "published_at": "2026-08-12T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El apoderado de Maradona ofrece 150.000 dólares a sus herederos a cambio de retirar la querella contra él",
-      "lead_fa": "Mientras el juicio por la muerte del astro argentino entra en la recta final, la familia acusa a Matías Morla de administración fraudulenta sobre los ingresos derivados de su nombre",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1513,28 +1554,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2b755bcf1589",
-      "source": "EL PAÍS",
-      "title": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
-      "summary": "Policías de varios países siguen investigando 19 años después lo ocurrido a la niña británica, que se esfumó mientras dormía en un apartamento turístico en el Algarve",
-      "url": "https://elpais.com/sociedad/2026-08-12/siete-mil-dias-sin-madeleine-mccann-la-desaparicion-que-estremecio-al-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/67VWH2UKVVG7NAHYEW5L3TKGQE.jpg?auth=ce223ddfc278a32fceefea91b2c46244ad46461b31fb6c9d2f507f1c8592a1ca",
-      "published_at": "2026-08-12T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
-      "lead_fa": "Policías de varios países siguen investigando 19 años después lo ocurrido a la niña británica, que se esfumó mientras dormía en un apartamento turístico en el Algarve",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ef322774f479",
       "source": "EL PAÍS",
       "title": "16 pueblos españoles que piden manga larga cuando cae la tarde",
@@ -1656,6 +1675,28 @@
       "priority": 69,
       "title_fa": "Andalucía pagará 7,4 millones a la Iglesia esta legislatura para los capellanes católicos de los hospitales públicos",
       "lead_fa": "La marea blanca y Andalucía Laica tildan el gasto de “insulto a la ciudadanía” dada la precariedad del sistema sanitario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2b755bcf1589",
+      "source": "EL PAÍS",
+      "title": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
+      "summary": "Policías de varios países siguen investigando 19 años después lo ocurrido a la niña británica, que se esfumó mientras dormía en un apartamento turístico en el Algarve",
+      "url": "https://elpais.com/sociedad/2026-08-12/siete-mil-dias-sin-madeleine-mccann-la-desaparicion-que-estremecio-al-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/67VWH2UKVVG7NAHYEW5L3TKGQE.jpg?auth=ce223ddfc278a32fceefea91b2c46244ad46461b31fb6c9d2f507f1c8592a1ca",
+      "published_at": "2026-08-12T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Siete mil días sin Madeleine McCann, la desaparición que estremeció al mundo",
+      "lead_fa": "Policías de varios países siguen investigando 19 años después lo ocurrido a la niña británica, que se esfumó mientras dormía en un apartamento turístico en el Algarve",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1821,34 +1862,12 @@
       "editorial_version": 2
     },
     {
-      "id": "615d4680a072",
-      "source": "EL PAÍS Economía",
-      "title": "El camión eléctrico, en la encrucijada: las marcas tienen el producto, pero no hay donde cargarlos",
-      "summary": "La venta de vehículos industriales de más de 16 toneladas sin emisiones han caído un 22% entre 2023 y 2025, y continúan en caída libre este año",
-      "url": "https://cincodias.elpais.com/companias/2026-08-12/el-camion-electrico-en-la-encrucijada-las-marcas-tienen-el-producto-pero-no-hay-donde-cargarlos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BB7EVLMGRZEAXB6RD2ORXN5N2A.jpg?auth=6cb7fd5cec567886fd8faeb4d909369b343a7b169a488915dbdf3fffad53ac17",
-      "published_at": "2026-08-12T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El camión eléctrico, en la encrucijada: las marcas tienen el producto, pero no hay donde cargarlos",
-      "lead_fa": "La venta de vehículos industriales de más de 16 toneladas sin emisiones han caído un 22% entre 2023 y 2025, y continúan en caída libre este año",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b78a474a62be",
       "source": "La Vanguardia",
       "title": "Stockard Channing, la Rizzo de ‘Grease’, revela su vida de reclusa a los 82 años: “He vivido sola”",
       "summary": "La actriz estadounidense explica que la muerte de su pareja, Daniel Gillham, en 2014 cambió por completo su manera de afrontar la vida y asegura sentirse cómoda alejada de Hollywood",
       "url": "https://www.lavanguardia.com/gente/20260811/11612180/stockard-channing-rizzo-grease-revela-vida-reclusa-82-anos-he-vivido-sola.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/06/15/5fa43c8e078fe.r_d.652-152-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/06/15/5fa43c8e078fe.r_d.533-198-0.jpeg",
       "published_at": "2026-08-11T18:31:43+02:00",
       "category": "sociedad",
       "priority": 69,
@@ -1868,6 +1887,28 @@
         "#سینما"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "615d4680a072",
+      "source": "EL PAÍS Economía",
+      "title": "El camión eléctrico, en la encrucijada: las marcas tienen el producto, pero no hay donde cargarlos",
+      "summary": "La venta de vehículos industriales de más de 16 toneladas sin emisiones han caído un 22% entre 2023 y 2025, y continúan en caída libre este año",
+      "url": "https://cincodias.elpais.com/companias/2026-08-12/el-camion-electrico-en-la-encrucijada-las-marcas-tienen-el-producto-pero-no-hay-donde-cargarlos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BB7EVLMGRZEAXB6RD2ORXN5N2A.jpg?auth=6cb7fd5cec567886fd8faeb4d909369b343a7b169a488915dbdf3fffad53ac17",
+      "published_at": "2026-08-12T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El camión eléctrico, en la encrucijada: las marcas tienen el producto, pero no hay donde cargarlos",
+      "lead_fa": "La venta de vehículos industriales de más de 16 toneladas sin emisiones han caído un 22% entre 2023 y 2025, y continúan en caída libre este año",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1957,50 +1998,6 @@
       "editorial_version": 2
     },
     {
-      "id": "de75ddeaad03",
-      "source": "La Vanguardia",
-      "title": "Vigilancia especial en las playas, los miradores y el parque de Collserola con motivo del eclipse",
-      "summary": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260811/11612139/vigilancia-especial-playas-miradores-parque-collserola-motivo-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b3a410dddf.jpeg",
-      "published_at": "2026-08-11T17:14:47+02:00",
-      "category": "ciencia",
-      "priority": 65,
-      "title_fa": "Vigilancia especial en las playas, los miradores y el parque de Collserola con motivo del eclipse",
-      "lead_fa": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aead56f5ee28",
-      "source": "La Vanguardia",
-      "title": "Cuidado con Brad Pitt",
-      "summary": "Tranquiliza el nuevo autocontrol del actor con el alcohol en el mismo grado que preocupa",
-      "url": "https://www.lavanguardia.com/gente/20260811/11612111/cuidado-brad-pitt.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/11/68496c7c9a1c6.r_d.697-469-0.png",
-      "published_at": "2026-08-11T16:25:01+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Cuidado con Brad Pitt",
-      "lead_fa": "Tranquiliza el nuevo autocontrol del actor con el alcohol en el mismo grado que preocupa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1ab3b91df29c",
       "source": "EL PAÍS España",
       "title": "Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol",
@@ -2023,17 +2020,39 @@
       "editorial_version": 2
     },
     {
-      "id": "b4b412171b43",
+      "id": "de75ddeaad03",
       "source": "La Vanguardia",
-      "title": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
-      "summary": "En todo el mundo solo se han podido registrar estas imágenes en dos ocasiones anteriores, de ahí el gran valor del documento grabado frente a la costa de Badalona",
-      "url": "https://www.lavanguardia.com/natural/fauna-flora/20260811/11612046/dos-tiburones-azules-tratatando-copular-grabados-primera-vez-mediterraneo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b10614b635.jpeg",
-      "published_at": "2026-08-11T14:07:06+02:00",
+      "title": "Vigilancia especial en las playas, los miradores y el parque de Collserola con motivo del eclipse",
+      "summary": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260811/11612139/vigilancia-especial-playas-miradores-parque-collserola-motivo-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b3a410dddf.jpeg",
+      "published_at": "2026-08-11T17:14:47+02:00",
+      "category": "ciencia",
+      "priority": 64,
+      "title_fa": "Vigilancia especial en las playas, los miradores y el parque de Collserola con motivo del eclipse",
+      "lead_fa": "El dispositivo de la Guardia Urbana se desarrollará desde las dos de la tarde hasta las doce de la noche de este miércoles",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aead56f5ee28",
+      "source": "La Vanguardia",
+      "title": "Cuidado con Brad Pitt",
+      "summary": "Tranquiliza el nuevo autocontrol del actor con el alcohol en el mismo grado que preocupa",
+      "url": "https://www.lavanguardia.com/gente/20260811/11612111/cuidado-brad-pitt.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/11/68496c7c9a1c6.r_d.697-469-0.png",
+      "published_at": "2026-08-11T16:25:01+02:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
-      "lead_fa": "En todo el mundo solo se han podido registrar estas imágenes en dos ocasiones anteriores, de ahí el gran valor del documento grabado frente a la costa de Badalona",
+      "title_fa": "Cuidado con Brad Pitt",
+      "lead_fa": "Tranquiliza el nuevo autocontrol del actor con el alcohol en el mismo grado que preocupa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2067,17 +2086,17 @@
       "editorial_version": 2
     },
     {
-      "id": "e731db11199e",
+      "id": "b4b412171b43",
       "source": "La Vanguardia",
-      "title": "Trànsit cerrará salidas de la AP-7 en el sur de Catalunya si hay riesgo de colapso por el eclipse",
-      "summary": "El dispositivo viario de los Mossos d'Esquadra, el más importante de la historia por un gran evento, movilizará 700 agentes y un helicóptero con el objetivo prioritario de prevenir un gran atasco en la autopista",
-      "url": "https://www.lavanguardia.com/vida/20260811/11611852/transit-cerrara-salidas-ap-7-sur-catalunya-hay-riesgo-colapso-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a7767f89fd64.r_d.1993-1536-0.jpeg",
-      "published_at": "2026-08-11T12:05:34+02:00",
-      "category": "ciencia",
+      "title": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
+      "summary": "En todo el mundo solo se han podido registrar estas imágenes en dos ocasiones anteriores, de ahí el gran valor del documento grabado frente a la costa de Badalona",
+      "url": "https://www.lavanguardia.com/natural/fauna-flora/20260811/11612046/dos-tiburones-azules-tratatando-copular-grabados-primera-vez-mediterraneo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b10614b635.jpeg",
+      "published_at": "2026-08-11T14:07:06+02:00",
+      "category": "sociedad",
       "priority": 63,
-      "title_fa": "Trànsit cerrará salidas de la AP-7 en el sur de Catalunya si hay riesgo de colapso por el eclipse",
-      "lead_fa": "El dispositivo viario de los Mossos d'Esquadra, el más importante de la historia por un gran evento, movilizará 700 agentes y un helicóptero con el objetivo prioritario de prevenir un gran atasco en la autopista",
+      "title_fa": "Dos tiburones azules tratando de copular, grabados por primera vez en el Mediterráneo",
+      "lead_fa": "En todo el mundo solo se han podido registrar estas imágenes en dos ocasiones anteriores, de ahí el gran valor del documento grabado frente a la costa de Badalona",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2089,17 +2108,17 @@
       "editorial_version": 2
     },
     {
-      "id": "321b02caec83",
+      "id": "e731db11199e",
       "source": "La Vanguardia",
-      "title": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán tras la cumbre de la OTAN en Ankara",
-      "summary": "El presidente fue trasladado en un contenedor de catering desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
-      "url": "https://www.lavanguardia.com/internacional/20260811/11611756/trump-cambio-avion-secreto-amenaza-asesinato-iran-cumbre-otan-ankara.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b287bbc293.jpeg",
-      "published_at": "2026-08-11T05:16:04+02:00",
-      "category": "sociedad",
-      "priority": 61,
-      "title_fa": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán tras la cumbre de la OTAN en Ankara",
-      "lead_fa": "El presidente fue trasladado en un contenedor de catering desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
+      "title": "Trànsit cerrará salidas de la AP-7 en el sur de Catalunya si hay riesgo de colapso por el eclipse",
+      "summary": "El dispositivo viario de los Mossos d'Esquadra, el más importante de la historia por un gran evento, movilizará 700 agentes y un helicóptero con el objetivo prioritario de prevenir un gran atasco en la autopista",
+      "url": "https://www.lavanguardia.com/vida/20260811/11611852/transit-cerrara-salidas-ap-7-sur-catalunya-hay-riesgo-colapso-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a7767f89fd64.r_d.1993-1536-0.jpeg",
+      "published_at": "2026-08-11T12:05:34+02:00",
+      "category": "ciencia",
+      "priority": 63,
+      "title_fa": "Trànsit cerrará salidas de la AP-7 en el sur de Catalunya si hay riesgo de colapso por el eclipse",
+      "lead_fa": "El dispositivo viario de los Mossos d'Esquadra, el más importante de la historia por un gran evento, movilizará 700 agentes y un helicóptero con el objetivo prioritario de prevenir un gran atasco en la autopista",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2155,6 +2174,28 @@
       "editorial_version": 2
     },
     {
+      "id": "321b02caec83",
+      "source": "La Vanguardia",
+      "title": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán tras la cumbre de la OTAN en Ankara",
+      "summary": "El presidente fue trasladado en un contenedor de catering desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
+      "url": "https://www.lavanguardia.com/internacional/20260811/11611756/trump-cambio-avion-secreto-amenaza-asesinato-iran-cumbre-otan-ankara.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b287bbc293.jpeg",
+      "published_at": "2026-08-11T05:16:04+02:00",
+      "category": "sociedad",
+      "priority": 60,
+      "title_fa": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán tras la cumbre de la OTAN en Ankara",
+      "lead_fa": "El presidente fue trasladado en un contenedor de catering desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ff28871fa0eb",
       "source": "EL PAÍS Economía",
       "title": "Las ‘big tech’ disparan el gasto en I+D a récords históricos de 200.000 millones bajo las exigencias de la IA",
@@ -2163,7 +2204,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/MZG62ASEAVO2DGCGLLZJZWX6RQ.jpg?auth=62af380459b4d7ceaa941152a566b3fb37f2b2ce3b02f888a1576233ac939f7c",
       "published_at": "2026-08-11T03:15:00+00:00",
       "category": "ciencia",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Las ‘big tech’ disparan el gasto en I+D a récords históricos de 200.000 millones bajo las exigencias de la IA",
       "lead_fa": "Alphabet, Meta, Apple, Amazon y Microsoft registran fuertes aumentos en el primer semestre. SpaceX concentra la mayor parte de su actividad de investigación en la inteligencia artificial",
       "key_points_fa": [],
@@ -2271,7 +2312,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 134
+      "count": 133
     }
   ]
 }
