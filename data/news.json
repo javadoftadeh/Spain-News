@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T07:02:40.592772+00:00",
+  "generated_at": "2026-08-13T08:41:29.995749+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d2029037591e",
+    "d79edfebad96",
     "aa5a02aed00a",
     "ef266b7a36b3",
-    "c03765464f78",
-    "404d65d60ce6"
+    "c03765464f78"
   ],
   "items": [
     {
@@ -33,6 +33,33 @@
         "#آتش‌سوزی",
         "#اسپانیا",
         "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d79edfebad96",
+      "source": "La Vanguardia",
+      "title": "Exteriores confirma la muerte de un ciudadano español en el terremoto de Colombia",
+      "summary": "En un audio remitido a los medios de comunicación, el ministro ha trasladado las condolencias y solidaridad a los familiares y amigos del muerto español",
+      "url": "https://www.lavanguardia.com/internacional/20260813/11613088/exteriores-confirma-muerte-ciudadano-espanol-terremoto-colombia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d791f1a85a.r_d.946-1088-0.jpeg",
+      "published_at": "2026-08-13T09:59:12+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "تأیید مرگ یک شهروند اسپانیایی در زلزله کلمبیا",
+      "lead_fa": "وزارت امور خارجه اسپانیا جان باختن یک شهروند این کشور را در پی زمین‌لرزه اخیر در کلمبیا تأیید کرد. وزیر خارجه مراتب تسلیت و همبستگی خود را به خانواده و دوستان فرد جان‌باخته ابراز داشت.",
+      "key_points_fa": [
+        "تأیید رسمی مرگ یک تبعه اسپانیا در زلزله کلمبیا",
+        "ارسال پیام تسلیت وزیر خارجه به خانواده جان‌باخته"
+      ],
+      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری شهروندان خارجی ساکن یا مسافر در مناطق زلزله‌خیز را برجسته می‌کند. مسئولان کنسولی معمولاً در چنین شرایطی برای ارائه خدمات به خانواده‌های قربانیان وارد عمل می‌شوند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#کلمبیا",
+        "#زلزله"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -126,12 +153,68 @@
       "editorial_version": 2
     },
     {
+      "id": "aeea3df970ac",
+      "source": "La Vanguardia",
+      "title": "Eclipse solar total, en directo | Última hora de cómo se vio ayer en España el eclipse y las mejores imágenes",
+      "summary": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
+      "url": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d6fba0fcd1.jpeg",
+      "published_at": "2026-08-13T10:00:18+02:00",
+      "category": "ciencia",
+      "priority": 77,
+      "title_fa": "بازتاب خورشیدگرفتگی کامل در اسپانیا و تصاویر برتر",
+      "lead_fa": "پدیده‌ی خورشیدگرفتگی کامل در نقاط مختلفی از اسپانیا رصد شد. شرایط جوی در اکثر مناطق مساعد گزارش شد.",
+      "key_points_fa": [
+        "مشاهده خورشیدگرفتگی کامل در مناطق مختلف اسپانیا",
+        "وضعیت جوی مساعد و همراهی با تماشاگران در طول رویداد",
+        "انتشار تصاویر برتر این پدیده نجومی توسط رسانه‌ها"
+      ],
+      "analysis_fa": "خورشیدگرفتگی‌ها به عنوان رویدادهای نجومی مهم همواره توجه عموم و رسانه‌ها را به خود جلب می‌کنند. در این میان، شرایط جوی نقش کلیدی در امکان رصد موفقیت‌آمیز این پدیده‌ها توسط علاقه‌مندان دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#نجوم",
+        "#خورشیدگرفتگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "be7291dfa9c6",
+      "source": "EL PAÍS",
+      "title": "Detenido un hombre de 28 años por el incendio en Las Peñas de Riglos (Huesca)",
+      "summary": "El fuego obligó a desalojar a 100 personas de un camping próximo a la localidad la noche del miércoles",
+      "url": "https://elpais.com/espana/2026-08-13/detenido-un-hombre-de-28-anos-por-el-incendio-en-las-penas-de-riglos-huesca.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204226_080420_video_1800.mp4",
+      "published_at": "2026-08-13T08:18:36+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "بازداشت مظنون آتش‌سوزی در هوئسکا",
+      "lead_fa": "مردی ۲۸ ساله به اتهام دست داشتن در آتش‌سوزی منطقه لاس پینیاس د ریگلوس بازداشت شد. این حریق چهارشنبه‌شب باعث تخلیه ۱۰۰ نفر از یک کمپینگ نزدیک شد.",
+      "key_points_fa": [
+        "بازداشت یک فرد ۲۸ ساله مرتبط با آتش‌سوزی",
+        "تخلیه اضطراری ۱۰۰ نفر از کمپینگ مجاور منطقه",
+        "وقوع حادثه در شب چهارشنبه"
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی‌های جنگلی در مناطق طبیعی اسپانیا همواره چالش‌هایی را برای نهادهای امدادی و امنیتی ایجاد می‌کند. تحقیقات درباره انگیزه و ابعاد دقیق این حادثه ادامه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#آتش‌سوزی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "404d65d60ce6",
       "source": "EL PAÍS",
       "title": "La pólvora y la mecha",
       "summary": "La crisis de Ceuta muestra que el crecimiento económico no basta por sí solo si persiste la desigualdad social",
       "url": "https://elpais.com/opinion/2026-08-13/la-polvora-y-la-mecha.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HKKAHUCZE5B35K76HZQX6J7M7U.jpg?auth=0fd6313b5da90f7892d99076d203f1b7769eb83b61dc4dad2c6d0e64202e462d",
+      "image": "https://imagenes.elpais.com/resizer/v2/QVLAPKFTLVANVB64HCFY2B2FFM.jpg?auth=8ee00578c0a9c8ce070fe35e30ceecf055b93c3c1f58d0b1b07a67eef9097e73",
       "published_at": "2026-08-13T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
@@ -238,6 +321,50 @@
         "#آتش_سوزی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eb97ac489b4e",
+      "source": "La Vanguardia",
+      "title": "El INE eleva el repunte de la inflación en julio al 3,6% debido a la luz y las gasolinas",
+      "summary": "Es la tasa más alta desde la registrada en mayo del 2024, y cuatro décimas superior a los meses anteriores",
+      "url": "https://www.lavanguardia.com/economia/20260813/11612771/ine-eleva-repunte-inflacion-julio-3-6-debido-luz-gasolinas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74fc42aa206.jpeg",
+      "published_at": "2026-08-13T09:00:12+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El INE eleva el repunte de la inflación en julio al 3,6% debido a la luz y las gasolinas",
+      "lead_fa": "Es la tasa más alta desde la registrada en mayo del 2024, y cuatro décimas superior a los meses anteriores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f63940449463",
+      "source": "EL PAÍS",
+      "title": "El encarecimiento del gasóleo obliga al Gobierno a elevar la rebaja fiscal a 20 céntimos en septiembre",
+      "summary": "El INE corrige una décima al alza la inflación de julio, que subió al 3,6% presionada por los carburantes y la electricidad",
+      "url": "https://elpais.com/economia/2026-08-13/el-encarecimiento-del-gasoleo-obliga-al-gobierno-a-elevar-la-rebaja-fiscal-a-20-centimos-en-septiembre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/L4GXRG5GWRIDDPPSEUZS36LLJM.jpg?auth=7ecdbe9e8dd6d13ebe6179f1ae4647d6bf37402b0de0fe39916b2115a0491fcb",
+      "published_at": "2026-08-13T07:00:11+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El encarecimiento del gasóleo obliga al Gobierno a elevar la rebaja fiscal a 20 céntimos en septiembre",
+      "lead_fa": "El INE corrige una décima al alza la inflación de julio, que subió al 3,6% presionada por los carburantes y la electricidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -521,17 +648,17 @@
       "editorial_version": 2
     },
     {
-      "id": "348a40bef183",
-      "source": "EL PAÍS Economía",
-      "title": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
-      "summary": "La ocupación en las sociedades con menos de diez trabajadores creció casi un 2% interanual en julio frente a un estancamiento un año antes",
-      "url": "https://elpais.com/economia/2026-08-13/las-microempresas-multiplican-por-cinco-la-creacion-de-empleo-hasta-julio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ODH5OPSSHJPRPPDAVZUD4LC73U.jpg?auth=fe0dd0e12f8dea807078bb8b927b2c343889bcab8f2d46065591e824bbc8a10e",
+      "id": "02c3ef0480e1",
+      "source": "EL PAÍS",
+      "title": "El fondo soberano de Noruega acumula 16.000 millones en la Bolsa española, tras reforzarse en el Santander, Naturgy y Bankinter",
+      "summary": "El vehículo gestionado por Norges Bank Investment Management eleva un 10,5% su exposición a la renta variable española y rebaja sus posiciones en BBVA, Redeia y Endesa. Los gestores apuestan por TSK y otras seis compañías",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-fondo-soberano-de-noruega-acumula-16000-millones-en-la-bolsa-espanola-tras-reforzarse-en-el-santander-naturgy-y-bankinter.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D54XNKHMSNBOVO2CVFRWH2C3SY.png?auth=0d9442e18650472fbf6e37520dd5521082e86c6dd893b96d61d0d597120db9fe",
       "published_at": "2026-08-13T03:45:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
-      "lead_fa": "La ocupación en las sociedades con menos de diez trabajadores creció casi un 2% interanual en julio frente a un estancamiento un año antes",
+      "title_fa": "El fondo soberano de Noruega acumula 16.000 millones en la Bolsa española, tras reforzarse en el Santander, Naturgy y Bankinter",
+      "lead_fa": "El vehículo gestionado por Norges Bank Investment Management eleva un 10,5% su exposición a la renta variable española y rebaja sus posiciones en BBVA, Redeia y Endesa. Los gestores apuestan por TSK y otras seis compañías",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -543,17 +670,17 @@
       "editorial_version": 2
     },
     {
-      "id": "02c3ef0480e1",
+      "id": "348a40bef183",
       "source": "EL PAÍS Economía",
-      "title": "El fondo soberano de Noruega acumula 16.000 millones en la Bolsa española, tras reforzarse en el Santander, Naturgy y Bankinter",
-      "summary": "El vehículo gestionado por Norges Bank Investment Management eleva un 10,5% su exposición a la renta variable española y rebaja sus posiciones en BBVA, Redeia y Endesa. Los gestores apuestan por TSK y otras seis compañías",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-fondo-soberano-de-noruega-acumula-16000-millones-en-la-bolsa-espanola-tras-reforzarse-en-el-santander-naturgy-y-bankinter.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/D54XNKHMSNBOVO2CVFRWH2C3SY.png?auth=0d9442e18650472fbf6e37520dd5521082e86c6dd893b96d61d0d597120db9fe",
+      "title": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
+      "summary": "La ocupación en las sociedades con menos de diez trabajadores creció casi un 2% interanual en julio frente a un estancamiento un año antes",
+      "url": "https://elpais.com/economia/2026-08-13/las-microempresas-multiplican-por-cinco-la-creacion-de-empleo-hasta-julio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ODH5OPSSHJPRPPDAVZUD4LC73U.jpg?auth=fe0dd0e12f8dea807078bb8b927b2c343889bcab8f2d46065591e824bbc8a10e",
       "published_at": "2026-08-13T03:45:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "El fondo soberano de Noruega acumula 16.000 millones en la Bolsa española, tras reforzarse en el Santander, Naturgy y Bankinter",
-      "lead_fa": "El vehículo gestionado por Norges Bank Investment Management eleva un 10,5% su exposición a la renta variable española y rebaja sus posiciones en BBVA, Redeia y Endesa. Los gestores apuestan por TSK y otras seis compañías",
+      "title_fa": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
+      "lead_fa": "La ocupación en las sociedades con menos de diez trabajadores creció casi un 2% interanual en julio frente a un estancamiento un año antes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -910,17 +1037,39 @@
       "editorial_version": 2
     },
     {
-      "id": "aeea3df970ac",
+      "id": "cc1fa3efd161",
       "source": "La Vanguardia",
-      "title": "Eclipse solar total, en directo: mejores imágenes, resumen y cómo se vivió desde los distintos lugares de España",
-      "summary": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d65e122ab9.r_d.1282-855-0.jpeg",
-      "published_at": "2026-08-13T08:36:56+02:00",
+      "title": "Rabat estudia suspender el acuerdo de extradición con España",
+      "summary": "El titular marroquí de Justicia critica a Madrid por “aceptar” y “regularizar” a migrantes",
+      "url": "https://www.lavanguardia.com/politica/20260813/11613063/rabat-estudia-suspender-acuerdo-extradicion-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d70f9df19e.jpeg",
+      "published_at": "2026-08-13T09:24:35+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Rabat estudia suspender el acuerdo de extradición con España",
+      "lead_fa": "El titular marroquí de Justicia critica a Madrid por “aceptar” y “regularizar” a migrantes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f52d3973e566",
+      "source": "La Vanguardia",
+      "title": "Visión borrosa, manchas o irritación ocular: los síntomas que pueden indicar daños en los ojos tras el eclipse",
+      "summary": "Después del fenómeno astronómico, los daños por una exposición inadecuada pueden manifestarse en las primeras horas",
+      "url": "https://www.lavanguardia.com/vida/20260813/11613050/vision-borrosa-manchas-irritacion-ocular-sintomas-indicar-danos-ojos-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d6428efb41.jpeg",
+      "published_at": "2026-08-13T08:57:30+02:00",
       "category": "ciencia",
       "priority": 70,
-      "title_fa": "Eclipse solar total, en directo: mejores imágenes, resumen y cómo se vivió desde los distintos lugares de España",
-      "lead_fa": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
+      "title_fa": "Visión borrosa, manchas o irritación ocular: los síntomas que pueden indicar daños en los ojos tras el eclipse",
+      "lead_fa": "Después del fenómeno astronómico, los daños por una exposición inadecuada pueden manifestarse en las primeras horas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -932,83 +1081,17 @@
       "editorial_version": 2
     },
     {
-      "id": "3d4ad76dc4bf",
-      "source": "La Vanguardia",
-      "title": "Jódar se queda a las puertas de la final del Masters 1000 de Montreal",
-      "summary": "La primera final de Jódar en un Masters 1000 tendrá que esperar, pero el madrileño dio muestra una vez más de su espíritu competitivo y llevó al límite a Nakashima",
-      "url": "https://www.lavanguardia.com/deportes/tenis/20260813/11613032/jodar-cae-semifinales-masters-1-000-montreal-dos-horas-dos-minutos-batalla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d59731650d.r_d.2867-1685-0.jpeg",
-      "published_at": "2026-08-13T07:47:56+02:00",
+      "id": "0fc0344724f4",
+      "source": "EL PAÍS",
+      "title": "Messi vuelve a jugar con el Inter Miami tras la muerte de su padre",
+      "summary": "El futbolista había puesto en duda si continuaría en la cancha en un mensaje publicado en redes para despedirse de su progenitor",
+      "url": "https://elpais.com/deportes/futbol/2026-08-13/messi-regresa-al-campo-de-juego-con-el-inter-miami-tras-la-muerte-de-su-padre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HJG64O22EVL5NGNGJXCNBO3IUA.jpg?auth=a83595ef454bdd671e5abb4705bd217c90faa1a40c9b669e838a3774f338a713",
+      "published_at": "2026-08-13T07:35:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Jódar se queda a las puertas de la final del Masters 1000 de Montreal",
-      "lead_fa": "La primera final de Jódar en un Masters 1000 tendrá que esperar, pero el madrileño dio muestra una vez más de su espíritu competitivo y llevó al límite a Nakashima",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ec61303c326f",
-      "source": "La Vanguardia",
-      "title": "Viajar solo: ocho claves para perderte, descubrirte y disfrutar del camino",
-      "summary": "En una época en la que aumentan los viajes familiares y con amigos, ir solo se convierte en la mejor forma de fomentar el autoconocimiento y la tranquilidad durante una escapada",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260813/11612516/viajar-ocho-claves-perderte-descubrirte-disfrutar-camino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/02/03/5fa8fbfa5aa99.jpeg",
-      "published_at": "2026-08-13T07:00:00+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Viajar solo: ocho claves para perderte, descubrirte y disfrutar del camino",
-      "lead_fa": "En una época en la que aumentan los viajes familiares y con amigos, ir solo se convierte en la mejor forma de fomentar el autoconocimiento y la tranquilidad durante una escapada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "72f2d8a4f894",
-      "source": "La Vanguardia",
-      "title": "Josep Pedrerol: “Lo habitual es que cuando te vas de un sitio empieces a rajar”",
-      "summary": "Tras trece años al frente de 'El Chiringuito' en Atresmedia, el presentador iniciará el próximo 17 de agosto una nueva etapa en Mediaset convencido de que la fortaleza del formato trasciende a la cadena que lo emite",
-      "url": "https://www.lavanguardia.com/television/20260813/11605312/josep-pedrerol-habitual-te-vas-sitio-empieces-rajar.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/31/6a6c8844062d6.jpeg",
-      "published_at": "2026-08-13T06:42:29+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Josep Pedrerol: “Lo habitual es que cuando te vas de un sitio empieces a rajar”",
-      "lead_fa": "Tras trece años al frente de 'El Chiringuito' en Atresmedia, el presentador iniciará el próximo 17 de agosto una nueva etapa en Mediaset convencido de que la fortaleza del formato trasciende a la cadena que lo emite",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Sántiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Sántiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "title_fa": "Messi vuelve a jugar con el Inter Miami tras la muerte de su padre",
+      "lead_fa": "El futbolista había puesto en duda si continuaría en la cancha en un mensaje publicado en redes para despedirse de su progenitor",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1025,7 +1108,7 @@
       "title": "Nakashima termina con el sueño de Jódar en el Masters 1000 de Canadá",
       "summary": "El estadounidense derrota al madrileño (6-7(3) y 4-6, 2h 2m) en las semifinales de Montreal y peleará por el título ante Tien o Shelton",
       "url": "https://elpais.com/deportes/tenis/2026-08-13/nakashima-termina-con-el-sueno-de-jodar-en-el-masters-1000-de-canada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T3MMQGIRONJALDLGN3JWWXOVKA.jpg?auth=a06b573ad45f3ff7db1f9a4d5edf25f6052403f21f78be54e693d2ac5437b632",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204224_080047_video_1800.mp4",
       "published_at": "2026-08-13T00:38:07+00:00",
       "category": "deportes",
       "priority": 70,
@@ -1104,6 +1187,28 @@
       "editorial_version": 2
     },
     {
+      "id": "72f2d8a4f894",
+      "source": "La Vanguardia",
+      "title": "Josep Pedrerol: “Lo habitual es que cuando te vas de un sitio empieces a rajar”",
+      "summary": "Tras trece años al frente de 'El Chiringuito' en Atresmedia, el presentador iniciará el próximo 17 de agosto una nueva etapa en Mediaset convencido de que la fortaleza del formato trasciende a la cadena que lo emite",
+      "url": "https://www.lavanguardia.com/television/20260813/11605312/josep-pedrerol-habitual-te-vas-sitio-empieces-rajar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/31/6a6c8844062d6.jpeg",
+      "published_at": "2026-08-13T06:42:29+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Josep Pedrerol: “Lo habitual es que cuando te vas de un sitio empieces a rajar”",
+      "lead_fa": "Tras trece años al frente de 'El Chiringuito' en Atresmedia, el presentador iniciará el próximo 17 de agosto una nueva etapa en Mediaset convencido de que la fortaleza del formato trasciende a la cadena que lo emite",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e7b2787dfdea",
       "source": "La Vanguardia",
       "title": "Jordi Savall vive el eclipse total entre acordes y viñedos",
@@ -1148,34 +1253,12 @@
       "editorial_version": 2
     },
     {
-      "id": "a3dcdf43d1ba",
-      "source": "La Vanguardia",
-      "title": "La guerra de Ucrania acerca a Corea del Norte y Rusia",
-      "summary": "Pyongyang cada vez tiene más protagonismo en el conflicto, una implicación que le reporta grandes beneficios militares y económicos",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11612659/guerra-ucrania-acerca-corea-norte-rusia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c5e2a9efe3.r_d.465-345-0.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La guerra de Ucrania acerca a Corea del Norte y Rusia",
-      "lead_fa": "Pyongyang cada vez tiene más protagonismo en el conflicto, una implicación que le reporta grandes beneficios militares y económicos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d898f903789e",
       "source": "La Vanguardia",
       "title": "Testimonio del seísmo en Colombia: “Se escuchan voces: ¡Vamos a sacarlo!”",
       "summary": "“Salimos de la casa y vemos que se mueve. ¿Resistirá? ¿Se vendrá al suelo? Es la única pregunta”",
       "url": "https://www.lavanguardia.com/internacional/20260813/11612823/testimonio-seismo-colombia-escuchan-voces-sacarlo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cc28b0000f.r_d.3746-2212-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7695cdb85.jpeg",
       "published_at": "2026-08-13T06:00:00+02:00",
       "category": "sociedad",
       "priority": 69,
@@ -1203,6 +1286,28 @@
       "priority": 69,
       "title_fa": "Un Odiseo para nuestros tiempos",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "134a7350042b",
+      "source": "La Vanguardia",
+      "title": "Vía libre para Ferran, más madera por Rodri y una nueva ofensiva por Julián Álvarez como objetivo",
+      "summary": "El delantero de Foios se ausenta en el regreso de los internacionales al trabajo",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11612819/ferran-torres-rodri-hernandez-barca-oferta-julian-alvarez-mercado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cbf81affed.r_d.1323-621-0.jpeg",
+      "published_at": "2026-08-13T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Vía libre para Ferran, más madera por Rodri y una nueva ofensiva por Julián Álvarez como objetivo",
+      "lead_fa": "El delantero de Foios se ausenta en el regreso de los internacionales al trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1291,6 +1396,28 @@
       "priority": 69,
       "title_fa": "Málaga, Sevilla o Valencia en 48 horas: el verano sí cabe en un fin de semana",
       "lead_fa": "¿No tienes planeadas tus vacaciones este agosto? Puede que no las necesites, al menos no todas de golpe. Con un viernes libre por la tarde y un tren de alta velocidad, Málaga, Sevilla o Valencia caben enteras en dos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Sántiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Sántiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1566,6 +1693,28 @@
       "editorial_version": 2
     },
     {
+      "id": "74445348a22c",
+      "source": "EL PAÍS",
+      "title": "El extraño verano del 75: cuando los militares se rebelaron contra el franquismo",
+      "summary": "La escritora Susana Fortes reconstruye en un audiolibro la detención de su padre y otros oficiales del ejército de la Unión Militar Democrática que desafió a Franco",
+      "url": "https://elpais.com/cultura/2026-08-13/el-extrano-verano-del-75-cuando-los-militares-se-rebelaron-contra-el-franquismo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YPDYAMFSVGYHMZPR54ES72X7I.jpg?auth=9dc4b73612698dc7ea1ef412e15d4fd82f69b9c5d9f6493bf8283ccbdf2927ff",
+      "published_at": "2026-08-13T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "El extraño verano del 75: cuando los militares se rebelaron contra el franquismo",
+      "lead_fa": "La escritora Susana Fortes reconstruye en un audiolibro la detención de su padre y otros oficiales del ejército de la Unión Militar Democrática que desafió a Franco",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9d58ec116074",
       "source": "EL PAÍS",
       "title": "Galicia busca el secreto de su extrema longevidad",
@@ -1588,6 +1737,28 @@
       "editorial_version": 2
     },
     {
+      "id": "2e91c612db59",
+      "source": "EL PAÍS",
+      "title": "Acúfenos, el mal silenciado de la música clásica: afecta al 40% de los instrumentistas de orquesta en España",
+      "summary": "La incidencia del trastorno auditivo se dispara en los conjuntos sinfónicos, pero la vergüenza y el miedo a las represalias laborales imponen el silencio: “Nadie se atreve a hablar”",
+      "url": "https://elpais.com/cultura/2026-08-13/acufenos-el-mal-silenciado-de-la-musica-clasica-afecta-al-40-de-los-instrumentistas-de-orquesta-en-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JCHC57AJKJDHNHBRB5GPKH44UA.jpg?auth=806739e70ded4ca0878dd4b36bc88708fdc01e01558e5b159ff437d267a88462",
+      "published_at": "2026-08-13T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Acúfenos, el mal silenciado de la música clásica: afecta al 40% de los instrumentistas de orquesta en España",
+      "lead_fa": "La incidencia del trastorno auditivo se dispara en los conjuntos sinfónicos, pero la vergüenza y el miedo a las represalias laborales imponen el silencio: “Nadie se atreve a hablar”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "8f2ebb6f9781",
       "source": "EL PAÍS",
       "title": "Qué es lo más provocativo que un hombre puede vestir en plena transformación del armario masculino",
@@ -1599,72 +1770,6 @@
       "priority": 69,
       "title_fa": "Qué es lo más provocativo que un hombre puede vestir en plena transformación del armario masculino",
       "lead_fa": "De pantalones de metraje mínimo a tops que dejan el ombligo la tendencia invita a ellos a mostrar la piel y abrazar prendas liberadoras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b5bd39fd526",
-      "source": "EL PAÍS",
-      "title": "Fracaso mortal del Estado",
-      "summary": "El asesinato machista de una guardia civil concentra todo el horror de la violencia machista y la insuficiencia de la respuesta institucional",
-      "url": "https://elpais.com/opinion/2026-08-13/fracaso-mortal-del-estado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7GAC6QHBPVACRJ5KTJGZ5UQFJI.jpg?auth=e555241b075c98fff602b1a9cfa9239bc96bab40cb3bbcead8fcd85515d705dc",
-      "published_at": "2026-08-13T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Fracaso mortal del Estado",
-      "lead_fa": "El asesinato machista de una guardia civil concentra todo el horror de la violencia machista y la insuficiencia de la respuesta institucional",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b42c229f297",
-      "source": "EL PAÍS",
-      "title": "Y la España que no importa vuelve a no importar después del eclipse",
-      "summary": "Los pueblos desangrados que se han llenado estos días volverán hoy a ser eclipsados por todo lo demás",
-      "url": "https://elpais.com/opinion/2026-08-13/y-la-espana-que-no-importa-vuelve-a-no-importar-despues-del-eclipse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5C5C3SXBVVDELP35DHYWPJGWAM.jpg?auth=f60016606f036e9dc53f536fae973c20d273b3210e9ecb111e60462d6f35cc6b",
-      "published_at": "2026-08-13T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Y la España que no importa vuelve a no importar después del eclipse",
-      "lead_fa": "Los pueblos desangrados que se han llenado estos días volverán hoy a ser eclipsados por todo lo demás",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5a99cc2146e9",
-      "source": "EL PAÍS",
-      "title": "Menores en las redes sociales: alternativas a la prohibición",
-      "summary": "La protección digital debe enfocarse en el modelo de negocio de las plataformas, que no habríamos permitido a ninguna otra industria",
-      "url": "https://elpais.com/opinion/2026-08-13/redes-sociales-y-menores-alternativas-a-la-prohibicion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YJXRCO7N3FM6ZFNIFRHYHKTAJE.jpg?auth=ea331ca8cd6b0b5ba2d01bf206b97f27529a53045db8bd49582c3b9e21cdfb10",
-      "published_at": "2026-08-13T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Menores en las redes sociales: alternativas a la prohibición",
-      "lead_fa": "La protección digital debe enfocarse en el modelo de negocio de las plataformas, que no habríamos permitido a ninguna otra industria",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1709,50 +1814,6 @@
       "priority": 69,
       "title_fa": "Paz Nogueira, el restaurante gallego de barrio donde en verano reina la cabra",
       "lead_fa": "Nuestra serie de bares y restaurantes nos lleva a una Galicia en la que no todo es marisco, con un improbable pero delicioso guiso veraniego con historia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9763123f9468",
-      "source": "EL PAÍS",
-      "title": "La redefinición de los ligues de verano: no tienen por qué acabar en relación y las ‘apps’ se adaptan a las nuevas realidades",
-      "summary": "Con los días contados y un montón de fantasías por realizar, la seducción es un reto en las semanas estivales e incluso una presión para muchos. Mientras el ‘dating’ turístico vive su agosto, los expertos recuerdan que tenemos el resto del año para ligar",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-13/la-redefinicion-de-los-ligues-de-verano-no-tienen-por-que-acabar-en-relacion-y-las-apps-se-adaptan-a-las-nuevas-realidades.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IAQSU252RVGELKT55J73LS4QNM.jpg?auth=aa065f02bd24f41c9fa8af8c52bf0c4296e78ad2aab1cd0ced9fb8938ce8f3ae",
-      "published_at": "2026-08-13T03:30:00+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "La redefinición de los ligues de verano: no tienen por qué acabar en relación y las ‘apps’ se adaptan a las nuevas realidades",
-      "lead_fa": "Con los días contados y un montón de fantasías por realizar, la seducción es un reto en las semanas estivales e incluso una presión para muchos. Mientras el ‘dating’ turístico vive su agosto, los expertos recuerdan que tenemos el resto del año para ligar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f4349126551f",
-      "source": "EL PAÍS",
-      "title": "David Menéndez, ‘Boye’ (’Yo siempre a veces’): “Hay algo muy bonito en los padres que se encargan, que rebajan ese ego masculino”",
-      "summary": "Al protagonista de ‘Yo siempre a veces’ el papel de padre le llegó en la ficción a la vez que en la vida real. Además es cantante y forma parte de la propuesta anual de talento joven de ICON",
-      "url": "https://elpais.com/icon/2026-08-13/david-menendez-boye-yo-siempre-a-veces-hay-algo-muy-bonito-en-los-padres-que-se-encargan-que-rebajan-ese-ego-masculino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BWSRPZ7HRRB3NKS4PXPDWGK2GM.jpg?auth=b6ee7649fddca37a057f6084d2b36b22a7fa7d9e88d998d7329cf2b95566df7c",
-      "published_at": "2026-08-13T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "David Menéndez, ‘Boye’ (’Yo siempre a veces’): “Hay algo muy bonito en los padres que se encargan, que rebajan ese ego masculino”",
-      "lead_fa": "Al protagonista de ‘Yo siempre a veces’ el papel de padre le llegó en la ficción a la vez que en la vida real. Además es cantante y forma parte de la propuesta anual de talento joven de ICON",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1880,34 +1941,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ea6a0c262ba4",
-      "source": "EL PAÍS",
-      "title": "Un truco de Brahim le da el triunfo al Madrid en el Teresa Herrera",
-      "summary": "El equipo blanco, con muchos problemas para desarbolar al Deportivo, levanta por décima vez el trofeo gracias a un golazo del extremo hispano-marroquí en el descuento del primer tramo",
-      "url": "https://elpais.com/deportes/futbol/2026-08-12/un-truco-de-brahim-le-da-el-triunfo-al-madrid-en-el-teresa-herrera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SOBUCUJXEVGUNIKLDL4DJZXXEM.jpg?auth=7f4688759d21f63f25bb48123fbdb185cd22ec9079377e57f6a951f084ccdce8",
-      "published_at": "2026-08-12T21:36:07+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "پیروزی رئال مادرید در جام ترزا هررا با گل براهیم دیاز",
-      "lead_fa": "رئال مادرید با گلزنی براهیم دیاز موفق شد تیم دپورتیوا را شکست دهد. سفیدپوشان برای دهمین بار جام ترزا هررا را بالای سر بردند.",
-      "key_points_fa": [
-        "رئال مادرید در باز کردن دفاع دپورتیوا با مشکلاتی مواجه شد.",
-        "تک‌گل پیروزی‌بخش بازی در دقایق تلف‌شده نیمه نخست به ثمر رسید.",
-        "این دهمین قهرمانی رئال مادرید در رقابت‌های ترزا هررا است."
-      ],
-      "analysis_fa": "این مسابقه نشان داد که رئال مادرید حتی در روزهایی که برای خلق موقعیت و عبور از خط دفاعی حریفان به دردسر می‌افتد، همچنان می‌تواند با اتکا به درخشش فردی بازیکنان خود به پیروزی دست پیدا کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#رئال_مادرید",
-        "#فوتبال_اسپانیا",
-        "#براهیم_دیاز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "6bee8c9c2345",
       "source": "EL PAÍS Economía",
       "title": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
@@ -1934,28 +1967,6 @@
         "#خورشیدگرفتگی"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ab40bdd10d5a",
-      "source": "La Vanguardia",
-      "title": "OKM, la empresa de Girona que ha convertido la ortopedia en un negocio global",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/economia/20260812/11612636/okm-empresa-girona-convertido-ortopedia-negocio-global.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4cc0fd10961.r_d.884-730-0.jpeg",
-      "published_at": "2026-08-12T13:13:41+02:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "OKM, la empresa de Girona que ha convertido la ortopedia en un negocio global",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2047,39 +2058,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d1ab4bb59ea7",
+      "id": "3a1a4f3042c1",
       "source": "La Vanguardia",
-      "title": "Eclipse colectivo en Montjuïc",
-      "summary": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7ccc8fbd255.r_d.459-306-0.jpeg",
-      "published_at": "2026-08-12T21:56:41+02:00",
-      "category": "ciencia",
+      "title": "No solo turistas en los búnkers",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612852/solo-turistas-bunkeres.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cdd598f386.jpeg",
+      "published_at": "2026-08-12T22:55:50+02:00",
+      "category": "turismo",
       "priority": 67,
-      "title_fa": "Eclipse colectivo en Montjuïc",
-      "lead_fa": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "643c04d08104",
-      "source": "La Vanguardia",
-      "title": "Xavi Hernández, nuevo seleccionador de Países Bajos hasta el 2030",
-      "summary": "El técnico de Terrassa regresa a los banquillos para relevar a Ronald Koeman en el equipo neerlandés",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260812/11612831/xavi-hernandez-nuevo-seleccionador-paises-bajos-2030.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54ab55060c0.jpeg",
-      "published_at": "2026-08-12T21:29:24+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Xavi Hernández, nuevo seleccionador de Países Bajos hasta el 2030",
-      "lead_fa": "El técnico de Terrassa regresa a los banquillos para relevar a Ronald Koeman en el equipo neerlandés",
+      "title_fa": "No solo turistas en los búnkers",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2102,28 +2091,6 @@
       "priority": 67,
       "title_fa": "Desde el espacio: Así se ha visto el eclipse desde un satélite",
       "lead_fa": "Las imágenes del satélite europeo Meteosat-12 captan el recorrido de la sombra de la Luna sobre el Atlántico Norte y la península ibérica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c99f0d4418ff",
-      "source": "La Vanguardia",
-      "title": "Eurovisión no permitirá que el festival se celebre en países en guerra o sin la seguridad garantizada",
-      "summary": "La organización evaluará si el país ganador puede organizar el certamen con garantías. Además eleva a 18 años la edad mínima de los intérpretes y limita el uso de material pregrabado",
-      "url": "https://www.lavanguardia.com/television/20260812/11612827/eurovision-permitira-festival-celebre-paises-guerra-garanticen-seguridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/17/6a08fe1f2ff71.r_d.1406-948-0.jpeg",
-      "published_at": "2026-08-12T21:19:28+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "Eurovisión no permitirá que el festival se celebre en países en guerra o sin la seguridad garantizada",
-      "lead_fa": "La organización evaluará si el país ganador puede organizar el certamen con garantías. Además eleva a 18 años la edad mínima de los intérpretes y limita el uso de material pregrabado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2179,6 +2146,50 @@
       "editorial_version": 2
     },
     {
+      "id": "d1ab4bb59ea7",
+      "source": "La Vanguardia",
+      "title": "Eclipse colectivo en Montjuïc",
+      "summary": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d6824b0874.jpeg",
+      "published_at": "2026-08-12T21:56:41+02:00",
+      "category": "ciencia",
+      "priority": 66,
+      "title_fa": "Eclipse colectivo en Montjuïc",
+      "lead_fa": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c99f0d4418ff",
+      "source": "La Vanguardia",
+      "title": "Eurovisión no permitirá que el festival se celebre en países en guerra o sin la seguridad garantizada",
+      "summary": "La organización evaluará si el país ganador puede organizar el certamen con garantías. Además eleva a 18 años la edad mínima de los intérpretes y limita el uso de material pregrabado",
+      "url": "https://www.lavanguardia.com/television/20260812/11612827/eurovision-permitira-festival-celebre-paises-guerra-garanticen-seguridad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/17/6a08fe1f2ff71.r_d.1406-948-0.jpeg",
+      "published_at": "2026-08-12T21:19:28+02:00",
+      "category": "cultura",
+      "priority": 66,
+      "title_fa": "Eurovisión no permitirá que el festival se celebre en países en guerra o sin la seguridad garantizada",
+      "lead_fa": "La organización evaluará si el país ganador puede organizar el certamen con garantías. Además eleva a 18 años la edad mínima de los intérpretes y limita el uso de material pregrabado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6a729f0cf058",
       "source": "EL PAÍS",
       "title": "Oído durante el eclipse en una playa asturiana: “El del siglo que viene lo vemos en otro sitio”",
@@ -2187,7 +2198,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CJI3IYGCZBFL5OIWCRG5RQRZT4.jpeg?auth=8b5da096042f4f7d11f78c880b46270af2ac4e07ef0128a6a950167498250bb1",
       "published_at": "2026-08-12T20:26:47+00:00",
       "category": "ciencia",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Oído durante el eclipse en una playa asturiana: “El del siglo que viene lo vemos en otro sitio”",
       "lead_fa": "Crónica de una jornada marcada por la incertidumbre de si las nubes dejarían ver o no el eclipse desde la costa",
       "key_points_fa": [],
@@ -2209,7 +2220,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FXDM4DQRCNONDK2ARVJX2SWBMM.jpg?auth=8922aa9795b457694a3074ec0abf635c30bf06ea21a0b10a8bf691eb6adfb8f7",
       "published_at": "2026-08-12T20:20:09+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Karoline Leavitt, la portavoz más joven de la historia de la Casa Blanca, dejará su puesto a final de mes",
       "lead_fa": "El presidente estadounidense anuncia la marcha de la secretaria de prensa, de 28 años, para dedicarse a cuidar a su familia",
       "key_points_fa": [],
@@ -2231,7 +2242,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1204094_195927_video_1800.mp4",
       "published_at": "2026-08-12T20:02:02+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "El olvidado asombro de estar vivos",
       "lead_fa": "Siempre levanta ternura el hecho de que, cuando el ser humano no encuentra palabras para describir lo que está pasando, renuncie a buscarlas",
       "key_points_fa": [],
@@ -2253,7 +2264,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cbfb3da8be.jpeg",
       "published_at": "2026-08-12T18:54:33+02:00",
       "category": "ciencia",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Las imágenes más espectaculares que deja el eclipse solar",
       "lead_fa": "El fenómeno generó mucha expectación, puesto que el cielo ofreció un espectáculo que en España no se contemplaba desde hacía más de un siglo",
       "key_points_fa": [],
@@ -2333,28 +2344,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b8ab73488fa5",
-      "source": "La Vanguardia",
-      "title": "Protocolo de verano: cómo viajar con respeto",
-      "summary": "Guía básica de cortesía para convivir a bordo y hacer del trayecto una experiencia agradable para todos",
-      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260812/11611068/protocolo-verano-como-viajar-respeto.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79a4fd3cb7d.r_d.1057-883-0.jpeg",
-      "published_at": "2026-08-12T06:30:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Protocolo de verano: cómo viajar con respeto",
-      "lead_fa": "Guía básica de cortesía para convivir a bordo y hacer del trayecto una experiencia agradable para todos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cca12053fc8a",
       "source": "La Vanguardia",
       "title": "En Santa Susanna, tres meses al año",
@@ -2366,6 +2355,28 @@
       "priority": 61,
       "title_fa": "En Santa Susanna, tres meses al año",
       "lead_fa": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "083e566192c2",
+      "source": "EL PAÍS Economía",
+      "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
+      "summary": "El grupo de origen chino incurrió en pérdidas en el primer trimestre de 2026 y sus ingresos crecen a menor ritmo que los del dueño de Zara",
+      "url": "https://elpais.com/economia/2026-08-12/inditex-contra-shein-por-que-el-gigante-espanol-quintuplica-los-beneficios-del-asiatico-con-solo-un-10-mas-de-ventas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LLGXCSXLNZCO5JUUPG6R42X77U.jpg?auth=f086ebc82321721dd59ae4e68a283d9080a823310a82019973d3ac06a320b768",
+      "published_at": "2026-08-12T03:45:00+00:00",
+      "category": "sociedad",
+      "priority": 61,
+      "title_fa": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
+      "lead_fa": "El grupo de origen chino incurrió en pérdidas en el primer trimestre de 2026 y sus ingresos crecen a menor ritmo que los del dueño de Zara",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2435,7 +2446,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 144
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
@@ -2450,7 +2461,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 141
     }
   ]
 }
