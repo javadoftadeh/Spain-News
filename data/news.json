@@ -1,43 +1,14 @@
 {
-  "generated_at": "2026-08-13T21:58:38.953085+00:00",
+  "generated_at": "2026-08-13T22:58:51.977582+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "4cbf39985a37",
     "cde273ce390e",
     "d1e60e5db2c7",
     "b06cb20be93a",
-    "3fb674e7f50c"
+    "3fb674e7f50c",
+    "5ae22ba01fa4"
   ],
   "items": [
-    {
-      "id": "4cbf39985a37",
-      "source": "La Vanguardia",
-      "title": "Denuncian el deterioro de las condiciones de los soldados a bordo del portaaviones Lincoln",
-      "summary": "El senador Richard Blumenthal alerta en una carta al jefe del Pentágono sobre la “escasez de suministros básicos, contaminación del agua, problemas de fontanería y deterioro de la salud mental”",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11613361/legisladores-ee-uu-denuncian-deterioro-condiciones-soldados-bordo-portaaviones-abraham-lincoln.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dd47308100.r_d.1128-1377-0.jpeg",
-      "published_at": "2026-08-13T16:34:49+02:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "انتقاد قانون‌گذاران آمریکایی از وضعیت ناو لینکلن",
-      "lead_fa": "سناتور ریچارد بلومنتال در نامه‌ای به پنتاگون نسبت به وضعیت ملوانان ناو هواپیمابر لینکلن هشدار داد. این نامه به کمبود اقلام ضروری و مشکلات سلامت روان اشاره دارد.",
-      "key_points_fa": [
-        "کمبود تجهیزات و ملزومات اساسی در ناو هواپیمابر لینکلن",
-        "گزارش‌هایی درباره آلودگی آب و مشکلات لوله‌کشی",
-        "نگرانی شدید درباره افت سلامت روان پرسنل نظامی",
-        "ارسال نامه رسمی هشدارآمیز به رئیس پنتاگون توسط سناتور بلومنتال"
-      ],
-      "analysis_fa": "این هشدار نشان‌دهنده چالش‌های لجستیکی و حمایتی در ارتش ایالات متحده است. طرح این مسائل از سوی مقام‌های رسمی می‌تواند فشارهای سیاسی بر وزارت دفاع برای بهبود شرایط خدماتی و رفاهی پرسنل ناوهای جنگی را افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#پنتاگون",
-        "#ارتش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "cde273ce390e",
       "source": "EL PAÍS España",
@@ -295,6 +266,34 @@
       "editorial_version": 2
     },
     {
+      "id": "4daacce38965",
+      "source": "La Vanguardia",
+      "title": "Una mujer de 84 años muere ahogada en una piscina de Castelldefels",
+      "summary": "Se trata de la víctima mortal número 11 en este tipo de sucesos de Catalunya",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613499/mujer-84-anos-muere-ahogada-piscina-castelldefels.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a706ce679aa4.jpeg",
+      "published_at": "2026-08-13T21:57:49+02:00",
+      "category": "sociedad",
+      "priority": 76,
+      "title_fa": "مرگ یک زن ۸۴ ساله در استخر کاستلیدفل",
+      "lead_fa": "یک زن ۸۴ ساله بر اثر غرق‌شدگی در استخری در منطقه کاستلیدفل جان باخت. با این حادثه، شمار قربانیان حوادث مشابه در کاتالونیا به ۱۱ نفر رسید.",
+      "key_points_fa": [
+        "حادثه غرق‌شدگی در یک استخر رخ داده است.",
+        "قربانی زنی ۸۴ ساله بوده است.",
+        "این یازدهمین مورد مرگ ناشی از غرق‌شدگی در استخرهای کاتالونیا است."
+      ],
+      "analysis_fa": "وقوع حوادث مرگبار غرق‌شدگی در استخرها، به‌ویژه در میان سالمندان، زنگ خطری جدی برای مقامات محلی و مراکز نگهداری و تفریحی محسوب می‌شود. این آمار فزاینده اهمیت نظارت ایمنی بیشتر در فصول گرم سال را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#کاتالونیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "21c2078e2687",
       "source": "La Vanguardia",
       "title": "Muere en accidente de bicicleta Víctor Coyote, fundador de la banda Los Coyotes",
@@ -408,34 +407,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0f493f481bc0",
-      "source": "La Vanguardia",
-      "title": "Marlaska elogia la relación con Marruecos y eleva a 1.898 los menores migrantes registrados en Ceuta",
-      "summary": "El ministro de Interior pide al poder judicial la autorización para expulsar inmediatamente a quien cometa un delito",
-      "url": "https://www.lavanguardia.com/politica/20260813/11613318/marlaska-elogia-relacion-marruecos-eleva-1-898-menores-registrados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7debeaed5eb.jpeg",
-      "published_at": "2026-08-13T15:11:16+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "وزیر کشور اسپانیا خواستار اخراج فوری مجرمان مهاجر شد",
-      "lead_fa": "وزیر کشور اسپانیا بر اهمیت همکاری با مراکش تأکید کرد. او همچنین خواستار دریافت مجوز قضایی برای اخراج فوری مهاجران مجرم شد.",
-      "key_points_fa": [
-        "درخواست از قوه قضائیه برای اخراج فوری افراد مهاجر که مرتکب جرم می‌شوند.",
-        "تمجید وزیر کشور از روابط دوجانبه اسپانیا و مراکش.",
-        "ثبت ۱۸۹۸ کودک مهاجر در شهر سبته (سئوتا)."
-      ],
-      "analysis_fa": "این موضع‌گیری نشان‌دهنده تلاش دولت اسپانیا برای ایجاد توازن میان مدیریت کنترل مرزها، روابط دیپلماتیک با کشورهای مبدأ مانند مراکش و پاسخ به دغدغه‌های امنیتی داخلی است. طرح اخراج مجرمان می‌تواند بحث‌های حقوقی و سیاسی تازه‌ای را در پارلمان و دستگاه قضایی ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#امنیت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c7f8f1fb7b48",
       "source": "EL PAÍS",
       "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
@@ -487,35 +458,6 @@
         "#اسپانیا",
         "#مراکش",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "808d5e874c16",
-      "source": "La Vanguardia",
-      "title": "Interior instala en el dique sur de Melilla una barrera flotante en el mar como en Ceuta",
-      "summary": "Es la herramienta que permitirá las devoluciones en frontera sin incumplir la sentencia del Tribunal Supremo",
-      "url": "https://www.lavanguardia.com/politica/20260813/11613137/interior-instala-dique-sur-melilla-barrera-flotante-mar-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7db21365d53.jpeg",
-      "published_at": "2026-08-13T11:04:52+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "نصب موانع شناور در مللیله برای کنترل مرزهای دریایی",
-      "lead_fa": "وزارت کشور اسپانیا نصب یک موشک یا مانع شناور دریایی را در موج‌شکن جنوبی مللیله آغاز کرد. این اقدام مشابه سد دریایی سئوتا برای مدیریت ترددها انجام شده است.",
-      "key_points_fa": [
-        "نصب موانع شناور در منطقه مللیله مشابه نمونه اجرا شده در سئوتا.",
-        "هدف از این ابزار، اجرای قوانین مربوط به بازگرداندن در مرز اعلام شده است.",
-        "این طرح با استناد به احکام دادگاه عالی اسپانیا پیاده‌سازی می‌شود."
-      ],
-      "analysis_fa": "استفاده از زیرساخت‌های فیزیکی در مرزهای جنوبی اسپانیا در آفریقا همواره ابزاری کلیدی برای دولت‌ها در کنترل جریان‌های مهاجرتی بوده است. این اقدام نشان‌دهنده تداوم سیاست‌های سخت‌گیرانه کنترلی در مرزهای زمینی و آبی و تلاش برای انطباق این رویه‌ها با چارچوب‌های حقوقی و قضایی کشور است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مللیله",
-        "#مهاجرت",
-        "#مرز"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -943,6 +885,85 @@
       "editorial_version": 2
     },
     {
+      "id": "590d326fa726",
+      "source": "La Vanguardia",
+      "title": "Rojo nostalgia",
+      "summary": "Me encanta ir tarde en estos tiempos frenéticos, de epilepsia por lo inmediato",
+      "url": "https://www.lavanguardia.com/opinion/20260814/11613220/rojo-nostalgia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7daf2d6f538.jpeg",
+      "published_at": "2026-08-14T00:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "دل‌تنگی برای کندی در عصر سرعت و شتاب دیجیتال",
+      "lead_fa": "یک یادداشت تازه در روزنامه لا وانگواردیا به ستایش ارزش و آرامشِ دیر رسیدن در دنیای پرشتاب امروزی پرداخته است. این متن بر لزوم رها شدن از اضطراب لحظه‌ای بودن تأکید می‌کند.",
+      "key_points_fa": [
+        "انتقاد از سرعت سرسام‌آور زندگی مدرن و اصرار بر فوری بودن همه‌چیز",
+        "بازنگری در مفهوم زمان و لذت بردن از تاخیر به عنوان یک انتخاب آگاهانه",
+        "تلاش برای یافتن آرامش در برابر هجوم دائمی اطلاعات و فناوری"
+      ],
+      "analysis_fa": "این مقاله بازتاب‌دهنده دغدغه‌های فرهنگی پیرامون فرسودگی ناشی از فناوری‌های ارتباطی است. نویسنده با نگاهی حسرت‌بار به گذشته، خواستار بازپس‌گیری زمان شخصی و رهایی از دیکتاتور سرعت در جامعه مدرن است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#جامعه",
+        "#فناوری",
+        "#سبک_زندگی",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4c6eb53564c7",
+      "source": "La Vanguardia",
+      "title": "El caos ferroviario del eclipse evidencia la falta de previsión que lastra Rodalies",
+      "summary": "Ni Renfe ni la Generalitat planificaron un dispositivo para absorber la alta demanda de movilidad en transporte público para ver el fenómeno astronómico en el sur de Catalunya",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613479/caos-ferroviario-eclipse-evidencia-falta-prevision-rodalies.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e138a6d47b.r_d.1024-768-0.jpeg",
+      "published_at": "2026-08-14T00:05:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "هرج‌ومرج قطارهای کاتالونیا در روز خورشیدگرفتگی",
+      "lead_fa": "اختلال در شبکه قطارهای حومه‌ای کاتالونیا همزمان با خورشیدگرفتگی رخ داد. نهادهای مسئول برنامه‌ریزی کافی برای مدیریت تقاضای سفر نداشتند.",
+      "key_points_fa": [
+        "ناتوانی رنفه و دولت محلی در تامین تقاضای سفر",
+        "فقدان برنامه‌ریزی ویژه برای رویداد نجومی",
+        "انتقاد از وضعیت ناوگان حمل‌ونقل عمومی کاتالونیا"
+      ],
+      "analysis_fa": "این رویداد بار دیگر ضعف‌های ساختاری و کمبود پیش‌بینی در شبکه حمل‌ونقل ریلی کاتالونیا موسوم به رودالیس را برجسته کرد. نبود هماهنگی میان اپراتور ملی و دولت محلی موجب نارضایتی مسافران شد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#قطار",
+        "#کاتالونیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1eddf60defe2",
+      "source": "La Vanguardia",
+      "title": "La diplomacia del ciervo",
+      "summary": "La historia de las relaciones entre España y Marruecos está llena de gestos",
+      "url": "https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b49e88876a.jpeg",
+      "published_at": "2026-08-14T00:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La diplomacia del ciervo",
+      "lead_fa": "La historia de las relaciones entre España y Marruecos está llena de gestos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "31d86b627cb9",
       "source": "La Vanguardia",
       "title": "Attaoui atrapa un bronce en la final de 800 m",
@@ -971,6 +992,28 @@
       "editorial_version": 2
     },
     {
+      "id": "972a85e655ea",
+      "source": "EL PAÍS",
+      "title": "Attaoui saca un bronce en 800m de la casi nada",
+      "summary": "El español, aún lejos de su mejor forma, logra subir al podio de 800m en una carrera ganada por el irlandés Mark English",
+      "url": "https://elpais.com/deportes/2026-08-13/attaoui-saca-un-bronce-en-800m-de-la-casi-nada.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GYZKQ65ETBIDDEO5FCIZHYQHCM.jpg?auth=6564c0a420f5f6be36da3d9f328256f135b5d79d06854c0a3cc7a13cb7f280c9",
+      "published_at": "2026-08-13T22:03:57+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Attaoui saca un bronce en 800m de la casi nada",
+      "lead_fa": "El español, aún lejos de su mejor forma, logra subir al podio de 800m en una carrera ganada por el irlandés Mark English",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e8c1702ec364",
       "source": "La Vanguardia",
       "title": "Nicole Kidman rompe su silencio sobre sus dos divorcios: “Todo es nuevo… ¡cada vez!”",
@@ -996,56 +1039,6 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b3b7b1bb3ce3",
-      "source": "EL PAÍS",
-      "title": "Hunt, campeona de 100m y 200m, cumple su deseo: “Lo quiero todo”",
-      "summary": "La española Jaël Bestué se despide satisfecha por su séptimo puesto después de luchar con las mejores velocistas de Europa",
-      "url": "https://elpais.com/deportes/2026-08-13/hunt-campeona-de-100m-y-200m-cumple-su-deseo-lo-quiero-todo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EDRUEMJLVJMV3FBAHYN5U3BERU.jpg?auth=2eaf4c9dc6e9b7a644631acc6bfdb75468e0c61623a92b0fc6b547b341f55102",
-      "published_at": "2026-08-13T21:41:12+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "هدف‌گذاری جدید قهرمان سرعت اسپانیا",
-      "lead_fa": "ژائِل بستوئه، دونده اسپانیایی، با کسب مقام هفتم در رقابت با برترین سرعت‌سنج‌های اروپا به کار خود پایان داد. او پیش‌تر بر آرزوی خود برای کسب تمام عناوین تأکید کرده بود.",
-      "key_points_fa": [
-        "رقابت ژائل بستوئه با برترین دونده‌های سرعت اروپا",
-        "کسب مقام هفتم توسط ورزشکار اسپانیایی",
-        "رضایت بستوئه از عملکرد خود در مسابقات"
-      ],
-      "analysis_fa": "حضور در میان برترین‌های اروپا نشان‌دهنده پیشرفت ورزشکاران دو و میدانی اسپانیا در سطح قاره‌ای است، هرچند برای رسیدن به سکوهای قهرمانی همچنان رقابت سختی در جریان است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دوومیدانی",
-        "#اسپانیا",
-        "#ورزش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "957ca6ab2d23",
-      "source": "La Vanguardia",
-      "title": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
-      "summary": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613485/joven-electrocutado-eclipse-techo-tren-altafulla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1684eac0d.r_d.450-800-0.jpeg",
-      "published_at": "2026-08-13T21:22:44+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
-      "lead_fa": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1133,28 +1126,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5c5534bfdd67",
-      "source": "EL PAÍS",
-      "title": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
-      "summary": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
-      "url": "https://elpais.com/us/2026-08-13/estados-unidos-preve-ejecutar-en-un-solo-dia-a-tres-personas-por-primera-vez-desde-2010.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/S5BPLDYDZRMNTML7O64YYSUVAU.jpg?auth=d098165998d79f42f60c1883f3f06783ea3660ca0341a3c8dc0088e811c36311",
-      "published_at": "2026-08-13T19:41:28+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
-      "lead_fa": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "76c1f32426ad",
       "source": "EL PAÍS",
       "title": "Principio de acuerdo entre el Barça y el PSG por Ferran Torres",
@@ -1184,6 +1155,50 @@
       "editorial_version": 2
     },
     {
+      "id": "957ca6ab2d23",
+      "source": "La Vanguardia",
+      "title": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
+      "summary": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613485/joven-electrocutado-eclipse-techo-tren-altafulla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1684eac0d.r_d.450-800-0.jpeg",
+      "published_at": "2026-08-13T21:22:44+02:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
+      "lead_fa": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5c5534bfdd67",
+      "source": "EL PAÍS",
+      "title": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
+      "summary": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
+      "url": "https://elpais.com/us/2026-08-13/estados-unidos-preve-ejecutar-en-un-solo-dia-a-tres-personas-por-primera-vez-desde-2010.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S5BPLDYDZRMNTML7O64YYSUVAU.jpg?auth=d098165998d79f42f60c1883f3f06783ea3660ca0341a3c8dc0088e811c36311",
+      "published_at": "2026-08-13T19:41:28+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
+      "lead_fa": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a564df837a3c",
       "source": "EL PAÍS España",
       "title": "Robles también rechaza ir al Senado hasta que comience el periodo de sesiones",
@@ -1195,50 +1210,6 @@
       "priority": 69,
       "title_fa": "Robles también rechaza ir al Senado hasta que comience el periodo de sesiones",
       "lead_fa": "El PP acusa a La Moncloa de “enjaular” a la ministra de Defensa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f2065dfcc18a",
-      "source": "La Vanguardia",
-      "title": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
-      "summary": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613428/hallan-tesoro-oculto-9-millones-euros-obras-edificio-flandes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925e442a2929.jpeg",
-      "published_at": "2026-08-13T18:25:09+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
-      "lead_fa": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fedb46a0ae76",
-      "source": "La Vanguardia",
-      "title": "Prisión provisional para los dos detenidos por el crimen de Tauste",
-      "summary": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
-      "url": "https://www.lavanguardia.com/local/aragon/20260813/11613418/prision-provisional-dos-detenidos-crimen-tauste.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c1a10bebc.r_d.1171-949-0.jpeg",
-      "published_at": "2026-08-13T18:17:50+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Prisión provisional para los dos detenidos por el crimen de Tauste",
-      "lead_fa": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1411,6 +1382,50 @@
       "editorial_version": 2
     },
     {
+      "id": "f2065dfcc18a",
+      "source": "La Vanguardia",
+      "title": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
+      "summary": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
+      "url": "https://www.lavanguardia.com/vida/20260813/11613428/hallan-tesoro-oculto-9-millones-euros-obras-edificio-flandes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925e442a2929.jpeg",
+      "published_at": "2026-08-13T18:25:09+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
+      "lead_fa": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fedb46a0ae76",
+      "source": "La Vanguardia",
+      "title": "Prisión provisional para los dos detenidos por el crimen de Tauste",
+      "summary": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
+      "url": "https://www.lavanguardia.com/local/aragon/20260813/11613418/prision-provisional-dos-detenidos-crimen-tauste.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c1a10bebc.r_d.1171-949-0.jpeg",
+      "published_at": "2026-08-13T18:17:50+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Prisión provisional para los dos detenidos por el crimen de Tauste",
+      "lead_fa": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b449c7131bbe",
       "source": "La Vanguardia",
       "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
@@ -1444,28 +1459,6 @@
       "priority": 68,
       "title_fa": "Israel envía tropas a una aldea palestina tras cuatro días de asedio a familias por parte de colonos radicales",
       "lead_fa": "El ejército evacúa y toma seis casas palestinas en el inicio de una operación “para proteger a los residentes y mantener la seguridad”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f90a7e677376",
-      "source": "La Vanguardia",
-      "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
-      "summary": "La embajada estadounidense, en un mensaje poco común, califica las acciones de los extremistas como de “horrible acto de terror”",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df57e6b701.r_d.1662-1291-0.jpeg",
-      "published_at": "2026-08-13T15:18:34+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Cinco días de asedio de colonos a una familia en Cisjordania",
-      "lead_fa": "La embajada estadounidense, en un mensaje poco común, califica las acciones de los extremistas como de “horrible acto de terror”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1521,17 +1514,17 @@
       "editorial_version": 2
     },
     {
-      "id": "81121c20dc06",
-      "source": "EL PAÍS",
-      "title": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
-      "summary": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-13/la-fiscalia-da-el-primer-paso-para-investigar-a-dos-diputados-de-vox-que-se-jactaron-de-manejar-informacion-confidencial-de-una-fiscal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DN25W7MBXFAH7KIATBVOWWEYPQ.jpg?auth=2c124d9670bf6028701ac27a78a6c4989e975138890c80c693c7f3fa983b0498",
-      "published_at": "2026-08-13T13:15:57+00:00",
+      "id": "f90a7e677376",
+      "source": "La Vanguardia",
+      "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
+      "summary": "La embajada estadounidense, en un mensaje poco común, califica las acciones de los extremistas como de “horrible acto de terror”",
+      "url": "https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df57e6b701.r_d.1662-1291-0.jpeg",
+      "published_at": "2026-08-13T15:18:34+02:00",
       "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
-      "lead_fa": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
+      "priority": 67,
+      "title_fa": "Cinco días de asedio de colonos a una familia en Cisjordania",
+      "lead_fa": "La embajada estadounidense, en un mensaje poco común, califica las acciones de los extremistas como de “horrible acto de terror”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1587,6 +1580,28 @@
       "editorial_version": 2
     },
     {
+      "id": "81121c20dc06",
+      "source": "EL PAÍS",
+      "title": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
+      "summary": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-13/la-fiscalia-da-el-primer-paso-para-investigar-a-dos-diputados-de-vox-que-se-jactaron-de-manejar-informacion-confidencial-de-una-fiscal.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DN25W7MBXFAH7KIATBVOWWEYPQ.jpg?auth=2c124d9670bf6028701ac27a78a6c4989e975138890c80c693c7f3fa983b0498",
+      "published_at": "2026-08-13T13:15:57+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
+      "lead_fa": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ef1e39de2edf",
       "source": "La Vanguardia",
       "title": "Anoche pudimos tocar a Dios",
@@ -1631,28 +1646,6 @@
       "editorial_version": 2
     },
     {
-      "id": "941c27b842bc",
-      "source": "La Vanguardia",
-      "title": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
-      "summary": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260813/11613228/ines-garcia-viste-barbie-cumpleanos-lamine-yamal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/20/6a5db32ed6079.r_d.2267-1412-0.jpeg",
-      "published_at": "2026-08-13T12:52:57+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
-      "lead_fa": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a678c65944db",
       "source": "EL PAÍS",
       "title": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitante del PSOE",
@@ -1664,28 +1657,6 @@
       "priority": 67,
       "title_fa": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitante del PSOE",
       "lead_fa": "El magistrado señala en la resolución por la que cede la investigación a la Audiencia Nacional que se trata de un “importante entramado delictivo”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d1b4c8863474",
-      "source": "La Vanguardia",
-      "title": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
-      "summary": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
-      "url": "https://www.lavanguardia.com/natural/20260813/11613213/caudal-danubio-obliga-rumania-cerrar-unica-central-nuclear.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d9cc72ec3d.r_d.480-319-0.jpeg",
-      "published_at": "2026-08-13T12:34:37+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
-      "lead_fa": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1851,6 +1822,50 @@
       "editorial_version": 2
     },
     {
+      "id": "941c27b842bc",
+      "source": "La Vanguardia",
+      "title": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
+      "summary": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260813/11613228/ines-garcia-viste-barbie-cumpleanos-lamine-yamal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/20/6a5db32ed6079.r_d.2267-1412-0.jpeg",
+      "published_at": "2026-08-13T12:52:57+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
+      "lead_fa": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d1b4c8863474",
+      "source": "La Vanguardia",
+      "title": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
+      "summary": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
+      "url": "https://www.lavanguardia.com/natural/20260813/11613213/caudal-danubio-obliga-rumania-cerrar-unica-central-nuclear.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d9cc72ec3d.r_d.480-319-0.jpeg",
+      "published_at": "2026-08-13T12:34:37+02:00",
+      "category": "deportes",
+      "priority": 66,
+      "title_fa": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
+      "lead_fa": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9a6199844e36",
       "source": "La Vanguardia",
       "title": "Acusan de asesinato con agravante de acecho a Nick Reiner por la muerte de sus padres",
@@ -1917,28 +1932,6 @@
       "editorial_version": 2
     },
     {
-      "id": "31d00bba544e",
-      "source": "La Vanguardia",
-      "title": "La espectacular acrobacia del skater Danny León durante el eclipse",
-      "summary": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613075/espectacular-acrobacia-skater-danny-leon-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7e2304aa3.jpeg",
-      "published_at": "2026-08-13T09:47:49+02:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "La espectacular acrobacia del skater Danny León durante el eclipse",
-      "lead_fa": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8363033a96e0",
       "source": "EL PAÍS",
       "title": "Roger Federer se cae del olimpo de los milmillonarios en una mañana y solo un año después de alcanzarlo",
@@ -1983,17 +1976,17 @@
       "editorial_version": 2
     },
     {
-      "id": "b4298a2ae0bd",
+      "id": "31d00bba544e",
       "source": "La Vanguardia",
-      "title": "Los últimos campistas de la autovía de Castelldefels",
-      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "sociedad",
+      "title": "La espectacular acrobacia del skater Danny León durante el eclipse",
+      "summary": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
+      "url": "https://www.lavanguardia.com/vida/20260813/11613075/espectacular-acrobacia-skater-danny-leon-eclipse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7e2304aa3.jpeg",
+      "published_at": "2026-08-13T09:47:49+02:00",
+      "category": "ciencia",
       "priority": 65,
-      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
-      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "title_fa": "La espectacular acrobacia del skater Danny León durante el eclipse",
+      "lead_fa": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2049,28 +2042,6 @@
       "editorial_version": 2
     },
     {
-      "id": "569b158b5ef4",
-      "source": "EL PAÍS Economía",
-      "title": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
-      "summary": "El CEO de Nvidia ha montado una plataforama de financiaciónpara que sus clientes puedan seguir comprando sus chips",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3DVX6FHLSZPJTCTQFJVR6TTLXE.jpg?auth=f7f2c7e1020ba9947937db5bb4b133b445a6255a40b068b45eaac0446d5c657a",
-      "published_at": "2026-08-13T03:40:00+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
-      "lead_fa": "El CEO de Nvidia ha montado una plataforama de financiaciónpara que sus clientes puedan seguir comprando sus chips",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2604e31b0369",
       "source": "EL PAÍS Economía",
       "title": "Las claves: el agotamiento de las reservas de petróleo amenaza la resiliencia económica",
@@ -2082,6 +2053,28 @@
       "priority": 64,
       "title_fa": "Las claves: el agotamiento de las reservas de petróleo amenaza la resiliencia económica",
       "lead_fa": "La AIE advierte que, desde el inicio de la guerra, el colchón de almacenamiento se está agotando rápidamente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "569b158b5ef4",
+      "source": "EL PAÍS Economía",
+      "title": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
+      "summary": "El CEO de Nvidia ha montado una plataforama de financiaciónpara que sus clientes puedan seguir comprando sus chips",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3DVX6FHLSZPJTCTQFJVR6TTLXE.jpg?auth=f7f2c7e1020ba9947937db5bb4b133b445a6255a40b068b45eaac0446d5c657a",
+      "published_at": "2026-08-13T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
+      "lead_fa": "El CEO de Nvidia ha montado una plataforama de financiaciónpara que sus clientes puedan seguir comprando sus chips",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2365,7 +2358,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cbfb3da8be.jpeg",
       "published_at": "2026-08-12T18:54:33+02:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Las imágenes más espectaculares del regalo de la Luna",
       "lead_fa": "El fenómeno generó mucha expectación, puesto que el cielo ofreció un espectáculo que en España no se contemplaba desde hacía más de un siglo",
       "key_points_fa": [],
@@ -2495,7 +2488,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 150
+      "count": 145
     }
   ]
 }
