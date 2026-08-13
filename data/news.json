@@ -1,42 +1,14 @@
 {
-  "generated_at": "2026-08-13T20:09:11.984895+00:00",
+  "generated_at": "2026-08-13T21:00:45.672647+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "d2029037591e",
     "4cbf39985a37",
     "d79edfebad96",
     "cde273ce390e",
-    "d1e60e5db2c7"
+    "d1e60e5db2c7",
+    "b06cb20be93a"
   ],
   "items": [
-    {
-      "id": "d2029037591e",
-      "source": "EL PAÍS España",
-      "title": "El incendio de Niebla progresa con saltos “espectaculares” en contra del viento tras calcinar 28.000 hectáreas",
-      "summary": "Según el consejero de Emergencias andaluz, Antonio Sanz, la noche ha sido “francamente compleja” y hay 681 personas que permanecen fuera de sus casas",
-      "url": "https://elpais.com/espana/2026-08-12/el-incendio-de-niebla-progresa-con-saltos-espectaculares-en-contra-del-viento-tras-calcinar-28000-hectareas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/COF3QGHGZNMERNJDBJDKENWNXI.jpg?auth=b12f535be0fd42521fae0437b71c55912b8e6d0bdf9314a2595e948f04b5ff27",
-      "published_at": "2026-08-12T11:31:54+00:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "پیشروی مهارناپذیر آتش‌سوزی در نبلای اسپانیا با خاکستر شدن ۲۸ هزار هکتار",
-      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا با وجود تلاش امدادگران همچنان ادامه دارد. این حادثه تاکنون باعث تخلیه صدها نفر از ساکنان منطقه شده است.",
-      "key_points_fa": [
-        "سوختن ۲۸ هزار هکتار اراضی تا کنون",
-        "توصیف وضعیت شب گذشته توسط مقام مسئول به عنوان «بسیار پیچیده»",
-        "آوارگی و تخلیه اضطراری ۶۸۱ نفر از منازل مسکونی"
-      ],
-      "analysis_fa": "این آتش‌سوزی به دلیل شرایط جوی ناپایدار و وزش بادهای نامتعارف با سرعت زیادی پیشروی می‌کند. مهار این نوع حریق‌های گسترده نیازمند بسیج امکانات ملی و منطقه‌ای است و خسارات زیست‌محیطی سنگینی بر جای گذاشته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش‌سوزی",
-        "#اسپانیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "4cbf39985a37",
       "source": "La Vanguardia",
@@ -180,31 +152,58 @@
       "editorial_version": 2
     },
     {
-      "id": "21c2078e2687",
-      "source": "La Vanguardia",
-      "title": "Muere en accidente de bicicleta Víctor Coyote, fundador de la banda Los Coyotes",
-      "summary": "El músico gallego, con una intensa actividad como diseñador gráfico, pintor, ilustrador y autor de cómic, tenía 67 años",
-      "url": "https://www.lavanguardia.com/cultura/20260813/11613445/muere-accidente-bicicleta-victor-coyote-fundador-banda-coyotes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/03/11/5fa908b4b2dc8.r_d.399-299-0.jpeg",
-      "published_at": "2026-08-13T18:57:14+02:00",
+      "id": "3fb674e7f50c",
+      "source": "EL PAÍS",
+      "title": "Fallece un hombre de 27 años tras ser agredido por otro en una playa de Alicante",
+      "summary": "El presunto autor, de 22 años, ha sido detenido",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-13/fallece-un-hombre-de-27-anos-tras-ser-agredido-por-otro-en-una-playa-de-alicante.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JBUZP5PLQRBIFG6SSL4M42JHUI.jpg?auth=06ecf5ae1398496966710c5f32702a5565d1e8b8e2229d1795e05464c89c433f",
+      "published_at": "2026-08-13T20:22:25+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "درگذشت ویکتور کویوت، موسیقیدان و بنیانگذار گروه «لوس کویوتس»",
-      "lead_fa": "ویکتور کویوت، موسیقیدان، طراح و هنرمند اهل گالیسیا، در سن ۶۷ سالگی در یک سانحه دوچرخه‌سواری درگذشت. او علاوه بر فعالیت‌های موسیقی، در زمینه‌های طراحی گرافیک، نقاشی و تصویرگری نیز شناخته شده بود.",
+      "title_fa": "مرگ جوانی ۲۷ساله در پی درگیری در ساحلی در آلیکانته",
+      "lead_fa": "مردی ۲۷ساله پس از حمله فرد دیگری در یکی از سواحل آلیکانته جان باخت. پلیس متهم ۲۲ساله این پرونده را بازداشت کرده است.",
       "key_points_fa": [
-        "ویکتور کویوت در سن ۶۷ سالگی درگذشت.",
-        "علت فوت، تصادف با دوچرخه اعلام شده است.",
-        "او بنیانگذار گروه موسیقی «لوس کویوتس» بود.",
-        "وی همچنین در عرصه طراحی گرافیک، نقاشی و کمیک فعالیت داشت."
+        "حادثه در یک منطقه ساحلی در آلیکانته رخ داده است.",
+        "فرد قربانی ۲۷ سال سن داشته است.",
+        "پلیس مردی ۲۲ساله را به عنوان ضنون اصلی دستگیر کرده است."
       ],
-      "analysis_fa": "مرگ ویکتور کویوت پایان کار یکی از چهره‌های چندوجهی فرهنگ و هنر معاصر اسپانیاست که توانست در حوزه‌های مختلف از جمله موسیقی راک و هنرهای تجسمی تاثیرگذار باشد. این حادثه بار دیگر مسئله ایمنی دوچرخه‌سواران در معابر را مورد توجه رسانه‌ها قرار داده است.",
+      "analysis_fa": "این حادثه خشونت‌آمیز بار دیگر مسئله امنیت در فضاهای عمومی و سواحل را مطرح کرده است. تحقیقات پلیس برای روشن شدن ابعاد این درگیری و انگیزه ضارب ادامه دارد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#ویکتور_کویوت",
         "#اسپانیا",
-        "#موسیقی",
-        "#درگذشت"
+        "#حوادث",
+        "#آلیکانته"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5ae22ba01fa4",
+      "source": "EL PAÍS",
+      "title": "La amenaza del fuego obliga a trasladar restos óseos del monasterio de San Juan de la Peña en Huesca",
+      "summary": "El incendio, que afecta a unas 8.000 hectáreas, ha obligado a desalojar a cerca de 900 personas de 12 poblaciones",
+      "url": "https://elpais.com/espana/2026-08-13/la-amenaza-del-fuego-obliga-a-trasladar-restos-oseos-del-monasterio-de-san-juan-de-la-pena-en-huesca.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HOIUI5UGPNO7LAZOIASH4WDXVM.jpg?auth=97be1b43a234460969c846c74c8453c77ae0dfe400bf0ca9d4503b8cd6918df5",
+      "published_at": "2026-08-13T19:48:42+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "انتقال استخوان‌های تاریخی از صومعه سن خوان د لا پنیا به دلیل آتش‌سوزی",
+      "lead_fa": "آتش‌سوزی گسترده در استان اوئسکا مقامات را ناچار به تخلیه بقایای استخوانی از صومعه تاریخی سن خوان د لا پنیا کرد. این حریق تاکنون حدود هشت هزار هکتار را دربرگرفته است.",
+      "key_points_fa": [
+        "تخلیه بقایای استخوانی از صومعه تاریخی سن خوان د لا پنیا در پی تهدید آتش‌سوزی",
+        "گسترش حریق به وسعت تقریبی هشت هزار هکتار در منطقه اوئسکا",
+        "تخلیه نزدیک به ۹۰۰ نفر از ساکنان ۱۲ روستای اطراف منطقه حادثه‌دیده"
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی‌های وسیع در مناطق طبیعی اسپانیا علاوه بر خطرات جانی و مالی برای ساکنان محلی، میراث فرهنگی و تاریخی این کشور را نیز تهدید می‌کند. سرعت پیشروی حریق و شرایط جوی از عوامل اصلی دشواری در مهار این بحران‌ها به شمار می‌روند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#اوئسکا",
+        "#میراث_فرهنگی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -318,34 +317,6 @@
         "#سبته",
         "#اسپانیا",
         "#نابرابری_اجتماعی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "435ee05af296",
-      "source": "EL PAÍS España",
-      "title": "España acumula ya 226.391 hectáreas quemadas por los incendios forestales, un 38% más que en 2025",
-      "summary": "El año pasado por estas fechas habían ardido unas 140.000 hectáreas en todo el territorio nacional",
-      "url": "https://elpais.com/espana/2026-08-12/espana-acumula-ya-226391-hectareas-quemadas-por-los-incendios-forestales-un-38-mas-que-en-2025.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/A2MPLGZB3JKNPHO23ZJDNS2RA4.jpg?auth=5d932efb71b9059868940f1e4f8e499eb6ee497387c341942f86c2d7602f6c58",
-      "published_at": "2026-08-12T14:20:31+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آتش‌سوزی‌های جنگلی در اسپانیا بیش از ۲۲۶ هزار هکتار را سوزاند",
-      "lead_fa": "وسعت اراضی سوخته‌شده در اثر آتش‌سوزی‌های جنگلی در اسپانیا به بیش از ۲۲۶ هزار هکتار رسید. این رقم نشان‌دهنده افزایشی چشمگیر نسبت به مدت مشابه سال گذشته است.",
-      "key_points_fa": [
-        "ثبت ۲۲۶ هزار و ۳۹۱ هکتار اراضی سوخته در سراسر کشور",
-        "افزایش ۳۸ درصدی وسعت مناطق سوخته‌شده نسبت به آمارهای سال گذشته",
-        "مقایسه با رقم حدود ۱۴۰ هزار هکتاری در سال قبل در همین بازه زمانی"
-      ],
-      "analysis_fa": "رشد قابل‌توجه اراضی سوخته‌شده در مقایسه با سال گذشته بیانگر تشدید چالش‌های زیست‌محیطی و خطرات ناشی از حریق در عرصه‌های طبیعی اسپانیا است که نیازمند بازنگری در راهبردهای پیشگیری و مهار آتش‌سوزی‌هاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آتش‌سوزی_جنگلی",
-        "#اسپانیا",
-        "#محیط‌زیست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -971,6 +942,56 @@
       "editorial_version": 2
     },
     {
+      "id": "e8c1702ec364",
+      "source": "La Vanguardia",
+      "title": "Nicole Kidman rompe su silencio sobre sus dos divorcios: “Todo es nuevo… ¡cada vez!”",
+      "summary": "La actriz reflexiona sobre el final de sus matrimonios con Tom Cruise y Keith Urban y reconoce que ninguna experiencia la preparó para la siguiente",
+      "url": "https://www.lavanguardia.com/gente/20260813/11613495/nicole-kidman-rompe-silencio-sobre-dos-divorcios-nuevo-vez.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b2ced1dff0.r_d.3147-1906-0.jpeg",
+      "published_at": "2026-08-13T21:52:20+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "نیکول کیدمن درباره طلاق‌های خود صحبت کرد",
+      "lead_fa": "نیکول کیدمن، بازیگر معروف، اخیراً درباره پایان ازدواج‌های خود به گفتگو نشسته است. او اذعان کرده که هیچ‌کدام از تجربه‌های قبلی‌اش او را برای رویدادهای بعدی آماده نکرده بود.",
+      "key_points_fa": [
+        "نیکول کیدمن سکوت خود را درباره جدایی‌هایش شکست.",
+        "او به پایان ازدواج‌های خود با تام کروز و کیث اربن اشاره کرد.",
+        "او معتقد است هر تجربه عاطفی ویژگی‌های کاملاً متفاوتی دارد."
+      ],
+      "analysis_fa": "این اظهارات بازتاب‌دهنده دیدگاه شخصی این بازیگر سرشناس درباره زندگی خصوصی و چالش‌های عاطفی اوست و ابعاد جدیدی از زندگی شخصی ستارگان هالیوود را نمایان می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#نیکول_کیدمن",
+        "#سینما",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "957ca6ab2d23",
+      "source": "La Vanguardia",
+      "title": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
+      "summary": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613485/joven-electrocutado-eclipse-techo-tren-altafulla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1684eac0d.r_d.450-800-0.jpeg",
+      "published_at": "2026-08-13T21:22:44+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
+      "lead_fa": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "c529b814d441",
       "source": "La Vanguardia",
       "title": "Ferran Torres, el tiburón que no acabó de cautivar en el Barça",
@@ -1055,6 +1076,28 @@
       "editorial_version": 2
     },
     {
+      "id": "5c5534bfdd67",
+      "source": "EL PAÍS",
+      "title": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
+      "summary": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
+      "url": "https://elpais.com/us/2026-08-13/estados-unidos-preve-ejecutar-en-un-solo-dia-a-tres-personas-por-primera-vez-desde-2010.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S5BPLDYDZRMNTML7O64YYSUVAU.jpg?auth=d098165998d79f42f60c1883f3f06783ea3660ca0341a3c8dc0088e811c36311",
+      "published_at": "2026-08-13T19:41:28+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
+      "lead_fa": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "76c1f32426ad",
       "source": "EL PAÍS",
       "title": "Principio de acuerdo entre el Barça y el PSG por Ferran Torres",
@@ -1111,6 +1154,28 @@
         "#ورزش"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a564df837a3c",
+      "source": "EL PAÍS España",
+      "title": "Robles también rechaza ir al Senado hasta que comience el periodo de sesiones",
+      "summary": "El PP acusa a La Moncloa de “enjaular” a la ministra de Defensa",
+      "url": "https://elpais.com/espana/2026-08-13/robles-tambien-rechaza-ir-al-senado-hasta-que-comience-el-periodo-de-sesiones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AAQSOEZT2JP4HCU3RC74BN76UI.jpg?auth=a56a6bfb2fbce7df77e5b33cd63b393d8d6cb91af297d5583648732602875ad4",
+      "published_at": "2026-08-13T18:49:44+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Robles también rechaza ir al Senado hasta que comience el periodo de sesiones",
+      "lead_fa": "El PP acusa a La Moncloa de “enjaular” a la ministra de Defensa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1203,7 +1268,7 @@
     },
     {
       "id": "21f81a3cd1e4",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
       "summary": "El grupo textil online reconoce que la medida puede afectar a sus ventas en el continente, como ya le sucede en EE UU",
       "url": "https://cincodias.elpais.com/companias/2026-08-13/shein-subira-los-precios-en-europa-como-respuesta-a-la-tasa-a-los-paquetes-de-menos-de-150-euros.html",
@@ -1290,28 +1355,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b449c7131bbe",
-      "source": "La Vanguardia",
-      "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
-      "summary": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613227/eclipse-registra-incidencias-leves-residuales-pais.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d91b4a4a1f.r_d.1200-1200-0.jpeg",
-      "published_at": "2026-08-13T16:37:27+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
-      "lead_fa": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0833c00889ef",
       "source": "EL PAÍS",
       "title": "Israel envía tropas a una aldea palestina tras cuatro días de asedio a familias por parte de colonos radicales",
@@ -1323,50 +1366,6 @@
       "priority": 69,
       "title_fa": "Israel envía tropas a una aldea palestina tras cuatro días de asedio a familias por parte de colonos radicales",
       "lead_fa": "El ejército evacúa y toma seis casas palestinas en el inicio de una operación “para proteger a los residentes y mantener la seguridad”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "626ac4d239ed",
-      "source": "EL PAÍS",
-      "title": "De Björk a skaters: los fenómenos virales tras el eclipse total de Sol",
-      "summary": "Entre vídeos espectaculares, memes, momentos inesperados y hasta un skateboard, recopilamos algunas de las imágenes y reacciones más curiosas que dejó el fenómeno en internet",
-      "url": "https://elpais.com/videos/2026-08-13/de-bjork-a-skaters-los-fenomenos-virales-tras-el-eclipse-total-de-sol.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204297_120054_video_1800.mp4",
-      "published_at": "2026-08-13T14:31:43+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "De Björk a skaters: los fenómenos virales tras el eclipse total de Sol",
-      "lead_fa": "Entre vídeos espectaculares, memes, momentos inesperados y hasta un skateboard, recopilamos algunas de las imágenes y reacciones más curiosas que dejó el fenómeno en internet",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fc0a00e1f7a9",
-      "source": "EL PAÍS",
-      "title": "La resaca de los astrónomos tras su gran momento con el eclipse: “Me costará tiempo procesar todo lo que hemos vivido”",
-      "summary": "Un día después del fenómeno astronómico, los científicos y divulgadores que llevaban años esperándolo oscilan entre el cansancio, la emoción y la sensación de misión cumplida",
-      "url": "https://elpais.com/ciencia/2026-08-13/la-resaca-de-los-astronomos-tras-su-gran-momento-con-el-eclipse-me-costara-tiempo-procesar-todo-lo-que-hemos-vivido.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1204069_190213_video_1800.mp4",
-      "published_at": "2026-08-13T14:24:44+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "La resaca de los astrónomos tras su gran momento con el eclipse: “Me costará tiempo procesar todo lo que hemos vivido”",
-      "lead_fa": "Un día después del fenómeno astronómico, los científicos y divulgadores que llevaban años esperándolo oscilan entre el cansancio, la emoción y la sensación de misión cumplida",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1407,6 +1406,28 @@
       "editorial_version": 2
     },
     {
+      "id": "b449c7131bbe",
+      "source": "La Vanguardia",
+      "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
+      "summary": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
+      "url": "https://www.lavanguardia.com/vida/20260813/11613227/eclipse-registra-incidencias-leves-residuales-pais.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d91b4a4a1f.r_d.1200-1200-0.jpeg",
+      "published_at": "2026-08-13T16:37:27+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
+      "lead_fa": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f90a7e677376",
       "source": "La Vanguardia",
       "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
@@ -1429,17 +1450,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d4d6d2fb194e",
-      "source": "La Vanguardia",
-      "title": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
-      "summary": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
-      "url": "https://www.lavanguardia.com/cultura/20260813/11613240/habia-barcos-mamuts-descenso-nivel-rio-danubio-descubre-cuerpo-dos-soldados-nazis-segunda-guerra-mundial-ola-calor.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7da2882dfc4.r_d.719-443-0.jpeg",
-      "published_at": "2026-08-13T13:33:14+02:00",
-      "category": "sociedad",
+      "id": "626ac4d239ed",
+      "source": "EL PAÍS",
+      "title": "De Björk a skaters: los fenómenos virales tras el eclipse total de Sol",
+      "summary": "Entre vídeos espectaculares, memes, momentos inesperados y hasta un skateboard, recopilamos algunas de las imágenes y reacciones más curiosas que dejó el fenómeno en internet",
+      "url": "https://elpais.com/videos/2026-08-13/de-bjork-a-skaters-los-fenomenos-virales-tras-el-eclipse-total-de-sol.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204297_120054_video_1800.mp4",
+      "published_at": "2026-08-13T14:31:43+00:00",
+      "category": "ciencia",
       "priority": 68,
-      "title_fa": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
-      "lead_fa": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
+      "title_fa": "De Björk a skaters: los fenómenos virales tras el eclipse total de Sol",
+      "lead_fa": "Entre vídeos espectaculares, memes, momentos inesperados y hasta un skateboard, recopilamos algunas de las imágenes y reacciones más curiosas que dejó el fenómeno en internet",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1451,17 +1472,17 @@
       "editorial_version": 2
     },
     {
-      "id": "327bec270693",
-      "source": "La Vanguardia",
-      "title": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
-      "summary": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613264/manhester-city-rechaza-oferta-barca-80-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dbb1d7a709.jpeg",
-      "published_at": "2026-08-13T13:28:58+02:00",
-      "category": "sociedad",
+      "id": "fc0a00e1f7a9",
+      "source": "EL PAÍS",
+      "title": "La resaca de los astrónomos tras su gran momento con el eclipse: “Me costará tiempo procesar todo lo que hemos vivido”",
+      "summary": "Un día después del fenómeno astronómico, los científicos y divulgadores que llevaban años esperándolo oscilan entre el cansancio, la emoción y la sensación de misión cumplida",
+      "url": "https://elpais.com/ciencia/2026-08-13/la-resaca-de-los-astronomos-tras-su-gran-momento-con-el-eclipse-me-costara-tiempo-procesar-todo-lo-que-hemos-vivido.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1204069_190213_video_1800.mp4",
+      "published_at": "2026-08-13T14:24:44+00:00",
+      "category": "ciencia",
       "priority": 68,
-      "title_fa": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
-      "lead_fa": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
+      "title_fa": "La resaca de los astrónomos tras su gran momento con el eclipse: “Me costará tiempo procesar todo lo que hemos vivido”",
+      "lead_fa": "Un día después del fenómeno astronómico, los científicos y divulgadores que llevaban años esperándolo oscilan entre el cansancio, la emoción y la sensación de misión cumplida",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1561,17 +1582,17 @@
       "editorial_version": 2
     },
     {
-      "id": "712c1b805fcb",
-      "source": "EL PAÍS",
-      "title": "Estambul será por primera vez sede de la Supercopa de España",
-      "summary": "La próxima edición del torneo, en la que participarán Real Madrid, Barcelona, Atlético y Real Sociedad, se disputará del 2 al 7 de febrero en el estadio Olímpico Atatürk al celebrarse la Copa de Asia en Arabia Saudí",
-      "url": "https://elpais.com/deportes/futbol/2026-08-13/estambul-sera-por-primera-vez-sede-de-la-supercopa-de-espana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IBZXXYENFNASJH4FKAZABXZU7M.jpg?auth=5c4d341454a31de1259773fe594dd20cbdaecc22f3168b355de8fd2c40ac1e53",
-      "published_at": "2026-08-13T11:36:25+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "Estambul será por primera vez sede de la Supercopa de España",
-      "lead_fa": "La próxima edición del torneo, en la que participarán Real Madrid, Barcelona, Atlético y Real Sociedad, se disputará del 2 al 7 de febrero en el estadio Olímpico Atatürk al celebrarse la Copa de Asia en Arabia Saudí",
+      "id": "d4d6d2fb194e",
+      "source": "La Vanguardia",
+      "title": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
+      "summary": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
+      "url": "https://www.lavanguardia.com/cultura/20260813/11613240/habia-barcos-mamuts-descenso-nivel-rio-danubio-descubre-cuerpo-dos-soldados-nazis-segunda-guerra-mundial-ola-calor.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7da2882dfc4.r_d.719-443-0.jpeg",
+      "published_at": "2026-08-13T13:33:14+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
+      "lead_fa": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1583,17 +1604,17 @@
       "editorial_version": 2
     },
     {
-      "id": "c6a3e5fc7196",
-      "source": "EL PAÍS",
-      "title": "Las consultas en urgencias oftalmológicas aumentaron por el eclipse, pero sin apenas casos graves: “Los daños no causan dolor o irritación”",
-      "summary": "Los daños en la retina característicos de la exposición solar conllevan alteraciones en la visión y pueden tardar días en aparecer",
-      "url": "https://elpais.com/sociedad/2026-08-13/las-consultas-en-urgencias-oftalmologicas-aumentaron-por-el-eclipse-pero-sin-apenas-casos-graves-los-danos-no-causan-dolor-o-irritacion.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204234_083420_video_1800.mp4",
-      "published_at": "2026-08-13T11:35:00+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Las consultas en urgencias oftalmológicas aumentaron por el eclipse, pero sin apenas casos graves: “Los daños no causan dolor o irritación”",
-      "lead_fa": "Los daños en la retina característicos de la exposición solar conllevan alteraciones en la visión y pueden tardar días en aparecer",
+      "id": "327bec270693",
+      "source": "La Vanguardia",
+      "title": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
+      "summary": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613264/manhester-city-rechaza-oferta-barca-80-millones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dbb1d7a709.jpeg",
+      "published_at": "2026-08-13T13:28:58+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
+      "lead_fa": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1693,6 +1714,50 @@
       "editorial_version": 2
     },
     {
+      "id": "712c1b805fcb",
+      "source": "EL PAÍS",
+      "title": "Estambul será por primera vez sede de la Supercopa de España",
+      "summary": "La próxima edición del torneo, en la que participarán Real Madrid, Barcelona, Atlético y Real Sociedad, se disputará del 2 al 7 de febrero en el estadio Olímpico Atatürk al celebrarse la Copa de Asia en Arabia Saudí",
+      "url": "https://elpais.com/deportes/futbol/2026-08-13/estambul-sera-por-primera-vez-sede-de-la-supercopa-de-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IBZXXYENFNASJH4FKAZABXZU7M.jpg?auth=5c4d341454a31de1259773fe594dd20cbdaecc22f3168b355de8fd2c40ac1e53",
+      "published_at": "2026-08-13T11:36:25+00:00",
+      "category": "deportes",
+      "priority": 67,
+      "title_fa": "Estambul será por primera vez sede de la Supercopa de España",
+      "lead_fa": "La próxima edición del torneo, en la que participarán Real Madrid, Barcelona, Atlético y Real Sociedad, se disputará del 2 al 7 de febrero en el estadio Olímpico Atatürk al celebrarse la Copa de Asia en Arabia Saudí",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c6a3e5fc7196",
+      "source": "EL PAÍS",
+      "title": "Las consultas en urgencias oftalmológicas aumentaron por el eclipse, pero sin apenas casos graves: “Los daños no causan dolor o irritación”",
+      "summary": "Los daños en la retina característicos de la exposición solar conllevan alteraciones en la visión y pueden tardar días en aparecer",
+      "url": "https://elpais.com/sociedad/2026-08-13/las-consultas-en-urgencias-oftalmologicas-aumentaron-por-el-eclipse-pero-sin-apenas-casos-graves-los-danos-no-causan-dolor-o-irritacion.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204234_083420_video_1800.mp4",
+      "published_at": "2026-08-13T11:35:00+00:00",
+      "category": "ciencia",
+      "priority": 67,
+      "title_fa": "Las consultas en urgencias oftalmológicas aumentaron por el eclipse, pero sin apenas casos graves: “Los daños no causan dolor o irritación”",
+      "lead_fa": "Los daños en la retina característicos de la exposición solar conllevan alteraciones en la visión y pueden tardar días en aparecer",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9a6199844e36",
       "source": "La Vanguardia",
       "title": "Acusan de asesinato con agravante de acecho a Nick Reiner por la muerte de sus padres",
@@ -1781,28 +1846,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bcf65935f192",
-      "source": "La Vanguardia",
-      "title": "Farage contra el Conde Cubo de Basura: el líder de Reform se juega su escaño en Clacton",
-      "summary": "El dirigente ultraderechista forzó los comicios en pleno escándalo sobre sus presuntas irregularidades financieras",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11613102/farage-conde-cubo-basura-lider-reform-juega-escano-elecciones-clacton.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7da410261.jpeg",
-      "published_at": "2026-08-13T10:19:52+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Farage contra el Conde Cubo de Basura: el líder de Reform se juega su escaño en Clacton",
-      "lead_fa": "El dirigente ultraderechista forzó los comicios en pleno escándalo sobre sus presuntas irregularidades financieras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9002ba683cf3",
       "source": "EL PAÍS España",
       "title": "Hasta 4.000 menores migrantes siguen en las calles de Ceuta tras la llegada masiva de julio, según las asociaciones vecinales",
@@ -1847,17 +1890,17 @@
       "editorial_version": 2
     },
     {
-      "id": "2463861c0ecc",
-      "source": "EL PAÍS",
-      "title": "El mapa de las fotos del eclipse: así se vivió en distintos lugares de España",
-      "summary": "Las mejores imágenes del fenómeno",
-      "url": "https://elpais.com/ciencia/2026-08-13/el-mapa-de-las-fotos-del-eclipse-asi-se-vivio-en-distintos-lugares-de-espana.html",
-      "image": "",
-      "published_at": "2026-08-13T08:48:41+00:00",
-      "category": "ciencia",
-      "priority": 67,
-      "title_fa": "El mapa de las fotos del eclipse: así se vivió en distintos lugares de España",
-      "lead_fa": "Las mejores imágenes del fenómeno",
+      "id": "bcf65935f192",
+      "source": "La Vanguardia",
+      "title": "Farage contra el Conde Cubo de Basura: el líder de Reform se juega su escaño en Clacton",
+      "summary": "El dirigente ultraderechista forzó los comicios en pleno escándalo sobre sus presuntas irregularidades financieras",
+      "url": "https://www.lavanguardia.com/internacional/20260813/11613102/farage-conde-cubo-basura-lider-reform-juega-escano-elecciones-clacton.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7da410261.jpeg",
+      "published_at": "2026-08-13T10:19:52+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Farage contra el Conde Cubo de Basura: el líder de Reform se juega su escaño en Clacton",
+      "lead_fa": "El dirigente ultraderechista forzó los comicios en pleno escándalo sobre sus presuntas irregularidades financieras",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1913,17 +1956,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
+      "id": "2463861c0ecc",
       "source": "EL PAÍS",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
+      "title": "El mapa de las fotos del eclipse: así se vivió en distintos lugares de España",
+      "summary": "Las mejores imágenes del fenómeno",
+      "url": "https://elpais.com/ciencia/2026-08-13/el-mapa-de-las-fotos-del-eclipse-asi-se-vivio-en-distintos-lugares-de-espana.html",
+      "image": "",
+      "published_at": "2026-08-13T08:48:41+00:00",
+      "category": "ciencia",
       "priority": 66,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "title_fa": "El mapa de las fotos del eclipse: así se vivió en distintos lugares de España",
+      "lead_fa": "Las mejores imágenes del fenómeno",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1946,28 +1989,6 @@
       "priority": 65,
       "title_fa": "Testimonio del seísmo en Colombia: “Se escuchan voces: ¡Vamos a sacarlo!”",
       "lead_fa": "“Salimos de la casa y vemos que se mueve. ¿Resistirá? ¿Se vendrá al suelo? Es la única pregunta”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0e863cbd220e",
-      "source": "La Vanguardia",
-      "title": "Minicius jr., el azote de los ‘expats’",
-      "summary": "“Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
-      "url": "https://www.lavanguardia.com/cultura/20260813/11612675/minicius-jr-azote-expats.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c66fb5000c.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 65,
-      "title_fa": "Minicius jr., el azote de los ‘expats’",
-      "lead_fa": "“Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2012,6 +2033,28 @@
       "priority": 65,
       "title_fa": "Málaga, Sevilla o Valencia en 48 horas: el verano sí cabe en un fin de semana",
       "lead_fa": "¿No tienes planeadas tus vacaciones este agosto? Puede que no las necesites, al menos no todas de golpe. Con un viernes libre por la tarde y un tren de alta velocidad, Málaga, Sevilla o Valencia caben enteras en dos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2199,28 +2242,6 @@
       "editorial_version": 2
     },
     {
-      "id": "74445348a22c",
-      "source": "EL PAÍS",
-      "title": "El extraño verano del 75: cuando los militares se rebelaron contra el franquismo",
-      "summary": "La escritora Susana Fortes reconstruye en un audiolibro la detención de su padre y otros oficiales del ejército de la Unión Militar Democrática que desafió a Franco",
-      "url": "https://elpais.com/cultura/2026-08-13/el-extrano-verano-del-75-cuando-los-militares-se-rebelaron-contra-el-franquismo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YPDYAMFSVGYHMZPR54ES72X7I.jpg?auth=9dc4b73612698dc7ea1ef412e15d4fd82f69b9c5d9f6493bf8283ccbdf2927ff",
-      "published_at": "2026-08-13T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "El extraño verano del 75: cuando los militares se rebelaron contra el franquismo",
-      "lead_fa": "La escritora Susana Fortes reconstruye en un audiolibro la detención de su padre y otros oficiales del ejército de la Unión Militar Democrática que desafió a Franco",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "290e39f9ef05",
       "source": "EL PAÍS",
       "title": "En el camino donde murió Isak Andic: “Hace 10 años que apagué la tele. No sabía nada”",
@@ -2266,7 +2287,7 @@
     },
     {
       "id": "f82db0389708",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
       "summary": "Los afectados por el recorte de las primas, la mayoría representados por un fondo de litigación, concluyen el proceso de identificación de propiedades susceptibles de bloqueo",
       "url": "https://cincodias.elpais.com/companias/2026-08-13/los-acreedores-de-espana-por-las-renovables-se-preparan-para-cobrar-la-deuda-tras-identificar-400-bienes-embargables.html",
@@ -2375,28 +2396,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4349e2cc2b3d",
-      "source": "EL PAÍS España",
-      "title": "Robles lanza un aviso a Marruecos: “Ceuta y Melilla no se tocan. Son españolísimas”",
-      "summary": "La ministra de Defensa, que ha eludido decir si comparecerá en el Senado, se ha parado a escuchar los miedos y reproches de los ceutíes, que agradecen que haya “dado la cara”",
-      "url": "https://elpais.com/espana/2026-08-12/robles-consuela-a-los-vecinos-de-ceuta-que-la-han-recibido-entre-gritos-ceuta-y-melilla-no-se-tocan-no-les-vamos-a-dejar.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203964_124119_video_1800.mp4",
-      "published_at": "2026-08-12T12:47:12+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Robles lanza un aviso a Marruecos: “Ceuta y Melilla no se tocan. Son españolísimas”",
-      "lead_fa": "La ministra de Defensa, que ha eludido decir si comparecerá en el Senado, se ha parado a escuchar los miedos y reproches de los ceutíes, que agradecen que haya “dado la cara”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "083e566192c2",
       "source": "EL PAÍS Economía",
       "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
@@ -2476,7 +2475,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 148
+      "count": 147
     },
     {
       "source": "EL PAÍS España",
@@ -2491,7 +2490,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 151
+      "count": 152
     }
   ]
 }
