@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:37:26.496796+00:00",
+  "generated_at": "2026-08-14T21:55:57.839514+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b8f7018f025a",
@@ -1288,28 +1288,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3894f2eed64f",
-      "source": "EL PAÍS Economía",
-      "title": "Vigilantes ante el IPC",
-      "summary": "La revisión al alza de la inflación de julio confirma que la energía sigue tirando de los precios y obliga a mantener las ayudas a los carburantes",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-14/vigilantes-ante-el-ipc.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/32YP74NVX5BATCXC5XDUDLO6KA.jpg?auth=f0849a0952f74cde3b7d83e98a61b1ff81d7de6a4e3676a5d3b0c81999e19b3e",
-      "published_at": "2026-08-14T03:40:00+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "Vigilantes ante el IPC",
-      "lead_fa": "La revisión al alza de la inflación de julio confirma que la energía sigue tirando de los precios y obliga a mantener las ayudas a los carburantes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "db93f2020bc6",
       "source": "EL PAÍS",
       "title": "Estados Unidos estrecha el cerco económico contra Irán con medidas “sin precedentes”",
@@ -1317,18 +1295,23 @@
       "url": "https://elpais.com/internacional/2026-08-14/estados-unidos-estrecha-el-cerco-economico-contra-iran.html",
       "image": "https://imagenes.elpais.com/resizer/v2/2FJGHSAK7JOFNO5LN2PQRA3UPM.jpg?auth=68d551012aa2f39f314a47956a508b18acc55eef48946e86b2fd61d369e478c2",
       "published_at": "2026-08-14T18:16:41+00:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 69,
-      "title_fa": "Estados Unidos estrecha el cerco económico contra Irán con medidas “sin precedentes”",
-      "lead_fa": "El secretario del Tesoro, Scott Bessent, asegura que aplicará sanciones económicas contra Teherán “como nunca se han visto”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "تشدید فشارهای اقتصادی آمریکا علیه ایران با اقدامات بی‌سابقه",
+      "lead_fa": "وزیر خزانه‌داری ایالات متحده از اعمال تحریم‌های اقتصادی بی‌سابقه علیه تهران خبر داد. این اقدامات جدید به منظور افزایش فشار بر جمهوری اسلامی طراحی شده است.",
+      "key_points_fa": [
+        "اسکات بسنت، وزیر خزانه‌داری آمریکا، از اعمال تحریم‌های بی‌سابقه خبر داد.",
+        "هدف این تصمیم، تشدید محاصره اقتصادی علیه تهران عنوان شده است."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تصمیم نشان‌دهنده تداوم و تشدید سیاست‌های فشار حداکثری اقتصادی از سوی واشنگتن علیه ایران است که می‌تواند پویایی‌های اقتصادی و تجاری مرتبط با این کشور را بیشتر تحت تأثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#ایران",
+        "#تحریم"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1341,16 +1324,22 @@
       "published_at": "2026-08-14T17:38:39+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "León XIV pide reforzar la protección de los migrantes menores de edad",
-      "lead_fa": "El Pontífice reclama medidas contra la trata y la explotación y pide favorecer la reunificación familiar y garantizar el acceso a la educación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درخواست لئون چهاردهم برای تقویت حمایت از کودکان مهاجر",
+      "lead_fa": "پاپ خواستار اقدامات جدی علیه قاچاق و استثمار کودکان مهاجر شد. او همچنین بر لزوم تسهیل پیوستن خانواده‌ها و دسترسی به آموزش تأکید کرد.",
+      "key_points_fa": [
+        "درخواست مقابله با قاچاق و استثمار کودکان مهاجر",
+        "تاکید بر اهمیت پیوستن دوباره خانواده‌ها به یکدیگر",
+        "تضمین دسترسی کودکان مهاجر به آموزش"
+      ],
+      "analysis_fa": "این موضع‌گیری بار دیگر توجه نهادهای بین‌المللی و کشورهای میزبان را به وضعیت آسیب‌پذیر کودکان مهاجر و ضرورت اجرای سیاست‌های حمایتی جلب می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجران",
+        "#اسپانیا",
+        "#کودکان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1361,18 +1350,23 @@
       "url": "https://elpais.com/deportes/futbol/2026-08-14/jeff-bezos-entra-como-accionista-minoritario-en-el-liverpool.html",
       "image": "https://imagenes.elpais.com/resizer/v2/DAXZEVTL7JP3JAI47STEBJ6LBE.jpg?auth=e234273cbde8af1c8de5e29fd1029ac9b62f5f3e545593fc0b58b2f6357f0bed",
       "published_at": "2026-08-14T17:28:39+00:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 69,
-      "title_fa": "Jeff Bezos entra como accionista minoritario en el Liverpool",
-      "lead_fa": "Medios británicos informan de que la compra supera los 1.500 millones de libras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ورود جف بزوس به عنوان سهامدار اقلیت باشگاه لیورپول",
+      "lead_fa": "رسانه‌های بریتانیایی از ورود جف بزوس به جمع سهامداران باشگاه فوتبال لیورپول خبر دادند. ارزش این سرمایه‌گذاری بیش از ۱.۵ میلیارد پوند برآورد شده است.",
+      "key_points_fa": [
+        "جف بزوس به عنوان سهامدار اقلیت در لیورپول سرمایه‌گذاری کرد.",
+        "رسانه‌های بریتانیایی ارزش این معامله را بیش از ۱.۵ میلیارد پوند اعلام کردند."
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده تداوم تمایل سرمایه‌گذاران کلان آمریکایی به خرید سهام در باشگاه‌های برجسته فوتبال لیگ برتر انگلیس است و می‌تواند پویایی مالی این باشگاه را تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#لیورپول",
+        "#جف_بزوس",
+        "#فوتبال_انگلیس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1387,6 +1381,28 @@
       "priority": 69,
       "title_fa": "Luigi Mangione se declara culpable en el juicio federal por asesinar a un ejecutivo de una compañía de seguros de salud",
       "lead_fa": "El acusado tratará de invalidar el otro juicio estatal alegando doble enjuiciamiento. El acuerdo con la Fiscalía se produce semanas antes del proceso impulsado por el Departamento de Justicia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3894f2eed64f",
+      "source": "EL PAÍS Economía",
+      "title": "Vigilantes ante el IPC",
+      "summary": "La revisión al alza de la inflación de julio confirma que la energía sigue tirando de los precios y obliga a mantener las ayudas a los carburantes",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-14/vigilantes-ante-el-ipc.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/32YP74NVX5BATCXC5XDUDLO6KA.jpg?auth=f0849a0952f74cde3b7d83e98a61b1ff81d7de6a4e3676a5d3b0c81999e19b3e",
+      "published_at": "2026-08-14T03:40:00+00:00",
+      "category": "economia",
+      "priority": 69,
+      "title_fa": "Vigilantes ante el IPC",
+      "lead_fa": "La revisión al alza de la inflación de julio confirma que la energía sigue tirando de los precios y obliga a mantener las ayudas a los carburantes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1618,28 +1634,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f09e36b32e90",
-      "source": "La Vanguardia",
-      "title": "La “maldición de la momia real” persigue la venta de restos momificados en internet",
-      "summary": "Los investigadores hallan evidencias de un aumento de microbios peligrosos tanto para vendedores como para compradores",
-      "url": "https://www.lavanguardia.com/cultura/20260814/11613939/maldicion-momia-real-persigue-venta-comercio-restos-momificados-humanos-animales-traves-redes-sociales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f0aa77f5ed.r_d.400-266-0.jpeg",
-      "published_at": "2026-08-14T14:42:51+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La “maldición de la momia real” persigue la venta de restos momificados en internet",
-      "lead_fa": "Los investigadores hallan evidencias de un aumento de microbios peligrosos tanto para vendedores como para compradores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9ade8d0d59fa",
       "source": "EL PAÍS",
       "title": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
@@ -1673,6 +1667,28 @@
       "priority": 68,
       "title_fa": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
       "lead_fa": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f09e36b32e90",
+      "source": "La Vanguardia",
+      "title": "La “maldición de la momia real” persigue la venta de restos momificados en internet",
+      "summary": "Los investigadores hallan evidencias de un aumento de microbios peligrosos tanto para vendedores como para compradores",
+      "url": "https://www.lavanguardia.com/cultura/20260814/11613939/maldicion-momia-real-persigue-venta-comercio-restos-momificados-humanos-animales-traves-redes-sociales.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f0aa77f5ed.r_d.400-266-0.jpeg",
+      "published_at": "2026-08-14T14:42:51+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La “maldición de la momia real” persigue la venta de restos momificados en internet",
+      "lead_fa": "Los investigadores hallan evidencias de un aumento de microbios peligrosos tanto para vendedores como para compradores",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1970,28 +1986,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8231e5a4260a",
-      "source": "La Vanguardia",
-      "title": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260814/11613041/tienes-urgencia-sanitaria-elige-bien-donde-debes-ir-brl.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d5f5a4577b.jpeg",
-      "published_at": "2026-08-14T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "eeb2678fce90",
       "source": "EL PAÍS",
       "title": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
@@ -2014,6 +2008,28 @@
       "editorial_version": 2
     },
     {
+      "id": "8231e5a4260a",
+      "source": "La Vanguardia",
+      "title": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260814/11613041/tienes-urgencia-sanitaria-elige-bien-donde-debes-ir-brl.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d5f5a4577b.jpeg",
+      "published_at": "2026-08-14T05:50:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f103c7b945f0",
       "source": "EL PAÍS Economía",
       "title": "El BCE entre subidas preventivas o correctivas",
@@ -2022,7 +2038,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/2VFSMN2TSVO43ENPOW3EMGD2LU.jpg?auth=24e5bcbbc04b08f794c118a88031e95a130cfb6b905b1f974d4e3e63e4a4de62",
       "published_at": "2026-08-14T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El BCE entre subidas preventivas o correctivas",
       "lead_fa": "Un banco central debe actuar a partir de previsiones de acontecimientos que, por hipótesis, son imposibles de prever",
       "key_points_fa": [],
@@ -2300,28 +2316,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a5a96781869b",
-      "source": "EL PAÍS España",
-      "title": "España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos",
-      "summary": "El Gobierno estima que 2.500 menores y unos 2.500 potenciales solicitantes de asilo siguen en la ciudad autónoma",
-      "url": "https://elpais.com/espana/2026-08-13/espana-cifra-en-hasta-5000-los-migrantes-de-ceuta-que-pueden-ser-acogidos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BUQGICH5JBBWNHW45A6C54QOVM.jpg?auth=0ccc7b7f250c4989884aa2f6b6827c02dba2d5b09ad6d713dbc175caf029c852",
-      "published_at": "2026-08-13T03:30:01+00:00",
-      "category": "politica",
-      "priority": 61,
-      "title_fa": "España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos",
-      "lead_fa": "El Gobierno estima que 2.500 menores y unos 2.500 potenciales solicitantes de asilo siguen en la ciudad autónoma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "21f81a3cd1e4",
       "source": "EL PAÍS Economía",
       "title": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
@@ -2487,6 +2481,28 @@
       "priority": 54,
       "title_fa": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
       "lead_fa": "La caída de la generación fotovoltaica fue cubierta por centrales hidráulicas y de ciclo combinado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cca12053fc8a",
+      "source": "La Vanguardia",
+      "title": "En Santa Susanna, tres meses al año",
+      "summary": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612038/santa-susanna-tres-meses-ano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b0d3d8cf7e.r_d.426-272-0.jpeg",
+      "published_at": "2026-08-12T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 49,
+      "title_fa": "En Santa Susanna, tres meses al año",
+      "lead_fa": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
