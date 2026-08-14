@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-14T23:33:16.721581+00:00",
+  "generated_at": "2026-08-14T23:57:23.034091+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "f39e63327175",
     "b8f7018f025a",
     "9715c8de332a",
     "a6e7a57bcccd",
-    "bde557e93a1a",
-    "3a5d5f3166cd"
+    "bde557e93a1a"
   ],
   "items": [
+    {
+      "id": "f39e63327175",
+      "source": "EL PAÍS",
+      "title": "Un terremoto de 7,7 de magnitud sacude la costa de Indonesia",
+      "summary": "La agencia geofísica del archipiélago emite una alerta temprana de tsunami para algunas regiones del país",
+      "url": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/H63RZNJTZ5ALDLDMYH7OYTOSRI.jpg?auth=4fa9cc456cbd92e38227c5c002f827967c651ac4b47020406016c7c4ebe0a7cd",
+      "published_at": "2026-08-14T23:38:52+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "زمین‌لرزه ۷.۷ ریشتری سواحل اندونزی را لرزاند",
+      "lead_fa": "زمین‌لرزه‌ای با قدرت ۷.۷ ریشتر سواحل اندونزی را لرزاند. آژانس ژئوفیزیک این کشور هشدار زونامی صادر کرد.",
+      "key_points_fa": [
+        "ثبت زمین‌لرزه با بزرگی ۷.۷ ریشتر",
+        "صدور هشدار زودهنگام سونامی برای برخی مناطق اندونزی"
+      ],
+      "analysis_fa": "وقوع زمین‌لرزه‌های شدید در مجمع‌الجزایر اندونزی به دلیل قرارگیری روی حلقه آتش اقیانوس آرام امری مکرر است و نهادهای محلی به سرعت سیستم‌های هشدار را فعال می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#اندونزی",
+        "#زمین‌لرزه",
+        "#سونامی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "b8f7018f025a",
       "source": "La Vanguardia",
@@ -1577,18 +1604,25 @@
       "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
       "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 69,
-      "title_fa": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
-      "lead_fa": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جریمه مونیستار پلاس به دلیل نقض قوانین دسترسی",
+      "lead_fa": "کمیسیون ملی بازارهای رقابت اسپانیا شرکت موویستار پلاس را جریمه کرد. این جریمه به دلیل عدم ارائه زیرنویس و زبان اشاره در پخش مسابقات فوتبال صادر شده است.",
+      "key_points_fa": [
+        "تخلف این شرکت در زمینه دسترسی‌پذیری به مدت ۱۸ ماه ادامه داشته است.",
+        "مبلغ جریمه بالغ بر ۲۰۹ هزار و ۲۵۰ یورو است.",
+        "شرکت اپراتور مبلغ جریمه را پرداخت کرده است."
+      ],
+      "analysis_fa": "این تصمیم نهاد نظارتی نشان‌دهنده اهمیت رعایت قوانین مربوط به حقوق افراد دارای معلولیت در رسانه‌های تصویری اسپانیا است. نظارت بر اجرای دقیق استانداردهای دسترسی‌پذیری در شبکه‌های پولی و تلویزیونی از وظایف قانونی نهادهای رگولاتوری محسوب می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#مخابرات",
+        "#قوانین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1601,16 +1635,23 @@
       "published_at": "2026-08-14T03:15:00+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "والدکاروس، بزرگ‌ترین پروژه مسکن اروپا با ساخت ۵۰ هزار واحد",
+      "lead_fa": "ساخت نخستین واحدهای مسکونی در پروژه والدکاروس مادرید از اوایل سال ۲۰۲۷ میلادی آغاز خواهد شد. این منطقه بزرگ‌ترین اراضی توسعه‌یافته برای مسکن مقرون‌به‌صرفه در مادرید و اروپا به شمار می‌رود.",
+      "key_points_fa": [
+        "پروژه والدکاروس شامل ساخت ۵۰ هزار واحد مسکونی است.",
+        "این منطقه بزرگ‌ترین ذخیره زمین برای مسکن مقرون‌به‌صرفه در پایتخت اسپانیا محسوب می‌شود.",
+        "نخستین پروژه‌های ساختمانی در این محدوده در ابتدای سال ۲۰۲۷ کلید می‌خورند."
+      ],
+      "analysis_fa": "توسعه پروژه والدکاروس گامی مهم برای پاسخگویی به تقاضای مسکن در پایتخت اسپانیا است. تمرکز بر مسکن مقرون‌به‌صرفه می‌تواند به تنظیم بازار املاک کمک کند، مشروط بر اینکه روند اجرا و زیرساخت‌های آن طبق برنامه‌ریزی پیش برود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مادرید",
+        "#مسکن",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1724,28 +1765,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1538c51c3cd5",
       "source": "EL PAÍS",
       "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
@@ -1779,6 +1798,28 @@
       "priority": 67,
       "title_fa": "De la ingeniería aeroespacial al quirófano: el primer metamaterial óseo implantado salva la pierna de Pierre",
       "lead_fa": "El Hospital Gregorio Marañón y la Universidad Politécnica de Madrid desarrollan una tibia con tecnología 3D que le ha permitido a un hombre de 38 años conservar su pierna y poder caminar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a42da1392a7",
+      "source": "La Vanguardia",
+      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-14T13:51:53+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2175,28 +2216,6 @@
       "priority": 64,
       "title_fa": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
       "lead_fa": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cfdde616afe8",
-      "source": "EL PAÍS",
-      "title": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
-      "summary": "Casa de las Flores no deja nada librado al azar, experimenta con las normas y recibe huéspedes que vuelven una y otra vez",
-      "url": "https://elpais.com/eps/2026-08-14/desayuno-en-seis-pases-y-sabanas-de-300-hilos-que-se-planchan-a-diario-un-hotel-en-lanzarote-quiere-reinventar-el-lujo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N52KBZZQPVDQ7H27F37NZS5TVA.JPG?auth=b75a13d9c311f161b6c48c00b29d21a2cef005fa4c7a39246d642d2b0c9d1d0f",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 64,
-      "title_fa": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
-      "lead_fa": "Casa de las Flores no deja nada librado al azar, experimenta con las normas y recibe huéspedes que vuelven una y otra vez",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
