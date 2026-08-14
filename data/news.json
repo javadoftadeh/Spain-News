@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-08-14T17:07:20.688581+00:00",
+  "generated_at": "2026-08-14T18:02:42.961606+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "b8f7018f025a",
     "9715c8de332a",
     "a6e7a57bcccd",
     "bde557e93a1a",
-    "3a5d5f3166cd",
-    "5c578267fa51"
+    "3a5d5f3166cd"
   ],
   "items": [
+    {
+      "id": "b8f7018f025a",
+      "source": "La Vanguardia",
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "summary": "Miembros de la UME participan en la evacuación de los restos de los monarcas y obras de arte",
+      "url": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2f235e4ea.r_d.1189-974-0.jpeg",
+      "published_at": "2026-08-14T18:04:44+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "تخلیه بقایای پادشاهان آراگون به دلیل آتش‌سوزی در هوئسکا",
+      "lead_fa": "اعضای واحد اضطراری نظامی اسپانیا بقایای پادشاهان آراگون را از یک صومعه خارج کردند. این اقدام برای نجات آثار تاریخی و استخوان‌های سلطنتی در پی وقوع آتش‌سوزی صورت گرفت.",
+      "key_points_fa": [
+        "مشارکت واحد اضطراری نظامی (UME) در عملیات تخلیه",
+        "انتقال بقایای پادشاهان آراگون و آثار هنری صومعه",
+        "تلاش برای حفاظت از میراث فرهنگی در برابر خطرات آتش‌سوزی در منطقه هوئسکا"
+      ],
+      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری میراث فرهنگی و تاریخی را در برابر بلایای طبیعی و آتش‌سوزی‌های جنگلی برجسته می‌کند. دخالت نهادهای نظامی نشان‌دهنده ابعاد جدی تهدید و نیاز به واکنش سریع برای حفظ آثار ملی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#تاریخ_آراگون",
+        "#میراث_فرهنگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "9715c8de332a",
       "source": "La Vanguardia",
@@ -41,8 +70,8 @@
     {
       "id": "a6e7a57bcccd",
       "source": "EL PAÍS",
-      "title": "Los Bomberos estabilizan el incendio en el parque de Collserola (Barcelona) tras quemar 10 hectáreas",
-      "summary": "El Ayuntamiento de Esplugues de Llobregat mantiene el confinamiento preventivo de los vecinos del barrio de Can Caralleu",
+      "title": "Los Bomberos estabilizan el incendio en el parque de Collserola tras quemar 10 hectáreas",
+      "summary": "El Ayuntamiento de Barcelona levanta el confinamiento de los vecinos del barrio de Can Caralleu",
       "url": "https://elpais.com/espana/catalunya/2026-08-14/los-bomberos-trabajan-en-un-incendio-en-el-parque-de-collserola-en-esplugues-de-llobregat.html",
       "image": "https://imagenes.elpais.com/resizer/v2/O2A3KICFSVDZHM3YOPSNH624G4.jpg?auth=d813bc3dff7706813f10e26825eb3f195dadc92f425094289c58b237535af137",
       "published_at": "2026-08-14T14:22:44+00:00",
@@ -185,6 +214,120 @@
       "editorial_version": 2
     },
     {
+      "id": "428434167004",
+      "source": "La Vanguardia",
+      "title": "La Guardia Urbana detiene a un sospechoso por el incendio de Collserola",
+      "summary": "El arrestado llevaba encima dos encendedores justo en el momento del inicio de las llamas en la parte alta de la avenida Pearson",
+      "url": "https://www.lavanguardia.com/sucesos/20260814/11614067/guardia-urbana-detiene-sospechoso-incendio-collserola.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ce37feff.r_d.1888-1854-0.jpeg",
+      "published_at": "2026-08-14T19:20:00+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "بازداشت یک مظنون به دست داشتن در آتش‌سوزی بوستان کولسروولا در بارسلونا",
+      "lead_fa": "پلیس محلی بارسلونا فردی را به اتهام دست داشتن در آتش‌سوزی منطقه کولسروولا بازداشت کرد. از مظنون در هنکام شروع حریق دو فندک کشف و ضبط شد.",
+      "key_points_fa": [
+        "بازداشت مظنون توسط گارد شهری در بخش بالایی خیابان پیرسون",
+        "کشف دو فندک همراه فرد بازداشت‌شده در زمان آغاز آتش‌سوزی",
+        "آغاز تحقیقات درباره انگیزه و چگونگی وقوع حریق"
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی در مناطق طبیعی حومه کلان‌شهرها همواره یکی از چالش‌های جدی مدیریت بحران در ماه‌های گرم سال است. افزایش تدابیر امنیتی و حضور گارد شهری می‌تواند به شناسایی سریع‌تر عاملان احتمالی کمک کند، اما پیشگیری از این حوادث نیازمند نظارت‌های مستمر و همکاری عمومی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#اسپانیا",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5952b499fe46",
+      "source": "La Vanguardia",
+      "title": "Fallece en accidente en la Volta a Portugal el joven valor Finlay Tarling del equipo filial de Iniesta",
+      "summary": "Según la televisión portuguesa RTP, el joven ciclista británico tuvo una colisión frontal con un vehículo ajeno a la carrera",
+      "url": "https://www.lavanguardia.com/deportes/20260814/11614044/fallece-accidente-volta-portugal-joven-valor-finlay-tarling-equipo-filial-iniesta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f457c9fb7a.jpeg",
+      "published_at": "2026-08-14T18:43:39+02:00",
+      "category": "deportes",
+      "priority": 77,
+      "title_fa": "مرگ رکابزن جوان بریتانیایی در تور دوچرخه‌سواری پرتغال",
+      "lead_fa": "فینلی تارلینگ، دوچرخه‌سوار جوان تیم فیلیال اینیستا، در جریان مسابقات تور پرتغال درگذشت. بنا بر گزارش تلویزیون دولتی پرتغال، او با یک خودروی متفرقه تصادف کرده است.",
+      "key_points_fa": [
+        "حادثه در جریان مسابقات «ولتا آ پرتغال» رخ داد.",
+        "این ورزشکار جوان با یک خودروی خارج از مسابقه تصادف کرد.",
+        "تلویزیون آرتی‌پی پرتغال خبر این سانحه را اعلام کرد."
+      ],
+      "analysis_fa": "این حادثه بار دیگر بحث ایمنی دوچرخه‌سواران در جاده‌های باز و تداخل مسیر مسابقات با وسایل نقلیه عمومی را مطرح کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#دوچرخه‌سواری",
+        "#پرتغال",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf54e1a38ecb",
+      "source": "EL PAÍS España",
+      "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras afectar a más de 38.000 hectáreas",
+      "summary": "El incendio está entre “los más extensos y peligrosos de la historia”, según la Junta de Andalucía",
+      "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
+      "published_at": "2026-08-14T17:55:06+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "ادامه آتش‌سوزی مهارنشده در هوئلوا با سوزاندن بیش از ۳۱ هزار هکتار",
+      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا در استان هوئلوا همچنان خارج از کنترل است. رئیس دولت محلی آندلس از محل فرماندهی عملیات بازدید می‌کند.",
+      "key_points_fa": [
+        "بیش از ۳۱ هزار هکتار اراضی در آتش سوخته است.",
+        "۶۵۸ نفر به دلیل خطر آتش‌سوزی تخلیه شده‌اند.",
+        "رئیس دولت محلی آندلس از منطقه بحرانی بازدید می‌کند."
+      ],
+      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی شدید در منطقه است که نیازمند بسیج امکانات گسترده برای مهار و ارزیابی خسارات زیست‌محیطی خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#هوئلوا",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "654f79489e3c",
+      "source": "EL PAÍS",
+      "title": "El incendio de Huesca deja 16 municipios evacuados y amenaza San Juan de la Peña: “Si arde, se perdería el símbolo del origen de Aragón”",
+      "summary": "830 personas siguen desalojadas y la UME trasladó este jueves los restos óseos de los primeros monarcas y otras piezas de valor",
+      "url": "https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4",
+      "published_at": "2026-08-14T17:41:51+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "آتش‌سوزی در اوئسکا: تخلیه ۱۶ شهرداری و تهدید صومعه تاریخی",
+      "lead_fa": "آتش‌سوزی جنگلی در استان اوئسکا باعث تخلیه ۱۶ شهرداری و آوارگی ۸۳۰ نفر شد. واحد اضطراب نظامی اسپانیا بقایای استخوانی پادشاهان اولیه را به جای امن منتقل کرد.",
+      "key_points_fa": [
+        "تخلیه ۱۶ شهرداری و ادامه آوارگی ۸۳۰ نفر به دلیل شعله‌های آتش.",
+        "تهدید جدی منطقه تاریخی و نمادین سن خوان د لا پنا.",
+        "انتقال استخوان‌های پادشاهان اولیه آراگون و آثار با ارزش توسط ارتش."
+      ],
+      "analysis_fa": "این آتش‌سوزی علاوه بر خسارات زیست‌محیطی، میراث فرهنگی و تاریخی منطقه را به طور جدی تهدید کرده است. واکنش سریع واحدهای امدادی و نظامی بر مهار آسیب‌های جبران‌ناپذیر به آثار باستانی متمرکز بوده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اوئسکا",
+        "#اسپانیا",
+        "#محیط_زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "baabf1fc0a36",
       "source": "La Vanguardia",
       "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
@@ -216,9 +359,9 @@
       "id": "fb2a16e76ac2",
       "source": "La Vanguardia",
       "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
-      "summary": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera",
+      "summary": "",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f2eeef2c47.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ce37feff.r_d.1888-1854-0.jpeg",
       "published_at": "2026-08-14T17:00:38+02:00",
       "category": "sociedad",
       "priority": 77,
@@ -246,7 +389,7 @@
       "title": "Finlay Tarling, ciclista galés de 19 años, muere atropellado durante la Vuelta a Portugal",
       "summary": "Un coche invadió la carretera en sentido contrario cuando participaba en la prueba",
       "url": "https://elpais.com/deportes/2026-08-14/finlay-tarling-ciclista-gales-de-19-anos-muere-atropellado-durante-la-vuelta-a-portugal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2BB4BY3Y45AAZD53CB25ZWSCYU.jpg?auth=7f7ece1dd668d35a27fecc9916d537905b4f2e7660ed2b34e290fdb5fa8ec922",
+      "image": "https://imagenes.elpais.com/resizer/v2/DNZS2ORXY5FSFMEJJHBIAPVLZA.jpg?auth=f128e24cbcc4c123d35a189837433b4222a21458b3e22206178aa77bf0fa5d0e",
       "published_at": "2026-08-14T16:31:36+00:00",
       "category": "sociedad",
       "priority": 77,
@@ -296,34 +439,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2f27df9b6f6a",
-      "source": "EL PAÍS",
-      "title": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
-      "summary": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 83 departamentos del país están en alerta",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/francia-encara-su-quinta-ola-de-calor-en-el-peor-verano-desde-que-hay-registros.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EPUYSYYG2FMG5L6TD5UIANLWQY.jpg?auth=8f2693646ed7ab3e73a2418c790daff2473637bedca8e80d597d6632d35b689c",
-      "published_at": "2026-08-14T16:15:09+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "فرانسه با پنجمین موج گرما در بدترین تابستان ثبت‌شده روبه‌روست",
-      "lead_fa": "فرانسه هفدهمین روز متوالی از دمای بسیار بالا را تجربه می‌کند. در حال حاضر ۸۳ دپارتمان این کشور در حالت آماده‌باش قرار دارند.",
-      "key_points_fa": [
-        "ثبت ۱۷ روز متوالی با دمای بسیار بالا در سراسر فرانسه",
-        "قرار داشتن ۸۳ دپارتمان در وضعیت هشدار گرما",
-        "این دوره به عنوان بدترین تابستان از زمان ثبت رکوردها ارزیابی می‌شود"
-      ],
-      "analysis_fa": "تداوم امواج گرما در تابستان امسال نشان‌دهنده استمرار الگوهای آب‌وهوایی جدید در اروپای غربی است که فشار زیادی بر زیرساخت‌ها و خدمات emergency وارد می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#فرانسه",
-        "#موج_گرما",
-        "#آب_وهوا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ad8da46bb0cc",
       "source": "La Vanguardia",
       "title": "Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu",
@@ -352,35 +467,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cf54e1a38ecb",
-      "source": "EL PAÍS España",
-      "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras afectar a más de 38.000 hectáreas",
-      "summary": "El incendio está entre “los más extensos y peligrosos de la historia”, según la Junta de Andalucía",
-      "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
-      "published_at": "2026-08-14T15:24:33+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "ادامه آتش‌سوزی مهارنشده در هوئلوا با سوزاندن بیش از ۳۱ هزار هکتار",
-      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا در استان هوئلوا همچنان خارج از کنترل است. رئیس دولت محلی آندلس از محل فرماندهی عملیات بازدید می‌کند.",
-      "key_points_fa": [
-        "بیش از ۳۱ هزار هکتار اراضی در آتش سوخته است.",
-        "۶۵۸ نفر به دلیل خطر آتش‌سوزی تخلیه شده‌اند.",
-        "رئیس دولت محلی آندلس از منطقه بحرانی بازدید می‌کند."
-      ],
-      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی شدید در منطقه است که نیازمند بسیج امکانات گسترده برای مهار و ارزیابی خسارات زیست‌محیطی خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اسپانیا",
-        "#هوئلوا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "edef38972e4a",
       "source": "EL PAÍS España",
       "title": "Detenido un hombre con antecedentes por provocar un incendio en León",
@@ -404,35 +490,6 @@
         "#اسپانیا",
         "#آتش_سوزی",
         "#لئون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "654f79489e3c",
-      "source": "EL PAÍS",
-      "title": "El incendio de Huesca deja 16 municipios evacuados y amenaza San Juan de la Peña: “Si arde, se perdería el símbolo del origen de Aragón”",
-      "summary": "830 personas siguen desalojadas y la UME trasladó este jueves los restos óseos de los primeros monarcas y otras piezas de valor",
-      "url": "https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4",
-      "published_at": "2026-08-14T11:54:12+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آتش‌سوزی در اوئسکا: تخلیه ۱۶ شهرداری و تهدید صومعه تاریخی",
-      "lead_fa": "آتش‌سوزی جنگلی در استان اوئسکا باعث تخلیه ۱۶ شهرداری و آوارگی ۸۳۰ نفر شد. واحد اضطراب نظامی اسپانیا بقایای استخوانی پادشاهان اولیه را به جای امن منتقل کرد.",
-      "key_points_fa": [
-        "تخلیه ۱۶ شهرداری و ادامه آوارگی ۸۳۰ نفر به دلیل شعله‌های آتش.",
-        "تهدید جدی منطقه تاریخی و نمادین سن خوان د لا پنا.",
-        "انتقال استخوان‌های پادشاهان اولیه آراگون و آثار با ارزش توسط ارتش."
-      ],
-      "analysis_fa": "این آتش‌سوزی علاوه بر خسارات زیست‌محیطی، میراث فرهنگی و تاریخی منطقه را به طور جدی تهدید کرده است. واکنش سریع واحدهای امدادی و نظامی بر مهار آسیب‌های جبران‌ناپذیر به آثار باستانی متمرکز بوده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اوئسکا",
-        "#اسپانیا",
-        "#محیط_زیست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -521,17 +578,39 @@
       "editorial_version": 2
     },
     {
-      "id": "3ae8fc633ccf",
+      "id": "38d8b28b8280",
+      "source": "EL PAÍS",
+      "title": "Los incendios forestales en Europa obligan a evacuar a miles de personas y causan decenas de heridos",
+      "summary": "Las llamas azotan este viernes a varios países del continente, que afronta la quinta ola de calor del año. Hay al menos un fallecido en Croacia",
+      "url": "https://elpais.com/internacional/2026-08-14/los-incendios-forestales-en-europa-obligan-a-evacuar-a-miles-de-personas-y-causan-decenas-de-heridos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZA5BGBHDWFHDZHIHQXGA6EZ6JI.jpg?auth=b3a5823c29bd6b191c7990d8176ce5dd7a6967fc20dd6de9bdda725c8b136439",
+      "published_at": "2026-08-14T14:36:22+00:00",
+      "category": "sociedad",
+      "priority": 76,
+      "title_fa": "Los incendios forestales en Europa obligan a evacuar a miles de personas y causan decenas de heridos",
+      "lead_fa": "Las llamas azotan este viernes a varios países del continente, que afronta la quinta ola de calor del año. Hay al menos un fallecido en Croacia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "54c178552a5b",
       "source": "La Vanguardia",
-      "title": "El Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
-      "summary": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
-      "url": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a36b1d69f89e.jpeg",
-      "published_at": "2026-08-14T16:08:27+02:00",
+      "title": "Mangione confiesa que abrió fuego y mató al jefe de la mayor empresa de seguros de EE.UU.",
+      "summary": "“Disparé y Brian Thompson murió, sabía que lo que hacía era ilegal”, reconoce ante el tribunal este pistolero que algunos convirtieron en una especie de Robin Hood. “Un asesino no es un héroe”, según el fiscal al anunciar que pedirá cadena perpetua",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11614043/mangione-confiesa-abrio-fuego-mato-jefe-mayor-empresa-seguros-ee-uu.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f40058c5af.jpeg",
+      "published_at": "2026-08-14T18:44:49+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
-      "lead_fa": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
+      "title_fa": "Mangione confiesa que abrió fuego y mató al jefe de la mayor empresa de seguros de EE.UU.",
+      "lead_fa": "“Disparé y Brian Thompson murió, sabía que lo que hacía era ilegal”, reconoce ante el tribunal este pistolero que algunos convirtieron en una especie de Robin Hood. “Un asesino no es un héroe”, según el fiscal al anunciar que pedirá cadena perpetua",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -674,35 +753,6 @@
         "#سومار",
         "#انرژی_هسته‌ای",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7635d357bba5",
-      "source": "La Vanguardia",
-      "title": "La regularización impulsa el empleo extranjero a un récord de 3,5 millones",
-      "summary": "La afiliación foránea crece un 13,6% anual, frente al 2,8% del conjunto del empleo, tras incorporar a más de 262.000 personas por el proceso extraordinario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613779/regularizacion-impulsa-empleo-extranjero-record-3-5-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a77a613e3362.r_d.2027-1516-0.jpeg",
-      "published_at": "2026-08-14T11:23:35+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "رکوردشکنی اشتغال اتباع خارجی در اسپانیا با جذب بیش از ۳.۵ میلیون شاغل",
-      "lead_fa": "آمار بیمه‌شدگان خارجی در اسپانیا با رشد سالانه ۱۳.۶ درصدی به رقم بی‌سابقه ۳.۵ میلیون نفر رسید. این روند صعودی با جذب بیش از ۲۶۲ هزار نفر از طریق روند فوق‌العاده تقویت شده است.",
-      "key_points_fa": [
-        "رشد ۱۳.۶ درصدی بیمه‌شدگان خارجی در مقایسه با رشد ۲.۸ درصدی کل اشتغال",
-        "افزوده شدن بیش از ۲۶۲ هزار نفر از طریق روند فوق‌العاده قانونی‌سازی",
-        "ثبت رکورد تاریخی ۳.۵ میلیون شاغل خارجی در بازار کار اسپانیا"
-      ],
-      "analysis_fa": "رشد قابل توجه اشتغال خارجی نشان‌دهنده تاثیر مستقیم طرح‌های قانونی‌سازی بر رسمی شدن فعالیت اقتصادی مهاجران و ورود آن‌ها به بازار کار است. این روند می‌تواند به پایداری سیستم تأمین اجتماعی و پاسخگویی به نیازهای بخش‌های مختلف اقتصادی کمک کند.",
-      "audience_impact_fa": "این تحول می‌تواند بر روند اشتغال و اقامت قانونی متقاضیان کار و مهاجران جدید در بازار کار اسپانیا تاثیرگذار باشد.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اشتغال_خارجی",
-        "#اقتصاد",
-        "#مهاجران"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -905,31 +955,25 @@
       "editorial_version": 2
     },
     {
-      "id": "6858b0403409",
-      "source": "EL PAÍS Economía",
-      "title": "El turismo, la fábrica de oportunidades de España",
-      "summary": "Con cerca de 700.000 empresas y un récord de visitantes en el horizonte, el sector de los viajes, el alojamiento y el ocio premia a los emprendedores que se especializan en un nicho del mercado, buscan soluciones digitales o convierten la sostenibilidad en una ventaja competitiva",
-      "url": "https://elpais.com/economia/branded/el-poder-de-las-empresas/2026-08-12/el-turismo-la-fabrica-de-oportunidades-de-espana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HMLLFS26DRH6VHTL6PWPT5FLEM.jpg?auth=8cf9abf598e627de83b5d39bfb5774cde78e7be223910502c1382d75963c1808",
-      "published_at": "2026-08-12T09:27:30+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "گردشگری اسپانیا؛ موتور محرک فرصت‌های شغلی و کارآفرینی",
-      "lead_fa": "بخش گردشگری اسپانیا با داشتن نزدیک به ۷۰۰ هزار شرکت و رکورد جدید بازدیدکنندگان، بستر مناسبی برای کارآفرینان فراهم کرده است. فعالان این حوزه با تمرکز بر بازارهای تخصصی، راهکارهای دیجیتال و پایداری به موفقیت می‌رسند.",
-      "key_points_fa": [
-        "فعالیت حدود ۷۰۰ هزار شرکت در بخش سفر، اقامت و سرگرمی اسپانیا.",
-        "ثبت رکورد جدید در ورود گردشگران به کشور.",
-        "اهمیت تمرکز بر بازارهای گوشه (نیش)، دیجیتالی‌سازی و پایداری برای کارآفرینان."
-      ],
-      "analysis_fa": "رشد پایدار صنعت گردشگری در اسپانیا نشان‌دهنده تغییر الگوهای تجاری به سمت نوآوری و تخصصی شدن است. کارآفرینانی که بتوانند فناوری را با الزامات زیست‌محیطی ترکیب کنند، سهم بیشتری از این بازار پررونق را به دست خواهند آورد.",
-      "audience_impact_fa": "برای مهاجران و فارسی‌زبانان شاغل یا جویای کار در حوزه گردشگری، خدمات و فناوری‌های مرتبط در اسپانیا، این وضعیت می‌تواند فرصت‌های شغلی و راه‌اندازی کسب‌وکار جدیدی ایجاد کند.",
+      "id": "3ae8fc633ccf",
+      "source": "La Vanguardia",
+      "title": "El Consejo Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
+      "summary": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
+      "url": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a36b1d69f89e.jpeg",
+      "published_at": "2026-08-14T16:08:27+02:00",
+      "category": "politica",
+      "priority": 74,
+      "title_fa": "El Consejo Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
+      "lead_fa": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#گردشگری_اسپانیا",
-        "#کارآفرینی",
-        "#اقتصاد_اسپانیا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1348,6 +1392,50 @@
       "editorial_version": 2
     },
     {
+      "id": "10e2050c14f9",
+      "source": "EL PAÍS",
+      "title": "León XIV pide reforzar la protección de los migrantes menores de edad",
+      "summary": "El Pontífice reclama medidas contra la trata y la explotación y pide favorecer la reunificación familiar y garantizar el acceso a la educación",
+      "url": "https://elpais.com/internacional/2026-08-14/leon-xiv-pide-reforzar-la-proteccion-de-los-migrantes-menores-de-edad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VCYNVI3NSBAFPAE3N2E42K4SXA.jpg?auth=8c60a1956c99344c1c783600c3c036a1f5eb34462c3095d6c4c7244a5e00708e",
+      "published_at": "2026-08-14T17:38:39+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "León XIV pide reforzar la protección de los migrantes menores de edad",
+      "lead_fa": "El Pontífice reclama medidas contra la trata y la explotación y pide favorecer la reunificación familiar y garantizar el acceso a la educación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ffe1bfc1e8d7",
+      "source": "EL PAÍS",
+      "title": "Jeff Bezos entra como accionista minoritario en el Liverpool",
+      "summary": "Medios británicos informan de que la compra supera los 1.500 millones de libras",
+      "url": "https://elpais.com/deportes/futbol/2026-08-14/jeff-bezos-entra-como-accionista-minoritario-en-el-liverpool.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DAXZEVTL7JP3JAI47STEBJ6LBE.jpg?auth=e234273cbde8af1c8de5e29fd1029ac9b62f5f3e545593fc0b58b2f6357f0bed",
+      "published_at": "2026-08-14T17:28:39+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Jeff Bezos entra como accionista minoritario en el Liverpool",
+      "lead_fa": "Medios británicos informan de que la compra supera los 1.500 millones de libras",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "70ba2a6455c6",
       "source": "La Vanguardia",
       "title": "España, a por medallas en la marcha, que estrena distancias en un circuito diminuto propicio al caos",
@@ -1436,28 +1524,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9ade8d0d59fa",
-      "source": "EL PAÍS",
-      "title": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
-      "summary": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
-      "url": "https://elpais.com/videos/2026-08-14/miles-de-turistas-quedan-varados-en-sicilia-tras-la-erupcion-del-volcan-etna-estamos-en-el-abismo-mas-profundo.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204678_140830_video_1800.mp4",
-      "published_at": "2026-08-14T14:13:17+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
-      "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "68ef6826fedc",
       "source": "La Vanguardia",
       "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
@@ -1508,61 +1574,17 @@
       "editorial_version": 2
     },
     {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
-      "category": "sociedad",
+      "id": "9ade8d0d59fa",
+      "source": "EL PAÍS",
+      "title": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
+      "summary": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
+      "url": "https://elpais.com/videos/2026-08-14/miles-de-turistas-quedan-varados-en-sicilia-tras-la-erupcion-del-volcan-etna-estamos-en-el-abismo-mas-profundo.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204678_140830_video_1800.mp4",
+      "published_at": "2026-08-14T14:13:17+00:00",
+      "category": "turismo",
       "priority": 69,
-      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e61b4653bde6",
-      "source": "La Vanguardia",
-      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
-      "published_at": "2026-08-14T13:31:21+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "331f3a8589dc",
-      "source": "La Vanguardia",
-      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
-      "published_at": "2026-08-14T13:08:55+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
+      "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1640,17 +1662,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a0ab9b13f1b6",
-      "source": "EL PAÍS",
-      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
-      "published_at": "2026-08-14T11:21:54+00:00",
+      "id": "4a42da1392a7",
+      "source": "La Vanguardia",
+      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-14T13:51:53+02:00",
       "category": "sociedad",
-      "priority": 69,
-      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "priority": 68,
+      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1662,32 +1684,47 @@
       "editorial_version": 2
     },
     {
-      "id": "6bee8c9c2345",
-      "source": "EL PAÍS Economía",
-      "title": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
-      "summary": "La caída de la generación fotovoltaica fue cubierta por centrales hidráulicas y de ciclo combinado",
-      "url": "https://elpais.com/economia/2026-08-12/el-sistema-electrico-y-las-telecomunicaciones-superan-sin-incidencias-el-eclipse-solar-total-en-espana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/THL4FFKKKZAAPIM226KB752KFM.jpg?auth=2dfc0af9b88abd45e1d4a5760349f897df098091b8a54d83224c7bcaf09807a6",
-      "published_at": "2026-08-12T21:34:19+00:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "پایداری شبکه برق و مخابرات اسپانیا در جریان خورشیدگرفتگی",
-      "lead_fa": "شبکه‌های برق و مخابرات اسپانیا بدون هیچ‌گونه حادثه‌ای از خورشیدگرفتگی کامل عبور کردند. افت تولید انرژی خورشیدی با نیروگاه‌های برق‌آبی و سیکل ترکیبی جبران شد.",
-      "key_points_fa": [
-        "عبور موفق شبکه برق و مخابرات از خورشیدگرفتگی کامل در اسپانیا",
-        "تلاش نیروگاه‌های برق‌آبی و سیکل ترکیبی برای جبران افت تولید انرژی خورشیدی",
-        "عدم ثبت هیچ‌گونه مشکل یا اختلال در زیرساخت‌های حیاتی کشور"
-      ],
-      "analysis_fa": "این رویداد نشان‌دهنده آمادگی بالای زیرساخت‌های انرژی اسپانیا در مدیریت نوسانات ناگهانی تولید انرژی تجدیدپذیر است. توانایی هماهنگی میان منابع مختلف تولید برق، پایداری شبکه را در برابر پدیده‌های طبیعی تضمین کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "id": "e61b4653bde6",
+      "source": "La Vanguardia",
+      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
+      "published_at": "2026-08-14T13:31:21+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی",
-        "#برق",
-        "#خورشیدگرفتگی"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "331f3a8589dc",
+      "source": "La Vanguardia",
+      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
+      "published_at": "2026-08-14T13:08:55+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1702,6 +1739,28 @@
       "priority": 68,
       "title_fa": "Selena Gomez, demandada por fraude",
       "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0ab9b13f1b6",
+      "source": "EL PAÍS",
+      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
+      "published_at": "2026-08-14T11:21:54+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1768,28 +1827,6 @@
       "priority": 67,
       "title_fa": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
       "lead_fa": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8659f0301260",
-      "source": "EL PAÍS",
-      "title": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al estrafalario Conde Cubo de Basura",
-      "summary": "El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo",
-      "url": "https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204541_080027_video_1800.mp4",
-      "published_at": "2026-08-14T06:24:28+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al estrafalario Conde Cubo de Basura",
-      "lead_fa": "El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2219,28 +2256,6 @@
       "editorial_version": 2
     },
     {
-      "id": "12c9b2aa1cfb",
-      "source": "EL PAÍS",
-      "title": "Crema fría de tomate y garbanzos, una receta para preparar una vez y comer varias",
-      "summary": "Esta mutación entre hummus y salmorejo es perfecta para empezar comidas y cenas, e incluso puede convertirse en un plato único si le pones un par de huevos duros, alguna hortaliza en daditos o jamón",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-14/crema-fria-de-tomate-y-garbanzos-una-receta-para-preparar-una-vez-y-comer-varias.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WAY4YMOI55GIBLWJWYXSXYIFRM.jpg?auth=34dd4143f1aad567056c0de24aabe9e6969851db6b8f3406f2705c8d6d83089a",
-      "published_at": "2026-08-14T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Crema fría de tomate y garbanzos, una receta para preparar una vez y comer varias",
-      "lead_fa": "Esta mutación entre hummus y salmorejo es perfecta para empezar comidas y cenas, e incluso puede convertirse en un plato único si le pones un par de huevos duros, alguna hortaliza en daditos o jamón",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7fab5b2429f5",
       "source": "EL PAÍS Economía",
       "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
@@ -2329,28 +2344,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 59,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2362,6 +2355,28 @@
       "priority": 58,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 58,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2406,28 +2421,6 @@
       "priority": 58,
       "title_fa": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
       "lead_fa": "Los afectados por el recorte de las primas, la mayoría representados por un fondo de litigación, concluyen el proceso de identificación de propiedades susceptibles de bloqueo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cca12053fc8a",
-      "source": "La Vanguardia",
-      "title": "En Santa Susanna, tres meses al año",
-      "summary": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612038/santa-susanna-tres-meses-ano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b0d3d8cf7e.r_d.426-272-0.jpeg",
-      "published_at": "2026-08-12T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 50,
-      "title_fa": "En Santa Susanna, tres meses al año",
-      "lead_fa": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2483,7 +2476,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 139
+      "count": 142
     }
   ]
 }
