@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:56:38.804563+00:00",
+  "generated_at": "2026-08-14T23:33:16.721581+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b8f7018f025a",
@@ -1344,6 +1344,33 @@
       "editorial_version": 2
     },
     {
+      "id": "db93f2020bc6",
+      "source": "EL PAÍS",
+      "title": "Estados Unidos estrecha el cerco económico contra Irán con medidas “sin precedentes”",
+      "summary": "El secretario del Tesoro, Scott Bessent, asegura que aplicará sanciones económicas contra Teherán “como nunca se han visto”",
+      "url": "https://elpais.com/internacional/2026-08-14/estados-unidos-estrecha-el-cerco-economico-contra-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2FJGHSAK7JOFNO5LN2PQRA3UPM.jpg?auth=68d551012aa2f39f314a47956a508b18acc55eef48946e86b2fd61d369e478c2",
+      "published_at": "2026-08-14T18:16:41+00:00",
+      "category": "politica",
+      "priority": 69,
+      "title_fa": "تشدید تحریم‌های اقتصادی آمریکا علیه ایران",
+      "lead_fa": "اسکات بسنت، وزیر خزانه‌داری آمریکا، از اجرای تحریم‌های اقتصادی بی‌سابقه علیه تهران خبر داد. این اقدامات جدید فشارهای اقتصادی بر ایران را به شدت افزایش می‌دهد.",
+      "key_points_fa": [
+        "تاکید وزارت خزانه‌داری آمریکا بر اعمال تحریم‌های بی‌سابقه علیه ایران",
+        "هدف قرار دادن ساختار اقتصادی تهران توسط مقامات آمریکایی"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده تداوم و تشدید رویکرد فشار حداکثری اقتصادی است که می‌تواند پویایی‌های تجاری و روابط بین‌المللی مرتبط با ایران را بیش از پیش تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#تحریم",
+        "#ایران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "ffe1bfc1e8d7",
       "source": "EL PAÍS",
       "title": "Jeff Bezos entra como accionista minoritario en el Liverpool",
@@ -1492,18 +1519,25 @@
       "url": "https://elpais.com/economia/2026-08-14/hacienda-limita-la-rebaja-fiscal-al-vender-el-piso-de-soltero-para-comprar-una-casa-en-pareja.html",
       "image": "https://imagenes.elpais.com/resizer/v2/TPS6PZI5DZF6ZOPAOW3C4DHQFU.jpg?auth=755f6ff30d784f754edc29d8a77d77a21cb5e144531be6bb580495059902a073",
       "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 69,
-      "title_fa": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
-      "lead_fa": "El Tribunal Económico-Administrativo fija criterio y establece que el incentivo fiscal depende de la cuota de propiedad y no del dinero aportado por cada cónyuge",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "محدودیت جدید دارایی اسپانیا بر معافیت مالیاتی فروش مسکن مجردی",
+      "lead_fa": "دادگاه اداری-اقتصادی اسپانیا معیاری جدید برای معافیت‌های مالیاتی تعیین کرد. این معافیت اکنون بر اساس سهم مالکیت تعیین می‌شود و نه پول پرداختی.",
+      "key_points_fa": [
+        "تعیین نحوه اعمال معافیت مالیاتی برای فروش مسکن پیش از ازدواج",
+        "وابسته شدن مشوق مالیاتی به سهم مالکیت هر فرد در ملک جدید",
+        "بی‌توجهی به میزان پول نقد و سرمایه آورده شده توسط هر یک از زوجین"
+      ],
+      "analysis_fa": "این تصمیم قضایی رویه ثابتی را برای پرونده‌های مالیاتی مرتبط با فروش املاک پیش از ازدواج و خرید مسکن مشترک ایجاد می‌کند. تمرکز بر سهم قانونی مالکیت به جای میزان مشارکت مالی واقعی، می‌تواند محاسبات مالی زوج‌ها را هنگام سرمایه‌گذاری مشترک تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مالیات",
+        "#مسکن",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1516,16 +1550,23 @@
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "¿Qué IA gana dinero de verdad? La Bolsa aprende del béisbol a predecir lo incierto",
-      "lead_fa": "Los inversores ya no se conforman con el crecimiento de los beneficios y recurren a métricas más sofisticadas para determinar si el negocio es realmente sólido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کدام هوش مصنوعی پول می‌سازد؟ بورس از بیسبال می‌آموزد",
+      "lead_fa": "سرمایه‌گذاران دیگر تنها به رشد سود قانع نیستند. آن‌ها برای سنجش استحکام کسب‌وکارها به معیارهای پیچیده‌تری روی آورده‌اند.",
+      "key_points_fa": [
+        "گذر بازار سرمایه از معیارهای سنتی سودآوری",
+        "الهام‌گیری بورس از بیسبال برای پیش‌بینی عدم قطعیت‌ها",
+        "تلاش سرمایه‌گذاران برای شناسایی کسب‌وکارهای واقعی هوش مصنوعی"
+      ],
+      "analysis_fa": "بازار مالی در حوزه هوش مصنوعی به مرحله‌ای رسیده است که سرمایه‌گذاران به دنبال تمایز میان سودآوری واقعی و رشد هیجانی هستند. استفاده از مدل‌های پیش‌بینی مشابه بیسبال نشان‌دهنده تلاش بازار برای ارزیابی دقیق‌تر ریسک‌ها در فضایی است که همچنان با نااطمینانی همراه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#بورس",
+        "#اقتصاد_اسپانیا",
+        "#سرمایه_گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1669,7 +1710,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204678_140830_video_1800.mp4",
       "published_at": "2026-08-14T14:13:17+00:00",
       "category": "turismo",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
       "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
       "key_points_fa": [],
@@ -1694,50 +1735,6 @@
       "priority": 67,
       "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
       "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e61b4653bde6",
-      "source": "La Vanguardia",
-      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
-      "published_at": "2026-08-14T13:31:21+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "331f3a8589dc",
-      "source": "La Vanguardia",
-      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
-      "published_at": "2026-08-14T13:08:55+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1793,17 +1790,39 @@
       "editorial_version": 2
     },
     {
-      "id": "a0ab9b13f1b6",
-      "source": "EL PAÍS",
-      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
-      "published_at": "2026-08-14T11:21:54+00:00",
+      "id": "e61b4653bde6",
+      "source": "La Vanguardia",
+      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
+      "published_at": "2026-08-14T13:31:21+02:00",
       "category": "sociedad",
-      "priority": 67,
-      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "priority": 66,
+      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "331f3a8589dc",
+      "source": "La Vanguardia",
+      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
+      "published_at": "2026-08-14T13:08:55+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1826,6 +1845,28 @@
       "priority": 66,
       "title_fa": "Selena Gomez, demandada por fraude",
       "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0ab9b13f1b6",
+      "source": "EL PAÍS",
+      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
+      "published_at": "2026-08-14T11:21:54+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2233,28 +2274,6 @@
       "editorial_version": 2
     },
     {
-      "id": "53dc36f48b2d",
-      "source": "EL PAÍS",
-      "title": "“Las vecinas están en peligro de extinción”, opina una lectora",
-      "summary": "Las cartas reivindican el sentido de comunidad y la vida en el campo; y condenan el trato contra los palestinos y la precariedad que sufren las cuidadoras",
-      "url": "https://elpais.com/opinion/2026-08-14/las-vecinas-estan-en-peligro-de-extincion-opina-una-lectora.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/F6FWJUUARZPETIF6RWCKORJNZA.jpg?auth=fb1bf5d68dfec187fb8595de27c105425a2fdabb21d1fbaf5c3089c79d1f57ca",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "“Las vecinas están en peligro de extinción”, opina una lectora",
-      "lead_fa": "Las cartas reivindican el sentido de comunidad y la vida en el campo; y condenan el trato contra los palestinos y la precariedad que sufren las cuidadoras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5a667d7cfd33",
       "source": "EL PAÍS España",
       "title": "Las palabras de Albares activan el temor a la devolución entre los migrantes llegados a nado a Ceuta",
@@ -2387,28 +2406,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 57,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2420,6 +2417,28 @@
       "priority": 56,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 56,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2570,7 +2589,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 152
+      "count": 153
     },
     {
       "source": "EL PAÍS España",
