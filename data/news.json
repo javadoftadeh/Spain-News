@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T07:46:58.061765+00:00",
+  "generated_at": "2026-08-14T09:17:59.614604+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "3a5d5f3166cd",
     "5c578267fa51",
-    "e07d43fe918a",
-    "831cde245e7d",
-    "035f9bbaa177"
+    "fe1948b1ac25",
+    "654f79489e3c",
+    "cf54e1a38ecb"
   ],
   "items": [
     {
@@ -63,6 +63,91 @@
         "#اقتصاد",
         "#انرژی",
         "#تورم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "fe1948b1ac25",
+      "source": "La Vanguardia",
+      "title": "Avisos por lluvia y calor hoy, con varias comunidades en alerta naranja",
+      "summary": "La totalidad del territorio catalán, menos las Terres de l'Ebre y la Vall d'Aran, se encuentra en alerta por altas temperaturas durante esta jornada",
+      "url": "https://www.lavanguardia.com/vida/20260814/11613713/aemet-emite-avisos-lluvia-calor-viernes-comunidades-alerta-naranja.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ec0ad7bce3.jpeg",
+      "published_at": "2026-08-14T09:22:15+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "هشدار هواشناسی در اسپانیا: اعلام وضعیت اضطراری برای گرما و باران",
+      "lead_fa": "بخش وسیعی از کاتالونیا امروز در وضعیت هشدار به سر می‌برد. این هشدارها شامل دمای بالای هوا در منطقه است.",
+      "key_points_fa": [
+        "تمام قلمرو کاتالونیا به جز ترز د ل ابر و وال داران در هشدار دما قرار دارد.",
+        "اعلام هشدارها شامل مخاطرات ناشی از گرما و بارندگی در مناطق مختلف است."
+      ],
+      "analysis_fa": "تغییرات جوی و سامانه‌های ناپایداری فصلی در اسپانیا بار دیگر باعث فعال شدن هشدارهای هواشناسی شده است. این وضعیت معمولاً فعالیت‌های روزمره و زیرساخت‌ها را به صورت مقطعی تحت تأثیر قرار می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هواشناسی_اسپانیا",
+        "#کاتالونیا",
+        "#هشدار_گرما"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "654f79489e3c",
+      "source": "EL PAÍS",
+      "title": "El incendio de Huesca deja 16 municipios evacuados y amenaza San Juan de la Peña: “Si arde, se perdería el símbolo del origen de Aragón”",
+      "summary": "830 personas siguen desalojadas y la UME trasladó este jueves los restos óseos de los primeros monarcas y otras piezas de valor",
+      "url": "https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4",
+      "published_at": "2026-08-14T08:46:33+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "آتش‌سوزی در اوئسکا: تخلیه ۱۶ شهرداری و تهدید صومعه تاریخی",
+      "lead_fa": "آتش‌سوزی جنگلی در استان اوئسکا باعث تخلیه ۱۶ شهرداری و آوارگی ۸۳۰ نفر شد. واحد اضطراب نظامی اسپانیا بقایای استخوانی پادشاهان اولیه را به جای امن منتقل کرد.",
+      "key_points_fa": [
+        "تخلیه ۱۶ شهرداری و ادامه آوارگی ۸۳۰ نفر به دلیل شعله‌های آتش.",
+        "تهدید جدی منطقه تاریخی و نمادین سن خوان د لا پنا.",
+        "انتقال استخوان‌های پادشاهان اولیه آراگون و آثار با ارزش توسط ارتش."
+      ],
+      "analysis_fa": "این آتش‌سوزی علاوه بر خسارات زیست‌محیطی، میراث فرهنگی و تاریخی منطقه را به طور جدی تهدید کرده است. واکنش سریع واحدهای امدادی و نظامی بر مهار آسیب‌های جبران‌ناپذیر به آثار باستانی متمرکز بوده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اوئسکا",
+        "#اسپانیا",
+        "#محیط_زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf54e1a38ecb",
+      "source": "EL PAÍS",
+      "title": "El fuego en Niebla (Huelva) continúa fuera de control tras arrasar más de 31.000 hectáreas",
+      "summary": "El presidente de la Junta de Andalucía visita este viernes el puesto de mando avanzado del incendio por el que permanecen desalojadas 658 personas",
+      "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
+      "published_at": "2026-08-14T08:41:29+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "ادامه آتش‌سوزی مهارنشده در هوئلوا با سوزاندن بیش از ۳۱ هزار هکتار",
+      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا در استان هوئلوا همچنان خارج از کنترل است. رئیس دولت محلی آندلس از محل فرماندهی عملیات بازدید می‌کند.",
+      "key_points_fa": [
+        "بیش از ۳۱ هزار هکتار اراضی در آتش سوخته است.",
+        "۶۵۸ نفر به دلیل خطر آتش‌سوزی تخلیه شده‌اند.",
+        "رئیس دولت محلی آندلس از منطقه بحرانی بازدید می‌کند."
+      ],
+      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی شدید در منطقه است که نیازمند بسیج امکانات گسترده برای مهار و ارزیابی خسارات زیست‌محیطی خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#هوئلوا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -153,11 +238,11 @@
     },
     {
       "id": "5ae22ba01fa4",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La amenaza del fuego obliga a trasladar restos óseos del monasterio de San Juan de la Peña en Huesca",
       "summary": "El incendio, que afecta a unas 8.000 hectáreas, ha obligado a desalojar a cerca de 900 personas de 12 poblaciones",
       "url": "https://elpais.com/espana/2026-08-13/la-amenaza-del-fuego-obliga-a-trasladar-restos-oseos-del-monasterio-de-san-juan-de-la-pena-en-huesca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HOIUI5UGPNO7LAZOIASH4WDXVM.jpg?auth=97be1b43a234460969c846c74c8453c77ae0dfe400bf0ca9d4503b8cd6918df5",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4",
       "published_at": "2026-08-13T19:48:42+00:00",
       "category": "sociedad",
       "priority": 77,
@@ -237,6 +322,28 @@
       "editorial_version": 2
     },
     {
+      "id": "fb3fa10900eb",
+      "source": "La Vanguardia",
+      "title": "El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030",
+      "summary": "El cierre escalonado de sus dos reactores estaba fijado inicialmente para el 1 de noviembre de 2027 para la Unidad I y el 31 de octubre de 2028 para la Unidad II",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/17/6a5954e8b887c.r_d.1537-1104-0.jpeg",
+      "published_at": "2026-08-14T09:00:15+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030",
+      "lead_fa": "El cierre escalonado de sus dos reactores estaba fijado inicialmente para el 1 de noviembre de 2027 para la Unidad I y el 31 de octubre de 2028 para la Unidad II",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "292ef2462337",
       "source": "EL PAÍS",
       "title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
@@ -270,7 +377,7 @@
       "title": "Rebelión en EE.UU. por las cámaras Flock que policías usan para extorsiones amorosas o perseguir abortistas",
       "summary": "Este sistema, que rastrea los movimientos de los vehículos, ofrece todo lujo de detalles de los ciudadanos sin orden judicial y ha provocado actos de violencia para su destrucción hasta el punto que la empresa ha anunciado garantías sobre la privacidad",
       "url": "https://www.lavanguardia.com/internacional/20260814/11613419/rebelion-ee-uu-camaras-flock-policias-extorsiones-amorosas-perseguir-abortistas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df41ea12db.r_d.1586-1503-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ebcfd056ec.jpeg",
       "published_at": "2026-08-14T06:00:00+02:00",
       "category": "sociedad",
       "priority": 75,
@@ -626,50 +733,6 @@
       "editorial_version": 2
     },
     {
-      "id": "243f23fe42c4",
-      "source": "EL PAÍS",
-      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2QBAU6M6FNBS7GUOMJJLKZDK2M.jpg?auth=e6e6abc0ac5ef977d9620a34975a4784ed863296cd41e40ca825f8ec4b0af9a1",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "752c79153380",
-      "source": "EL PAÍS Economía",
-      "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
-      "summary": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
-      "lead_fa": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f63940449463",
       "source": "EL PAÍS Economía",
       "title": "El encarecimiento del gasóleo obliga al Gobierno a elevar la rebaja fiscal a 20 céntimos en septiembre",
@@ -695,6 +758,50 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "243f23fe42c4",
+      "source": "EL PAÍS",
+      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2QBAU6M6FNBS7GUOMJJLKZDK2M.jpg?auth=e6e6abc0ac5ef977d9620a34975a4784ed863296cd41e40ca825f8ec4b0af9a1",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "752c79153380",
+      "source": "EL PAÍS Economía",
+      "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
+      "summary": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
+      "lead_fa": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -763,7 +870,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7UYWWWT6CNLQJLTXL5GTIMVIYQ.jpg?auth=a1a8a9cac81ee6edaac13253e62aa16a64ec0b6578f7fd2ff270f1187c360df7",
       "published_at": "2026-08-13T20:06:18+00:00",
       "category": "politica",
-      "priority": 72,
+      "priority": 71,
       "title_fa": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
       "lead_fa": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
       "key_points_fa": [],
@@ -777,66 +884,17 @@
       "editorial_version": 2
     },
     {
-      "id": "eb97ac489b4e",
+      "id": "3b4633dc509b",
       "source": "La Vanguardia",
-      "title": "El precio del gasoil se dispara un 16% y fuerza una rebaja fiscal en septiembre",
-      "summary": "Es la tasa más alta desde la registrada en mayo del 2024, y cuatro décimas superior a los meses anteriores",
-      "url": "https://www.lavanguardia.com/economia/20260813/11612771/ine-eleva-repunte-inflacion-julio-3-6-debido-luz-gasolinas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a74fc42aa206.jpeg",
-      "published_at": "2026-08-13T09:00:12+02:00",
-      "category": "economia",
-      "priority": 72,
-      "title_fa": "افزایش تورم سالانه اسپانیا به ۳.۶ درصد در ماه جولای",
-      "lead_fa": "مرکز آمار اسپانیا نرخ تورم این کشور در ماه جولای را ۳.۶ درصد اعلام کرد. این رقم بالاترین میزان از ماه می ۲۰۲۴ به شمار می‌رود.",
-      "key_points_fa": [
-        "افزایش تورم ناشی از رشد قیمت برق و سوخت بوده است.",
-        "نرخ تورم جدید چهار دهم درصد بالاتر از ماه‌های گذشته است."
-      ],
-      "analysis_fa": "رشد تورم در ماه‌های تابستان معمولاً تحت تأثیر افزایش تقاضای انرژی و سوخت برای سفرهای درون‌شهری و برون‌شهری قرار دارد. این تغییرات نشان‌دهنده حساسیت شاخص بهای مصرف‌کننده نسبت به نوسانات بازار انرژی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تورم",
-        "#اسپانیا",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d832177e2dff",
-      "source": "La Vanguardia",
-      "title": "El Gobierno omite los mensajes de Rabat y evita el choque diplomático por Ceuta y Melilla",
-      "summary": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
-      "url": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e0107651e9.r_d.547-523-0.jpeg",
-      "published_at": "2026-08-13T19:52:50+02:00",
-      "category": "politica",
-      "priority": 71,
-      "title_fa": "El Gobierno omite los mensajes de Rabat y evita el choque diplomático por Ceuta y Melilla",
-      "lead_fa": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5aed599e182e",
-      "source": "La Vanguardia",
-      "title": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
-      "summary": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
-      "url": "https://www.lavanguardia.com/local/girona/20260813/11613285/muere-hombre-banaba-platja-gran-palamos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/06/27/60d7b35629ba7.r_d.725-446-0.jpeg",
-      "published_at": "2026-08-13T14:09:39+02:00",
+      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "summary": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ecbeac7d28.r_d.839-543-0.jpeg",
+      "published_at": "2026-08-14T10:06:03+02:00",
       "category": "ciencia",
-      "priority": 71,
-      "title_fa": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
-      "lead_fa": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
+      "priority": 70,
+      "title_fa": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "lead_fa": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -875,7 +933,7 @@
       "title": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al variopinto Conde Cubo de Basura",
       "summary": "El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo",
       "url": "https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/S4CSK4SY5ZLQ7NA5AEWN5BQE4Q.jpg?auth=063a0003df3fb1bde4bc5c4fae34e2a900139540b64e6ecc6cf8d59b70385890",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204541_080027_video_1800.mp4",
       "published_at": "2026-08-14T06:24:28+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -926,7 +984,7 @@
       "title": "El caos ferroviario del eclipse evidencia la falta de previsión que lastra Rodalies",
       "summary": "Ni Renfe ni la Generalitat planificaron un dispositivo para absorber la alta demanda de movilidad en transporte público para ver el fenómeno astronómico en el sur de Catalunya",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613479/caos-ferroviario-eclipse-evidencia-falta-prevision-rodalies.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e138a6d47b.r_d.1024-768-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ec25c78fc6.jpeg",
       "published_at": "2026-08-14T00:05:00+02:00",
       "category": "ciencia",
       "priority": 70,
@@ -971,34 +1029,6 @@
         "#اسپانیا",
         "#مراکش",
         "#دیپلماسی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "31d86b627cb9",
-      "source": "La Vanguardia",
-      "title": "Attaoui atrapa un bronce en la final de 800 m",
-      "summary": "El atleta criado en Torrelavega consigue la segunda medalla española al firmar un tercer puesto muy trabajado, con David Barroso cuarto",
-      "url": "https://www.lavanguardia.com/deportes/20260813/11613507/attaoui-atrapa-bronce-final-800.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e2e2d5f7d4.r_d.594-355-0.jpeg",
-      "published_at": "2026-08-13T22:51:42+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "مدال برنز دو ۸۰۰ متر جهان برای ورزشکار اسپانیایی",
-      "lead_fa": "ورزشکار پرورش‌یافته در تورلاوگا مدال برنز مسابقات را کسب کرد. این دومین مدال کاروان اسپانیا در این رقابت‌ها است.",
-      "key_points_fa": [
-        "کسب مدال برنز در فینال دوی ۸۰۰ متر پس از تلاشی سخت",
-        "کسب دومین مدال برای کاروان ورزشی اسپانیا",
-        "قرار گرفتن داوید باروسو در رتبه چهارم مسابقه"
-      ],
-      "analysis_fa": "این موفقیت ورزشی جایگاه دو و میدانی اسپانیا را در رقابت‌های بین‌المللی تقویت می‌کند و نشان‌دهنده استمرار موفقیت ورزشکاران این کشور در رشته‌های دو نیمه‌استقامت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ورزش",
-        "#اسپانیا",
-        "#دو_و_میدانی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1085,6 +1115,50 @@
         "#حوادث"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d832177e2dff",
+      "source": "La Vanguardia",
+      "title": "El Gobierno omite los mensajes de Rabat por la soberanía de Ceuta y Melilla",
+      "summary": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
+      "url": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ecaf79d87c.jpeg",
+      "published_at": "2026-08-13T19:52:50+02:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "El Gobierno omite los mensajes de Rabat por la soberanía de Ceuta y Melilla",
+      "lead_fa": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5aed599e182e",
+      "source": "La Vanguardia",
+      "title": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
+      "summary": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
+      "url": "https://www.lavanguardia.com/local/girona/20260813/11613285/muere-hombre-banaba-platja-gran-palamos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/06/27/60d7b35629ba7.r_d.725-446-0.jpeg",
+      "published_at": "2026-08-13T14:09:39+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
+      "lead_fa": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1176,28 +1250,6 @@
       "editorial_version": 2
     },
     {
-      "id": "543211f60a6d",
-      "source": "La Vanguardia",
-      "title": "España: ¿un país caro o barato frente al resto del mundo?",
-      "summary": "Salir al cine y a cenar cuesta la mitad que en Suiza y el doble que en India",
-      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260814/11611526/espana-pais-caro-barato-otros-paises-pca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb4b041e3.r_d.1216-921-0.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "España: ¿un país caro o barato frente al resto del mundo?",
-      "lead_fa": "Salir al cine y a cenar cuesta la mitad que en Suiza y el doble que en India",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9489b8bc9fa4",
       "source": "La Vanguardia",
       "title": "Onlyfans: qué impulsa a algunas jóvenes a subir contenido a la plataforma",
@@ -1267,14 +1319,14 @@
       "id": "f1bfff96512d",
       "source": "EL PAÍS",
       "title": "Anne Hathaway vuelve a reinar en Hollywood: cómo cinco películas, un embarazo y la mejor de sus carcajadas la recolocaron en el trono",
-      "summary": "Tras una década en la que se convirtió en la más odiada del panorama sin un motivo concreto, la intérprete revienta las taquillas del año gracias a ‘El diablo viste de Prada’ y ‘La odisea’",
+      "summary": "Tras una década en la que se convirtió en la más odiada del panorama sin un motivo concreto, la intérprete revienta las taquillas del año gracias a ‘El diablo viste de Prada 2’ y ‘La odisea’",
       "url": "https://elpais.com/cultura/cine/2026-08-14/anne-hathaway-vuelve-a-reinar-en-hollywood-como-cinco-peliculas-un-embarazo-y-la-mejor-de-sus-carcajadas-la-recolocaron-en-el-trono.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QWAK46J2BRPJNFPZK77TLBSG3E.jpg?auth=c307235d06d3b0d6afc860257a55ce1200aa5422d757dc3aa8b859df37bb7fdd",
       "published_at": "2026-08-14T04:16:47+00:00",
       "category": "sociedad",
       "priority": 69,
       "title_fa": "Anne Hathaway vuelve a reinar en Hollywood: cómo cinco películas, un embarazo y la mejor de sus carcajadas la recolocaron en el trono",
-      "lead_fa": "Tras una década en la que se convirtió en la más odiada del panorama sin un motivo concreto, la intérprete revienta las taquillas del año gracias a ‘El diablo viste de Prada’ y ‘La odisea’",
+      "lead_fa": "Tras una década en la que se convirtió en la más odiada del panorama sin un motivo concreto, la intérprete revienta las taquillas del año gracias a ‘El diablo viste de Prada 2’ y ‘La odisea’",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1291,7 +1343,7 @@
       "title": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
       "summary": "El acusado alega que desconocía la prohibición de circular. Los destrozos tardarán un siglo en revertirse y las autoridades locales piden una sanción ejemplar",
       "url": "https://elpais.com/argentina/2026-08-14/un-conductor-dana-pampa-del-leoncito-joya-natural-del-norte-argentino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VJUXN5J4SFEPNKLWS7ZU53AALM.jpg?auth=ce8ce79dbff89be57f5c11dbc7adee3e0ec5d8bf4ee38513aa1ee1b09f526878",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204547_083120_video_1800.mp4",
       "published_at": "2026-08-14T04:00:00+00:00",
       "category": "sociedad",
       "priority": 69,
@@ -1508,15 +1560,15 @@
     {
       "id": "9413b584215d",
       "source": "EL PAÍS",
-      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: tormentas fuertes tras el calor",
-      "summary": "Se esperan chubascos en amplias zonas del norte, centro y este peninsular, que podrán ser localmente fuertes y acompañadas de viento y granizo",
+      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
+      "summary": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
       "url": "https://elpais.com/el-tiempo/2026-08-14/la-aemet-avisa-de-un-cambio-de-tiempo-importante-de-cara-al-fin-de-semana-lluvias-tras-el-calor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OGPR4MCZTRORRFLNQ3MYIONQCU.jpg?auth=5a0199190e99e3a4c6a3d6d52edaa2eb972869a64981728e16891097f56caa57",
+      "image": "https://imagenes.elpais.com/resizer/v2/S44EN7A32BCDDIJGBNELQCHV2M.jpg?auth=f59b68e0e78a220c1c9dd8d182b3e1602548f77914b11676aa2207063a26c6a3",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: tormentas fuertes tras el calor",
-      "lead_fa": "Se esperan chubascos en amplias zonas del norte, centro y este peninsular, que podrán ser localmente fuertes y acompañadas de viento y granizo",
+      "title_fa": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
+      "lead_fa": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1682,28 +1734,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b8d460c128ad",
-      "source": "EL PAÍS",
-      "title": "Moda agosteña de Flavita Banana: el sombrero",
-      "summary": "Viñeta del 14 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-14/moda-agostena-de-flavita-banana-el-sombrero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YJAYRFGYLFGN3GP2AJCXEME6UQ.jpg?auth=25a84a344357d27fe2d91eaf25318c0cc0db3df5b933ba00e8776ce3ec7d07cd",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Moda agosteña de Flavita Banana: el sombrero",
-      "lead_fa": "Viñeta del 14 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e4a025a172a2",
       "source": "EL PAÍS España",
       "title": "Etienne Krug, directivo de la OMS: “Los accidentes de tráfico son la primera causa de muerte entre los jóvenes”",
@@ -1792,28 +1822,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7fab5b2429f5",
-      "source": "EL PAÍS Economía",
-      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6bee8c9c2345",
       "source": "EL PAÍS Economía",
       "title": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
@@ -1843,31 +1851,25 @@
       "editorial_version": 2
     },
     {
-      "id": "a564df837a3c",
-      "source": "EL PAÍS España",
-      "title": "Robles también rechaza ir al Senado hasta que comience el periodo de sesiones",
-      "summary": "El PP acusa a La Moncloa de “enjaular” a la ministra de Defensa",
-      "url": "https://elpais.com/espana/2026-08-13/robles-tambien-rechaza-ir-al-senado-hasta-que-comience-el-periodo-de-sesiones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AAQSOEZT2JP4HCU3RC74BN76UI.jpg?auth=a56a6bfb2fbce7df77e5b33cd63b393d8d6cb91af297d5583648732602875ad4",
-      "published_at": "2026-08-13T18:49:44+00:00",
+      "id": "7fab5b2429f5",
+      "source": "EL PAÍS Economía",
+      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
+      "published_at": "2026-08-14T03:15:00+00:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "امتناع وزیر دفاع اسپانیا از حضور در سنا پیش از آغاز دوره اجلاس",
-      "lead_fa": "مارگاریتا روبلز، وزیر دفاع اسپانیا، درخواست حزب مردمی برای حضور در سنا را تا پیش از شروع رسمی دوره کاری رد کرد. حزب مخالف، دولت را به تلاش برای محدود کردن پاسخگویی وزرا متهم کرده است.",
-      "key_points_fa": [
-        "مخالفت مارگاریتا روبلز با حضور در سنا پیش از موعد مقرر",
-        "اتهام حزب مردمی (PP) به دولت مبنی بر محدود کردن وزرا",
-        "مناقشه سیاسی میان حزب حاکم و مخالفان بر سر نظارت پارلمانی"
-      ],
-      "analysis_fa": "این رویداد نشان‌دهنده تنش‌های مداوم میان حزب حاکم و مخالفان در زمینه نظارت نهادی و پاسخگویی دولتی است. امتناع وزرا از حضور زودهنگام در پارلمان معمولاً بر اساس رویه‌های حقوقی و تقنینی صورت می‌گیرد، اما از سوی مخالفان به عنوان ابزاری سیاسی برای فرار از پاسخگویی تعبیر می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست_اسپانیا",
-        "#دولت_اسپانیا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1945,7 +1947,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/MDZIMUH5QZJKRCD6XGC24CMO54.jpg?auth=51b7b0b1fac23c5b0062a261588e9cf5c1a88ebd903652dde90bae3b0af845e8",
       "published_at": "2026-08-13T03:15:00+00:00",
       "category": "economia",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
       "lead_fa": "El grupo textil online reconoce que la medida puede afectar a sus ventas en el continente, como ya le sucede en EE UU",
       "key_points_fa": [],
@@ -1967,7 +1969,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dd53b816e1.jpeg",
       "published_at": "2026-08-13T16:31:39+02:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El Etna despierta y ofrece un espectáculo de fuego a los excursionistas",
       "lead_fa": "Con unos 3.350 metros de altura, el Etna es el volcán más activo de Europa",
       "key_points_fa": [],
@@ -2025,28 +2027,6 @@
       "editorial_version": 2
     },
     {
-      "id": "81121c20dc06",
-      "source": "EL PAÍS España",
-      "title": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
-      "summary": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-13/la-fiscalia-da-el-primer-paso-para-investigar-a-dos-diputados-de-vox-que-se-jactaron-de-manejar-informacion-confidencial-de-una-fiscal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DN25W7MBXFAH7KIATBVOWWEYPQ.jpg?auth=2c124d9670bf6028701ac27a78a6c4989e975138890c80c693c7f3fa983b0498",
-      "published_at": "2026-08-13T13:15:57+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "La Fiscalía da el primer paso para investigar a dos diputados de Vox que se jactaron de manejar información confidencial de una fiscal",
-      "lead_fa": "Un micro abierto captó en las Cortes Valencianas hace un mes a los parlamentarios hablando del caso de una banda dedicada al tráfico de personas y llamando “bruja” a una socialista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a678c65944db",
       "source": "EL PAÍS España",
       "title": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitante del PSOE",
@@ -2058,28 +2038,6 @@
       "priority": 64,
       "title_fa": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitante del PSOE",
       "lead_fa": "El magistrado señala en la resolución por la que cede la investigación a la Audiencia Nacional que se trata de un “importante entramado delictivo”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "71c1615f4e57",
-      "source": "EL PAÍS España",
-      "title": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
-      "summary": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
-      "url": "https://elpais.com/espana/2026-08-13/trafico-preve-56-millones-de-desplazamientos-este-fin-de-semana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z2IMDSUEPBAKTOLWOZJ2BJIIKY.jpg?auth=8cab6762a7dfbb722a789d1ddd090c5c9c5a91264228f878a69736e909339b11",
-      "published_at": "2026-08-13T12:00:58+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
-      "lead_fa": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2113,6 +2071,28 @@
       "editorial_version": 2
     },
     {
+      "id": "71c1615f4e57",
+      "source": "EL PAÍS España",
+      "title": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
+      "summary": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
+      "url": "https://elpais.com/espana/2026-08-13/trafico-preve-56-millones-de-desplazamientos-este-fin-de-semana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z2IMDSUEPBAKTOLWOZJ2BJIIKY.jpg?auth=8cab6762a7dfbb722a789d1ddd090c5c9c5a91264228f878a69736e909339b11",
+      "published_at": "2026-08-13T12:00:58+00:00",
+      "category": "sociedad",
+      "priority": 63,
+      "title_fa": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
+      "lead_fa": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9002ba683cf3",
       "source": "EL PAÍS España",
       "title": "Hasta 4.000 menores migrantes siguen en las calles de Ceuta tras la llegada masiva de julio, según las asociaciones vecinales",
@@ -2135,28 +2115,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2168,6 +2126,28 @@
       "priority": 61,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 61,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2209,7 +2189,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/OUOMY565ERG6DGLUUL3SH2OKS4.jpg?auth=281c8b6de3e975bb4d54ae48bec3075d6b04e91a911bd0eabe608159f6314296",
       "published_at": "2026-08-13T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
       "lead_fa": "Los afectados por el recorte de las primas, la mayoría representados por un fondo de litigación, concluyen el proceso de identificación de propiedades susceptibles de bloqueo",
       "key_points_fa": [],
@@ -2231,7 +2211,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FXBUHOMGQZDRTFSL2GJLO3UBIA.jpg?auth=f7b100e50919df06f4a62a7dad3d2f983003e13444d7988e91e951538e61223d",
       "published_at": "2026-08-12T15:15:20+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Las comunidades autónomas triplicarán el pago de intereses por la deuda hasta 2029",
       "lead_fa": "El centro de estudios Fedea calcula el alza de la carga financiera desde 2022, cuando empezó la guerra en Ucrania y el BCE empezó a subir los tipos",
       "key_points_fa": [],
@@ -2296,7 +2276,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 152
     },
     {
       "source": "EL PAÍS España",
