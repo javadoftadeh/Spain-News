@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:42:11.014427+00:00",
+  "generated_at": "2026-08-14T21:02:24.089598+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b8f7018f025a",
@@ -1127,16 +1127,23 @@
       "published_at": "2026-08-14T13:56:01+00:00",
       "category": "economia",
       "priority": 73,
-      "title_fa": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
-      "lead_fa": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جهش نجومی قیمت اقامتگاه در اندلس برای خورشیدگرفتگی ۲۰۲۷",
+      "lead_fa": "هزینه اقامت در استان‌های مالاگا، آلمریا، گرانادا و کادیس به شدت افزایش یافته است. در آستانه خورشیدگرفتگی سال ۲۰۲۷، دسترسی به آپارتمان‌ها و هتل‌ها بسیار محدود شده است.",
+      "key_points_fa": [
+        "افزایش شدید قیمت اقامتگاه‌ها در منطقه اندلس برای خورشیدگرفتگی ۲۰۲۷",
+        "کاهش شدید موجودی آپارتمان‌ها، مسافرخانه‌ها و اتاق‌های هتل",
+        "تأثیر مستقیم بر شهرهای مالاگا، آلمریا، گرانادا و کادیس"
+      ],
+      "analysis_fa": "این پدیده نشان‌دهنده تاثیر رویدادهای نجومی بزرگ بر بازار گردشگری محلی است. تقاضای بالا در بازه زمانی کوتاه می‌تواند به افزایش قیمت‌های نجومی منجر شود که چالش‌هایی را برای مسافران عادی ایجاد می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اندلس",
+        "#گردشگری",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1149,16 +1156,22 @@
       "published_at": "2026-08-14T13:39:29+00:00",
       "category": "economia",
       "priority": 73,
-      "title_fa": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
-      "lead_fa": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "همسر مدیر آنتروپیک و ارتباط او با جفری اپستین",
+      "lead_fa": "زندگی خصوصی داریو آمودی، یکی از بنیان‌گذاران شرکت آنتروپیک، توجه رسانه‌ها را به خود جلب کرده است. همسر او، کامی کلارک، گذشته‌ای مرموز دارد که شامل تاسیس یک شرکت پورنوگرافی زنان و ارتباط با جفری اپستین است.",
+      "key_points_fa": [
+        "داریو آمودی زندگی شخصی خود را بسیار پنهان نگه داشته بود.",
+        "همسر او، کامی کلارک، بنیان‌گذار یک شرکت پورنوگرافی برای زنان بوده است.",
+        "نام کلارک به عنوان یکی از مخاطبان جفری اپستین مطرح شده است."
+      ],
+      "analysis_fa": "افشای جزئیات زندگی شخصی چهره‌های کلیدی صنعت هوش مصنوعی نشان‌دهنده حساسیت روزافزون رسانه‌ها به پیشینه و روابط اطرافیان مدیران شرکت‌های بزرگ فناوری است. این اطلاعات معمولاً برپایی و اعتبار عمومی شرکت‌ها را در کانون توجه قرار می‌دهد، بدون اینکه لزوماً بر عملکرد فنی آن‌ها تاثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#آنتروپیک",
+        "#فناوری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1171,16 +1184,22 @@
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 72,
-      "title_fa": "Los menores, primero",
-      "lead_fa": "La precaria situación en que malviven los cientos de niños y niñas inmigrantes llegados a Ceuta precisa una respuesta urgente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "وضعیت اضطراری کودکان مهاجر در سئوتا",
+      "lead_fa": "صدها کودک مهاجر در شهر سئوتا در شرایطی بسیار شکننده زندگی می‌کنند. این وضعیت بحرانی نیازمند پاسخ فوری مسئولان است.",
+      "key_points_fa": [
+        "حضور صدها کودک و نوجوان مهاجر در سئوتا",
+        "انتقاد از شرایط ناپایدار و دشوار زندگی این کودکان",
+        "درخواست برای اتخاذ تدابیر فوری و عملی"
       ],
-      "ai_translated": false,
+      "analysis_fa": "چالش پذیرش و نگهداری از کودکان مهاجر بی‌سرپرست در مناطق مرزی اسپانیا مانند سئوتا، همواره یکی از مباحث پیچیده میان دولت مرکزی و نهادهای محلی بوده است. فشار بر امکانات محلی نیازمند سیاست‌گذاری‌های کلان و همکاری‌های بین‌منطقه‌ای است تا از بحران‌های انسانی جلوگیری شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجران",
+        "#سئوتا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1624,28 +1643,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1538c51c3cd5",
       "source": "EL PAÍS",
       "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
@@ -1679,6 +1676,28 @@
       "priority": 68,
       "title_fa": "De la ingeniería aeroespacial al quirófano: el primer metamaterial óseo implantado salva la pierna de Pierre",
       "lead_fa": "El Hospital Gregorio Marañón y la Universidad Politécnica de Madrid desarrollan una tibia con tecnología 3D que le ha permitido a un hombre de 38 años conservar su pierna y poder caminar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a42da1392a7",
+      "source": "La Vanguardia",
+      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-14T13:51:53+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
