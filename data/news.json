@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:00:41.185339+00:00",
+  "generated_at": "2026-08-14T15:05:07.930819+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "9715c8de332a",
+    "a6e7a57bcccd",
+    "bde557e93a1a",
     "3a5d5f3166cd",
-    "5c578267fa51",
-    "fb3fa10900eb",
-    "cf54e1a38ecb"
+    "5c578267fa51"
   ],
   "items": [
     {
@@ -34,6 +34,64 @@
         "#آمریکا",
         "#سبته",
         "#هشدار_سفر"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a6e7a57bcccd",
+      "source": "EL PAÍS",
+      "title": "Los Bomberos trabajan en un incendio en el parque de Collserola (Barcelona)",
+      "summary": "Emergencias ha recibido el aviso por el fuego a las 15.35 horas en el municipio de Esplugues de Llobregat",
+      "url": "https://elpais.com/espana/catalunya/2026-08-14/los-bomberos-trabajan-en-un-incendio-en-el-parque-de-collserola-en-esplugues-de-llobregat.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O2A3KICFSVDZHM3YOPSNH624G4.jpg?auth=d813bc3dff7706813f10e26825eb3f195dadc92f425094289c58b237535af137",
+      "published_at": "2026-08-14T14:22:44+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "آتش‌سوزی در پارک کل‌سرولا در بارسلونا",
+      "lead_fa": "نیروهای آتش‌نشانی در حال مهار آتش‌سوزی در پارک کل‌سرولا هستند. این حادثه ساعت ۱۵:۳۵ در منطقه اسپلگس د یوبراگات گزارش شد.",
+      "key_points_fa": [
+        "دریافت هشدار آتش‌سوزی در ساعت ۱۵:۳۵",
+        "محل وقوع حادثه در پارک طبیعی کل‌سرولا در بارسلونا",
+        "عملیات اطفا توسط نیروهای اضطراری و آتش‌نشانی"
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی در پارک‌های طبیعی و مناطق جنگلی اطراف کلان‌شهرها همزمان با فصل گرما، چالش‌های مدیریت بحران را افزایش می‌دهد. واکنش سریع نهادهای امدادی برای جلوگیری از گسترش حریق به مناطق مسکونی اهمیت بالایی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#بارسلونا",
+        "#آتش_سوزی",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "bde557e93a1a",
+      "source": "EL PAÍS",
+      "title": "Las ONG en Ceuta detectan niños de muy corta edad y más mujeres que en otros cruces masivos de la frontera",
+      "summary": "Save the Children alerta de que puede haber unos 4.000 niños en la ciudad autonóma, cuya situación es de “desbordamiento”",
+      "url": "https://elpais.com/espana/2026-08-14/las-ong-en-ceuta-detectan-ninos-de-muy-corta-edad-y-mas-mujeres-que-en-otros-cruces-masivos-de-la-frontera.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204629_112708_video_1800.mp4",
+      "published_at": "2026-08-14T12:07:44+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "هشدار سازمان‌های حمایتی درباره حضور کودکان خردسال در سبتا",
+      "lead_fa": "سازمان‌های غیردولتی در سبتا از حضور کودکان بسیار خردسال و زنان بیشتر در مقایسه با سایر گذرگاه‌های مرزی خبر دادند. سازمان سیو د چلدرن نسبت به وضعیت بحرانی و حضور حدود ۴۰۰۰ کودک در این شهر خودمختار هشدار داد.",
+      "key_points_fa": [
+        "شناسایی کودکان بسیار خردسال و زنان بیشتر در گذرگاه‌های مرزی سبتا",
+        "هشدار سازمان سیو د چلدرن درباره وضعیت بحرانی شهر خودمختار سبتا",
+        "برآورد حضور حدود ۴۰۰۰ کودک در منطقه سبتا"
+      ],
+      "analysis_fa": "افزایش شمار کودکان خردسال و زنان در میان مهاجران ورودی به سبتا، چالش‌های امدادی و انسانی تازه‌ای را برای نهادهای محلی و سازمان‌های حقوق بشری ایجاد کرده است و فشار مضاعفی بر سیستم پذیرش این منطقه وارد می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سبتا",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#کودکان"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -127,8 +185,80 @@
       "editorial_version": 2
     },
     {
-      "id": "cf54e1a38ecb",
+      "id": "3a23f68aaaaf",
+      "source": "La Vanguardia",
+      "title": "El incendio de Niebla (Huelva) ya es el mayor de la historia de Andalucía, junto al de Riotinto de 2004",
+      "summary": "El de Los Gallardos (Almería) de julio ha sido el más mortífero de España en lo que llevamos de siglo XXI, con 14 personas fallecidas y 18 heridas",
+      "url": "https://www.lavanguardia.com/vida/20260814/11613984/incendio-niebla-huelva-mayor-historia-andalucia-riotinto-2004.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d56fa66dec.r_d.2767-1974-0.jpeg",
+      "published_at": "2026-08-14T16:16:04+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "آتش‌سوزی نیبلا در هوئلوا، بزرگ‌ترین آتش‌تاریخ آندلس شد",
+      "lead_fa": "آتش‌سوزی جنگلی در منطقه نیبلا در استان هوئلوا به بزرگ‌ترین حریق تاریخ آندلس تبدیل شد. این رویداد هم‌سطح آتش‌سوزی ریوتیِنتو در سال ۲۰۰۴ میلادی قرار گرفته است.",
+      "key_points_fa": [
+        "حریق نیبلا در هوئلوا رکورد جدیدی در تاریخ آتش‌سوزی‌های آندلس ثبت کرد.",
+        "این آتش‌سوزی با وسعت و اهمیت حریق سال ۲۰۰۴ در ریوتیِنتو برابری می‌کند."
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی‌های گسترده در مناطق مختلف اسپانیا بار دیگر چالش‌های مدیریت بحران و خطرات زیست‌محیطی ناشی از حریق‌های بزرگ را برجسته کرده است، بدون اینکه هنوز برآوردهای قطعی از خسارات بلندمدت آن ارائه شده باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش‌سوزی",
+        "#هوئلوا",
+        "#آندلس"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ad8da46bb0cc",
+      "source": "La Vanguardia",
+      "title": "Los bomberos trabajan en un incendio en la montaña de Sant Pere Màrtir de Collserola",
+      "summary": "Unas 20 dotaciones trabajan en la extinción del fuego con una gran columna de humo que se ve desde distintos puntos de la ciudad",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f28af4df7c.r_d.1620-1819-0.jpeg",
+      "published_at": "2026-08-14T16:13:28+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Los bomberos trabajan en un incendio en la montaña de Sant Pere Màrtir de Collserola",
+      "lead_fa": "Unas 20 dotaciones trabajan en la extinción del fuego con una gran columna de humo que se ve desde distintos puntos de la ciudad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2f27df9b6f6a",
       "source": "EL PAÍS",
+      "title": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
+      "summary": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 75 departamentos del país están en alerta",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/francia-encara-su-quinta-ola-de-calor-en-el-peor-verano-desde-que-hay-registros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPUYSYYG2FMG5L6TD5UIANLWQY.jpg?auth=8f2693646ed7ab3e73a2418c790daff2473637bedca8e80d597d6632d35b689c",
+      "published_at": "2026-08-14T14:10:12+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
+      "lead_fa": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 75 departamentos del país están en alerta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf54e1a38ecb",
+      "source": "EL PAÍS España",
       "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras afectar a más de 38.000 hectáreas",
       "summary": "El incendio está entre “los más extensos y peligrosos de la historia”, según la Junta de Andalucía",
       "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
@@ -325,12 +455,34 @@
       "editorial_version": 2
     },
     {
+      "id": "3ae8fc633ccf",
+      "source": "La Vanguardia",
+      "title": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
+      "summary": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
+      "url": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a36b1d69f89e.jpeg",
+      "published_at": "2026-08-14T16:08:27+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
+      "lead_fa": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a3b993ed8165",
       "source": "La Vanguardia",
-      "title": "El Miteco investiga los disparos contra ‘Toñi’, la orca más veterana del Estrecho",
+      "title": "Atacada con perdigones la orca más longeva del Estrecho de Gibraltar",
       "summary": "La matriarca de las orcas ‘gladis’, de 60 años, presenta en su aleta dorsal el impacto de diez perdigones",
       "url": "https://www.lavanguardia.com/natural/20260814/11613949/miteco-investiga-disparos-toni-orca-mas-veterana-estrecho.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f120b10373.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f1b79a58dc.jpeg",
       "published_at": "2026-08-14T15:06:42+02:00",
       "category": "sociedad",
       "priority": 75,
@@ -350,6 +502,50 @@
         "#حیات_وحش"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "01a815cf58d4",
+      "source": "EL PAÍS",
+      "title": "El Consejo Constitucional de Francia anula la ley que prohíbe las redes sociales a menores de 15 años",
+      "summary": "Considera que la norma promovida por Emmanuel Macron supone “una vulneración desproporcionada de la libertad de expresión” de los niños",
+      "url": "https://elpais.com/sociedad/2026-08-14/el-consejo-constitucional-de-francia-anula-la-ley-que-prohibe-las-redes-sociales-a-menores-de-15-anos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RTAXVP5NVBKGNNJWYYNMSCO2U4.jpg?auth=e148e7c57f5e6f5de4d3551e08b9df8a29fe1b2d6b5c47d0d4971466d6cdd1e4",
+      "published_at": "2026-08-14T14:33:46+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Consejo Constitucional de Francia anula la ley que prohíbe las redes sociales a menores de 15 años",
+      "lead_fa": "Considera que la norma promovida por Emmanuel Macron supone “una vulneración desproporcionada de la libertad de expresión” de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cc8caed4e3e6",
+      "source": "EL PAÍS",
+      "title": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
+      "summary": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
+      "url": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XD4POGJGCBARXOMSJU4HIP43VU.jpg?auth=258d03adab93e997bab0ead7fb20d8d2aee50f393423492177650df01228a55d",
+      "published_at": "2026-08-14T13:56:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
+      "lead_fa": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -574,7 +770,7 @@
       "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
       "summary": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
       "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R55C5O3KXRFJVLX5ONIIJPDTB4.jpg?auth=f2f2636c65865a8411171d8a56641c097f87b3d2ed46bdcda6cd8d9a55a643db",
+      "image": "https://imagenes.elpais.com/resizer/v2/VAAQM3XMARE37I2PTH3NVJI7SU.jpg?auth=91c6910f8b4148f7a8798329d12a6b41e6b9e3cae0c239009dbfa0d0716e09c9",
       "published_at": "2026-08-14T09:39:41+00:00",
       "category": "politica",
       "priority": 75,
@@ -602,7 +798,7 @@
       "title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
       "summary": "Transición Ecológica mantiene el resto del calendario de cierres hasta 2035",
       "url": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PCRDW5L5QNFEDBQE5W4QPBQNIU.jpg?auth=6371bd44fe007808bbe167ffb8984e6f86dbddcc3032030acd0074f8852e92b7",
+      "image": "https://imagenes.elpais.com/resizer/v2/EF6HTG5FBJAKNGUTDZ5MZ42SW4.jpg?auth=8ee064a0bc4b954a2831d673bacf94885372bb144e253ac07bb7da94158d586a",
       "published_at": "2026-08-14T06:41:50+00:00",
       "category": "politica",
       "priority": 75,
@@ -627,7 +823,7 @@
     {
       "id": "630ce3876f92",
       "source": "La Vanguardia",
-      "title": "Rebelión en EE.UU. por las cámaras Flock que policías usan para extorsiones amorosas o perseguir abortistas",
+      "title": "Rebelión en EE.UU. por las cámaras Flock que policías usan para extorsionar o perseguir",
       "summary": "Este sistema, que rastrea los movimientos de los vehículos, ofrece todo lujo de detalles de los ciudadanos sin orden judicial y ha provocado actos de violencia para su destrucción hasta el punto que la empresa ha anunciado garantías sobre la privacidad",
       "url": "https://www.lavanguardia.com/internacional/20260814/11613419/rebelion-ee-uu-camaras-flock-policias-extorsiones-amorosas-perseguir-abortistas.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ebcfd056ec.jpeg",
@@ -766,28 +962,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3e28b2d894f8",
-      "source": "EL PAÍS",
-      "title": "Los menores, primero",
-      "summary": "La precaria situación en que malviven los cientos de niños y niñas inmigrantes llegados a Ceuta precisa una respuesta urgente",
-      "url": "https://elpais.com/opinion/2026-08-14/los-menores-primero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RKJLF6J3OBASZH72WWMP2SSUVI.jpg?auth=6b877f3e8ac577a2972e22fddbeec94b021b2c3b667ff7f31a03106032d98319",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 74,
-      "title_fa": "Los menores, primero",
-      "lead_fa": "La precaria situación en que malviven los cientos de niños y niñas inmigrantes llegados a Ceuta precisa una respuesta urgente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f63940449463",
       "source": "EL PAÍS Economía",
       "title": "El encarecimiento del gasóleo obliga al Gobierno a elevar la rebaja fiscal a 20 céntimos en septiembre",
@@ -811,33 +985,6 @@
         "#تورم",
         "#اسپانیا",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9e0248778647",
-      "source": "La Vanguardia",
-      "title": "Montserrat Tura: “La política se ha vuelto más descarnada, menos ilustrada”",
-      "summary": "La exconsellera de Interior y de Justícia recuperó su plaza de médico tras su etapa política",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613356/montserrat-tura-politica-vuelto-mas-descarnada-ilustrada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dd2fa2cfb7.r_d.4096-2732-0.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "مونسرات تورا: سیاست بی‌رحم‌تر و کم‌سوادتر شده است",
-      "lead_fa": "مونسرات تورا، وزیر پیشین کشور و دادگستری کاتالونیا، پس از پایان دوران سیاسی خود به حرفه پزشکی بازگشت. او در اظهاراتی از نزول سطح اخلاقی و فکری در سیاست انتقاد کرد.",
-      "key_points_fa": [
-        "بازگشت مونسرات تورا به شغل پزشکی پس از سال‌ها فعالیت سیاسی",
-        "انتقاد تورا از فضای کنونی سیاست و توصیف آن به عنوان محیطی بی‌رحمانه و کم‌مایه"
-      ],
-      "analysis_fa": "بازگشت چهره‌های سیاسی باسابقه به مشاغل تخصصی پیشین خود، مانند پزشکی، پدیده‌ای قابل توجه در بازتعریف رابطه میان سیاست و جامعه است. این رویکرد می‌تواند بازتاب‌دهنده سرخوردگی از روندهای رو به زوال اخلاقی و تخصصی در نهادهای سیاسی باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#پزشکی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1003,52 +1150,8 @@
       "editorial_version": 2
     },
     {
-      "id": "7d8843f4ae1b",
-      "source": "EL PAÍS",
-      "title": "Ceuta, de los tacticismos banales a la mirada estratégica",
-      "summary": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
-      "url": "https://elpais.com/opinion/2026-08-14/ceuta-de-los-tacticismos-banales-a-la-mirada-estrategica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "Ceuta, de los tacticismos banales a la mirada estratégica",
-      "lead_fa": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3ac29bc5a822",
-      "source": "EL PAÍS",
-      "title": "La matriarca de las orcas ‘gladis’, de 60 años, aparece con impactos de perdigones en la aleta",
-      "summary": "El Gobierno abre una investigación y contacta con Portugal, donde las primeras informaciones apuntan a que le dispararon",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/la-matriarca-de-las-orcas-gladis-de-60-anos-aparece-con-impactos-de-perdigones-en-la-aleta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204303_123711_video_1800.mp4",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "La matriarca de las orcas ‘gladis’, de 60 años, aparece con impactos de perdigones en la aleta",
-      "lead_fa": "El Gobierno abre una investigación y contacta con Portugal, donde las primeras informaciones apuntan a que le dispararon",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "42c8b0efaa58",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
       "summary": "El Tribunal Económico-Administrativo fija criterio y establece que el incentivo fiscal depende de la cuota de propiedad y no del dinero aportado por cada cónyuge",
       "url": "https://elpais.com/economia/2026-08-14/hacienda-limita-la-rebaja-fiscal-al-vender-el-piso-de-soltero-para-comprar-una-casa-en-pareja.html",
@@ -1058,6 +1161,28 @@
       "priority": 72,
       "title_fa": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
       "lead_fa": "El Tribunal Económico-Administrativo fija criterio y establece que el incentivo fiscal depende de la cuota de propiedad y no del dinero aportado por cada cónyuge",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7d8843f4ae1b",
+      "source": "EL PAÍS España",
+      "title": "Ceuta, de los tacticismos banales a la mirada estratégica",
+      "summary": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
+      "url": "https://elpais.com/opinion/2026-08-14/ceuta-de-los-tacticismos-banales-a-la-mirada-estrategica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "politica",
+      "priority": 72,
+      "title_fa": "Ceuta, de los tacticismos banales a la mirada estratégica",
+      "lead_fa": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1157,61 +1282,17 @@
       "editorial_version": 2
     },
     {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del matrimonio asesinado en Tauste pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
-      "category": "sociedad",
+      "id": "9ade8d0d59fa",
+      "source": "EL PAÍS",
+      "title": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
+      "summary": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
+      "url": "https://elpais.com/videos/2026-08-14/miles-de-turistas-quedan-varados-en-sicilia-tras-la-erupcion-del-volcan-etna-estamos-en-el-abismo-mas-profundo.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204678_140830_video_1800.mp4",
+      "published_at": "2026-08-14T14:13:17+00:00",
+      "category": "turismo",
       "priority": 70,
-      "title_fa": "La familia del matrimonio asesinado en Tauste pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e61b4653bde6",
-      "source": "La Vanguardia",
-      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
-      "published_at": "2026-08-14T13:31:21+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "331f3a8589dc",
-      "source": "La Vanguardia",
-      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
-      "published_at": "2026-08-14T13:08:55+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
+      "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1228,7 +1309,7 @@
       "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
       "summary": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/hacinadas-drogadas-y-sometidas-con-ritos-de-santeria-asi-malvivian-las-victimas-de-una-red-de-prostitucion-desarticulada-en-soria-y-castellon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AD6P5XPKENGPJGRYAMTPLAGU4Y.jpg?auth=ea46ec9653cd81893f520ca3ea1b03d2d81a67717efbbe8a50681c79ed843a82",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204676_140440_video_1800.mp4",
       "published_at": "2026-08-14T13:06:37+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -1289,56 +1370,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a0ab9b13f1b6",
-      "source": "EL PAÍS",
-      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
-      "published_at": "2026-08-14T11:21:54+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4c6eb53564c7",
-      "source": "La Vanguardia",
-      "title": "El caos ferroviario del eclipse evidencia la falta de previsión que lastra Rodalies",
-      "summary": "Ni Renfe ni la Generalitat planificaron un dispositivo para absorber la alta demanda de movilidad en transporte público para ver el fenómeno astronómico en el sur de Catalunya",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613479/caos-ferroviario-eclipse-evidencia-falta-prevision-rodalies.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ec25c78fc6.jpeg",
-      "published_at": "2026-08-14T00:05:00+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "هرج‌ومرج قطارهای کاتالونیا در روز خورشیدگرفتگی",
-      "lead_fa": "اختلال در شبکه قطارهای حومه‌ای کاتالونیا همزمان با خورشیدگرفتگی رخ داد. نهادهای مسئول برنامه‌ریزی کافی برای مدیریت تقاضای سفر نداشتند.",
-      "key_points_fa": [
-        "ناتوانی رنفه و دولت محلی در تامین تقاضای سفر",
-        "فقدان برنامه‌ریزی ویژه برای رویداد نجومی",
-        "انتقاد از وضعیت ناوگان حمل‌ونقل عمومی کاتالونیا"
-      ],
-      "analysis_fa": "این رویداد بار دیگر ضعف‌های ساختاری و کمبود پیش‌بینی در شبکه حمل‌ونقل ریلی کاتالونیا موسوم به رودالیس را برجسته کرد. نبود هماهنگی میان اپراتور ملی و دولت محلی موجب نارضایتی مسافران شد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#قطار",
-        "#کاتالونیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c529b814d441",
       "source": "La Vanguardia",
       "title": "Ferran Torres, el tiburón que no acabó de cautivar en el Barça",
@@ -1395,6 +1426,72 @@
       "editorial_version": 2
     },
     {
+      "id": "4a42da1392a7",
+      "source": "La Vanguardia",
+      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-14T13:51:53+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e61b4653bde6",
+      "source": "La Vanguardia",
+      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
+      "published_at": "2026-08-14T13:31:21+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "331f3a8589dc",
+      "source": "La Vanguardia",
+      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
+      "published_at": "2026-08-14T13:08:55+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a7b69c594378",
       "source": "La Vanguardia",
       "title": "Selena Gomez, demandada por fraude",
@@ -1417,17 +1514,17 @@
       "editorial_version": 2
     },
     {
-      "id": "790f73f12cb4",
-      "source": "La Vanguardia",
-      "title": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
-      "summary": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613778/conductor-dana-zona-protegida-pampa-leoncito-surcos-tardaran-siglo-revertirse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef065eeff6.jpeg",
-      "published_at": "2026-08-14T11:17:46+02:00",
+      "id": "a0ab9b13f1b6",
+      "source": "EL PAÍS",
+      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
+      "published_at": "2026-08-14T11:21:54+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
-      "lead_fa": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
+      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1439,17 +1536,17 @@
       "editorial_version": 2
     },
     {
-      "id": "3b4633dc509b",
+      "id": "790f73f12cb4",
       "source": "La Vanguardia",
-      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
-      "summary": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ecbeac7d28.r_d.839-543-0.jpeg",
-      "published_at": "2026-08-14T10:06:03+02:00",
-      "category": "ciencia",
+      "title": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
+      "summary": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11613778/conductor-dana-zona-protegida-pampa-leoncito-surcos-tardaran-siglo-revertirse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef065eeff6.jpeg",
+      "published_at": "2026-08-14T11:17:46+02:00",
+      "category": "sociedad",
       "priority": 69,
-      "title_fa": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
-      "lead_fa": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
+      "title_fa": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
+      "lead_fa": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1732,6 +1829,28 @@
       "editorial_version": 2
     },
     {
+      "id": "6125bdd16e33",
+      "source": "EL PAÍS",
+      "title": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
+      "summary": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-14/antonio-maillo-marruecos-ha-cometido-una-accion-criminal-con-muertes-hay-que-replantearse-todo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BGKZKEHGVBEZBPQB6HAZVYY4UQ.jpg?auth=3bb79ad64e35e74750f1fee31ccacfd275b2969239b62a22461142204e6629f2",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
+      "lead_fa": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "c07c994d2a55",
       "source": "EL PAÍS",
       "title": "Nina Lykke: “Los hijos en Noruega están al mando de una forma descabellada. La autoridad está muy denostada”",
@@ -1798,28 +1917,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4923aeb306d6",
-      "source": "EL PAÍS",
-      "title": "El ‘momento Aranzadi’ de Vox",
-      "summary": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
-      "url": "https://elpais.com/opinion/2026-08-14/el-momento-aranzadi-de-vox.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M2UI2SKZ35D5FBSXQPEFISCPOM.jpg?auth=6cae415cb911e2ce78903dfacda0456e145a7ba4d7b792efbac1bee17743c1df",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El ‘momento Aranzadi’ de Vox",
-      "lead_fa": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "80bc9cb04f51",
       "source": "EL PAÍS",
       "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
@@ -1864,28 +1961,6 @@
       "editorial_version": 2
     },
     {
-      "id": "50df3319c00e",
-      "source": "EL PAÍS",
-      "title": "La millonaria lavadora de fondos de los narcos del puerto de Valencia: ladrillo, ‘criptos’ y gimnasios",
-      "summary": "Los traficantes que almacenaban 60 millones en droga blanquearon sus ganancias a través de divorcios ficticios, sobrecostes en pisos de lujos y testaferros",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/la-millonaria-lavadora-de-fondos-de-los-narcos-del-puerto-de-valencia-ladrillo-criptos-y-gimnasios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YEWYWKP66VM6VMGXSGBP3W74DA.jpg?auth=4daf2e036c92dbdf524c55a7ec96603f826f280b08ee489b4135624d4ca6cfe4",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La millonaria lavadora de fondos de los narcos del puerto de Valencia: ladrillo, ‘criptos’ y gimnasios",
-      "lead_fa": "Los traficantes que almacenaban 60 millones en droga blanquearon sus ganancias a través de divorcios ficticios, sobrecostes en pisos de lujos y testaferros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cfdde616afe8",
       "source": "EL PAÍS",
       "title": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
@@ -1897,50 +1972,6 @@
       "priority": 67,
       "title_fa": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
       "lead_fa": "Casa de las Flores no deja nada librado al azar, experimenta con las normas y recibe huéspedes que vuelven una y otra vez",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6c4bab78d72f",
-      "source": "EL PAÍS",
-      "title": "Halle Berry cumple 60 años: cinco motivos por los que se ha erigido en un icono de Hollywood",
-      "summary": "La actriz celebra este redondo aniversario sin parar de trabajar, prometida por cuarta vez y muy implicada en el apoyo a la salud femenina en la mediana edad. Orgullosa ganadora tanto del Oscar como del Razzie, con su carrera ha demostrado que es mucho más que un físico",
-      "url": "https://elpais.com/gente/2026-08-14/halle-berry-cumple-60-anos-cinco-motivos-por-los-que-se-ha-erigido-en-un-icono-de-hollywood.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/B6F3ZTP3QVG4PFPD3UMYEWSXTY.jpg?auth=15a6404107ee3d2484f3b11d4838549d20696ff251d96422bd19e44573c77502",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Halle Berry cumple 60 años: cinco motivos por los que se ha erigido en un icono de Hollywood",
-      "lead_fa": "La actriz celebra este redondo aniversario sin parar de trabajar, prometida por cuarta vez y muy implicada en el apoyo a la salud femenina en la mediana edad. Orgullosa ganadora tanto del Oscar como del Razzie, con su carrera ha demostrado que es mucho más que un físico",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "458fcafeaebd",
-      "source": "EL PAÍS",
-      "title": "Cultivar la mirada",
-      "summary": "Las fotografías de la colección de Lola Garrido revelan los registros y las maneras de los grandes maestros del género",
-      "url": "https://elpais.com/opinion/2026-08-14/cultivar-la-mirada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/INBX6LIO7VHGFO6WO7HY27GVI4.jpeg?auth=c3d0118dcf10f3d5db8fc09c0255946d8eadfb97b78d9b2d2f93ea5589f60d71",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Cultivar la mirada",
-      "lead_fa": "Las fotografías de la colección de Lola Garrido revelan los registros y las maneras de los grandes maestros del género",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1974,17 +2005,39 @@
       "editorial_version": 2
     },
     {
-      "id": "6125bdd16e33",
+      "id": "4923aeb306d6",
       "source": "EL PAÍS España",
-      "title": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
-      "summary": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
-      "url": "https://elpais.com/espana/2026-08-14/antonio-maillo-marruecos-ha-cometido-una-accion-criminal-con-muertes-hay-que-replantearse-todo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BGKZKEHGVBEZBPQB6HAZVYY4UQ.jpg?auth=3bb79ad64e35e74750f1fee31ccacfd275b2969239b62a22461142204e6629f2",
+      "title": "El ‘momento Aranzadi’ de Vox",
+      "summary": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
+      "url": "https://elpais.com/opinion/2026-08-14/el-momento-aranzadi-de-vox.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M2UI2SKZ35D5FBSXQPEFISCPOM.jpg?auth=6cae415cb911e2ce78903dfacda0456e145a7ba4d7b792efbac1bee17743c1df",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
-      "lead_fa": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
+      "title_fa": "El ‘momento Aranzadi’ de Vox",
+      "lead_fa": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "50df3319c00e",
+      "source": "EL PAÍS España",
+      "title": "La millonaria lavadora de fondos de los narcos del puerto de Valencia: ladrillo, ‘criptos’ y gimnasios",
+      "summary": "Los traficantes que almacenaban 60 millones en droga blanquearon sus ganancias a través de divorcios ficticios, sobrecostes en pisos de lujos y testaferros",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/la-millonaria-lavadora-de-fondos-de-los-narcos-del-puerto-de-valencia-ladrillo-criptos-y-gimnasios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YEWYWKP66VM6VMGXSGBP3W74DA.jpg?auth=4daf2e036c92dbdf524c55a7ec96603f826f280b08ee489b4135624d4ca6cfe4",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La millonaria lavadora de fondos de los narcos del puerto de Valencia: ladrillo, ‘criptos’ y gimnasios",
+      "lead_fa": "Los traficantes que almacenaban 60 millones en droga blanquearon sus ganancias a través de divorcios ficticios, sobrecostes en pisos de lujos y testaferros",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2202,7 +2255,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Z2IMDSUEPBAKTOLWOZJ2BJIIKY.jpg?auth=8cab6762a7dfbb722a789d1ddd090c5c9c5a91264228f878a69736e909339b11",
       "published_at": "2026-08-13T12:00:58+00:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
       "lead_fa": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
       "key_points_fa": [],
@@ -2238,28 +2291,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2271,6 +2302,28 @@
       "priority": 59,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 59,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2377,7 +2430,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 154
+      "count": 157
     },
     {
       "source": "EL PAÍS España",
@@ -2392,7 +2445,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 135
+      "count": 137
     }
   ]
 }
