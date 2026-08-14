@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-08-14T04:28:11.575736+00:00",
+  "generated_at": "2026-08-14T06:04:15.449714+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "3a5d5f3166cd",
     "5c578267fa51",
     "831cde245e7d",
-    "68701ad0d831",
-    "5ae22ba01fa4",
-    "4daacce38965"
+    "035f9bbaa177",
+    "5ae22ba01fa4"
   ],
   "items": [
+    {
+      "id": "3a5d5f3166cd",
+      "source": "La Vanguardia",
+      "title": "El Gobierno agiliza las expulsiones sumarias para vaciar las calles de Ceuta",
+      "summary": "La crisis de soberanía desplaza el debate sobre el reparto de menores entre comunidades",
+      "url": "https://www.lavanguardia.com/politica/20260814/11613503/gobierno-agiliza-expulsiones-sumarias-vaciar-calles-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7e22c5b8f29.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "دولت اسپانیا روند اخراج‌های فوری را برای تخلیه خیابان‌های سئوتا تسریع می‌کند",
+      "lead_fa": "دولت اسپانیا برای مقابله با بحران حاکمیت در سئوتا، روند اخراج‌های فوری را سرعت بخشیده است. این اقدام، تمرکز بر بحث توزیع کودکان مهاجر میان جوامع خودمختار را تحت‌الشعاع قرار داده است.",
+      "key_points_fa": [
+        "تسریع اخراج‌های فوری توسط دولت اسپانیا در سئوتا",
+        "تغییر تمرکز سیاسی از توزیع کودکان مهاجر به بحران حاکمیت",
+        "تلاش برای کاهش تجمع مهاجران در خیابان‌های سئوتا"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده تغییر اولویت‌های دولت در مدیریت بحران‌های مرزی است که تمرکز را از راهکارهای بلندمدت ساختاری مانند توزیع مهاجران در سراسر کشور به اقدامات فوری امنیتی و مرزی تغییر داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سئوتا",
+        "#مهاجرت",
+        "#اخراج_فوری"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "5c578267fa51",
       "source": "EL PAÍS Economía",
@@ -68,59 +97,35 @@
       "editorial_version": 2
     },
     {
-      "id": "68701ad0d831",
+      "id": "035f9bbaa177",
       "source": "EL PAÍS",
-      "title": "La guerra del grano vuelve al mar Negro: Rusia bloquea las exportaciones de Ucrania y amenaza la próxima cosecha",
-      "summary": "Los envíos de cereal ucranio se han desplomado hasta un 75% en las dos primeras semanas de agosto por la intensificación de los ataques",
-      "url": "https://elpais.com/internacional/2026-08-14/la-guerra-del-grano-vuelve-al-mar-negro-rusia-bloquea-las-exportaciones-de-ucrania-y-amenaza-la-proxima-cosecha.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/J6LTSAE2FRAIZKV5DAF6DH3ESQ.JPG?auth=0850fc0fdf1ab261ddbfc48f9809cac1950442fde53c16a69894132febb54007",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "economia",
+      "title": "Las siete vidas de Daniela",
+      "summary": "El terremoto fue la última batalla con la muerte de Daniela Largo, una superviviente rescatada en Pereira tras 36 horas bajo los escombros",
+      "url": "https://elpais.com/america-colombia/2026-08-14/las-siete-vidas-de-daniela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204457_211059_video_1800.mp4",
+      "published_at": "2026-08-14T03:30:00+00:00",
+      "category": "sociedad",
       "priority": 77,
-      "title_fa": "بحران غلات در دریای سیاه با تشدید حملات روسیه به بنادر اوکراین",
-      "lead_fa": "صادرات غلات اوکراین در نیمه نخست ماه اوت به دلیل تشدید حملات به شدت کاهش یافته است. این وضعیت می‌تواند امنیت غذایی و بازار جهانی غلات را تحت تأثیر قرار دهد.",
+      "title_fa": "هفت جان دانیلا؛ نجات از زیر آوار زلزله",
+      "lead_fa": "دانیلا لارگو، یکی از بازماندگان زلزله، پس از ۳۶ ساعت گرفتار بودن زیر آوار در شهر پریرا نجات یافت. این حادثه آخرین نبرد او با مرگ بود.",
       "key_points_fa": [
-        "افت ۷۵ درصدی ارسال غلات اوکراین در دو هفته نخست ماه اوت",
-        "تشدید حملات نظامی و تهدید برداشت آینده محصولات کشاورزی",
-        "بازگشت تنش‌ها به مسیرهای صادراتی دریای سیاه"
+        "دانیلا لارگو به مدت ۳۶ ساعت زیر آوار گرفتار بود.",
+        "عملیات نجات در شهر پریرا انجام شد."
       ],
-      "analysis_fa": "مسدود شدن مسیرهای صادراتی اوکراین بار دیگر آسیب‌پذیری زنجیره تأمین مواد غذایی در مقیاس جهانی را برجسته می‌کند. تداوم این وضعیت می‌تواند به افزایش قیمت جهانی مواد غذایی و فشار بر کشورهای وابسته به واردات غلات منجر شود، بدون اینکه در حال حاضر نتیجه قطعی برای توافق‌های آتی متصور باشد.",
+      "analysis_fa": "این رخداد نمونه‌ای از مقاومت انسانی در برابر بحران‌های طبیعی و دشواری‌های امدادرسانی در ساعات اولیه پس از زلزله است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
+      "urgency": "normal",
       "hashtags_fa": [
-        "#غلات",
-        "#اوکراین",
-        "#روسیه",
-        "#اقتصاد_جهانی"
+        "#زلزله",
+        "#حوادث",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "4519d98e055d",
-      "source": "EL PAÍS",
-      "title": "Elegir entre el dogma negacionista o la defensa del territorio frente a los incendios",
-      "summary": "El pacto PP-Vox en Andalucía desoye a la ciencia y pretende sustituir el fortalecimiento de lo público por el negocio de unos pocos",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/elegir-entre-el-dogma-negacionista-o-la-defensa-del-territorio-frente-a-los-incendios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/S3TDW5I7OZMQJDLCEAJGXP5FU4.jpg?auth=c627a125fbf1a4d4d37eb0878d7c018f3c9941a64fee4ade1d2a7ecfdae68d7c",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "Elegir entre el dogma negacionista o la defensa del territorio frente a los incendios",
-      "lead_fa": "El pacto PP-Vox en Andalucía desoye a la ciencia y pretende sustituir el fortalecimiento de lo público por el negocio de unos pocos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5ae22ba01fa4",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "La amenaza del fuego obliga a trasladar restos óseos del monasterio de San Juan de la Peña en Huesca",
       "summary": "El incendio, que afecta a unas 8.000 hectáreas, ha obligado a desalojar a cerca de 900 personas de 12 poblaciones",
       "url": "https://elpais.com/espana/2026-08-13/la-amenaza-del-fuego-obliga-a-trasladar-restos-oseos-del-monasterio-de-san-juan-de-la-pena-en-huesca.html",
@@ -178,7 +183,7 @@
     {
       "id": "21c2078e2687",
       "source": "La Vanguardia",
-      "title": "Muere en accidente de bicicleta Víctor Coyote, fundador de la banda Los Coyotes",
+      "title": "Muere cuando iba en bicicleta Víctor Coyote, fundador de la banda Los Coyotes",
       "summary": "El músico gallego, con una intensa actividad como diseñador gráfico, pintor, ilustrador y autor de cómic, tenía 67 años",
       "url": "https://www.lavanguardia.com/cultura/20260813/11613445/muere-accidente-bicicleta-victor-coyote-fundador-banda-coyotes.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/03/11/5fa908b4b2dc8.r_d.399-299-0.jpeg",
@@ -199,6 +204,34 @@
         "#ویکتور_کایوت",
         "#موسیقی_اسپانیا",
         "#درگذشت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "630ce3876f92",
+      "source": "La Vanguardia",
+      "title": "Rebelión en EE.UU. por las cámaras Flock que policías usan para extorsiones amorosas o perseguir abortistas",
+      "summary": "Este sistema, que rastrea los movimientos de los vehículos, ofrece todo lujo de detalles de los ciudadanos sin orden judicial y ha provocado actos de violencia para su destrucción hasta el punto que la empresa ha anunciado garantías sobre la privacidad",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11613419/rebelion-ee-uu-camaras-flock-policias-extorsiones-amorosas-perseguir-abortistas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df41ea12db.r_d.1586-1503-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "جنجال در آمریکا بر سر استفاده پلیس از دوربین‌های ردیاب خودرو",
+      "lead_fa": "سیستم پایش خودروهای شرکت «فلاک» در آمریکا به دلیل دسترسی بدون حکم قضایی به اطلاعات شهروندان جنجال‌برانگیز شده است. این فناوری به دلیل سوءاستفاده‌های احتمالی با اعتراضات شدید و خشونت‌آمیز مواجه شده است.",
+      "key_points_fa": [
+        "ردیابی دقیق حرکات خودروهای شهروندان بدون نیاز به حکم قضایی",
+        "گزارش‌هایی درباره سوءاستفاده از این سیستم توسط نیروهای پلیس",
+        "واکنش شرکت سازنده و ارائه تضمین‌های جدید برای حفظ حریم خصوصی"
+      ],
+      "analysis_fa": "گسترش ابزارهای نظارت دیجیتال توسط نهادهای امنیتی، چالش‌های جدی میان امنیت عمومی و حقوق شهروندی ایجاد کرده است. شرکت‌های فناوری در واکنش به فشارهای عمومی ناچار به بازنگری در سیاست‌های حریم خصوصی خود شده‌اند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#حریم_خصوصی",
+        "#پلیس"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -358,6 +391,28 @@
       "editorial_version": 2
     },
     {
+      "id": "26ff99e1a3de",
+      "source": "EL PAÍS",
+      "title": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
+      "summary": "Un metaanálisis constata que el descanso laboral favorece el bienestar, pero los expertos avisan de que en los parones veraniegos también puede hacer aflorar el agotamiento acumulado",
+      "url": "https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LRM7PGPNNVETFGH4LL3HC64JJA.jpg?auth=d8ead36c27571c586419d676e3ec013be89d8b6e03889bf0c202e31dd3203f7f",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
+      "lead_fa": "Un metaanálisis constata que el descanso laboral favorece el bienestar, pero los expertos avisan de que en los parones veraniegos también puede hacer aflorar el agotamiento acumulado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "7d8843f4ae1b",
       "source": "EL PAÍS",
       "title": "Ceuta, de los tacticismos banales a la mirada estratégica",
@@ -391,28 +446,6 @@
       "priority": 75,
       "title_fa": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
       "lead_fa": "El Tribunal Económico-Administrativo fija criterio y establece que el incentivo fiscal depende de la cuota de propiedad y no del dinero aportado por cada cónyuge",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "26ff99e1a3de",
-      "source": "EL PAÍS",
-      "title": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
-      "summary": "Un metaanálisis constata que el descanso laboral favorece el bienestar, pero los expertos avisan de que en los parones veraniegos también puede hacer aflorar el agotamiento acumulado",
-      "url": "https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LRM7PGPNNVETFGH4LL3HC64JJA.jpg?auth=d8ead36c27571c586419d676e3ec013be89d8b6e03889bf0c202e31dd3203f7f",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
-      "lead_fa": "Un metaanálisis constata que el descanso laboral favorece el bienestar, pero los expertos avisan de que en los parones veraniegos también puede hacer aflorar el agotamiento acumulado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -468,63 +501,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d832177e2dff",
-      "source": "La Vanguardia",
-      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
-      "summary": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
-      "url": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e0107651e9.r_d.547-523-0.jpeg",
-      "published_at": "2026-08-13T19:52:50+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "واکنش دولت اسپانیا به اظهارات رباط درباره سبته و ملیلیه",
-      "lead_fa": "دولت اسپانیا از پاسخگویی به پیام‌های مراکش درباره حاکمیت سبته و ملیلیه خودداری کرد. حزب مردمی (PP) خواستار فراخواندن سفیر مراکش شده است.",
-      "key_points_fa": [
-        "وزیر دادگستری مراکش اظهاراتی درباره حاکمیت سبته و ملیلیه مطرح کرد.",
-        "حزب مردمی اسپانیا خواستار فراخواندن سفیر مراکش به دلیل این اظهارات شد.",
-        "دولت اسپانیا از تنش‌زایی و درگیری بر سر حاکمیت این دو شهر اجتناب کرد."
-      ],
-      "analysis_fa": "این رویداد نشان‌دهنده رویکرد احتیاط‌آمیز دولت اسپانیا در روابط دیپلماتیک با مراکش است. در حالی که حزب مخالف برکناری یا فراخواندن سفیر را مطالبه می‌کند، دولت ترجیح می‌دهد تنش‌های لفظی را مدیریت کرده و از بحران عمیق‌تر در روابط دوجانبه جلوگیری کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مراکش",
-        "#سبته_و_ملیلیه",
-        "#سیاست_خارجی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b7026ddc385",
-      "source": "La Vanguardia",
-      "title": "Polémica en Colombia por la gestión de los equipos de rescate del terremoto",
-      "summary": "Bogotá rechaza la ayuda de Los Topos de México y acepta sólo unidades de países con gobiernos afines como Estados Unidos, Ecuador, El Salvador e Israel",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11613402/polemica-colombia-gestion-equipos-rescate-terremoto.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7de7a670c10.r_d.456-474-0.jpeg",
-      "published_at": "2026-08-13T17:53:12+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "جنجال در کلمبیا بر سر مدیریت تیم‌های امداد و نجات",
-      "lead_fa": "دولت کلمبیا کمک تیم امدادی مکزیک را رد کرد. این کشور تنها تیم‌های کشورهای همسو را پذیرفت.",
-      "key_points_fa": [
-        "رد کمک گروه امدادی مستقل «لوپوس» از مکزیک توسط دولت بوگوتا",
-        "پذیرش محدود واحدهای امدادی از آمریکا، اکوادور، السالوادور و اسرائیل",
-        "اعتراض و انتقادهای داخلی به نحوه مدیریت بحران و پذیرش امدادگران"
-      ],
-      "analysis_fa": "این تصمیم دولت کلمبیا بار دیگر بحث درباره ترجیح منافع و روابط سیاسی بر کارآمدی بشردوستانه در هنگام وقوع بلایای طبیعی را برجسته کرده است. انتخاب گزینشی تیم‌های امدادی می‌تواند کارایی عملیات نجات را تحت تأثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کلمبیا",
-        "#امداد_و_نجات",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c7f8f1fb7b48",
       "source": "EL PAÍS España",
       "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
@@ -576,34 +552,6 @@
         "#اسپانیا",
         "#مراکش",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5482a2ac2e9c",
-      "source": "La Vanguardia",
-      "title": "Una mansión de 250 años se llena de peces de colores en Pekín (China)",
-      "summary": "Construida en 1777, la Mansión del Príncipe Kung es una de las residencias principescas de la dinastía Qing mejor conservadas y abiertas al público en Pekín",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11612662/china-pekin-peces-mansion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c633c239de.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 75,
-      "title_fa": "پر شدن عمارت ۲۵۰ ساله در پکن از ماهیان رنگی",
-      "lead_fa": "عمارت تاریخی شاهزاده کونگ در پکن میزبان نمایشگاهی از ماهیان رنگی شد. این بنای متعلق به دوران دودمان چینگ از بهترین نمونه‌های حفظ‌شده در چین است.",
-      "key_points_fa": [
-        "عمارت شاهزاده کونگ در سال ۱۷۷۷ ساخته شده است.",
-        "این مکان یکی از اقامتگاه‌های سلطنتی دوران دودمان چینگ است.",
-        "این بنای تاریخی در حال حاضر به روی عموم باز است."
-      ],
-      "analysis_fa": "استفاده از بناهای تاریخی برای رویدادهای فرهنگی و نمایشگاهی، رویکردی برای جذب بازدیدکنندگان و حفظ میراث معماری در چین محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#چین",
-        "#پکن",
-        "#میراث_فرهنگی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -750,6 +698,50 @@
       "editorial_version": 2
     },
     {
+      "id": "9a14a40bae35",
+      "source": "EL PAÍS",
+      "title": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
+      "summary": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
+      "url": "https://elpais.com/america/2026-08-13/flavio-bolsonaro-sufre-problemas-para-inscribir-su-candidatura-presidencial-al-aparecer-en-un-partido-distinto-al-suyo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7UYWWWT6CNLQJLTXL5GTIMVIYQ.jpg?auth=a1a8a9cac81ee6edaac13253e62aa16a64ec0b6578f7fd2ff270f1187c360df7",
+      "published_at": "2026-08-13T20:06:18+00:00",
+      "category": "politica",
+      "priority": 72,
+      "title_fa": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
+      "lead_fa": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5aed599e182e",
+      "source": "La Vanguardia",
+      "title": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
+      "summary": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
+      "url": "https://www.lavanguardia.com/local/girona/20260813/11613285/muere-hombre-banaba-platja-gran-palamos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/06/27/60d7b35629ba7.r_d.725-446-0.jpeg",
+      "published_at": "2026-08-13T14:09:39+02:00",
+      "category": "ciencia",
+      "priority": 72,
+      "title_fa": "Muere un hombre mientras se bañaba en la Platja Gran de Palamós",
+      "lead_fa": "Con esta última víctima mortal, ascienden a 33 las personas fallecidas por ahogamiento en espacios acuáticos de Catalunya desde el inicio de la campaña de baño",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "eb97ac489b4e",
       "source": "La Vanguardia",
       "title": "El precio del gasoil se dispara un 16% y fuerza una rebaja fiscal en septiembre",
@@ -777,6 +769,204 @@
       "editorial_version": 2
     },
     {
+      "id": "09e096ddc7bc",
+      "source": "La Vanguardia",
+      "title": "Marroquíes asumen su expulsión mientras que los subsaharianos hacen en la orilla ceutí su hogar",
+      "summary": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
+      "url": "https://www.lavanguardia.com/politica/20260814/11613505/trampolin-ceuta-playa-dos-destinos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e253ddeffc.r_d.737-838-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Marroquíes asumen su expulsión mientras que los subsaharianos hacen en la orilla ceutí su hogar",
+      "lead_fa": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9f787b0ff055",
+      "source": "La Vanguardia",
+      "title": "España lleva cuatro años con normas antiplástico que ha incumplido",
+      "summary": "La obligatoriedad europea de eliminar los envases de frutas y verduras no admite nuevos retrasos",
+      "url": "https://www.lavanguardia.com/natural/20260814/11612829/espana-lleva-cuatro-anos-normas-ley-plastico-envases-incumplido.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7ded6be2dd7.r_d.2830-1830-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "España lleva cuatro años con normas antiplástico que ha incumplido",
+      "lead_fa": "La obligatoriedad europea de eliminar los envases de frutas y verduras no admite nuevos retrasos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1fa89e4de54d",
+      "source": "La Vanguardia",
+      "title": "Salou, el eterno campo y playa de los maños",
+      "summary": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613453/salou-eterno-campo-playa-manos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb04ea86e.r_d.458-260-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Salou, el eterno campo y playa de los maños",
+      "lead_fa": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6cc5df14b9a9",
+      "source": "La Vanguardia",
+      "title": "Barcelona, 2131: ¿Quiénes somos? ¿Adónde vamos? ¿De dónde venimos?",
+      "summary": "Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
+      "url": "https://www.lavanguardia.com/cultura/20260814/11613382/barcelona-2131-quienes-donde-donde-venimos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7ddc753b600.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Barcelona, 2131: ¿Quiénes somos? ¿Adónde vamos? ¿De dónde venimos?",
+      "lead_fa": "Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "543211f60a6d",
+      "source": "La Vanguardia",
+      "title": "España: ¿un país caro o barato frente al resto del mundo?",
+      "summary": "Salir al cine y a cenar cuesta la mitad que en Suiza y el doble que en India",
+      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260814/11611526/espana-pais-caro-barato-otros-paises-pca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb4b041e3.r_d.1216-921-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "España: ¿un país caro o barato frente al resto del mundo?",
+      "lead_fa": "Salir al cine y a cenar cuesta la mitad que en Suiza y el doble que en India",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9489b8bc9fa4",
+      "source": "La Vanguardia",
+      "title": "Onlyfans: qué impulsa a algunas jóvenes a subir contenido a la plataforma",
+      "summary": "La búsqueda de reconocimiento, dinero o una mejor posición social impulsa a las mujeres, que en muchos casos quedan expuestas a proxenetas, amenazas y relaciones de poder desiguales",
+      "url": "https://www.lavanguardia.com/vivo/20260814/11613438/onlyfans-beneficio-proxenetas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df1145c12c.r_d.2051-912-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Onlyfans: qué impulsa a algunas jóvenes a subir contenido a la plataforma",
+      "lead_fa": "La búsqueda de reconocimiento, dinero o una mejor posición social impulsa a las mujeres, que en muchos casos quedan expuestas a proxenetas, amenazas y relaciones de poder desiguales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "51b6d9e06dd7",
+      "source": "La Vanguardia",
+      "title": "Pablo Álvarez, astronauta: “Vamos a volver a la Luna para quedarnos”",
+      "summary": "“Cuanta más autonomía tenga Europa, mejor socio será”, defiende el cosmonauta elegida por la ESA sobre el futuro de la exploración espacial",
+      "url": "https://www.lavanguardia.com/ciencia/20260814/11606332/pablo-alvarez-astronauta-volver-luna-quedarnos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b8c2b35896.r_d.2959-1927-0.jpeg",
+      "published_at": "2026-08-14T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Pablo Álvarez, astronauta: “Vamos a volver a la Luna para quedarnos”",
+      "lead_fa": "“Cuanta más autonomía tenga Europa, mejor socio será”, defiende el cosmonauta elegida por la ESA sobre el futuro de la exploración espacial",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8231e5a4260a",
+      "source": "La Vanguardia",
+      "title": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260814/11613041/tienes-urgencia-sanitaria-elige-bien-donde-debes-ir-brl.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d5f5a4577b.jpeg",
+      "published_at": "2026-08-14T05:50:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "26be6612e61f",
+      "source": "La Vanguardia",
+      "title": "Turismos, camiones y el bypass de Valencia: “Una vía saturada”, lamentan los transportistas",
+      "summary": "La FVET avisa de la sobrecarga de la carretera, que este fin de semana se enfrenta a otro reto de la movilidad: la celebración del 15 de agosto, con cambio de vacaciones y numerosos desplazamientos previstos por la DGT",
+      "url": "https://www.lavanguardia.com/local/valencia/20260814/11613333/turismos-camiones-bypass-valencia-saturada-lamentan-transportistas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/05/13/627e245cc156d.jpeg",
+      "published_at": "2026-08-14T05:40:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Turismos, camiones y el bypass de Valencia: “Una vía saturada”, lamentan los transportistas",
+      "lead_fa": "La FVET avisa de la sobrecarga de la carretera, que este fin de semana se enfrenta a otro reto de la movilidad: la celebración del 15 de agosto, con cambio de vacaciones y numerosos desplazamientos previstos por la DGT",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f1bfff96512d",
       "source": "EL PAÍS",
       "title": "Anne Hathaway vuelve a reinar en Hollywood: cómo cinco películas, un embarazo y la mejor de sus carcajadas la recolocaron en el trono",
@@ -788,6 +978,28 @@
       "priority": 70,
       "title_fa": "Anne Hathaway vuelve a reinar en Hollywood: cómo cinco películas, un embarazo y la mejor de sus carcajadas la recolocaron en el trono",
       "lead_fa": "Tras una década en la que se convirtió en la más odiada del panorama sin un motivo concreto, la intérprete revienta las taquillas del año gracias a ‘El diablo viste de Prada’ y ‘La odisea’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "eeb2678fce90",
+      "source": "EL PAÍS",
+      "title": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
+      "summary": "El acusado alega que desconocía la prohibición de circular. Los destrozos tardarán un siglo en revertirse y las autoridades locales piden una sanción ejemplar",
+      "url": "https://elpais.com/argentina/2026-08-14/un-conductor-dana-pampa-del-leoncito-joya-natural-del-norte-argentino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VJUXN5J4SFEPNKLWS7ZU53AALM.jpg?auth=ce8ce79dbff89be57f5c11dbc7adee3e0ec5d8bf4ee38513aa1ee1b09f526878",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
+      "lead_fa": "El acusado alega que desconocía la prohibición de circular. Los destrozos tardarán un siglo en revertirse y las autoridades locales piden una sanción ejemplar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -826,7 +1038,7 @@
       "title": "Las palabras de Albares activan el temor a la devolución entre los migrantes llegados a nado a Ceuta",
       "summary": "La confirmación de la cooperación con Marruecos dispara la preocupación entre quienes llevan dos semanas esperando en condiciones precarias una oportunidad para quedarse en España",
       "url": "https://elpais.com/espana/2026-08-14/las-palabras-de-albares-activan-el-temor-a-la-devolucion-entre-los-migrantes-llegados-a-nado-a-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7GK4RB4725FEVKMFH5XBDMTUJM.jpg?auth=a2f8d743dde78db1a376cb806f118c8d8e25b7110c7c312b7a2472f63b3f1b80",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203692_144124_video_1800.mp4",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -887,28 +1099,6 @@
       "editorial_version": 2
     },
     {
-      "id": "16f29e9496a7",
-      "source": "EL PAÍS",
-      "title": "¿Para qué sirve un ‘concierge’, un restaurador o un ‘coach’ de nutrición en un hotel?",
-      "summary": "La ambición de los alojamientos de lujo por ofrecer un servicio a la carta a sus huéspedes y de que estos se vayan queriendo volver explica la aparición de nuevos perfiles. Como muestra, estos seis establecimientos españoles",
-      "url": "https://elpais.com/elviajero/2026-08-14/para-que-sirve-un-concierge-un-restaurador-o-un-coach-de-nutricion-en-un-hotel.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EDEGF4DODNENDG3P6WBTQNEAXI.jpg?auth=01b465ccb97f052dcf0340b645413a9deeaf89c79c3697ad56cc293bb919d03c",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "¿Para qué sirve un ‘concierge’, un restaurador o un ‘coach’ de nutrición en un hotel?",
-      "lead_fa": "La ambición de los alojamientos de lujo por ofrecer un servicio a la carta a sus huéspedes y de que estos se vayan queriendo volver explica la aparición de nuevos perfiles. Como muestra, estos seis establecimientos españoles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c07c994d2a55",
       "source": "EL PAÍS",
       "title": "Nina Lykke: “Los hijos en Noruega están al mando de una forma descabellada. La autoridad está muy denostada”",
@@ -931,17 +1121,17 @@
       "editorial_version": 2
     },
     {
-      "id": "cb12c6010bbd",
+      "id": "8593a053fce8",
       "source": "EL PAÍS",
-      "title": "Ventajas de tener un megáfono en la mesilla",
-      "summary": "A veces me dan ganas de lanzar un quejido largo y profundo. Y que una voz, jovencísima y absurda, que brote de la nada, me pregunte: “¿Estás bien?”",
-      "url": "https://elpais.com/cultura/2026-08-14/ventajas-de-tener-un-megafono-en-la-mesilla.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KB2ALXF7PRGEFMR6ZQ6WGV4GGA.jpg?auth=7f9793f07688dcbef9ebabbc89a0677baf22df5db8fc2a283686304cf0d12f26",
+      "title": "“Mirad sus brazos. Está buenísimo”: el auge de los políticos guapos se hace viral",
+      "summary": "La presencia en redes del candidato a senador estadounidense Abdul El-Sayed desata un debate más amplio sobre la relación entre fotogenia y éxito político",
+      "url": "https://elpais.com/icon/2026-08-14/y-ademas-atractivo-el-privilegio-de-la-belleza-masculina-en-la-era-de-la-politica-viral.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MLVBCGGAHJHYZOTWLF6KJTSF7Y.jpg?auth=ebeb0d4c3b8e438dda8faa50ef4f097de671ffc9df54980509c9a4d0b2bcef36",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Ventajas de tener un megáfono en la mesilla",
-      "lead_fa": "A veces me dan ganas de lanzar un quejido largo y profundo. Y que una voz, jovencísima y absurda, que brote de la nada, me pregunte: “¿Estás bien?”",
+      "title_fa": "“Mirad sus brazos. Está buenísimo”: el auge de los políticos guapos se hace viral",
+      "lead_fa": "La presencia en redes del candidato a senador estadounidense Abdul El-Sayed desata un debate más amplio sobre la relación entre fotogenia y éxito político",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1107,6 +1297,28 @@
       "editorial_version": 2
     },
     {
+      "id": "cfdde616afe8",
+      "source": "EL PAÍS",
+      "title": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
+      "summary": "Casa de las Flores no deja nada librado al azar, experimenta con las normas y recibe huéspedes que vuelven una y otra vez",
+      "url": "https://elpais.com/eps/2026-08-14/desayuno-en-seis-pases-y-sabanas-de-300-hilos-que-se-planchan-a-diario-un-hotel-en-lanzarote-quiere-reinventar-el-lujo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/N52KBZZQPVDQ7H27F37NZS5TVA.JPG?auth=b75a13d9c311f161b6c48c00b29d21a2cef005fa4c7a39246d642d2b0c9d1d0f",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Desayuno en seis pases y sábanas de 300 hilos que se planchan a diario: un hotel en Lanzarote quiere reinventar el lujo",
+      "lead_fa": "Casa de las Flores no deja nada librado al azar, experimenta con las normas y recibe huéspedes que vuelven una y otra vez",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6c4bab78d72f",
       "source": "EL PAÍS",
       "title": "Halle Berry cumple 60 años: cinco motivos por los que se ha erigido en un icono de Hollywood",
@@ -1129,17 +1341,17 @@
       "editorial_version": 2
     },
     {
-      "id": "8593a053fce8",
+      "id": "cb12c6010bbd",
       "source": "EL PAÍS",
-      "title": "“Mirad sus brazos. Está buenísimo”: el auge de los políticos guapos se hace viral",
-      "summary": "La presencia en redes del candidato a senador estadounidense Abdul El-Sayed desata un debate más amplio sobre la relación entre fotogenia y éxito político",
-      "url": "https://elpais.com/icon/2026-08-14/y-ademas-atractivo-el-privilegio-de-la-belleza-masculina-en-la-era-de-la-politica-viral.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MLVBCGGAHJHYZOTWLF6KJTSF7Y.jpg?auth=ebeb0d4c3b8e438dda8faa50ef4f097de671ffc9df54980509c9a4d0b2bcef36",
+      "title": "Ventajas de tener un megáfono en la mesilla",
+      "summary": "A veces me dan ganas de lanzar un quejido largo y profundo. Y que una voz, jovencísima y absurda, que brote de la nada, me pregunte: “¿Estás bien?”",
+      "url": "https://elpais.com/cultura/2026-08-14/ventajas-de-tener-un-megafono-en-la-mesilla.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KB2ALXF7PRGEFMR6ZQ6WGV4GGA.jpg?auth=7f9793f07688dcbef9ebabbc89a0677baf22df5db8fc2a283686304cf0d12f26",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "“Mirad sus brazos. Está buenísimo”: el auge de los políticos guapos se hace viral",
-      "lead_fa": "La presencia en redes del candidato a senador estadounidense Abdul El-Sayed desata un debate más amplio sobre la relación entre fotogenia y éxito político",
+      "title_fa": "Ventajas de tener un megáfono en la mesilla",
+      "lead_fa": "A veces me dan ganas de lanzar un quejido largo y profundo. Y que una voz, jovencísima y absurda, que brote de la nada, me pregunte: “¿Estás bien?”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1283,56 +1495,12 @@
       "editorial_version": 2
     },
     {
-      "id": "91d092ee2486",
-      "source": "EL PAÍS",
-      "title": "El plan de Sevilla para repoblar el centro histórico no resuelve el problema: los turistas superan a los vecinos",
-      "summary": "El alcalde presenta una iniciativa para atraer a 3.500 vecinos con la construcción de 1.000 VPO, pero que no incluye la limitación o la moratoria a pisos turísticos, principal causa del éxodo de residentes",
-      "url": "https://elpais.com/espana/andalucia/2026-08-14/el-plan-de-sevilla-para-repoblar-el-centro-historico-no-resuelve-el-problema-los-turistas-superan-a-los-vecinos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZS6GPGJFLBGU3FVDHTQTN225DE.jpg?auth=d73426be0686bdf2b5bbdfb90e6fcc8085cc3dc938cce69c6ce14480690b99b5",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "El plan de Sevilla para repoblar el centro histórico no resuelve el problema: los turistas superan a los vecinos",
-      "lead_fa": "El alcalde presenta una iniciativa para atraer a 3.500 vecinos con la construcción de 1.000 VPO, pero que no incluye la limitación o la moratoria a pisos turísticos, principal causa del éxodo de residentes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "172f782dc23c",
-      "source": "EL PAÍS",
-      "title": "El verano de los turistas en Rodalies: “Los trenes están desgastados, se nota que es un sistema antiguo”",
-      "summary": "Viajeros de Estados Unidos, Portugal o China utilizan la Renfe para recorrer Cataluña y contrastan el servicio con los sistemas ferroviarios de sus países",
-      "url": "https://elpais.com/espana/catalunya/2026-08-14/el-verano-de-los-turistas-en-rodalies-los-trenes-estan-desgastados-se-nota-que-es-un-sistema-antiguo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KDTELWCAPBHG7A7WQHZFXT5HZY.jpg?auth=ce222bf10773d93fee11be53e7896dbbd6c452eab51db50f184525f471d78f3c",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "El verano de los turistas en Rodalies: “Los trenes están desgastados, se nota que es un sistema antiguo”",
-      "lead_fa": "Viajeros de Estados Unidos, Portugal o China utilizan la Renfe para recorrer Cataluña y contrastan el servicio con los sistemas ferroviarios de sus países",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cee547d36272",
       "source": "EL PAÍS",
       "title": "Trump extiende sus tentáculos militares en Latinoamérica",
       "summary": "Hegseth anuncia que no descarta una opción militar en La Habana y plantea operaciones en suelo colombiano. La estrategia de Trump para controlar la región choca con la resistencia de México y la sumisión de Centroamérica",
       "url": "https://elpais.com/america/2026-08-14/ee-uu-reafirma-en-colombia-y-cuba-la-disposicion-de-su-ejercito-a-intervenir-en-latinoamerica-en-defensa-de-sus-intereses.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WB3FMTCTO5LL3IK5GEHRCHO5ZY.jpg?auth=431b0ac7044557ed7147b5c69836317d3762f5762511c06c0fdeb36f83947e31",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1204142_225229_video_1800.mp4",
       "published_at": "2026-08-14T03:30:00+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -1589,59 +1757,25 @@
       "editorial_version": 2
     },
     {
-      "id": "ae4d19ef4a56",
+      "id": "43b96c2d6254",
       "source": "La Vanguardia",
-      "title": "Ferran Torres, al PSG por casi 50 millones",
-      "summary": "El Barça y el conjunto parisino han alcanzado un principio de acuerdo para la venta del valenciano",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613470/ferran-torres-psg-50-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/26/6a6679cb059fc.r_d.1044-682-0.jpeg",
-      "published_at": "2026-08-13T20:04:12+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "انتقال فران تورس به پاری سن ژرمن با توافق اولیه بارسلونا",
-      "lead_fa": "باشگاه بارسلونا و پاری سن ژرمن بر سر انتقال فران تورس به توافق اولیه رسیدند. ارزش این قرارداد نزدیک به ۵۰ میلیون یورو برآورد شده است.",
-      "key_points_fa": [
-        "توافق اولیه میان بارسلونا و پاری سن ژرمن حاصل شد.",
-        "مبلغ این انتقال در حدود ۵۰ میلیون یورو است."
-      ],
-      "analysis_fa": "این توافق اولیه نشان‌دهنده تلاش بارسلونا برای مدیریت منابع مالی و ایجاد تغییرات در ترکیب تیم است. در صورت نهایی شدن این قرارداد، پاری سن ژرمن خط حمله خود را با جذب این بازیکن اسپانیایی تقویت خواهد کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فران_تورس",
-        "#بارسلونا",
-        "#پاری_سن_ژرمن",
-        "#نقل_وانتقالات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "957ca6ab2d23",
-      "source": "La Vanguardia",
-      "title": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
-      "summary": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613485/joven-electrocutado-eclipse-techo-tren-altafulla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1684eac0d.r_d.450-800-0.jpeg",
-      "published_at": "2026-08-13T21:22:44+02:00",
-      "category": "sociedad",
+      "title": "La huelga de Groundforce deja ya 3.000 maletas en tierra en El Prat",
+      "summary": "El paro suma entre 150 y 170 vuelos cancelados, 18 solo este jueves, mientras empresa y trabajadores llevan sin reunirse desde el 24 de julio",
+      "url": "https://www.lavanguardia.com/economia/20260813/11613229/huelga-groundforce-deja-3-000-maletas-tierra-aeropuerto-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d94765d52d.r_d.3504-2336-0.jpeg",
+      "published_at": "2026-08-13T12:47:31+02:00",
+      "category": "economia",
       "priority": 69,
-      "title_fa": "برق‌گرفتگی یک جوان حین تماشای خورشیدگرفتگی از روی قطار",
-      "lead_fa": "یک جوان در شهر آلتافولیا اسپانیا برای تماشای بهتر خورشیدگرفتگی از واگن باری یک قطار متوقف‌شده بالا رفت. او بر اثر تماس با کابل‌های فشارقوی دچار برق‌گرفتگی شدید شد و تا آستانه مرگ پیش رفت.",
-      "key_points_fa": [
-        "حادثه در شهر آلتافولیا و روی یک قطار باری متوقف‌شده رخ داد.",
-        "جوان مصدوم قصد داشت دید بهتری برای تماشای خورشیدگرفتگی داشته باشد.",
-        "او به دلیل تخلیه الکتریکی کابل‌های بالای قطار (کاترناری) دچار برق‌گرفتگی شدید شد."
-      ],
-      "analysis_fa": "این حادثه بار دیگر خطرات ناشی از بی‌توجهی به حریم خطوط راه‌آهن و تأسیسات ولتاژ بالا را برجسته می‌کند. صعود به سقف واگن‌ها به دلیل وجود کابل‌های هوایی پرفشار همواره با خطر مرگ حتمی یا جراحات جبران‌ناپذیر همراه است و نیاز به آگاهی‌بخشی عمومی درباره خطرات فعالیت‌های پرخطر در حریم راه‌آهن را نشان می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "La huelga de Groundforce deja ya 3.000 maletas en tierra en El Prat",
+      "lead_fa": "El paro suma entre 150 y 170 vuelos cancelados, 18 solo este jueves, mientras empresa y trabajadores llevan sin reunirse desde el 24 de julio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#رای_آهن"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1790,61 +1924,17 @@
       "editorial_version": 2
     },
     {
-      "id": "f2065dfcc18a",
+      "id": "47e287507290",
       "source": "La Vanguardia",
-      "title": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
-      "summary": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613428/hallan-tesoro-oculto-9-millones-euros-obras-edificio-flandes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925e442a2929.jpeg",
-      "published_at": "2026-08-13T18:25:09+02:00",
+      "title": "El Etna despierta y ofrece un espectáculo de fuego a los excursionistas",
+      "summary": "Con unos 3.350 metros de altura, el Etna es el volcán más activo de Europa",
+      "url": "https://www.lavanguardia.com/internacional/20260813/11613353/etna-italia-volcan-fuego-lava-excursionistas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dd53b816e1.jpeg",
+      "published_at": "2026-08-13T16:31:39+02:00",
       "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Hallan un tesoro oculto de nueve millones de euros en las obras de un edificio en Flandes",
-      "lead_fa": "Las monedas y lingotes de oro se encontraban dentro de un cofre oculto tras las paredes del sótano del edificio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fedb46a0ae76",
-      "source": "La Vanguardia",
-      "title": "Prisión provisional para los dos detenidos por el crimen de Tauste",
-      "summary": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
-      "url": "https://www.lavanguardia.com/local/aragon/20260813/11613418/prision-provisional-dos-detenidos-crimen-tauste.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c1a10bebc.r_d.1171-949-0.jpeg",
-      "published_at": "2026-08-13T18:17:50+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Prisión provisional para los dos detenidos por el crimen de Tauste",
-      "lead_fa": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b449c7131bbe",
-      "source": "La Vanguardia",
-      "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
-      "summary": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613227/eclipse-registra-incidencias-leves-residuales-pais.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d91b4a4a1f.r_d.1200-1200-0.jpeg",
-      "published_at": "2026-08-13T16:37:27+02:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
-      "lead_fa": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales",
+      "priority": 65,
+      "title_fa": "El Etna despierta y ofrece un espectáculo de fuego a los excursionistas",
+      "lead_fa": "Con unos 3.350 metros de altura, el Etna es el volcán más activo de Europa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1878,39 +1968,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d4d6d2fb194e",
+      "id": "d0f787087579",
       "source": "La Vanguardia",
-      "title": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
-      "summary": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
-      "url": "https://www.lavanguardia.com/cultura/20260813/11613240/habia-barcos-mamuts-descenso-nivel-rio-danubio-descubre-cuerpo-dos-soldados-nazis-segunda-guerra-mundial-ola-calor.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7da2882dfc4.r_d.719-443-0.jpeg",
-      "published_at": "2026-08-13T13:33:14+02:00",
+      "title": "De la normalización de procesos al gemelo digital: la estrategia digital de Cellnex",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/dinero/20260813/11613300/normalizacion-procesos-gemelo-digital-estrategia-digital-cellnex-europa-brl.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7db9edb9041.jpeg",
+      "published_at": "2026-08-13T14:36:41+02:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "La sequía en el Danubio descubre los cadáveres de dos soldados nazis",
-      "lead_fa": "Los restos estaban junto a una motocicleta militar, minas antitanque y dos placas de identificación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "327bec270693",
-      "source": "La Vanguardia",
-      "title": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
-      "summary": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613264/manhester-city-rechaza-oferta-barca-80-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dbb1d7a709.jpeg",
-      "published_at": "2026-08-13T13:28:58+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "El City, inflexible, rechaza la última oferta del Barça por Rodri y se planta en los 80 millones",
-      "lead_fa": "'The Times' asegura que los británicos siguen sin ceder en la negociación",
+      "title_fa": "De la normalización de procesos al gemelo digital: la estrategia digital de Cellnex",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1944,72 +2012,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef1e39de2edf",
-      "source": "La Vanguardia",
-      "title": "Anoche pudimos tocar a Dios",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/cultura/20260813/11613222/anoche-pudimos-tocar-dios-david-ucles-cronica-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7da3dd5928f.r_d.1096-619-0.jpeg",
-      "published_at": "2026-08-13T13:08:25+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Anoche pudimos tocar a Dios",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "93b2e3457384",
-      "source": "La Vanguardia",
-      "title": "El espectáculo del eclipse no se detiene en el 2026: dónde y cuándo observarlo en los próximos años",
-      "summary": "El evento astronómico que hizo levantar la mirada a millones de personas se repetirá en modalidades, horarios y lugares diferentes",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613205/espectaculo-eclipse-detiene-2026-donde-cuando-observarlo-proximos-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d9b522d9c3.r_d.3939-2477-0.jpeg",
-      "published_at": "2026-08-13T13:05:40+02:00",
-      "category": "ciencia",
-      "priority": 65,
-      "title_fa": "El espectáculo del eclipse no se detiene en el 2026: dónde y cuándo observarlo en los próximos años",
-      "lead_fa": "El evento astronómico que hizo levantar la mirada a millones de personas se repetirá en modalidades, horarios y lugares diferentes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "941c27b842bc",
-      "source": "La Vanguardia",
-      "title": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
-      "summary": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260813/11613228/ines-garcia-viste-barbie-cumpleanos-lamine-yamal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/20/6a5db32ed6079.r_d.2267-1412-0.jpeg",
-      "published_at": "2026-08-13T12:52:57+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Inés García se viste de Barbie para el cumpleaños de Lamine Yamal",
-      "lead_fa": "La ‘influencer’ sevillana elige un minivestido de la marca que arrasa entre artistas como Karol G, Aitana y Bad Gyal",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a678c65944db",
       "source": "EL PAÍS España",
       "title": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitante del PSOE",
@@ -2032,17 +2034,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d1b4c8863474",
+      "id": "d03cb246cd57",
       "source": "La Vanguardia",
-      "title": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
-      "summary": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
-      "url": "https://www.lavanguardia.com/natural/20260813/11613213/caudal-danubio-obliga-rumania-cerrar-unica-central-nuclear.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d9cc72ec3d.r_d.480-319-0.jpeg",
-      "published_at": "2026-08-13T12:34:37+02:00",
-      "category": "deportes",
-      "priority": 65,
-      "title_fa": "El bajo caudal del Danubio obliga a Rumanía a cerrar su única central nuclear",
-      "lead_fa": "La sequía que afecta al río ya la obligó a desconectar un reactor a finales de julio",
+      "title": "El Jamboree reducirá su programación propia de conciertos por los costes y las normativas",
+      "summary": "La sala de la plaza Reial apostará por el alquiler de la sala o con un porcentaje de 70/30 en taquilla",
+      "url": "https://www.lavanguardia.com/cultura/20260813/11613194/jamboree-dejara-programar-conciertos-propios-costes-normativas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/08/6895f93f7cf0c.r_d.4108-2512-0.jpeg",
+      "published_at": "2026-08-13T12:20:47+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "El Jamboree reducirá su programación propia de conciertos por los costes y las normativas",
+      "lead_fa": "La sala de la plaza Reial apostará por el alquiler de la sala o con un porcentaje de 70/30 en taquilla",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2062,53 +2064,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Z2IMDSUEPBAKTOLWOZJ2BJIIKY.jpg?auth=8cab6762a7dfbb722a789d1ddd090c5c9c5a91264228f878a69736e909339b11",
       "published_at": "2026-08-13T12:00:58+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Tráfico prevé 5,6 millones de desplazamientos este fin de semana",
       "lead_fa": "El alto número de fiestas patronales y el cambio de quincena son los principales factores del alto número de movimientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9a6199844e36",
-      "source": "La Vanguardia",
-      "title": "Acusan de asesinato con agravante de acecho a Nick Reiner por la muerte de sus padres",
-      "summary": "El hijo de Rob y Michele Reiner se enfrentará a cadena perpetua o pena de muerte",
-      "url": "https://www.lavanguardia.com/gente/20260813/11613146/acusan-asesinato-agravante-acecho-nick-reiner-muerte-padres.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7db7f642038.jpeg",
-      "published_at": "2026-08-13T11:23:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Acusan de asesinato con agravante de acecho a Nick Reiner por la muerte de sus padres",
-      "lead_fa": "El hijo de Rob y Michele Reiner se enfrentará a cadena perpetua o pena de muerte",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "40b4f74b42ae",
-      "source": "La Vanguardia",
-      "title": "Las mejores fotografías del eclipse solar tomadas por los lectores",
-      "summary": "Así vivieron los lectores de 'La Vanguardia' el eclipse del 12 de agosto de 2026",
-      "url": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260813/11604660/mejores-imagenes-eclipse-solar.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d76f33e326.r_d.1519-1215-0.jpeg",
-      "published_at": "2026-08-13T10:01:51+02:00",
-      "category": "ciencia",
-      "priority": 64,
-      "title_fa": "Las mejores fotografías del eclipse solar tomadas por los lectores",
-      "lead_fa": "Así vivieron los lectores de 'La Vanguardia' el eclipse del 12 de agosto de 2026",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2142,17 +2100,39 @@
       "editorial_version": 2
     },
     {
-      "id": "31d00bba544e",
+      "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
-      "title": "La espectacular acrobacia del skater Danny León durante el eclipse",
-      "summary": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
-      "url": "https://www.lavanguardia.com/vida/20260813/11613075/espectacular-acrobacia-skater-danny-leon-eclipse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d7e2304aa3.jpeg",
-      "published_at": "2026-08-13T09:47:49+02:00",
-      "category": "ciencia",
-      "priority": 64,
-      "title_fa": "La espectacular acrobacia del skater Danny León durante el eclipse",
-      "lead_fa": "El atleta profesional se lució en un salto perfecto que se hizo viral en las redes",
+      "title": "Los últimos campistas de la autovía de Castelldefels",
+      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
+      "published_at": "2026-08-13T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
+      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "42808db73482",
+      "source": "La Vanguardia",
+      "title": "“Es cierto que estamos hechos de polvo de estrellas, en especial binarias”",
+      "summary": "Sus estudios sobre supernovas o fusiones estelares le han valido el Premi Nacional de Recerca al Talent Jove 2025",
+      "url": "https://www.lavanguardia.com/vida/20260813/11579015/hechos-polvo-estrellas-especial-binarias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/30/6a4371a5af14c.r_d.3064-2718-0.jpeg",
+      "published_at": "2026-08-13T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "“Es cierto que estamos hechos de polvo de estrellas, en especial binarias”",
+      "lead_fa": "Sus estudios sobre supernovas o fusiones estelares le han valido el Premi Nacional de Recerca al Talent Jove 2025",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2172,31 +2152,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
       "published_at": "2026-08-13T05:30:00+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
       "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "983dc2af53ce",
-      "source": "La Vanguardia",
-      "title": "Málaga, Sevilla o Valencia en 48 horas: el verano sí cabe en un fin de semana",
-      "summary": "¿No tienes planeadas tus vacaciones este agosto? Puede que no las necesites, al menos no todas de golpe. Con un viernes libre por la tarde y un tren de alta velocidad, Málaga, Sevilla o Valencia caben enteras en dos días",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260813/11609034/malaga-sevilla-valencia-48-horas-verano-semana-brl.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a746e4b961ae.r_d.4358-1935-0.jpeg",
-      "published_at": "2026-08-13T05:55:00+02:00",
-      "category": "turismo",
-      "priority": 62,
-      "title_fa": "Málaga, Sevilla o Valencia en 48 horas: el verano sí cabe en un fin de semana",
-      "lead_fa": "¿No tienes planeadas tus vacaciones este agosto? Puede que no las necesites, al menos no todas de golpe. Con un viernes libre por la tarde y un tren de alta velocidad, Málaga, Sevilla o Valencia caben enteras en dos días",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2274,72 +2232,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ab40bdd10d5a",
-      "source": "La Vanguardia",
-      "title": "OKM, la empresa de Girona que ha convertido la ortopedia en un negocio global",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/economia/20260812/11612636/okm-empresa-girona-convertido-ortopedia-negocio-global.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4cc0fd10961.r_d.884-730-0.jpeg",
-      "published_at": "2026-08-12T13:13:41+02:00",
-      "category": "economia",
-      "priority": 62,
-      "title_fa": "OKM, la empresa de Girona que ha convertido la ortopedia en un negocio global",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "98979a985e08",
-      "source": "La Vanguardia",
-      "title": "Eclipse en la Mar Bella",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260812/11612913/eclipse-mar-bella.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7ceb2798c2a.jpeg",
-      "published_at": "2026-08-12T23:52:39+02:00",
-      "category": "ciencia",
-      "priority": 60,
-      "title_fa": "Eclipse en la Mar Bella",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f2b485349543",
-      "source": "La Vanguardia",
-      "title": "Las imágenes más espectaculares del regalo de la Luna",
-      "summary": "El fenómeno generó mucha expectación, puesto que el cielo ofreció un espectáculo que en España no se contemplaba desde hacía más de un siglo",
-      "url": "https://www.lavanguardia.com/vida/20260812/11612791/primeras-imagenes-deja-eclipse-solar-sobre-peninsula.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cbfb3da8be.jpeg",
-      "published_at": "2026-08-12T18:54:33+02:00",
-      "category": "sociedad",
-      "priority": 59,
-      "title_fa": "Las imágenes más espectaculares del regalo de la Luna",
-      "lead_fa": "El fenómeno generó mucha expectación, puesto que el cielo ofreció un espectáculo que en España no se contemplaba desde hacía más de un siglo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "100ab8207d15",
       "source": "EL PAÍS Economía",
       "title": "Las comunidades autónomas triplicarán el pago de intereses por la deuda hasta 2029",
@@ -2362,31 +2254,25 @@
       "editorial_version": 2
     },
     {
-      "id": "b6bb33bc8783",
+      "id": "cca12053fc8a",
       "source": "La Vanguardia",
-      "title": "Ariana Grande hace oficial su relación con Ricky Álvarez tras una década separados",
-      "summary": "La cantante ha compartido varias imágenes junto al bailarín y fotógrafo, con quien mantuvo un noviazgo entre 2015 y 2016, después de varias semanas de rumores sobre su acercamiento",
-      "url": "https://www.lavanguardia.com/gente/20260813/11613414/ariana-grande-oficial-relacion-ricky-alvarez-decada-separados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a725a3103de5.jpeg",
-      "published_at": "2026-08-13T18:24:23+02:00",
-      "category": "cultura",
-      "priority": 20,
-      "title_fa": "آریانا گرانده رابطه خود با ریکی آلوارز را رسمی کرد",
-      "lead_fa": "این خواننده تصاویری از خود و این رقصنده و عکاس را منتشر کرد. آنها پیش‌تر بین سال‌های ۲۰۱۵ تا ۲۰۱۶ با یکدیگر رابطه داشتند.",
-      "key_points_fa": [
-        "انتشار تصاویر مشترک توسط آریانا گرانده",
-        "تایید رابطه پس از چند هفته شایعه",
-        "سابقه رابطه قبلی در سال‌های ۲۰۱۵ و ۲۰۱۶"
-      ],
-      "analysis_fa": "رسمی شدن این رابطه پس از سال‌ها جدایی، بازتاب گسترده‌ای در رسانه‌های سرگرمی داشته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title": "En Santa Susanna, tres meses al año",
+      "summary": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260812/11612038/santa-susanna-tres-meses-ano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b0d3d8cf7e.r_d.426-272-0.jpeg",
+      "published_at": "2026-08-12T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 54,
+      "title_fa": "En Santa Susanna, tres meses al año",
+      "lead_fa": "Santa Susanna ha enganchado a esta familia holandesa, cuyas tres generaciones repiten vacaciones en el mismo enclave del Maresme",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#آریاناگرانده",
-        "#ریکیآلوارز",
-        "#اخبارسلبریتی"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     }
   ],
@@ -2419,7 +2305,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 147
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
@@ -2434,7 +2320,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 145
+      "count": 132
     }
   ]
 }
