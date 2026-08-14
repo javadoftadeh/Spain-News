@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:02:56.351837+00:00",
+  "generated_at": "2026-08-14T17:07:20.688581+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "9715c8de332a",
@@ -41,8 +41,8 @@
     {
       "id": "a6e7a57bcccd",
       "source": "EL PAÍS",
-      "title": "Los Bomberos trabajan en un incendio en el parque de Collserola (Barcelona)",
-      "summary": "Emergencias ha recibido el aviso por el fuego a las 15.35 horas en el municipio de Esplugues de Llobregat",
+      "title": "Los Bomberos estabilizan el incendio en el parque de Collserola (Barcelona) tras quemar 10 hectáreas",
+      "summary": "El Ayuntamiento de Esplugues de Llobregat mantiene el confinamiento preventivo de los vecinos del barrio de Can Caralleu",
       "url": "https://elpais.com/espana/catalunya/2026-08-14/los-bomberos-trabajan-en-un-incendio-en-el-parque-de-collserola-en-esplugues-de-llobregat.html",
       "image": "https://imagenes.elpais.com/resizer/v2/O2A3KICFSVDZHM3YOPSNH624G4.jpg?auth=d813bc3dff7706813f10e26825eb3f195dadc92f425094289c58b237535af137",
       "published_at": "2026-08-14T14:22:44+00:00",
@@ -215,7 +215,7 @@
     {
       "id": "fb2a16e76ac2",
       "source": "La Vanguardia",
-      "title": "Incendio en Collserola | Cortes en la Rabassada y restricciones en la carretera de Vallvidrera",
+      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
       "summary": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f2eeef2c47.jpeg",
@@ -235,6 +235,33 @@
       "hashtags_fa": [
         "#بارسلونا",
         "#آتش‌سوزی",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3d389de6aefd",
+      "source": "EL PAÍS",
+      "title": "Finlay Tarling, ciclista galés de 19 años, muere atropellado durante la Vuelta a Portugal",
+      "summary": "Un coche invadió la carretera en sentido contrario cuando participaba en la prueba",
+      "url": "https://elpais.com/deportes/2026-08-14/finlay-tarling-ciclista-gales-de-19-anos-muere-atropellado-durante-la-vuelta-a-portugal.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2BB4BY3Y45AAZD53CB25ZWSCYU.jpg?auth=7f7ece1dd668d35a27fecc9916d537905b4f2e7660ed2b34e290fdb5fa8ec922",
+      "published_at": "2026-08-14T16:31:36+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "مرگ فینلی تارلینگ، دوچرخه‌سوار ۱۹ ساله، در تصادف تور پرتغال",
+      "lead_fa": "فینلی تارلینگ، دوچرخه‌سوار ۱۹ ساله اهل ولز، در جریان مسابقات تور پرتغال براثر تصادف جان باخت. خودرویی در جهت مخالف وارد مسیر مسابقه شده بود.",
+      "key_points_fa": [
+        "فینلی تارلینگ، رکابزن ۱۹ ساله ولزی، در تور پرتغال درگذشت.",
+        "حادثه زمانی رخ داد که یک خودرو به طور خلاف جهت وارد جاده محل برگزاری مسابقه شد."
+      ],
+      "analysis_fa": "این حادثه بار دیگر نگرانی‌ها درباره امنیت ورزشکاران در جاده‌های باز و ضعف در ایمنی مسیر مسابقات دوچرخه‌سواری را افزایش داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#دوچرخه‌سواری",
+        "#حوادث",
         "#اسپانیا"
       ],
       "ai_translated": true,
@@ -269,10 +296,38 @@
       "editorial_version": 2
     },
     {
+      "id": "2f27df9b6f6a",
+      "source": "EL PAÍS",
+      "title": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
+      "summary": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 83 departamentos del país están en alerta",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/francia-encara-su-quinta-ola-de-calor-en-el-peor-verano-desde-que-hay-registros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPUYSYYG2FMG5L6TD5UIANLWQY.jpg?auth=8f2693646ed7ab3e73a2418c790daff2473637bedca8e80d597d6632d35b689c",
+      "published_at": "2026-08-14T16:15:09+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "فرانسه با پنجمین موج گرما در بدترین تابستان ثبت‌شده روبه‌روست",
+      "lead_fa": "فرانسه هفدهمین روز متوالی از دمای بسیار بالا را تجربه می‌کند. در حال حاضر ۸۳ دپارتمان این کشور در حالت آماده‌باش قرار دارند.",
+      "key_points_fa": [
+        "ثبت ۱۷ روز متوالی با دمای بسیار بالا در سراسر فرانسه",
+        "قرار داشتن ۸۳ دپارتمان در وضعیت هشدار گرما",
+        "این دوره به عنوان بدترین تابستان از زمان ثبت رکوردها ارزیابی می‌شود"
+      ],
+      "analysis_fa": "تداوم امواج گرما در تابستان امسال نشان‌دهنده استمرار الگوهای آب‌وهوایی جدید در اروپای غربی است که فشار زیادی بر زیرساخت‌ها و خدمات emergency وارد می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#فرانسه",
+        "#موج_گرما",
+        "#آب_وهوا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "ad8da46bb0cc",
       "source": "La Vanguardia",
-      "title": "Declarado un incendio forestal en Collserola (Barcelona)",
-      "summary": "Unas 20 dotaciones trabajan en la extinción del fuego que ha generado una gran columna de humo visible desde distintos puntos de la ciudad",
+      "title": "Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu",
+      "summary": "Las llamas han empezado por encima de la avenida Pearson, justo detrás del hospital de Sant Joan de Déu, en el límite con el término municipal de Esplugues de Llobregat",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f293661270.jpeg",
       "published_at": "2026-08-14T16:13:28+02:00",
@@ -335,38 +390,22 @@
       "published_at": "2026-08-14T14:47:45+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Detenido un hombre con antecedentes por provocar un incendio en León",
-      "lead_fa": "El fuego arrasó 150 hectáreas y provocó que dos pueblos se evacuaran y dos se confinaran en julio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازداشت یک فرد سابقه دار به ارمغان آورنده آتش سوزی در لئون",
+      "lead_fa": "مردی با سابقه کیفری به اتهام ایجاد آتش سوزی در منطقه لئون بازداشت شد. این آتش سوزی در ماه ژوئیه ۱۵۰ هکتار از اراضی را از بین برد.",
+      "key_points_fa": [
+        "سوختن ۱۵۰ هکتار اراضی در آتش سوزی ماه ژوئیه",
+        "تخلیه اضطراری دو روستا و قرنطینه دو روستای دیگر",
+        "بازداشت مظنون با سابقه کیفری مرتبط با آتش سوزی"
+      ],
+      "analysis_fa": "آتش سوزی های جنگلی یکی از چالش های جدی محیط زیستی در اسپانیا است که معمولاً در فصل گرما خسارات قابل توجهی به بار می آورد. برخورد قضایی با عوامل انسانی این حوادث از اقدامات بازدارنده مقامات محلی محسوب می شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#لئون"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2f27df9b6f6a",
-      "source": "EL PAÍS",
-      "title": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
-      "summary": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 75 departamentos del país están en alerta",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-14/francia-encara-su-quinta-ola-de-calor-en-el-peor-verano-desde-que-hay-registros.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EPUYSYYG2FMG5L6TD5UIANLWQY.jpg?auth=8f2693646ed7ab3e73a2418c790daff2473637bedca8e80d597d6632d35b689c",
-      "published_at": "2026-08-14T14:10:12+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "Francia encara su quinta ola de calor en el peor verano desde que hay registros",
-      "lead_fa": "El país vive ya 17 días consecutivos con temperaturas extremadamente altas y un total de 75 departamentos del país están en alerta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -484,14 +523,14 @@
     {
       "id": "3ae8fc633ccf",
       "source": "La Vanguardia",
-      "title": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
+      "title": "El Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
       "summary": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
       "url": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a36b1d69f89e.jpeg",
       "published_at": "2026-08-14T16:08:27+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
+      "title_fa": "El Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
       "lead_fa": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -554,28 +593,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cc8caed4e3e6",
-      "source": "EL PAÍS",
-      "title": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
-      "summary": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
-      "url": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XD4POGJGCBARXOMSJU4HIP43VU.jpg?auth=258d03adab93e997bab0ead7fb20d8d2aee50f393423492177650df01228a55d",
-      "published_at": "2026-08-14T13:56:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
-      "lead_fa": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f2912f97c13c",
       "source": "La Vanguardia",
       "title": "El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”",
@@ -602,50 +619,6 @@
         "#پناهندگی"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5510bfd4d0a9",
-      "source": "EL PAÍS",
-      "title": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
-      "summary": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
-      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
-      "published_at": "2026-08-14T13:39:29+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
-      "lead_fa": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a0458390bd96",
-      "source": "EL PAÍS",
-      "title": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
-      "summary": "Las autoridades buscan los restos del aparato, en una zona boscosa a unos 35 kilómetros de la frontera con Rusia",
-      "url": "https://elpais.com/internacional/2026-08-14/un-caza-italiano-bajo-mando-de-la-otan-derriba-un-dron-de-origen-desconocido-en-letonia.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204694_150124_video_1800.mp4",
-      "published_at": "2026-08-14T13:14:59+00:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
-      "lead_fa": "Las autoridades buscan los restos del aparato, en una zona boscosa a unos 35 kilómetros de la frontera con Rusia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -825,7 +798,7 @@
       "title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
       "summary": "Transición Ecológica mantiene el resto del calendario de cierres hasta 2035",
       "url": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EF6HTG5FBJAKNGUTDZ5MZ42SW4.jpg?auth=8ee064a0bc4b954a2831d673bacf94885372bb144e253ac07bb7da94158d586a",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204714_161231_video_1800.mp4",
       "published_at": "2026-08-14T06:41:50+00:00",
       "category": "politica",
       "priority": 75,
@@ -850,7 +823,7 @@
     {
       "id": "630ce3876f92",
       "source": "La Vanguardia",
-      "title": "Rebelión en EE.UU. por las cámaras Flock que policías usan para extorsionar o perseguir",
+      "title": "Rebelión por las cámaras Flock que policías usan para extorsionar o perseguir",
       "summary": "Este sistema, que rastrea los movimientos de los vehículos, ofrece todo lujo de detalles de los ciudadanos sin orden judicial y ha provocado actos de violencia para su destrucción hasta el punto que la empresa ha anunciado garantías sobre la privacidad",
       "url": "https://www.lavanguardia.com/internacional/20260814/11613419/rebelion-ee-uu-camaras-flock-policias-extorsiones-amorosas-perseguir-abortistas.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ebcfd056ec.jpeg",
@@ -957,6 +930,72 @@
         "#اقتصاد_اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "cc8caed4e3e6",
+      "source": "EL PAÍS",
+      "title": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
+      "summary": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
+      "url": "https://elpais.com/espana/2026-08-14/casas-a-10000-euros-la-noche-el-precio-de-los-alojamientos-para-el-eclipse-de-2027-se-desmadra-en-andalucia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XD4POGJGCBARXOMSJU4HIP43VU.jpg?auth=258d03adab93e997bab0ead7fb20d8d2aee50f393423492177650df01228a55d",
+      "published_at": "2026-08-14T13:56:01+00:00",
+      "category": "economia",
+      "priority": 74,
+      "title_fa": "Casas a 10.000 euros la noche: el precio de los alojamientos para el eclipse de 2027 se desmadra en Andalucía",
+      "lead_fa": "La disponibilidad de apartamentos, hostales o habitaciones de hotel es ya escasa en Málaga, Almería, Granada y Cádiz, donde los costes se han disparado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5510bfd4d0a9",
+      "source": "EL PAÍS",
+      "title": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "summary": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "published_at": "2026-08-14T13:39:29+00:00",
+      "category": "economia",
+      "priority": 74,
+      "title_fa": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "lead_fa": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0458390bd96",
+      "source": "EL PAÍS",
+      "title": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
+      "summary": "Las autoridades buscan los restos del aparato, en una zona boscosa a unos 35 kilómetros de la frontera con Rusia",
+      "url": "https://elpais.com/internacional/2026-08-14/un-caza-italiano-bajo-mando-de-la-otan-derriba-un-dron-de-origen-desconocido-en-letonia.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204694_150124_video_1800.mp4",
+      "published_at": "2026-08-14T13:14:59+00:00",
+      "category": "migracion",
+      "priority": 74,
+      "title_fa": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
+      "lead_fa": "Las autoridades buscan los restos del aparato, en una zona boscosa a unos 35 kilómetros de la frontera con Rusia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1265,28 +1304,6 @@
       "editorial_version": 2
     },
     {
-      "id": "243f23fe42c4",
-      "source": "EL PAÍS",
-      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DEQHZ4MV6RAX7ITWNU7IOPGWNE.jpg?auth=2e3f6dac7450e927d69481e02b0cb12b6dba130d319ad54394474189b3b5ba6b",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "752c79153380",
       "source": "EL PAÍS Economía",
       "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
@@ -1298,6 +1315,28 @@
       "priority": 71,
       "title_fa": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
       "lead_fa": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "243f23fe42c4",
+      "source": "EL PAÍS Economía",
+      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DEQHZ4MV6RAX7ITWNU7IOPGWNE.jpg?auth=2e3f6dac7450e927d69481e02b0cb12b6dba130d319ad54394474189b3b5ba6b",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1408,28 +1447,6 @@
       "priority": 70,
       "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
       "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1538c51c3cd5",
-      "source": "EL PAÍS",
-      "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
-      "summary": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/hacinadas-drogadas-y-sometidas-con-ritos-de-santeria-asi-malvivian-las-victimas-de-una-red-de-prostitucion-desarticulada-en-soria-y-castellon.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204676_140440_video_1800.mp4",
-      "published_at": "2026-08-14T13:06:37+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
-      "lead_fa": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1557,17 +1574,17 @@
       "editorial_version": 2
     },
     {
-      "id": "0191f605f46a",
+      "id": "1538c51c3cd5",
       "source": "EL PAÍS",
-      "title": "El brote de ébola ya supera los 2.000 muertos y se extiende a seis provincias de RDC",
-      "summary": "La actual epidemia ya es la segunda con más contagios registrados de la historia y la que tiene un crecimiento más rápido de contagios",
-      "url": "https://elpais.com/sociedad/2026-08-14/el-brote-de-ebola-ya-supera-los-2000-muertos-y-se-extiende-a-seis-provincias-de-rdc.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AXJRZY7IRVBHFHI7UFRF3VBBTE.jpg?auth=e390c89a16dc18571e40c9d1e8762399c6f8f73e53aa6ad651c46034d4b1fa32",
-      "published_at": "2026-08-14T12:55:11+00:00",
+      "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
+      "summary": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/hacinadas-drogadas-y-sometidas-con-ritos-de-santeria-asi-malvivian-las-victimas-de-una-red-de-prostitucion-desarticulada-en-soria-y-castellon.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204676_140440_video_1800.mp4",
+      "published_at": "2026-08-14T13:06:37+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El brote de ébola ya supera los 2.000 muertos y se extiende a seis provincias de RDC",
-      "lead_fa": "La actual epidemia ya es la segunda con más contagios registrados de la historia y la que tiene un crecimiento más rápido de contagios",
+      "title_fa": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
+      "lead_fa": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1579,17 +1596,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a7b69c594378",
-      "source": "La Vanguardia",
-      "title": "Selena Gomez, demandada por fraude",
-      "summary": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
-      "url": "https://www.lavanguardia.com/gente/20260814/11613850/selena-gomez-demandada-fraude.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/03/03/67c5a08cae024.r_d.4155-2016-0.jpeg",
-      "published_at": "2026-08-14T12:42:47+02:00",
+      "id": "0191f605f46a",
+      "source": "EL PAÍS",
+      "title": "El brote de ébola ya supera los 2.000 muertos y se extiende a seis provincias de RDC",
+      "summary": "La actual epidemia ya es la segunda con más contagios registrados de la historia y la que tiene un crecimiento más rápido de contagios",
+      "url": "https://elpais.com/sociedad/2026-08-14/el-brote-de-ebola-ya-supera-los-2000-muertos-y-se-extiende-a-seis-provincias-de-rdc.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AXJRZY7IRVBHFHI7UFRF3VBBTE.jpg?auth=e390c89a16dc18571e40c9d1e8762399c6f8f73e53aa6ad651c46034d4b1fa32",
+      "published_at": "2026-08-14T12:55:11+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Selena Gomez, demandada por fraude",
-      "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "title_fa": "El brote de ébola ya supera los 2.000 muertos y se extiende a seis provincias de RDC",
+      "lead_fa": "La actual epidemia ya es la segunda con más contagios registrados de la historia y la que tiene un crecimiento más rápido de contagios",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1674,6 +1691,28 @@
       "editorial_version": 2
     },
     {
+      "id": "a7b69c594378",
+      "source": "La Vanguardia",
+      "title": "Selena Gomez, demandada por fraude",
+      "summary": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "url": "https://www.lavanguardia.com/gente/20260814/11613850/selena-gomez-demandada-fraude.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/03/03/67c5a08cae024.r_d.4155-2016-0.jpeg",
+      "published_at": "2026-08-14T12:42:47+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Selena Gomez, demandada por fraude",
+      "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "790f73f12cb4",
       "source": "La Vanguardia",
       "title": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
@@ -1726,7 +1765,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69",
       "published_at": "2026-08-14T07:17:54+00:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
       "lead_fa": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
       "key_points_fa": [],
