@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T10:37:35.067681+00:00",
+  "generated_at": "2026-08-14T11:24:17.757665+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "3a5d5f3166cd",
     "5c578267fa51",
     "fb3fa10900eb",
-    "1b9fc33574b1",
-    "fe1948b1ac25"
+    "cf54e1a38ecb",
+    "1b9fc33574b1"
   ],
   "items": [
     {
@@ -71,7 +71,7 @@
       "id": "fb3fa10900eb",
       "source": "La Vanguardia",
       "title": "El Gobierno amplía la vida de Almaraz hasta el 2030 aludiendo a la crisis en Oriente Medio",
-      "summary": "Asegura que no cambia el calendario de cierres hasta el 2035 mientras Sumar dice que la decisión es “al servicio del oligopolio” y Foment pide que apliquen los mismos criterios técnicos para las plantas catalanas",
+      "summary": "Asegura que no cambia el calendario de cierres hasta el 2035 mientras Sumar dice que la decisión es “al servicio del oligopolio” y Foment pide aplicar los mismos criterios técnicos para las plantas catalanas",
       "url": "https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ed10d4e0b7.r_d.1132-587-0.jpeg",
       "published_at": "2026-08-14T09:00:15+02:00",
@@ -93,6 +93,35 @@
         "#انرژی_هسته‌ای",
         "#آلماراز",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf54e1a38ecb",
+      "source": "EL PAÍS",
+      "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras arrasar 31.000 hectáreas",
+      "summary": "El incendio está entre “los más extensos y peligrosos de la historia”, según la Junta de Andalucía",
+      "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
+      "published_at": "2026-08-14T10:38:04+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "ادامه آتش‌سوزی مهارنشده در هوئلوا با سوزاندن بیش از ۳۱ هزار هکتار",
+      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا در استان هوئلوا همچنان خارج از کنترل است. رئیس دولت محلی آندلس از محل فرماندهی عملیات بازدید می‌کند.",
+      "key_points_fa": [
+        "بیش از ۳۱ هزار هکتار اراضی در آتش سوخته است.",
+        "۶۵۸ نفر به دلیل خطر آتش‌سوزی تخلیه شده‌اند.",
+        "رئیس دولت محلی آندلس از منطقه بحرانی بازدید می‌کند."
+      ],
+      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی شدید در منطقه است که نیازمند بسیج امکانات گسترده برای مهار و ارزیابی خسارات زیست‌محیطی خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#هوئلوا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -183,38 +212,9 @@
       "editorial_version": 2
     },
     {
-      "id": "cf54e1a38ecb",
-      "source": "EL PAÍS",
-      "title": "El fuego en Niebla (Huelva) continúa fuera de control tras arrasar más de 31.000 hectáreas",
-      "summary": "El presidente de la Junta de Andalucía visita este viernes el puesto de mando avanzado del incendio por el que permanecen desalojadas 658 personas",
-      "url": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4",
-      "published_at": "2026-08-14T08:41:29+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "ادامه آتش‌سوزی مهارنشده در هوئلوا با سوزاندن بیش از ۳۱ هزار هکتار",
-      "lead_fa": "آتش‌سوزی گسترده در منطقه نیبلا در استان هوئلوا همچنان خارج از کنترل است. رئیس دولت محلی آندلس از محل فرماندهی عملیات بازدید می‌کند.",
-      "key_points_fa": [
-        "بیش از ۳۱ هزار هکتار اراضی در آتش سوخته است.",
-        "۶۵۸ نفر به دلیل خطر آتش‌سوزی تخلیه شده‌اند.",
-        "رئیس دولت محلی آندلس از منطقه بحرانی بازدید می‌کند."
-      ],
-      "analysis_fa": "این آتش‌سوزی یکی از حوادث طبیعی شدید در منطقه است که نیازمند بسیج امکانات گسترده برای مهار و ارزیابی خسارات زیست‌محیطی خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اسپانیا",
-        "#هوئلوا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e07d43fe918a",
       "source": "La Vanguardia",
-      "title": "Los incendios de Huelva y Huesca se complican con nuevas reproducciones durante la noche",
+      "title": "Los incendios de Huelva y Huesca se complican con nuevas reproducciones",
       "summary": "El incendio de Niebla, activo desde hace una semana, ya es el más grande de la historia de Andalucía",
       "url": "https://www.lavanguardia.com/natural/20260814/11613680/incendios-huelva-huesca-complican-nuevas-reproducciones-noche.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ed70f3f3b8.jpeg",
@@ -325,6 +325,35 @@
       "editorial_version": 2
     },
     {
+      "id": "ebcafeaabb40",
+      "source": "La Vanguardia",
+      "title": "Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno",
+      "summary": "El socio del Gobierno de coalición considera que es “una decisión al servicio del oligopolio”",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/17/6a5954e8b887c.r_d.1537-1104-0.jpeg",
+      "published_at": "2026-08-14T12:17:44+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "مخالفت سومار با تمدید فعالیت نیروگاه هسته‌ای آلماراز",
+      "lead_fa": "حزب سومار، شریک دولت ائتلافی اسپانیا، با تمدید فعالیت نیروگاه هسته‌ای آلماراز مخالفت کرد. این حزب معتقد است چنین تصمیمی در خدمت انحصارطلبی است.",
+      "key_points_fa": [
+        "مخالفت صریح سومار با تمدید فعالیت نیروگاه آلماراز",
+        "تاکید بر اینکه این تصمیم خلاف توافق‌های دولت است",
+        "توصیف تصمیم به عنوان اقدامی در خدمت الیگوپولی"
+      ],
+      "analysis_fa": "این موضع‌گیری شکاف‌های درون دولت ائتلافی اسپانیا بر سر سیاست‌های انرژی و آینده انرژی هسته‌ای را آشکار می‌کند. حزب سومار به عنوان جناح چپ ائتلاف، با منافع شرکت‌های بزرگ انرژی زاویه‌ای آشکار دارد و بر اجرای دقیق توافق‌های اولیه ائتلاف پافشاری می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سومار",
+        "#انرژی_هسته‌ای",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "7635d357bba5",
       "source": "La Vanguardia",
       "title": "La regularización impulsa el empleo extranjero a un récord de 3,5 millones",
@@ -354,17 +383,74 @@
       "editorial_version": 2
     },
     {
+      "id": "efe929e9d530",
+      "source": "EL PAÍS Economía",
+      "title": "La economía de la zona euro creció un 0,4% en el segundo trimestre pese a la debilidad alemana",
+      "summary": "El empleo en la UE apenas aumentó un 0,1% entre abril y junio",
+      "url": "https://elpais.com/economia/2026-08-14/la-economia-de-la-zona-euro-crecio-un-04-en-el-segundo-trimestre-pese-a-la-debilidad-alemana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I52EVMWP5BIQPJJVHDJNFJLKG4.jpg?auth=bd3dcf5d17bd132685282e6e6f833b4de12dabfa2482d24523dbfeb4c5ccf85a",
+      "published_at": "2026-08-14T11:10:59+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "رشد اقتصادی منطقه یورو در سه ماهه دوم علیرغم ضعف آلمان",
+      "lead_fa": "اقتصاد منطقه یورو در سه ماهه دوم سال جاری رشد ۰.۴ درصدی را ثبت کرد. این در حالی است که اشتغال در اتحادیه اروپا بین ماه‌های آوریل و ژوئن تنها ۰.۱ درصد افزایش یافت.",
+      "key_points_fa": [
+        "رشد ۰.۴ درصدی اقتصاد منطقه یورو در سه ماهه دوم",
+        "ادامه ضعف اقتصادی در آلمان",
+        "افزایش ناچیز معادل ۰.۱ درصد در آمار اشتغال اتحادیه اروپا"
+      ],
+      "analysis_fa": "آمار جدید نشان می‌دهد که اقتصاد منطقه یورو توانسته است علیرغم چالش‌ها و ضعف‌های ساختاری در اقتصاد آلمان، رشد مثبتی را تجربه کند. با این حال، کندی روند رشد اشتغال بیانگر تداوم احتیاط در بخش کسب‌وکار و بازار کار اروپا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اقتصاد",
+        "#یورو",
+        "#اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "1caa55f21b3d",
       "source": "La Vanguardia",
-      "title": "Marruecos y España blindan la frontera ante el llamamiento de un nuevo salto para mañana",
+      "title": "Marruecos y España blindan la frontera de Ceuta ante el llamamiento de un nuevo salto para mañana",
       "summary": "Ambos gobiernos refuerzan los operativos policiales y militares mientras Rabat mejora las barreras físicas en el litoral",
       "url": "https://www.lavanguardia.com/politica/20260814/11613753/marruecos-espana-blindan-frontera-ceuta-llamamiento-nuevo-salto-manana.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ed06d1b314.r_d.3135-1700-0.jpeg",
       "published_at": "2026-08-14T10:24:46+02:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "تقویت مرز سبته توسط اسپانیا و مراکش در پی فراخوان برای عبور غیرقانونی",
+      "lead_fa": "دولت‌های اسپانیا و مراکش اقدامات امنیتی و نظامی خود را در مرز سبته به شدت افزایش دادند. این اقدام پس از انتشار فراخوان‌هایی برای تلاش جدید جهت عبور از مرز صورت گرفته است.",
+      "key_points_fa": [
+        "تقویت نیروهای پلیس و ارتش در منطقه مرزی سبته",
+        "بهبود و تقویت موانع فیزیکی در خط ساحلی توسط مراکش",
+        "واکنش مشترک دو کشور به فراخوان‌های منتشر شده در شبکه‌های اجتماعی برای ورود غیرقانونی"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده همکاری امنیتی مستمر میان مادرید و رباط برای مدیریت جریان‌های مهاجرتی و جلوگیری از بحران‌های مرزی مشابه در گذشته است. همکاری دوجانبه در این منطقه استراتژیک برای کنترل فشارهای مهاجرتی به خاک اروپا از اهمیت بالایی برخوردار است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مراکش",
+        "#سبته",
+        "#مهاجرت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "95eb0341f1e0",
+      "source": "EL PAÍS",
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "summary": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
+      "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R55C5O3KXRFJVLX5ONIIJPDTB4.jpg?auth=f2f2636c65865a8411171d8a56641c097f87b3d2ed46bdcda6cd8d9a55a643db",
+      "published_at": "2026-08-14T09:39:41+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Marruecos y España blindan la frontera ante el llamamiento de un nuevo salto para mañana",
-      "lead_fa": "Ambos gobiernos refuerzan los operativos policiales y militares mientras Rabat mejora las barreras físicas en el litoral",
+      "title_fa": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "lead_fa": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -881,35 +967,6 @@
       "editorial_version": 2
     },
     {
-      "id": "348a40bef183",
-      "source": "EL PAÍS Economía",
-      "title": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
-      "summary": "La ocupación en las sociedades con menos de diez trabajadores creció casi un 2% interanual en julio frente a un estancamiento un año antes",
-      "url": "https://elpais.com/economia/2026-08-13/las-microempresas-multiplican-por-cinco-la-creacion-de-empleo-hasta-julio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ODH5OPSSHJPRPPDAVZUD4LC73U.jpg?auth=fe0dd0e12f8dea807078bb8b927b2c343889bcab8f2d46065591e824bbc8a10e",
-      "published_at": "2026-08-13T03:45:01+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "جهش پنج برابری اشتغال‌زایی توسط ریزشرکت‌های اسپانیا تا ماه ژوئیه",
-      "lead_fa": "اشتغال در شرکت‌های با کمتر از ده کارمند در ماه ژوئیه رشد سالانه نزدیک به دو درصدی را ثبت کرد. این در حالی است که این آمار در مدت مشابه سال گذشته با ركود مواجه بود.",
-      "key_points_fa": [
-        "رشد اشتغال در ریزشرکت‌ها تا ماه ژوئیه پنج برابر شد.",
-        "نرخ رشد سالانه مشاغل در این بخش به حدود دو درصد رسید.",
-        "این آمار در مقایسه با سال گذشته که بازار کار در این شرکت‌ها راکد بود، بهبود نشان می‌دهد."
-      ],
-      "analysis_fa": "افزایش اشتغال در شرکت‌های کوچک نشان‌دهنده پویایی نسبی در بدنه خرد اقتصاد اسپانیاست. تداوم این روند می‌تواند به کاهش نرخ بیکاری کمک کند، اما برای ارزیابی ثبات آن به آمارهای بلندمدت نیاز است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#اشتغال",
-        "#بازارکار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "0bde80a8602d",
       "source": "EL PAÍS Economía",
       "title": "Yoni Assia, fundador y consejero delegado de eToro: “El mundo se está volviendo más volátil. La inestabilidad aumentará aún más”",
@@ -938,61 +995,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9a14a40bae35",
-      "source": "EL PAÍS",
-      "title": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
-      "summary": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
-      "url": "https://elpais.com/america/2026-08-13/flavio-bolsonaro-sufre-problemas-para-inscribir-su-candidatura-presidencial-al-aparecer-en-un-partido-distinto-al-suyo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7UYWWWT6CNLQJLTXL5GTIMVIYQ.jpg?auth=a1a8a9cac81ee6edaac13253e62aa16a64ec0b6578f7fd2ff270f1187c360df7",
-      "published_at": "2026-08-13T20:06:18+00:00",
-      "category": "politica",
-      "priority": 71,
-      "title_fa": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
-      "lead_fa": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "790f73f12cb4",
       "source": "La Vanguardia",
       "title": "Un conductor daña la zona protegida de Pampa del Leoncito, con surcos que tardarán un siglo en revertirse",
       "summary": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
       "url": "https://www.lavanguardia.com/internacional/20260814/11613778/conductor-dana-zona-protegida-pampa-leoncito-surcos-tardaran-siglo-revertirse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7edc5c455b6.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef065eeff6.jpeg",
       "published_at": "2026-08-14T11:17:46+02:00",
       "category": "sociedad",
       "priority": 70,
       "title_fa": "Un conductor daña la zona protegida de Pampa del Leoncito, con surcos que tardarán un siglo en revertirse",
       "lead_fa": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d4d9ef88c00e",
-      "source": "La Vanguardia",
-      "title": "Herido grave un niño de 2 años al caer de una tribuna en las fiestas de Castalla (Alicante)",
-      "summary": "Un helicóptero trasladó al pequeño, con un fuerte traumatismo craneoencefálico, al Hospital General de Alicante",
-      "url": "https://www.lavanguardia.com/local/valencia/20260814/11613766/herido-grave-nino-2-anos-caer-tribuna-fiestas-castalla-alicante.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/08/65c5014b98968.r_d.1014-818-0.jpeg",
-      "published_at": "2026-08-14T10:49:15+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Herido grave un niño de 2 años al caer de una tribuna en las fiestas de Castalla (Alicante)",
-      "lead_fa": "Un helicóptero trasladó al pequeño, con un fuerte traumatismo craneoencefálico, al Hospital General de Alicante",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1015,50 +1028,6 @@
       "priority": 70,
       "title_fa": "Meloni insiste en “extremar” la vigilancia de cara a la supuesta incursión de mañana en Ceuta",
       "lead_fa": "La primera ministra italiana insiste en que la “gran mayoría” de los países europeos comparte las drásticas medidas adoptadas como la suspensión de Schengen con España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3b4633dc509b",
-      "source": "La Vanguardia",
-      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
-      "summary": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ecbeac7d28.r_d.839-543-0.jpeg",
-      "published_at": "2026-08-14T10:06:03+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
-      "lead_fa": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "95eb0341f1e0",
-      "source": "EL PAÍS",
-      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos",
-      "summary": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
-      "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R55C5O3KXRFJVLX5ONIIJPDTB4.jpg?auth=f2f2636c65865a8411171d8a56641c097f87b3d2ed46bdcda6cd8d9a55a643db",
-      "published_at": "2026-08-14T09:39:41+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos",
-      "lead_fa": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1232,6 +1201,50 @@
       "editorial_version": 2
     },
     {
+      "id": "9a14a40bae35",
+      "source": "EL PAÍS",
+      "title": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
+      "summary": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
+      "url": "https://elpais.com/america/2026-08-13/flavio-bolsonaro-sufre-problemas-para-inscribir-su-candidatura-presidencial-al-aparecer-en-un-partido-distinto-al-suyo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7UYWWWT6CNLQJLTXL5GTIMVIYQ.jpg?auth=a1a8a9cac81ee6edaac13253e62aa16a64ec0b6578f7fd2ff270f1187c360df7",
+      "published_at": "2026-08-13T20:06:18+00:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "Flávio Bolsonaro sufre problemas para inscribir su candidatura presidencial al aparecer en un partido distinto al suyo",
+      "lead_fa": "El incidente, a dos días del fin del plazo, enrarece el ambiente en Brasil, marcado por la polarización y las sospechas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3b4633dc509b",
+      "source": "La Vanguardia",
+      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "summary": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ecbeac7d28.r_d.839-543-0.jpeg",
+      "published_at": "2026-08-14T10:06:03+02:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "lead_fa": "Por el momento se desconocen más detalles sobre el posible origen del dron, si bien no es el primer episodio de estas características en los países vecinos de Rusia y Ucrania",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d40d15849150",
       "source": "EL PAÍS",
       "title": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática",
@@ -1307,14 +1320,14 @@
     {
       "id": "09e096ddc7bc",
       "source": "La Vanguardia",
-      "title": "Marroquíes asumen su expulsión mientras que los subsaharianos hacen en la orilla ceutí su hogar",
+      "title": "El Trampolín de Ceuta: la playa de los dos destinos",
       "summary": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
       "url": "https://www.lavanguardia.com/politica/20260814/11613505/trampolin-ceuta-playa-dos-destinos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7eb6afe0c91.jpeg",
       "published_at": "2026-08-14T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Marroquíes asumen su expulsión mientras que los subsaharianos hacen en la orilla ceutí su hogar",
+      "title_fa": "El Trampolín de Ceuta: la playa de los dos destinos",
       "lead_fa": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1640,7 +1653,7 @@
       "title": "El ‘momento Aranzadi’ de Vox",
       "summary": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
       "url": "https://elpais.com/opinion/2026-08-14/el-momento-aranzadi-de-vox.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WWV6EXDMDVOXBLYMKJ2SSZDW2M.jpg?auth=5ba58ca8fb61debf097f6b96ba8f685c3627c2b81a666a9efe91d447b93aca94",
+      "image": "https://imagenes.elpais.com/resizer/v2/M2UI2SKZ35D5FBSXQPEFISCPOM.jpg?auth=6cae415cb911e2ce78903dfacda0456e145a7ba4d7b792efbac1bee17743c1df",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 68,
@@ -1662,12 +1675,34 @@
       "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
       "summary": "En la capital cada vez hay más comunidades que financian obras de mejora u otros gastos en sus edificios gracias a lo que sacan por la venta o el alquiler de estos inmuebles, antes reservados para quienes cuidaban de las fincas",
       "url": "https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/C3VITAKKJZD3NC23645DUN4EHQ.jpg?auth=0f39f8e2764cbf978bbfd82677aafc2d44c2119139aa9503e0a7cd9899781167",
+      "image": "https://imagenes.elpais.com/resizer/v2/CTX4I43MQRDE7EDRIVRAC3CMOU.jpg?auth=acc6d09fd2f964db531a3c0c06d4f3b2a45ee9a6e0bc5094f93a754afc91aac1",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 68,
       "title_fa": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
       "lead_fa": "En la capital cada vez hay más comunidades que financian obras de mejora u otros gastos en sus edificios gracias a lo que sacan por la venta o el alquiler de estos inmuebles, antes reservados para quienes cuidaban de las fincas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9413b584215d",
+      "source": "EL PAÍS",
+      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
+      "summary": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
+      "url": "https://elpais.com/el-tiempo/2026-08-14/la-aemet-avisa-de-un-cambio-de-tiempo-importante-de-cara-al-fin-de-semana-lluvias-tras-el-calor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LVFK4IBPO5P3DN5LKIHWKGFIBI.jpg?auth=3cb8aa2ed9ff90b86c45fda05aba380ad80cb56946bff65f5d54c43625ca4a57",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
+      "lead_fa": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1706,34 +1741,12 @@
       "title": "Ahmed y Saleh, niños amputados de Gaza, aprenden a nadar: “El agua es el único lugar en el que son libres”",
       "summary": "La ONG Heal Palestine y veteranos monitores de natación ponen en marcha estas clases para dar un respiro a pequeños especialmente traumatizados por meses de muerte y desplazamiento",
       "url": "https://elpais.com/internacional/2026-08-14/ahmed-y-saleh-ninos-amputados-de-gaza-aprenden-a-nadar-el-agua-es-el-unico-lugar-en-el-que-son-libres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WMQXRLAN5NBJ7O3BZV4JH3AGMY.jpeg?auth=f7246cf27bcec23ba2f2c71cb7283a34f7695c488e71d435f46d9482304950e8",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204606_103135_video_1800.mp4",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
       "priority": 68,
       "title_fa": "Ahmed y Saleh, niños amputados de Gaza, aprenden a nadar: “El agua es el único lugar en el que son libres”",
       "lead_fa": "La ONG Heal Palestine y veteranos monitores de natación ponen en marcha estas clases para dar un respiro a pequeños especialmente traumatizados por meses de muerte y desplazamiento",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9413b584215d",
-      "source": "EL PAÍS",
-      "title": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
-      "summary": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
-      "url": "https://elpais.com/el-tiempo/2026-08-14/la-aemet-avisa-de-un-cambio-de-tiempo-importante-de-cara-al-fin-de-semana-lluvias-tras-el-calor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LVFK4IBPO5P3DN5LKIHWKGFIBI.jpg?auth=3cb8aa2ed9ff90b86c45fda05aba380ad80cb56946bff65f5d54c43625ca4a57",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La Aemet avisa de un cambio de tiempo “importante” el fin de semana: fuertes tormentas tras el calor",
-      "lead_fa": "Se esperan chubascos que pueden ser intensos y acompañados de viento y granizo en amplias zonas del norte, centro y este peninsular",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2009,28 +2022,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a56a4991e73f",
-      "source": "EL PAÍS Economía",
-      "title": "Heydiga: el robot que te responde cuando llamas a la peluquería",
-      "summary": "La compañía con sede en Barcelona desarrolla un programa de conversación para pequeñas empresas",
-      "url": "https://elpais.com/economia/negocios/2026-08-13/heydiga-el-robot-que-te-responde-cuando-llamas-a-la-peluqueria.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MDHGLNS3YJAD5DJMCYFUBAQXRM.jpg?auth=952a72af6a99656afc85aab6450416a33f6aadbad87f787f937c5244431800a0",
-      "published_at": "2026-08-13T03:30:00+00:00",
-      "category": "economia",
-      "priority": 65,
-      "title_fa": "Heydiga: el robot que te responde cuando llamas a la peluquería",
-      "lead_fa": "La compañía con sede en Barcelona desarrolla un programa de conversación para pequeñas empresas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "21f81a3cd1e4",
       "source": "EL PAÍS Economía",
       "title": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
@@ -2251,28 +2242,6 @@
       "editorial_version": 2
     },
     {
-      "id": "100ab8207d15",
-      "source": "EL PAÍS Economía",
-      "title": "Las comunidades autónomas triplicarán el pago de intereses por la deuda hasta 2029",
-      "summary": "El centro de estudios Fedea calcula el alza de la carga financiera desde 2022, cuando empezó la guerra en Ucrania y el BCE empezó a subir los tipos",
-      "url": "https://elpais.com/economia/2026-08-12/las-comunidades-autonomas-triplicaran-el-pago-de-intereses-por-la-deuda-hasta-2029.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FXBUHOMGQZDRTFSL2GJLO3UBIA.jpg?auth=f7b100e50919df06f4a62a7dad3d2f983003e13444d7988e91e951538e61223d",
-      "published_at": "2026-08-12T15:15:20+00:00",
-      "category": "sociedad",
-      "priority": 56,
-      "title_fa": "Las comunidades autónomas triplicarán el pago de intereses por la deuda hasta 2029",
-      "lead_fa": "El centro de estudios Fedea calcula el alza de la carga financiera desde 2022, cuando empezó la guerra en Ucrania y el BCE empezó a subir los tipos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cca12053fc8a",
       "source": "La Vanguardia",
       "title": "En Santa Susanna, tres meses al año",
@@ -2339,7 +2308,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 128
     }
   ]
 }
