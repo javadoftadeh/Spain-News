@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:35:30.352513+00:00",
+  "generated_at": "2026-08-15T20:56:19.976891+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -475,7 +475,7 @@
       "summary": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera ceutí. El Gobierno de España asegura que está buscando una solución",
       "url": "https://elpais.com/espana/2026-08-15/rabat-ordena-a-los-periodistas-de-efe-y-tve-que-abandonen-castillejos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4",
-      "published_at": "2026-08-15T20:19:55+00:00",
+      "published_at": "2026-08-15T20:37:47+00:00",
       "category": "migracion",
       "priority": 75,
       "title_fa": "اخراج خبرنگاران اسپانیایی از کاستیخوس توسط مراکش",
@@ -986,11 +986,11 @@
     {
       "id": "7c14495d00cb",
       "source": "EL PAÍS",
-      "title": "Al menos dos personas fallecidas y dos menores heridos tras una riada en Manzanedo de Valdueza (León)",
-      "summary": "La Policía Nacional continúa en la zona pendiente de la evolución de la situación. No hay personas desaparecidas",
+      "title": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "summary": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
       "url": "https://elpais.com/espana/2026-08-15/al-menos-un-fallecido-y-dos-menores-heridos-tras-una-riada-en-manzanedo-de-valdueza-leon.html",
       "image": "https://imagenes.elpais.com/resizer/v2/MQYNXLD43FDS3H5YA2FHZIEHGE.jpg?auth=3cb62bcdfa897e8f8911ba259796049c0a596e2499ed7f1af3702af295d0276b",
-      "published_at": "2026-08-15T19:54:27+00:00",
+      "published_at": "2026-08-15T20:47:21+00:00",
       "category": "sociedad",
       "priority": 70,
       "title_fa": "سیل در لئون اسپانیا؛ جان‌باختن دست‌کم دو نفر و زخمی‌شدن دو کودک",
@@ -2240,16 +2240,23 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "La lección de Rocky Balboa: cómo mezclar cardio y pesas para alargar la vida con salud",
-      "lead_fa": "Separar el ejercicio en dos cajones, el que sube las pulsaciones y el que cuesta levantar, es artificial. El debate ya no es si hay que combinarlos, sino cómo hacerlo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درس راکی بالبوآ: ترکیب تمرین هوازی و وزنه برای طول عمر سالم",
+      "lead_fa": "تقسیم‌بندی تمرینات ورزشی به دو دسته هوازی و مقاومتی رویکردی مصنوعی است. بحث اصلی دیگر بر سر لزوم ترکیب آن‌ها نیست، بلکه چگونگی انجام آن است.",
+      "key_points_fa": [
+        "تمرینات هوازی و مقاومتی باید با یکدیگر ترکیب شوند.",
+        "جداسازی تمرینات ورزشی به عنوان دسته‌های مجزا دیگر منسوخ شده است.",
+        "تمرکز اصلی متخصصان بر روی نحوه بهینه ترکیب این دو نوع تمرین است."
+      ],
+      "analysis_fa": "این دیدگاه نشان‌دهنده تغییر پارادایم در علوم ورزشی و پزشکی پیشگیرانه است که در آن تناسب اندام جامع به عنوان کلید سلامت عمومی و افزایش طول عمر در نظر گرفته می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سلامتی",
+        "#ورزش",
+        "#تناسب_اندام",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2262,16 +2269,22 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Cinco años de esclavitud afgana",
-      "lead_fa": "Un lustro después de tomar Kabul, los talibanes sojuzgan a su pueblo ante la indiferencia occidental",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پنج سال استبداد طالبان؛ رنج مردم افغانستان در سایه بی‌تفاوت غربی",
+      "lead_fa": "پنج سال پس از تسلط طالبان بر کابل، مردم افغانستان همچنان تحت سرکوب شدید زندگی می‌کنند. این وضعیت با بی‌اعتنایی جوامع غربی مواجه شده است.",
+      "key_points_fa": [
+        "گذر پنج سال از بازگشت طالبان به قدرت در کابل",
+        "ادامه سرکوب شهروندان افغان توسط حکومت طالبان",
+        "سکوت و بی‌تفاوتی کشورهای غربی در برابر بحران انسانی افغانستان"
+      ],
+      "analysis_fa": "ادامه حاکمیت طالبان در افغانستان و عدم واکنش مؤثر جامعه جهانی، بحران‌های حقوق بشری و انسانی را در این کشور عمیق‌تر کرده است. این روند نشان‌دهنده چالش‌های جدی پیش روی نهادهای بین‌المللی در مواجهه با حکومت‌های استبدادی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#افغانستان",
+        "#طالبان",
+        "#حقوق_بشر"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2284,16 +2297,22 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Saturno siendo devorado por sus hijos",
-      "lead_fa": "Las instituciones liberales parecen incapaces de formar élites que garanticen su supervivencia frente el auge ultra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ناتوانی نهادهای لیبرال در پرورش نخبگان",
+      "lead_fa": "موسسات لیبرال ظاهراً در پرورش نخبگانی برای تضمین بقای خود ناکام مانده‌اند. این چالش در سایه اوج‌گیری جریان‌های افراطی خود را نشان می‌دهد.",
+      "key_points_fa": [
+        "ضعف نهادهای لیبرال در تربیت نسل جدید نخبگان",
+        "رشد و اوج‌گیری جریان‌های سیاسی موسوم به اولترا",
+        "خطر برای بقای ساختارهای سیاسی موجود"
+      ],
+      "analysis_fa": "این گزارش به بحران ساختاری در نظام‌های لیبرال و چالش آن‌ها در برابر جریان‌های سیاسی افراطی می‌پردازد. این پدیده نشان‌دهنده تغییرات عمیق در پویایی سیاسی و اجتماعی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
