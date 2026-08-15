@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-15T18:44:58.960135+00:00",
+  "generated_at": "2026-08-15T19:31:00.200805+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
-    "7b0f0c5b2141",
     "c713aaeb7565",
     "bde557e93a1a",
-    "5c578267fa51"
+    "5c578267fa51",
+    "48ea46f5e72a"
   ],
   "items": [
     {
@@ -33,35 +33,6 @@
         "#سبته",
         "#گرانادا",
         "#اسپانیا",
-        "#مهاجرت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7b0f0c5b2141",
-      "source": "La Vanguardia",
-      "title": "La crisis migratoria en Ceuta, en directo: Marruecos expulsa a los periodistas de Efe y TVE de Castillejos",
-      "summary": "La policía marroquí expulsa de Castillejos a los centenares de subsaharianos que se habían acercado a la frontera con la ciudad autónoma",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a808d4636e77.r_d.1506-1294-0.jpeg",
-      "published_at": "2026-08-15T06:00:01+02:00",
-      "category": "migracion",
-      "priority": 89,
-      "title_fa": "آماده‌باش در مرز سئوتا؛ مراکش و اسپانیا مرزها را امنیتی کردند",
-      "lead_fa": "مراکش و اسپانیا در آستانه فراخوان برای هجوم جدید به مرز سئوتا در روز شنبه، اقدامات امنیتی را تشدید کردند. مرزهای این منطقه در وضعیت هشدار و آماده‌باش کامل قرار گرفته‌اند.",
-      "key_points_fa": [
-        "فراخوان برای تلاش جدید جهت عبور از مرز در روز شنبه",
-        "اقدامات امنیتی مشترک مراکش و اسپانیا در سئوتا",
-        "برقراری وضعیت هشدار در مناطق مرزی"
-      ],
-      "analysis_fa": "افزایش تدابیر امنیتی در مرزهای سئوتا نشان‌دهنده حساسیت بالای مقامات اسپانیا و مراکش نسبت به تحرکات سازمان‌یافته برای ورود غیرقانونی است. این مناطق به دلیل موقعیت جغرافیایی همواره با چالش‌های مهاجرتی روبرو هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#اسپانیا",
-        "#مراکش",
         "#مهاجرت"
       ],
       "ai_translated": true,
@@ -214,6 +185,34 @@
       "editorial_version": 2
     },
     {
+      "id": "5be3d741cedd",
+      "source": "EL PAÍS",
+      "title": "Al menos 11 muertos en el ataque israelí más letal del alto el fuego en Líbano",
+      "summary": "El bombardeo, que ha generado cientos de desplazados, se produce en medio de las negociaciones entre los Gobiernos de ambos países",
+      "url": "https://elpais.com/internacional/2026-08-15/al-menos-nueve-muertos-en-nuevos-ataques-de-israel-contra-el-sur-de-libano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WXEIJMQUAZNWLE6WXDRN763VSU.jpg?auth=f6ff42c1829189a9b1b5f1d065dbc07f0e37d2eb274b1a5287525f044af5e7f7",
+      "published_at": "2026-08-15T19:18:09+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "کشته شدن دست‌کم ۹ نفر در حملات جدید اسرائیل به جنوب لبنان",
+      "lead_fa": "حملات جدید اسرائیل به جنوب لبنان دست‌کم ۹ کشته برجای گذاشت. این تهاجم یکی از مرگبارترین درگیری‌ها از زمان امضای آتش‌بس در ژوئن محسوب می‌شود.",
+      "key_points_fa": [
+        "کشته شدن دست‌کم ۹ نفر در جنوب لبنان",
+        "این حملات بخشی از تهاجم جدید اسرائیل است",
+        "آتش‌بس میان دو کشور با میانجیگری آمریکا در ژوئن امضا شده بود"
+      ],
+      "analysis_fa": "این حملات جدید نشان‌دهنده شکنندگی توافق آتش‌بس میان اسرائیل و لبنان است که با میانجیگری ایالات متحده به دست آمده بود. تداوم تنش‌ها در منطقه می‌تواند توافق‌های شکننده امنیتی را بیش از پیش به مخاطره بیندازد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#لبنان",
+        "#اسرائیل",
+        "#خاورمیانه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "aaa7e41c6404",
       "source": "EL PAÍS",
       "title": "Los incendios obligan a desalojar a más de 1.000 personas en Huesca y a casi 200 en Zamora",
@@ -238,34 +237,6 @@
         "#آتش_سوزی",
         "#اوئسکا",
         "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5be3d741cedd",
-      "source": "EL PAÍS",
-      "title": "Al menos 11 muertos en nuevos ataques de Israel contra el sur de Líbano",
-      "summary": "La ofensiva israelí es una de las más letales contra territorio libanés desde que se firmó en junio el alto el fuego entre los dos países con la mediación de EE UU",
-      "url": "https://elpais.com/internacional/2026-08-15/al-menos-nueve-muertos-en-nuevos-ataques-de-israel-contra-el-sur-de-libano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXEIJMQUAZNWLE6WXDRN763VSU.jpg?auth=f6ff42c1829189a9b1b5f1d065dbc07f0e37d2eb274b1a5287525f044af5e7f7",
-      "published_at": "2026-08-15T16:17:43+00:00",
-      "category": "politica",
-      "priority": 77,
-      "title_fa": "کشته شدن دست‌کم ۹ نفر در حملات جدید اسرائیل به جنوب لبنان",
-      "lead_fa": "حملات جدید اسرائیل به جنوب لبنان دست‌کم ۹ کشته برجای گذاشت. این تهاجم یکی از مرگبارترین درگیری‌ها از زمان امضای آتش‌بس در ژوئن محسوب می‌شود.",
-      "key_points_fa": [
-        "کشته شدن دست‌کم ۹ نفر در جنوب لبنان",
-        "این حملات بخشی از تهاجم جدید اسرائیل است",
-        "آتش‌بس میان دو کشور با میانجیگری آمریکا در ژوئن امضا شده بود"
-      ],
-      "analysis_fa": "این حملات جدید نشان‌دهنده شکنندگی توافق آتش‌بس میان اسرائیل و لبنان است که با میانجیگری ایالات متحده به دست آمده بود. تداوم تنش‌ها در منطقه می‌تواند توافق‌های شکننده امنیتی را بیش از پیش به مخاطره بیندازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#لبنان",
-        "#اسرائیل",
-        "#خاورمیانه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -469,13 +440,42 @@
       "editorial_version": 2
     },
     {
+      "id": "fbfe72508e75",
+      "source": "La Vanguardia",
+      "title": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce de migrantes",
+      "summary": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614481/marruecos-exhibe-control-sobre-frontera-ceuta-evitando-cruce.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b13f6b247.r_d.1308-1444-0.jpeg",
+      "published_at": "2026-08-15T20:45:04+02:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "مراکش از تلاش صدها مهاجر برای ورود به سبته جلوگیری کرد",
+      "lead_fa": "نیروهای امنیتی مراکش با ممانعت از عبور صدها مهاجر ساباهارایی، کنترل خود را بر مرز سبته نشان دادند. این درگیری‌ها در منطقه مرزی ال‌تاراجال رخ داد.",
+      "key_points_fa": [
+        "ژناندارمری مراکش مانع از عبور صدها مهاجر ساباهارایی شد.",
+        "این اقدام در منطقه مرزی ال‌تاراجال و با استفاده از درگیری و مهار فیزیکی صورت گرفت.",
+        "مراکش بار دیگر کنترل خود را بر مرزهای مشترک با سبته به نمایش گذاشت."
+      ],
+      "analysis_fa": "اقدام اخیر نیروهای مراکشی نشان‌دهنده استمرار رویکرد سخت‌گیرانه این کشور در کنترل مرزهای جنوبی و جلوگیری از هجوم مهاجران به سمت خاک اسپانیا است که بارها مورد توجه نهادهای نظارتی و دولت‌های اروپایی قرار گرفته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مراکش",
+        "#سبته",
+        "#مهاجرت",
+        "#مرز"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e07b634f15ec",
       "source": "EL PAÍS",
       "title": "Rabat expulsa a los periodistas de Efe y TVE de Castillejos",
-      "summary": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera. El Gobierno de España asegura que está buscando una solución",
+      "summary": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera ceutí. El Gobierno de España asegura que está buscando una solución",
       "url": "https://elpais.com/espana/2026-08-15/rabat-ordena-a-los-periodistas-de-efe-y-tve-que-abandonen-castillejos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4",
-      "published_at": "2026-08-15T18:43:02+00:00",
+      "published_at": "2026-08-15T19:06:46+00:00",
       "category": "migracion",
       "priority": 75,
       "title_fa": "اخراج خبرنگاران اسپانیایی از کاستیخوس توسط مراکش",
@@ -556,29 +556,30 @@
       "editorial_version": 2
     },
     {
-      "id": "75fdce4ee36c",
+      "id": "613bb9bf10b4",
       "source": "La Vanguardia",
-      "title": "Marruecos exhibe control en la frontera ceutí con el bloqueo de cientos de inmigrantes subsaharianos",
-      "summary": "La policía marroquí intercepta a 128 subsaharianos y una veintena de marroquíes y detiene a 61 sospechosos de incitación y promoción de llamadas a la migración irregular a través de las redes sociales",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614366/marruecos-exhibe-control-frontera-ceuta-bloqueo-cientos-inmigrantes-subsaharianos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a804f49881c7.jpeg",
-      "published_at": "2026-08-15T13:14:22+02:00",
-      "category": "migracion",
+      "title": "Atendidas 16 personas, entre ellas dos menores, en un incendio en una vivienda en Silla",
+      "summary": "El suceso ha ocurrido la madrugada de este sábado en una vivienda donde ha sido necesario desalojar a unos 52 vecinos de forma preventiva",
+      "url": "https://www.lavanguardia.com/local/valencia/20260815/11614379/atendidas-16-personas-dos-menores-incendio-vivienda-silla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80585f75342.jpeg",
+      "published_at": "2026-08-15T14:16:59+02:00",
+      "category": "sociedad",
       "priority": 75,
-      "title_fa": "کنترل مرز سبته با مهار مهاجران توسط مراکش",
-      "lead_fa": "مراکش با استقرار نیروهای امنیتی موفق شد مانع ورود صدها مهاجر اهل آفریقای سیاه به سبته شود. این اقدام پس از ورود انبوه مهاجران در دو هفته گذشته انجام گرفت.",
+      "title_fa": "آتش‌سوزی در خانه‌ای در سِیا؛ امدادرسانی به ۱۶ نفر از جمله دو کودک",
+      "lead_fa": "بامداد امروز شنبه، وقوع آتش‌سوزی در یک واحد مسکونی در منطقه سِیا به امدادرسانی به ۱۶ نفر منجر شد. این حادثه همچنین موجب تخلیه پیشگیرانه حدود ۵۲ تن از ساکنان ساختمان گردید.",
       "key_points_fa": [
-        "آرامش نسبی پس از تقویت بی‌سابقه نیروهای پلیس و نظامی برقرار شد.",
-        "هزاران نفر از کسانی که دو هفته پیش به صورت دسته‌جمعی مرز را رد کرده بودند همچنان در شهر حضور دارند."
+        "حادثه در بامداد روز شنبه در یک منزل مسکونی رخ داد.",
+        "۱۶ نفر، از جمله دو کودک، تحت مراقبت و امدادرسانی قرار گرفتند.",
+        "حدود ۵۲ تن از همسایگان و ساکنان به صورت پیشگیرانه تخلیه شدند."
       ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش‌های مستمر مراکش برای مدیریت فشارهای مهاجرتی در مرزهای اسپانیا است و بر پویایی‌های امنیتی منطقه تأثیر می‌گذارد.",
+      "analysis_fa": "این حادثه بار دیگر اهمیت آمادگی تیم‌های امدادی و آتش‌نشانی در مواجهه با حوادث مسکونی شبانه را برجسته کرد. تخلیه پیشگیرانه ساکنان توانست از گسترش تلفات جانی جلوگیری کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#مراکش",
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا"
+        "#آتش‌سوزی",
+        "#حوادث",
+        "#اسپانیا",
+        "#سیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1147,6 +1148,34 @@
         "#اسپانیا",
         "#قهرمان_جهان",
         "#ورزش"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "b0f4dff802eb",
+      "source": "EL PAÍS",
+      "title": "El conjunto español de gimnasia rítmica conquista un oro mundial histórico 35 años después",
+      "summary": "Con la medalla, el grupo dirigido por Alejandra Quereda y Ana Pelaz se asegura el billete para los Juegos Olímpicos de Los Ángeles 2028",
+      "url": "https://elpais.com/deportes/2026-08-15/el-conjunto-espanol-de-gimnasia-ritmica-conquista-un-oro-mundial-historico-35-anos-despues.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5HJ2O6U5O5HP3JGRYHUU3HHTSU.jpg?auth=c872f9835fe0a400442c428b8759fc6f4ef8377f8499f69fd3989b0b3a1546b6",
+      "published_at": "2026-08-15T18:13:28+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "تیم ژیمناستیک ریتمیک اسپانیا پس از ۳۵ سال طلای جهانی کسب کرد",
+      "lead_fa": "تیم ملی ژیمناستیک ریتمیک اسپانیا موفق شد پس از سه دهه و نیم مدال طلای مسابقات جهانی را به دست آورد. با این پیروزی، این تیم سهمیه حضور در بازی‌های المپیک ۲۰۲۸ لس‌آنجلس را نیز قطعی کرد.",
+      "key_points_fa": [
+        "کسب مدال طلای تاریخی پس از ۳۵ سال انتظار توسط تیم اسپانیا",
+        "هدایت تیم بر عهده آلخاندرا کِردا و آنا پلاس بوده است",
+        "کسب سهمیه قطعی برای المپیک ۲۰۲۸ لس‌آنجلس"
+      ],
+      "analysis_fa": "این موفقیت نشان‌دهنده بازگشت اسپانیا به جایگاه‌های برتر ژیمناستیک ریتمیک جهان است و برنامه‌ریزی کادرفنی این تیم را در مسیر المپیک تأیید می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#ژیمناستیک",
+        "#المپیک۲۰۲۸"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2346,28 +2375,6 @@
       "editorial_version": 2
     },
     {
-      "id": "68719747af51",
-      "source": "EL PAÍS",
-      "title": "Participé en L’Étape, la prueba de cicloturismo más difícil que existe, y esto fue lo que pasó",
-      "summary": "Oscar Gogorza se unió a 16.000 aficionados, conocidos en el mundillo como globeros, que emulan a los profesionales del Tour",
-      "url": "https://elpais.com/eps/2026-08-15/participe-en-letape-la-prueba-de-cicloturismo-mas-dificil-que-existe-y-esto-fue-lo-que-paso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3UOUXKLTYFEW5PNBZIZIJTVGZE.JPG?auth=cf92baea2b5e279f7743a9d1d283cbb88af665f39bc16890acfb674a5ee0525f",
-      "published_at": "2026-08-15T03:30:00+00:00",
-      "category": "turismo",
-      "priority": 65,
-      "title_fa": "Participé en L’Étape, la prueba de cicloturismo más difícil que existe, y esto fue lo que pasó",
-      "lead_fa": "Oscar Gogorza se unió a 16.000 aficionados, conocidos en el mundillo como globeros, que emulan a los profesionales del Tour",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "31b4803ae19a",
       "source": "EL PAÍS",
       "title": "Cuidado con espiar (aunque sea sin querer) a sus vecinos: estas son las sanciones a las que se enfrenta",
@@ -2530,7 +2537,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69",
       "published_at": "2026-08-14T07:17:54+00:00",
       "category": "sociedad",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
       "lead_fa": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
       "key_points_fa": [],
@@ -2552,7 +2559,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb04ea86e.r_d.458-260-0.jpeg",
       "published_at": "2026-08-14T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 58,
+      "priority": 57,
       "title_fa": "Salou, el eterno campo y playa de los maños",
       "lead_fa": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
       "key_points_fa": [],
@@ -2654,17 +2661,17 @@
       "editorial_version": 2
     },
     {
-      "id": "b4298a2ae0bd",
-      "source": "La Vanguardia",
-      "title": "Los últimos campistas de la autovía de Castelldefels",
-      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
       "category": "sociedad",
       "priority": 50,
-      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
-      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2720,7 +2727,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 141
+      "count": 140
     }
   ]
 }
