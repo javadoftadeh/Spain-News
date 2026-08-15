@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:36:43.934645+00:00",
+  "generated_at": "2026-08-15T05:57:24.683040+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -213,8 +213,8 @@
     {
       "id": "a1ae0b2e9da7",
       "source": "EL PAÍS",
-      "title": "La Junta de Andalucía activa la fase de emergencia por un seísmo de magnitud cinco en Granada",
-      "summary": "El fenómeno tuvo epicentro en Alhendín, a dos kilómetros de profundidad",
+      "title": "Un terremoto de magnitud 5 sacude Granada sin causar víctimas",
+      "summary": "El seísmo, con epicentro en Alhendín, provoca daños materiales y decenas de llamadas al 112",
       "url": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
       "image": "https://imagenes.elpais.com/resizer/v2/GXM6VLBH5ZGBHEYL2MSJYUOYFM.jpg?auth=6cd3d0429a9c34bc20a58e5d427590af8b589123a6617ca56f0e347a4abf4f10",
       "published_at": "2026-08-15T01:46:59+00:00",
@@ -419,16 +419,23 @@
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "migracion",
       "priority": 75,
-      "title_fa": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
-      "lead_fa": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "افزایش سطح نظارت در مرز سئوتا پس از فراخوان‌های شبکه‌های اجتماعی",
+      "lead_fa": "مقام‌های امنیتی مادرید و رباط نظارت در مرز سئوتا را افزایش دادند. این اقدام پس از انتشار فراخوان‌هایی در شبکه‌های اجتماعی برای حضور در مرز به دلیل روز تعطیل در اسپانیا صورت گرفت.",
+      "key_points_fa": [
+        "افزایش نظارت امنیتی توسط مادرید و رباط در مرز سئوتا",
+        "انتشار پیام‌هایی در شبکه‌های اجتماعی با دعوت به حضور در مرز",
+        "تقارن فراخوان‌ها با روز تعطیل رسمی در اسپانیا"
       ],
-      "ai_translated": false,
+      "analysis_fa": "فراخوان‌های منتشر شده در شبکه‌های اجتماعی برای تجمع در مناطق مرزی، نهادهای امنیتی اسپانیا و مراکش را بر آن داشته است تا برای پیشگیری از هرگونه تنش یا ازدحام، اقدامات پیشگیرانه و نظارت خود را تقویت کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#اسپانیا",
+        "#مراکش",
+        "#مهاجرت"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -441,16 +448,23 @@
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
-      "lead_fa": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دولت کاتالونیا خواهان مدیریت ایستگاه‌های رونکال و رنفه شد",
+      "lead_fa": "دولت محلی کاتالونیا قصد دارد مدیریت ایستگاه‌های قطارهای حومه‌ای متعلق به رنفه و آدایف را به دست بگیرد. این شرکت‌های دولتی در حال حاضر پروژه‌های متعددی را در حدود چهل ایستگاه شبکه ریلی دنبال می‌کنند.",
+      "key_points_fa": [
+        "هدف دولت محلی مدیریت ایستگاه‌های قطار تحت مالکیت رنفه و آدایف است.",
+        "این طرح شامل پروژه‌هایی در حدود ۴۰ ایستگاه ریلی می‌شود.",
+        "اولویت اصلی با پروژه‌هایی است که به بهبود پایداری و قابلیت اطمینان خدمات کمک کنند."
+      ],
+      "analysis_fa": "تلاش دولت محلی کاتالونیا برای به دست گرفتن مدیریت زیرساخت‌های ریلی، گامی در راستای افزایش اختیارات منطقه‌ای در حوزه حمل‌ونقل عمومی است. این اقدام می‌تواند بر نحوه نظارت و اجرای پروژه‌های عمرانی آینده تاثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#قطار",
+        "#اقتصاد",
+        "#کاتالونیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -461,18 +475,25 @@
       "url": "https://www.lavanguardia.com/deportes/futbol/20260815/11614093/real-madrid-viaje-pasado-regreso-mourinho-guerra-soldados-liga-26-27.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f5bbc177e7.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "economia",
+      "category": "deportes",
       "priority": 75,
-      "title_fa": "Real Madrid: Un viaje al pasado con Mourinho para ir a la guerra",
-      "lead_fa": "Mourinho acapara los focos en un mercado con ventas récord del filial (195 millones) y Diomande de estrella",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت مورینیو به اخبار رئال مادرید و درآمد رکوردشکنی آکادمی",
+      "lead_fa": "نام ژوزه مورینیو بار دیگر در اخبار فوتبال اسپانیا مطرح شده است. همزمان، آکادمی رئال مادرید با فروش‌های رکوردشکن به درآمد قابل توجهی دست یافته است.",
+      "key_points_fa": [
+        "بازگشت نام ژوزه مورینیو به کانون توجهات ورزشی",
+        "ثبت رکورد فروش بازیکنان در تیم پایه رئال مادرید با رقمی معادل ۱۹۵ میلیون یورو",
+        "درخشش دیومنده به عنوان ستاره جدید بازار نقل و انتقالات"
+      ],
+      "analysis_fa": "این تحولات نشان‌دهنده استراتژی مالی جدید باشگاه در مدیریت بازیکنان آکادمی و تاثیر چهره‌های سرشناس در فضای رسانه‌ای پیرامون تیم است. ترکیب موفقیت‌های مالی در بخش پایه و گمانه‌زنی‌های پیرامون چهره‌های قدیمی، ابعاد مختلفی از مدیریت مدرن باشگاه را نمایان می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#رئالمادرید",
+        "#مورینیو",
+        "#فوتبالاسپانیا",
+        "#نقلوانتقالات"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1327,14 +1348,14 @@
     {
       "id": "56f4ccf2eb06",
       "source": "EL PAÍS",
-      "title": "Los ecologistas y el sector de renovables dudan que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
       "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
       "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
       "image": "https://imagenes.elpais.com/resizer/v2/ZGES23NUJJCIVAEVRL4Z4GMCT4.JPG?auth=683cb6efa9fdac0b4bb8303ec48872a839b1db06b9852badcc6f28e8ec2ee7cd",
       "published_at": "2026-08-15T05:16:00+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Los ecologistas y el sector de renovables dudan que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "title_fa": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
       "lead_fa": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
       "key_points_fa": [],
       "analysis_fa": "",
