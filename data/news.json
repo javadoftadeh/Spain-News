@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:32:45.059547+00:00",
+  "generated_at": "2026-08-15T21:53:57.852203+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -2411,16 +2411,21 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "ciencia",
       "priority": 64,
-      "title_fa": "La capacidad de seguir asombrándonos",
-      "lead_fa": "Aunque sepas perfectamente qué va a pasar, nada te prepara para la experiencia de vivir un eclipse total",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "توانایی شگفت‌زده شدن در برابر پدیده‌های کیهانی",
+      "lead_fa": "تجربه زنده یک خورشیدگرفتگی کامل با هیچ دانش قبلی قابل مقایسه نیست. حتی با آگاهی کامل از روند رویداد، مواجهه با آن شگفت‌انگیز است.",
+      "key_points_fa": [
+        "تجربه زیسته خورشیدگرفتگی کامل فراتر از دانسته‌های علمی است",
+        "این پدیده همچنان حس شگفتی را در انسان زنده نگه می‌دارد"
+      ],
+      "analysis_fa": "این یادداشت به بررسی روانشناختی مواجهه انسان با پدیده‌های عظیم طبیعی مانند خورشیدگرفتگی می‌پردازد و نشان می‌دهد که علم هرچند رویدادها را قابل پیش‌بینی می‌کند، اما از عمق تجربه حسی و احساس شگفتی آن نمی‌کاهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#نجوم",
+        "#خورشیدگرفتگی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2433,16 +2438,23 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "Una piscina con polémica: la sensación del verano en Berlín desata una campaña racista",
-      "lead_fa": "El recinto abierto a las puertas del legendario teatro Volksbühne es objeto de la furia de la ultraderecha por su cesión durante unas horas a la comunidad negra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "استخر جنجالی برلین؛ هدف حملات نژادپرستانه راست افراطی",
+      "lead_fa": "یک استخر موقت در محوطه تئاتر افسانه‌ای فولکس‌بونه برلین به دلیل اختصاص ساعات مشخصی به جامعه سیاهپوستان با خشم گروه‌های راست افراطی مواجه شد. این طرح جنجالی به یکی از مباحث داغ تابستانی در پایتخت آلمان تبدیل شده است.",
+      "key_points_fa": [
+        "راه‌اندازی استخر روباز در محوطه تئاتر فولکس‌بونه در برلین",
+        "اختصاص ساعات خاصی از فعالیت استخر به جامعه سیاهپوستان",
+        "واکنش تند و کمپین‌های جریان‌های راست افراطی علیه این تصمیم"
+      ],
+      "analysis_fa": "این رویداد بار دیگر بحث‌ها درباره تبعیض نژادی، فضاهای عمومی و چالش‌های همزیستی فرهنگی در آلمان را برجسته کرده است. در حالی که حامیان این اقدام آن را گامی در جهت ایجاد فضاهای امن می‌دانند، مخالفان راست‌گرا از آن برای پیشبرد روایت‌های خود علیه سیاست‌های هویت‌محور استفاده می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#برلین",
+        "#نژادپرستی",
+        "#آلمان",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2453,18 +2465,25 @@
       "url": "https://elpais.com/espana/2026-08-15/calma-en-la-calle-pero-un-runrun-en-las-cabezas-melilla-teme-un-aluvion-como-el-de-ceuta.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QANOWMJ3VJDZLLLKP36MVB77UA.JPG?auth=8cda01762fae32e73fa37274d520189be67cc57a75baad89dbfab963d51019f6",
       "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 64,
-      "title_fa": "Calma en las calles pero un runrún en las cabezas: Melilla teme un aluvión como el de Ceuta",
-      "lead_fa": "El pasado 30 de julio, los melillenses vieron entrar a más de 1.300 personas desde Marruecos. Aunque la mayoría ha regresado, hay temor a una nueva avalancha, esta vez irrefrenable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نگرانی در ملیلیه از تکرار موج ورود مهاجران",
+      "lead_fa": "پس از ورود بیش از ۱۳۰۰ مهاجر از مراکش به ملیلیه در ۳۰ ژوئیه، ساکنان شهر نگران تکرار این واقعه هستند. اگرچه بیشتر این افراد بازگشته‌اند، اما ترس از وقوع یک بحران غیرقابل مهار همچنان پابرجا است.",
+      "key_points_fa": [
+        "ورود بیش از ۱۳۰۰ نفر از مراکش به ملیلیه در تاریخ ۳۰ ژوئیه",
+        "بازگشت بیشتر افراد واردشده به کشور مبدأ",
+        "وجود نگرانی عمومی در میان ساکنان ملیلیه نسبت به تکرار حوادث مشابه سبته"
+      ],
+      "analysis_fa": "مسأله مهاجرت در شهرهای مرزی اسپانیا همواره یکی از چالش‌های امنیتی و اجتماعی حساس بوده است. رویدادهایی از این دست، فشار مضاعفی بر زیرساخت‌های محلی و روابط دیپلماتیک با مراکش وارد می‌کند و نیازمند مدیریت دقیق مرزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ملیلیه",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#مراکش"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
