@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:32:21.996050+00:00",
+  "generated_at": "2026-08-15T15:54:08.056212+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -12,10 +12,10 @@
     {
       "id": "7b0f0c5b2141",
       "source": "La Vanguardia",
-      "title": "Última hora de la crisis migratoria en Ceuta, en directo: Las autoridades marroquíes piden a los periodistas de EFE y TVE que abandonen Castillejos",
+      "title": "Última hora de la crisis migratoria en Ceuta, en directo: Marruecos expulsa a EFE y TVE de Castillejos",
       "summary": "La policía marroquí expulsa de Castillejos a los centenares de subsaharianos que se habían acercado a la frontera con la ciudad autónoma",
       "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8007c523eea.r_d.2725-1032-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a803e64c2beb.r_d.1484-990-0.jpeg",
       "published_at": "2026-08-15T06:00:01+02:00",
       "category": "migracion",
       "priority": 89,
@@ -74,7 +74,7 @@
       "summary": "La policía marroquí detiene a 61 personas por incitar a la migración ilegal hacia Ceuta | Los agentes expulsan de Castillejos a los centenares de subsaharianos que se habían acercado a la frontera con la ciudad autónoma",
       "url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/S57VT23KVBFQJNDLNDAO6SCIOM.jpg?auth=da379a5f68fe93f58a76feb327262ea9ea4846e97373bd5d338e03d65d1b94ba",
-      "published_at": "2026-08-15T15:15:30+00:00",
+      "published_at": "2026-08-15T15:31:39+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "آمادگی مرزی در سبته پس از تلاش صدها مهاجر برای ورود",
@@ -497,6 +497,35 @@
       "editorial_version": 2
     },
     {
+      "id": "92561777b31f",
+      "source": "EL PAÍS Economía",
+      "title": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
+      "summary": "La revolución demográfica que vive España eleva los gastos, agrava el problema de la vivienda e incrementa el riesgo de vulnerabilidad",
+      "url": "https://elpais.com/economia/negocios/2026-08-16/la-atomizacion-de-los-hogares-por-que-la-reduccion-del-tamano-de-las-familias-tiene-efectos-economicos-negativos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E323IOTZYZEW3JLMFIHEWICXBM.JPG?auth=75f2ef80d7c8c35041ce342f3b11a46fda122e755454c504371f6d1e973451db",
+      "published_at": "2026-08-15T15:30:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "کوچک شدن خانوارهای اسپانیایی و چالش‌های اقتصادی آن",
+      "lead_fa": "تحولات جمعیتی در اسپانیا باعث کاهش اندازه خانواده‌ها و افزایش تعداد خانوارهای تک‌نفره شده است. این روند با افزایش هزینه‌ها، تشدید بحران مسکن و بالا رفتن خطر آسیب‌پذیری اقتصادی همراه است.",
+      "key_points_fa": [
+        "کاهش چشمگیر میانگین اعضای هر خانوار در سراسر اسپانیا",
+        "افزایش فشارهای تورمی و هزینه‌های روزمره زندگی به دلیل تکه‌تکه شدن خانوارها",
+        "تشدید بحران مسکن و تقاضای بیشتر برای واحدهای کوچکتر"
+      ],
+      "analysis_fa": "کوچک شدن ابعاد خانوارها در اسپانیا نشان‌دهنده تغییرات عمیق اجتماعی و جمعیتی است که الگوهای مصرف و بازار مسکن را دگرگون می‌کند. این پدیده ساختار تقاضا برای کالاها و خدمات را تغییر داده و فشار مضاعفی بر سیستم رفاهی و اقتصادی کشور وارد می‌آورد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#مسکن",
+        "#جمعیت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e07b634f15ec",
       "source": "EL PAÍS España",
       "title": "Rabat expulsa a los periodistas de Efe y TVE de Castillejos",
@@ -838,35 +867,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5e247aa6ea82",
-      "source": "La Vanguardia",
-      "title": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
-      "summary": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11596526/govern-aspira-gestionar-estaciones-rodalies-titularidad-renfe-adif.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b6efe3372f.r_d.3904-2357-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "دولت کاتالونیا خواستار مدیریت ایستگاه‌های رونکال شد",
-      "lead_fa": "دولت محلی کاتالونیا به دنبال مدیریت ایستگاه‌های قطارهای حومه‌ای تحت مالکیت رنفه و آدایف است. این شرکت‌های دولتی در حال حاضر پروژه‌های متعددی را در ده‌ها ایستگاه اجرا می‌کنند.",
-      "key_points_fa": [
-        "تمرکز بر بهبود قابلیت اطمینان و کیفیت خدمات ریلی",
-        "برنامه‌ریزی برای حدود ۴۰ ایستگاه قطار",
-        "اجرای پروژه‌های عمرانی توسط دو شرکت دولتی رنفه و آدایف"
-      ],
-      "analysis_fa": "این درخواست بخشی از تلاش‌های دولت محلی برای افزایش اختیارات مدیریتی در زیرساخت‌های حمل‌ونقل عمومی است. واگذاری مدیریت ایستگاه‌ها می‌تواند به هماهنگی بیشتر در اجرای پروژه‌ها کمک کند، اما نیازمند توافقات فنی و حقوقی با دولت مرکزی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#قطار",
-        "#کاتالونیا",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f35b94dc72c9",
       "source": "EL PAÍS",
       "title": "‘Operación Jaula’ en Castillejos: no es frontera para jóvenes",
@@ -1034,6 +1034,64 @@
         "#اروپا",
         "#اقتصاد",
         "#رمزارز"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d64a4655ba37",
+      "source": "La Vanguardia",
+      "title": "Marruecos expulsa de Fnideq a los periodistas de EFE y TVE sin explicar los motivos",
+      "summary": "La decisión se ha producido tras el intento de entrada de centenares de migrantes abortado por Rabat",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614398/marruecos-expulsa-fnideq-periodistas-efe-tve-sin-explicaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a803e64c2beb.r_d.1484-990-0.jpeg",
+      "published_at": "2026-08-15T16:46:19+02:00",
+      "category": "migracion",
+      "priority": 70,
+      "title_fa": "اخراج خبرنگاران رسانه‌های اسپانیایی از مراکش",
+      "lead_fa": "مقام‌های مراکش خبرنگاران خبرگزاری افه و تلویزیون اسپانیا را بدون ذکر دلیل از شهر فنیدق اخراج کردند. این اقدام پس از تلاش صدها مهاجر برای ورود غیرقانونی و مهار آن توسط رباط رخ داد.",
+      "key_points_fa": [
+        "اخراج خبرنگاران خبرگزاری افه (EFE) و تلویزیون اسپانیا (TVE)",
+        "این رویداد در شهر مرزی فنیدق رخ داد",
+        "عدم ارائه دلیل رسمی از سوی مقام‌های مراکش",
+        "وقوع این اقدام پس از تلاش صدها مهاجر برای ورود به خاک اسپانیا"
+      ],
+      "analysis_fa": "این تصمیم مراکش در فضایی از تنش‌های مرتبط با مدیریت مرزی و تلاش مهاجران برای عبور از مرزها اتخاذ شده است. مهار این تلاش‌ها توسط نیروهای امنیتی مراکش و سپس محدود کردن دسترسی رسانه‌ها، نشان‌دهنده حساسیت شدید دولت این کشور نسبت به پوشش رسانه‌ای بحران‌های مهاجرتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#مراکش",
+        "#اسپانیا",
+        "#مهاجرت",
+        "#رسانه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0e3b0d0076ed",
+      "source": "La Vanguardia",
+      "title": "El Meteocat emite un aviso por tiempo violento este sábado por la tarde en parte de Catalunya",
+      "summary": "Cinco comarcas están afectadas ante la previsión de tormentas con piedra, rachas de viento superiores a 90 km/h y reventones",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260815/11614392/meteocat-emite-aviso-violento-sabado-tarde-parte-catalunya.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/23/6880b9f9dc168.jpeg",
+      "published_at": "2026-08-15T16:35:43+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "هشدار هواشناسی کاتالونیا درباره طوفان شدید و تگرگ در روز شنبه",
+      "lead_fa": "سازمان هواشناسی کاتالونیا برای بعدازظهر شنبه هشدار وضعیت جوی شدید صادر کرد. پنج منطقه تحت تأثیر طوفان‌های همراه با تگرگ و تندباد قرار دارند.",
+      "key_points_fa": [
+        "صدور هشدار برای پنج منطقه در کاتالونیا",
+        "پیش‌بینی وزش باد با سرعت بیش از ۹۰ کیلومتر بر ساعت",
+        "احتمال وقوع تگرگ و طوفان‌های ناگهانی"
+      ],
+      "analysis_fa": "این هشدارها بخشی از پروتکل‌های ایمنی استاندارد در مواجهه با سامانه‌های ناپایدار جوی فصلی است و بر ضرورت آمادگی نهادهای محلی تأکید می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#هواشناسی",
+        "#کاتالونیا",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1233,33 +1291,6 @@
         "#دانشگاه_اسپانیا",
         "#رتبه‌بندی_شانگهای",
         "#آموزش_عالی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9dee4f4ed570",
-      "source": "La Vanguardia",
-      "title": "Nichos de hormigón para los cadáveres recuperados en Ceuta que nadie reclamará",
-      "summary": "Las autoridades locales han pedido que en un plazo de dos semanas esté finalizada la ampliación",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614050/nichos-hormigon-cadaveres-recuperados-nadie-reclamara.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f46732549a.r_d.2806-2470-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "آماده‌سازی آرامگاه برای اجساد شناسایی‌نشده در سبته",
-      "lead_fa": "مقامات محلی سبته خواستار تکمیل توسعه گورستان برای دفن اجساد بازیابی‌شده تا دو هفته آینده شدند. این اقدام برای اجسادی است که هیچ‌کس آن‌ها را مطالبه نکرده است.",
-      "key_points_fa": [
-        "درخواست مقامات محلی برای اتمام پروژه‌های توسعه در مهلت دو هفته‌ای.",
-        "اختصاص فضا برای اجساد بازیابی‌شده‌ای که صاحب مشخصی ندارند."
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده چالش‌های مدیریتی و بشردوستانه در شهرهای مرزی اسپانیا مانند سبته است که با جان‌باختگان ناشناخته یا بدون همراه مواجه هستند. افزایش ظرفیت گورستان‌ها گامی اداری برای پاسخگویی به این بحران‌ها به شمار می‌رود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#اسپانیا",
-        "#مهاجرت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1915,6 +1946,28 @@
       "editorial_version": 2
     },
     {
+      "id": "4e8f68a5a7fc",
+      "source": "La Vanguardia",
+      "title": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
+      "summary": "Urbanismo publica el borrador del futuro Plan General que diseña la ciudad del futuro y amplía una consulta a los vecinos, mientras estos denuncian el abandono en plazas, jardines y calles fundamentales de la urbe",
+      "url": "https://www.lavanguardia.com/local/valencia/20260815/11614028/alicante-anuncia-proyectos-20-anos-acumula-problemas-pendientes-resolver.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f37b780203.jpeg",
+      "published_at": "2026-08-15T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
+      "lead_fa": "Urbanismo publica el borrador del futuro Plan General que diseña la ciudad del futuro y amplía una consulta a los vecinos, mientras estos denuncian el abandono en plazas, jardines y calles fundamentales de la urbe",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "65198894438b",
       "source": "EL PAÍS Economía",
       "title": "Las alianzas universitarias, el nuevo activo estratégico de Europa",
@@ -1923,7 +1976,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/6YMSMTQG4NFV7DHLRFIVIA52YM.JPG?auth=458a5bdcd53464d3d1eb03c85f03734ea257998828e41f15a8491b7f67997b81",
       "published_at": "2026-08-15T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Las alianzas universitarias, el nuevo activo estratégico de Europa",
       "lead_fa": "Las universidades integradas en estas redes están cofinanciando el déficit con sus presupuestos y lo asumen como una inversión estratégica",
       "key_points_fa": [],
@@ -1945,7 +1998,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/R6QUQMTXIZEIXN67K735CKFCAY.jpg?auth=fe725923e072c6b50fb67bcc7676bca02dff67b2f77b5d3262dc6dbe2ea3458e",
       "published_at": "2026-08-15T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "La medida de lo suficiente",
       "lead_fa": "Por qué la satisfacción del inversor depende menos de lo que gana que de lo que esperaba ganar",
       "key_points_fa": [],
@@ -1967,31 +2020,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/MZG62ASEAVO2DGCGLLZJZWX6RQ.jpg?auth=62af380459b4d7ceaa941152a566b3fb37f2b2ce3b02f888a1576233ac939f7c",
       "published_at": "2026-08-15T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "La nueva oportunidad industrial de España está en el Caribe",
       "lead_fa": "República Dominicana ha declarado los semiconductores prioridad nacional y quiere entrar en la cadena global",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4e8f68a5a7fc",
-      "source": "La Vanguardia",
-      "title": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
-      "summary": "Urbanismo publica el borrador del futuro Plan General que diseña la ciudad del futuro y amplía una consulta a los vecinos, mientras estos denuncian el abandono en plazas, jardines y calles fundamentales de la urbe",
-      "url": "https://www.lavanguardia.com/local/valencia/20260815/11614028/alicante-anuncia-proyectos-20-anos-acumula-problemas-pendientes-resolver.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f37b780203.jpeg",
-      "published_at": "2026-08-15T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
-      "lead_fa": "Urbanismo publica el borrador del futuro Plan General que diseña la ciudad del futuro y amplía una consulta a los vecinos, mientras estos denuncian el abandono en plazas, jardines y calles fundamentales de la urbe",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2608,28 +2639,6 @@
       "priority": 58,
       "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
       "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b4298a2ae0bd",
-      "source": "La Vanguardia",
-      "title": "Los últimos campistas de la autovía de Castelldefels",
-      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 51,
-      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
-      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
