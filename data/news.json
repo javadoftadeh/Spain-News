@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:53:57.852203+00:00",
+  "generated_at": "2026-08-15T22:34:40.235153+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -180,6 +180,34 @@
         "#مهاجرت",
         "#اسپانیا",
         "#مرز"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "98d503f3a2c7",
+      "source": "La Vanguardia",
+      "title": "Los Bombers dan por extinguido el incendio de Collserola",
+      "summary": "Las causas del fuego continúan bajo investigación, si bien la Guardia Urbana pudo detener a un hombre que llevaba encima dos encendedores justo en el momento del inicio de las llamas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11614501/extinguido-incendio-forestal-collserola-quemado-10-hectareas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80cddcdd1d1.r_d.1493-1165-0.jpeg",
+      "published_at": "2026-08-15T22:45:48+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "مهار کامل آتش‌سوزی در پارک طبیعی کایسِرولا بارسلونا",
+      "lead_fa": "آتش‌سوزی در منطقه کایسِرولا توسط آتش‌نشانان کاملاً مهار شد. پلیس محلی یک فرد را در ارتباط با این حادثه بازداشت کرده است.",
+      "key_points_fa": [
+        "آتش‌نشانان موفق به مهار کامل آتش در پارک طبیعی کایسِرولا شدند.",
+        "گارد شهری یک مرد را که دو فندک به همراه داشت، در زمان آغاز حریق بازداشت کرد.",
+        "تحقیقات درباره علل دقیق وقوع این آتش‌سوزی همچنان ادامه دارد."
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی در مناطق حفاظت‌شده طبیعی و حومه کلان‌شهرها همواره یکی از چالش‌های مهم مدیریت شهری در فصل‌های گرم سال است. اقدام سریع نهادهای امدادی و امنیتی در مهار این حادثه و بازداشت فرد مشکوک، اهمیت آمادگی پیشگیرانه را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#بارسلونا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -435,6 +463,34 @@
         "#اسپانیا",
         "#اقتصاد",
         "#انرژی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3416ab749cbe",
+      "source": "EL PAÍS",
+      "title": "El Sevilla remonta de penalti ante un Rayo muy flojo",
+      "summary": "Los madrileños regalaron el partido el encajar un segundo gol en el alargue, cuando jugaban con uno más por la expulsión de Kike Salas",
+      "url": "https://elpais.com/deportes/futbol/2026-08-15/el-sevilla-remonta-de-penalti-ante-un-rayo-muy-flojo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WIPO4TLI6VKS7PR4GHVY2QDVBY.jpg?auth=0114868e880d963346bdb401f1a827e4bfcc58ceea6855a03f4bc62f9a8535ac",
+      "published_at": "2026-08-15T22:04:57+00:00",
+      "category": "deportes",
+      "priority": 75,
+      "title_fa": "پیروزی سویا برابر رایو وایکانو با گل پنالتی",
+      "lead_fa": "تیم فوتبال سویا موفق شد در مسابقه‌ای نزدیک، رایو وایکانو را شکست دهد. گل پیروزی‌بخش سویا در دقایق پایانی مسابقه به ثمر رسید.",
+      "key_points_fa": [
+        "سویا از روی نقطه پنالتی موفق به گلزنی شد.",
+        "رایو وایکانو عملکرد ضعیفی از خود به نمایش گذاشت.",
+        "کیکه سالاس از سویا در جریان بازی اخراج شد."
+      ],
+      "analysis_fa": "این دیدار نشان‌دهنده چالش‌های دو تیم در خط حمله و استفاده از موقعیت‌ها بود. سویا با وجود ۱۰ نفره شدن توانست از اشتباهات حریف نهایت استفاده را ببرد و نتیجه را به سود خود تغییر دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سویا",
+        "#رایو_وایکانو",
+        "#لالیگا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -983,30 +1039,31 @@
       "editorial_version": 2
     },
     {
-      "id": "5e247aa6ea82",
+      "id": "5bc28a70874e",
       "source": "La Vanguardia",
-      "title": "El Govern quiere gestionar las 200 estaciones de Rodalies bajo titularidad de Renfe y Adif",
-      "summary": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11596526/govern-aspira-gestionar-estaciones-rodalies-titularidad-renfe-adif.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b6efe3372f.r_d.3904-2357-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "دولت کاتالونیا خواستار مدیریت ایستگاه‌های رودالس شد",
-      "lead_fa": "دولت محلی کاتالونیا تمایل دارد مدیریت ایستگاه‌های قطار تحت مالکیت رنفه و آدیف را بر عهده بگیرد. این دو شرکت دولتی در حال حاضر پروژه‌های مختلفی را در حدود ۴۰ ایستگاه پیش می‌برند.",
+      "title": "Al menos dos muertos y dos heridos tras una riada en Ponferrada",
+      "summary": "Una brutal tormenta ha descargado esta tarde sobre la zona y ha hecho que se desbordara el río Meruelo y provocara una riada y un deslizamiento de tierra",
+      "url": "https://www.lavanguardia.com/local/castilla-leon/20260815/11614499/dos-muertos-dos-heridos-riada-cerca-ponferrada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80cc4a8dd9e.r_d.1027-599-0.jpeg",
+      "published_at": "2026-08-15T22:02:45+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "طوفان و سیل در پونفرادا دست‌کم دو کشته برجای گذاشت",
+      "lead_fa": "طوفان شدید در منطقه پونفرادا موجب طغیان رودخانه مرولو شد. این حادثه به سیل و رانش زمین انجامید.",
       "key_points_fa": [
-        "تمرکز بر بهبود قابلیت اطمینان خدمات ریلی در ایستگاه‌های هدف",
-        "انجام پروژه‌های عمرانی توسط رنفه و آدیف در حدود ۴۰ ایستگاه",
-        "تلاش دولت محلی برای افزایش اختیارات در مدیریت زیرساخت‌ها"
+        "وقوع طوفان شدید عصرگاه در منطقه پونفرادا",
+        "طغیان رودخانه مرولو و جاری شدن سیل",
+        "وقوع رانش زمین همزمان با طغیان رودخانه",
+        "جان باختن دست‌کم دو نفر و زخمی شدن دو تن دیگر"
       ],
-      "analysis_fa": "این درخواست در چارچوب تلاش‌های دولت محلی کاتالونیا برای کسب اختیارات بیشتر در حوزه حمل‌ونقل عمومی و بهبود کیفیت شبکه ریلی مطرح شده است. واگذاری مدیریت ایستگاه‌ها به نهادهای محلی می‌تواند تغییراتی در نحوه نظارت و اجرای پروژه‌های زیرساختی ایجاد کند.",
+      "analysis_fa": "بارش‌های ناگهانی و شدید که منجر به طغیان رودخانه‌ها و رانش زمین می‌شوند، خطرات جدی برای مناطق مسکونی ایجاد می‌کنند. این حادثه اهمیت آمادگی زیرساخت‌ها در برابر حوادث طبیعی شدید را برجسته می‌سازد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
-        "#رودالس",
-        "#کاتالونیا",
         "#اسپانیا",
-        "#حمل_ونقل"
+        "#سیل",
+        "#پونفرادا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1154,34 +1211,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c225c1a04b44",
-      "source": "La Vanguardia",
-      "title": "España gana el oro mundial y consigue el billete para Los Angeles'28",
-      "summary": "España vuelve a ser campeona del mundo 35 años después en Frankfurt",
-      "url": "https://www.lavanguardia.com/deportes/otros-deportes/20260815/11614433/espana-campeona-mundo-gimnasia-ritmica-juegos-olimpicos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a809bbea6bb2.jpeg",
-      "published_at": "2026-08-15T18:37:52+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "اسپانیا پس از ۳۵ سال قهرمان جهان شد",
-      "lead_fa": "تیم ملی اسپانیا پس از ۳۵ سال موفق شد بار دیگر عنوان قهرمانی جهان را در فرانکفورت به دست آورد. با این پیروزی، سهمیه حضور در بازی‌های المپیک لس‌آنجلس ۲۰۲۸ نیز کسب شد.",
-      "key_points_fa": [
-        "اسپانیا پس از ۳۵ سال به مقام قهرمانی جهان رسید.",
-        "این مسابقات در شهر فرانکفورت برگزار شد.",
-        "تیم اسپانیا سهمیه المپیک ۲۰۲۸ لس‌آنجلس را دریافت کرد."
-      ],
-      "analysis_fa": "این موفقیت ورزشی نشان‌دهنده بازگشت اسپانیا به جایگاه نخست جهانی پس از دهه‌ها تلاش است و جایگاه این کشور را در ورزش قهرمانی تثبیت می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#قهرمان_جهان",
-        "#ورزش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "b0f4dff802eb",
       "source": "EL PAÍS",
       "title": "El conjunto español de gimnasia rítmica conquista un oro mundial histórico 35 años después",
@@ -1268,34 +1297,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0e3b0d0076ed",
-      "source": "La Vanguardia",
-      "title": "El Meteocat emite un aviso por tiempo violento este sábado en parte de Catalunya",
-      "summary": "Cinco comarcas están afectadas ante la previsión de tormentas con piedra, rachas de viento superiores a 90 km/h y reventones",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260815/11614392/meteocat-emite-aviso-violento-sabado-tarde-parte-catalunya.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/23/6880b9f9dc168.jpeg",
-      "published_at": "2026-08-15T16:35:43+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "هشدار هواشناسی کاتالونیا درباره طوفان شدید و تگرگ در روز شنبه",
-      "lead_fa": "سازمان هواشناسی کاتالونیا برای بعدازظهر شنبه هشدار وضعیت جوی شدید صادر کرد. پنج منطقه تحت تأثیر طوفان‌های همراه با تگرگ و تندباد قرار دارند.",
-      "key_points_fa": [
-        "صدور هشدار برای پنج منطقه در کاتالونیا",
-        "پیش‌بینی وزش باد با سرعت بیش از ۹۰ کیلومتر بر ساعت",
-        "احتمال وقوع تگرگ و طوفان‌های ناگهانی"
-      ],
-      "analysis_fa": "این هشدارها بخشی از پروتکل‌های ایمنی استاندارد در مواجهه با سامانه‌های ناپایدار جوی فصلی است و بر ضرورت آمادگی نهادهای محلی تأکید می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#هواشناسی",
-        "#کاتالونیا",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "3a089b15ccda",
       "source": "EL PAÍS",
       "title": "En el Gurugú ya solo quedan los monos",
@@ -1326,7 +1327,7 @@
     {
       "id": "59c26eac5fba",
       "source": "La Vanguardia",
-      "title": "Detenidos seis multirreincidentes con más de 200 antecedentes en Barcelona",
+      "title": "Detenidos seis multirreincidentes con más de 200 antecedentes",
       "summary": "El dispositivo centrado en los tirones de cadenas se ha llevado a cabo en diferentes distritos de la capital catalana",
       "url": "https://www.lavanguardia.com/local/barcelona/20260815/11614362/detenidos-seis-multirreincidentes-mas-200-antecedentes-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/22/682ee7554d3e0.r_d.2016-1512-0.jpeg",
@@ -1895,34 +1896,6 @@
       "editorial_version": 2
     },
     {
-      "id": "912dc98eb415",
-      "source": "La Vanguardia",
-      "title": "¿Qué pasa con el topless?",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260815/11614003/que-pasa-topless.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/27/6a6707d9ea540.r_d.1467-1083-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "وضعیت آزادی برهنگی بالاتنه در ساحل‌های اسپانیا",
-      "lead_fa": "برهنگی بالاتنه زنان در استخرها و سواحل اسپانیا همچنان موضوعی مورد بحث است. قوانین برابری جنسیتی حق استفاده از این پوشش را به رسمیت شناخته‌اند.",
-      "key_points_fa": [
-        "قوانین اسپانیا برهنگی بالاتنه زنان را در فضاهای آبی عمومی مجاز می‌داند.",
-        "برخی مراکز و افراد همچنان در اجرای این قانون مقاومت می‌کنند.",
-        "مبارزه برای تثبیت این حق توسط گروه‌های فمینیستی ادامه دارد."
-      ],
-      "analysis_fa": "موضوع آزادی پوشش در فضاهای عمومی اسپانیا بخشی از تلاش‌های گسترده‌تر برای برابری جنسیتی و حقوق فردی است. با وجود صراحت قوانین در حمایت از حقوق زنان، چالش‌های فرهنگی و اجرایی در سطح محلی همچنان مانع‌تراشی می‌کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#جامعه",
-        "#حقوق_زنان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c2a057a6bd89",
       "source": "La Vanguardia",
       "title": "Los franceses pescan en familia en el delta del Ebro",
@@ -2259,35 +2232,6 @@
       "editorial_version": 2
     },
     {
-      "id": "adb79ccdb5bb",
-      "source": "EL PAÍS",
-      "title": "La lección de Rocky Balboa: cómo mezclar cardio y pesas para alargar la vida con salud",
-      "summary": "Separar el ejercicio en dos cajones, el que sube las pulsaciones y el que cuesta levantar, es artificial. El debate ya no es si hay que combinarlos, sino cómo hacerlo",
-      "url": "https://elpais.com/salud-y-bienestar/2026-08-15/la-leccion-de-rocky-balboa-como-mezclar-cardio-y-pesas-para-alargar-la-vida-con-salud.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CNYYRLSSVFDWTJAARN4FMZSRPM.jpg?auth=0019209e1104f3b40a866c402a89609879eccf25afc81072f19f00cfc811bec5",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "درس راکی بالبوآ: ترکیب تمرین هوازی و وزنه برای طول عمر سالم",
-      "lead_fa": "تقسیم‌بندی تمرینات ورزشی به دو دسته هوازی و مقاومتی رویکردی مصنوعی است. بحث اصلی دیگر بر سر لزوم ترکیب آن‌ها نیست، بلکه چگونگی انجام آن است.",
-      "key_points_fa": [
-        "تمرینات هوازی و مقاومتی باید با یکدیگر ترکیب شوند.",
-        "جداسازی تمرینات ورزشی به عنوان دسته‌های مجزا دیگر منسوخ شده است.",
-        "تمرکز اصلی متخصصان بر روی نحوه بهینه ترکیب این دو نوع تمرین است."
-      ],
-      "analysis_fa": "این دیدگاه نشان‌دهنده تغییر پارادایم در علوم ورزشی و پزشکی پیشگیرانه است که در آن تناسب اندام جامع به عنوان کلید سلامت عمومی و افزایش طول عمر در نظر گرفته می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سلامتی",
-        "#ورزش",
-        "#تناسب_اندام",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9c3321e3a82f",
       "source": "EL PAÍS",
       "title": "Cinco años de esclavitud afgana",
@@ -2341,6 +2285,50 @@
         "#جامعه"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9ebd7a90802a",
+      "source": "La Vanguardia",
+      "title": "Los interrogantes del caso de Tauste, el asesinato de dos personas buenas",
+      "summary": "El crimen que segó la vida de Javier y Esther deja a un pueblo de luto y las sospechas sobre una de las hijas y su actual pareja",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614414/interrogantes-caso-tauste-asesinato-dos-personas-buenas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a808b5fefdca.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Los interrogantes del caso de Tauste, el asesinato de dos personas buenas",
+      "lead_fa": "El crimen que segó la vida de Javier y Esther deja a un pueblo de luto y las sospechas sobre una de las hijas y su actual pareja",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "04bf358adb2c",
+      "source": "La Vanguardia",
+      "title": "Carreras de lanchas eléctricas: el capricho de famosos ricos que lidera el yerno de Aznar",
+      "summary": "Will Smith, Rafa Nadal, Marc Anthony, LeBron James, Courtois, Steve Aoki, Tom Brady y Didier Drogba poseen su propia escudería de Race Bids, naves acuáticas que recuerdan a ‘Star Wars’",
+      "url": "https://www.lavanguardia.com/gente/20260815/11613912/race-birds-agag-aznar-will-smith-rafa-nadal-marc-anthony-courtois.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f0abc21942.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Carreras de lanchas eléctricas: el capricho de famosos ricos que lidera el yerno de Aznar",
+      "lead_fa": "Will Smith, Rafa Nadal, Marc Anthony, LeBron James, Courtois, Steve Aoki, Tom Brady y Didier Drogba poseen su propia escudería de Race Bids, naves acuáticas que recuerdan a ‘Star Wars’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2649,7 +2637,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69",
       "published_at": "2026-08-14T07:17:54+00:00",
       "category": "sociedad",
-      "priority": 58,
+      "priority": 57,
       "title_fa": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
       "lead_fa": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
       "key_points_fa": [],
@@ -2671,7 +2659,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb04ea86e.r_d.458-260-0.jpeg",
       "published_at": "2026-08-14T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Salou, el eterno campo y playa de los maños",
       "lead_fa": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
       "key_points_fa": [],
@@ -2817,7 +2805,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 140
+      "count": 141
     }
   ]
 }
