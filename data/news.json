@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:53:11.548091+00:00",
+  "generated_at": "2026-08-15T20:35:30.352513+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -475,7 +475,7 @@
       "summary": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera ceutí. El Gobierno de España asegura que está buscando una solución",
       "url": "https://elpais.com/espana/2026-08-15/rabat-ordena-a-los-periodistas-de-efe-y-tve-que-abandonen-castillejos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4",
-      "published_at": "2026-08-15T19:06:46+00:00",
+      "published_at": "2026-08-15T20:19:55+00:00",
       "category": "migracion",
       "priority": 75,
       "title_fa": "اخراج خبرنگاران اسپانیایی از کاستیخوس توسط مراکش",
@@ -870,35 +870,6 @@
       "editorial_version": 2
     },
     {
-      "id": "49715bfd5633",
-      "source": "EL PAÍS",
-      "title": "Un enfermero solo para 400 mayores en una residencia: “Si alguien se cae, por mucho que grite, no se le oye”",
-      "summary": "Trabajadores, familiares y usuarios de residencias de la Comunidad de Madrid denuncian falta de personal, mientras el Ejecutivo regional defiende que sus ratios son las correctas",
-      "url": "https://elpais.com/espana/madrid/2026-08-15/un-enfermero-solo-para-400-mayores-en-una-residencia-si-alguien-se-cae-por-mucho-que-grite-no-se-le-oye.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CUER7LVDQJF6BJAIJFMGSLEAYM.jpg?auth=1c04becc3d0d417a7967d757f942d1445c3dd83fa7394ccafe88ccd271a08977",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 74,
-      "title_fa": "کمبود پرستار در خانه‌های سالمندان مادرید؛ یک پرستار برای ۴۰۰ سالمند",
-      "lead_fa": "کارکنان، خانواده‌ها و سالمندان در خانه‌های سالمندان مادرید از کمبود شدید کادر درمان انتقاد کردند. در مقابل، دولت محلی این منطقه اصرار دارد که نسبت پرسنل با استانداردها مطابقت دارد.",
-      "key_points_fa": [
-        "شکایت از نسبت نامتعادل یک پرستار برای ۴۰۰ سالمند در برخی مراکز.",
-        "هشدار درباره عدم شنیده شدن صدای سالمندان در هنگام وقوع حوادثی مانند زمین خوردن.",
-        "دفاع دولت منطقه‌ای مادرید از وضعیت فعلی و رد اتهامات مربوط به کمبود نیرو."
-      ],
-      "analysis_fa": "این مسئله بخشی از چالش‌های ساختاری سیستم مراقبت از سالمندان در اسپانیاست که میان مطالبات کادر درمان برای بهبود خدمات و سیاست‌های بودجه‌ای دولت‌های محلی تنش ایجاد کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سالمندان",
-        "#مادرید",
-        "#اسپانیا",
-        "#پرستار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "583719ae1472",
       "source": "EL PAÍS",
       "title": "Cuál es el secreto del chiringuito español: “No tienen que tener la mejor comida, pero sí el mejor trato”",
@@ -1008,6 +979,36 @@
         "#کاتالونیا",
         "#اسپانیا",
         "#حمل_ونقل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "7c14495d00cb",
+      "source": "EL PAÍS",
+      "title": "Al menos dos personas fallecidas y dos menores heridos tras una riada en Manzanedo de Valdueza (León)",
+      "summary": "La Policía Nacional continúa en la zona pendiente de la evolución de la situación. No hay personas desaparecidas",
+      "url": "https://elpais.com/espana/2026-08-15/al-menos-un-fallecido-y-dos-menores-heridos-tras-una-riada-en-manzanedo-de-valdueza-leon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MQYNXLD43FDS3H5YA2FHZIEHGE.jpg?auth=3cb62bcdfa897e8f8911ba259796049c0a596e2499ed7f1af3702af295d0276b",
+      "published_at": "2026-08-15T19:54:27+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "سیل در لئون اسپانیا؛ جان‌باختن دست‌کم دو نفر و زخمی‌شدن دو کودک",
+      "lead_fa": "جاری شدن سیل در منطقه مانثاندو د والدوسا در استان لئون به مرگ دست‌کم دو نفر منجر شد. همچنین در این حادثه دو کودک آسیب دیدند و پلیس ملی همچنان در منطقه حضور دارد.",
+      "key_points_fa": [
+        "وقوع سیل در منطقه مانثاندو د والدوسا در استان لئون.",
+        "جان‌باختن حداقل دو نفر و مصدومیت دو کودک.",
+        "تداوم حضور پلیس ملی در منطقه برای ارزیابی وضعیت.",
+        "گزارش‌نشدن هیچ فرد مفقودشده‌ای تاکنون."
+      ],
+      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری برخی مناطق محلی اسپانیا را در برابر شرایط جوی ناپایداری که اخیراً این کشور را تحت تأثیر قرار داده، نشان می‌دهد. واکنش سریع نیروهای امدادی و پلیس برای کنترل وضعیت و بررسی مناطق آسیب‌دیده ادامه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سیل",
+        "#اسپانیا",
+        "#لئون",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1272,7 +1273,7 @@
       "title": "En el Gurugú ya solo quedan los monos",
       "summary": "El monte marroquí que preside el paisaje de Melilla, albergue durante años de migrantes subsaharianos antes de intentar el salto a España, ya no acoge ningún campamento",
       "url": "https://elpais.com/espana/2026-08-15/en-el-gurugu-ya-solo-quedan-los-monos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQV2XHGFOREMVFATPJ37YNHCFQ.jpg?auth=bb49b80254f3808be57369083c02ec231fa7648e1ca8353c374818218a6095bf",
+      "image": "https://imagenes.elpais.com/resizer/v2/WZGEZVGYIBCHZGJTD2TSJYZYNU.jpeg?auth=e1ccb9f6fbc1f00600c170089b4cb8ad276fbcaf19464b70447c7096e6f5ecf4",
       "published_at": "2026-08-15T16:28:01+00:00",
       "category": "migracion",
       "priority": 70,
@@ -2182,16 +2183,23 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Un día cualquiera para una mujer de Afganistán: “He perdido mi lugar en la sociedad”",
-      "lead_fa": "Tres jóvenes describen cómo las restricciones de los talibanes y el miedo invaden todos los actos de su existencia desde agosto de 2021",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "زندگی زنان افغان زیر سایه طالبان: جایگاه خود را در جامعه از دست داده‌ایم",
+      "lead_fa": "سه زن جوان افغان از تاثیر محدودیت‌های طالبان و ترس روزمره بر زندگی خود پس از آگوست ۲۰۲۱ می‌گویند. آن‌ها از حذف کامل از فضاهای اجتماعی و از دست رفتن حقوق اولیه خود خبر می‌دهند.",
+      "key_points_fa": [
+        "محدودیت‌های شدید طالبان از ماه اوت ۲۰۲۱ بر تمام ابعاد زندگی زنان در افغانستان سایه افکنده است.",
+        "سه زن جوان افغان توصیف می‌کنند که چگونه ترس و سرکوب جایگزین آزادی‌های پیشین شده است.",
+        "زنان افغان از از دست رفتن جایگاه خود در ساختار اجتماعی و محرومیت از حقوق انسانی شکایت دارند."
+      ],
+      "analysis_fa": "گزارش‌های مستمر از افغانستان نشان می‌دهد که سیاست‌های سخت‌گیرانه طالبان علیه زنان همچنان ادامه دارد و این قشر با انزوای فزاینده‌ای روبه‌رو است. این وضعیت چالش‌های حقوق بشری عمیقی را در این کشور ایجاد کرده است که واکنش‌های بین‌المللی را به همراه داشته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#زنان_افغان",
+        "#طالبان",
+        "#حقوق_بشر",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2204,16 +2212,22 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "“No sé si mañana seguiré vivo”: decenas de etíopes piden ayuda al mundo desde el corredor de la muerte saudí",
-      "lead_fa": "EL PAÍS contacta con dos reclusos que esperan en una prisión del país del Golfo y que temen ser los próximos en una cadena de ajusticiamientos denunciada por organizaciones de derechos humanos por graves irregularidades judiciales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "درخواست کمک ده ها اتیوپیایی در صف اعدام عربستان",
+      "lead_fa": "ده ها زندانی اتیوپیایی در عربستان سعودی با ابراز ناامیدی از سرنوشت خود، خواستار کمک جهانی شدند. سازمان های حقوق بشری نسبت به روند دادرسی این پرونده ها ابراز نگرانی کرده اند.",
+      "key_points_fa": [
+        "تماس روزنامه ال پائیس با دو زندانی اتیوپیایی در صف اعدام در عربستان",
+        "نگاهمندی زندانیان به اجرای قریب الوقوع احکام اعدام",
+        "اعتراض سازمان های حقوق بشری به ایرادات جدی قضایی در این پرونده ها"
       ],
-      "ai_translated": false,
+      "analysis_fa": "افزایش اجرای احکام اعدام و وضعیت اتباع خارجی در زندان های کشورهای حوزه خلیج فارس بار دیگر توجه نهادهای بین المللی حقوق بشر را به خود جلب کرده است. این وضعیت چالش های جدی حقوقی و دیپلماتیک را برای کشورهای مبدأ و مقصد به همراه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#عربستان",
+        "#اعدام",
+        "#حقوق_بشر"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2679,17 +2693,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
+      "id": "b4298a2ae0bd",
+      "source": "La Vanguardia",
+      "title": "Los últimos campistas de la autovía de Castelldefels",
+      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
+      "published_at": "2026-08-13T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 50,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "priority": 49,
+      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
+      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
