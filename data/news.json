@@ -1,97 +1,68 @@
 {
-  "generated_at": "2026-08-15T04:43:49.753724+00:00",
+  "generated_at": "2026-08-15T05:36:43.934645+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "48ea46f5e72a",
-    "b8f7018f025a",
-    "9715c8de332a",
+    "7b0f0c5b2141",
+    "c713aaeb7565",
     "03e5be2da2fb",
-    "bde557e93a1a"
+    "bde557e93a1a",
+    "5c578267fa51"
   ],
   "items": [
     {
-      "id": "48ea46f5e72a",
-      "source": "EL PAÍS",
-      "title": "“La pasión no se planifica; se descubre caminando”",
-      "summary": "La obsesión con el trabajo y la productividad, el incendio de Huelva y la crisis migratoria de Ceuta centran las reflexiones de los lectores",
-      "url": "https://elpais.com/opinion/2026-08-15/la-pasion-no-se-planifica-se-descubre-caminando.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6SIV2A5KTFFJTCUFXIOMEZI7VI.jpg?auth=3a8943d10abacddcf1eae89288908f69fe2e7a9f9cbb3ffb56ad9ecaf1a12591",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "بازتاب اشتغال، آتش‌سوزی هوئلوا و بحران سبته در دیدگاه خوانندگان",
-      "lead_fa": "نامه‌های خوانندگان روزنامه ال پائیس به موضوعاتی چون فرهنگ کار، آتش‌سوزی در هوئلوا و بحران مهاجرت در سبته پرداخته است. این دیدگاه‌ها بازتاب‌دهنده دغدغه‌های اجتماعی روز در اسپانیا است.",
+      "id": "7b0f0c5b2141",
+      "source": "La Vanguardia",
+      "title": "La frontera, en alerta: última hora sobre una jornada que se prevé tensa",
+      "summary": "Marruecos y España blindan la frontera de Ceuta ante el llamamiento de un nuevo salto para este sábado",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ef579346c6.r_d.2880-3862-0.jpeg",
+      "published_at": "2026-08-15T06:00:01+02:00",
+      "category": "migracion",
+      "priority": 89,
+      "title_fa": "آماده‌باش در مرز سئوتا؛ مراکش و اسپانیا مرزها را امنیتی کردند",
+      "lead_fa": "مراکش و اسپانیا در آستانه فراخوان برای هجوم جدید به مرز سئوتا در روز شنبه، اقدامات امنیتی را تشدید کردند. مرزهای این منطقه در وضعیت هشدار و آماده‌باش کامل قرار گرفته‌اند.",
       "key_points_fa": [
-        "انتقاد از تمرکز بیش از حد بر کار و بهره‌وری به عنوان یک دغدغه فردی و اجتماعی.",
-        "بازتاب پیامدهای مخرب آتش‌سوزی در منطقه هوئلوا.",
-        "پرداختن به چالش‌های مربوط به بحران مهاجرت در شهر سبته."
+        "فراخوان برای تلاش جدید جهت عبور از مرز در روز شنبه",
+        "اقدامات امنیتی مشترک مراکش و اسپانیا در سئوتا",
+        "برقراری وضعیت هشدار در مناطق مرزی"
       ],
-      "analysis_fa": "انتشار دیدگاه‌های خوانندگان در رسانه‌های مرجع اسپانیا نشان‌دهنده اهمیت یافتن مسائل روزمره و بحران‌های محیطی و انسانی در افکار عمومی است. این نظرات اغلب بازتاب‌دهنده فشارهای روانی ناشی از سبک زندگی مدرن در کنار بحران‌های عینی مانند مهاجرت و بلایای طبیعی هستند که جامعه را به چالش کشیده‌اند.",
+      "analysis_fa": "افزایش تدابیر امنیتی در مرزهای سئوتا نشان‌دهنده حساسیت بالای مقامات اسپانیا و مراکش نسبت به تحرکات سازمان‌یافته برای ورود غیرقانونی است. این مناطق به دلیل موقعیت جغرافیایی همواره با چالش‌های مهاجرتی روبرو هستند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
+        "#سئوتا",
         "#اسپانیا",
-        "#جامعه",
-        "#مهاجرت",
-        "#ال_پائیس"
+        "#مراکش",
+        "#مهاجرت"
       ],
       "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "b8f7018f025a",
+      "id": "c713aaeb7565",
       "source": "La Vanguardia",
-      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
-      "summary": "Miembros de la UME participan en la evacuación de los restos de los monarcas y obras de arte",
-      "url": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2f235e4ea.r_d.1189-974-0.jpeg",
-      "published_at": "2026-08-14T18:04:44+02:00",
+      "title": "Un terremoto de 5 grados con epicentro en Alhendín deja daños materiales y activa la fase de emergencia",
+      "summary": "Se han registrado 15 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a7fedd640be7.r_d.424-239-0.jpeg",
+      "published_at": "2026-08-15T06:42:13+02:00",
       "category": "sociedad",
       "priority": 84,
-      "title_fa": "تخلیه بقایای پادشاهان آراگون به دلیل آتش‌سوزی در هوئسکا",
-      "lead_fa": "اعضای واحد اضطراری نظامی اسپانیا بقایای پادشاهان آراگون را از یک صومعه خارج کردند. این اقدام برای نجات آثار تاریخی و استخوان‌های سلطنتی در پی وقوع آتش‌سوزی صورت گرفت.",
+      "title_fa": "زمین‌لرزه ۵ ریشتری در گرانادا و خسارات مادی",
+      "lead_fa": "زمین‌لرزه‌ای به بزرگی ۵ ریشتر در منطقه آلهندین اسپانیا رخ داد و خسارات مادی بر جای گذاشت. پس از این زلزله اصلی، ۱۵ پس‌لرزه دیگر در منطقه ثبت شد.",
       "key_points_fa": [
-        "مشارکت واحد اضطراری نظامی (UME) در عملیات تخلیه",
-        "انتقال بقایای پادشاهان آراگون و آثار هنری صومعه",
-        "تلاش برای حفاظت از میراث فرهنگی در برابر خطرات آتش‌سوزی در منطقه هوئسکا"
+        "مرکز زمین‌لرزه اصلی در منطقه آلهندین در استان گرانادا بوده است.",
+        "این زمین‌لرزه بیش از ۲۰۰ تماس با مراکز اورژانس و امدادی را به دنبال داشت.",
+        "مجموعا ۱۵ زمین‌لرزه با شدت‌های مختلف در منطقه کلان‌شهری گرانادا ثبت شد.",
+        "فاز اضطراری و هشدار در پی این حوادث فعال شده است."
       ],
-      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری میراث فرهنگی و تاریخی را در برابر بلایای طبیعی و آتش‌سوزی‌های جنگلی برجسته می‌کند. دخالت نهادهای نظامی نشان‌دهنده ابعاد جدی تهدید و نیاز به واکنش سریع برای حفظ آثار ملی است.",
+      "analysis_fa": "وقوع این زمین‌لرزه و زنجیره‌ای از پس‌لرزه‌های پس از آن در منطقه گرانادا، نیازمند ارزیابی دقیق سازه‌ها و آمادگی نهادهای امدادی برای مدیریت بحران‌های احتمالی آینده است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "important",
       "hashtags_fa": [
-        "#آتش‌سوزی",
+        "#زمین‌لرزه",
         "#اسپانیا",
-        "#تاریخ_آراگون",
-        "#میراث_فرهنگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9715c8de332a",
-      "source": "La Vanguardia",
-      "title": "EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta",
-      "summary": "En un mapa que clasifica los países según su nivel de riesgo, gran parte de Europa recibe el mismo nivel de alerta que China o Ecuador",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7eefcd6ec1e.r_d.1928-1118-0.jpeg",
-      "published_at": "2026-08-14T15:10:32+02:00",
-      "category": "politica",
-      "priority": 84,
-      "title_fa": "هشدار سفرهای آمریکا به اروپا و افزایش سطح هشدار درباره اسپانیا",
-      "lead_fa": "ایالات متحده به دلیل بحران اخیر در سبته سطح هشدار مسافرتی برای اسپانیا را افزایش داد. این نهاد همچنین از شهروندان خود خواست در سفرهای خود به اروپا نهایت احتیاط را به کار گیرند.",
-      "key_points_fa": [
-        "افزایش سطح هشدار مسافرتی ایالات متحده برای اسپانیا همزمان با بحران در سبته",
-        "قرار گرفتن بخش عمده‌ای از اروپا در همان سطح ریسک کشورهایی مانند چین و اکوادور",
-        "توصیه به شهروندان آمریکایی برای افزایش احتیاط هنگام سفر به قاره اروپا"
-      ],
-      "analysis_fa": "تغییر سطح هشدار از سوی ایالات متحده بازتاب‌دهنده ارزیابی نهادهای این کشور درباره تنش‌ها و تحولات اخیر در مرزهای اسپانیا است. این تصمیمات معمولاً بر اساس ارزیابی‌های امنیتی مقطعی اتخاذ می‌شوند و نشان‌دهنده تغییرات در رویکرد دیپلماتیک و امنیتی در قبال تحولات مدیترانه و مرزهای جنوبی اروپا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آمریکا",
-        "#سبته",
-        "#هشدار_سفر"
+        "#گرانادا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -154,35 +125,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3a5d5f3166cd",
-      "source": "La Vanguardia",
-      "title": "El Gobierno agiliza las expulsiones sumarias para vaciar las calles de Ceuta",
-      "summary": "La crisis de soberanía desplaza el debate sobre el reparto de menores entre comunidades",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613503/gobierno-agiliza-expulsiones-sumarias-vaciar-calles-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7eb2fcb50a6.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "دولت اسپانیا روند اخراج‌های فوری را برای تخلیه خیابان‌های سئوتا تسریع می‌کند",
-      "lead_fa": "دولت اسپانیا برای مقابله با بحران حاکمیت در سئوتا، روند اخراج‌های فوری را سرعت بخشیده است. این اقدام، تمرکز بر بحث توزیع کودکان مهاجر میان جوامع خودمختار را تحت‌الشعاع قرار داده است.",
-      "key_points_fa": [
-        "تسریع اخراج‌های فوری توسط دولت اسپانیا در سئوتا",
-        "تغییر تمرکز سیاسی از توزیع کودکان مهاجر به بحران حاکمیت",
-        "تلاش برای کاهش تجمع مهاجران در خیابان‌های سئوتا"
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده تغییر اولویت‌های دولت در مدیریت بحران‌های مرزی است که تمرکز را از راهکارهای بلندمدت ساختاری مانند توزیع مهاجران در سراسر کشور به اقدامات فوری امنیتی و مرزی تغییر داده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سئوتا",
-        "#مهاجرت",
-        "#اخراج_فوری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "5c578267fa51",
       "source": "EL PAÍS Economía",
       "title": "La escalada de los precios energéticos amenaza con mantenerse tras el fin del escudo anticrisis",
@@ -207,36 +149,6 @@
         "#اقتصاد",
         "#انرژی",
         "#تورم"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fb3fa10900eb",
-      "source": "La Vanguardia",
-      "title": "El Gobierno amplía la vida de Almaraz hasta el 2030 aludiendo a la crisis en Oriente Medio",
-      "summary": "Asegura que no cambia el calendario de cierres hasta el 2035 mientras Sumar dice que la decisión es “al servicio del oligopolio” y el PP reclama la continuidad de las centrales",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ed10d4e0b7.r_d.1132-587-0.jpeg",
-      "published_at": "2026-08-14T09:00:15+02:00",
-      "category": "politica",
-      "priority": 81,
-      "title_fa": "تمدید فعالیت نیروگاه اتمی آلماراز تا سال ۲۰۳۰ به دلیل بحران خاورمیانه",
-      "lead_fa": "دولت اسپانیا مهلت فعالیت نیروگاه اتمی آلماراز را تا سال ۲۰۳۰ تمدید کرد. این تصمیم با استناد به بحران خاورمیانه و در میان واکنش‌های متناقض احزاب سیاسی اتخاذ شده است.",
-      "key_points_fa": [
-        "فعالیت نیروگاه آلماراز تا سال ۲۰۳۰ تمدید شد.",
-        "دولت تأکید کرد که جدول زمانی تعطیلی سراسری تا سال ۲۰۳۵ تغییر نمی‌کند.",
-        "حزب سومار این تصمیم را در خدمت انحصارطلبی توصیف کرد.",
-        "موسسه Foment خواستار اعمال معیارهای فنی یکسان برای نیروگاه‌های کاتالونیا شد."
-      ],
-      "analysis_fa": "تمدید فعالیت این نیروگاه اتمی نشان‌دهنده چالش‌های دولت در تامین انرژی و تعادل میان اهداف زیست‌محیطی و نیازهای امنیتی است. انتقادات جناح‌های سیاسی داخلی بیانگر اختلاف‌نظر عمیق درباره آینده انرژی هسته‌ای در اسپانیاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی_هسته‌ای",
-        "#آلماراز",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -277,18 +189,25 @@
       "url": "https://elpais.com/espana/2026-08-14/cuatro-claves-del-presente-fronterizo-de-ceuta.html",
       "image": "https://imagenes.elpais.com/resizer/v2/KQEG3FXWNZFXTHA62ORNZO2Q4M.jpg?auth=b8745036c9b01cf6e889992b7c98d690d5f2643d7513a5b103fa364dad5a9caa",
       "published_at": "2026-08-15T03:45:01+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 77,
-      "title_fa": "Despliegue policial inédito en Ceuta ante el temor a una nueva entrada masiva: claves de la crisis fronteriza",
-      "lead_fa": "El dispositivo sin precedentes en la ciudad autónoma no aseguran la impermeabilidad de la valla; la postura de Marruecos sigue siendo fundamental",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "استقرار بی‌سابقه پلیس در سبته همزمان با نگرانی از ورود گسترده مهاجران",
+      "lead_fa": "شهر خودمختار سبته شاهد استقرار بی‌سابقه‌ای از نیروهای امنیتی است. با این حال، مقامات اذعان دارند که این اقدامات تضمینی برای غیرقابل نفوذ بودن مرزها نیست.",
+      "key_points_fa": [
+        "افزایش نگرانی‌ها از احتمال ورود دسته‌جمعی مهاجران به سبته",
+        "اجرای یک طرح امنیتی و حفاظتی بی‌سابقه در مرزهای این شهر",
+        "نقش کلیدی و تعیین‌کننده موضع دولت مراکش در مدیریت بحران مرزی"
       ],
-      "ai_translated": false,
+      "analysis_fa": "تشدید کنترل‌های مرزی در سبته نشان‌دهنده چالش‌های مداوم اسپانیا در مدیریت جریان‌های مهاجرتی است. همکاری با مراکش همچنان عامل اصلی در کنترل یا شکل‌گیری این تحولات به شمار می‌رود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#مرز"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -348,34 +267,6 @@
       "editorial_version": 2
     },
     {
-      "id": "428434167004",
-      "source": "La Vanguardia",
-      "title": "La Guardia Urbana detiene a un sospechoso por el incendio de Collserola",
-      "summary": "El arrestado llevaba encima dos encendedores justo en el momento del inicio de las llamas en la parte alta de la avenida Pearson",
-      "url": "https://www.lavanguardia.com/sucesos/20260814/11614067/guardia-urbana-detiene-sospechoso-incendio-collserola.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ce37feff.r_d.1888-1854-0.jpeg",
-      "published_at": "2026-08-14T19:20:00+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "بازداشت یک مظنون به دست داشتن در آتش‌سوزی بوستان کولسروولا در بارسلونا",
-      "lead_fa": "پلیس محلی بارسلونا فردی را به اتهام دست داشتن در آتش‌سوزی منطقه کولسروولا بازداشت کرد. از مظنون در هنکام شروع حریق دو فندک کشف و ضبط شد.",
-      "key_points_fa": [
-        "بازداشت مظنون توسط گارد شهری در بخش بالایی خیابان پیرسون",
-        "کشف دو فندک همراه فرد بازداشت‌شده در زمان آغاز آتش‌سوزی",
-        "آغاز تحقیقات درباره انگیزه و چگونگی وقوع حریق"
-      ],
-      "analysis_fa": "وقوع آتش‌سوزی در مناطق طبیعی حومه کلان‌شهرها همواره یکی از چالش‌های جدی مدیریت بحران در ماه‌های گرم سال است. افزایش تدابیر امنیتی و حضور گارد شهری می‌تواند به شناسایی سریع‌تر عاملان احتمالی کمک کند، اما پیشگیری از این حوادث نیازمند نظارت‌های مستمر و همکاری عمومی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اسپانیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "cf54e1a38ecb",
       "source": "EL PAÍS España",
       "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras afectar a más de 38.000 hectáreas",
@@ -399,34 +290,6 @@
         "#آتش_سوزی",
         "#اسپانیا",
         "#هوئلوا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5952b499fe46",
-      "source": "La Vanguardia",
-      "title": "Fallece en accidente en la Volta a Portugal el joven valor Finlay Tarling del equipo filial de Iniesta",
-      "summary": "Según la televisión portuguesa RTP, el joven ciclista británico tuvo una colisión frontal con un vehículo ajeno a la carrera",
-      "url": "https://www.lavanguardia.com/deportes/20260814/11614044/fallece-accidente-volta-portugal-joven-valor-finlay-tarling-equipo-filial-iniesta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f457c9fb7a.jpeg",
-      "published_at": "2026-08-14T18:43:39+02:00",
-      "category": "deportes",
-      "priority": 77,
-      "title_fa": "مرگ رکابزن جوان بریتانیایی در تور دوچرخه‌سواری پرتغال",
-      "lead_fa": "فینلی تارلینگ، دوچرخه‌سوار جوان تیم فیلیال اینیستا، در جریان مسابقات تور پرتغال درگذشت. بنا بر گزارش تلویزیون دولتی پرتغال، او با یک خودروی متفرقه تصادف کرده است.",
-      "key_points_fa": [
-        "حادثه در جریان مسابقات «ولتا آ پرتغال» رخ داد.",
-        "این ورزشکار جوان با یک خودروی خارج از مسابقه تصادف کرد.",
-        "تلویزیون آرتی‌پی پرتغال خبر این سانحه را اعلام کرد."
-      ],
-      "analysis_fa": "این حادثه بار دیگر بحث ایمنی دوچرخه‌سواران در جاده‌های باز و تداخل مسیر مسابقات با وسایل نقلیه عمومی را مطرح کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دوچرخه‌سواری",
-        "#پرتغال",
         "#حوادث"
       ],
       "ai_translated": true,
@@ -462,65 +325,9 @@
       "editorial_version": 2
     },
     {
-      "id": "baabf1fc0a36",
-      "source": "La Vanguardia",
-      "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
-      "summary": "El Monasterio de San Juan de la Peña, panteón de los primeros reyes aragoneses, cercado por el incendio",
-      "url": "https://www.lavanguardia.com/vida/20260814/11613999/fuego-penas-obliga-desalojar-atares-anzanigo-suspender-circulacion-ferroviaria.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2f388e272.r_d.1072-606-0.jpeg",
-      "published_at": "2026-08-14T17:09:34+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آتش‌سوزی در هوئسکا؛ تخلیه روستاها و توقف قطارها",
-      "lead_fa": "آتش‌سوزی جنگلی در منطقه لاس پеньیاس در آراگون به تخلیه دو روستا و تعلیق خطوط ریلی منجر شد. صومعه تاریخی سن خوان د لا پеньیا نیز در محاصره حریق قرار گرفته است.",
-      "key_points_fa": [
-        "تخلیه اضطراری روستاهای آتارس و آنثانیگو به دلیل پیشروی آتش",
-        "تعلیق خطوط قطار در منطقه متاثر از آتش‌سوزی",
-        "تهدید صومعه تاریخی سن خوان د لا پеньیا، آرامگاه پادشاهان اولیه آراگون"
-      ],
-      "analysis_fa": "این آتش‌سوزی بار دیگر آسیب‌پذیری مناطق تاریخی و طبیعی آراگون را در برابر حریق‌های گسترده نشان می‌دهد. واکنش سریع نهادهای امدادی برای مهار آتش و حفاظت از میراث فرهنگی در جریان است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اسپانیا",
-        "#آراگون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "3a23f68aaaaf",
-      "source": "La Vanguardia",
-      "title": "El incendio de Niebla (Huelva) ya es el mayor de la historia de Andalucía, junto al de Riotinto de 2004",
-      "summary": "El de Los Gallardos (Almería) de julio ha sido el más mortífero de España en lo que llevamos de siglo XXI, con 14 personas fallecidas y 18 heridas",
-      "url": "https://www.lavanguardia.com/vida/20260814/11613984/incendio-niebla-huelva-mayor-historia-andalucia-riotinto-2004.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d56fa66dec.r_d.2767-1974-0.jpeg",
-      "published_at": "2026-08-14T16:16:04+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آتش‌سوزی نیبلا در هوئلوا، بزرگ‌ترین آتش‌تاریخ آندلس شد",
-      "lead_fa": "آتش‌سوزی جنگلی در منطقه نیبلا در استان هوئلوا به بزرگ‌ترین حریق تاریخ آندلس تبدیل شد. این رویداد هم‌سطح آتش‌سوزی ریوتیِنتو در سال ۲۰۰۴ میلادی قرار گرفته است.",
-      "key_points_fa": [
-        "حریق نیبلا در هوئلوا رکورد جدیدی در تاریخ آتش‌سوزی‌های آندلس ثبت کرد.",
-        "این آتش‌سوزی با وسعت و اهمیت حریق سال ۲۰۰۴ در ریوتیِنتو برابری می‌کند."
-      ],
-      "analysis_fa": "وقوع آتش‌سوزی‌های گسترده در مناطق مختلف اسپانیا بار دیگر چالش‌های مدیریت بحران و خطرات زیست‌محیطی ناشی از حریق‌های بزرگ را برجسته کرده است، بدون اینکه هنوز برآوردهای قطعی از خسارات بلندمدت آن ارائه شده باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش‌سوزی",
-        "#هوئلوا",
-        "#آندلس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ad8da46bb0cc",
       "source": "La Vanguardia",
-      "title": "Un incendio aparentemente provocado quema diez hectáreas en Collserola",
+      "title": "Un incendio presuntamente intencionado quema 10 hectáreas de la sierra de Collserola",
       "summary": "Las llamas han empezado por encima de la avenida Pearson, justo detrás del hospital de Sant Joan de Déu, en el límite con el término municipal de Esplugues de Llobregat",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f293661270.jpeg",
@@ -600,6 +407,94 @@
         "#انرژی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "410739678c47",
+      "source": "La Vanguardia",
+      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
+      "summary": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614090/madrid-rabat-elevan-vigilancia-ceuta-llamamientos-redes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee27d8bf10.r_d.605-424-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
+      "lead_fa": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5e247aa6ea82",
+      "source": "La Vanguardia",
+      "title": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
+      "summary": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11596526/govern-aspira-gestionar-estaciones-rodalies-titularidad-renfe-adif.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b6efe3372f.r_d.3904-2357-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
+      "lead_fa": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3c86b82affdb",
+      "source": "La Vanguardia",
+      "title": "Real Madrid: Un viaje al pasado con Mourinho para ir a la guerra",
+      "summary": "Mourinho acapara los focos en un mercado con ventas récord del filial (195 millones) y Diomande de estrella",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260815/11614093/real-madrid-viaje-pasado-regreso-mourinho-guerra-soldados-liga-26-27.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f5bbc177e7.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Real Madrid: Un viaje al pasado con Mourinho para ir a la guerra",
+      "lead_fa": "Mourinho acapara los focos en un mercado con ventas récord del filial (195 millones) y Diomande de estrella",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b397473e8132",
+      "source": "La Vanguardia",
+      "title": "Raimon Obiols: “Hoy los partidos son débiles y dependen más de los liderazgos”",
+      "summary": "El exlíder del PSC fue diputado en el Parlament, en el Congreso y en la Eurocámara",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614007/raimon-obiols-hoy-partidos-son-debiles-dependen-mas-liderazgos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2f529568e.r_d.2488-1707-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Raimon Obiols: “Hoy los partidos son débiles y dependen más de los liderazgos”",
+      "lead_fa": "El exlíder del PSC fue diputado en el Parlament, en el Congreso y en la Eurocámara",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -842,34 +737,6 @@
       "editorial_version": 2
     },
     {
-      "id": "19a9a6fc86cb",
-      "source": "La Vanguardia",
-      "title": "Roger Federer ya no es milmillonario: un tropiezo le ha costado 52 millones de dólares en un solo día",
-      "summary": "Su alianza con la empresa suiza de zapatillas On Holding ha recibido un inesperado torpedo",
-      "url": "https://www.lavanguardia.com/gente/20260814/11614072/roger-federer-milmillonario-tropiezo-le-costado-52-millones-dolares-dia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/11/6a5263cb11940.r_d.1854-854-0.jpeg",
-      "published_at": "2026-08-14T19:33:38+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "کاهش سرمایه راجر فدرر؛ خروج از باشگاه میلیاردرها",
-      "lead_fa": "راجع فدرر، تنیسور سرشناس سوئیسی، عنوان میلیاردر خود را از دست داد. این اتفاق به دنبال افت ارزش سهام شرکت تولید کفش «آن هولدینگ» رخ داد.",
-      "key_points_fa": [
-        "افت ارزش سهام شرکت On Holding منجر به کاهش سرمایه فدرر شد.",
-        "این تغییر مالی زیانی معادل ۵۲ میلیون دلار در یک روز برای او به همراه داشت.",
-        "فدرر پیش از این به واسطه شراکت تجاری موفق خود با این برند به جایگاه میلیاردرها رسیده بود."
-      ],
-      "analysis_fa": "این رویداد نشان‌دهنده آسیب‌پذیری دارایی‌های کلان ورزشی در برابر نوسانات بازار سهام و وابستگی قهرمانان به سرمایه‌گذاری‌های تجاری است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#راجرفدرر",
-        "#اقتصاد",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9ebd2556f806",
       "source": "EL PAÍS Economía",
       "title": "Uno de cada cuatro trabajadores de Baleares son extranjeros, frente a solo el 6% en Extremadura",
@@ -899,120 +766,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a3b993ed8165",
-      "source": "La Vanguardia",
-      "title": "Atacada con perdigones la orca más longeva del Estrecho de Gibraltar",
-      "summary": "La matriarca de las orcas ‘gladis’, de 60 años, presenta en su aleta dorsal el impacto de diez perdigones",
-      "url": "https://www.lavanguardia.com/natural/20260814/11613949/miteco-investiga-disparos-toni-orca-mas-veterana-estrecho.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f1b79a58dc.jpeg",
-      "published_at": "2026-08-14T15:06:42+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "تحقیقات وزارت محیط زیست اسپانیا درباره شلیک به «توئی»، پیرترین نهنگ قاتل تنگه جبل‌الطارق",
-      "lead_fa": "وزارت انتقال اکولوژیک اسپانیا تحقیقاتی را درباره شلیک گلوله به نهنگ قاتل معروف به «توئی» آغاز کرده است. این نهنگ ماده ۶۰ ساله که رئیس گروه نهنگ‌های قاتل است، از ناحیه باله پشتی مورد اصابت گلوله قرار گرفته است.",
-      "key_points_fa": [
-        "آغاز تحقیقات رسمی توسط وزارت انتقال اکولوژیک اسپانیا (Miteco).",
-        "شناسایی اثر اصابت ۱۰ گلوله ساچمه‌ای بر روی باله پشتی نهنگ قاتل.",
-        "این نهنگ ماده با نام «توئی» حدود ۶۰ سال سن دارد و قدیمی‌ترین نهنگ قاتل در تنگه جبل‌الطارق محسوب می‌شود."
-      ],
-      "analysis_fa": "حمله به حیات وحش در آب‌های اسپانیا بار دیگر توجه نهادهای حفاظتی را به خود جلب کرده است. این حادثه ابعاد مختلفی از چالش‌های همزیست انسان و آبزیان در مناطق ساحلی را برجسته می‌کند و نیازمند نظارت بیشتر بر فعالیت شناورها و حفاظت از گونه‌های در معرض خطر است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#محیط_زیست",
-        "#حیات_وحش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f2912f97c13c",
-      "source": "La Vanguardia",
-      "title": "El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”",
-      "summary": "Vivas insiste en la devolución “inmediata” de los migrantes llegados a finales de julio y el presidente del Senado se suma a su reclamación de un “marco normativo” que responda a la “violación” de la frontera",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7efaf3c5669.jpeg",
-      "published_at": "2026-08-14T13:51:35+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "درخواست تغییرات قانونی برای تعلیق پناهندگی در سئوتا",
-      "lead_fa": "رئیس دولت محلی سئوتا خواستار اصلاحات قانونی برای بازگرداندن فوری مهاجران شد. رئیس سنا نیز از ایجاد یک چارچوب نظارتی برای مقابله با نقض مرزها حمایت کرد.",
-      "key_points_fa": [
-        "تاکید رئیس سئوتا بر بازگرداندن فوری مهاجران ورودی در اواخر ژوئیه",
-        "درخواست ایجاد چارچوب قانونی جدید برای موارد موسوم به تهاجم و نقض مرز",
-        "همراهی رئیس سنای اسپانیا با مطالبات مقام‌های سئوتا"
-      ],
-      "analysis_fa": "این درخواست‌ها نشان‌دهنده چالش‌های مداوم مناطق مرزی اسپانیا در مدیریت ورود مهاجران و تلاش برای یافتن ابزارهای حقوقی جدید است. بحث درباره تغییر قوانین پناهندگی و مرزی همواره میانجی‌گر مناقشات سیاسی و حقوقی در سطح ملی و محلی بوده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#پناهندگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4e8b9af879ce",
-      "source": "La Vanguardia",
-      "title": "¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?",
-      "summary": "La ley española es muy garantista y establece largos procedimientos para acordar el regreso a sus países de las personas que han logrado permanecer más de 72 horas en territorio español",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613752/dificil-expulsar-inmigrantes-llegaron-ceuta-forma-irregular.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e253ddeffc.r_d.737-838-0.jpeg",
-      "published_at": "2026-08-14T12:50:37+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "دلیل دشواری اخراج مهاجران غیرقانونی در سبتا",
-      "lead_fa": "قوانین اسپانیا بسیار حمایتی است و روند بازگرداندن مهاجران را طولانی می‌کند. این روند برای افرادی که بیش از ۷۲ ساعت در خاک این کشور بمانند اعمال می‌شود.",
-      "key_points_fa": [
-        "قوانین اسپانیا دارای ضمانت‌های حقوقی گسترده‌ای برای مهاجران است.",
-        "تشریفات اداری و حقوقی بازگرداندن افراد زمان‌بر است.",
-        "این شرایط شامل افرادی می‌شود که بیش از ۷۲ ساعت در اسپانیا حضور داشته‌اند."
-      ],
-      "analysis_fa": "چارچوب قانونی اسپانیا و تعهدات بین‌المللی حقوق بشری، روند اخراج مهاجران را منوط به طی مراحل دقیق قضایی و اداری می‌کند که این امر سرعت اجرای تصمیمات دولتی را کاهش می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#سبتا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ebcafeaabb40",
-      "source": "La Vanguardia",
-      "title": "Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno",
-      "summary": "El socio del Gobierno de coalición considera que es “una decisión al servicio del oligopolio”",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/17/6a5954e8b887c.r_d.1537-1104-0.jpeg",
-      "published_at": "2026-08-14T12:17:44+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "مخالفت سومار با تمدید فعالیت نیروگاه هسته‌ای آلماراز",
-      "lead_fa": "حزب سومار، شریک دولت ائتلافی اسپانیا، با تمدید فعالیت نیروگاه هسته‌ای آلماراز مخالفت کرد. این حزب معتقد است چنین تصمیمی در خدمت انحصارطلبی است.",
-      "key_points_fa": [
-        "مخالفت صریح سومار با تمدید فعالیت نیروگاه آلماراز",
-        "تاکید بر اینکه این تصمیم خلاف توافق‌های دولت است",
-        "توصیف تصمیم به عنوان اقدامی در خدمت الیگوپولی"
-      ],
-      "analysis_fa": "این موضع‌گیری شکاف‌های درون دولت ائتلافی اسپانیا بر سر سیاست‌های انرژی و آینده انرژی هسته‌ای را آشکار می‌کند. حزب سومار به عنوان جناح چپ ائتلاف، با منافع شرکت‌های بزرگ انرژی زاویه‌ای آشکار دارد و بر اجرای دقیق توافق‌های اولیه ائتلاف پافشاری می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سومار",
-        "#انرژی_هسته‌ای",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "efe929e9d530",
       "source": "EL PAÍS Economía",
       "title": "La economía de la zona euro creció un 0,4% en el segundo trimestre pese a la debilidad alemana",
@@ -1036,35 +789,6 @@
         "#اقتصاد",
         "#یورو",
         "#اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "1caa55f21b3d",
-      "source": "La Vanguardia",
-      "title": "Marruecos y España blindan la frontera de Ceuta ante la llamada a un nuevo salto este sábado",
-      "summary": "Ambos gobiernos refuerzan los operativos policiales y militares mientras Rabat mejora las barreras físicas en el litoral",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613753/marruecos-espana-blindan-frontera-ceuta-llamamiento-nuevo-salto-manana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ed06d1b314.r_d.3135-1700-0.jpeg",
-      "published_at": "2026-08-14T10:24:46+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "تقویت مرز سبته توسط اسپانیا و مراکش در پی فراخوان برای عبور غیرقانونی",
-      "lead_fa": "دولت‌های اسپانیا و مراکش اقدامات امنیتی و نظامی خود را در مرز سبته به شدت افزایش دادند. این اقدام پس از انتشار فراخوان‌هایی برای تلاش جدید جهت عبور از مرز صورت گرفته است.",
-      "key_points_fa": [
-        "تقویت نیروهای پلیس و ارتش در منطقه مرزی سبته",
-        "بهبود و تقویت موانع فیزیکی در خط ساحلی توسط مراکش",
-        "واکنش مشترک دو کشور به فراخوان‌های منتشر شده در شبکه‌های اجتماعی برای ورود غیرقانونی"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده همکاری امنیتی مستمر میان مادرید و رباط برای مدیریت جریان‌های مهاجرتی و جلوگیری از بحران‌های مرزی مشابه در گذشته است. همکاری دوجانبه در این منطقه استراتژیک برای کنترل فشارهای مهاجرتی به خاک اروپا از اهمیت بالایی برخوردار است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مراکش",
-        "#سبته",
-        "#مهاجرت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1126,34 +850,6 @@
       "editorial_version": 2
     },
     {
-      "id": "630ce3876f92",
-      "source": "La Vanguardia",
-      "title": "Rebelión por las cámaras Flock que policías usan para extorsionar o perseguir",
-      "summary": "Este sistema, que rastrea los movimientos de los vehículos, ofrece todo lujo de detalles de los ciudadanos sin orden judicial y ha provocado actos de violencia para su destrucción hasta el punto que la empresa ha anunciado garantías sobre la privacidad",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613419/rebelion-ee-uu-camaras-flock-policias-extorsiones-amorosas-perseguir-abortistas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ebcfd056ec.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "جنجال در آمریکا بر سر استفاده پلیس از دوربین‌های ردیاب خودرو",
-      "lead_fa": "سیستم پایش خودروهای شرکت «فلاک» در آمریکا به دلیل دسترسی بدون حکم قضایی به اطلاعات شهروندان جنجال‌برانگیز شده است. این فناوری به دلیل سوءاستفاده‌های احتمالی با اعتراضات شدید و خشونت‌آمیز مواجه شده است.",
-      "key_points_fa": [
-        "ردیابی دقیق حرکات خودروهای شهروندان بدون نیاز به حکم قضایی",
-        "گزارش‌هایی درباره سوءاستفاده از این سیستم توسط نیروهای پلیس",
-        "واکنش شرکت سازنده و ارائه تضمین‌های جدید برای حفظ حریم خصوصی"
-      ],
-      "analysis_fa": "گسترش ابزارهای نظارت دیجیتال توسط نهادهای امنیتی، چالش‌های جدی میان امنیت عمومی و حقوق شهروندی ایجاد کرده است. شرکت‌های فناوری در واکنش به فشارهای عمومی ناچار به بازنگری در سیاست‌های حریم خصوصی خود شده‌اند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#حریم_خصوصی",
-        "#پلیس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c7f8f1fb7b48",
       "source": "EL PAÍS España",
       "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
@@ -1177,34 +873,6 @@
         "#سئوتا",
         "#مهاجران",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "54c178552a5b",
-      "source": "La Vanguardia",
-      "title": "Mangione confiesa que abrió fuego y mató al jefe de la mayor empresa de seguros de EE.UU.",
-      "summary": "“Disparé y Brian Thompson murió, sabía que lo que hacía era ilegal”, reconoce ante el tribunal este pistolero que algunos convirtieron en una especie de Robin Hood. “Un asesino no es un héroe”, según el fiscal al anunciar que pedirá cadena perpetua",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11614043/mangione-confiesa-abrio-fuego-mato-jefe-mayor-empresa-seguros-ee-uu.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f40058c5af.jpeg",
-      "published_at": "2026-08-14T18:44:49+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "اعتراف مانجیونه به قتل مدیر بیمه آمریکایی در دادگاه",
-      "lead_fa": "لوییجی مانجیونه در دادگاه اعتراف کرد که به سمت برایان تومپسون شلیک کرده و او را به قتل رسانده است. دادستان کل اعلام کرد که برای متهم تقاضای حبس ابد خواهد کرد.",
-      "key_points_fa": [
-        "اعتراف صریح متهم به غیرقانونی بودن اقدام خود در دادگاه",
-        "تلاش برخی برای قهرمان‌سازی از متهم و واکنش قاطع دادستان",
-        "درخواست دادستان برای صدور حکم حبس ابد"
-      ],
-      "analysis_fa": "این پرونده بازتاب گسترده‌ای در رسانه‌ها داشته و به بحث پیرامون نارضایتی‌های عمومی از شرکت‌های بیمه در آمریکا دامن زده است، در حالی که مقامات قضایی بر پیگرد قانونی شدید جرم تأکید دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#دادگاه",
-        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1239,31 +907,465 @@
       "editorial_version": 2
     },
     {
-      "id": "3ae8fc633ccf",
+      "id": "1e798b14519f",
       "source": "La Vanguardia",
-      "title": "El Consejo Constitucional bloquea la prohibición de redes sociales para menores de 15 años",
-      "summary": "Francia fue el primer gran país europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
-      "url": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a36b1d69f89e.jpeg",
-      "published_at": "2026-08-14T16:08:27+02:00",
+      "title": "El turismo perfecto",
+      "summary": "Las ciudades con un rico patrimonio literario suelen sacar partido de esta circunstancia",
+      "url": "https://www.lavanguardia.com/opinion/20260815/11614071/turismo-literario-barcelona-rodoreda-sol-y-playa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/03/06/5fa904f4dd597.jpeg",
+      "published_at": "2026-08-15T00:00:00+02:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "مخالفت شورای قانون اساسی فرانسه با ممنوعیت شبکه‌های اجتماعی برای زیر ۱۵ سال",
-      "lead_fa": "شورای قانون اساسی فرانسه طرح ممنوعیت استفاده از شبکه‌های اجتماعی برای افراد زیر ۱۵ سال را متوقف کرد. فرانسه تلاش کرده بود پس از استرالیا دومین کشور پیشرو در این حوزه باشد.",
-      "key_points_fa": [
-        "شورای قانون اساسی فرانسه مانع اجرای قانون محدودیت سنی شبکه‌های اجتماعی شد.",
-        "این طرح با الگوبرداری از قوانین مشابه در استرالیا پیشنهاد شده بود.",
-        "فرانسه قصد داشت نخستین کشور بزرگ اروپایی در اجرای این محدودیت باشد."
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده چالش‌های حقوقی و قانونی دولت‌ها در اعمال محدودیت‌های دسترسی به فضای مجازی برای نوجوانان است و بحث‌ها درباره تعادل میان حفاظت از کودکان و آزادی‌های دیجیتال را ادامه می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "El turismo perfecto",
+      "lead_fa": "Las ciudades con un rico patrimonio literario suelen sacar partido de esta circunstancia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#فرانسه",
-        "#شبکه‌های_اجتماعی",
-        "#قانون"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9dee4f4ed570",
+      "source": "La Vanguardia",
+      "title": "Nichos de hormigón para los cadáveres recuperados en Ceuta que nadie reclamará",
+      "summary": "Las autoridades locales han pedido que en un plazo de dos semanas esté finalizada la ampliación",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614050/nichos-hormigon-cadaveres-recuperados-nadie-reclamara.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f46732549a.r_d.2806-2470-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Nichos de hormigón para los cadáveres recuperados en Ceuta que nadie reclamará",
+      "lead_fa": "Las autoridades locales han pedido que en un plazo de dos semanas esté finalizada la ampliación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f57bc4a5b960",
+      "source": "La Vanguardia",
+      "title": "Un techo de plástico creado por vecinos para proteger a niñas migrantes desatendidas",
+      "summary": "Los vecinos de El Príncipe improvisan un campamento para las más vulnerables",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614054/techo-plastico-mas-vulnerables.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f473d8320b.r_d.2818-2906-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un techo de plástico creado por vecinos para proteger a niñas migrantes desatendidas",
+      "lead_fa": "Los vecinos de El Príncipe improvisan un campamento para las más vulnerables",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e740a610c362",
+      "source": "La Vanguardia",
+      "title": "Ceuta y el antídoto de la solidaridad europea",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11613959/ceuta-antidoto-solidaridad-europea.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ed06d1b314.r_d.3135-1700-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ceuta y el antídoto de la solidaridad europea",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "13f4f609b9a7",
+      "source": "La Vanguardia",
+      "title": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
+      "summary": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
+      "url": "https://www.lavanguardia.com/cultura/20260815/11613812/bienvenidos-readaways-viaje-traves-tus-novelas-favoritas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7efbc06642e.r_d.2647-1436-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
+      "lead_fa": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f3d6e45684cd",
+      "source": "La Vanguardia",
+      "title": "Ranking Shanghai: el empuje de los campus chinos desplaza a las universidades españolas",
+      "summary": "En el listado, liderado por la UB, hay treinta campus nacionales, seis menos que el año pasado",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614059/ranking-shanghai-empuje-campus-chinos-desplaza-universidades-espanolas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f498607c71.r_d.2137-1573-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ranking Shanghai: el empuje de los campus chinos desplaza a las universidades españolas",
+      "lead_fa": "En el listado, liderado por la UB, hay treinta campus nacionales, seis menos que el año pasado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f930da9af461",
+      "source": "La Vanguardia",
+      "title": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
+      "summary": "Aburrimiento, furia y depresión. Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11613679/cinco-anos-vida-sigue-suspenso-mujeres-afganas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee0681b3a3.r_d.1992-1390-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
+      "lead_fa": "Aburrimiento, furia y depresión. Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1194862d2088",
+      "source": "La Vanguardia",
+      "title": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
+      "summary": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11613802/ucrania-pone-presion-rusia-desmiente-derrotismo-trump.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee4d5b3e14.r_d.508-254-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
+      "lead_fa": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bb1f7ec1971f",
+      "source": "La Vanguardia",
+      "title": "“¿Qué tal se viaja en un contenedor de catering, Donald?”",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11614087/que-viaja-contenedor-catering-donald.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f642e2609e.r_d.673-467-0.png",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "“¿Qué tal se viaja en un contenedor de catering, Donald?”",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fea5e2fbb3af",
+      "source": "La Vanguardia",
+      "title": "La Liga española, la primera grande que levanta el telón",
+      "summary": "España arranca antes que las otras potencias pero sin los conjuntos favoritos, que aplazan su estreno",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260815/11614062/liga-espanola-primera-grande-levanta-telon.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f4a2e49f1e.r_d.3000-2000-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "La Liga española, la primera grande que levanta el telón",
+      "lead_fa": "España arranca antes que las otras potencias pero sin los conjuntos favoritos, que aplazan su estreno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "17b698c7debe",
+      "source": "La Vanguardia",
+      "title": "Barça: Flick espera a Rodri, que ya está de camino, y al nueve",
+      "summary": "El vigente campeón de Liga ultima el fichaje del centrocampista, que apunta a ser la próxima incorporación de un equipo que todavía busca gol",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260815/11614085/barca-flick-espera-rodri-esta-camino-nueve-liga-26-27-julian-alvarez.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f584b245fa.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Barça: Flick espera a Rodri, que ya está de camino, y al nueve",
+      "lead_fa": "El vigente campeón de Liga ultima el fichaje del centrocampista, que apunta a ser la próxima incorporación de un equipo que todavía busca gol",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b18c39f1692e",
+      "source": "La Vanguardia",
+      "title": "Cala: “Ahora quiero disfrutar de Primera”",
+      "summary": "El jugador catalán atiende a 'La Vanguardia' antes de su debut en la máxima categoría con el equipo blanquiazul",
+      "url": "https://www.lavanguardia.com/deportes/rcde-espanyol/primer-equipo/20260815/11613995/alex-calatrava-entrevista-debut-quiero-disfrutar-primera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f299f9b49a.r_d.3520-1626-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Cala: “Ahora quiero disfrutar de Primera”",
+      "lead_fa": "El jugador catalán atiende a 'La Vanguardia' antes de su debut en la máxima categoría con el equipo blanquiazul",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8509c618daaa",
+      "source": "La Vanguardia",
+      "title": "El Atlético y la era post-Griezmann",
+      "summary": "Sin el liderazgo del francés, el Cholo Simeone tiene que buscar nuevos referentes en un equipo que acumula ya cinco años sin conquistar un título",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260815/11614097/atletico-post-griezmann.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f6056e4256.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El Atlético y la era post-Griezmann",
+      "lead_fa": "Sin el liderazgo del francés, el Cholo Simeone tiene que buscar nuevos referentes en un equipo que acumula ya cinco años sin conquistar un título",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "04bf358adb2c",
+      "source": "La Vanguardia",
+      "title": "Carreras de lanchas eléctricas: el capricho de famosos ricos con el yerno de Aznar como impulsor",
+      "summary": "Will Smith, Rafa Nadal, Marc Anthony, LeBron James, Courtois, Steve Aoki, Tom Brady y Didier Drogba poseen su propia escudería de Race Bids, naves acuáticas que recuerdan a ‘Star Wars’",
+      "url": "https://www.lavanguardia.com/gente/20260815/11613912/race-birds-agag-aznar-will-smith-rafa-nadal-marc-anthony-courtois.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f0abc21942.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Carreras de lanchas eléctricas: el capricho de famosos ricos con el yerno de Aznar como impulsor",
+      "lead_fa": "Will Smith, Rafa Nadal, Marc Anthony, LeBron James, Courtois, Steve Aoki, Tom Brady y Didier Drogba poseen su propia escudería de Race Bids, naves acuáticas que recuerdan a ‘Star Wars’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "920896808b97",
+      "source": "La Vanguardia",
+      "title": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
+      "summary": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614013/vecinos-palma-convocan-cenas-plazas-desalojar-turistas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f31016955b.r_d.1111-1635-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
+      "lead_fa": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "313f0a26af59",
+      "source": "La Vanguardia",
+      "title": "La historia del icónico salto del skater madrileño Danny León durante el eclipse",
+      "summary": "El skater madrileño Danny León, olímpico en Tokio 2020 y París 2024, aprovechó para protagonizar una imagen única",
+      "url": "https://www.lavanguardia.com/deportes/20260815/11614083/skater-madrid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f57e24538b.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "La historia del icónico salto del skater madrileño Danny León durante el eclipse",
+      "lead_fa": "El skater madrileño Danny León, olímpico en Tokio 2020 y París 2024, aprovechó para protagonizar una imagen única",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "912dc98eb415",
+      "source": "La Vanguardia",
+      "title": "¿Qué pasa con el topless?",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614003/que-pasa-topless.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/27/6a6707d9ea540.r_d.1467-1083-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Qué pasa con el topless?",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ce2fbfbdc700",
+      "source": "La Vanguardia",
+      "title": "Por qué aumentan los casos de ictus en jóvenes",
+      "summary": "Los especialistas apuntan a un repunte de los factores de riesgo clásicos y a otros más recientes, como el estrés crónico o la contaminación",
+      "url": "https://www.lavanguardia.com/vida/salud/20260815/11612863/aumentan-casos-ictus-jovenes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/09/68c029a031179.r_d.1214-625-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Por qué aumentan los casos de ictus en jóvenes",
+      "lead_fa": "Los especialistas apuntan a un repunte de los factores de riesgo clásicos y a otros más recientes, como el estrés crónico o la contaminación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c2a057a6bd89",
+      "source": "La Vanguardia",
+      "title": "Los franceses pescan en familia en el delta del Ebro",
+      "summary": "La vida sencilla se expande en una franja costera por suerte poco urbanizada, junto al delta del Ebro. Para algunos franceses es su casa",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11614064/franceses-pescan-familia-delta-ebro.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f4b6993907.r_d.1832-1197-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los franceses pescan en familia en el delta del Ebro",
+      "lead_fa": "La vida sencilla se expande en una franja costera por suerte poco urbanizada, junto al delta del Ebro. Para algunos franceses es su casa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "56f4ccf2eb06",
+      "source": "EL PAÍS",
+      "title": "Los ecologistas y el sector de renovables dudan que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
+      "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZGES23NUJJCIVAEVRL4Z4GMCT4.JPG?auth=683cb6efa9fdac0b4bb8303ec48872a839b1db06b9852badcc6f28e8ec2ee7cd",
+      "published_at": "2026-08-15T05:16:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los ecologistas y el sector de renovables dudan que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "lead_fa": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "117f60bf82d8",
+      "source": "La Vanguardia",
+      "title": "La venta de la terminal BEST de Barcelona queda en el aire",
+      "summary": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
+      "url": "https://www.lavanguardia.com/economia/20260815/11614073/terminal-best-barcelona-puerto-venta-compra-msc-blackrock.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f50aae06eb.jpeg",
+      "published_at": "2026-08-15T05:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "La venta de la terminal BEST de Barcelona queda en el aire",
+      "lead_fa": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1685,28 +1787,6 @@
       "editorial_version": 2
     },
     {
-      "id": "529d721ac69a",
-      "source": "EL PAÍS",
-      "title": "La capacidad de seguir asombrándonos",
-      "summary": "Aunque sepas perfectamente qué va a pasar, nada te prepara para la experiencia de vivir un eclipse total",
-      "url": "https://elpais.com/opinion/2026-08-15/la-capacidad-de-seguir-asombrandonos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/O5PCRYL5LRMQPDK6TO76CHB4IA.jpg?auth=d8d6bbc1d5bdbf052ff770f7e1722c30cd5ee9e22983ce5b86ccebea4d63da54",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "La capacidad de seguir asombrándonos",
-      "lead_fa": "Aunque sepas perfectamente qué va a pasar, nada te prepara para la experiencia de vivir un eclipse total",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8309c3f6452d",
       "source": "EL PAÍS",
       "title": "Heladerías que se salen de lo corriente en España: libanesas, mexicanas, veganas o cocteleras",
@@ -1911,28 +1991,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8028c4ade518",
-      "source": "EL PAÍS",
-      "title": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
-      "summary": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
-      "url": "https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204800_222628_video_1800.mp4",
-      "published_at": "2026-08-14T23:33:44+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
-      "lead_fa": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "05e60bea6a19",
       "source": "EL PAÍS España",
       "title": "Marruecos despliega cientos de policías y militares en la frontera ante los llamamientos a una nueva irrupción masiva",
@@ -2048,35 +2106,6 @@
       "editorial_version": 2
     },
     {
-      "id": "752c79153380",
-      "source": "EL PAÍS Economía",
-      "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
-      "summary": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "جریمه مونیستار پلاس به دلیل نقض قوانین دسترسی",
-      "lead_fa": "کمیسیون ملی بازارهای رقابت اسپانیا شرکت موویستار پلاس را جریمه کرد. این جریمه به دلیل عدم ارائه زیرنویس و زبان اشاره در پخش مسابقات فوتبال صادر شده است.",
-      "key_points_fa": [
-        "تخلف این شرکت در زمینه دسترسی‌پذیری به مدت ۱۸ ماه ادامه داشته است.",
-        "مبلغ جریمه بالغ بر ۲۰۹ هزار و ۲۵۰ یورو است.",
-        "شرکت اپراتور مبلغ جریمه را پرداخت کرده است."
-      ],
-      "analysis_fa": "این تصمیم نهاد نظارتی نشان‌دهنده اهمیت رعایت قوانین مربوط به حقوق افراد دارای معلولیت در رسانه‌های تصویری اسپانیا است. نظارت بر اجرای دقیق استانداردهای دسترسی‌پذیری در شبکه‌های پولی و تلویزیونی از وظایف قانونی نهادهای رگولاتوری محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#مخابرات",
-        "#قوانین"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "243f23fe42c4",
       "source": "EL PAÍS Economía",
       "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
@@ -2106,45 +2135,46 @@
       "editorial_version": 2
     },
     {
-      "id": "70ba2a6455c6",
-      "source": "La Vanguardia",
-      "title": "España, a por medallas en la marcha, que estrena distancias en un circuito diminuto propicio al caos",
-      "summary": "Los atletas se quejan de la estrechez del recorrido, desfavorable para los adelantamientos y los avituallamientos",
-      "url": "https://www.lavanguardia.com/deportes/20260814/11613971/atletismo-marcha-europeo-birmingham-nuevas-distancias-maraton-medio-maria-perez-espana-medallas-paul-mcgrath.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f1a8f245e8.r_d.1794-1284-0.jpeg",
-      "published_at": "2026-08-14T17:10:28+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "نگرانی ورزشکاران اسپانیایی از تنگی مسیر مسابقات پیاده‌روی",
-      "lead_fa": "ورزشکاران اسپانیایی برای کسب مدال در مسابقات پیاده‌روی رقابت می‌کنند. با این حال، تنگی مسیر برگزاری مسابقه انتقادات ورزشکاران را به همراه داشته است.",
+      "id": "752c79153380",
+      "source": "EL PAÍS Economía",
+      "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
+      "summary": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "economia",
+      "priority": 69,
+      "title_fa": "جریمه مونیستار پلاس به دلیل نقض قوانین دسترسی",
+      "lead_fa": "کمیسیون ملی بازارهای رقابت اسپانیا شرکت موویستار پلاس را جریمه کرد. این جریمه به دلیل عدم ارائه زیرنویس و زبان اشاره در پخش مسابقات فوتبال صادر شده است.",
       "key_points_fa": [
-        "معرفی مسافت‌های جدید در مسابقات پیاده‌روی",
-        "نارضایتی ورزشکاران از تنگی مسیر مسابقه",
-        "دشواری در سبقت‌گیری و آب‌رسانی به ورزشکاران به دلیل فضای محدود"
+        "تخلف این شرکت در زمینه دسترسی‌پذیری به مدت ۱۸ ماه ادامه داشته است.",
+        "مبلغ جریمه بالغ بر ۲۰۹ هزار و ۲۵۰ یورو است.",
+        "شرکت اپراتور مبلغ جریمه را پرداخت کرده است."
       ],
-      "analysis_fa": "طراحی مسیرهای مسابقات ورزشی در فضاهای شهری و محدود همواره چالش‌هایی را برای ورزشکاران ایجاد می‌کند. در این رقابت خاص، تنگی مسیر می‌تواند بر عملکرد شرکت‌کنندگان و ایمنی آن‌ها تأثیرگذار باشد، موضوعی که نیازمند مدیریت دقیق برگزاری است.",
+      "analysis_fa": "این تصمیم نهاد نظارتی نشان‌دهنده اهمیت رعایت قوانین مربوط به حقوق افراد دارای معلولیت در رسانه‌های تصویری اسپانیا است. نظارت بر اجرای دقیق استانداردهای دسترسی‌پذیری در شبکه‌های پولی و تلویزیونی از وظایف قانونی نهادهای رگولاتوری محسوب می‌شود.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#ورزش",
-        "#المپیک"
+        "#اقتصاد",
+        "#مخابرات",
+        "#قوانین"
       ],
       "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
+      "id": "8028c4ade518",
+      "source": "EL PAÍS",
+      "title": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
+      "summary": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
+      "url": "https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204800_222628_video_1800.mp4",
+      "published_at": "2026-08-14T23:33:44+00:00",
       "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "priority": 68,
+      "title_fa": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
+      "lead_fa": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2156,39 +2186,17 @@
       "editorial_version": 2
     },
     {
-      "id": "e61b4653bde6",
+      "id": "90f7493b4654",
       "source": "La Vanguardia",
-      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
-      "published_at": "2026-08-14T13:31:21+02:00",
+      "title": "Gràcia reivindica su identidad",
+      "summary": "Comienzan siete días de festejos con una plaza de la Vila llena a rebosar y con los últimos preparativos en las 23 calles que este año también estarán decoradas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11614107/gracia-reivindica-identidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f6873e90ad.r_d.2509-1441-0.jpeg",
+      "published_at": "2026-08-14T21:34:27+02:00",
       "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "331f3a8589dc",
-      "source": "La Vanguardia",
-      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
-      "published_at": "2026-08-14T13:08:55+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "priority": 67,
+      "title_fa": "Gràcia reivindica su identidad",
+      "lead_fa": "Comienzan siete días de festejos con una plaza de la Vila llena a rebosar y con los últimos preparativos en las 23 calles que este año también estarán decoradas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2222,50 +2230,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a7b69c594378",
-      "source": "La Vanguardia",
-      "title": "Selena Gomez, demandada por fraude",
-      "summary": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
-      "url": "https://www.lavanguardia.com/gente/20260814/11613850/selena-gomez-demandada-fraude.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/03/03/67c5a08cae024.r_d.4155-2016-0.jpeg",
-      "published_at": "2026-08-14T12:42:47+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Selena Gomez, demandada por fraude",
-      "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "790f73f12cb4",
-      "source": "La Vanguardia",
-      "title": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
-      "summary": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613778/conductor-dana-zona-protegida-pampa-leoncito-surcos-tardaran-siglo-revertirse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef065eeff6.jpeg",
-      "published_at": "2026-08-14T11:17:46+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Un conductor causa daños que durarán un siglo en una zona protegida argentina",
-      "lead_fa": "El vehículo, que atravesó 1,5 kilómetros de esta joya natural al norte del país, ha quedado atrapado en un terreno de arcilla y limo, imposible de remolcar sin provocar más daño ambiental",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d40d15849150",
       "source": "EL PAÍS España",
       "title": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
@@ -2288,94 +2252,6 @@
       "editorial_version": 2
     },
     {
-      "id": "09e096ddc7bc",
-      "source": "La Vanguardia",
-      "title": "El Trampolín de Ceuta: la playa de los dos destinos",
-      "summary": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
-      "url": "https://www.lavanguardia.com/politica/20260814/11613505/trampolin-ceuta-playa-dos-destinos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7eb6afe0c91.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "El Trampolín de Ceuta: la playa de los dos destinos",
-      "lead_fa": "Marroquíes que cruzaron a nado asumen su expulsión exprés mientras que los subsaharianos hacen en la orilla de este arenal ceutí su hogar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6cc5df14b9a9",
-      "source": "La Vanguardia",
-      "title": "Kepler-442b, 2131: ¿Quiénes somos? ¿Adónde vamos? ¿De dónde venimos?",
-      "summary": "Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
-      "url": "https://www.lavanguardia.com/cultura/20260814/11613382/barcelona-2131-quienes-donde-donde-venimos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7ddc753b600.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "Kepler-442b, 2131: ¿Quiénes somos? ¿Adónde vamos? ¿De dónde venimos?",
-      "lead_fa": "Un estudio matemático indica que hay un 47% de posibilidades de que seamos una simulación hecha por la inteligencia artificial de otra civilización”, según Hervé le Tellier, matemático y escritor, premio Goncourt 2020",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "de28fc6964d2",
-      "source": "La Vanguardia",
-      "title": "Del 'Hathahate' a la cima: cómo 2026 ha cambiado la vida de Anne Hathaway",
-      "summary": "La actriz afronta un año con cinco estrenos, el regreso de Andy Sachs y su tercer embarazo",
-      "url": "https://www.lavanguardia.com/gente/20260814/11613254/hathahate-cima-como-cambiado-vida-anne-hathaway-2026.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7da9057b967.r_d.3938-1302-0.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Del 'Hathahate' a la cima: cómo 2026 ha cambiado la vida de Anne Hathaway",
-      "lead_fa": "La actriz afronta un año con cinco estrenos, el regreso de Andy Sachs y su tercer embarazo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9489b8bc9fa4",
-      "source": "La Vanguardia",
-      "title": "Onlyfans: qué impulsa a algunas jóvenes a subir contenido a la plataforma",
-      "summary": "La búsqueda de reconocimiento, dinero o una mejor posición social impulsa a las mujeres, que en muchos casos quedan expuestas a proxenetas, amenazas y relaciones de poder desiguales",
-      "url": "https://www.lavanguardia.com/vivo/20260814/11613438/onlyfans-beneficio-proxenetas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7df1145c12c.r_d.2051-912-0.jpeg",
-      "published_at": "2026-08-14T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Onlyfans: qué impulsa a algunas jóvenes a subir contenido a la plataforma",
-      "lead_fa": "La búsqueda de reconocimiento, dinero o una mejor posición social impulsa a las mujeres, que en muchos casos quedan expuestas a proxenetas, amenazas y relaciones de poder desiguales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1fa89e4de54d",
       "source": "La Vanguardia",
       "title": "Salou, el eterno campo y playa de los maños",
@@ -2387,28 +2263,6 @@
       "priority": 62,
       "title_fa": "Salou, el eterno campo y playa de los maños",
       "lead_fa": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8231e5a4260a",
-      "source": "La Vanguardia",
-      "title": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260814/11613041/tienes-urgencia-sanitaria-elige-bien-donde-debes-ir-brl.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d5f5a4577b.jpeg",
-      "published_at": "2026-08-14T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "¿Tienes una urgencia sanitaria? Elige bien dónde debes ir",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2506,6 +2360,50 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "e4a025a172a2",
+      "source": "EL PAÍS España",
+      "title": "Etienne Krug, directivo de la OMS: “Los accidentes de tráfico son la primera causa de muerte entre los jóvenes”",
+      "summary": "El responsable del Departamento de Protección de la Salud pone a España como ejemplo para reducir la siniestralidad vial",
+      "url": "https://elpais.com/espana/2026-08-14/etienne-krug-directivo-de-la-oms-los-accidentes-de-trafico-son-la-primera-causa-de-muerte-entre-los-jovenes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZM6TXRRUZRB6ZPE6RLMGBPDICI.jpg?auth=0b98169952c4675e4b6de8ad7b817b0be6114c9d7c4d478d73789690fa89a6c1",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Etienne Krug, directivo de la OMS: “Los accidentes de tráfico son la primera causa de muerte entre los jóvenes”",
+      "lead_fa": "El responsable del Departamento de Protección de la Salud pone a España como ejemplo para reducir la siniestralidad vial",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7fab5b2429f5",
+      "source": "EL PAÍS Economía",
+      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2537,7 +2435,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 147
     },
     {
       "source": "EL PAÍS España",
@@ -2552,7 +2450,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 142
+      "count": 139
     }
   ]
 }
