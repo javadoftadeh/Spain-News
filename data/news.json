@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:33:06.698127+00:00",
+  "generated_at": "2026-08-15T17:54:21.848162+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -243,6 +243,35 @@
       "editorial_version": 2
     },
     {
+      "id": "aaa7e41c6404",
+      "source": "EL PAÍS",
+      "title": "Los incendios obligan a desalojar a más de 1.000 personas en Huesca y a casi 200 en Zamora",
+      "summary": "Los bomberos aragoneses mantienen la convocatoria de huelga indefinida desde el 18 de agosto: “Estamos al límite”. El Gobierno de Aragón activa el mecanismo para solicitar refuerzos a Francia",
+      "url": "https://elpais.com/sociedad/2026-08-15/mas-de-1000-personas-desalojadas-en-el-incendio-de-huesca-que-amenaza-municipios-y-el-monasterio-de-san-juan-de-la-pena.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204912_135626_video_1800.mp4",
+      "published_at": "2026-08-15T17:38:44+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تخلیه بیش از هزار نفر به دلیل آتش‌سوزی در اوئسکا",
+      "lead_fa": "بیش از یک هزار نفر در پی آتش‌سوزی جنگلی در استان اوئسکا تخلیه شدند. این حریق مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا را تهدید می‌کند.",
+      "key_points_fa": [
+        "تخلیه اضطراری بیش از ۱۰۰۰ نفر از ساکنان و گردشگران منطقه",
+        "تهدید مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا",
+        "گزارش وضعیت رو به بهبود در سایر آتش‌سوزی‌های حوئلوا و ساراگوسا"
+      ],
+      "analysis_fa": "آتش‌سوزی‌های جنگلی در اسپانیا طی فصل گرم سال همواره چالش بزرگی برای نهادهای امدادی و مدیریتی ایجاد می‌کند. مهار این حریق‌ها به دلیل شرایط جوی و صعب‌العبور بودن مناطق کوهستانی با دشواری‌های زیادی همراه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#اوئسکا",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "5be3d741cedd",
       "source": "EL PAÍS",
       "title": "Al menos 11 muertos en nuevos ataques de Israel contra el sur de Líbano",
@@ -295,35 +324,6 @@
         "#گرانادا",
         "#اندلس",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "aaa7e41c6404",
-      "source": "EL PAÍS",
-      "title": "Los incendios obligan a desalojar a más de 1.000 personas en Huesca y a casi 200 en Zamora",
-      "summary": "Los bomberos aragoneses mantienen la convocatoria de huelga indefinida desde el 18 de agosto: “Estamos al límite”. El Gobierno de Aragón activa el mecanismo para solicitar refuerzos a Francia",
-      "url": "https://elpais.com/sociedad/2026-08-15/mas-de-1000-personas-desalojadas-en-el-incendio-de-huesca-que-amenaza-municipios-y-el-monasterio-de-san-juan-de-la-pena.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204912_135626_video_1800.mp4",
-      "published_at": "2026-08-15T12:21:19+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "تخلیه بیش از هزار نفر به دلیل آتش‌سوزی در اوئسکا",
-      "lead_fa": "بیش از یک هزار نفر در پی آتش‌سوزی جنگلی در استان اوئسکا تخلیه شدند. این حریق مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا را تهدید می‌کند.",
-      "key_points_fa": [
-        "تخلیه اضطراری بیش از ۱۰۰۰ نفر از ساکنان و گردشگران منطقه",
-        "تهدید مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا",
-        "گزارش وضعیت رو به بهبود در سایر آتش‌سوزی‌های حوئلوا و ساراگوسا"
-      ],
-      "analysis_fa": "آتش‌سوزی‌های جنگلی در اسپانیا طی فصل گرم سال همواره چالش بزرگی برای نهادهای امدادی و مدیریتی ایجاد می‌کند. مهار این حریق‌ها به دلیل شرایط جوی و صعب‌العبور بودن مناطق کوهستانی با دشواری‌های زیادی همراه است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#اوئسکا",
-        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1104,18 +1104,24 @@
       "url": "https://www.lavanguardia.com/deportes/otros-deportes/20260815/11614433/espana-campeona-mundo-gimnasia-ritmica-juegos-olimpicos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a809bbea6bb2.jpeg",
       "published_at": "2026-08-15T18:37:52+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "España gana el oro mundial y consigue el billete para Los Angeles'28",
-      "lead_fa": "España vuelve a ser campeona del mundo 35 años después en Frankfurt",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اسپانیا پس از ۳۵ سال قهرمان جهان شد",
+      "lead_fa": "تیم ملی اسپانیا پس از ۳۵ سال موفق شد بار دیگر عنوان قهرمانی جهان را در فرانکفورت به دست آورد. با این پیروزی، سهمیه حضور در بازی‌های المپیک لس‌آنجلس ۲۰۲۸ نیز کسب شد.",
+      "key_points_fa": [
+        "اسپانیا پس از ۳۵ سال به مقام قهرمانی جهان رسید.",
+        "این مسابقات در شهر فرانکفورت برگزار شد.",
+        "تیم اسپانیا سهمیه المپیک ۲۰۲۸ لس‌آنجلس را دریافت کرد."
+      ],
+      "analysis_fa": "این موفقیت ورزشی نشان‌دهنده بازگشت اسپانیا به جایگاه نخست جهانی پس از دهه‌ها تلاش است و جایگاه این کشور را در ورزش قهرمانی تثبیت می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#قهرمان_جهان",
+        "#ورزش"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1126,18 +1132,24 @@
       "url": "https://www.lavanguardia.com/deportes/20260815/11614416/atletismo-europeos-birmingham-opciones-medalla-espana-domingo-4x400-jabalina-3-000-obstaculos-arce.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a808642519b5.r_d.2578-1758-0.jpeg",
       "published_at": "2026-08-15T17:58:19+02:00",
-      "category": "cultura",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "El 4x400 femenino, el 3.000 obstáculos y Yulenmis Aguilar apuntan a nuevas medallas para España",
-      "lead_fa": "El cuarteto del relevo femenino y la lanzadora de jabalina estarán en las finales de este domingo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "شانس‌های تازه مدال‌آوری اسپانیا در دوومیدانی قهرمانی",
+      "lead_fa": "تیم امدادی چهار در چهارصد متر زنان و یولنمیز آگلار به فینال راه یافتند. مسابقات نهایی این ورزشکاران روز یکشنبه برگزار می‌شود.",
+      "key_points_fa": [
+        "حضور تیم چهار در چهارصد متر زنان در فینال روز یکشنبه",
+        "راهیابی یولنمیز آگلار، پرتابگر زوبین، به مرحله نهایی",
+        "رقابت نمایندگان اسپانیا برای کسب مدال‌های جدید"
+      ],
+      "analysis_fa": "این موفقیت‌ها نشان‌دهنده آمادگی ورزشکاران اسپانیایی در رشته‌های مختلف دوومیدانی است و می‌تواند به افزایش شمار مدال‌های کاروان این کشور در رقابت‌های جاری کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دوومیدانی",
+        "#اسپانیا",
+        "#المپیک"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1476,35 +1488,6 @@
         "#سبته",
         "#مهاجرت",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "42c8b0efaa58",
-      "source": "EL PAÍS Economía",
-      "title": "Hacienda limita la rebaja fiscal al vender el piso de soltero para comprar una casa en pareja",
-      "summary": "El Tribunal Económico-Administrativo fija criterio y establece que el incentivo fiscal depende de la cuota de propiedad y no del dinero aportado por cada cónyuge",
-      "url": "https://elpais.com/economia/2026-08-14/hacienda-limita-la-rebaja-fiscal-al-vender-el-piso-de-soltero-para-comprar-una-casa-en-pareja.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TPS6PZI5DZF6ZOPAOW3C4DHQFU.jpg?auth=755f6ff30d784f754edc29d8a77d77a21cb5e144531be6bb580495059902a073",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "محدودیت جدید دارایی اسپانیا بر معافیت مالیاتی فروش مسکن مجردی",
-      "lead_fa": "دادگاه اداری-اقتصادی اسپانیا معیاری جدید برای معافیت‌های مالیاتی تعیین کرد. این معافیت اکنون بر اساس سهم مالکیت تعیین می‌شود و نه پول پرداختی.",
-      "key_points_fa": [
-        "تعیین نحوه اعمال معافیت مالیاتی برای فروش مسکن پیش از ازدواج",
-        "وابسته شدن مشوق مالیاتی به سهم مالکیت هر فرد در ملک جدید",
-        "بی‌توجهی به میزان پول نقد و سرمایه آورده شده توسط هر یک از زوجین"
-      ],
-      "analysis_fa": "این تصمیم قضایی رویه ثابتی را برای پرونده‌های مالیاتی مرتبط با فروش املاک پیش از ازدواج و خرید مسکن مشترک ایجاد می‌کند. تمرکز بر سهم قانونی مالکیت به جای میزان مشارکت مالی واقعی، می‌تواند محاسبات مالی زوج‌ها را هنگام سرمایه‌گذاری مشترک تحت تاثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مالیات",
-        "#مسکن",
-        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2058,18 +2041,25 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-15/la-nueva-oportunidad-industrial-de-espana-esta-en-el-caribe.html",
       "image": "https://imagenes.elpais.com/resizer/v2/MZG62ASEAVO2DGCGLLZJZWX6RQ.jpg?auth=62af380459b4d7ceaa941152a566b3fb37f2b2ce3b02f888a1576233ac939f7c",
       "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 66,
-      "title_fa": "La nueva oportunidad industrial de España está en el Caribe",
-      "lead_fa": "República Dominicana ha declarado los semiconductores prioridad nacional y quiere entrar en la cadena global",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فرصت صنعتی جدید اسپانیا در حوزه نیمه‌هادی‌ها در کارائیب",
+      "lead_fa": "جمهوری دومینیکن تولید نیمه‌هادی‌ها را به عنوان اولویت ملی اعلام کرد. این کشور قصد دارد وارد زنجیره تأمین جهانی این صنعت شود.",
+      "key_points_fa": [
+        "جمهوری دومینیکن تولید نیمه‌هادی‌ها را در اولویت ملی قرار داد.",
+        "هدف این کشور ورود به زنجیره جهانی تأمین تراشه است.",
+        "این اقدام می‌تواند بستر تازه‌ای برای همکاری‌های صنعتی فراهم کند."
+      ],
+      "analysis_fa": "تلاش کشورهای آمریکای لاتین برای ورود به صنعت نیمه‌هادی‌ها نشان‌دهنده تلاش جهانی برای تنوع‌بخشی به زنجیره‌های تأمین است. در این میان، شرکت‌ها و صنایع اسپانیایی می‌توانند نقش فعالی در این توسعه ایفا کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#نیمه‌هادی",
+        "#اقتصاد",
+        "#کارائیب"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2665,6 +2655,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "7fab5b2429f5",
+      "source": "EL PAÍS Economía",
+      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 58,
+      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2696,7 +2708,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 143
+      "count": 140
     },
     {
       "source": "EL PAÍS España",
@@ -2706,7 +2718,7 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 37
+      "count": 36
     },
     {
       "source": "La Vanguardia",
