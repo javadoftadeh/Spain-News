@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:40:27.093248+00:00",
+  "generated_at": "2026-08-15T07:58:47.325033+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -13,9 +13,9 @@
       "id": "7b0f0c5b2141",
       "source": "La Vanguardia",
       "title": "La frontera, en alerta: última hora sobre una jornada que se prevé tensa",
-      "summary": "Marruecos y España blindan la frontera de Ceuta ante el llamamiento de un nuevo salto para este sábado",
+      "summary": "Marruecos y España controlan todos los pasos fronterizos después del llamamiento en redes para llegar a Ceuta este sábado",
       "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7eb2fcb50a6.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8007c523eea.r_d.2725-1032-0.jpeg",
       "published_at": "2026-08-15T06:00:01+02:00",
       "category": "migracion",
       "priority": 89,
@@ -41,8 +41,8 @@
     {
       "id": "c713aaeb7565",
       "source": "La Vanguardia",
-      "title": "Un terremoto de 5 grados con epicentro en Alhendín deja daños materiales y activa la fase de emergencia",
-      "summary": "Se han registrado 15 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias",
+      "title": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la fase de emergencia",
+      "summary": "Se han registrado hasta 40 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 80 llamadas a emergencias",
       "url": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a7fedd640be7.r_d.424-239-0.jpeg",
       "published_at": "2026-08-15T06:42:13+02:00",
@@ -327,7 +327,7 @@
     {
       "id": "ad8da46bb0cc",
       "source": "La Vanguardia",
-      "title": "Un incendio presuntamente intencionado quema 10 hectáreas de la sierra de Collserola",
+      "title": "Un incendio presuntamente intencionado quema 10 hectáreas en Collserola",
       "summary": "Las llamas han empezado por encima de la avenida Pearson, justo detrás del hospital de Sant Joan de Déu, en el límite con el término municipal de Esplugues de Llobregat",
       "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f293661270.jpeg",
@@ -410,9 +410,37 @@
       "editorial_version": 2
     },
     {
+      "id": "bddd40a428b4",
+      "source": "La Vanguardia",
+      "title": "La espectacular caravana para sentirse como en una mansión rodante: su gran cocina al aire libre es su gran tesoro",
+      "summary": "La nueva Alliance Paradigm 388SP apuesta por el confort de una vivienda pensada para largas estancias",
+      "url": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260815/11594650/caravana-alliance-paradigm-388sp-mansion-rodante-tsc.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/27/6a6743d26b36f.r_d.648-410-0.jpeg",
+      "published_at": "2026-08-15T07:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "معرفی کاروان مجلل جدید با امکانات کامل اقامتی",
+      "lead_fa": "مدل جدید Alliance Paradigm 388SP با تمرکز بر راحتی برای اقامت‌های طولانی‌مدت معرفی شد. این کاروان مجهز به یک آشپزخانه بزرگ در فضای باز است.",
+      "key_points_fa": [
+        "طراحی شده برای راحتی مشابه یک خانه مسکونی",
+        "مناسب برای اقامت‌های طولانی‌مدت",
+        "دارای آشپزخانه بزرگ در فضای باز به عنوان ویژگی برجسته"
+      ],
+      "analysis_fa": "عرضه این خودروی تفریحی جدید نشان‌دهنده تمایل بازار به سوی کاروان‌های لوکس و راحت‌تر برای سفرهای بلندمدت است. این روند می‌تواند بر بازار گردشگری با وسایل نقلیه تفریحی تأثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#گردشگری",
+        "#کاروان"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "410739678c47",
       "source": "La Vanguardia",
-      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
+      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes a un nuevo asalto",
       "summary": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
       "url": "https://www.lavanguardia.com/politica/20260815/11614090/madrid-rabat-elevan-vigilancia-ceuta-llamamientos-redes.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee27d8bf10.r_d.605-424-0.jpeg",
@@ -492,34 +520,6 @@
         "#مورینیو",
         "#فوتبالاسپانیا",
         "#نقلوانتقالات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b397473e8132",
-      "source": "La Vanguardia",
-      "title": "Raimon Obiols: “Hoy los partidos son débiles y dependen más de los liderazgos”",
-      "summary": "El exlíder del PSC fue diputado en el Parlament, en el Congreso y en la Eurocámara",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614007/raimon-obiols-hoy-partidos-son-debiles-dependen-mas-liderazgos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2f529568e.r_d.2488-1707-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "رایمون اوبیولس: احزاب امروزی ضعیف شده‌اند و به رهبران وابسته‌ترند",
-      "lead_fa": "رهبر پیشین حزب سوسیالیست کاتالونیا (PSC) درباره وضعیت سیاسی کنونی اظهارنظر کرد. او بر نقش پررنگ رهبران در ساختار ضعیف شده احزاب سیاسی تأکید نمود.",
-      "key_points_fa": [
-        "رایمون اوبیولس سابقه نمایندگی در پارلمان کاتالونیا، کنگره و پارلمان اروپا را دارد.",
-        "او معتقد است که احزاب سیاسی در دوران کنونی ضعیف شده‌اند.",
-        "وابستگی احزاب به چهره‌های رهبری افزایش یافته است."
-      ],
-      "analysis_fa": "این اظهارات از سوی یک چهره باسابقه سیاسی مطرح می‌شود که سابقه فعالیت در سطوح مختلف پارلمانی داخلی و اروپایی را دارد. نگاه انتقادی او به ساختار درونی احزاب، بازتاب‌دهنده چالش‌های مدرن دموکراسی‌های پارلمانی و تغییر الگوهای سنتی حزب‌داری است که در آن شخصیت‌های محوری جایگزین ساختارهای تشکیلاتی کلان شده‌اند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#احزاب"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -876,16 +876,22 @@
       "published_at": "2026-08-15T03:15:00+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "La prórroga de Almaraz dejará en manos de un futuro Gobierno la decisión sobre su cierre",
-      "lead_fa": "La medida rompe con el pacto entre el PSOE y Sumar, y contenta a los partidos políticos de la región, municipios y eléctricas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تصمیم‌گیری درباره تعطیلی نیروگاه آلماراز به دولت آینده موکول شد",
+      "lead_fa": "تمدید فعالیت نیروگاه هسته‌ای آلماراز توافق میان احزاب دولتی PSOE و Sumar را نقض کرد. این تصمیم با استقبال مقام‌های محلی، شهرداری‌ها و شرکت‌های برق مواجه شده است.",
+      "key_points_fa": [
+        "تمدید فعالیت نیروگاه آلماراز تصمیم‌گیری نهایی درباره زمان تعطیلی آن را به دولت آینده واگذار می‌کند.",
+        "این اقدام توافق ائتلافی میان دو حزب حاکم PSOE و Sumar را شکسته است.",
+        "احزاب سیاسی محلی، شهرداری‌ها و صنعت برق از این تصمیم ابراز رضایت کرده‌اند."
+      ],
+      "analysis_fa": "تغییر موضع درباره انرژی هسته‌ای در اسپانیا نشان‌دهنده چالش‌های دولت در ایجاد توازن میان تعهدات زیست‌محیطی ائتلاف حاکم و فشارهای منطقه‌ای و اقتصادی است. این موضوع می‌تواند پویایی سیاسی جدیدی را در روابط حزب حاکم و متحدانش ایجاد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#انرژی",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -925,10 +931,59 @@
       "url": "https://www.lavanguardia.com/opinion/20260815/11614071/turismo-literario-barcelona-rodoreda-sol-y-playa.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/03/06/5fa904f4dd597.jpeg",
       "published_at": "2026-08-15T00:00:00+02:00",
-      "category": "politica",
+      "category": "turismo",
       "priority": 72,
-      "title_fa": "El turismo perfecto",
-      "lead_fa": "Las ciudades con un rico patrimonio literario suelen sacar partido de esta circunstancia",
+      "title_fa": "شهرهای دارای میراث ادبی چگونه از گردشگری سود می‌برند",
+      "lead_fa": "شهرهای دارای میراث غنی ادبی اغلب از این ظرفیت برای رونق گردشگری استفاده می‌کنند. این روند تاثیر قابل توجهی بر اقتصاد محلی و جذب بازدیدکنندگان دارد.",
+      "key_points_fa": [
+        "استفاده از ظرفیت‌های ادبی برای جذب گردشگر",
+        "نققش میراث فرهنگی در توسعه شهری"
+      ],
+      "analysis_fa": "تمرکز بر گردشگری ادبی نشان‌دهنده تغییر الگوهای سفر به سمت مقاصد فرهنگی و تاریخی است. شهرهایی که دارای پیشینه غنی ادبی هستند، با سرمایه‌گذاری در این حوزه می‌توانند گردشگران بیشتری را جذب کنند و اقتصاد محلی خود را توسعه دهند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#گردشگری",
+        "#اسپانیا",
+        "#فرهنگ"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5d29103f95e5",
+      "source": "La Vanguardia",
+      "title": "Casi toda España en aviso por lluvias y tormentas, con parte de Catalunya en nivel naranja",
+      "summary": "Otras cuatro autonomías repiten el nivel naranja, sin olvidar los avisos por calor, olas y nieblas",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614307/lluvia-tormentas-clima-prevision-tiempo-espana-catalunya.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/28/6a40c8d451543.r_d.3000-2000-0.jpeg",
+      "published_at": "2026-08-15T09:05:23+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Casi toda España en aviso por lluvias y tormentas, con parte de Catalunya en nivel naranja",
+      "lead_fa": "Otras cuatro autonomías repiten el nivel naranja, sin olvidar los avisos por calor, olas y nieblas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b02d8c299faa",
+      "source": "EL PAÍS",
+      "title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
+      "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado",
+      "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UGQIHR35JJAQPFKZIZ6HSWQQV4.jpg?auth=6da5607bca00762380209e71887f81ac9502e4cf618bdb55aaf45c5fa884f83a",
+      "published_at": "2026-08-15T07:45:35+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
+      "lead_fa": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -959,34 +1014,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e90d2c2092a3",
-      "source": "La Vanguardia",
-      "title": "Así se gestó la Liga hace cien años: Unión de Clubs, rebelión de modestos y bronca en la Federación",
-      "summary": "El choque entre las principales entidades deportivas y las federaciones territoriales marcó la creación de la principal competición futbolística",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260815/11614108/asi-nacio-liga-cien-anos-union-clubs-rebelion-modestos-bronca-federacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f68f22f78c.r_d.369-232-0.jpeg",
-      "published_at": "2026-08-15T00:05:00+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "صدمین سالگرد تولد لیگ فوتبال اسپانیا؛ از شورش باشگاه‌ها تا تأسیس مسابقات",
-      "lead_fa": "لیگ فوتبال اسپانیا یک قرن پیش پس از تنش میان باشگاه‌های بزرگ و فدراسیون‌های محلی شکل گرفت. این رقابت‌ها حاصل توافق‌ها و درگیری‌های نهادهای ورزشی وقت بود.",
-      "key_points_fa": [
-        "تأسیس لیگ فوتبال اسپانیا با تنش میان باشگاه‌های بزرگ و فدراسیون‌های محلی همراه بود.",
-        "این رقابت‌ها پس از ماه‌ها کشمکش و اتحاد میان نهادهای ورزشی پایه‌گذاری شد.",
-        "شکل‌گیری مسابقات اصلی فوتبال نقطه عطفی در تاریخ ورزش اسپانیا به شمار می‌رود."
-      ],
-      "analysis_fa": "ایجاد لیگ فوتبال در اسپانیا نشان‌دهنده اهمیت ساختارهای سازمانی و قدرت‌گیری باشگاه‌ها در برابر فدراسیون‌هاست. این تحول تاریخی مسیر ورزش حرفه‌ای را در این کشور هموار کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فوتبال_اسپانیا",
-        "#تاریخ_ورزش",
-        "#لالیگا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1056,17 +1083,17 @@
       "editorial_version": 2
     },
     {
-      "id": "13f4f609b9a7",
+      "id": "920896808b97",
       "source": "La Vanguardia",
-      "title": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
-      "summary": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
-      "url": "https://www.lavanguardia.com/cultura/20260815/11613812/bienvenidos-readaways-viaje-traves-tus-novelas-favoritas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7efbc06642e.r_d.2647-1436-0.jpeg",
+      "title": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
+      "summary": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
+      "url": "https://www.lavanguardia.com/vida/20260815/11614013/vecinos-palma-convocan-cenas-plazas-desalojar-turistas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f31016955b.r_d.1111-1635-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "turismo",
       "priority": 69,
-      "title_fa": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
-      "lead_fa": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
+      "title_fa": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
+      "lead_fa": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1089,6 +1116,28 @@
       "priority": 69,
       "title_fa": "Ranking Shanghai: el empuje de los campus chinos desplaza a las universidades españolas",
       "lead_fa": "En el listado, liderado por la UB, hay treinta campus nacionales, seis menos que el año pasado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "13f4f609b9a7",
+      "source": "La Vanguardia",
+      "title": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
+      "summary": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
+      "url": "https://www.lavanguardia.com/cultura/20260815/11613812/bienvenidos-readaways-viaje-traves-tus-novelas-favoritas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7efbc06642e.r_d.2647-1436-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
+      "lead_fa": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1276,17 +1325,17 @@
       "editorial_version": 2
     },
     {
-      "id": "920896808b97",
+      "id": "0322812e1a12",
       "source": "La Vanguardia",
-      "title": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
-      "summary": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
-      "url": "https://www.lavanguardia.com/vida/20260815/11614013/vecinos-palma-convocan-cenas-plazas-desalojar-turistas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f31016955b.r_d.1111-1635-0.jpeg",
+      "title": "Mónica López vive su mejor momento: “Ahora estoy recogiendo los frutos”",
+      "summary": "La actriz estrena cinco proyectos tras el éxito de 'Rapa' y asegura que las mejores oportunidades le han llegado después de cumplir los 50",
+      "url": "https://www.lavanguardia.com/gente/20260815/11606647/monica-lopez-vive-mejor-momento-recogiendo-frutos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71f968c98b4.r_d.1284-807-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "turismo",
+      "category": "sociedad",
       "priority": 69,
-      "title_fa": "Los vecinos de Palma convocan cenas en plazas para ‘desalojar’ a los turistas",
-      "lead_fa": "Los residentes secundan así una campaña en la que defienden que se recuperen los espacios centrales hoy frecuentados por el turismo",
+      "title_fa": "Mónica López vive su mejor momento: “Ahora estoy recogiendo los frutos”",
+      "lead_fa": "La actriz estrena cinco proyectos tras el éxito de 'Rapa' y asegura que las mejores oportunidades le han llegado después de cumplir los 50",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1375,50 +1424,6 @@
       "priority": 69,
       "title_fa": "Los franceses pescan en familia en el delta del Ebro",
       "lead_fa": "La vida sencilla se expande en una franja costera por suerte poco urbanizada, junto al delta del Ebro. Para algunos franceses es su casa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "117f60bf82d8",
-      "source": "La Vanguardia",
-      "title": "La venta de la terminal BEST de Barcelona queda en el aire",
-      "summary": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
-      "url": "https://www.lavanguardia.com/economia/20260815/11614073/terminal-best-barcelona-puerto-venta-compra-msc-blackrock.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f50aae06eb.jpeg",
-      "published_at": "2026-08-15T05:00:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "La venta de la terminal BEST de Barcelona queda en el aire",
-      "lead_fa": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b02d8c299faa",
-      "source": "EL PAÍS",
-      "title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
-      "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado",
-      "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UGQIHR35JJAQPFKZIZ6HSWQQV4.jpg?auth=6da5607bca00762380209e71887f81ac9502e4cf618bdb55aaf45c5fa884f83a",
-      "published_at": "2026-08-15T04:01:00+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
-      "lead_fa": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2219,28 +2224,6 @@
       "editorial_version": 2
     },
     {
-      "id": "90f7493b4654",
-      "source": "La Vanguardia",
-      "title": "Gràcia reivindica su identidad",
-      "summary": "Comienzan siete días de festejos con una plaza de la Vila llena a rebosar y con los últimos preparativos en las 23 calles que este año también estarán decoradas",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11614107/gracia-reivindica-identidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f6873e90ad.r_d.2509-1441-0.jpeg",
-      "published_at": "2026-08-14T21:34:27+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Gràcia reivindica su identidad",
-      "lead_fa": "Comienzan siete días de festejos con una plaza de la Vila llena a rebosar y con los últimos preparativos en las 23 calles que este año también estarán decoradas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1538c51c3cd5",
       "source": "EL PAÍS España",
       "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
@@ -2459,6 +2442,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "b4298a2ae0bd",
+      "source": "La Vanguardia",
+      "title": "Los últimos campistas de la autovía de Castelldefels",
+      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
+      "published_at": "2026-08-13T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 53,
+      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
+      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2505,7 +2510,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 131
+      "count": 134
     }
   ]
 }
