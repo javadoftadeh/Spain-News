@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:55:37.486441+00:00",
+  "generated_at": "2026-08-15T11:31:51.317224+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -15,7 +15,7 @@
       "title": "Marruecos asegura que ha frenado un intento de cientos de migrantes para cruzar a Ceuta",
       "summary": "Ceuta ha amanecido con tranquilidad este sábado ante el refuerzo de la frontera, a pesar del intento de un grupo de migrantes",
       "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7b49e88876a.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee911e5221.r_d.365-127-0.jpeg",
       "published_at": "2026-08-15T06:00:01+02:00",
       "category": "migracion",
       "priority": 89,
@@ -74,7 +74,7 @@
       "summary": "Policía, Guardia Civil y militares blindan las inmediaciones del paso de El Tarajal (Ceuta) | Tranquilidad en la frontera de Melilla, con mayor despliegue policial del habitual",
       "url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/Q55DY5AZVRD5RBFFM2ZEEDGL7U.jpg?auth=103b5175a0054cd526b26d4c5cdc15bdf7cfe0154782e0b2925004a902315293",
-      "published_at": "2026-08-15T10:49:52+00:00",
+      "published_at": "2026-08-15T11:07:22+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "آمادگی مرزی در سبته پس از تلاش صدها مهاجر برای ورود",
@@ -178,6 +178,33 @@
         "#اقتصاد",
         "#انرژی",
         "#تورم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a4c523dda51",
+      "source": "La Vanguardia",
+      "title": "Muere atropellado por un camión el pasajero de un vehículo parado en la AP-7",
+      "summary": "El pasajero, que fue atropellado por un camión, ha resultado muerto como consecuencia de la gravedad de las heridas sufridas",
+      "url": "https://www.lavanguardia.com/sucesos/20260815/11614340/muere-atropellado-camion-pasajero-vehiculo-parado-ap-7.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/01/6905e97979b50.r_d.1000-666-0.jpeg",
+      "published_at": "2026-08-15T12:18:11+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "مرگ سرنشین یک خودرو در بزرگراه AP-7 پس از تصادف با کامیون",
+      "lead_fa": "یک مسافر خودروی متوقف‌شده در بزرگراه AP-7 بر اثر برخورد با یک کامیون جان باخت. شدت جراحات وارده علت اصلی مرگ این فرد اعلام شده است.",
+      "key_points_fa": [
+        "حادثه در بزرگراه AP-7 رخ داده است.",
+        "قربانی، سرنشین یک خودروی متوقف بوده است.",
+        "برخورد با یک کامیون منجر به مرگ این مسافر شد."
+      ],
+      "analysis_fa": "وقوع تصادفات در حاشیه بزرگراه‌ها و برای خودروهای متوقف همواره یکی از چالش‌های ایمنی راه‌ها است که نیازمند توجه بیشتر به پروتکل‌های هشدار و ایمنی در جاده‌های پرتردد اسپانیاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث_رانندگی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1009,6 +1036,34 @@
       "editorial_version": 2
     },
     {
+      "id": "b5e95bd9e27e",
+      "source": "EL PAÍS Economía",
+      "title": "Portugal acuerda comprar un 13,7% de REN a Pontegadea",
+      "summary": "La sociedad estatal Parpública vuelve al capital de la eléctrica tras adquirir la participación a la firma de Amancio Ortega por 324 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-08-15/portugal-acuerda-comprar-un-137-de-ren-a-pontegadea.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FH3ORSNGNVGBFJJU5YWVCL2I4Q.png?auth=e0b13ae7694d6a781ac83426448e9af7be6490f5c288fefc779fd4d43317ea2c",
+      "published_at": "2026-08-15T10:30:03+00:00",
+      "category": "economia",
+      "priority": 70,
+      "title_fa": "پرتغال سهام شرکت برق REN را از پونتگادیا خرید",
+      "lead_fa": "دولت پرتغال توافق کرد سهم ۱۳.۷ درصدی شرکت برق REN را بازپس گیرد. این معامله با شرکت سرمایه‌گذاری آمانسیو اورتگا به ارزش ۳۲۴ میلیون یورو انجام شد.",
+      "key_points_fa": [
+        "شرکت دولتی پارپویکا دوباره وارد سرمایه شرکت برق REN شد.",
+        "این سهام از پونتگادیا، متعلق به آمانسیو اورتگا خریداری شده است.",
+        "ارزش این معامله ۳۲۴ میلیون یورو اعلام شده است."
+      ],
+      "analysis_fa": "بازگشت سهام به مالکیت دولتی در بخش انرژی نشان‌دهنده تغییرات راهبردی در ساختار زیرساخت‌های کلیدی است. این اقدام دولت پرتغال می‌تواند کنترل بیشتری بر حوزه انرژی این کشور فراهم کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#پرتغال",
+        "#اقتصاد",
+        "#انرژی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "00721fc1a8ea",
       "source": "La Vanguardia",
       "title": "La marcha deja una lluvia de medallas para España, con oros para Paul McGrath y María Pérez",
@@ -1502,16 +1557,23 @@
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
-      "lead_fa": "Aburrimiento, furia y depresión. Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پنج سال سرگردانی زنان افغان تحت حاکمیت طالبان",
+      "lead_fa": "زندگی زنان در افغانستان پس از بازگشت طالبان به قدرت همچنان در هاله‌ای از ابهام قرار دارد. خواهران افغان از احساس خشم و افسردگی روزمره خود می‌گویند.",
+      "key_points_fa": [
+        "گذر پنج سال از تسلط دوباره طالبان بر افغانستان",
+        "توصیف وضعیت زندگی در کابل با احساساتی چون ملال و خشم",
+        "ادامه چالش‌های شدید معیشتی و اجتماعی برای زنان"
+      ],
+      "analysis_fa": "بازگشت طالبان به قدرت در سال ۲۰۲۱ نقطه عطفی در نقض حقوق بنیادین زنان در افغانستان بود. با گذشت زمان، محدودیت‌های اعمال‌شده تأثیر عمیقی بر سلامت روان و آینده نسل جوان زنان گذاشته است، در حالی که واکنش‌های بین‌المللی همچنان ناکافی به نظر می‌رسد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#زنان_افغان",
+        "#طالبان",
+        "#کابل",
+        "#حقوق_بشر"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1702,28 +1764,6 @@
       "priority": 68,
       "title_fa": "Los franceses pescan en familia en el delta del Ebro",
       "lead_fa": "La vida sencilla se expande en una franja costera por suerte poco urbanizada, junto al delta del Ebro. Para algunos franceses es su casa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "117f60bf82d8",
-      "source": "La Vanguardia",
-      "title": "La venta de la terminal BEST de Barcelona queda en el aire",
-      "summary": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
-      "url": "https://www.lavanguardia.com/economia/20260815/11614073/terminal-best-barcelona-puerto-venta-compra-msc-blackrock.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f50aae06eb.jpeg",
-      "published_at": "2026-08-15T05:00:00+02:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "La venta de la terminal BEST de Barcelona queda en el aire",
-      "lead_fa": "MSC y BlackRock se retiran tras las reticencias de Bruselas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2525,28 +2565,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "7fab5b2429f5",
-      "source": "EL PAÍS Economía",
-      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2588,12 +2606,12 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 139
     }
   ]
 }
