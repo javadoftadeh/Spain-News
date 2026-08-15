@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:46:55.856683+00:00",
+  "generated_at": "2026-08-15T03:01:39.333644+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "f39e63327175",
@@ -247,7 +247,7 @@
       "summary": "El fenómeno tuvo epicentro en Alhendín, a dos kilómetros de profundidad",
       "url": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
       "image": "https://imagenes.elpais.com/resizer/v2/GXM6VLBH5ZGBHEYL2MSJYUOYFM.jpg?auth=6cd3d0429a9c34bc20a58e5d427590af8b589123a6617ca56f0e347a4abf4f10",
-      "published_at": "2026-08-15T01:27:12+00:00",
+      "published_at": "2026-08-15T01:46:59+00:00",
       "category": "sociedad",
       "priority": 77,
       "title_fa": "فعالسازی وضعیت اضطراری در اندلس پس از زلزله ۵ ریشتری در گرانادا",
@@ -1720,16 +1720,23 @@
       "published_at": "2026-08-14T15:13:39+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Nuevos detalles de la boda de Cristiano Ronaldo y Georgina Rodríguez: acuerdo prenupcial con separación de bienes y cuatro testigos",
-      "lead_fa": "El acta matrimonial del enlace, a la que ha tenido acceso un periódico portugués, ha arrojado más luz a la íntima ceremonia que unió en matrimonio al futbolista y la ‘influencer’ el pasado 11 de agosto en Cascais",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جزئیات جدید از ازدواج کریستیانو رونالدو و جورجینا رودریگز",
+      "lead_fa": "رسانه پرتغالی سند ازدواج کریستیانو رونالدو و جورجینا رودریگز را منتشر کرد. این زوج ۱۱ اوت در مراسمی خصوصی در کاسکایس ازدواج کردند.",
+      "key_points_fa": [
+        "انتشار سند ازدواج از سوی یک روزنامه پرتغالی",
+        "برگزاری مراسم در تاریخ ۱۱ اوت در کاسکایس",
+        "توافق پیش از ازدواج مبنی بر جدایی اموال",
+        "حضور چهار شاهد در مراسم"
+      ],
+      "analysis_fa": "انتشار اسناد خصوصی چهره‌های سرشناس همواره بازتاب گسترده‌ای در رسانه‌ها دارد و جزئیات حقوقی این ازدواج نشان‌دهنده دقت در تنظیم امور مالی آن‌هاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کریستیانو_رونالدو",
+        "#اسپانیا",
+        "#اخبار_فرهنگی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1742,16 +1749,22 @@
       "published_at": "2026-08-14T15:11:43+00:00",
       "category": "cultura",
       "priority": 67,
-      "title_fa": "Matthew McConaughey repasa las anécdotas de su carrera: de la película que más ganancias le genera al papel en una exitosa serie que rechazó",
-      "lead_fa": "El oscarizado actor, que vive en Texas alejado de Hollywood, ha hablado de su trayectoria en el ‘podcast’ ‘Happy Sad Confused’ en el que ha promocionado su última cinta, ‘Los rivales de Amziah King’, tras cinco años sin aparecer en el cine",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مرور خاطرات سینمایی متیو مک‌کانهی در یک پادکست",
+      "lead_fa": "بازیگر برنده اسکار در یک پادکست درباره مسیر حرفه‌ای خود صحبت کرد. او در این گفتگو به فیلم جدید خود و آثار گذشته‌اش پرداخت.",
+      "key_points_fa": [
+        "متیو مک‌کانهی پس از پنج سال دوری از سینما با فیلم «رقبای آمزیای کینگ» بازگشته است.",
+        "او در پادکست «Happy Sad Confused» به مرور خاطرات و تجربه‌های دوران بازیگری‌اش پرداخت.",
+        "این بازیگر اکنون دور از هالیوود و در ایالت تگزاس زندگی می‌کند."
+      ],
+      "analysis_fa": "این گفتگو بخشی از فعالیت‌های تبلیغاتی مک‌کانهی برای فیلم جدیدش است که بازگشت او به پرده سینما پس از یک وقفه طولانی را رقم می‌زند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سینما",
+        "#متیومک‌کانهی",
+        "#هالیوود"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1763,83 +1776,23 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204678_140830_video_1800.mp4",
       "published_at": "2026-08-14T14:13:17+00:00",
       "category": "turismo",
-      "priority": 67,
-      "title_fa": "Miles de turistas quedan varados en Sicilia tras la erupción del volcán Etna: “Estamos en el abismo más profundo”",
-      "lead_fa": "La ceniza mantiene el aeropuerto de Catania cerrado y afecta a unos 100.000 viajeros en plena temporada alta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a42da1392a7",
-      "source": "La Vanguardia",
-      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
-      "published_at": "2026-08-14T13:51:53+02:00",
-      "category": "sociedad",
       "priority": 66,
-      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
-      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "فلج شدن گردشگری در سیسیل بر اثر فوران آتشفشان اتنا",
+      "lead_fa": "فعالیت آتشفشان اتنا در سیسیل باعث تعطیلی فرودگاه کاتانیا شد. این حادثه سفر حدود صد هزار مسافر را در اوج فصل گردشگری مختل کرد.",
+      "key_points_fa": [
+        "بسته شدن فرودگاه کاتانیا به دلیل انباشت خاکستر آتشفشانی",
+        "تأثیر منفی بر سفر حدود ۱۰۰ هزار مسافر در فصل اوج گردشگری",
+        "سرگردانی هزاران گردشگر در منطقه"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e61b4653bde6",
-      "source": "La Vanguardia",
-      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
-      "published_at": "2026-08-14T13:31:21+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
-      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
+      "analysis_fa": "فوران آتشفشان اتنا و بسته شدن فرودگاه کاتانیا بار دیگر آسیب‌پذیری زیرساخت‌های حمل‌ونقل هوایی جزیره سیسیل را در برابر حوادث طبیعی نشان می‌دهد. این رویداد در فصل اوج گردشگری می‌تواند خسارات اقتصادی قابل توجهی به صنعت توریسم منطقه وارد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#گردشگری",
+        "#آتشفشان"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "331f3a8589dc",
-      "source": "La Vanguardia",
-      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
-      "published_at": "2026-08-14T13:08:55+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
-      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1887,17 +1840,61 @@
       "editorial_version": 2
     },
     {
-      "id": "a0ab9b13f1b6",
-      "source": "EL PAÍS",
-      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
-      "published_at": "2026-08-14T11:21:54+00:00",
+      "id": "4a42da1392a7",
+      "source": "La Vanguardia",
+      "title": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "summary": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "url": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79c14008648.r_d.4038-4882-0.jpeg",
+      "published_at": "2026-08-14T13:51:53+02:00",
       "category": "sociedad",
-      "priority": 66,
-      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
-      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "priority": 65,
+      "title_fa": "La familia del líder de la UAGA asesinado pide respeto a su memoria e intimidad",
+      "lead_fa": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e61b4653bde6",
+      "source": "La Vanguardia",
+      "title": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "summary": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613870/asco-vandellos-confian-efecto-domino-alargar-vida-nucleares-catalanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cf7ba9cbde.r_d.2852-2348-0.jpeg",
+      "published_at": "2026-08-14T13:31:21+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Ascó y Vandellòs confían en el “efecto dominó” para alargar la vida de las nucleares catalanas",
+      "lead_fa": "Los alcaldes de los municipios afectados esperan que la decisión sobre Almaraz allane el camino para prorrogar también su calendario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "331f3a8589dc",
+      "source": "La Vanguardia",
+      "title": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "summary": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ef3da4278a.jpeg",
+      "published_at": "2026-08-14T13:08:55+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’",
+      "lead_fa": "Decenas de imágenes suplantan en grupos árabes de redes sociales a «Farah, una chica d’Al-Araish», cuya entrada en Ceuta se hizo viral y espoleó el cruce masivo del 30 de julio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1920,6 +1917,28 @@
       "priority": 65,
       "title_fa": "Selena Gomez, demandada por fraude",
       "lead_fa": "La denuncia, interpuesta por inversores de la startup de la artista Wondermind, también afecta a la madre de la cantante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0ab9b13f1b6",
+      "source": "EL PAÍS",
+      "title": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "summary": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "url": "https://elpais.com/icon-design/2026-08-14/de-windsor-a-marbella-con-forma-de-gato-o-en-medio-de-un-estadio-30-de-las-piscinas-mas-espectaculares-del-mundo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WK6UUYY3UBFGFOYX7KHFOGHNQA.jpg?auth=91099d44a53e00283fb2dbfc90daee40185b08bbd3fabb57849634d5757d00b5",
+      "published_at": "2026-08-14T11:21:54+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
+      "lead_fa": "De Windsor a Marbella, con forma de gato o en medio de un estadio: 30 de las piscinas más espectaculares del mundo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2437,28 +2456,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 56,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2470,6 +2467,28 @@
       "priority": 55,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 55,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
