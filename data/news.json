@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:31:00.200805+00:00",
+  "generated_at": "2026-08-15T19:53:11.548091+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
@@ -2098,16 +2098,22 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Por qué ya no enseñamos las tetas",
-      "lead_fa": "Lo que debería alarmarnos no es el auge de un presunto puritanismo, sino la sexualización voraz que ha impuesto el nuevo capitalismo hedonista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "چرایی تغییر نگاه به بدن در عصر سرمایه‌داری نوین",
+      "lead_fa": "نویسنده روزنامه ال پائیس در یادداشتی به بررسی تغییرات فرهنگی در زمینه نمایش بدن پرداخته است. او معتقد است مشکل اصلی نه نوظهور بودن پوریتانیسم، بلکه جنسی‌سازی افراطی توسط سرمایه‌داری است.",
+      "key_points_fa": [
+        "بررسی ریشه‌های تغییر در الگوهای فرهنگی و نمایش بدن",
+        "انتقاد از سرمایه‌داری هدانونیست و جنسی‌سازی افراطی",
+        "طرح این پرسش که نگرانی اصلی جامعه باید چه مسئله‌ای باشد"
+      ],
+      "analysis_fa": "این یادداشت نگاهی انتقادی به تحولات فرهنگی و اقتصادی در جوامع غربی دارد و تلاش می‌کند پدیده‌های اجتماعی را به ساختارهای اقتصادی سرمایه‌داری گره بزند. این تحلیل بدون پیش‌بینی قطعی، بر بازخوانی ارزش‌های فرهنگی تمرکز دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#فرهنگ",
+        "#اسپانیا",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2118,18 +2124,24 @@
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-15/cuanto-dinero-hay-que-invertir-para-generar-un-sueldo-extra-de-500-euros-al-mes-en-dividendos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/3RG7OELTERG25FM4635QWLDK24.jpg?auth=af68caffc7d4ecc34a1641330afb1fdca459ceb1ed43fc842039eed12ac0e438",
       "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "cultura",
+      "category": "economia",
       "priority": 65,
-      "title_fa": "¿Cuánto dinero hay que invertir para generar un sueldo extra de 500 euros al mes en dividendos?",
-      "lead_fa": "La búsqueda de rentas complementarias a la nómina impulsa el interés por las carteras con elevada retribución al accionista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "سرمایه‌گذاری در بورس اسپانیا برای کسب درآمد ماهانه ۵۰۰ یورو",
+      "lead_fa": "افزایش تمایل به کسب درآمدهای جانبی در اسپانیا، توجه سرمایه‌گذاران را به سمت سهام با سود تقسیمی بالا جلب کرده است. این روش به عنوان راهکاری برای مقابله با تورم و افزایش توان مالی خانوارها بررسی می‌شود.",
+      "key_points_fa": [
+        "تمرکز بر ساخت سبد سهام با سود تقسیمی بالا در بازار بورس",
+        "نیازسنجی مالی برای دستیابی به درآمد ثابت ۵۰۰ یورو در ماه",
+        "نقش سود سهام به عنوان منبع درآمد مکمل برای حقوق ماهیانه"
+      ],
+      "analysis_fa": "تمرکز بر سهام سودده (دیویدند) نشان‌دهنده تلاش شهروندان برای یافتن روش‌های جایگزین حفظ ارزش دارایی‌ها در شرایط اقتصادی کنونی است. میزان سرمایه مورد نیاز به نرخ بازدهی شرکت‌ها و شرایط بازار بستگی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#سرمایه‌گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2142,16 +2154,22 @@
       "published_at": "2026-08-15T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "El regreso talibán en Afganistán: cinco años de una de las mayores derrotas de la comunidad internacional",
-      "lead_fa": "El grupo integrista consolida en un lustro, casi sin oposición, un régimen de represión contra las libertades, en especial las de las mujeres, y sumerge al país en la miseria. Mientras y pese a los abusos, Occidente da pasos para su normalización",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پنج سال تسلط طالبان بر افغانستان و بحران مستمر حقوق بشر",
+      "lead_fa": "گروه طالبان طی پنج سال گذشته توانسته است رژیمی مبتنی بر سرکوب آزادی‌ها، به ویژه زنان، در افغانستان تثبیت کند. با وجود این اقدامات، کشورهای غربی اقداماتی را برای عادی‌سازی روابط با این حکومت آغاز کرده‌اند.",
+      "key_points_fa": [
+        "تثبیت حکومت طالبان طی پنج سال گذشته تقریبا بدون مخالفت جدی انجام شده است.",
+        "این رژیم باعث تشدید سرکوب آزادی‌ها و افزایش فقر شدید در کشور شده است.",
+        "کشورهای غربی با وجود گزارش‌های متعدد از نقض حقوق بشر، گام‌هایی برای عادی‌سازی روابط برداشته‌اند."
+      ],
+      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های عمیق جامعه جهانی در مواجهه با تحولات افغانستان است. از یک سو، گزارش‌های مداوم درباره نقض حقوق بشر و وضعیت بحرانی اقتصاد وجود دارد و از سوی دیگر، واقعیت‌های ژئوپلیتیک و امنیتی برخی دولت‌های غربی را به سمت تعامل با حاکمان کنونی کابل سوق داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#افغانستان",
+        "#طالبان",
+        "#حقوق_بشر"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
