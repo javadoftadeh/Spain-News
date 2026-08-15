@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:54:08.056212+00:00",
+  "generated_at": "2026-08-15T16:37:28.172857+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -12,10 +12,10 @@
     {
       "id": "7b0f0c5b2141",
       "source": "La Vanguardia",
-      "title": "Última hora de la crisis migratoria en Ceuta, en directo: Marruecos expulsa a EFE y TVE de Castillejos",
+      "title": "Última hora de la crisis migratoria en Ceuta, en directo: Marruecos expulsa a los periodistas de Efe y TVE de Castillejos",
       "summary": "La policía marroquí expulsa de Castillejos a los centenares de subsaharianos que se habían acercado a la frontera con la ciudad autónoma",
       "url": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a803e64c2beb.r_d.1484-990-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8088d45228d.r_d.1744-1984-0.jpeg",
       "published_at": "2026-08-15T06:00:01+02:00",
       "category": "migracion",
       "priority": 89,
@@ -74,7 +74,7 @@
       "summary": "La policía marroquí detiene a 61 personas por incitar a la migración ilegal hacia Ceuta | Los agentes expulsan de Castillejos a los centenares de subsaharianos que se habían acercado a la frontera con la ciudad autónoma",
       "url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/S57VT23KVBFQJNDLNDAO6SCIOM.jpg?auth=da379a5f68fe93f58a76feb327262ea9ea4846e97373bd5d338e03d65d1b94ba",
-      "published_at": "2026-08-15T15:31:39+00:00",
+      "published_at": "2026-08-15T15:52:19+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "آمادگی مرزی در سبته پس از تلاش صدها مهاجر برای ورود",
@@ -214,6 +214,34 @@
       "editorial_version": 2
     },
     {
+      "id": "5be3d741cedd",
+      "source": "EL PAÍS",
+      "title": "Al menos 11 muertos en nuevos ataques de Israel contra el sur de Líbano",
+      "summary": "La ofensiva israelí es una de las más letales contra territorio libanés desde que se firmó en junio el alto el fuego entre los dos países con la mediación de EE UU",
+      "url": "https://elpais.com/internacional/2026-08-15/al-menos-nueve-muertos-en-nuevos-ataques-de-israel-contra-el-sur-de-libano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WXEIJMQUAZNWLE6WXDRN763VSU.jpg?auth=f6ff42c1829189a9b1b5f1d065dbc07f0e37d2eb274b1a5287525f044af5e7f7",
+      "published_at": "2026-08-15T16:17:43+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "کشته شدن دست‌کم ۹ نفر در حملات جدید اسرائیل به جنوب لبنان",
+      "lead_fa": "حملات جدید اسرائیل به جنوب لبنان دست‌کم ۹ کشته برجای گذاشت. این تهاجم یکی از مرگبارترین درگیری‌ها از زمان امضای آتش‌بس در ژوئن محسوب می‌شود.",
+      "key_points_fa": [
+        "کشته شدن دست‌کم ۹ نفر در جنوب لبنان",
+        "این حملات بخشی از تهاجم جدید اسرائیل است",
+        "آتش‌بس میان دو کشور با میانجیگری آمریکا در ژوئن امضا شده بود"
+      ],
+      "analysis_fa": "این حملات جدید نشان‌دهنده شکنندگی توافق آتش‌بس میان اسرائیل و لبنان است که با میانجیگری ایالات متحده به دست آمده بود. تداوم تنش‌ها در منطقه می‌تواند توافق‌های شکننده امنیتی را بیش از پیش به مخاطره بیندازد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#لبنان",
+        "#اسرائیل",
+        "#خاورمیانه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "613bb9bf10b4",
       "source": "La Vanguardia",
       "title": "Atendidas 16 personas, entre ellas dos menores, en un incendio en una vivienda en Silla",
@@ -237,34 +265,6 @@
         "#اسپانیا",
         "#حوادث",
         "#سلیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5be3d741cedd",
-      "source": "EL PAÍS",
-      "title": "Al menos nueve muertos en nuevos ataques de Israel contra el sur de Líbano",
-      "summary": "La ofensiva israelí es una de las más letales contra territorio libanés desde que se firmó en junio el alto el fuego entre los dos países con la mediación de EE UU",
-      "url": "https://elpais.com/internacional/2026-08-15/al-menos-nueve-muertos-en-nuevos-ataques-de-israel-contra-el-sur-de-libano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXEIJMQUAZNWLE6WXDRN763VSU.jpg?auth=f6ff42c1829189a9b1b5f1d065dbc07f0e37d2eb274b1a5287525f044af5e7f7",
-      "published_at": "2026-08-15T14:12:34+00:00",
-      "category": "politica",
-      "priority": 77,
-      "title_fa": "کشته شدن دست‌کم ۹ نفر در حملات جدید اسرائیل به جنوب لبنان",
-      "lead_fa": "حملات جدید اسرائیل به جنوب لبنان دست‌کم ۹ کشته برجای گذاشت. این تهاجم یکی از مرگبارترین درگیری‌ها از زمان امضای آتش‌بس در ژوئن محسوب می‌شود.",
-      "key_points_fa": [
-        "کشته شدن دست‌کم ۹ نفر در جنوب لبنان",
-        "این حملات بخشی از تهاجم جدید اسرائیل است",
-        "آتش‌بس میان دو کشور با میانجیگری آمریکا در ژوئن امضا شده بود"
-      ],
-      "analysis_fa": "این حملات جدید نشان‌دهنده شکنندگی توافق آتش‌بس میان اسرائیل و لبنان است که با میانجیگری ایالات متحده به دست آمده بود. تداوم تنش‌ها در منطقه می‌تواند توافق‌های شکننده امنیتی را بیش از پیش به مخاطره بیندازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#لبنان",
-        "#اسرائیل",
-        "#خاورمیانه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -302,7 +302,7 @@
       "id": "aaa7e41c6404",
       "source": "EL PAÍS",
       "title": "Más de 1.000 personas desalojadas en el incendio de Huesca, que amenaza municipios y el monasterio de San Juan de la Peña",
-      "summary": "Los bomberos aragoneses mantienen la convocatoria de huelga indefinida desde el 18 de agosto: “Estamos al límite”. Evolución favorable de los fuegos en Niebla (Huelva) y la Sierra de Algairén (Zaragoza)",
+      "summary": "Los bomberos aragoneses mantienen la convocatoria de huelga indefinida desde el 18 de agosto: “Estamos al límite”. El Gobierno de Aragón activa el mecanismo para solicitar refuerzos a Francia",
       "url": "https://elpais.com/sociedad/2026-08-15/mas-de-1000-personas-desalojadas-en-el-incendio-de-huesca-que-amenaza-municipios-y-el-monasterio-de-san-juan-de-la-pena.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204912_135626_video_1800.mp4",
       "published_at": "2026-08-15T12:21:19+00:00",
@@ -1039,6 +1039,35 @@
       "editorial_version": 2
     },
     {
+      "id": "5e247aa6ea82",
+      "source": "La Vanguardia",
+      "title": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
+      "summary": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260815/11596526/govern-aspira-gestionar-estaciones-rodalies-titularidad-renfe-adif.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b6efe3372f.r_d.3904-2357-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "دولت کاتالونیا خواستار مدیریت ایستگاه‌های رودالس شد",
+      "lead_fa": "دولت محلی کاتالونیا تمایل دارد مدیریت ایستگاه‌های قطار تحت مالکیت رنفه و آدیف را بر عهده بگیرد. این دو شرکت دولتی در حال حاضر پروژه‌های مختلفی را در حدود ۴۰ ایستگاه پیش می‌برند.",
+      "key_points_fa": [
+        "تمرکز بر بهبود قابلیت اطمینان خدمات ریلی در ایستگاه‌های هدف",
+        "انجام پروژه‌های عمرانی توسط رنفه و آدیف در حدود ۴۰ ایستگاه",
+        "تلاش دولت محلی برای افزایش اختیارات در مدیریت زیرساخت‌ها"
+      ],
+      "analysis_fa": "این درخواست در چارچوب تلاش‌های دولت محلی کاتالونیا برای کسب اختیارات بیشتر در حوزه حمل‌ونقل عمومی و بهبود کیفیت شبکه ریلی مطرح شده است. واگذاری مدیریت ایستگاه‌ها به نهادهای محلی می‌تواند تغییراتی در نحوه نظارت و اجرای پروژه‌های زیرساختی ایجاد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#رودالس",
+        "#کاتالونیا",
+        "#اسپانیا",
+        "#حمل_ونقل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "d64a4655ba37",
       "source": "La Vanguardia",
       "title": "Marruecos expulsa de Fnideq a los periodistas de EFE y TVE sin explicar los motivos",
@@ -1071,7 +1100,7 @@
     {
       "id": "0e3b0d0076ed",
       "source": "La Vanguardia",
-      "title": "El Meteocat emite un aviso por tiempo violento este sábado por la tarde en parte de Catalunya",
+      "title": "El Meteocat emite un aviso por tiempo violento este sábado en parte de Catalunya",
       "summary": "Cinco comarcas están afectadas ante la previsión de tormentas con piedra, rachas de viento superiores a 90 km/h y reventones",
       "url": "https://www.lavanguardia.com/local/catalunya/20260815/11614392/meteocat-emite-aviso-violento-sabado-tarde-parte-catalunya.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/23/6880b9f9dc168.jpeg",
@@ -1184,7 +1213,7 @@
     {
       "id": "00721fc1a8ea",
       "source": "La Vanguardia",
-      "title": "La marcha deja una lluvia de medallas para España, con oros para Paul McGrath y María Pérez",
+      "title": "La marcha deja una lluvia de medallas para España, con oros de Paul McGrath y María Pérez",
       "summary": "El atleta de Gavà (Barcelona) y la granadina, con récord del mundo, son los primeros campeones de Europa de la nueva distancia de medio maratón (21 km)",
       "url": "https://www.lavanguardia.com/deportes/20260815/11614315/europeo-atletismo-birmingham-marcha-oro-espana-paul-macgrath.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8029de172cf.r_d.4096-2732-0.jpeg",
@@ -1610,35 +1639,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f930da9af461",
-      "source": "La Vanguardia",
-      "title": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
-      "summary": "Aburrimiento, furia y depresión. Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
-      "url": "https://www.lavanguardia.com/internacional/20260815/11613679/cinco-anos-vida-sigue-suspenso-mujeres-afganas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee0681b3a3.r_d.1992-1390-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "پنج سال سرگردانی زنان افغان تحت حاکمیت طالبان",
-      "lead_fa": "زندگی زنان در افغانستان پس از بازگشت طالبان به قدرت همچنان در هاله‌ای از ابهام قرار دارد. خواهران افغان از احساس خشم و افسردگی روزمره خود می‌گویند.",
-      "key_points_fa": [
-        "گذر پنج سال از تسلط دوباره طالبان بر افغانستان",
-        "توصیف وضعیت زندگی در کابل با احساساتی چون ملال و خشم",
-        "ادامه چالش‌های شدید معیشتی و اجتماعی برای زنان"
-      ],
-      "analysis_fa": "بازگشت طالبان به قدرت در سال ۲۰۲۱ نقطه عطفی در نقض حقوق بنیادین زنان در افغانستان بود. با گذشت زمان، محدودیت‌های اعمال‌شده تأثیر عمیقی بر سلامت روان و آینده نسل جوان زنان گذاشته است، در حالی که واکنش‌های بین‌المللی همچنان ناکافی به نظر می‌رسد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#زنان_افغان",
-        "#طالبان",
-        "#کابل",
-        "#حقوق_بشر"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "1194862d2088",
       "source": "La Vanguardia",
       "title": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
@@ -1668,29 +1668,30 @@
       "editorial_version": 2
     },
     {
-      "id": "bb1f7ec1971f",
+      "id": "f930da9af461",
       "source": "La Vanguardia",
-      "title": "“¿Qué tal se viaja en un contenedor de catering, Donald?”",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/internacional/20260815/11614087/que-viaja-contenedor-catering-donald.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f642e2609e.r_d.673-467-0.png",
+      "title": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
+      "summary": "Aburrimiento, furia y depresión. Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11613679/cinco-anos-vida-sigue-suspenso-mujeres-afganas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee0681b3a3.r_d.1992-1390-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "کنایه وزیر اسپانیایی به ترامپ درباره سفر با محموله پذیرایی",
-      "lead_fa": "یکی از وزرای دولت اسپانیا در شبکه‌های اجتماعی اظهاراتی کنایه‌آمیز درباره دونالد ترامپ مطرح کرد. این واکنش بازتاب زیادی در رسانه‌های این کشور داشته است.",
+      "title_fa": "پنج سال سرگردانی زنان افغان تحت حاکمیت طالبان",
+      "lead_fa": "زندگی زنان در افغانستان پس از بازگشت طالبان به قدرت همچنان در هاله‌ای از ابهام قرار دارد. خواهران افغان از احساس خشم و افسردگی روزمره خود می‌گویند.",
       "key_points_fa": [
-        "واکنش انتقادی مقامات اسپانیایی به چهره‌های سیاسی بین‌المللی",
-        "استفاده از شبکه اجتماعی ایکس برای انتشار این اظهارات",
-        "بازتاب گسترده این موضوع در روزنامه لا وانگواردیا"
+        "گذر پنج سال از تسلط دوباره طالبان بر افغانستان",
+        "توصیف وضعیت زندگی در کابل با احساساتی چون ملال و خشم",
+        "ادامه چالش‌های شدید معیشتی و اجتماعی برای زنان"
       ],
-      "analysis_fa": "این‌گونه اظهارات نشان‌دهنده تنش‌های لحنی میان برخی مقامات سیاسی اروپایی و چهره‌های جنجالی سیاست آمریکا است که گاهی از طریق ابزارهای نوین ارتباطی بروز پیدا می‌کند.",
+      "analysis_fa": "بازگشت طالبان به قدرت در سال ۲۰۲۱ نقطه عطفی در نقض حقوق بنیادین زنان در افغانستان بود. با گذشت زمان، محدودیت‌های اعمال‌شده تأثیر عمیقی بر سلامت روان و آینده نسل جوان زنان گذاشته است، در حالی که واکنش‌های بین‌المللی همچنان ناکافی به نظر می‌رسد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#ترامپ"
+        "#زنان_افغان",
+        "#طالبان",
+        "#کابل",
+        "#حقوق_بشر"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1719,34 +1720,6 @@
         "#بارسلونا",
         "#لالیگا",
         "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0322812e1a12",
-      "source": "La Vanguardia",
-      "title": "Mónica López vive su mejor momento: “Ahora estoy recogiendo los frutos”",
-      "summary": "La actriz estrena cinco proyectos tras el éxito de 'Rapa' y asegura que las mejores oportunidades le han llegado después de cumplir los 50",
-      "url": "https://www.lavanguardia.com/gente/20260815/11606647/monica-lopez-vive-mejor-momento-recogiendo-frutos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71f968c98b4.r_d.1284-807-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "مونیکا لوپز: اکنون دارم نتایج تلاش‌هایم را درو می‌کنم",
-      "lead_fa": "مونیکا لوپز، بازیگر اسپانیایی، پس از موفقیت سریال «راپا» پنج پروژه جدید را آغاز می‌کند. او تأکید می‌کند که بهترین فرصت‌های کاری‌اش را پس از سن ۵۰ سالگی به دست آورده است.",
-      "key_points_fa": [
-        "بازی در سریال «راپا» نقطه عطفی در موفقیت‌های اخیر این بازیگر بوده است.",
-        "او هم‌زمان در پنج پروژه جدید هنری حضور دارد.",
-        "لوپز معتقد است بهترین فرصت‌های شغلی پس از ۵۰ سالگی به سراغش آمده‌اند."
-      ],
-      "analysis_fa": "موفقیت این بازیگر بازتابی از تغییر روند در صنعت سرگرمی اسپانیا است که در آن بازیگران زن میان‌سال فرصت‌های بیشتری برای نقش‌آفرینی در پروژه‌های برجسته پیدا می‌کنند و سن دیگر مانعی برای موفقیت حرفه‌ای محسوب نمی‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سینما",
-        "#فرهنگ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1781,6 +1754,34 @@
       "editorial_version": 2
     },
     {
+      "id": "0322812e1a12",
+      "source": "La Vanguardia",
+      "title": "Mónica López vive su mejor momento: “Ahora estoy recogiendo los frutos”",
+      "summary": "La actriz estrena cinco proyectos tras el éxito de 'Rapa' y asegura que las mejores oportunidades le han llegado después de cumplir los 50",
+      "url": "https://www.lavanguardia.com/gente/20260815/11606647/monica-lopez-vive-mejor-momento-recogiendo-frutos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71f968c98b4.r_d.1284-807-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "مونیکا لوپز: اکنون دارم نتایج تلاش‌هایم را درو می‌کنم",
+      "lead_fa": "مونیکا لوپز، بازیگر اسپانیایی، پس از موفقیت سریال «راپا» پنج پروژه جدید را آغاز می‌کند. او تأکید می‌کند که بهترین فرصت‌های کاری‌اش را پس از سن ۵۰ سالگی به دست آورده است.",
+      "key_points_fa": [
+        "بازی در سریال «راپا» نقطه عطفی در موفقیت‌های اخیر این بازیگر بوده است.",
+        "او هم‌زمان در پنج پروژه جدید هنری حضور دارد.",
+        "لوپز معتقد است بهترین فرصت‌های شغلی پس از ۵۰ سالگی به سراغش آمده‌اند."
+      ],
+      "analysis_fa": "موفقیت این بازیگر بازتابی از تغییر روند در صنعت سرگرمی اسپانیا است که در آن بازیگران زن میان‌سال فرصت‌های بیشتری برای نقش‌آفرینی در پروژه‌های برجسته پیدا می‌کنند و سن دیگر مانعی برای موفقیت حرفه‌ای محسوب نمی‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سینما",
+        "#فرهنگ"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "18b5076885ca",
       "source": "EL PAÍS España",
       "title": "Ceuta refuerza su frontera “para estar preparados” ante un nuevo intento de entrada masiva",
@@ -1806,6 +1807,35 @@
         "#مهاجرت",
         "#اسپانیا",
         "#مراکش"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ce2fbfbdc700",
+      "source": "La Vanguardia",
+      "title": "Por qué aumentan los casos de ictus en jóvenes",
+      "summary": "Los especialistas apuntan a un repunte de los factores de riesgo clásicos y a otros más recientes, como el estrés crónico o la contaminación",
+      "url": "https://www.lavanguardia.com/vida/salud/20260815/11612863/aumentan-casos-ictus-jovenes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/09/68c029a031179.r_d.1214-625-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "دلایل افزایش سکته مغزی در جوانان اسپانیایی",
+      "lead_fa": "متخصصان پزشکی در اسپانیا از افزایش موارد سکته مغزی در میان جوانان ابراز نگرانی کرده‌اند. این پدیده با تشدید عوامل خطر سنتی و نوظهور در ارتباط است.",
+      "key_points_fa": [
+        "بازگشت و تشدید عوامل خطر کلاسیک سکته مغزی",
+        "نقش استرس مزمن و آلودگی هوا به عنوان عوامل جدید",
+        "هشدار پزشکان درباره ضرورت تغییر سبک زندگی در سنین جوانی"
+      ],
+      "analysis_fa": "رشد آمار سکته مغزی در افراد جوان نشان‌دهنده تغییرات نگران‌کننده در سلامت عمومی است. متخصصان بر این باورند که ترکیبی از فشارهای روانی مزمن در محیط کار و زندگی، کیفیت پایین هوا در کلان‌شهرها و بازگشت عادت‌های ناسالم، سیستم ایمنی و عروقی نسل‌های جوان‌تر را بیش از پیش تضعیف کرده است که نیازمند توجه ویژه نهادهای بهداشتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سلامت",
+        "#سکته_مغزی",
+        "#جامعه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1868,35 +1898,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ce2fbfbdc700",
-      "source": "La Vanguardia",
-      "title": "Por qué aumentan los casos de ictus en jóvenes",
-      "summary": "Los especialistas apuntan a un repunte de los factores de riesgo clásicos y a otros más recientes, como el estrés crónico o la contaminación",
-      "url": "https://www.lavanguardia.com/vida/salud/20260815/11612863/aumentan-casos-ictus-jovenes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/09/68c029a031179.r_d.1214-625-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "دلایل افزایش سکته مغزی در جوانان اسپانیایی",
-      "lead_fa": "متخصصان پزشکی در اسپانیا از افزایش موارد سکته مغزی در میان جوانان ابراز نگرانی کرده‌اند. این پدیده با تشدید عوامل خطر سنتی و نوظهور در ارتباط است.",
-      "key_points_fa": [
-        "بازگشت و تشدید عوامل خطر کلاسیک سکته مغزی",
-        "نقش استرس مزمن و آلودگی هوا به عنوان عوامل جدید",
-        "هشدار پزشکان درباره ضرورت تغییر سبک زندگی در سنین جوانی"
-      ],
-      "analysis_fa": "رشد آمار سکته مغزی در افراد جوان نشان‌دهنده تغییرات نگران‌کننده در سلامت عمومی است. متخصصان بر این باورند که ترکیبی از فشارهای روانی مزمن در محیط کار و زندگی، کیفیت پایین هوا در کلان‌شهرها و بازگشت عادت‌های ناسالم، سیستم ایمنی و عروقی نسل‌های جوان‌تر را بیش از پیش تضعیف کرده است که نیازمند توجه ویژه نهادهای بهداشتی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سلامت",
-        "#سکته_مغزی",
-        "#جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c2a057a6bd89",
       "source": "La Vanguardia",
       "title": "Los franceses pescan en familia en el delta del Ebro",
@@ -1924,28 +1925,6 @@
       "editorial_version": 2
     },
     {
-      "id": "68e21f77b5c6",
-      "source": "EL PAÍS",
-      "title": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
-      "summary": "Entre los 131 excarcelados hay procesados por el llamado caso Dron y la Operación Gedeón",
-      "url": "https://elpais.com/america/2026-08-15/la-torturaron-embarazada-perdio-a-su-bebe-y-quedo-en-silla-de-ruedas-los-casos-de-los-ultimos-presos-politicos-liberados-en-venezuela.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ICHXT2IMYJGWBOYSMCZ5OZMITQ.jpeg?auth=f1aaede1152dc6ae24456c938f00f1abaf11ccfd684727a3053c27680c97be16",
-      "published_at": "2026-08-15T04:00:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
-      "lead_fa": "Entre los 131 excarcelados hay procesados por el llamado caso Dron y la Operación Gedeón",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4e8f68a5a7fc",
       "source": "La Vanguardia",
       "title": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
@@ -1955,16 +1934,50 @@
       "published_at": "2026-08-15T05:00:00+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Alicante anuncia proyectos a 20 años mientras acumula problemas sin resolver",
-      "lead_fa": "Urbanismo publica el borrador del futuro Plan General que diseña la ciudad del futuro y amplía una consulta a los vecinos, mientras estos denuncian el abandono en plazas, jardines y calles fundamentales de la urbe",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "طرح جامع ۲۰ ساله آلیکانته با وجود مشکلات حل‌نشده",
+      "lead_fa": "شهرداری آلیکانته پیش‌نویس طرح جامع شهری ۲۰ ساله را منتشر کرد. این در حالی است که ساکنان شهر از رها شدن معابر و فضای سبز گلایه دارند.",
+      "key_points_fa": [
+        "انتشار پیش‌نویس طرح کلی شهر آینده توسط بخش شهرسازی",
+        "گسترش روند مشورت با شهروندان درباره آینده شهری",
+        "اعتراض ساکنان به وضعیت نامناسب میدان‌ها، پارک‌ها و خیابان‌ها"
+      ],
+      "analysis_fa": "تدوین برنامه‌های بلندمدت شهری ابزاری کلیدی برای توسعه پایدار است، اما شکاف میان چشم‌اندازهای آینده و مطالبات فوری شهروندان نشان‌دهنده چالش مدیریت شهری در ایجاد تعادل میان پروژه‌های کلان و رسیدگی به مشکلات روزمره محلات است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آلیکانته",
+        "#شهرداری",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "68e21f77b5c6",
+      "source": "EL PAÍS",
+      "title": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
+      "summary": "Entre los 131 excarcelados hay procesados por el llamado caso Dron y la Operación Gedeón",
+      "url": "https://elpais.com/america/2026-08-15/la-torturaron-embarazada-perdio-a-su-bebe-y-quedo-en-silla-de-ruedas-los-casos-de-los-ultimos-presos-politicos-liberados-en-venezuela.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ICHXT2IMYJGWBOYSMCZ5OZMITQ.jpeg?auth=f1aaede1152dc6ae24456c938f00f1abaf11ccfd684727a3053c27680c97be16",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "آزادی زندانیان سیاسی در ونزوئلا: شکنجه، از دست دادن فرزند و صندلی چرخدار",
+      "lead_fa": "دولت ونزوئلا اقدام به آزادی گروهی از زندانیان سیاسی کرده است. در میان ۱۳۱ فرد آزادشده، بازداشت‌شدگان پرونده‌های موسوم به «درون» و «عملیات گدئون» حضور دارند.",
+      "key_points_fa": [
+        "آزادی ۱۳۱ زندانی سیاسی در ونزوئلا.",
+        "وجود افراد مرتبط با پرونده‌های موسوم به دربار و عملیات گدئون در میان آزادشدگان.",
+        "گزارش‌هایی از شکنجه و آسیب‌های جسمی شدید برخی از زندانیان پیش از آزادی."
+      ],
+      "analysis_fa": "آزادی زندانیان سیاسی در ونزوئلا همواره زیر ذره‌بین نهادهای حقوق بشری قرار دارد. این اقدام در حالی صورت می‌گیرد که فشارهای بین‌المللی بر دولت این کشور برای تعیین تکلیف وضعیت بازداشت‌شدگان سیاسی افزایش یافته است، اما همچنان ابهاماتی درباره وضعیت حقوقی و سلامت جسمی دیگر زندانیان باقی مانده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ونزوئلا",
+        "#زندانیان_سیاسی",
+        "#حقوق_بشر"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2526,7 +2539,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69",
       "published_at": "2026-08-14T07:17:54+00:00",
       "category": "sociedad",
-      "priority": 60,
+      "priority": 59,
       "title_fa": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
       "lead_fa": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
       "key_points_fa": [],
@@ -2548,7 +2561,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7dfb04ea86e.r_d.458-260-0.jpeg",
       "published_at": "2026-08-14T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "Salou, el eterno campo y playa de los maños",
       "lead_fa": "Para los aragoneses, sobre todo los de Zaragoza, la Costa Daurada, especialmente Salou, es desde hace medio siglo la playa que no tienen",
       "key_points_fa": [],
