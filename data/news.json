@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:31:51.317224+00:00",
+  "generated_at": "2026-08-15T11:53:25.004004+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -73,8 +73,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos bloquea el paso a Ceuta de cientos de migrantes subsaharianos",
       "summary": "Policía, Guardia Civil y militares blindan las inmediaciones del paso de El Tarajal (Ceuta) | Tranquilidad en la frontera de Melilla, con mayor despliegue policial del habitual",
       "url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q55DY5AZVRD5RBFFM2ZEEDGL7U.jpg?auth=103b5175a0054cd526b26d4c5cdc15bdf7cfe0154782e0b2925004a902315293",
-      "published_at": "2026-08-15T11:07:22+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/S7HAEM6SIBGHFBHVPJCUJMFPLE.jpg?auth=8b4645a360e48dc9f0a40859491d647d12146f6bafb7a484fec01ae6868b3444",
+      "published_at": "2026-08-15T10:24:11+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "آمادگی مرزی در سبته پس از تلاش صدها مهاجر برای ورود",
@@ -205,6 +205,35 @@
       "hashtags_fa": [
         "#اسپانیا",
         "#حوادث_رانندگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "aaa7e41c6404",
+      "source": "EL PAÍS",
+      "title": "Más de 1.000 personas desalojadas en el incendio de Huesca, que amenaza municipios y el monasterio de San Juan de la Peña",
+      "summary": "Evolución favorable de los fuegos en Niebla (Huelva) y la Sierra de Algairén (Zaragoza)",
+      "url": "https://elpais.com/sociedad/2026-08-15/mas-de-1000-personas-desalojadas-en-el-incendio-de-huesca-que-amenaza-municipios-y-el-monasterio-de-san-juan-de-la-pena.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MHMEGDRNIRAODJI4TG6R2VSNHU.jpg?auth=34c9f11fde32d1fbb9c84442920d0ba6f36ae9889ddefb0d0f9dc879d46fc948",
+      "published_at": "2026-08-15T11:16:16+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تخلیه بیش از هزار نفر به دلیل آتش‌سوزی در اوئسکا",
+      "lead_fa": "بیش از یک هزار نفر در پی آتش‌سوزی جنگلی در استان اوئسکا تخلیه شدند. این حریق مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا را تهدید می‌کند.",
+      "key_points_fa": [
+        "تخلیه اضطراری بیش از ۱۰۰۰ نفر از ساکنان و گردشگران منطقه",
+        "تهدید مناطق مسکونی و صومعه تاریخی سن خوان د لا پنیا",
+        "گزارش وضعیت رو به بهبود در سایر آتش‌سوزی‌های حوئلوا و ساراگوسا"
+      ],
+      "analysis_fa": "آتش‌سوزی‌های جنگلی در اسپانیا طی فصل گرم سال همواره چالش بزرگی برای نهادهای امدادی و مدیریتی ایجاد می‌کند. مهار این حریق‌ها به دلیل شرایط جوی و صعب‌العبور بودن مناطق کوهستانی با دشواری‌های زیادی همراه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#اوئسکا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1235,7 +1264,7 @@
     },
     {
       "id": "56f4ccf2eb06",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
       "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
       "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
@@ -1584,18 +1613,25 @@
       "url": "https://www.lavanguardia.com/internacional/20260815/11613802/ucrania-pone-presion-rusia-desmiente-derrotismo-trump.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee4d5b3e14.r_d.508-254-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 68,
-      "title_fa": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
-      "lead_fa": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فشار زلنسکی بر پوتین و رونمایی از راهبرد جدید در برابر ترامپ",
+      "lead_fa": "رئیس‌جمهور اوکراین با راهبرد نظامی جدید خود مسکو و واشنگتن را غافلگیر کرد. این تحولات معادلات سیاسی و نظامی جنگ را وارد مرحله تازه‌ای کرده است.",
+      "key_points_fa": [
+        "شگفتی روسیه و ایالات متحده از موفقیت‌ها و راهبرد نظامی اوکراین",
+        "تلاش زلنسکی برای افزایش فشار بر ولادیمیر پوتین",
+        "نشان دادن کارت‌های بازی اوکراین به دولت دونالد ترامپ"
+      ],
+      "analysis_fa": "این اقدام اوکراین نشان‌دهنده تلاش کی‌یف برای حفظ ابتکار عمل در میدان جنگ و هم‌زمان تاثیرگذاری بر محاسبات سیاسی ایالات متحده است. تغییرات در رویکرد نظامی می‌تواند بر حمایت‌های آینده غرب و موضع‌گیری مسکو تاثیرگذار باشد، هرچند پیامدهای قطعی آن به تحولات میدانی و تصمیمات دولت آمریکا بستگی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#زلنسکی",
+        "#اوکراین",
+        "#روسیه",
+        "#ترامپ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1608,16 +1644,22 @@
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "“¿Qué tal se viaja en un contenedor de catering, Donald?”",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کنایه وزیر اسپانیایی به ترامپ درباره سفر با محموله پذیرایی",
+      "lead_fa": "یکی از وزرای دولت اسپانیا در شبکه‌های اجتماعی اظهاراتی کنایه‌آمیز درباره دونالد ترامپ مطرح کرد. این واکنش بازتاب زیادی در رسانه‌های این کشور داشته است.",
+      "key_points_fa": [
+        "واکنش انتقادی مقامات اسپانیایی به چهره‌های سیاسی بین‌المللی",
+        "استفاده از شبکه اجتماعی ایکس برای انتشار این اظهارات",
+        "بازتاب گسترده این موضوع در روزنامه لا وانگواردیا"
+      ],
+      "analysis_fa": "این‌گونه اظهارات نشان‌دهنده تنش‌های لحنی میان برخی مقامات سیاسی اروپایی و چهره‌های جنجالی سیاست آمریکا است که گاهی از طریق ابزارهای نوین ارتباطی بروز پیدا می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست",
+        "#ترامپ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1819,6 +1861,28 @@
       "editorial_version": 2
     },
     {
+      "id": "68e21f77b5c6",
+      "source": "EL PAÍS",
+      "title": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
+      "summary": "Entre los 131 excarcelados hay procesados por el llamado caso Dron y la Operación Gedeón",
+      "url": "https://elpais.com/america/2026-08-15/la-torturaron-embarazada-perdio-a-su-bebe-y-quedo-en-silla-de-ruedas-los-casos-de-los-ultimos-presos-politicos-liberados-en-venezuela.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ICHXT2IMYJGWBOYSMCZ5OZMITQ.jpeg?auth=f1aaede1152dc6ae24456c938f00f1abaf11ccfd684727a3053c27680c97be16",
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La torturaron embarazada, perdió a su bebé y quedó en silla de ruedas: los casos de los últimos presos políticos liberados en Venezuela",
+      "lead_fa": "Entre los 131 excarcelados hay procesados por el llamado caso Dron y la Operación Gedeón",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "65198894438b",
       "source": "EL PAÍS Economía",
       "title": "Las alianzas universitarias, el nuevo activo estratégico de Europa",
@@ -1951,6 +2015,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ac5d52f008a9",
+      "source": "EL PAÍS",
+      "title": "“No sé si mañana seguiré vivo”: decenas de etíopes piden ayuda al mundo desde el corredor de la muerte saudí",
+      "summary": "EL PAÍS contacta con dos reclusos que esperan en una prisión del país del Golfo y que temen ser los próximos en una cadena de ajusticiamientos denunciada por organizaciones de derechos humanos por graves irregularidades judiciales",
+      "url": "https://elpais.com/planeta-futuro/2026-08-15/no-se-si-manana-seguire-vivo-decenas-de-etiopes-piden-ayuda-al-mundo-desde-el-corredor-de-la-muerte-saudi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XDAYAKR7AVGMFGGR2LQPSDZN3Q.jpg?auth=fd29dc00d106218566d827e7bae5629e53f1b029e20b9c4ff3742b151e8cc514",
+      "published_at": "2026-08-15T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "“No sé si mañana seguiré vivo”: decenas de etíopes piden ayuda al mundo desde el corredor de la muerte saudí",
+      "lead_fa": "EL PAÍS contacta con dos reclusos que esperan en una prisión del país del Golfo y que temen ser los próximos en una cadena de ajusticiamientos denunciada por organizaciones de derechos humanos por graves irregularidades judiciales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fe25f64646aa",
       "source": "EL PAÍS",
       "title": "El regreso talibán en Afganistán: cinco años de una de las mayores derrotas de la comunidad internacional",
@@ -1984,28 +2070,6 @@
       "priority": 68,
       "title_fa": "Un día cualquiera para una mujer de Afganistán: “He perdido mi lugar en la sociedad”",
       "lead_fa": "Tres jóvenes describen cómo las restricciones de los talibanes y el miedo invaden todos los actos de su existencia desde agosto de 2021",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ac5d52f008a9",
-      "source": "EL PAÍS",
-      "title": "“No sé si mañana seguiré vivo”: decenas de etíopes piden ayuda al mundo desde el corredor de la muerte saudí",
-      "summary": "EL PAÍS contacta con dos reclusos que esperan en una prisión del país del Golfo y que temen ser los próximos en una cadena de ajusticiamientos denunciada por organizaciones de derechos humanos por graves irregularidades judiciales",
-      "url": "https://elpais.com/planeta-futuro/2026-08-15/no-se-si-manana-seguire-vivo-decenas-de-etiopes-piden-ayuda-al-mundo-desde-el-corredor-de-la-muerte-saudi.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XDAYAKR7AVGMFGGR2LQPSDZN3Q.jpg?auth=fd29dc00d106218566d827e7bae5629e53f1b029e20b9c4ff3742b151e8cc514",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "“No sé si mañana seguiré vivo”: decenas de etíopes piden ayuda al mundo desde el corredor de la muerte saudí",
-      "lead_fa": "EL PAÍS contacta con dos reclusos que esperan en una prisión del país del Golfo y que temen ser los próximos en una cadena de ajusticiamientos denunciada por organizaciones de derechos humanos por graves irregularidades judiciales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2369,28 +2433,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8028c4ade518",
-      "source": "EL PAÍS",
-      "title": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
-      "summary": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
-      "url": "https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204800_222628_video_1800.mp4",
-      "published_at": "2026-08-14T23:33:44+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
-      "lead_fa": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1538c51c3cd5",
       "source": "EL PAÍS España",
       "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
@@ -2534,28 +2576,6 @@
       "priority": 60,
       "title_fa": "La millonaria lavadora de fondos de los narcos del puerto de Valencia: ladrillo, ‘criptos’ y gimnasios",
       "lead_fa": "Los traficantes que almacenaban 60 millones en droga blanquearon sus ganancias a través de divorcios ficticios, sobrecostes en pisos de lujos y testaferros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e4a025a172a2",
-      "source": "EL PAÍS España",
-      "title": "Etienne Krug, directivo de la OMS: “Los accidentes de tráfico son la primera causa de muerte entre los jóvenes”",
-      "summary": "El responsable del Departamento de Protección de la Salud pone a España como ejemplo para reducir la siniestralidad vial",
-      "url": "https://elpais.com/espana/2026-08-14/etienne-krug-directivo-de-la-oms-los-accidentes-de-trafico-son-la-primera-causa-de-muerte-entre-los-jovenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZM6TXRRUZRB6ZPE6RLMGBPDICI.jpg?auth=0b98169952c4675e4b6de8ad7b817b0be6114c9d7c4d478d73789690fa89a6c1",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Etienne Krug, directivo de la OMS: “Los accidentes de tráfico son la primera causa de muerte entre los jóvenes”",
-      "lead_fa": "El responsable del Departamento de Protección de la Salud pone a España como ejemplo para reducir la siniestralidad vial",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
