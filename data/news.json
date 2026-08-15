@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:58:47.325033+00:00",
+  "generated_at": "2026-08-15T08:43:02.934546+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7b0f0c5b2141",
@@ -156,11 +156,11 @@
     {
       "id": "a1ae0b2e9da7",
       "source": "EL PAÍS",
-      "title": "Un terremoto de magnitud 5 sacude Granada sin causar víctimas",
-      "summary": "La Junta de Andalucía ha activado la fase de emergencia tras el seísmo, que ha tenido epicentro en Alhendín y ha provocado daños materiales y decenas de llamadas al 112",
+      "title": "Un terremoto de magnitud 5 sacude Granada: “Sentimos miedo, mucho miedo”",
+      "summary": "El temblor, que solo ha dejado daños materiales y no ha causado víctimas, ocurrió a la una de la madrugada y ha estado seguido de casi medio centenar de réplicas",
       "url": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204843_063802_video_1800.mp4",
-      "published_at": "2026-08-15T06:40:11+00:00",
+      "published_at": "2026-08-15T08:32:56+00:00",
       "category": "sociedad",
       "priority": 77,
       "title_fa": "فعالسازی وضعیت اضطراری در اندلس پس از زلزله ۵ ریشتری در گرانادا",
@@ -872,7 +872,7 @@
       "title": "La prórroga de Almaraz dejará en manos de un futuro Gobierno la decisión sobre su cierre",
       "summary": "La medida rompe con el pacto entre el PSOE y Sumar, y contenta a los partidos políticos de la región, municipios y eléctricas",
       "url": "https://elpais.com/economia/2026-08-15/la-prorroga-de-almaraz-dejara-en-manos-del-nuevo-gobierno-la-decision-sobre-su-cierre.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RQNA5QMMONOSVLUYQIOGFUPFC4.jpg?auth=54127d983351c3708b8b3fa5174f39f323d0ded89e5c41a9ceaea6e542cbf763",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204714_161231_video_1800.mp4",
       "published_at": "2026-08-15T03:15:00+00:00",
       "category": "politica",
       "priority": 74,
@@ -960,16 +960,52 @@
       "published_at": "2026-08-15T09:05:23+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Casi toda España en aviso por lluvias y tormentas, con parte de Catalunya en nivel naranja",
-      "lead_fa": "Otras cuatro autonomías repiten el nivel naranja, sin olvidar los avisos por calor, olas y nieblas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "هشدار باران و طوفان در بیشتر مناطق اسپانیا",
+      "lead_fa": "بیشتر نقاط اسپانیا در وضعیت هشدار باران و طوفان شدید قرار گرفته‌اند. بخش‌هایی از کاتالونیا نیز سطح هشدار نارنجی را تجربه می‌کنند.",
+      "key_points_fa": [
+        "اعلام وضعیت هشدار برای بارش باران و رعد و برق در اکثر مناطق اسپانیا",
+        "قرار گرفتن بخشی از کاتالونیا در سطح هشدار نارنجی",
+        "تداوم سطح هشدار نارنجی در چهار منطقه خودمختار دیگر",
+        "وجود هشدارهای هم‌زمان درباره گرما، امواج دریا و مه"
+      ],
+      "analysis_fa": "شرایط ناپایدار جوی و سامانه‌های بارشی جدید در اسپانیا باعث صدور هشدارهای متعدد هواشناسی در مناطق مختلف این کشور شده است که نیازمند آمادگی نهادهای امدادی و شهروندان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#هواشناسی",
+        "#باران",
+        "#سیل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9aa7234625f8",
+      "source": "EL PAÍS",
+      "title": "Doble oro español en la marcha de los Europeos de Birmingham: Paul McGrath y María Pérez",
+      "summary": "España rompe por fin el medallero en una mañana espectacular en el centro de la ciudad",
+      "url": "https://elpais.com/deportes/2026-08-15/paul-mcgrath-logra-en-la-media-maraton-de-marcha-el-primer-oro-para-el-atletismo-espanol-en-birmingham.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YW3QPTT3FHX7EB4YU2JUYZQTA.jpg?auth=5e4ff8d6f1f7bcd52fc34ca8f6ca5cd8cb02829de8f15218c93626ab9c7a959a",
+      "published_at": "2026-08-15T07:54:50+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "درخشش اسپانیا با کسب دو مدال طلا در پیاده‌روی قهرمانی اروپا",
+      "lead_fa": "کاروان ورزشی اسپانیا در رقابت‌های قهرمانی اروپا در بیرمنگام خوش درخشید. پل مک‌گراث و ماریا پرز موفق به کسب دو مدال طلا در رشته پیاده‌روی شدند.",
+      "key_points_fa": [
+        "پیروزی پل مک‌گراث در بخش مردان",
+        "کسب مدال طلا توسط ماریا پرز در بخش زنان",
+        "شکسته شدن طلسم مدال‌آوری اسپانیا در این مسابقات"
+      ],
+      "analysis_fa": "این موفقیت ورزشی جایگاه اسپانیا را در رقابت‌های دو و میدانی اروپا تقویت کرده و نشان‌دهنده آمادگی بالای ورزشکاران این کشور در رشته پیاده‌روی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#ورزش",
+        "#دوومیدانی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -980,40 +1016,23 @@
       "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
       "image": "https://imagenes.elpais.com/resizer/v2/UGQIHR35JJAQPFKZIZ6HSWQQV4.jpg?auth=6da5607bca00762380209e71887f81ac9502e4cf618bdb55aaf45c5fa884f83a",
       "published_at": "2026-08-15T07:45:35+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
-      "lead_fa": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "56f4ccf2eb06",
-      "source": "EL PAÍS",
-      "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
-      "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
-      "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZGES23NUJJCIVAEVRL4Z4GMCT4.JPG?auth=683cb6efa9fdac0b4bb8303ec48872a839b1db06b9852badcc6f28e8ec2ee7cd",
-      "published_at": "2026-08-15T05:16:00+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
-      "lead_fa": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "خروج هشت دانشگاه اسپانیا از رتبه‌بندی معتبر شانگهای",
+      "lead_fa": "هشت دانشگاه اسپانیایی از جدیدترین فهرست رتبه‌بندی معتبر شانگهای حذف شدند. دانشگاه بارسلونا تنها مرکز آموزشی کشور است که همچنان در میان ۲۰۰ دانشگاه برتر جهان قرار دارد.",
+      "key_points_fa": [
+        "هشت دانشگاه اسپانیا از رتبه‌بندی شانگهای خارج شدند.",
+        "دانشگاه بارسلونا در میان ۲۰۰ دانشگاه برتر جهان باقی ماند."
+      ],
+      "analysis_fa": "این تغییرات در رتبه‌بندی شانگهای نشان‌دهنده چالش‌های موجود در ارزیابی و رقابت بین‌المللی موسسات آموزش عالی اسپانیا است و می‌تواند بر سیاست‌های جذب دانشجوی بین‌المللی تأثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دانشگاه_اسپانیا",
+        "#رتبه‌بندی_شانگهای",
+        "#آموزش_عالی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1435,6 +1454,28 @@
       "editorial_version": 2
     },
     {
+      "id": "56f4ccf2eb06",
+      "source": "EL PAÍS",
+      "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
+      "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZGES23NUJJCIVAEVRL4Z4GMCT4.JPG?auth=683cb6efa9fdac0b4bb8303ec48872a839b1db06b9852badcc6f28e8ec2ee7cd",
+      "published_at": "2026-08-15T05:16:00+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
+      "lead_fa": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3a21e316c13e",
       "source": "EL PAÍS",
       "title": "El negocio del hambre en los centros del ICE: migrantes gastan miles de dólares para no ingerir “comida para perros”",
@@ -1545,28 +1586,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f2eee31b3ae8",
-      "source": "EL PAÍS",
-      "title": "Si Bad Bunny no va a tu pueblo, tu pueblo va a Bad Bunny: orquestas con Casita, discotecas móviles y famosos revolucionan las verbenas",
-      "summary": "Las formaciones recrean actuaciones estelares del año mientras personajes mediáticos como Leticia Sabater dan un toque de color a las fiestas de los pueblos",
-      "url": "https://elpais.com/cultura/2026-08-15/si-bad-bunny-no-va-a-tu-pueblo-tu-pueblo-va-a-bad-bunny-orquestas-con-casita-discotecas-moviles-y-famosos-revolucionan-las-verbenas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SG5VNZVAJZAL7NUCAKN6FCG7G4.jpg?auth=be1c01eb11e63f476cb1511a5afb74318c2e8e32139c2691eccb83975e1ba770",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Si Bad Bunny no va a tu pueblo, tu pueblo va a Bad Bunny: orquestas con Casita, discotecas móviles y famosos revolucionan las verbenas",
-      "lead_fa": "Las formaciones recrean actuaciones estelares del año mientras personajes mediáticos como Leticia Sabater dan un toque de color a las fiestas de los pueblos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "db116623fd93",
       "source": "EL PAÍS",
       "title": "¿Cuánto dinero hay que invertir para generar un sueldo extra de 500 euros al mes en dividendos?",
@@ -1578,28 +1597,6 @@
       "priority": 69,
       "title_fa": "¿Cuánto dinero hay que invertir para generar un sueldo extra de 500 euros al mes en dividendos?",
       "lead_fa": "La búsqueda de rentas complementarias a la nómina impulsa el interés por las carteras con elevada retribución al accionista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ac42640d1823",
-      "source": "EL PAÍS",
-      "title": "Lorca, un icono ‘queer’ y un archivo censurado",
-      "summary": "Nuevas lecturas intentan remendar una tradición de estudios que se han centrado en ocultar o minusvalorar la homosexualidad como clave de lectura del poeta andaluz",
-      "url": "https://elpais.com/babelia/2026-08-15/lorca-un-icono-queer-y-un-archivo-censurado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I7HQGLH7IVCQTP6OUOFMANLKLI.jpg?auth=c72f98875820bcb7749dcf62f23653aa60f6b4f34107b498d49c6efbc3b2b4d8",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Lorca, un icono ‘queer’ y un archivo censurado",
-      "lead_fa": "Nuevas lecturas intentan remendar una tradición de estudios que se han centrado en ocultar o minusvalorar la homosexualidad como clave de lectura del poeta andaluz",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1710,6 +1707,50 @@
       "priority": 69,
       "title_fa": "Una Liga tras el impacto del Mundial",
       "lead_fa": "El torneo español arranca hoy condicionado por el éxito de la selección y el protagonismo del futbolista nacional, el dominio reciente del Barça, el regreso de Mourinho al Madrid y el caso de Julián Alvarez",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ac42640d1823",
+      "source": "EL PAÍS",
+      "title": "Lorca, un icono ‘queer’ y un archivo censurado",
+      "summary": "Nuevas lecturas intentan remendar una tradición de estudios que se han centrado en ocultar o minusvalorar la homosexualidad como clave de lectura del poeta andaluz",
+      "url": "https://elpais.com/babelia/2026-08-15/lorca-un-icono-queer-y-un-archivo-censurado.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I7HQGLH7IVCQTP6OUOFMANLKLI.jpg?auth=c72f98875820bcb7749dcf62f23653aa60f6b4f34107b498d49c6efbc3b2b4d8",
+      "published_at": "2026-08-15T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Lorca, un icono ‘queer’ y un archivo censurado",
+      "lead_fa": "Nuevas lecturas intentan remendar una tradición de estudios que se han centrado en ocultar o minusvalorar la homosexualidad como clave de lectura del poeta andaluz",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f2eee31b3ae8",
+      "source": "EL PAÍS",
+      "title": "Si Bad Bunny no va a tu pueblo, tu pueblo va a Bad Bunny: orquestas con Casita, discotecas móviles y famosos revolucionan las verbenas",
+      "summary": "Las formaciones recrean actuaciones estelares del año mientras personajes mediáticos como Leticia Sabater dan un toque de color a las fiestas de los pueblos",
+      "url": "https://elpais.com/cultura/2026-08-15/si-bad-bunny-no-va-a-tu-pueblo-tu-pueblo-va-a-bad-bunny-orquestas-con-casita-discotecas-moviles-y-famosos-revolucionan-las-verbenas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SG5VNZVAJZAL7NUCAKN6FCG7G4.jpg?auth=be1c01eb11e63f476cb1511a5afb74318c2e8e32139c2691eccb83975e1ba770",
+      "published_at": "2026-08-15T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Si Bad Bunny no va a tu pueblo, tu pueblo va a Bad Bunny: orquestas con Casita, discotecas móviles y famosos revolucionan las verbenas",
+      "lead_fa": "Las formaciones recrean actuaciones estelares del año mientras personajes mediáticos como Leticia Sabater dan un toque de color a las fiestas de los pueblos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1853,6 +1894,28 @@
       "editorial_version": 2
     },
     {
+      "id": "68719747af51",
+      "source": "EL PAÍS",
+      "title": "Participé en L’Étape, la prueba de cicloturismo más difícil que existe, y esto fue lo que pasó",
+      "summary": "Oscar Gogorza se unió a 16.000 aficionados, conocidos en el mundillo como globeros, que emulan a los profesionales del Tour",
+      "url": "https://elpais.com/eps/2026-08-15/participe-en-letape-la-prueba-de-cicloturismo-mas-dificil-que-existe-y-esto-fue-lo-que-paso.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3UOUXKLTYFEW5PNBZIZIJTVGZE.JPG?auth=cf92baea2b5e279f7743a9d1d283cbb88af665f39bc16890acfb674a5ee0525f",
+      "published_at": "2026-08-15T03:30:00+00:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Participé en L’Étape, la prueba de cicloturismo más difícil que existe, y esto fue lo que pasó",
+      "lead_fa": "Oscar Gogorza se unió a 16.000 aficionados, conocidos en el mundillo como globeros, que emulan a los profesionales del Tour",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fc4dea11e871",
       "source": "EL PAÍS",
       "title": "Cómo nublarse el entendimiento y envenenarse el corazón",
@@ -1886,28 +1949,6 @@
       "priority": 69,
       "title_fa": "Cuidado con espiar (aunque sea sin querer) a sus vecinos: estas son las sanciones a las que se enfrenta",
       "lead_fa": "Las cámaras de vigilancia, videoporteros y mirillas digitales que capten imágenes de forma indiscriminada pueden abocar al pago de multas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8309c3f6452d",
-      "source": "EL PAÍS",
-      "title": "Heladerías que se salen de lo corriente en España: libanesas, mexicanas, veganas o cocteleras",
-      "summary": "En estas heladerías se atreven con todo y llevan el arte del frío a lugares desconocidos, apostando solo por el producto de kilómetro cero, o sabores salados como el gazpacho",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-15/heladerias-que-se-salen-de-lo-corriente-en-espana-libanesas-mexicanas-veganas-o-cocteleras.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DXPRIXDFJVG5DN44UCWFJ55SLU.webp?auth=7184f0d830a9dcafe9dec34cd7eaa8cc0ae090d044b71f79823b0f98765a0ddf",
-      "published_at": "2026-08-15T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Heladerías que se salen de lo corriente en España: libanesas, mexicanas, veganas o cocteleras",
-      "lead_fa": "En estas heladerías se atreven con todo y llevan el arte del frío a lugares desconocidos, apostando solo por el producto de kilómetro cero, o sabores salados como el gazpacho",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1996,28 +2037,6 @@
       "priority": 69,
       "title_fa": "Los operadores encarecen hasta un 5% el precio del fútbol en televisión ante el arranque de LaLiga",
       "lead_fa": "El acceso a todas las competiciones sin promociones parte de los 109 euros mensuales de Orange y los 117 de Movistar +",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9f1ddaa38eb0",
-      "source": "EL PAÍS",
-      "title": "La secuencia del robo de un Renoir, un Matisse y un Cèzanne de una colección privada que ahora ha recuperado la policía italiana",
-      "summary": "El suceso ocurrió en marzo, pero la policía italiana ha difundido ahora el vídeo tras recuperar las obras",
-      "url": "https://elpais.com/cultura/2026-08-15/la-secuencia-del-robo-de-un-renoir-un-matisse-y-un-cezanne-de-una-coleccion-privada-que-ahora-ha-recuperado-la-policia-italiana.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204747_173759_video_1800.mp4",
-      "published_at": "2026-08-15T03:05:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La secuencia del robo de un Renoir, un Matisse y un Cèzanne de una colección privada que ahora ha recuperado la policía italiana",
-      "lead_fa": "El suceso ocurrió en marzo, pero la policía italiana ha difundido ahora el vídeo tras recuperar las obras",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2210,7 +2229,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204800_222628_video_1800.mp4",
       "published_at": "2026-08-14T23:33:44+00:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición",
       "lead_fa": "El secretario de Estado de EE UU, Marco Rubio, cifra en 1.046 los liberados desde la captura de Nicolás Maduro en enero pasado",
       "key_points_fa": [],
@@ -2422,28 +2441,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ef5160733a08",
-      "source": "EL PAÍS Economía",
-      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
-      "published_at": "2026-08-13T05:30:00+00:00",
-      "category": "sociedad",
-      "priority": 54,
-      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4298a2ae0bd",
       "source": "La Vanguardia",
       "title": "Los últimos campistas de la autovía de Castelldefels",
@@ -2455,6 +2452,28 @@
       "priority": 53,
       "title_fa": "Los últimos campistas de la autovía de Castelldefels",
       "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ef5160733a08",
+      "source": "EL PAÍS Economía",
+      "title": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "summary": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
+      "url": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833",
+      "published_at": "2026-08-13T05:30:00+00:00",
+      "category": "sociedad",
+      "priority": 53,
+      "title_fa": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
+      "lead_fa": "El economista, profesor universitario y autor de ‘Tontocracia. En busca de la sensatez perdida’ advierte de que la sociedad ha dejado de premiar el conocimiento y reclama una educación que forme ciudadanos con criterio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2495,7 +2514,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 147
+      "count": 146
     },
     {
       "source": "EL PAÍS España",
