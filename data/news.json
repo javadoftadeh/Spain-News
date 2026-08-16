@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:34:25.659797+00:00",
+  "generated_at": "2026-08-16T22:54:56.882675+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -174,6 +174,34 @@
         "#اسپانیا",
         "#دولت",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "00574f39492a",
+      "source": "EL PAÍS",
+      "title": "Mueren tres personas, una de ellas menor, en un tiroteo en Isla Cristina (Huelva)",
+      "summary": "Dos encapuchados en una motocicleta han abierto fuego y se han dado a la fuga en la barriada de El Rocío. Un hombre resultó herido muy grave",
+      "url": "https://elpais.com/espana/2026-08-16/mueren-tres-personas-una-de-ellas-menor-en-un-tiroteo-en-isla-cristina-huelva.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UMKWAFDX2RPWJAZE2JMGQU5LNE.jpg?auth=9aafd43808f8dbb423293583518511b6998893c14e86df7a124215883a5a5b15",
+      "published_at": "2026-08-16T22:28:55+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تیراندازی مرگبار در هوئلوا با سه کشته از جمله یک کودک",
+      "lead_fa": "در جریان یک تیراندازی توسط موتورسواران نقاب‌دار در استان هوئلوا، سه نفر جان باختند. پلیس تحقیقات خود را برای یافتن مهاجمان فراری آغاز کرده است.",
+      "key_points_fa": [
+        "حادثه در محله ال‌رومیو در منطقه ایسلا کریستینا رخ داده است.",
+        "دو فرد ناشناس سوار بر موتورسیکلت به سوی قربانیان آتش گشودند.",
+        "یک مرد در این تیراندازی به شدت زخمی و راهی بیمارستان شد."
+      ],
+      "analysis_fa": "این واقعه خشونت‌آمیز بار دیگر نگرانی‌ها درباره امنیت عمومی و تسویه‌حساب‌های مسلحانه در مناطق خاصی از جنوب اسپانیا را افزایش داده است. مقامات محلی و نیروهای انتظامی در تلاشند تا انگیزه این حمله و هویت ضاربان را شناسایی کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#هوئلوا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -886,34 +914,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b49aa3920f80",
-      "source": "EL PAÍS",
-      "title": "Un nacimiento no es un brote verde en la España vaciada: la vivienda es lo que más importa",
-      "summary": "Los programas de casas asequibles han tenido un mayor impacto para atraer población que el empleo",
-      "url": "https://elpais.com/espana/madrid/2026-08-16/un-nacimiento-no-es-un-brote-verde-en-la-espana-vaciada-la-vivienda-es-lo-que-importa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EXIP75SIBVGH5KJFWIULUTPTXI.jpg?auth=e350a67ae7a5ff700c0dc76d2ee737b07f4d43c9e2d05a000bbca2c5a289839e",
-      "published_at": "2026-08-16T03:30:01+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "مسکن ارزان‌تر از اشتغال در جذب جمعیت به اسپانیای خالی مؤثر است",
-      "lead_fa": "بررسی‌ها نشان می‌دهد برنامه‌های مسکن مقرون‌به‌صرفه نقش مهمی در جذب جمعیت به مناطق کم‌جمعیت اسپانیا دارند. این در حالی است که صرف ایجاد شغل تأثیر کمتری در این زمینه داشته است.",
-      "key_points_fa": [
-        "برنامه‌های مسکن ارزان‌قیمت عامل اصلی جذب جمعیت به مناطق کم‌جمعیت اسپانیا است.",
-        "تأثیر مسکن بر مهاجرت معکوس به مناطق روستایی بیشتر از اشتغال ارزیابی شده است."
-      ],
-      "analysis_fa": "این مسئله نشان‌دهنده چالش‌های ساختاری بازار مسکن و اقتصاد منطقه‌ای در اسپانیا است. تمرکز بر سیاست‌های مسکن می‌تواند الگوی جدیدی برای مقابله با خالی شدن جمعیت در مناطق دورافتاده ارائه دهد، بدون اینکه صرفاً به رونق اشتغال وابسته باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مسکن",
-        "#مهاجرت",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "fc0cb5588cd1",
       "source": "EL PAÍS Economía",
       "title": "Los supervisores europeos dejan sin licencia a más de 1.000 empresas cripto",
@@ -1112,6 +1112,84 @@
         "#استراتژی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8352601f952f",
+      "source": "La Vanguardia",
+      "title": "Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina",
+      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/30/68db942c9a5f2.jpeg",
+      "published_at": "2026-08-17T00:11:37+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "تیراندازی مرگبار در Isla Cristina: سه کشته و یک زخمی وخیم",
+      "lead_fa": "در پی تیراندازی دو فرد نقاب‌دار موتورسیکلت‌سوار در منطقه ایسلا کریستینا، سه نفر از جمله یک کودک جان باختند. یک تن دیگر نیز به شدت زخمی شده و در وضعیت وخیمی به سر می‌برد.",
+      "key_points_fa": [
+        "مهاجمان دو نفر بودند و با موتورسیکلت به قربانیان تیراندازی کردند.",
+        "در میان کشته‌شدگان، حداقل یک کودک خردسال (منور) حضور دارد.",
+        "یک فرد دیگر با جراحات وخیم به بیمارستان منتقل شد."
+      ],
+      "analysis_fa": "این رویداد خشونت‌آمیز بار دیگر نگرانی‌ها درباره امنیت عمومی و جرایم سازمان‌یافته مسلحانه در برخی مناطق را افزایش داده است. تحقیقات پلیس برای شناسایی ضاربان و انگیزه آن‌ها همچنان ادامه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#تیراندازی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "92710924a3b3",
+      "source": "La Vanguardia",
+      "title": "“Para su erección no necesitaba testosterona: solo que le escuchara”",
+      "summary": "Tengo 56 años: vivir más puede ayudar a ser mejor médico. Nací en Perú y hace 30 años que ejerzo de médico en Rochester. Allí salimos a la calle contra el ICE de Trump antiinmigrantes: los médicos les atendemos gratis. Colaboro con el programa Decisions Compartides del Departament de Salut. (Foto: Xavi Jurio)",
+      "url": "https://www.lavanguardia.com/lacontra/20260817/11614851/victor-montorri-ereccion-necesitaba-testosterona-le-escuchara.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81f1007029f.r_d.3136-2560-0.jpeg",
+      "published_at": "2026-08-17T00:05:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "پزشک مهاجر: گوش دادن به بیمار از تستوسترون مهم‌تر است",
+      "lead_fa": "یک پزشک ۵۶ ساله اهل پرو که سه دهه در روچستر طبابت کرده، بر اهمیت همدلی در پزشکی تأکید می‌کند. او علاوه بر فعالیت درمانی، با وزارت بهداشت کاتالونیا نیز همکاری دارد.",
+      "key_points_fa": [
+        "تجارب طولانی در حرفه پزشکی در شهر روچستر",
+        "مشارکت در اعتراضات علیه سیاست‌های مهاجرتی دولت ترامپ",
+        "همکاری با برنامه Decisions Compartides وزارت بهداشت"
+      ],
+      "analysis_fa": "این روایت شخصی بازتاب‌دهنده چالش‌ها و دغدغه‌های کادر درمان مهاجر است که علاوه بر خدمت پزشکی، در حوزه‌های اجتماعی و حقوق مهاجران نیز فعالیت دارند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#پزشکان_مهاجر",
+        "#سلامت",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "abe21b65d552",
+      "source": "La Vanguardia",
+      "title": "¿Se puede parar a Putin?",
+      "summary": "Rusia avanza más en la guerra híbrida contra Europa que en los campos de batalla",
+      "url": "https://www.lavanguardia.com/opinion/20260817/11614852/putin-leipzig-guerra-hibrida-europa-extrema-derecha.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a8167b92bcae.r_d.4320-2880-0.jpeg",
+      "published_at": "2026-08-17T00:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Se puede parar a Putin?",
+      "lead_fa": "Rusia avanza más en la guerra híbrida contra Europa que en los campos de batalla",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1993,62 +2071,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3258f9670e6c",
-      "source": "La Vanguardia",
-      "title": "Una de las autocaravanas más deseadas da el salto para ofrecer más autonomía y seguridad",
-      "summary": "Niesmann+Bischoff renueva la iSmove de cara a 2027 con un completo arsenal de asistentes a la conducción, un equipamiento de serie más completo y soluciones que permiten viajar durante más tiempo sin depender de campings o áreas de servicio",
-      "url": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260816/11606635/autocaravanas-mas-deseadas-da-salto-definitivo-ofrecer-mas-autonomia-seguridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705a7aa58ef.r_d.1819-1392-0.jpeg",
-      "published_at": "2026-08-16T07:00:00+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "نسخه جدید خودروی مسافرتی iSmove با تمرکز بر استقلال و ایمنی معرفی شد",
-      "lead_fa": "شرکت نیسمان بیشوف مدل iSmove را برای سال ۲۰۲۷ به‌روزرسانی کرد. این خودروی مسافرتی امکان سفرهای طولانی‌تر بدون وابستگی به کمپینگ‌ها را فراهم می‌کند.",
-      "key_points_fa": [
-        "بهره‌مندی از تجهیزات ایمنی و دستیارهای پیشرفته رانندگی",
-        "ارتقای تجهیزات استاندارد کارخانه‌ای",
-        "ارائه راهکارهایی برای افزایش استقلال در سفرهای طولانی"
-      ],
-      "analysis_fa": "این به‌روزرسانی نشان‌دهنده روند رو به رشد بازار خودروهای مسافرتی برای ارائه استقلال بیشتر به مسافران و کاهش وابستگی به زیرساخت‌های ثابت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#خودرو",
-        "#سفر"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e18085c15ddd",
-      "source": "La Vanguardia",
-      "title": "“Cuando interpretas, sacas las cosas que dentro te molestan, y es una suerte”",
-      "summary": "Doble ganador del Premio Goya, y de un Max por su mítica interpretación de ‘Urtain’, Álamo estrena ‘Días de agosto’, un thriller emocional con intrigas, erotismo y secretos inconfesables",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260816/11608128/roberto-alamo-actor-56-anos-interpretar-sacas-cosas-te-molestan-suerte-mayoria-trabajos-te-permiten.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72e6b8b6535.r_d.859-477-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "رومئو آلامو با فیلم «روزهای اوت» به سینماها بازمی‌گردد",
-      "lead_fa": "آلمو، برنده دو جایزه گویا، فیلم جدید خود را اکران می‌کند. این اثر یک تریلر احساسی با درون‌مایه‌های رازآلود و اروتیک است.",
-      "key_points_fa": [
-        "روبرتو آلامو برنده دو جایزه گویا و یک جایزه مکس است.",
-        "فیلم جدید او با نام «روزهای اوت» اکران شد.",
-        "این اثر در ژانر تریلر احساسی با رازهای مگو ساخته شده است."
-      ],
-      "analysis_fa": "اکران این فیلم توسط یکی از بازیگران شناخته‌شده تئاتر و سینمای اسپانیا، توجه منتقدان را به آثار درام و رازآلود جلب کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سینمای_اسپانیا",
-        "#روبرتو_آلامو",
-        "#فرهنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "5f846279991e",
       "source": "La Vanguardia",
       "title": "El río roto de Marruecos",
@@ -2187,34 +2209,6 @@
         "#موردوکو",
         "#اسپانیا",
         "#کتاب_معما"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a427f4870614",
-      "source": "La Vanguardia",
-      "title": "Las consolas Retroid Pocket con hasta el 67% menos que arrasan entre los nostálgicos",
-      "summary": "Estas consolas Retroid Pocket son perfectas para tener los mejores videojuegos a tu alcance vayas a donde vayas. ¡Te las enseñamos!",
-      "url": "https://www.lavanguardia.com/comprar/tecnologia/20260816/11613705/miles-juegos-clasicos-bolsillo-asi-son-consolas-retroid-pocket-descuentos-67-arrasan-nostalgicos-mkt-alie.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ec5829bc23.jpeg",
-      "published_at": "2026-08-16T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "محبوبیت کنسول‌های بازی رترو با تخفیف‌های بزرگ در اسپانیا",
-      "lead_fa": "کنسول‌های بازی «رترواید پاکت» با تخفیف‌های قابل توجهی در بازار اسپانیا عرضه می‌شوند. این دستگاه‌ها برای اجرای بازی‌های کلاسیک مورد توجه علاقه‌مندان قرار گرفته‌اند.",
-      "key_points_fa": [
-        "عرضه کنسول‌های رترواید پاکت با تخفیف‌های تا ۶۷ درصد",
-        "مناسب برای اجرای بازی‌های ویدیویی کلاسیک و قدیمی",
-        "طراحی قابل حمل برای استفاده در سفر و مکان‌های مختلف"
-      ],
-      "analysis_fa": "تخفیف‌های اخیر روی کنسول‌های بازی قابل حمل نشان‌دهنده رقابت در بازار لوازم سرگرمی و تلاش عرضه‌کنندگان برای جذب مخاطبان علاقه‌مند به بازی‌های نوستالژیک است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#بازی",
-        "#فناوری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2781,7 +2775,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 126
+      "count": 127
     }
   ]
 }
