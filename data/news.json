@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:37:57.061045+00:00",
+  "generated_at": "2026-08-16T09:56:51.455943+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -356,33 +356,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4a4c523dda51",
-      "source": "La Vanguardia",
-      "title": "Muere atropellado por un camión el pasajero de un vehículo que estaba parado en la AP-7",
-      "summary": "El pasajero, que fue atropellado por un camión, ha resultado muerto como consecuencia de la gravedad de las heridas sufridas",
-      "url": "https://www.lavanguardia.com/sucesos/20260815/11614340/muere-atropellado-camion-pasajero-vehiculo-parado-ap-7.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/01/6905e97979b50.r_d.1000-666-0.jpeg",
-      "published_at": "2026-08-15T12:18:11+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "مرگ سرنشین یک خودرو در بزرگراه AP-7 پس از تصادف با کامیون",
-      "lead_fa": "یک مسافر خودروی متوقف‌شده در بزرگراه AP-7 بر اثر برخورد با یک کامیون جان باخت. شدت جراحات وارده علت اصلی مرگ این فرد اعلام شده است.",
-      "key_points_fa": [
-        "حادثه در بزرگراه AP-7 رخ داده است.",
-        "قربانی، سرنشین یک خودروی متوقف بوده است.",
-        "برخورد با یک کامیون منجر به مرگ این مسافر شد."
-      ],
-      "analysis_fa": "وقوع تصادفات در حاشیه بزرگراه‌ها و برای خودروهای متوقف همواره یکی از چالش‌های ایمنی راه‌ها است که نیازمند توجه بیشتر به پروتکل‌های هشدار و ایمنی در جاده‌های پرتردد اسپانیاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث_رانندگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "fe0d807cf6a8",
       "source": "EL PAÍS España",
       "title": "Un juez envía a prisión provisional al detenido por el incendio en Las Peñas de Riglos (Huesca)",
@@ -585,7 +558,7 @@
       "title": "Instantánea de una presidencia",
       "summary": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a8c22b682.r_d.979-582-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a817a03e8a3c.jpeg",
       "published_at": "2026-08-16T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
@@ -1151,25 +1124,59 @@
       "editorial_version": 2
     },
     {
-      "id": "fbfe72508e75",
+      "id": "6347abf2090e",
       "source": "La Vanguardia",
-      "title": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce",
-      "summary": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614481/marruecos-exhibe-control-sobre-frontera-ceuta-evitando-cruce.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b13f6b247.r_d.1308-1444-0.jpeg",
-      "published_at": "2026-08-15T20:45:04+02:00",
-      "category": "migracion",
-      "priority": 71,
-      "title_fa": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce",
-      "lead_fa": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title": "Una pelea entre grupos étnicos en Lleida acaba con tres heridos por arma blanca y un detenido",
+      "summary": "La Guardia Urbana local y los Mossos controlaron la situación, que dejó un cuarto herido por golpes",
+      "url": "https://www.lavanguardia.com/local/lleida/20260816/11614713/pelea-grupos-etnicos-lleida-acaba-tres-heridos-arma-blanca-detenido.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/19/682b3f0739a91.r_d.1164-788-0.jpeg",
+      "published_at": "2026-08-16T11:01:08+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "درگیری قومی در لرییدا با سه زخمی چاقو و یک بازداشتی",
+      "lead_fa": "در پی درگیری میان گروه‌های قومی در لرییدا، سه نفر با سلاح سرد مجروح شدند. پلیس محلی و ماسوس د اسکادرا وضعیت را کنترل کرده و یک نفر را بازداشت کردند.",
+      "key_points_fa": [
+        "وقوع درگیری میان گروه‌های مختلف قومی در شهر لرییدا.",
+        "مجارحت سه نفر با سلاح سرد و یک نفر دیگر بر اثر ضرب و شتم.",
+        "دخالت گارد شهری و پلیس کاتالونیا برای کنترل ناآرامی‌ها و بازداشت یک تن."
+      ],
+      "analysis_fa": "این حادثه بار دیگر نگرانی‌ها درباره تنش‌های اجتماعی و خشونت‌های خیابانی در برخی مناطق شهری را افزایش داده است. نیروهای انتظامی با حضور سریع توانستند اوضاع را آرام کنند، اما ریشه‌یابی چنین درگیری‌هایی نیازمند بررسی دقیق‌تر نهادهای اجتماعی و امنیتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث",
+        "#لرییدا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9663df6eb075",
+      "source": "La Vanguardia",
+      "title": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
+      "summary": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
+      "url": "https://www.lavanguardia.com/local/valencia/20260816/11614708/detenido-amenazar-navaja-piscina-valencia-banista-socorrista.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
+      "published_at": "2026-08-16T10:46:27+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "بازداشت فردی به اتهام تهدید با چاقو در استخری در والنسیا",
+      "lead_fa": "مردی در یک استخر عمومی در والنسیا پس از تذکر نجات‌غریق، با چاقو به او و یک شناگر حمله کرد. پلیس این فرد را به اتهام تهدید و ایجاد درگیری بازداشت کرد.",
+      "key_points_fa": [
+        "مفروض است که درگیری پس از یادآوری ممنوعیت ورود به منطقه‌ای خاص آغاز شده است.",
+        "فرد ضنون به نجات‌غریق و یک شناگر با چاقو حمله کرده است.",
+        "پلیس پس از این حادثه وارد عمل شده و فرد ضارب را دستگیر کرده است."
+      ],
+      "analysis_fa": "این حادثه بار دیگر بحث بر سر امنیت و کنترل فضاهای ورزشی و تفریحی عمومی در فصل گرما را مطرح می‌کند. با وجود حضور ناجیان، افزایش تنش‌های فردی نیازمند حضور سریع‌تر عوامل انتظامی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#والنسیا",
+        "#حوادث_اسپانیا",
+        "#امنیت_عمومی"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1180,18 +1187,25 @@
       "url": "https://elpais.com/internacional/2026-08-16/un-f-18-espanol-de-la-otan-derriba-un-dron-en-el-espacio-aereo-de-rumania.html",
       "image": "https://imagenes.elpais.com/resizer/v2/J4JX6OV2EFLXFHXJBEDB2KOHPA.jpg?auth=d1cb374efe068167621448ab9f7e5eeadb5fa9d64798f4065238b60ba10bd19f",
       "published_at": "2026-08-16T09:16:52+00:00",
-      "category": "ciencia",
+      "category": "politica",
       "priority": 70,
-      "title_fa": "Un F-18 español de la OTAN derriba un dron en el espacio aéreo de Rumania",
-      "lead_fa": "La Alianza sospecha que se trató de un avión no tripulado ruso. Es el cuarto aparato sobre territorio rumano desde finales de julio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "سرنگونی یک پهپاد در رومانی توسط جنگنده اسپانیایی ناتو",
+      "lead_fa": "یک فروند جنگنده اف-۱۸ اسپانیا وابسته به ناتو، یک فروند پهپاد را در حریم هوایی رومانی سرنگون کرد. ناتو مظنون است که این پرنده بدون سرنشین متعلق به روسیه بوده است.",
+      "key_points_fa": [
+        "این عملیات توسط جنگنده اف-۱۸ اسپانیا در چارچوب ماموریت‌های ناتو انجام شد.",
+        "این چهارمین مورد از نفوذ پرنده‌های بدون سرنشین به خاک رومانی از اواخر ماه ژوئیه محسوب می‌شود.",
+        "مقام‌های ناتو در حال بررسی منشاء دقیق این پهپاد هستند."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این رخداد نشان‌دهنده تداوم تنش‌ها در مرزهای شرقی ناتو و افزایش خطرات ناشی از جنگ اوکراین برای کشورهای همسایه است. حضور نظامی متحدان از جمله اسپانیا در منطقه برای حفاظت از حریم هوایی شرقی ناتو تقویت شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#ناتو",
+        "#رومانی",
+        "#روسیه"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1248,6 +1262,28 @@
         "#سئوتا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "fbfe72508e75",
+      "source": "La Vanguardia",
+      "title": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce",
+      "summary": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614481/marruecos-exhibe-control-sobre-frontera-ceuta-evitando-cruce.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b13f6b247.r_d.1308-1444-0.jpeg",
+      "published_at": "2026-08-15T20:45:04+02:00",
+      "category": "migracion",
+      "priority": 70,
+      "title_fa": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce",
+      "lead_fa": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1587,28 +1623,6 @@
       "editorial_version": 2
     },
     {
-      "id": "edb3f100abb5",
-      "source": "La Vanguardia",
-      "title": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
-      "summary": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11613203/sopar-fresca-playas-valencia-tradicion-nadie-quiere-perder.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d97043e1bd.r_d.412-910-0.jpeg",
-      "published_at": "2026-08-16T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
-      "lead_fa": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "932fb881bd01",
       "source": "EL PAÍS",
       "title": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
@@ -1642,72 +1656,6 @@
       "priority": 69,
       "title_fa": "Nadie vio venir esto: Charli XCX al rescate del rock",
       "lead_fa": "El disco de guitarras de la estrella del pop divide a los críticos y plantea la duda sobre si la británica caricaturiza al género o lo reivindica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "03c63bcc8298",
-      "source": "EL PAÍS",
-      "title": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
-      "summary": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
-      "url": "https://elpais.com/espana/2026-08-16/ceuta-al-limite-urgencias-repletas-vecinos-desbordados-y-ruidos-de-sirena.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QGOUHH2QW5FRDMV7IYIWJILFNM.jpg?auth=802a0a3b18e03a9d5e4123cb887183c8b6150c616d8eafab10b6d55c9ee35473",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
-      "lead_fa": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ce5063036ee4",
-      "source": "EL PAÍS",
-      "title": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
-      "summary": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
-      "url": "https://elpais.com/espana/2026-08-16/crimen-de-tauste-las-72-horas-que-llevaron-a-una-hija-y-su-novio-a-prision-por-matar-a-sus-padres-javier-y-esther.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CSW4MPQHVFAQVE7UUGU5HOPFJQ.jpg?auth=8f33dda089fb4bcb638b77f43fdf21db835f37a27c5f8d9b29f9608e8fcc70b7",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
-      "lead_fa": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7f7ea14d214a",
-      "source": "EL PAÍS",
-      "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
-      "summary": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
-      "url": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4Z7RFHMANMYNISPXDBE3ZFYQA.jpg?auth=0016a46cb777f340d509b94d51e0cc91c2c48cd25bddaa1710045f2df4270674",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Bruselas se pertrecha ante una posible batalla comercial con China",
-      "lead_fa": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1775,6 +1723,28 @@
       "editorial_version": 2
     },
     {
+      "id": "edb3f100abb5",
+      "source": "La Vanguardia",
+      "title": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
+      "summary": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
+      "url": "https://www.lavanguardia.com/local/valencia/20260816/11613203/sopar-fresca-playas-valencia-tradicion-nadie-quiere-perder.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d97043e1bd.r_d.412-910-0.jpeg",
+      "published_at": "2026-08-16T05:50:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
+      "lead_fa": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f5f0f358606b",
       "source": "La Vanguardia",
       "title": "Veranos onomásticos",
@@ -1786,6 +1756,72 @@
       "priority": 68,
       "title_fa": "Veranos onomásticos",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "03c63bcc8298",
+      "source": "EL PAÍS",
+      "title": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
+      "summary": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
+      "url": "https://elpais.com/espana/2026-08-16/ceuta-al-limite-urgencias-repletas-vecinos-desbordados-y-ruidos-de-sirena.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QGOUHH2QW5FRDMV7IYIWJILFNM.jpg?auth=802a0a3b18e03a9d5e4123cb887183c8b6150c616d8eafab10b6d55c9ee35473",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
+      "lead_fa": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ce5063036ee4",
+      "source": "EL PAÍS",
+      "title": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
+      "summary": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
+      "url": "https://elpais.com/espana/2026-08-16/crimen-de-tauste-las-72-horas-que-llevaron-a-una-hija-y-su-novio-a-prision-por-matar-a-sus-padres-javier-y-esther.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CSW4MPQHVFAQVE7UUGU5HOPFJQ.jpg?auth=8f33dda089fb4bcb638b77f43fdf21db835f37a27c5f8d9b29f9608e8fcc70b7",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
+      "lead_fa": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7f7ea14d214a",
+      "source": "EL PAÍS",
+      "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
+      "summary": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
+      "url": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K4Z7RFHMANMYNISPXDBE3ZFYQA.jpg?auth=0016a46cb777f340d509b94d51e0cc91c2c48cd25bddaa1710045f2df4270674",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Bruselas se pertrecha ante una posible batalla comercial con China",
+      "lead_fa": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2105,6 +2141,28 @@
       "editorial_version": 2
     },
     {
+      "id": "57ac0e1ae4a6",
+      "source": "EL PAÍS",
+      "title": "Guapa para Dios",
+      "summary": "Nadie viste como quiere. Rebelarse contra el sistema es muchísimo más difícil de lo que parece",
+      "url": "https://elpais.com/eps/2026-08-16/guapa-para-dios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WACYQI6SOVAYNEZTBSEXSBCZR4.jpg?auth=4ac135ad5d48971d512e3cf87e3da23a249a6947748f2687b527ade94816ed9b",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Guapa para Dios",
+      "lead_fa": "Nadie viste como quiere. Rebelarse contra el sistema es muchísimo más difícil de lo que parece",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "38d245753ecc",
       "source": "EL PAÍS",
       "title": "Jolina Gisèle, la princesa Pokémon, vende su colección millonaria de cartas: “Ya no podíamos tenerla en casa, por su tamaño y por su valor”",
@@ -2138,28 +2196,6 @@
       "priority": 68,
       "title_fa": "Sexo, dinero y anonimato: así es la red de prostitución nigeriana que opera a través de Telegram",
       "lead_fa": "EL PAÍS identifica más de un centenar de grupos con miles de miembros que facilitan el contacto entre clientes y mujeres, algunas de las cuales denuncian chantajes, amenazas y explotación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "57ac0e1ae4a6",
-      "source": "EL PAÍS",
-      "title": "Guapa para Dios",
-      "summary": "Nadie viste como quiere. Rebelarse contra el sistema es muchísimo más difícil de lo que parece",
-      "url": "https://elpais.com/eps/2026-08-16/guapa-para-dios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WACYQI6SOVAYNEZTBSEXSBCZR4.jpg?auth=4ac135ad5d48971d512e3cf87e3da23a249a6947748f2687b527ade94816ed9b",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Guapa para Dios",
-      "lead_fa": "Nadie viste como quiere. Rebelarse contra el sistema es muchísimo más difícil de lo que parece",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2278,34 +2314,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d7fe8a7d8a1d",
-      "source": "La Vanguardia",
-      "title": "Las tormentas acarrean fuertes lluvias y rachas de viento en varias comarcas valencianas",
-      "summary": "Se han producido acumulaciones de agua de hasta 142,0 litros por metro cuadrado en Torás (Castellón) y rachas de viento de hasta 117 kilómetros por hora (km/h) en Vallés (Valencia)",
-      "url": "https://www.lavanguardia.com/local/valencia/20260815/11614449/tormentas-acarrean-fuertes-lluvias-rachas-viento-comarcas-valencianas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/15/68c80bd4301ea.r_d.2370-1874-0.jpeg",
-      "published_at": "2026-08-15T19:12:03+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "باران‌های شدید و تندباد در مناطق مختلف والنسیا",
-      "lead_fa": "توفان‌های اخیر در بخش‌هایی از منطقه والنسیا منجر به بارش‌های سیل‌آسا و وزش باد شدید شد. میزان بارش‌ها و سرعت باد در برخی نقاط به سطوح قابل توجهی رسید.",
-      "key_points_fa": [
-        "ثبت بارش تا ۱۴۲ لیتر آب بر متر مربع در منطقه توراس در کاستلِون",
-        "ثبت تندبادهایی با سرعت تا ۱۱۷ کیلومتر بر ساعت در وایِس در والنسیا"
-      ],
-      "analysis_fa": "این شرایط جوی ناپایدار بخشی از الگوهای فصلی بارش و باد در منطقه مدیترانه‌ای اسپانیا است که معمولاً با آغاز سامانه‌های جوی جدید رخ می‌دهد و می‌تواند بر زیرساخت‌ها و فعالیت‌های روزمره تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#والنسیا",
-        "#توفان",
-        "#آب‌وهوا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2599,7 +2607,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 129
+      "count": 130
     }
   ]
 }
