@@ -1,71 +1,14 @@
 {
-  "generated_at": "2026-08-16T16:57:49.059863+00:00",
+  "generated_at": "2026-08-16T17:31:45.616051+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "2e5fcd8465ad",
-    "33dfb3c9f034",
     "402062aa5030",
-    "b001a12eb237",
-    "23c9fb8d2883"
+    "23c9fb8d2883",
+    "98c9ee219950",
+    "5ce6403bcc67",
+    "d93aa5f03614"
   ],
   "items": [
-    {
-      "id": "2e5fcd8465ad",
-      "source": "La Vanguardia",
-      "title": "Las medidas en la crisis de vivienda: un laboratorio con resultado discutido en Catalunya",
-      "summary": "Una década después de la ley contra los desahucios, la comunidad suma una batería de normas que intentan resolver la emergencia habitacional",
-      "url": "https://www.lavanguardia.com/economia/20260816/11614455/vivienda-laboratorio-catalunya.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a084197b5.r_d.4554-3646-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "politica",
-      "priority": 89,
-      "title_fa": "بحران مسکن در کاتالونیا؛ ده سال قانون‌گذاری و نتایج بحث‌برانگیز",
-      "lead_fa": "ده سال پس از تصویب قانون مقابله با تخلیه مسکن در کاتالونیا، این منطقه مجموعه‌ای از قوانین را برای حل اضطرار مسکن به اجرا گذاشته است. با این حال، نتایج این سیاست‌ها همچنان موضوع بحث و اختلاف نظر کارشناسان است.",
-      "key_points_fa": [
-        "گذشت یک دهه از اجرای نخستین قانون مقابله با تخلیه مسکن در کاتالونیا",
-        "تصویب مجموعه جدیدی از قوانین برای مدیریت بحران مسکن",
-        "وجود ارزیابی‌ها و نتایج متفاوت و بحث‌برانگیز درباره کارایی این سیاست‌ها"
-      ],
-      "analysis_fa": "تجربه کاتالونیا در حوزه مسکن نشان‌دهنده چالش‌های عمیق مداخله دولتی در بازار املاک است. در حالی که حامیان بر ضرورت حمایت از اقشار آسیب‌پذیر تأکید می‌کنند، منتقدان نگران اثرات منفی احتمالی بر عرضه مسکن و سرمایه‌گذاری هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مسکن",
-        "#کاتالونیا",
-        "#اسپانیا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "33dfb3c9f034",
-      "source": "La Vanguardia",
-      "title": "Estabilizado el incendio de Niebla: las 417 personas evacuadas pueden volver a casa",
-      "summary": "En consecuencia, los efectivos de la Unidad Militar de Emergencias (UME) comenzarán su repliegue este domingo",
-      "url": "https://www.lavanguardia.com/natural/20260816/11614728/estabilizado-incendio-niebla-417-personas-evacuadas-volver-casa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ef4cd6064a.r_d.2213-1475-0.jpeg",
-      "published_at": "2026-08-16T11:45:32+02:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "مهار آتش‌سوزی نیبلا و بازگشت افراد تخلیه شده",
-      "lead_fa": "آسایشگاه و مناطق مسکونی نیبلا پس از مهار آتش‌سوزی امن اعلام شد. ۴۱۷ فرد تخلیه‌شده مجاز به بازگشت به خانه‌های خود شدند.",
-      "key_points_fa": [
-        "آتش‌سوزی منطقه نیبلا تثبیت و مهار شد.",
-        "۴۱۷ نفر که به دلیل خطر آتش‌سوزی تخلیه شده بودند، به خانه‌هایشان بازمی‌گردند.",
-        "واحد نظامی اضطراری (UME) از روز یکشنبه شروع به عقب‌نشینی خواهد کرد."
-      ],
-      "analysis_fa": "مهار این آتش‌سوزی با دخالت واحدهای نظامی اضطراری نشان‌دهنده سرعت عمل نهادهای امدادی اسپانیا در مهار بحران‌های طبیعی است. با پایداری شرایط، تمرکز مقامات به بازگرداندن وضعیت عادی به منطقه معطوف شده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "402062aa5030",
       "source": "La Vanguardia",
@@ -89,34 +32,6 @@
         "#اسپانیا",
         "#سبته",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b001a12eb237",
-      "source": "La Vanguardia",
-      "title": "Las propuestas del sector para la crisis de la vivienda: construir más, agilizar trámites y proteger al inquilino",
-      "summary": "Expertos y agentes del sector señalan que las soluciones de futuro pasan por aumentar la oferta",
-      "url": "https://www.lavanguardia.com/economia/20260816/11614456/construir-mas-agilizar-tramites-proteger-inquilino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a26a6c957.r_d.1350-1607-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "راهکارهای بخش مسکن اسپانیا برای بحران فعلی",
-      "lead_fa": "کارشناسان و فعالان حوزه مسکن در اسپانیا بر لزوم اتخاذ راهکارهای اساسی تاکید کردند. افزایش عرضه و تسریع در روند اداری از جمله این پیشنهادها است.",
-      "key_points_fa": [
-        "افزایش ساخت‌وساز و عرضه مسکن",
-        "ساده‌سازی و تسریع در بوروکراسی اداری",
-        "حمایت از حقوق مستاجران در بازار مسکن"
-      ],
-      "analysis_fa": "بحران مسکن در اسپانیا به یکی از چالش‌های اصلی اقتصادی و اجتماعی تبدیل شده است. کارشناسان معتقدند که تعادل بخشیدن به عرضه و تقاضا نیازمند همکاری نهادهای دولتی و بخش خصوصی برای تسهیل ساخت‌وساز و در عین حال تنظیم بازار اجاره است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مسکن_اسپانیا",
-        "#اقتصاد",
-        "#اجاره"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -321,7 +236,7 @@
     {
       "id": "fba7daba6201",
       "source": "La Vanguardia",
-      "title": "Los demócratas moderados reivindican una tercera vía frente al ascenso del socialismo en EE.UU.",
+      "title": "'Alerta roja' en Estados Unidos: los demócratas moderados reivindican una tercera vía",
       "summary": "El principal lobby centrista del país impulsa una campaña para desacreditar a los Socialistas Democráticos de América y alertan de unas ideas “tan radicales que resultan completamente antiestadounidenses”",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614471/democratas-moderados-reivindican-tercera-frente-ascenso-socialismo-ee-uu.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/05/690b0c364e562.jpeg",
@@ -832,7 +747,7 @@
     {
       "id": "7bc5d030e24e",
       "source": "La Vanguardia",
-      "title": "Trump extiende el control de EE.UU. sobre América Latina en menos de dos años",
+      "title": "Trump extiende el control de EE.UU. sobre América Latina en apenas dos años",
       "summary": "Washington utiliza la vía militar y política para consolidar su área de influencia en el hemisferio occidental, uno de los puntales de su estrategia de seguridad nacional",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614006/trump-extiende-control-ee-uu-sobre-america-latina-dos-anos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ef85e657.r_d.511-327-0.jpeg",
@@ -1201,6 +1116,35 @@
       "editorial_version": 2
     },
     {
+      "id": "f5081b4d1877",
+      "source": "La Vanguardia",
+      "title": "Por qué 'El arte de la guerra' de Sun Tzu sigue guiando a ejércitos, empresas y líderes",
+      "summary": "Las máximas del enigmático estratega chino Sun Tzu, autor de El arte de la guerra, resurgen con fuerza en un mundo que parece haber olvidado que la mejor victoria es la que se consigue sin luchar",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-antigua/20260816/11597815/arte-guerra-sun-tzu-sigue-guiando-ejercitos-empresas-lideres-2-300-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f878cbe9eb.r_d.2303-1529-0.jpeg",
+      "published_at": "2026-08-16T06:30:00+02:00",
+      "category": "cultura",
+      "priority": 71,
+      "title_fa": "استمرار کاربرد آموزه‌های «هنر رزم» سان تزو در رهبری و مدیریت مدرن",
+      "lead_fa": "اصول استراتژیک کتاب باستانی «هنر رزم» نوشته سان تزو بار دیگر در جهان امروز مورد توجه قرار گرفته است. این اثر تأکید می‌کند که بهترین پیروزی دستیابی به موفقیت بدون نیاز به نبرد است.",
+      "key_points_fa": [
+        "بازگشت توجه به استراتژی‌های نظامی و مدیریتی سان تزو",
+        "تأکید کتاب بر کسب پیروزی بدون جنگیدن",
+        "کاربرد آموزه‌های این اثر کهن در ارتش‌ها، شرکت‌ها و رهبران جهان"
+      ],
+      "analysis_fa": "احیای تفکرات سان تزو در دنیای معاصر نشان‌دهنده نیاز رهبران سیاسی و اقتصادی به الگوهای کلاسیک مدیریت بحران و تدبیر است که بر پیشگیری از درگیری و به حداکثر رساندن کارایی تمرکز دارند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سان_تزو",
+        "#هنر_رزم",
+        "#مدیریت",
+        "#استراتژی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "a757b6d2d9a7",
       "source": "EL PAÍS",
       "title": "Muere Daniela, la mujer rescatada en Pereira después de 36 horas bajo los escombros",
@@ -1229,13 +1173,92 @@
       "editorial_version": 2
     },
     {
+      "id": "6835ec2203cf",
+      "source": "La Vanguardia",
+      "title": "El Barça se da un festín en Basilea con una lluvia de goles y en pleno cásting del nueve",
+      "summary": "Adeyemi marca y asiste a Hamza, Lamine Yamal transforma un penalti y Bisiwu se presenta en sociedad con un doblete creativo y vistoso",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260816/11614838/barca-da-festin-basilea-lluvia-goles-pleno-casting-nueve.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81e9937096e.jpeg",
+      "published_at": "2026-08-16T18:54:04+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "پیروزی پرگل بارسلونا در بازل با درخشش جوانان",
+      "lead_fa": "بارسلونا در دیداری خارج از خانه با نمایشی تهاجمی به پیروزی رسید. بازیکنان جوان و استعدادهای جدید تیم در این مسابقه نقش کلیدی داشتند.",
+      "key_points_fa": [
+        "گلزنی و پاس گل آدیمی در جریان مسابقه",
+        "تبدیل یک ضربه پنالتی به گل توسط لامین یامال",
+        "درخشش بیسیو با ثبت یک دبل خلاقانه"
+      ],
+      "analysis_fa": "این مسابقه فرصتی مناسب برای کادر فنی فراهم کرد تا عملکرد بازیکنان جوان و گزینه‌های خط حمله را در شرایط مسابقه ارزیابی کند. حضور استعدادهای جدید و تاثیرگذاری آن‌ها نشان‌دهنده عمق و پتانسیل بالای تهاجمی تیم است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#فوتبال_اسپانیا",
+        "#ورزش"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "13b7bcd40772",
+      "source": "La Vanguardia",
+      "title": "Meritxell Colell gana el Fipresci en el festival de Locarno por 'Lejos de los árboles'",
+      "summary": "La cinta, centrada en la memoria, la diáspora y el legado del exilio, suma también el Boccalino d’Oro de la crítica independiente suiza",
+      "url": "https://www.lavanguardia.com/cultura/20260816/11614822/meritxell-colell-gana-fipresci-festival-locarno-lejos-arboles.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81e79f490f1.r_d.800-600-0.jpeg",
+      "published_at": "2026-08-16T18:40:11+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "کسب جایزه فیپرشی در لوکارنو برای مریتکسل کولل",
+      "lead_fa": "فیلم «دور از درختان» ساخته مریتکسل کولل موفق به کسب جایزه فیپرشی در جشنواره لوکارنو شد. این اثر همچنین جایزه بوکالینو د اورو منتقدان مستقل سوئیس را دریافت کرد.",
+      "key_points_fa": [
+        "دریافت جایزه فیپرشی در جشنواره فیلم لوکارنو",
+        "تمرکز فیلم بر موضوعات حافظه، دیاسپورا و میراث تبعید",
+        "کسب جایزه بوکالینو د اورو از منتقدان مستقل سوئیس"
+      ],
+      "analysis_fa": "موفقیت فیلم‌های مستقل با محوریت تبعید و حافظه در جشنواره‌های بین‌المللی، نشان‌دهنده توجه سینمای اروپا به روایت‌های شخصی و تاریخی مرتبط با جابجایی انسان‌ها است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سینما",
+        "#اسپانیا",
+        "#لوکارنو",
+        "#جایزه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "88197214eee5",
+      "source": "La Vanguardia",
+      "title": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
+      "summary": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260816/11614812/joven-italiano-coma-atacado-salir-discoteca-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81d8d54aec8.jpeg",
+      "published_at": "2026-08-16T17:45:53+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
+      "lead_fa": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b2f0f5a8b9a3",
       "source": "EL PAÍS",
       "title": "Lula arranca la campaña para conquistar un cuarto mandato: “No voy a permitir que la derecha regrese al poder”",
       "summary": "Bolsonaro hijo y el presidente de Brasil están en empate técnico en las encuestas",
       "url": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
       "image": "https://imagenes.elpais.com/resizer/v2/UP2V6IQGI5LETBEOAIHIM5YZ3Q.jpg?auth=712b5a0ba7a1c5a6ffc415f96f6fdbf9e082d7a575a63c1b0f61ee26204f849b",
-      "published_at": "2026-08-16T15:53:05+00:00",
+      "published_at": "2026-08-16T17:11:28+00:00",
       "category": "politica",
       "priority": 70,
       "title_fa": "استارت کمپین انتخاباتی لولا برای چهارمین دوره ریاست‌جمهوری در برزیل",
@@ -1460,7 +1483,7 @@
       "title": "Mourinho también llora",
       "summary": "",
       "url": "https://www.lavanguardia.com/opinion/20260816/11614356/mourinho-llora.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a8046c1ac842.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8046c1ac842.r_d.683-863-0.jpeg",
       "published_at": "2026-08-16T00:30:00+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1567,10 +1590,32 @@
       "editorial_version": 2
     },
     {
+      "id": "9663df6eb075",
+      "source": "La Vanguardia",
+      "title": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
+      "summary": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
+      "url": "https://www.lavanguardia.com/local/valencia/20260816/11614708/detenido-amenazar-navaja-piscina-valencia-banista-socorrista.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
+      "published_at": "2026-08-16T10:46:27+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
+      "lead_fa": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "114d5bf2e27b",
       "source": "La Vanguardia",
-      "title": "Ucrania lanza más de 600 drones hacia Moscú y alcanza el mayor almacén del Amazon ruso",
-      "summary": "Según las defensas antiaéreas rusas, se derribaron desde la tarde del sábado más de 800 drones sobre los cielos de 16 regiones",
+      "title": "Más de 600 drones ucranianos vuelven a acechar Moscú en otro día de ataques cruzados",
+      "summary": "Ucrania y Rusia intensifican sus ataques y dejan al menos 12 muertos en una noche",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614692/cuatro-muertos-ataque-ucraniano-mas-600-drones-rusia.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a819b7363a74.jpeg",
       "published_at": "2026-08-16T09:35:35+02:00",
@@ -1681,90 +1726,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a74b2800f0d3",
-      "source": "La Vanguardia",
-      "title": "Marisol y Gades, cabriolas de la vida",
-      "summary": "Fue un amor a primera vista, era la época en que Pepa renegó de su pasado para empezar una nueva etapa. Más tarde él la sustituyó por una más joven",
-      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260816/11613379/marisol-gades-cabriolas-vida.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7ddcf8d2e06.r_d.1882-1776-0.jpeg",
-      "published_at": "2026-08-16T06:30:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "مروری بر زندگی و رابطه ماریسول و گادس",
-      "lead_fa": "رابطه عاشقانه میان ماریسول و آنتونیو گادس در گذشته بازتاب زیادی داشت. این زوج پس از مدتی از یکدیگر جدا شدند.",
-      "key_points_fa": [
-        "آغاز رابطه به عنوان عشق در نگاه اول توصیف شده است.",
-        "این دوران با تغییرات مهمی در زندگی حرفه‌ای و شخصی ماریسول همراه بود.",
-        "گادس بعدها شریک زندگی دیگری را جایگزین کرد."
-      ],
-      "analysis_fa": "داستان زندگی و روابط چهره‌های سرشناس فرهنگی در اسپانیا اغلب مورد توجه رسانه‌ها و عموم مردم قرار می‌گیرد. این روایت‌ها ابعاد گوناگونی از زندگی شخصی هنرمندان را بازتاب می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#فرهنگ",
-        "#چهره_ها"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ac5d3b8e547c",
-      "source": "La Vanguardia",
-      "title": "El segundo milagro de Ferran Torres",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260816/11614484/segundo-milagro-ferran-torres.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80b5809c847.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "دومین معجزه فران تورس در زمین فوتبال",
-      "lead_fa": "فران تورس، مهاجم بارسلونا، با عملکردهای درخشان اخیر خود بار دیگر توجه رسانه‌ها را به خود جلب کرده است. این بازیکن توانسته نقش کلیدی در موفقیت‌های اخیر تیمش ایفا کند.",
-      "key_points_fa": [
-        "درخشش فران تورس در مسابقات اخیر بارسلونا",
-        "افزایش اعتماد به نفس این مهاجم جوان در ترکیب تیم",
-        "نقش عملکرد او در نتایج مثبت تیم باشگاهی"
-      ],
-      "analysis_fa": "عملکرد بازیکنان کلیدی مانند فران تورس معمولاً تأثیر مستقیم بر روند حرکتی تیم‌ها در رقابت‌های فشرده فصل دارد و ثبات در این روند می‌تواند جایگاه او را در ترکیب اصلی تثبیت کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فران_تورس",
-        "#بارسلونا",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "96d2c5faf65d",
-      "source": "La Vanguardia",
-      "title": "Enric Granados, una vida de pálpito y enigmas",
-      "summary": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
-      "url": "https://www.lavanguardia.com/cultura/20260816/11614457/granados-vida-palpito-biografia-marta-san-miguel.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a34a998a4.r_d.720-559-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "زندگی پر از رمز و راز انریک گرانادوس، آهنگساز برجسته",
-      "lead_fa": "زندگی‌نامه انریک گرانادوس فراتر از تراژدی مرگ اوست. این آهنگساز پیش‌تر پیش‌بینی کرده بود که دریا او را خواهد کشت.",
-      "key_points_fa": [
-        "بررسی ابعاد جدیدی از زندگی و آثار انریک گرانادوس",
-        "تلاش برای رمزگشایی از ابهام‌های پیرامون مرگ این آهنگساز",
-        "توجه به پیش‌بینی معروف او درباره مرگ در دریا"
-      ],
-      "analysis_fa": "مرور دوباره زندگی چهره‌های هنری تاریخ اسپانیا نشان می‌دهد که ابعاد ناشناخته‌ای از زندگی شخصی و هنری آن‌ها همچنان جذاب و قابل‌پژوهش است. بررسی زندگی گرانادوس بازتابی از تلاش برای شناخت بهتر میراث فرهنگی و موسیقیایی این کشور به شمار می‌رود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#انریک_گرانادوس",
-        "#موسیقی_اسپانیا",
-        "#فرهنگ_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "aab24bd6fcee",
       "source": "La Vanguardia",
       "title": "Despliegan un operativo para enviar 30 grandes felinos desde Argentina a EE.UU. y Sudáfrica",
@@ -1789,34 +1750,6 @@
         "#محیط_زیست",
         "#حیوانات",
         "#آرژانتین"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "29be4dd9696b",
-      "source": "La Vanguardia",
-      "title": "Viajar sin alcohol",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/comer/opinion/20260816/11613728/viajar-alcohol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7eca8318517.r_d.1552-811-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 67,
-      "title_fa": "رشد سفر بدون الکل؛ ترند جدید گردشگری در اسپانیا",
-      "lead_fa": "گردشگری بدون الکل در اسپانیا طرفداران بیشتری پیدا کرده است. این سبک جدید سفر بر سلامت و آرامش تمرکز دارد.",
-      "key_points_fa": [
-        "افزایش گرایش به سبک زندگی سالم در میان مسافران",
-        "توسعه امکانات و اقامتگاه‌های بدون الکل در مناطق مختلف اسپانیا",
-        "تغییر در الگوهای مصرف گردشگران و ترجیح تفریحات آگاهانه"
-      ],
-      "analysis_fa": "افزایش محبوبیت سفرهای بدون الکل نشاندهنده تغییر عمیق در ارزش‌های مصرف‌کنندگان است که سلامت را بر تفریحات سنتی ترجیح می‌دهند. این بازار نوظهور می‌تواند فرصت‌های تازه‌ای برای کسب‌وکارهای گردشگری محلی ایجاد کند تا خدمات خود را متنوع‌تر سازند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#گردشگری",
-        "#سفر_سالم"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1933,6 +1866,50 @@
         "#فرهنگ"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e18085c15ddd",
+      "source": "La Vanguardia",
+      "title": "“Cuando interpretas, sacas las cosas que dentro te molestan, y es una suerte”",
+      "summary": "Doble ganador del Premio Goya, y de un Max por su mítica interpretación de ‘Urtain’, Álamo estrena ‘Días de agosto’, un thriller emocional con intrigas, erotismo y secretos inconfesables",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260816/11608128/roberto-alamo-actor-56-anos-interpretar-sacas-cosas-te-molestan-suerte-mayoria-trabajos-te-permiten.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72e6b8b6535.r_d.859-477-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "“Cuando interpretas, sacas las cosas que dentro te molestan, y es una suerte”",
+      "lead_fa": "Doble ganador del Premio Goya, y de un Max por su mítica interpretación de ‘Urtain’, Álamo estrena ‘Días de agosto’, un thriller emocional con intrigas, erotismo y secretos inconfesables",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5f846279991e",
+      "source": "La Vanguardia",
+      "title": "El río roto de Marruecos",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260816/11613508/rio-roto-marruecos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a802ad701e70.r_d.1593-1054-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "El río roto de Marruecos",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2649,17 +2626,17 @@
       "editorial_version": 2
     },
     {
-      "id": "1194862d2088",
+      "id": "91ec7d690bcc",
       "source": "La Vanguardia",
-      "title": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
-      "summary": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
-      "url": "https://www.lavanguardia.com/internacional/20260815/11613802/ucrania-pone-presion-rusia-desmiente-derrotismo-trump.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee4d5b3e14.r_d.508-254-0.jpeg",
+      "title": "La lucha policial contra las megabandas latinas que desestabilizan con el crimen",
+      "summary": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614447/lucha-grandes-bandas-latinas-grupos-transnacionales.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809c6a3d9d3.r_d.873-381-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
       "priority": 58,
-      "title_fa": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
-      "lead_fa": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
+      "title_fa": "La lucha policial contra las megabandas latinas que desestabilizan con el crimen",
+      "lead_fa": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2671,17 +2648,17 @@
       "editorial_version": 2
     },
     {
-      "id": "91ec7d690bcc",
-      "source": "La Vanguardia",
-      "title": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
-      "summary": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
-      "url": "https://www.lavanguardia.com/politica/20260815/11614447/lucha-grandes-bandas-latinas-grupos-transnacionales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809c6a3d9d3.r_d.873-381-0.jpeg",
-      "published_at": "2026-08-15T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 58,
-      "title_fa": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
-      "lead_fa": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
+      "id": "7d8843f4ae1b",
+      "source": "EL PAÍS España",
+      "title": "Ceuta, de los tacticismos banales a la mirada estratégica",
+      "summary": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
+      "url": "https://elpais.com/opinion/2026-08-14/ceuta-de-los-tacticismos-banales-a-la-mirada-estrategica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "politica",
+      "priority": 55,
+      "title_fa": "Ceuta, de los tacticismos banales a la mirada estratégica",
+      "lead_fa": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2737,7 +2714,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 136
+      "count": 132
     }
   ]
 }
