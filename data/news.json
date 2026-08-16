@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:59:48.744552+00:00",
+  "generated_at": "2026-08-16T08:44:00.385366+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -74,7 +74,7 @@
       "title": "Las propuestas del sector para la crisis de la vivienda: construir más, agilizar trámites y proteger al inquilino",
       "summary": "Expertos y agentes del sector señalan que las soluciones de futuro pasan por aumentar la oferta",
       "url": "https://www.lavanguardia.com/economia/20260816/11614456/construir-mas-agilizar-tramites-proteger-inquilino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80a26a6c957.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a26a6c957.r_d.1350-1607-0.jpeg",
       "published_at": "2026-08-16T06:00:00+02:00",
       "category": "economia",
       "priority": 82,
@@ -957,16 +957,23 @@
       "published_at": "2026-08-16T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Donald Tang (Shein), el rostro amable de un gigante textil en el punto de mira",
-      "lead_fa": "El empresario prevé dejar su cargo antes de la inminente salida a Bolsa de la empresa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تغییرات مدیریتی در شیین پیش از ورود به بورس",
+      "lead_fa": "دونالد تانگ، چهره کلیدی و مدیر اجرایی شرکت پوشاک شیین، برنامه‌ریزی کرده است تا پیش از عرضه اولیه سهام این شرکت در بورس، از سمت خود کناره‌گیری کند. این تصمیم در حالی گرفته می‌شود که غول نساجی آماده ورود به بازارهای مالی می‌شود.",
+      "key_points_fa": [
+        "دونالد تانگ به عنوان مدیر اجرایی و چهره عمومی شیین شناخته می‌شود.",
+        "او قصد دارد پیش از عرضه عمومی سهام (IPO) شرکت را ترک کند.",
+        "زمان دقیق خروج او با برنامه عرضه اولیه سهام شرکت هم‌پوشانی دارد."
+      ],
+      "analysis_fa": "کناره‌گیری مدیران ارشد در آستانه ورود شرکت‌های بزرگ به بورس معمولاً نشان‌دهنده بازترکیب ساختار مدیریتی برای تطبیق با استانداردهای نظارتی و مالی جدید است. این تغییر در شیین می‌تواند بر ارزیابی سرمایه‌گذاران از آینده شرکت تأثیرگذار باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#شیین",
+        "#بورس",
+        "#اقتصاد_اسپانیا",
+        "#مجارست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -979,16 +986,23 @@
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "La supervivencia de Hamás complica la reelección a Netanyahu",
-      "lead_fa": "El primer ministro israelí afronta las urnas en octubre con la promesa incumplida de la “victoria total” y la necesidad de cumplir el plan de Trump",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بقا حماس و چالش‌های نتانیاهو برای انتخابات اکتبر",
+      "lead_fa": "نخست‌وزیر اسرائیل در حالی با چشم‌انداز انتخابات اکتبر روبروست که به وعده «پیروزی کامل» دست نیافته است. او برای موفقیت باید طرح ترامپ را اجرا کند.",
+      "key_points_fa": [
+        "بقا حماس مانع تحقق وعده پیروزی کامل نتانیاهو شده است.",
+        "نخست‌وزیر اسرائیل در اکتبر آینده در انتخابات شرکت خواهد کرد.",
+        "اجرای طرح ترامپ به عنوان یک ضرورت برای دولت اسرائیل مطرح است."
+      ],
+      "analysis_fa": "عدم تحقق اهداف نظامی اعلام‌شده فشار سیاسی بر دولت اسرائیل را افزایش داده است. در این میان، تلاش برای هماهنگی با طرح‌های بین‌المللی نظیر پیشنهادهای ترامپ می‌تواند تلاشی برای ترمیم موقعیت انتخاباتی نخست‌وزیر محسوب شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اسرائیل",
+        "#نتانیاهو",
+        "#חמאס"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1001,16 +1015,22 @@
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Un nacimiento no es un brote verde en la España vaciada: la vivienda es lo que más importa",
-      "lead_fa": "Los programas de casas asequibles han tenido un mayor impacto para atraer población que el empleo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مسکن ارزان‌تر از اشتغال در جذب جمعیت به اسپانیای خالی مؤثر است",
+      "lead_fa": "بررسی‌ها نشان می‌دهد برنامه‌های مسکن مقرون‌به‌صرفه نقش مهمی در جذب جمعیت به مناطق کم‌جمعیت اسپانیا دارند. این در حالی است که صرف ایجاد شغل تأثیر کمتری در این زمینه داشته است.",
+      "key_points_fa": [
+        "برنامه‌های مسکن ارزان‌قیمت عامل اصلی جذب جمعیت به مناطق کم‌جمعیت اسپانیا است.",
+        "تأثیر مسکن بر مهاجرت معکوس به مناطق روستایی بیشتر از اشتغال ارزیابی شده است."
+      ],
+      "analysis_fa": "این مسئله نشان‌دهنده چالش‌های ساختاری بازار مسکن و اقتصاد منطقه‌ای در اسپانیا است. تمرکز بر سیاست‌های مسکن می‌تواند الگوی جدیدی برای مقابله با خالی شدن جمعیت در مناطق دورافتاده ارائه دهد، بدون اینکه صرفاً به رونق اشتغال وابسته باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مسکن",
+        "#مهاجرت",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1082,34 +1102,6 @@
         "#سبته",
         "#مراکش",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7928f6e8e265",
-      "source": "EL PAÍS Economía",
-      "title": "La prórroga de Almaraz dejará en manos de un futuro Gobierno la decisión sobre su cierre",
-      "summary": "La medida rompe con el pacto entre el PSOE y Sumar, y contenta a los partidos políticos de la región, municipios y eléctricas",
-      "url": "https://elpais.com/economia/2026-08-15/la-prorroga-de-almaraz-dejara-en-manos-del-nuevo-gobierno-la-decision-sobre-su-cierre.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204714_161231_video_1800.mp4",
-      "published_at": "2026-08-15T03:15:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "تصمیم‌گیری درباره تعطیلی نیروگاه آلماراز به دولت آینده موکول شد",
-      "lead_fa": "تمدید فعالیت نیروگاه هسته‌ای آلماراز توافق میان احزاب دولتی PSOE و Sumar را نقض کرد. این تصمیم با استقبال مقام‌های محلی، شهرداری‌ها و شرکت‌های برق مواجه شده است.",
-      "key_points_fa": [
-        "تمدید فعالیت نیروگاه آلماراز تصمیم‌گیری نهایی درباره زمان تعطیلی آن را به دولت آینده واگذار می‌کند.",
-        "این اقدام توافق ائتلافی میان دو حزب حاکم PSOE و Sumar را شکسته است.",
-        "احزاب سیاسی محلی، شهرداری‌ها و صنعت برق از این تصمیم ابراز رضایت کرده‌اند."
-      ],
-      "analysis_fa": "تغییر موضع درباره انرژی هسته‌ای در اسپانیا نشان‌دهنده چالش‌های دولت در ایجاد توازن میان تعهدات زیست‌محیطی ائتلاف حاکم و فشارهای منطقه‌ای و اقتصادی است. این موضوع می‌تواند پویایی سیاسی جدیدی را در روابط حزب حاکم و متحدانش ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1338,28 +1330,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9d71570488de",
-      "source": "La Vanguardia",
-      "title": "¿Crece más la ultraderecha en el mundo rural?",
-      "summary": "El nacional populismo explota los temores del campo, aunque podría cosechar más votos en el catalán que en el español",
-      "url": "https://www.lavanguardia.com/politica/20260816/11575458/crece-mas-ultraderecha-mundo-rural.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/19/6945490f07f6b.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "¿Crece más la ultraderecha en el mundo rural?",
-      "lead_fa": "El nacional populismo explota los temores del campo, aunque podría cosechar más votos en el catalán que en el español",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "493eb408c231",
       "source": "La Vanguardia",
       "title": "La red 764, el oscuro ecosistema online que extorsiona a menores para cometer violencia",
@@ -1371,6 +1341,28 @@
       "priority": 69,
       "title_fa": "La red 764, el oscuro ecosistema online que extorsiona a menores para cometer violencia",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "96d2c5faf65d",
+      "source": "La Vanguardia",
+      "title": "Enric Granados, una vida de pálpito",
+      "summary": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
+      "url": "https://www.lavanguardia.com/cultura/20260816/11614457/granados-vida-palpito-biografia-marta-san-miguel.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a34a998a4.r_d.720-559-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Enric Granados, una vida de pálpito",
+      "lead_fa": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1717,7 +1709,7 @@
       "title": "El diario de Mohamed tras 15 días malviviendo en Ceuta, en busca de comida y lugar para dormir",
       "summary": "El joven de 26 años, que cruzó a nado desde Marruecos, relata en primera persona sus dos semanas en El Tarajal, entre el hambre, la incertidumbre y el miedo a ser devuelto",
       "url": "https://elpais.com/espana/2026-08-16/el-diario-de-mohamed-tras-15-dias-malviviendo-en-ceuta-en-busca-de-comida-y-lugar-para-dormir.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LCLTMYKITJAR3LFQGNSG2BYA4Q.jpg?auth=57e83a240dbc9a7d71582a1e4a2c7eb3a0c1c7c85b102b901f2bad8343235d9c",
+      "image": "https://imagenes.elpais.com/resizer/v2/KLV4UBL7H5DZ3PEFCQ3PJA4AHE.jpg?auth=cf3f74ee226d10297fd45c8cf6956b93aedcda4ce87e00ea22d60716c205074f",
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "sociedad",
       "priority": 69,
@@ -1890,14 +1882,14 @@
     {
       "id": "90d638407263",
       "source": "EL PAÍS",
-      "title": "El callejón sin salida de Irán suma un nuevo problema interno a Trump",
+      "title": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
       "summary": "El subterfugio para huir de Turquía, la escasez de arsenal y el deterioro de las condiciones en el ‘USS Abraham Lincoln’ evidencian las dificultades en Oriente Próximo",
       "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
       "image": "https://imagenes.elpais.com/resizer/v2/MBWQHKRBQJMHZGF4FJITJB4NHY.jpg?auth=4b5c2d27879c7569d324b0e4d9cef9b679843844ccca95daedec857c46f97251",
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El callejón sin salida de Irán suma un nuevo problema interno a Trump",
+      "title_fa": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
       "lead_fa": "El subterfugio para huir de Turquía, la escasez de arsenal y el deterioro de las condiciones en el ‘USS Abraham Lincoln’ evidencian las dificultades en Oriente Próximo",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -2507,14 +2499,36 @@
       "id": "91ec7d690bcc",
       "source": "La Vanguardia",
       "title": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
-      "summary": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico, y social",
+      "summary": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
       "url": "https://www.lavanguardia.com/politica/20260815/11614447/lucha-grandes-bandas-latinas-grupos-transnacionales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a809c6a3d9d3.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809c6a3d9d3.r_d.873-381-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
       "priority": 61,
       "title_fa": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
-      "lead_fa": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico, y social",
+      "lead_fa": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "979807ebb464",
+      "source": "EL PAÍS Economía",
+      "title": "¿Qué IA gana dinero de verdad? La Bolsa aprende del béisbol a predecir lo incierto",
+      "summary": "Los inversores ya no se conforman con el crecimiento de los beneficios y recurren a métricas más sofisticadas para determinar si el negocio es realmente sólido",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-14/que-ia-gana-dinero-de-verdad-la-bolsa-aprende-del-beisbol-a-predecir-lo-incierto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YVTBBDD77RAD5AFV4EOAE64KWA.jpg?auth=1e7600401e946e76da6c5e19490eb76d6877692c860eadc8152c5bf90fa4bc5d",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "economia",
+      "priority": 58,
+      "title_fa": "¿Qué IA gana dinero de verdad? La Bolsa aprende del béisbol a predecir lo incierto",
+      "lead_fa": "Los inversores ya no se conforman con el crecimiento de los beneficios y recurren a métricas más sofisticadas para determinar si el negocio es realmente sólido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2565,12 +2579,12 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 129
     }
   ]
 }
