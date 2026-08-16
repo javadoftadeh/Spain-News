@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:58:46.668988+00:00",
+  "generated_at": "2026-08-16T14:36:05.118228+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -12,7 +12,7 @@
     {
       "id": "2e5fcd8465ad",
       "source": "La Vanguardia",
-      "title": "Vivienda: el laboratorio Catalunya",
+      "title": "Las medidas en la crisis de vivienda: un laboratorio con resultado discutido en Catalunya",
       "summary": "Una década después de la ley contra los desahucios, la comunidad suma una batería de normas que intentan resolver la emergencia habitacional",
       "url": "https://www.lavanguardia.com/economia/20260816/11614455/vivienda-laboratorio-catalunya.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a084197b5.r_d.4554-3646-0.jpeg",
@@ -157,8 +157,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La ministra de Sanidad comunica que han atendido a 5.800 migrantes en Ceuta: “El hospital está ocupado a la mitad. No hay colapso”",
       "summary": "Mónica García, desde la ciudad autónoma: “Asociar inmigración con enfermedad es injusto y es xenófobo” | Marruecos mantiene reforzado el despliegue de seguridad en la frontera de Castillejos con Ceuta",
       "url": "https://elpais.com/espana/2026-08-16/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KAGT7LZT2ZBQTGXYMIHFV7DFJI.JPG?auth=f9fbeab7f1c8f69dcb25a2da0e52e1a2f6da0d325347133c7ef79c5a8177e242",
-      "published_at": "2026-08-16T13:36:37+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/YF54Q7LEVRO2PECO6AJ7VWX254.jpg?auth=eae20a8c2d67171f4954b2b420175a6c5b351b525bb7ae529bf89859db66f81d",
+      "published_at": "2026-08-16T14:27:01+00:00",
       "category": "migracion",
       "priority": 81,
       "title_fa": "تماس دولت اسپانیا با مراکش برای حل مسئله اخراج خبرنگاران",
@@ -210,10 +210,38 @@
       "editorial_version": 2
     },
     {
+      "id": "000889fb9e71",
+      "source": "La Vanguardia",
+      "title": "Catalunya activa de nuevo la alerta Inuncat por lluvias en las comarcas de Girona este domingo",
+      "summary": "El Meteocat avisa que el episodio afectará principalmente el litoral y prelitoral norte y a la Plana de Vic",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260816/11614776/catalunya-activa-nuevo-alerta-inuncat-lluvias-comarcas-girona-domingo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/22/68a8320c91311.jpeg",
+      "published_at": "2026-08-16T15:53:21+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "هشدار سیل و بارندگی شدید در کاتالونیا",
+      "lead_fa": "سازمان هواشناسی کاتالونیا برای روز یکشنبه در مناطق جیرونا حالت هشدار اعلام کرد. این سامانه بارشی نواحی ساحلی و داخلی شمال این منطقه را تحت تأثیر قرار خواهد داد.",
+      "key_points_fa": [
+        "فعال شدن دوباره هشدار Inuncat در کاتالونیا",
+        "تمرکز بارش‌ها در مناطق جیرونا و دشت ویک",
+        "هشدار به نواحی ساحلی و نیمه ساحلی شمال"
+      ],
+      "analysis_fa": "بارندگی‌های شدید فصلی در کاتالونیا بار دیگر نهادهای امدادی و هواشناسی را به حالت آماده‌باش درآورده است. این وضعیت ناشی از تغییرات جوی و الگوهای بارش‌های محلی در مناطق شمالی این بخش از اسپانیا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#کاتالونیا",
+        "#هواشناسی_اسپانیا",
+        "#بارندگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "a56ac82272be",
       "source": "La Vanguardia",
-      "title": "Sanidad niega la emergencia sanitaria en Ceuta pero urge a crear espacios sanitarios en la calle",
-      "summary": "Mónica García descarta el “colapso” denunciado por el PP y garantiza la atención a la población local con circuitos diferenciados",
+      "title": "Sanidad niega el colapso sanitario en Ceuta y sitúa la urgencia en la calle",
+      "summary": "Mónica García descarta el “emergencia sanitaria” denunciada por el PP y garantiza la atención a la población local con circuitos diferenciados",
       "url": "https://www.lavanguardia.com/politica/20260816/11614767/sanidad-niega-emergencia-sanitaria-ceuta-urge-crear-espacios-sanitarios-calle.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81acdcdbf91.jpeg",
       "published_at": "2026-08-16T14:31:38+02:00",
@@ -435,6 +463,35 @@
       "editorial_version": 2
     },
     {
+      "id": "1e839b485f32",
+      "source": "EL PAÍS",
+      "title": "El Gobierno niega un “colapso” sanitario y reclama espacios en Ceuta para atender a los migrantes",
+      "summary": "El presidente de la ciudad autónoma dice que no tiene recursos y exige que los migrantes sean devueltos",
+      "url": "https://elpais.com/espana/2026-08-16/el-gobierno-niega-un-colapso-sanitario-y-reclama-espacios-en-ceuta-para-atender-a-los-migrantes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RSKQU3GWTRCCFB27DRVZF5TUHY.jpg?auth=cefc3c4cb76c88f4d47e71adeb6efd9a38edc31efcac9d26a2d2bd44da3269bf",
+      "published_at": "2026-08-16T13:53:31+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "رد ادعای فروپاشی نظام سلامت در سبته توسط دولت مرکزی",
+      "lead_fa": "دولت اسپانیا وجود بحران و فروپاشی در سیستم بهداشتی شهر خودمختار سبته را رد کرد. این در حالی است که رئیس این شهر خواستار پذیرش مهاجران و بازگرداندن آن‌ها به دلیل کمبود امکانات شد.",
+      "key_points_fa": [
+        "دولت مرکزی ادعای فروپاشی بهداشتی در سبته را رد کرد.",
+        "رئیس شهر خودمختار سبته بر کمبود منابع تاکید کرد.",
+        "مقام محلی خواستار بازگرداندن مهاجران شده است."
+      ],
+      "analysis_fa": "این تنش نشان‌دهنده اختلاف میان مقامات محلی سبته و دولت مرکزی اسپانیا درباره نحوه مدیریت و تامین منابع مالی و اجرایی برای رسیدگی به وضعیت مهاجران است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجران",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "f702b3823d00",
       "source": "La Vanguardia",
       "title": "Dos cazas españoles derriban un dron que violaba el espacio aéreo rumano",
@@ -458,34 +515,6 @@
         "#اسپانیا",
         "#ناتو",
         "#رومانی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b48e5889bab6",
-      "source": "La Vanguardia",
-      "title": "Instantánea de una presidencia",
-      "summary": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
-      "url": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a817a03e8a3c.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "تصویری از دونالد ترامپ در حال خواب در دفتر بیضی",
-      "lead_fa": "رسانه آمریکایی فاکس تصویری را منتشر کرده است که دونالد ترامپ را در حال چرت زدن در دفتر بیضی نشان می‌دهد. این تصویر در رسانه‌ها بازتاب گسترده‌ای داشته است.",
-      "key_points_fa": [
-        "انتشار تصویری از ترامپ در حال خواب در دفتر بیضی توسط فاکس",
-        "بازتاب تصویر در رسانه‌های مختلف و طرح بحث‌هایی درباره ریاست جمهوری",
-        "استفاده از این تصویر به عنوان نشانه‌ای از وضعیت سیاسی آمریکا"
-      ],
-      "analysis_fa": "انتشار تصاویر حاشیه‌ای از رهبران سیاسی اغلب ابزاری برای جریان‌سازی رسانه‌ای و انتقاد از مخالفان است. در حالی که حامیان چنین تصاویری را کم‌اهمیت می‌دانند، منتقدان آن را نمادی از خستگی یا بی‌توجهی در مدیریت کلان ارزیابی می‌کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#آمریکا",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -542,6 +571,34 @@
         "#اسپانیا",
         "#مهاجرت",
         "#مرز"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "b48e5889bab6",
+      "source": "La Vanguardia",
+      "title": "Instantánea de una presidencia",
+      "summary": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
+      "url": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a817a03e8a3c.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "تصویری از دونالد ترامپ در حال خواب در دفتر بیضی",
+      "lead_fa": "رسانه آمریکایی فاکس تصویری را منتشر کرده است که دونالد ترامپ را در حال چرت زدن در دفتر بیضی نشان می‌دهد. این تصویر در رسانه‌ها بازتاب گسترده‌ای داشته است.",
+      "key_points_fa": [
+        "انتشار تصویری از ترامپ در حال خواب در دفتر بیضی توسط فاکس",
+        "بازتاب تصویر در رسانه‌های مختلف و طرح بحث‌هایی درباره ریاست جمهوری",
+        "استفاده از این تصویر به عنوان نشانه‌ای از وضعیت سیاسی آمریکا"
+      ],
+      "analysis_fa": "انتشار تصاویر حاشیه‌ای از رهبران سیاسی اغلب ابزاری برای جریان‌سازی رسانه‌ای و انتقاد از مخالفان است. در حالی که حامیان چنین تصاویری را کم‌اهمیت می‌دانند، منتقدان آن را نمادی از خستگی یا بی‌توجهی در مدیریت کلان ارزیابی می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ترامپ",
+        "#آمریکا",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1150,7 +1207,7 @@
       "title": "España suma la plata en la final de aros y mazas y cierra el Mundial de Fráncfort con otra medalla",
       "summary": "El conjunto femenino, ya campeón del mundo en la general, se queda a 0,400 de Brasil en el último ejercicio del campeonato, después de terminar quinto en la final de cinco pelotas",
       "url": "https://elpais.com/deportes/2026-08-16/espana-suma-la-plata-en-la-final-de-aros-y-mazas-y-cierra-el-mundial-de-francfort-con-otra-medalla.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QDMDG3EIB5O6XL6Y6TYZ3LJWAE.jpg?auth=d7642656c0fafc847c42ce6c123aff3b70a3d33a646272d88526da835bce09eb",
+      "image": "https://imagenes.elpais.com/resizer/v2/6LIST56CEFJXHCOGPGPLQG5WDQ.jpg?auth=a4ed1bcb7a35318f3f0e3f1fbfbcc3e4d7afec5817332d4102b0cd64af374e10",
       "published_at": "2026-08-16T13:41:43+00:00",
       "category": "deportes",
       "priority": 70,
@@ -1343,37 +1400,9 @@
       "editorial_version": 2
     },
     {
-      "id": "9663df6eb075",
-      "source": "La Vanguardia",
-      "title": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
-      "summary": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11614708/detenido-amenazar-navaja-piscina-valencia-banista-socorrista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
-      "published_at": "2026-08-16T10:46:27+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "بازداشت فردی به اتهام تهدید با چاقو در استخری در والنسیا",
-      "lead_fa": "مردی پس از درگیری لفظی با نجات‌غریق و یک شناگر در استخری در والنسیا بازداشت شد. متهم ظاهرا به دلیل تذکر درباره ممنوعیت ورود به بخشی از مجموعه به تهدید با چاقو متوسل شده است.",
-      "key_points_fa": [
-        "حادثه در یک استخر عمومی در والنسیا رخ داده است.",
-        "متهم پس از یادآوری قوانین مجموعه توسط نجات‌غریق عصبانی شده است.",
-        "تهدید با سلاح سرد (چاقو) متوجه یک شناگر و نجات‌غریق بوده است."
-      ],
-      "analysis_fa": "این رویداد بار دیگر بحث درباره امنیت در اماکن ورزشی و عمومی و لزوم نظارت بیشتر بر رعایت قوانین انضباطی را مطرح می‌کند. واکنش‌های خشونت‌آمیز در برابر تذکرهای قانونی می‌تواند چالش‌های امنیتی جدیدی برای مدیریت شهری ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#حوادث",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "20304fd863f7",
       "source": "La Vanguardia",
-      "title": "“Era una motivada, y una de las cosas que más me satisfacen es no haber perdido esa ilusión”",
+      "title": "Victoria Luengo: “Era una motivada, y me satisface ver que no he perdido esa ilusión”",
       "summary": "Nuestra actriz más dura e intensa, la única que podría enfrentarse a una fuerza de la naturaleza como Javier Bardem, se siente cómoda en Fendi",
       "url": "https://www.lavanguardia.com/magazine/moda/20260816/11612681/victoria-luengo-motivada-cosas-mas-me-satisfacen-haber-perdido-ilusion.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c7a5e1127d.jpeg",
@@ -1632,18 +1661,24 @@
       "url": "https://www.lavanguardia.com/cultura/20260816/11614457/granados-vida-palpito-biografia-marta-san-miguel.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a34a998a4.r_d.720-559-0.jpeg",
       "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 67,
-      "title_fa": "Enric Granados, una vida de pálpito y enigmas",
-      "lead_fa": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "زندگی پر از رمز و راز انریک گرانادوس، آهنگساز برجسته",
+      "lead_fa": "زندگی‌نامه انریک گرانادوس فراتر از تراژدی مرگ اوست. این آهنگساز پیش‌تر پیش‌بینی کرده بود که دریا او را خواهد کشت.",
+      "key_points_fa": [
+        "بررسی ابعاد جدیدی از زندگی و آثار انریک گرانادوس",
+        "تلاش برای رمزگشایی از ابهام‌های پیرامون مرگ این آهنگساز",
+        "توجه به پیش‌بینی معروف او درباره مرگ در دریا"
+      ],
+      "analysis_fa": "مرور دوباره زندگی چهره‌های هنری تاریخ اسپانیا نشان می‌دهد که ابعاد ناشناخته‌ای از زندگی شخصی و هنری آن‌ها همچنان جذاب و قابل‌پژوهش است. بررسی زندگی گرانادوس بازتابی از تلاش برای شناخت بهتر میراث فرهنگی و موسیقیایی این کشور به شمار می‌رود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#انریک_گرانادوس",
+        "#موسیقی_اسپانیا",
+        "#فرهنگ_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1724,28 +1759,6 @@
       "priority": 67,
       "title_fa": "Abiertos por vocación: las tiendas centenarias reivindican su legado",
       "lead_fa": "Las tiendas centenarias reivindican su legado y reclaman aliviar la presión administrativa y fiscal para alentar el relevo generacional",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e9555863334c",
-      "source": "La Vanguardia",
-      "title": "Joaquín Tusquets de Cabirol, el fotógrafo de la soledad de Barcelona",
-      "summary": "Joaquín Tusquets de Cabirol fue un fotógrafo aficionado en la Barcelona del franquismo profundo (1940-1960). Retrató la soledad, el silencio y las sombras en su largo deambular por la ciudad. La fundación Mapfre lo exhibe en el Centro de Fotografía KBr",
-      "url": "https://www.lavanguardia.com/cultura/culturas/20260816/11597827/fotografo-soledad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/21/6a5f8fb788626.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "Joaquín Tusquets de Cabirol, el fotógrafo de la soledad de Barcelona",
-      "lead_fa": "Joaquín Tusquets de Cabirol fue un fotógrafo aficionado en la Barcelona del franquismo profundo (1940-1960). Retrató la soledad, el silencio y las sombras en su largo deambular por la ciudad. La fundación Mapfre lo exhibe en el Centro de Fotografía KBr",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2153,28 +2166,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6e46c7df10a8",
-      "source": "EL PAÍS",
-      "title": "El chico que estampaba el móvil ya es feliz",
-      "summary": "Dejó de sentir asco de sí mismo por su ludopatía; decidió cambiar a todo o nada y se rehabilitó",
-      "url": "https://elpais.com/opinion/2026-08-16/el-chico-que-estampaba-el-movil-ya-es-feliz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IPFH6FL5CRFKBFPYLYQHPLX5WE.jpg?auth=fd56b11e3fc32cab9132179543483580145c64d3e434f6f244c9c0353716cdd1",
-      "published_at": "2026-08-16T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El chico que estampaba el móvil ya es feliz",
-      "lead_fa": "Dejó de sentir asco de sí mismo por su ludopatía; decidió cambiar a todo o nada y se rehabilitó",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c3b6c38a7e37",
       "source": "EL PAÍS España",
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -2538,6 +2529,28 @@
       "editorial_version": 2
     },
     {
+      "id": "1194862d2088",
+      "source": "La Vanguardia",
+      "title": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
+      "summary": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
+      "url": "https://www.lavanguardia.com/internacional/20260815/11613802/ucrania-pone-presion-rusia-desmiente-derrotismo-trump.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ee4d5b3e14.r_d.508-254-0.jpeg",
+      "published_at": "2026-08-15T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 59,
+      "title_fa": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
+      "lead_fa": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "91ec7d690bcc",
       "source": "La Vanguardia",
       "title": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
@@ -2633,7 +2646,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 143
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
@@ -2648,7 +2661,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 134
+      "count": 136
     }
   ]
 }
