@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:38:53.164086+00:00",
+  "generated_at": "2026-08-16T05:59:17.067437+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -278,16 +278,23 @@
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "La crisis humanitaria en Ceuta se traslada a la periferia de la ciudad y provoca “una sensación de inseguridad”",
-      "lead_fa": "Sin una nueva entrada masiva, la precariedad de cientos de inmigrantes en Ceuta agrava una situación crítica para la población y las niñas no acompañadas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بحران انسانی در سبته به حومه شهر کشیده شد",
+      "lead_fa": "وضعیت صدها مهاجر بی‌سرپناه در سبته به بحرانی انتقادی تبدیل شده است. این وضعیت نگرانی‌هایی را برای ساکنان محلی ایجاد کرده است.",
+      "key_points_fa": [
+        "بحران انسانی از مناطق مرزی به حومه شهر سبته منتقل شده است.",
+        "وضعیت مهاجران و کودکان بی‌سرپناه به شدت ناپایدار و شکننده است.",
+        "این شرایط احساس ناامنی را در میان بخشی از جمعیت محلی دامن زده است."
+      ],
+      "analysis_fa": "تمرکز بحران مهاجرت در مناطق مسکونی و حومه‌ای، فشار مضاعفی بر زیرساخت‌های محلی و نهادهای حمایتی وارد کرده است. این وضعیت چالش‌های پیچیده‌ای را در زمینه مدیریت مهاجران و تأمین امنیت و رفاه اجتماعی برای دولت و نهادهای محلی ایجاد می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#بحران_انسانی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -300,16 +307,22 @@
       "published_at": "2026-08-16T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Los agujeros de la gran maquinaria para apagar incendios en España: “Tenemos problemas hasta para comer”",
-      "lead_fa": "Un inventario de medios de extinción realizado por EL PAÍS muestra que Aragón y Extremadura son las regiones con menos efectivos por hectáreas forestales. Un bombero aragonés sostiene que se abusa de los militares de la UME y los recursos de apoyo estatales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کاستی‌های سامانه اطفای حریق در اسپانیا و چالش‌های آتش‌نشانان",
+      "lead_fa": "بررسی‌ها نشان می‌دهد برخی مناطق اسپانیا با کمبود نیروی اطفای حریق مواجه هستند. آتش‌نشانان از فشار کاری بالا و اتکای بیش از حد به نیروهای ارتش انتقاد می‌کنند.",
+      "key_points_fa": [
+        "آراگون و اکستremادورا کمترین نیروی انسانی را نسبت به وسعت جنگل‌ها دارند.",
+        "نیروهای امدادی از شرایط سخت کاری و کمبود امکانات حتی برای تأمین غذای روزانه گلایه دارند.",
+        "انتقاداتی نسبت به استفاده بیش از حد از واحدهای نظامی اضطراری (UME) مطرح شده است."
+      ],
+      "analysis_fa": "این گزارش نشان‌دهنده چالش‌های ساختاری در مدیریت بحران‌های طبیعی و توزیع نابرابر منابع میان استان‌های مختلف اسپانیا است که می‌تواند کارایی واکنش به حریق‌های جنگلی را تحت تأثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آتش‌سوزی_جنگل",
+        "#اسپانیا",
+        "#مدیریت_بحران"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -462,16 +475,23 @@
       "published_at": "2026-08-16T06:30:00+02:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "Por qué 'El arte de la guerra' de Sun Tzu sigue guiando a ejércitos, empresas y líderes",
-      "lead_fa": "Las máximas del enigmático estratega chino Sun Tzu, autor de El arte de la guerra, resurgen con fuerza en un mundo que parece haber olvidado que la mejor victoria es la que se consigue sin luchar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "استمرار کاربرد کتاب «هنر رزم» سان تزو در رهبری و مدیریت مدرن",
+      "lead_fa": "آموزه‌های استراتژیک سان تزو، نویسنده باستانی چینی، بار دیگر در دنیای امروز مورد توجه قرار گرفته است. این اصول در حوزه‌های نظامی و کسب‌وکار به عنوان راهنمایی برای پیروزی بدون درگیری به‌کار گرفته می‌شوند.",
+      "key_points_fa": [
+        "بازگشت توجه به آموزه‌های کتاب «هنر رزم» اثر سان تزو",
+        "کاربرد راهبردهای این اثر در ارتش‌ها و سازمان‌های تجاری مدرن",
+        "تاکید بر این اصل که بهترین پیروزی بدون جنگ به دست می‌آید"
+      ],
+      "analysis_fa": "استفاده مجدد از متون کلاسیک استراتژیک نشان‌دهنده نیاز رهبران جهان به الگوهای اثبات‌شده برای مدیریت بحران و رقابت در محیط‌های پیچیده و پرتنش امروزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سان_تزو",
+        "#هنر_رزم",
+        "#مدیریت",
+        "#استراتژی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
