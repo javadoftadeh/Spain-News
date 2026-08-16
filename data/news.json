@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:34:03.241088+00:00",
+  "generated_at": "2026-08-16T15:54:29.682175+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -1824,28 +1824,6 @@
       "editorial_version": 2
     },
     {
-      "id": "edb3f100abb5",
-      "source": "La Vanguardia",
-      "title": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
-      "summary": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11613203/sopar-fresca-playas-valencia-tradicion-nadie-quiere-perder.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d97043e1bd.r_d.412-910-0.jpeg",
-      "published_at": "2026-08-16T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
-      "lead_fa": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "932fb881bd01",
       "source": "EL PAÍS",
       "title": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
@@ -1853,18 +1831,25 @@
       "url": "https://elpais.com/cultura/2026-08-16/toledo-y-puy-du-fou-cuando-el-espectaculo-pone-a-prueba-el-patrimonio.html",
       "image": "https://imagenes.elpais.com/resizer/v2/36PNFYVPMVD6VLQ7E6B65W4YNI.jpg?auth=787e6b1a35da8eb03605f4120110cdbdbfe5d995a207ce3f862c6e79ada44e3a",
       "published_at": "2026-08-16T04:52:25+00:00",
-      "category": "deportes",
+      "category": "turismo",
       "priority": 67,
-      "title_fa": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
-      "lead_fa": "El auge del parque histórico, con casi dos millones de visitantes al año, obliga a la ciudad a replantearse cómo quiere contar su pasado en el siglo XXI",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تولدو و پارک پو دو فو؛ آزمون بزرگ میراث تاریخی در برابر تفریح",
+      "lead_fa": "رشد چشمگیر پارک تاریخی پو دو فو با نزدیک به دو میلیون بازدیدکننده سالانه، شهر تولدو را با چالشی جدی روبه‌رو کرده است. مقامات و شهروندان باید بازنگری کنند که چگونه می‌خواهند روایتگر تاریخ خود در قرن بیست‌ویکم باشند.",
+      "key_points_fa": [
+        "جذب نزدیک به دو میلیون بازدیدکننده سالانه در پارک تاریخی پو دو فو در تولدو.",
+        "نیاز شهر به بازاندیشی در نحوه حفاظت و معرفی میراث فرهنگی در عصر مدرن.",
+        "افزایش فشار گردشگری بر ساختار شهری و هویت تاریخی تولدو."
+      ],
+      "analysis_fa": "گسترش جاذبه‌های گردشگری مقیاس‌بزرگ در شهرهای تاریخی اسپانیا، نمونه‌ای از تقاطع میان توسعه اقتصادی و حفاظت از میراث فرهنگی است. در حالی که این مراکز به رونق گردشگری و اشتغال کمک می‌کنند، اما فشارهای زیرساختی و فرهنگی ناشی از آن، مدیران شهری را وادار می‌کند میان تجاری‌سازی تاریخ و اصالت آن توازن ایجاد کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#تولدو",
+        "#گردشگری",
+        "#میراث_فرهنگی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1875,10 +1860,67 @@
       "url": "https://elpais.com/cultura/2026-08-16/nadie-vio-venir-esto-charli-xcx-al-rescate-del-rock.html",
       "image": "https://imagenes.elpais.com/resizer/v2/IZTIIS6Q2VCXZH2F3PFDEYEZGA.jpg?auth=94380afa03b0d198326f8d18f4dbc2744a36342d7f54a816793d4a968f060fda",
       "published_at": "2026-08-16T04:05:55+00:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 67,
-      "title_fa": "Nadie vio venir esto: Charli XCX al rescate del rock",
-      "lead_fa": "El disco de guitarras de la estrella del pop divide a los críticos y plantea la duda sobre si la británica caricaturiza al género o lo reivindica",
+      "title_fa": "بازگشت چارلی ایکس‌سی‌ایکس به موسیقی راک و دو دستگی منتقدان",
+      "lead_fa": "آلبوم گیتارمحور این ستاره پاپ بریتانیایی بحث‌برانگیز شده است. منتقدان درباره این که این اثر بازآفرینی ژانر راک است یا تمسخر آن اختلاف نظر دارند.",
+      "key_points_fa": [
+        "انتشار آلبوم جدید با محوریت گیتار توسط چارلی ایکس‌سی‌ایکس",
+        "ایجاد اختلاف نظر شدید میان منتقدان موسیقی",
+        "مطرح شدن این پرسش که آیا اثر به موسیقی راک خدمت کرده یا آن را به تمسخر گرفته است"
+      ],
+      "analysis_fa": "این اثر نشان‌دهنده تمایل هنرمندان موسیقی پاپ برای تجربه سبک‌های دیگر از جمله راک است. واکنش‌های متناقض منتقدان نشان می‌دهد که تلفیق المان‌های سنتی راک با صداهای مدرن پاپ همواره با چالش‌های مفهومی روبه‌روست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#موسیقی",
+        "#چارلی_ایکس_سی_ایکس",
+        "#فرهنگ"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "edb3f100abb5",
+      "source": "La Vanguardia",
+      "title": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
+      "summary": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
+      "url": "https://www.lavanguardia.com/local/valencia/20260816/11613203/sopar-fresca-playas-valencia-tradicion-nadie-quiere-perder.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d97043e1bd.r_d.412-910-0.jpeg",
+      "published_at": "2026-08-16T05:50:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "دفاع والنسیا از سنت شب‌نشینی ساحلی",
+      "lead_fa": "اظهارات جنجالی یک فعال صنفی حوزه گردشگری درباره سواحل والنسیا باعث نگرانی ساکنان منطقه شد. شهرداری برای آرام کردن اوضاع و حفظ سنت‌های محلی وارد عمل شده است.",
+      "key_points_fa": [
+        "اعلام طرح اصلاح نوار ساحلی والنسیا توسط مقامات",
+        "واکنش منفی اهالی به اظهارات یک فعال بخش هتلداری و رستوران‌داری",
+        "تلاش شهرداری برای فروکش کردن تنش‌ها و حفظ سنت شب‌نشینی"
+      ],
+      "analysis_fa": "این مناقشه نشان‌دهنده چالش میان توسعه گردشگری و حفظ سنت‌های دیرینه ساکنان محلی است. شهرداری تلاش می‌کند با پادرمیانی، تعادل را میان منافع اقتصادی بخش گردشگری و مطالبات شهروندان برقرار کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#والنسیا",
+        "#اسپانیا",
+        "#سنت_محلی",
+        "#جامعه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f5f0f358606b",
+      "source": "La Vanguardia",
+      "title": "Veranos onomásticos",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260816/11608958/veranos-onomasticos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/29/68da3f5b626ab.jpeg",
+      "published_at": "2026-08-16T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Veranos onomásticos",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1898,7 +1940,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/QGOUHH2QW5FRDMV7IYIWJILFNM.jpg?auth=802a0a3b18e03a9d5e4123cb887183c8b6150c616d8eafab10b6d55c9ee35473",
       "published_at": "2026-08-16T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
       "lead_fa": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
       "key_points_fa": [],
@@ -1920,7 +1962,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CSW4MPQHVFAQVE7UUGU5HOPFJQ.jpg?auth=8f33dda089fb4bcb638b77f43fdf21db835f37a27c5f8d9b29f9608e8fcc70b7",
       "published_at": "2026-08-16T03:45:01+00:00",
       "category": "ciencia",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
       "lead_fa": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
       "key_points_fa": [],
@@ -1942,31 +1984,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/K4Z7RFHMANMYNISPXDBE3ZFYQA.jpg?auth=0016a46cb777f340d509b94d51e0cc91c2c48cd25bddaa1710045f2df4270674",
       "published_at": "2026-08-16T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Bruselas se pertrecha ante una posible batalla comercial con China",
       "lead_fa": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f5f0f358606b",
-      "source": "La Vanguardia",
-      "title": "Veranos onomásticos",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11608958/veranos-onomasticos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/29/68da3f5b626ab.jpeg",
-      "published_at": "2026-08-16T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Veranos onomásticos",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
