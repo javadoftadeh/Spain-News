@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:53:07.173433+00:00",
+  "generated_at": "2026-08-16T22:34:25.659797+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -1143,6 +1143,33 @@
       "editorial_version": 2
     },
     {
+      "id": "92bc867caf39",
+      "source": "EL PAÍS",
+      "title": "Con Mondo Duplantis todo es ‘show’",
+      "summary": "El sueco, que gana su cuarto título continental en los Europeos, ha hecho de la pértiga la especialidad reina",
+      "url": "https://elpais.com/deportes/2026-08-16/con-mondo-duplantis-todo-es-show.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q2FUARBMLZBLPNXLRR6BUVSKTA.jpg?auth=c1c4cecf33586a538e8e795c4c54f02e8f8e1cb550266e53970c1a66c2ea97c3",
+      "published_at": "2026-08-16T21:39:10+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "دوبلانتیس چهارمین قهرمانی قاره‌ای خود را کسب کرد",
+      "lead_fa": "موندو دوبلانتیس سوئدی در مسابقات قهرمانی اروپا به مدال طلا رسید. او پرش با نیزه را به یکی از جذاب‌ترین بخش‌های مسابقات تبدیل کرده است.",
+      "key_points_fa": [
+        "کسب چهارمین عنوان قاره‌ای توسط موندو دوبلانتیس",
+        "تبدیل شدن پرش با نیزه به رشته‌ای پرمخاطب به لطف عملکرد او"
+      ],
+      "analysis_fa": "موفقیت‌های مداوم دوبلانتیس نشان‌دهنده تسلط بی‌چون‌وچارای او بر این رشته ورزشی است و استاندارد تازه‌ای در سطح جهانی ایجاد کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#دوبلانتیس",
+        "#پرش_با_نیزه",
+        "#دو_و_میدانی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "10a8519b0362",
       "source": "La Vanguardia",
       "title": "Principio de acuerdo Barça- Manchester City por Rodri",
@@ -1450,34 +1477,6 @@
         "#اسپانیا",
         "#اقتصاد",
         "#تلفونیکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6625f13ef7fd",
-      "source": "EL PAÍS",
-      "title": "España suma la plata en la final de aros y mazas y cierra el Mundial de Fráncfort con otra medalla",
-      "summary": "El conjunto femenino, ya campeón del mundo en la general, se queda a 0,400 de Brasil en el último ejercicio del campeonato, después de terminar quinto en la final de cinco pelotas",
-      "url": "https://elpais.com/deportes/2026-08-16/espana-suma-la-plata-en-la-final-de-aros-y-mazas-y-cierra-el-mundial-de-francfort-con-otra-medalla.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6LIST56CEFJXHCOGPGPLQG5WDQ.jpg?auth=a4ed1bcb7a35318f3f0e3f1fbfbcc3e4d7afec5817332d4102b0cd64af374e10",
-      "published_at": "2026-08-16T13:41:43+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "مدال نقره اسپانیا در فینال جهانی ژیمناستیک ریتمیک فرانکفورت",
-      "lead_fa": "تیم ملی ژیمناستیک ریتمیک زنان اسپانیا در فینال اسباب ۵ حلقه و مکز به مقام دوم جهان دست یافت. این تیم پیش‌تر عنوان قهرمانی جهان در رده عمومی را کسب کرده بود.",
-      "key_points_fa": [
-        "تیم اسپانیا با اختلاف ۰.۴۰۰ امتیاز پس از برزیل در رتبه دوم قرار گرفت.",
-        "این رقابت‌ها آخرین اجرای مسابقات جهانی فرانکفورت بود.",
-        "تیم اسپانیا پیش از این در فینال ۵ توپ مقام پنجم را کسب کرده بود."
-      ],
-      "analysis_fa": "مسابقات جهانی فرانکفورت با موفقیت‌های چشمگیری برای تیم ژیمناستیک اسپانیا به پایان رسید. کسب عناوین مختلف از جمله قهرمانی در رده عمومی و مدال نقره در فینال اسباب، جایگاه رقابتی این تیم را در سطح جهانی تثبیت کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#ژیمناستیک",
-        "#ورزش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2078,28 +2077,6 @@
       "editorial_version": 2
     },
     {
-      "id": "faadf35bc7c4",
-      "source": "La Vanguardia",
-      "title": "La nueva fiebre por el murdoku, los acertijos para adultos",
-      "summary": "El furor por el murdoku culmina el auge de los libros de recreo desde la irrupción de los cuadernos de verano para adultos hace 15 años",
-      "url": "https://www.lavanguardia.com/cultura/20260816/11614448/pasatiempos-son-verano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809d37b5289.r_d.1483-1752-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "La nueva fiebre por el murdoku, los acertijos para adultos",
-      "lead_fa": "El furor por el murdoku culmina el auge de los libros de recreo desde la irrupción de los cuadernos de verano para adultos hace 15 años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7f7ea14d214a",
       "source": "EL PAÍS Economía",
       "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
@@ -2187,6 +2164,34 @@
       "editorial_version": 2
     },
     {
+      "id": "faadf35bc7c4",
+      "source": "La Vanguardia",
+      "title": "La nueva fiebre por el murdoku, los acertijos para adultos",
+      "summary": "El furor por el murdoku culmina el auge de los libros de recreo desde la irrupción de los cuadernos de verano para adultos hace 15 años",
+      "url": "https://www.lavanguardia.com/cultura/20260816/11614448/pasatiempos-son-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809d37b5289.r_d.1483-1752-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 64,
+      "title_fa": "موردوکو؛ تب جدید معماهای بزرگسالان در اسپانیا",
+      "lead_fa": "کتاب‌های سرگرمی و معماهای بزرگسالان در اسپانیا با استقبال بی‌سابقه‌ای روبه‌رو شده‌اند. این روند اوج محبوبیت دفترچه‌های تابستانی بزرگسالان است که از ۱۵ سال پیش آغاز شد.",
+      "key_points_fa": [
+        "محبوبیت فزاینده معماهای جدید موسوم به موردوکو در اسپانیا",
+        "تداوم و اوج‌گیری بازار کتاب‌های سرگرمی و معما برای بزرگسالان",
+        "قدمت ۱۵ ساله رواج دفترچه‌های تمرینی و تفریحی تابستانی در این کشور"
+      ],
+      "analysis_fa": "رشد محبوبیت سرگرمی‌های چاپی مانند موردوکو نشان‌دهنده تمایل روزافزون مخاطبان بزرگسال به فعالیت‌های فکری غیردیجیتال برای پر کردن اوقات فراغت است. این بازار که از یک دهه و نیم پیش شکل گرفته، اکنون به پختگی و تنوع بیشتری رسیده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#موردوکو",
+        "#اسپانیا",
+        "#کتاب_معما"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "a427f4870614",
       "source": "La Vanguardia",
       "title": "Las consolas Retroid Pocket con hasta el 67% menos que arrasan entre los nostálgicos",
@@ -2196,16 +2201,22 @@
       "published_at": "2026-08-16T05:50:00+02:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "Las consolas Retroid Pocket con hasta el 67% menos que arrasan entre los nostálgicos",
-      "lead_fa": "Estas consolas Retroid Pocket son perfectas para tener los mejores videojuegos a tu alcance vayas a donde vayas. ¡Te las enseñamos!",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "محبوبیت کنسول‌های بازی رترو با تخفیف‌های بزرگ در اسپانیا",
+      "lead_fa": "کنسول‌های بازی «رترواید پاکت» با تخفیف‌های قابل توجهی در بازار اسپانیا عرضه می‌شوند. این دستگاه‌ها برای اجرای بازی‌های کلاسیک مورد توجه علاقه‌مندان قرار گرفته‌اند.",
+      "key_points_fa": [
+        "عرضه کنسول‌های رترواید پاکت با تخفیف‌های تا ۶۷ درصد",
+        "مناسب برای اجرای بازی‌های ویدیویی کلاسیک و قدیمی",
+        "طراحی قابل حمل برای استفاده در سفر و مکان‌های مختلف"
+      ],
+      "analysis_fa": "تخفیف‌های اخیر روی کنسول‌های بازی قابل حمل نشان‌دهنده رقابت در بازار لوازم سرگرمی و تلاش عرضه‌کنندگان برای جذب مخاطبان علاقه‌مند به بازی‌های نوستالژیک است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#بازی",
+        "#فناوری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2712,7 +2723,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809c6a3d9d3.r_d.873-381-0.jpeg",
       "published_at": "2026-08-15T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "La lucha policial contra las megabandas latinas que desestabilizan con el crimen",
       "lead_fa": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, económico y social",
       "key_points_fa": [],
