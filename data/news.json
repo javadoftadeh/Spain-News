@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:30:47.837256+00:00",
+  "generated_at": "2026-08-16T19:51:25.286014+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -15,7 +15,7 @@
       "title": "Muere un militar de la UME en un accidente durante la extinción del incendio de Las Peñas de Riglos (Huesca)",
       "summary": "Otros tres integrantes de la Unidad Militar de Emergencias han resultado heridos tras volcar un camión en la carretera de Bernués",
       "url": "https://elpais.com/espana/2026-08-16/muere-un-militar-de-la-ume-en-un-accidente-durante-la-extincion-del-incendio-de-las-penas-de-riglos-huesca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7DXMARUTVBMZTD3DHMRTMDPN4U.jpg?auth=36796f2065186b7f2fa958e9540b5aa53a1672f7c5ed919b5df3991ce50e431c",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260816/1205119_193519_video_1800.mp4",
       "published_at": "2026-08-16T19:25:41+00:00",
       "category": "sociedad",
       "priority": 91,
@@ -1803,16 +1803,22 @@
       "published_at": "2026-08-16T10:46:27+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
-      "lead_fa": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازداشت مردی به اتهام تهدید با چاقو در استخری در والنسیا",
+      "lead_fa": "یک مرد در استخری در والنسیا پس از تذکر ایمنی، به یک شناگر و یک نجات‌غریق حمله کرد. پلیس این فرد را به جرم تهدید با چاقو بازداشت کرد.",
+      "key_points_fa": [
+        "آغاز درگیری پس از یادآوری ممنوعیت ورود به بخشی از محوطه استخر",
+        "تهدید ناجی و یکی از شناگران با استفاده از سلاح سرد (چاقو)",
+        "ورود نیروهای امنیتی و بازداشت فرد مظنون"
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده افزایش تنش‌ها و خشونت‌های جزئی در فضاهای عمومی و تفریحی در فصل گرم سال است که واکنش سریع نیروهای انتظامی را به دنبال دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#والنسیا",
+        "#حوادث",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2024,18 +2030,24 @@
       "url": "https://www.lavanguardia.com/vivo/longevity/20260816/11608128/roberto-alamo-actor-56-anos-interpretar-sacas-cosas-te-molestan-suerte-mayoria-trabajos-te-permiten.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72e6b8b6535.r_d.859-477-0.jpeg",
       "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 65,
-      "title_fa": "“Cuando interpretas, sacas las cosas que dentro te molestan, y es una suerte”",
-      "lead_fa": "Doble ganador del Premio Goya, y de un Max por su mítica interpretación de ‘Urtain’, Álamo estrena ‘Días de agosto’, un thriller emocional con intrigas, erotismo y secretos inconfesables",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رومئو آلامو با فیلم «روزهای اوت» به سینماها بازمی‌گردد",
+      "lead_fa": "آلمو، برنده دو جایزه گویا، فیلم جدید خود را اکران می‌کند. این اثر یک تریلر احساسی با درون‌مایه‌های رازآلود و اروتیک است.",
+      "key_points_fa": [
+        "روبرتو آلامو برنده دو جایزه گویا و یک جایزه مکس است.",
+        "فیلم جدید او با نام «روزهای اوت» اکران شد.",
+        "این اثر در ژانر تریلر احساسی با رازهای مگو ساخته شده است."
+      ],
+      "analysis_fa": "اکران این فیلم توسط یکی از بازیگران شناخته‌شده تئاتر و سینمای اسپانیا، توجه منتقدان را به آثار درام و رازآلود جلب کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سینمای_اسپانیا",
+        "#روبرتو_آلامو",
+        "#فرهنگ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2048,16 +2060,22 @@
       "published_at": "2026-08-16T06:00:00+02:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "El río roto de Marruecos",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رودخانه شکسته مراکش؛ بحران آب و چالش‌های زیست‌محیطی",
+      "lead_fa": "مراکش با بحران شدید کم‌آبی و تخریب منابع آبی مواجه است. این وضعیت چالش‌های جدی برای کشاورزی و زندگی محلی ایجاد کرده است.",
+      "key_points_fa": [
+        "خشکسالی‌های پی‌درپی ذخایر آبی مراکش را به شدت کاهش داده است.",
+        "بخش کشاورزی این کشور بیشترین آسیب را از کمبود آب متحمل شده است.",
+        "مقام‌های محلی به دنبال راهکارهایی برای مدیریت بهینه منابع آب هستند."
+      ],
+      "analysis_fa": "بحران آب در مراکش نشان‌دهنده چالش‌های عمیق تغییرات اقلیمی در منطقه شمال آفریقا است که نیازمند مدیریت جامع منابع و همکاری‌های منطقه‌ای برای جلوگیری از بحران‌های انسانی و اقتصادی آینده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مراکش",
+        "#بحران_آب",
+        "#محیط_زیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
