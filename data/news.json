@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T03:10:09.172652+00:00",
+  "generated_at": "2026-08-16T03:58:06.353208+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "ec7e9d2cff5a",
     "c713aaeb7565",
+    "98c9ee219950",
     "bde557e93a1a",
-    "5c578267fa51",
     "48ea46f5e72a"
   ],
   "items": [
@@ -68,6 +68,35 @@
       "editorial_version": 2
     },
     {
+      "id": "98c9ee219950",
+      "source": "EL PAÍS Economía",
+      "title": "Almaraz, una moratoria prudente en plena crisis energética",
+      "summary": "La incertidumbre en los precios de la luz no invita a hacer mudanzas",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-16/almaraz-una-moratoria-prudente-en-plena-crisis-energetica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TT6A5ZXCWFOLBB4HBSWAHHBGDM.jpg?auth=5722e0f3d9075be5eff80d8cdb8214987df4e527cb3002b74fbb07b680c4e801",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "الماراز؛ تعلیق احتیاطی در اوج بحران انرژی",
+      "lead_fa": "ابهام در قیمت‌های برق در اسپانیا باعث اتخاذ رویکردی محتاطانه شده است. این وضعیت تصمیم‌گیری درباره آینده نیروگاه‌های هسته‌ای را تحت تاثیر قرار داده است.",
+      "key_points_fa": [
+        "عدم قطعیت در بازار انرژی و قیمت برق",
+        "رویکرد احتیاطی در خصوص فعالیت نیروگاه الماراز",
+        "چالش‌های اقتصادی پیش روی سیاست‌گذاران انرژی"
+      ],
+      "analysis_fa": "بحران انرژی و نوسانات قیمت برق در اسپانیا نشان‌دهنده شکنندگی بازار و دشواری در برنامه‌ریزی بلندمدت برای زیرساخت‌های حیاتی مانند انرژی هسته‌ای است. تداوم این شرایط می‌تواند بر هزینه‌های خانوارهای اسپانیایی و صنایع موثر باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#بحران_انرژی",
+        "#اقتصاد",
+        "#برق"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "bde557e93a1a",
       "source": "EL PAÍS España",
       "title": "Las ONG en Ceuta detectan niños de muy corta edad y más mujeres que en otros cruces masivos de la frontera",
@@ -92,35 +121,6 @@
         "#مهاجرت",
         "#اسپانیا",
         "#کودکان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5c578267fa51",
-      "source": "EL PAÍS Economía",
-      "title": "La escalada de los precios energéticos amenaza con mantenerse tras el fin del escudo anticrisis",
-      "summary": "Los carburantes rozan máximos en España desde el inicio de la guerra en Irán y los expertos creen que la situación se extenderá más allá de septiembre, cuando concluyen las actuales ayudas",
-      "url": "https://elpais.com/economia/2026-08-14/la-escalada-de-los-precios-energeticos-amenaza-con-mantenerse-tras-el-fin-del-escudo-anticrisis.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PFNLI7M62VPD5FPTBUYPYSUSDA.jpg?auth=38ee189da47af05925a171261c209edf28e29b3c8c6984a40340ccada5078603",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "تهدید تداوم افزایش قیمت انرژی در اسپانیا پس از پایان بسته حمایتی",
-      "lead_fa": "قیمت سوخت در اسپانیا به بالاترین حد خود از زمان آغاز جنگ در ایران رسیده است. کارشناسان معتقدند این وضعیت پس از پایان یارانه‌های دولتی در ماه سپتمبر نیز ادامه خواهد یافت.",
-      "key_points_fa": [
-        "نزدیک شدن قیمت سوخت در اسپانیا به اوج‌های بی‌سابقه از زمان آغاز جنگ در ایران",
-        "پایان یافتن بسته حمایتی و یارانه‌های دولتی علیه بحران در ماه سپتمبر",
-        "پیش‌بینی کارشناسان مبنی بر تداوم گرانی انرژی فراتر از زمان پایان کمک‌ها"
-      ],
-      "analysis_fa": "پایان یافتن تدابیر حمایتی دولت در بحران انرژی، فشارهای تورمی را بر اقتصاد اسپانیا افزایش داده و چالش‌های جدیدی را برای خانوارهای این کشور رقم زده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#انرژی",
-        "#تورم"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -439,32 +439,170 @@
       "editorial_version": 2
     },
     {
-      "id": "831cde245e7d",
+      "id": "90dbb57a076c",
       "source": "EL PAÍS Economía",
-      "title": "¿Por qué se ha encarecido más el diésel que la gasolina?",
-      "summary": "El gasóleo escala más del doble según los últimos datos del IPC. Los expertos apuntan a los exitosos ataques de Ucrania contra las refinerías rusas y a una mayor demanda",
-      "url": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RKYYJDCB3NFT7ENBM6WGXE6UPI.jpg?auth=eaa3e2f68f4cbcd10eb101c16d9f8f933a1b9303da751ac25111545db0e83e2c",
-      "published_at": "2026-08-14T03:30:01+00:00",
+      "title": "Cuando el microcrédito acaba asfixiando la economía familiar: “No podía pagar ni un café”",
+      "summary": "El año pasado se firmaron 3,8 millones de estos préstamos, un 46% más que en 2024, una solución que los expertos consideran que no es útil para resolver los problemas de endeudamiento",
+      "url": "https://elpais.com/economia/2026-08-16/cuando-el-microcredito-acaba-asfixiando-la-economia-familiar-no-podia-pagar-ni-un-cafe.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QB33FHSSNFEFNB22CM2CEYTL5Y.jpg?auth=273701b14af5a3799ab56ce229ecc09f429c12454f108196dd2e398a8cd161e6",
+      "published_at": "2026-08-16T03:45:01+00:00",
       "category": "economia",
-      "priority": 77,
-      "title_fa": "دلیل افزایش بیشتر قیمت گازوئیل نسبت به بنزین در اسپانیا",
-      "lead_fa": "آمارهای جدید شاخص قیمت مصرف‌کننده نشان می‌دهد که بهای گازوئیل بیش از دو برابر بنزین افزایش یافته است. کارشناسان حملات موفق اوکراین به پالایشگاه‌های روسیه و افزایش تقاضا را از دلایل اصلی این وضعیت می‌دانند.",
+      "priority": 75,
+      "title_fa": "بحران وام‌های خرد در اسپانیا و فشار بر اقتصاد خانواده‌ها",
+      "lead_fa": "امضای وام‌های خرد در اسپانیا افزایش چشمگیری داشته است. کارشناسان بر این باورند که این ابزار کمکی به حل مشکلات بدهی نمی‌کند.",
       "key_points_fa": [
-        "افزایش بهای گازوئیل به بیش از دو برابر نرخ بنزین بر اساس آخرین داده‌های شاخص قیمت مصرف‌کننده.",
-        "حملات موفق اوکراین به پالایشگاه‌های روسیه به عنوان یکی از عوامل گرانی.",
-        "رشد تقاضا در بازار انرژی به عنوان دلیل دیگر افزایش قیمت."
+        "سال گذشته ۳.۸ میلیون قرارداد وام خرد در اسپانیا امضا شد.",
+        "این رقم نشان‌دهنده افزایش ۴۶ درصدی نسبت به سال قبل از آن است.",
+        "متخصصان مالی هشدار می‌دهند که این وام‌ها باعث خفگی اقتصادی خانواده‌ها می‌شود."
       ],
-      "analysis_fa": "رشد نامتوازن قیمت سوخت‌ها نشان‌دهنده حساسیت بالای بازار گازوئیل به تحولات ژئوپلیتیک و ظرفیت پالایشگاهی است. حملات به زیرساخت‌های پالایشگاهی روسیه عرضه‌ جهانی را تحت تأثیر قرار داده و به افزایش قیمت این فرآورده منجر شده است.",
+      "analysis_fa": "رشد سریع استفاده از وام‌های خرد در اسپانیا نشان‌دهنده دشواری‌های معیشتی و افزایش نیاز اقشار مختلف به نقدینگی سریع است. در حالی که تقاضا برای این تسهیلات بالا رفته، نهادهای نظارتی و کارشناسان نسبت به خطرات انباشت بدهی و ناتوانی در بازپرداخت هشدار می‌دهند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#گازوئیل",
         "#اسپانیا",
         "#اقتصاد",
-        "#انرژی"
+        "#وام"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "940a04cb1438",
+      "source": "EL PAÍS Economía",
+      "title": "El mercado de coches chino cae y sus marcas se lanzan a exportar",
+      "summary": "Las matriculaciones en el gigante asiático cayeron un 21% en el primer semestre. Firmas como Xiaomi apuntan a aterrizar en el Viejo Continente y las ya presentes aumentan cuota",
+      "url": "https://elpais.com/economia/2026-08-16/el-mercado-de-coches-chino-cae-y-sus-marcas-se-lanzan-a-exportar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E7V2JFCPPREABEOKSKNGYYEX7U.jpg?auth=ab8693e50ed5e469dacbe5fc8baec13a69c9a9dc0b3e4a587cbc27a6d8702adb",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "کاهش فروش خودرو در چین و تلاش برندها برای صادرات به اروپا",
+      "lead_fa": "ثبت‌نام خودرو در بازار چین در نیمه نخست سال با افت ۲۱ درصدی روبه‌رو شد. شرکت‌های چینی به دنبال ورود به بازار اروپا و افزایش سهم خود هستند.",
+      "key_points_fa": [
+        "افت ۲۱ درصدی ثبت‌نام خودرو در بازار چین طی نیمه نخست سال.",
+        "برنامه‌ریزی شرکت‌هایی مانند شیائومی برای ورود به بازار اروپا.",
+        "افزایش سهم برندهای چینی حاضر در بازارهای اروپایی."
+      ],
+      "analysis_fa": "کاهش تقاضا در بازار داخلی چین، خودروسازان این کشور را ناگزیر به جستجوی بازارهای جدید کرده است. این روند می‌تواند رقابت در بازار خودروی اروپا را تشدید کند، اما موفقیت نهایی به استراتژی‌های قیمتی و استانداردهای کیفی این برندها بستگی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#خودرو",
+        "#چین",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2ea09c18f8c1",
+      "source": "EL PAÍS Economía",
+      "title": "Los vecinos de Almaraz, sobre alargar la vida de la central nuclear: “No será la última, lucharemos por más”",
+      "summary": "La planta genera unos 4.000 empleos directos e indicrectos, según el comité de empresa, entre este pueblo de 1.594 habitantes y sus alrededores",
+      "url": "https://elpais.com/economia/2026-08-16/los-vecinos-de-almaraz-sobre-alargar-la-vida-de-la-central-nuclear-no-sera-la-ultima-lucharemos-por-mas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FVWHUGVWONCYLCMANDCNYYFM7Y.jpg?auth=007dab000f656a083b5cbf7e166a44f2afd46d890186f35991e599ee637f3500",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Los vecinos de Almaraz, sobre alargar la vida de la central nuclear: “No será la última, lucharemos por más”",
+      "lead_fa": "La planta genera unos 4.000 empleos directos e indicrectos, según el comité de empresa, entre este pueblo de 1.594 habitantes y sus alrededores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "79811b4e93d6",
+      "source": "EL PAÍS Economía",
+      "title": "Las claves: los bajistas ven su momento mientras el mercado sigue buscando joyas ocultas",
+      "summary": "Tras meses de subidas, algunos analistas pronostican correcciones en el parqué",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-16/las-claves-los-bajistas-ven-su-momento-mientras-el-mercado-sigue-buscando-joyas-ocultas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GF4PJW3DVBOJVD5AZ26L5NERF4.jpg?auth=298780e31bd45654be2e217de73fb67a78f1983833b58568a7f168f6d165d4ac",
+      "published_at": "2026-08-16T03:40:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Las claves: los bajistas ven su momento mientras el mercado sigue buscando joyas ocultas",
+      "lead_fa": "Tras meses de subidas, algunos analistas pronostican correcciones en el parqué",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4580540b77ed",
+      "source": "EL PAÍS Economía",
+      "title": "Donald Tang (Shein), el rostro amable de un gigante textil en el punto de mira",
+      "summary": "El empresario prevé dejar su cargo antes de la inminente salida a Bolsa de la empresa",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-16/donald-tang-el-rostro-amable-de-un-gigante-textil-en-el-punto-de-mira.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZFFEU3HDE5G73OYFRDEOLALTLM.jpg?auth=b4adcc22aabe4a53368a4cd58f64e41e73324592d9069ea63667033af7c67032",
+      "published_at": "2026-08-16T03:40:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Donald Tang (Shein), el rostro amable de un gigante textil en el punto de mira",
+      "lead_fa": "El empresario prevé dejar su cargo antes de la inminente salida a Bolsa de la empresa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "60c9e0cf352f",
+      "source": "EL PAÍS España",
+      "title": "La frontera de Ceuta como muro de Berlín invertido",
+      "summary": "Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores",
+      "url": "https://elpais.com/opinion/2026-08-16/la-frontera-de-ceuta-como-muro-de-berlin-invertido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LEJE2GB4KVJOZK4CMZAUCT336E.jpg?auth=fe042ab73bc1b27bafb15a0a10e398519cc8acfec4bebee455c416681c2fb9fd",
+      "published_at": "2026-08-16T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "La frontera de Ceuta como muro de Berlín invertido",
+      "lead_fa": "Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8e06893f5093",
+      "source": "EL PAÍS Economía",
+      "title": "El precio de los medicamentos y la paradoja de la transparencia",
+      "summary": "La divulgación de los datos puede elevar mucho el importe a pagar por los fármacos, retrasar o impedir que se comercialicen en nuestro país y dejar a los pacientes sin los tratamientos que necesitan",
+      "url": "https://elpais.com/economia/negocios/2026-08-16/el-precio-de-los-medicamentos-y-la-paradoja-de-la-transparencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EOXT652MK5GJVMQU7GLJ6VKB44.jpg?auth=67857d1b5daad245e72076828b48c0cbc62b6cf385bbafb426d5b86caf3bf31a",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El precio de los medicamentos y la paradoja de la transparencia",
+      "lead_fa": "La divulgación de los datos puede elevar mucho el importe a pagar por los fármacos, retrasar o impedir que se comercialicen en nuestro país y dejar a los pacientes sin los tratamientos que necesitan",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -669,63 +807,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1bfdf9d77f8a",
-      "source": "EL PAÍS Economía",
-      "title": "El algoritmo de compras de Anthropic optimiza los márgenes",
-      "summary": "La empresa detrás de Claude negocia pagar 5.100 millones por Decart, una operación modesta frente a las de sus rivales",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-15/el-algoritmo-de-compras-de-anthropic-optimiza-los-margenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TTBULQKJFNF2PC7IANFQBDUQFU.jpg?auth=fcf7fed5211aee10f01ed3394a13175cd1f8a634f8ef5489ab0bce652ea71696",
-      "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "الگوریتم خرید آنتروپیک و بهینه‌سازی حاشیه سود",
-      "lead_fa": "شرکت آنتروپیک سازنده هوش مصنوعی کلود مذاکراتی را برای خرید شرکت دکارت آغاز کرده است. ارزش این معامله ۵ میلیارد و ۱۰۰ میلیون یورو برآورد شده است.",
-      "key_points_fa": [
-        "آنتروپیک در حال مذاکره برای خرید شرکت دکارت است.",
-        "ارزش این معامله ۵.۱ میلیارد دلار اعلام شده است.",
-        "این رقم در مقایسه با خریدهای رقیبان رقم کوچکتری محسوب می‌شود."
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش شرکت‌های پیشرو در حوزه هوش مصنوعی برای توسعه زیرساخت‌ها و فناوری‌های پایه از طریق ادغام و تملک است. با وجود ابعاد کوچک‌تر این قرارداد در مقایسه با غول‌های فناوری، راهبردهای خرید می‌تواند جایگاه رقابتی شرکت را تقویت کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آنتروپیک",
-        "#هوش_مصنوعی",
-        "#اقتصاد_فناوری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "33779fa81093",
-      "source": "EL PAÍS Economía",
-      "title": "Francia encara en año electoral su ajuste de cuentas con la deuda",
-      "summary": "La economía gala se financia más caro que ninguna otra gran economía del euro y su déficit ha empezado a dispararse",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-15/francia-encara-en-ano-electoral-su-ajuste-de-cuentas-con-la-deuda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EH35PM3UYBI4PLQ5D2SELA5SNQ.jpg?auth=df2315e3d5a4b878b5ad96a8240d008225a1ae0f1732bc46717d4b363f821cf2",
-      "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "چالش فرانسه با بدهی‌های کلان در آستانه سال انتخاباتی",
-      "lead_fa": "اقتصاد فرانسه با هزینه‌های سنگین تامین مالی و جهش کسری بودجه مواجه است. این وضعیت به یکی از چالش‌های اصلی سیاسی در آستانه سال انتخاباتی تبدیل شده است.",
-      "key_points_fa": [
-        "هزینه تامین مالی اقتصاد فرانسه بالاتر از سایر اقتصادهای بزرگ منطقه یورو است.",
-        "کسری بودجه این کشور روند صعودی نگران‌کننده‌ای به خود گرفته است.",
-        "این معضل اقتصادی با تحولات سیاسی و سال انتخاباتی فرانسه تلاقی کرده است."
-      ],
-      "analysis_fa": "رشد بدهی و افزایش کسری بودجه فرانسه فشار مضاعفی بر دولت این کشور وارد می‌کند. در شرایطی که هزینه‌های استقراض افزایش یافته، مدیریت این بحران اقتصادی در سال انتخابات می‌تواند معادلات سیاسی پاریس را تحت تاثیر جدی قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فرانسه",
-        "#اقتصاد",
-        "#بدهی",
-        "#اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9b5d7c266d15",
       "source": "EL PAÍS Economía",
       "title": "Objetivo: salvar un pueblo portuario neerlandés",
@@ -749,91 +830,6 @@
         "#هلند",
         "#انرژی_پاک",
         "#موردایک"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9ebd2556f806",
-      "source": "EL PAÍS Economía",
-      "title": "Uno de cada cuatro trabajadores de Baleares es extranjero, frente a solo el 6% en Extremadura",
-      "summary": "Ambas comunidades se sitúan en los extremos por presencia de los afiliados foráneos en la Seguridad Social. Por sectores, el de empleadas domésticas y la hostelería son los que atraen más mano de obra de fuera",
-      "url": "https://elpais.com/economia/2026-08-14/uno-de-cada-cuatro-trabajadores-de-baleares-son-extranjeros-frente-a-solo-el-6-en-extremadura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HHDDZBXTBNFLJAG7ADN2Y42ZTU.jpg?auth=4e410afecd9d8c51f07c74e802f2b529505d006ab32fe6ce9ef7a728633a338a",
-      "published_at": "2026-08-14T18:07:24+00:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "یک چهارم شاغلان جزایر بالئار خارجی هستند",
-      "lead_fa": "آمار جدید تأمین اجتماعی اسپانیا نشان می‌دهد که جوامع خودمختار از نظر حضور نیروی کار خارجی در دو قطب متضاد قرار دارند. بیشترین تقاضا برای جذب نیروی کار خارجی در بخش‌های خدمات هتلداری و خدمات خانگی ثبت شده است.",
-      "key_points_fa": [
-        "یک از هر چهار کارگر در جزایر بالئار از اتباع خارجی است.",
-        "در استان اکسترمادورا سهم شاغلان خارجی تنها به ۶ درصد می‌رسد.",
-        "بخش‌های هتلداری و خدمات خانگی بیشترین جذب نیروی کار خارجی را دارند."
-      ],
-      "analysis_fa": "تفاوت چشمگیر میان مناطق مختلف اسپانیا در جذب نیروی کار خارجی، گویای وابستگی شدید اقتصادهای گردشگری مانند بالئار به نیروی کار بین‌المللی است، در حالی که مناطق صنعتی‌تر یا کشاورزی سنتی‌تر الگوهای متفاوتی دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجران",
-        "#بازارکار",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "efe929e9d530",
-      "source": "EL PAÍS Economía",
-      "title": "La economía de la zona euro creció un 0,4% en el segundo trimestre pese a la debilidad alemana",
-      "summary": "El empleo en la UE apenas aumentó un 0,1% entre abril y junio",
-      "url": "https://elpais.com/economia/2026-08-14/la-economia-de-la-zona-euro-crecio-un-04-en-el-segundo-trimestre-pese-a-la-debilidad-alemana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I52EVMWP5BIQPJJVHDJNFJLKG4.jpg?auth=bd3dcf5d17bd132685282e6e6f833b4de12dabfa2482d24523dbfeb4c5ccf85a",
-      "published_at": "2026-08-14T11:10:59+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "رشد اقتصادی منطقه یورو در سه ماهه دوم علیرغم ضعف آلمان",
-      "lead_fa": "اقتصاد منطقه یورو در سه ماهه دوم سال جاری رشد ۰.۴ درصدی را ثبت کرد. این در حالی است که اشتغال در اتحادیه اروپا بین ماه‌های آوریل و ژوئن تنها ۰.۱ درصد افزایش یافت.",
-      "key_points_fa": [
-        "رشد ۰.۴ درصدی اقتصاد منطقه یورو در سه ماهه دوم",
-        "ادامه ضعف اقتصادی در آلمان",
-        "افزایش ناچیز معادل ۰.۱ درصد در آمار اشتغال اتحادیه اروپا"
-      ],
-      "analysis_fa": "آمار جدید نشان می‌دهد که اقتصاد منطقه یورو توانسته است علیرغم چالش‌ها و ضعف‌های ساختاری در اقتصاد آلمان، رشد مثبتی را تجربه کند. با این حال، کندی روند رشد اشتغال بیانگر تداوم احتیاط در بخش کسب‌وکار و بازار کار اروپا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد",
-        "#یورو",
-        "#اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "95eb0341f1e0",
-      "source": "EL PAÍS Economía",
-      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
-      "summary": "El PP aplaude la medida mientras los ecologistas exigen mantener su cierre",
-      "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204714_161231_video_1800.mp4",
-      "published_at": "2026-08-14T09:39:41+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "مخالفت سومار با تمدید فعالیت نیروگاه آلماراز",
-      "lead_fa": "حزب سومار تمدید فعالیت نیروگاه هسته‌ای آلماراز را رد کرد و شریک دولتی خود را به نقض توافقات متهم ساخت. این در حالی است که حزب مردمی از این اقدام حمایت کرده و فعالان محیط‌زیست بر لزوم تعطیلی آن تأکید دارند.",
-      "key_points_fa": [
-        "حزب سومار با تمدید فعالیت نیروگاه آلماراز مخالفت کرد.",
-        "حزب مردمی (PP) از این تصمیم حمایت کرد.",
-        "فعالان محیط‌زیست خواستار پایبندی به برنامه تعطیلی نیروگاه هستند."
-      ],
-      "analysis_fa": "این اختلاف‌نظر نشان‌دهنده چالش‌های درون‌دولتی در اسپانیا بر سر سیاست‌های انرژی و زیست‌محیطی است، جایی که احزاب چپ‌گرا و مدافع محیط‌زیست با رویکردهای محافظه‌کارانه درباره آینده انرژی هسته‌ای تقابل دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1007,6 +1003,116 @@
         "#رمزارز"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "7f7ea14d214a",
+      "source": "EL PAÍS Economía",
+      "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
+      "summary": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
+      "url": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K4Z7RFHMANMYNISPXDBE3ZFYQA.jpg?auth=0016a46cb777f340d509b94d51e0cc91c2c48cd25bddaa1710045f2df4270674",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Bruselas se pertrecha ante una posible batalla comercial con China",
+      "lead_fa": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c3b6c38a7e37",
+      "source": "EL PAÍS España",
+      "title": "El diablo del yo y las 80 tumbas sin nombre",
+      "summary": "El ego es ya el guionista de nuestras vidas, pero hay cosas más importantes que solucionar",
+      "url": "https://elpais.com/opinion/2026-08-16/el-diablo-del-yo-y-las-80-tumbas-sin-nombre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4",
+      "published_at": "2026-08-16T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El diablo del yo y las 80 tumbas sin nombre",
+      "lead_fa": "El ego es ya el guionista de nuestras vidas, pero hay cosas más importantes que solucionar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b2df21c5c4c5",
+      "source": "EL PAÍS Economía",
+      "title": "La transición energética depende de la red eléctrica",
+      "summary": "Hay que poner el foco de forma decidida en la mejora de la capacidad de transmisión y de almacenamiento",
+      "url": "https://elpais.com/economia/negocios/2026-08-16/la-transicion-energetica-depende-de-la-red-electrica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OXMGFVN2UFEY3OONJRJLL2YXS4.jpg?auth=f330f25ef22da4f14785a0c6bd6daed3aebcee366aa2344dd5840b4fc262c343",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La transición energética depende de la red eléctrica",
+      "lead_fa": "Hay que poner el foco de forma decidida en la mejora de la capacidad de transmisión y de almacenamiento",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7c3b09f4a4c9",
+      "source": "EL PAÍS Economía",
+      "title": "Un accidente en la montaña rusa, cogidas en los encierros o quemados con los fuegos artificiales: cuando las fiestas de los pueblos no salen gratis",
+      "summary": "Desde percances pirotécnicos hasta cornadas en festejos taurinos: la falta de previsión puede conducir a elevadas indemnizaciones",
+      "url": "https://elpais.com/economia/negocios/2026-08-16/un-accidente-en-la-montana-rusa-cogidas-en-los-encierros-o-quemados-con-los-fuegos-artificiales-cuando-las-fiestas-de-los-pueblos-no-salen-gratis.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MVN7ZVY6TNAC5BRMFMSJUQNLCM.jpg?auth=73a6d2966cb5f44177a7fa64b7bd56c19d37493524f9385b7e4f4a73482fabaf",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un accidente en la montaña rusa, cogidas en los encierros o quemados con los fuegos artificiales: cuando las fiestas de los pueblos no salen gratis",
+      "lead_fa": "Desde percances pirotécnicos hasta cornadas en festejos taurinos: la falta de previsión puede conducir a elevadas indemnizaciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9c924e8e8949",
+      "source": "EL PAÍS Economía",
+      "title": "Los niños ya no vienen con un pan debajo del brazo o cuando la maternidad sigue penalizando a las mujeres",
+      "summary": "La desigualdad de género frustra el deseo de muchas madres de tener más hijos. Ven cómo sus carreras y salarios se quedan atrás respecto a los hombres",
+      "url": "https://elpais.com/economia/negocios/2026-08-16/los-ninos-ya-no-vienen-con-un-pan-debajo-del-brazo-o-por-que-la-maternidad-sigue-penalizando-a-las-mujeres.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PXVB3HPHJ5H5ZETBOCIWMJT6QE.JPG?auth=ed8ab58218034bf1fed213fdcdf7e4f8de03bff5c309fc9d510c97df38eeea87",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los niños ya no vienen con un pan debajo del brazo o cuando la maternidad sigue penalizando a las mujeres",
+      "lead_fa": "La desigualdad de género frustra el deseo de muchas madres de tener más hijos. Ven cómo sus carreras y salarios se quedan atrás respecto a los hombres",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1919,91 +2025,6 @@
       "editorial_version": 2
     },
     {
-      "id": "65198894438b",
-      "source": "EL PAÍS Economía",
-      "title": "Las alianzas universitarias, el nuevo activo estratégico de Europa",
-      "summary": "Las universidades integradas en estas redes están cofinanciando el déficit con sus presupuestos y lo asumen como una inversión estratégica",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-15/las-alianzas-universitarias-el-nuevo-activo-estrategico-de-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6YMSMTQG4NFV7DHLRFIVIA52YM.JPG?auth=458a5bdcd53464d3d1eb03c85f03734ea257998828e41f15a8491b7f67997b81",
-      "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "economia",
-      "priority": 66,
-      "title_fa": "اتحادهای دانشگاهی؛ دارایی راهبردی جدید اروپا",
-      "lead_fa": "دانشگاه‌های اروپایی عضو شبکه‌های مشترک، کسری بودجه خود را با بودجه داخلی تأمین می‌کنند. آن‌ها این اقدام را یک سرمایه‌گذاری راهبردی بلندمدت می‌دانند.",
-      "key_points_fa": [
-        "مشارکت دانشگاه‌های integrated در شبکه‌های دانشگاهی اروپا",
-        "تأمین کسری بودجه از طریق بودجه‌های داخلی دانشگاه‌ها",
-        "نگاه مدیریتی دانشگاه‌ها به کسری بودجه به عنوان سرمایه‌گذاری راهبردی"
-      ],
-      "analysis_fa": "گسترش اتحادهای دانشگاهی در اروپا نشان‌دهنده تغییر الگو در آموزش عالی است که در آن موسسات آموزشی هزینه‌های مالی را برای تقویت جایگاه راهبردی خود در سطح قاره می‌پذیرند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دانشگاه_های_اروپا",
-        "#آموزش_عالی",
-        "#اقتصاد_آموزش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7045ae913d9f",
-      "source": "EL PAÍS Economía",
-      "title": "La medida de lo suficiente",
-      "summary": "Por qué la satisfacción del inversor depende menos de lo que gana que de lo que esperaba ganar",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-15/la-medida-de-lo-suficiente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R6QUQMTXIZEIXN67K735CKFCAY.jpg?auth=fe725923e072c6b50fb67bcc7676bca02dff67b2f77b5d3262dc6dbe2ea3458e",
-      "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "economia",
-      "priority": 66,
-      "title_fa": "چرا رضایت سرمایه‌گذار به انتظاراتش بستگی دارد",
-      "lead_fa": "رضایت سرمایه‌گذاران بیش از میزان سود واقعی، به انتظارات اولیه آن‌ها وابسته است. این پدیده نشان‌دهنده نقش انتظارات در بازار مالی است.",
-      "key_points_fa": [
-        "رضایت سرمایه‌گذار ارتباط مستقیمی با سود به‌دست‌آمده ندارد.",
-        "توقع سود بیشتر می‌تواند میزان رضایت را حتی با وجود سودآوری کاهش دهد.",
-        "مدیریت انتظارات نقش کلیدی در ارزیابی موفقیت اقتصادی دارد."
-      ],
-      "analysis_fa": "بررسی روانشناسی بازار و رفتار سرمایه‌گذاران نشان می‌دهد که احساس موفقیت مالی یک مفهوم نسبی است. این پدیده توضیح می‌دهد که چرا گاهی سودهای بالا نیز به دلیل انتظارات غیرمنطقی باعث نارضایتی می‌شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد",
-        "#سرمایه_گذاری",
-        "#بازار_مالی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c849ae6240a2",
-      "source": "EL PAÍS Economía",
-      "title": "La nueva oportunidad industrial de España está en el Caribe",
-      "summary": "República Dominicana ha declarado los semiconductores prioridad nacional y quiere entrar en la cadena global",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-15/la-nueva-oportunidad-industrial-de-espana-esta-en-el-caribe.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MZG62ASEAVO2DGCGLLZJZWX6RQ.jpg?auth=62af380459b4d7ceaa941152a566b3fb37f2b2ce3b02f888a1576233ac939f7c",
-      "published_at": "2026-08-15T03:40:00+00:00",
-      "category": "economia",
-      "priority": 66,
-      "title_fa": "فرصت صنعتی جدید اسپانیا در حوزه نیمه‌هادی‌ها در کارائیب",
-      "lead_fa": "جمهوری دومینیکن تولید نیمه‌هادی‌ها را به عنوان اولویت ملی اعلام کرد. این کشور قصد دارد وارد زنجیره تأمین جهانی این صنعت شود.",
-      "key_points_fa": [
-        "جمهوری دومینیکن تولید نیمه‌هادی‌ها را در اولویت ملی قرار داد.",
-        "هدف این کشور ورود به زنجیره جهانی تأمین تراشه است.",
-        "این اقدام می‌تواند بستر تازه‌ای برای همکاری‌های صنعتی فراهم کند."
-      ],
-      "analysis_fa": "تلاش کشورهای آمریکای لاتین برای ورود به صنعت نیمه‌هادی‌ها نشان‌دهنده تلاش جهانی برای تنوع‌بخشی به زنجیره‌های تأمین است. در این میان، شرکت‌ها و صنایع اسپانیایی می‌توانند نقش فعالی در این توسعه ایفا کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#نیمه‌هادی",
-        "#اقتصاد",
-        "#کارائیب"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e4040241a45d",
       "source": "EL PAÍS",
       "title": "Reyerta cayetana en Marbella",
@@ -2718,7 +2739,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/M2UI2SKZ35D5FBSXQPEFISCPOM.jpg?auth=6cae415cb911e2ce78903dfacda0456e145a7ba4d7b792efbac1bee17743c1df",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 55,
+      "priority": 54,
       "title_fa": "El ‘momento Aranzadi’ de Vox",
       "lead_fa": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
       "key_points_fa": [],
@@ -2740,75 +2761,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BGKZKEHGVBEZBPQB6HAZVYY4UQ.jpg?auth=3bb79ad64e35e74750f1fee31ccacfd275b2969239b62a22461142204e6629f2",
       "published_at": "2026-08-14T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 55,
+      "priority": 54,
       "title_fa": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
       "lead_fa": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5a667d7cfd33",
-      "source": "EL PAÍS España",
-      "title": "Las palabras de Albares activan el temor a la devolución entre los migrantes llegados a nado a Ceuta",
-      "summary": "La confirmación de la cooperación con Marruecos dispara la preocupación entre quienes llevan dos semanas esperando en condiciones precarias una oportunidad para quedarse en España",
-      "url": "https://elpais.com/espana/2026-08-14/las-palabras-de-albares-activan-el-temor-a-la-devolucion-entre-los-migrantes-llegados-a-nado-a-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203692_144124_video_1800.mp4",
-      "published_at": "2026-08-14T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Las palabras de Albares activan el temor a la devolución entre los migrantes llegados a nado a Ceuta",
-      "lead_fa": "La confirmación de la cooperación con Marruecos dispara la preocupación entre quienes llevan dos semanas esperando en condiciones precarias una oportunidad para quedarse en España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7fab5b2429f5",
-      "source": "EL PAÍS Economía",
-      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "summary": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4VPDTHZANA4DIAEM3Y4EV7OQA.jpg?auth=b4117055e7f20066e2712e50e3fcf75e0fb3b05740208f7d52d749023147d268",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "lead_fa": "La Audiencia Nacional suspende la ejecución de dos multas impuestas por la Agencia Tributaria por este impuesto correspondientes a los ejercicios 2016, 2017 y 2018",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b4298a2ae0bd",
-      "source": "La Vanguardia",
-      "title": "Los últimos campistas de la autovía de Castelldefels",
-      "summary": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11612518/ultimos-campistas-autovia-castelldefels.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c32db393a4.jpeg",
-      "published_at": "2026-08-13T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 47,
-      "title_fa": "Los últimos campistas de la autovía de Castelldefels",
-      "lead_fa": "Hace unos años el litoral del Baix Llobregat estaba lleno de campings y ahora quedan dos, pero miles de personas siguen fieles al lugar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
