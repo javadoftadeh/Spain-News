@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-16T10:56:08.979944+00:00",
+  "generated_at": "2026-08-16T11:31:51.238957+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
     "0747fe360fd6",
+    "33dfb3c9f034",
     "b001a12eb237",
-    "23c9fb8d2883",
-    "98c9ee219950"
+    "23c9fb8d2883"
   ],
   "items": [
     {
       "id": "2e5fcd8465ad",
       "source": "La Vanguardia",
-      "title": "Las medidas en la crisis de vivienda: un laboratorio con resultado discutido en Catalunya",
+      "title": "Vivienda: el laboratorio Catalunya",
       "summary": "Una década después de la ley contra los desahucios, la comunidad suma una batería de normas que intentan resolver la emergencia habitacional",
       "url": "https://www.lavanguardia.com/economia/20260816/11614455/vivienda-laboratorio-catalunya.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a084197b5.r_d.4554-3646-0.jpeg",
@@ -64,6 +64,34 @@
         "#زلزله",
         "#سیاست_خارجی",
         "#مدیریت_بحران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "33dfb3c9f034",
+      "source": "La Vanguardia",
+      "title": "Estabilizado el incendio de Niebla: las 417 personas evacuadas pueden volver a casa",
+      "summary": "En consecuencia, los efectivos de la Unidad Militar de Emergencias (UME) comenzarán su repliegue este domingo",
+      "url": "https://www.lavanguardia.com/natural/20260816/11614728/estabilizado-incendio-niebla-417-personas-evacuadas-volver-casa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7ef4cd6064a.r_d.2213-1475-0.jpeg",
+      "published_at": "2026-08-16T11:45:32+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "مهار آتش‌سوزی نیبلا و بازگشت افراد تخلیه شده",
+      "lead_fa": "آسایشگاه و مناطق مسکونی نیبلا پس از مهار آتش‌سوزی امن اعلام شد. ۴۱۷ فرد تخلیه‌شده مجاز به بازگشت به خانه‌های خود شدند.",
+      "key_points_fa": [
+        "آتش‌سوزی منطقه نیبلا تثبیت و مهار شد.",
+        "۴۱۷ نفر که به دلیل خطر آتش‌سوزی تخلیه شده بودند، به خانه‌هایشان بازمی‌گردند.",
+        "واحد نظامی اضطراری (UME) از روز یکشنبه شروع به عقب‌نشینی خواهد کرد."
+      ],
+      "analysis_fa": "مهار این آتش‌سوزی با دخالت واحدهای نظامی اضطراری نشان‌دهنده سرعت عمل نهادهای امدادی اسپانیا در مهار بحران‌های طبیعی است. با پایداری شرایط، تمرکز مقامات به بازگرداندن وضعیت عادی به منطقه معطوف شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -154,42 +182,13 @@
       "editorial_version": 2
     },
     {
-      "id": "bde557e93a1a",
-      "source": "EL PAÍS España",
-      "title": "Las ONG en Ceuta detectan niños de muy corta edad y más mujeres que en otros cruces masivos de la frontera",
-      "summary": "Save the Children alerta de que puede haber unos 4.000 niños en la ciudad autonóma, cuya situación es de “desbordamiento”",
-      "url": "https://elpais.com/espana/2026-08-14/las-ong-en-ceuta-detectan-ninos-de-muy-corta-edad-y-mas-mujeres-que-en-otros-cruces-masivos-de-la-frontera.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204629_112708_video_1800.mp4",
-      "published_at": "2026-08-14T12:07:44+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "هشدار سازمان‌های حمایتی درباره حضور کودکان خردسال در سبتا",
-      "lead_fa": "سازمان‌های غیردولتی در سبتا از حضور کودکان بسیار خردسال و زنان بیشتر در مقایسه با سایر گذرگاه‌های مرزی خبر دادند. سازمان سیو د چلدرن نسبت به وضعیت بحرانی و حضور حدود ۴۰۰۰ کودک در این شهر خودمختار هشدار داد.",
-      "key_points_fa": [
-        "شناسایی کودکان بسیار خردسال و زنان بیشتر در گذرگاه‌های مرزی سبتا",
-        "هشدار سازمان سیو د چلدرن درباره وضعیت بحرانی شهر خودمختار سبتا",
-        "برآورد حضور حدود ۴۰۰۰ کودک در منطقه سبتا"
-      ],
-      "analysis_fa": "افزایش شمار کودکان خردسال و زنان در میان مهاجران ورودی به سبتا، چالش‌های امدادی و انسانی تازه‌ای را برای نهادهای محلی و سازمان‌های حقوق بشری ایجاد کرده است و فشار مضاعفی بر سیستم پذیرش این منطقه وارد می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سبتا",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#کودکان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "1cf5376e754b",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP exige la dimisión de la ministra de Sanidad por el colapso de las urgencias en Ceuta",
-      "summary": "Mónica García visita la ciudad autónoma | El Gobierno está “en contacto” con Marruecos para “buscar una solución” a la expulsión de periodistas de Castillejos",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos mantiene reforzado el despliegue de seguridad en la frontera de Castillejos con Ceuta",
+      "summary": "Varias asociaciones de periodistas condenan la decisión de Rabat de expulsar a Efe y RTVE de Castillejos | El PP exige la dimisión de la ministra de Sanidad por el colapso de las urgencias en Ceuta | Mónica García visita la ciudad autónoma",
       "url": "https://elpais.com/espana/2026-08-16/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/KAGT7LZT2ZBQTGXYMIHFV7DFJI.JPG?auth=f9fbeab7f1c8f69dcb25a2da0e52e1a2f6da0d325347133c7ef79c5a8177e242",
-      "published_at": "2026-08-16T10:30:18+00:00",
+      "published_at": "2026-08-16T11:28:26+00:00",
       "category": "migracion",
       "priority": 81,
       "title_fa": "تماس دولت اسپانیا با مراکش برای حل مسئله اخراج خبرنگاران",
@@ -212,31 +211,57 @@
       "editorial_version": 2
     },
     {
-      "id": "03e5be2da2fb",
+      "id": "5ce6403bcc67",
       "source": "EL PAÍS España",
-      "title": "Decenas de guardias civiles y militares desembarcan en Ceuta ante el 15-A: “La alerta está, pero no es una amenaza real”",
-      "summary": "Los vecinos de la ciudad autónoma muestran hastío, aunque no creen que este sábado se produzca una entrada extraordinaria por el refuerzo de Marruecos en la frontera",
-      "url": "https://elpais.com/espana/2026-08-15/decenas-de-guardias-civiles-y-militares-desembarcan-en-ceuta-ante-el-15-a-la-alerta-esta-pero-no-es-una-amenaza-real.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4",
-      "published_at": "2026-08-15T03:45:01+00:00",
-      "category": "migracion",
-      "priority": 79,
-      "title_fa": "استقرار نظامیان در سبته پیش از ۱۵ اوت؛ هشدار امنیتی بدون تهدید واقعی",
-      "lead_fa": "ده‌ها نیروی گارد مدنی و ارتش در آستانه ۱۵ اوت در شهر خودمختار سبته مستقر شدند. مقامات و ساکنان محلی تأکید کردند که با وجود این هشدارها، تهدید واقعی فوری وجود ندارد.",
+      "title": "El Senado, fuerza de choque institucional",
+      "summary": "La disputa por las explicaciones del Gobierno sobre la crisis de Ceuta, penúltimo episodio de tres años de continuos conflictos de la Cámara alta con el Ejecutivo y el Congreso",
+      "url": "https://elpais.com/espana/2026-08-16/el-senado-fuerza-de-choque-institucional.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HFXWCN65P5NNBLJLWUK2N24ZJI.jpg?auth=afc3676817888d9437ed7f7a53bd7a3944872b89c51727c762cfb31c63de86c6",
+      "published_at": "2026-08-16T03:45:01+00:00",
+      "category": "politica",
+      "priority": 80,
+      "title_fa": "سنای اسپانیا به عنوان بازوی تقابلی نهادی",
+      "lead_fa": "مجلس سنای اسپانیا به یکی از مراکز اصلی درگیری با دولت تبدیل شده است. این مناقشه بر سر توضیحات دولت درباره بحران سبته شکل گرفته است.",
       "key_points_fa": [
-        "استقرار نیروهای امنیتی و نظامی در سبته پیش از تاریخ ۱۵ اوت.",
-        "تقویت مرزها توسط مراکش برای جلوگیری از ورودهای غیرقانونی احتمالی.",
-        "ابراز خستگی ساکنان محلی از تنش‌های مداوم مرزی.",
-        "فقدان نشانه‌هایی از یک تهدید واقعی و قریب‌الوقوع به, اعتقاد اهالی."
+        "مناقشه بر سر نحوه ارائه توضیحات دولت درباره بحران سبته",
+        "تداوم سه سال درگیری مداوم میان سنا، دولت و کنگره",
+        "سنا به عنوان ابزاری برای اعمال فشار سیاسی بر قوه مجریه"
       ],
-      "analysis_fa": "افزایش حضور نیروهای امنیتی در سبته نشان‌دهنده تدابیر پیشگیرانه مقامات اسپانیایی و همکاری با مراکش برای مدیریت مرزهاست. این اقدامات معمولاً در نقاط حساس مرزی برای کنترل جریان مهاجرت و حفظ آرامش عمومی انجام می‌شود، بدون اینکه لزوماً به معنای وقوع بحران قریب‌الوقوع باشد.",
+      "analysis_fa": "تنش‌های میان سنا و دولت اسپانیا نشان‌دهنده اختلاف میان نهادهای قانون‌گذاری و اجرایی است. کنترل سنا توسط اپوزیسیون به آن اجازه می‌دهد تا دولت را به چالش بکشد و این وضعیت بخشی از پویایی سیاسی جاری در پارلمان است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
+        "#سنا",
         "#اسپانیا",
-        "#مرز"
+        "#دولت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "69dafa302c3b",
+      "source": "La Vanguardia",
+      "title": "Muere el conductor de un turismo en un accidente en Manresa",
+      "summary": "Con esta nueva víctima son ya 85 las personas que han muerto este año en accidentes de tráfico en las carreteras catalanas",
+      "url": "https://www.lavanguardia.com/local/bages/20260816/11614731/muere-conductor-turismo-accidente-manresa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/01/6905e97979b50.r_d.1000-666-0.jpeg",
+      "published_at": "2026-08-16T11:53:09+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "جان باختن راننده خودرو در تصادف مانرسا",
+      "lead_fa": "یک راننده خودروی سواری بر اثر تصادف در منطقه مانرسا جان خود را از دست داد. با این حادثه، شمار قربانیان جاده‌ای کاتالونیا در سال جاری به ۸۵ نفر رسید.",
+      "key_points_fa": [
+        "مرگ راننده خودرو در تصادف رانندگی در مانرسا",
+        "افزایش شمار قربانیان تصادفات کاتالونیا به ۸۵ نفر در سال جاری"
+      ],
+      "analysis_fa": "این حادثه بار دیگر مسئله ایمنی راه‌های منطقه‌ای و لزوم رعایت احتیاط بیشتر در جاده‌های کاتالونیا را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#حوادث",
+        "#اسپانیا",
+        "#کاتالونیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -244,7 +269,7 @@
     {
       "id": "fba7daba6201",
       "source": "La Vanguardia",
-      "title": "'Alerta' roja en el país de Trump: los demócratas moderados reivindican una tercera vía",
+      "title": "Los demócratas moderados reivindican una tercera vía frente al ascenso del socialismo en EE.UU.",
       "summary": "El principal lobby centrista del país impulsa una campaña para desacreditar a los Socialistas Democráticos de América y alertan de unas ideas “tan radicales que resultan completamente antiestadounidenses”",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614471/democratas-moderados-reivindican-tercera-frente-ascenso-socialismo-ee-uu.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/05/690b0c364e562.jpeg",
@@ -412,38 +437,10 @@
       "editorial_version": 2
     },
     {
-      "id": "edef38972e4a",
-      "source": "EL PAÍS España",
-      "title": "Detenido un hombre con antecedentes por provocar un incendio en León",
-      "summary": "El fuego arrasó 150 hectáreas y provocó que dos pueblos se evacuaran y dos se confinaran en julio",
-      "url": "https://elpais.com/espana/2026-08-14/detenido-un-hombre-con-antecedentes-por-provocar-un-incendio-en-leon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JRXTRXXA6FN6BMLMZEOZ6LIBTQ.jpg?auth=7196c71094cb4341db77c20c4d7e37e7d279c32c541aa2f7ae2a990fdf4883dd",
-      "published_at": "2026-08-14T14:47:45+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "بازداشت یک فرد سابقه دار به ارمغان آورنده آتش سوزی در لئون",
-      "lead_fa": "مردی با سابقه کیفری به اتهام ایجاد آتش سوزی در منطقه لئون بازداشت شد. این آتش سوزی در ماه ژوئیه ۱۵۰ هکتار از اراضی را از بین برد.",
-      "key_points_fa": [
-        "سوختن ۱۵۰ هکتار اراضی در آتش سوزی ماه ژوئیه",
-        "تخلیه اضطراری دو روستا و قرنطینه دو روستای دیگر",
-        "بازداشت مظنون با سابقه کیفری مرتبط با آتش سوزی"
-      ],
-      "analysis_fa": "آتش سوزی های جنگلی یکی از چالش های جدی محیط زیستی در اسپانیا است که معمولاً در فصل گرما خسارات قابل توجهی به بار می آورد. برخورد قضایی با عوامل انسانی این حوادث از اقدامات بازدارنده مقامات محلی محسوب می شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#لئون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f702b3823d00",
       "source": "La Vanguardia",
-      "title": "Un caza español en la misión de la OTAN derriba un dron que violaba el espacio aéreo rumano",
-      "summary": "El dron fue interceptado y destruido entre las localidades Baleni y Cudalbi, en el sureste del país, cerca de la frontera con Moldavia",
+      "title": "Dos cazas españoles derriban un dron que violaba el espacio aéreo rumano",
+      "summary": "La intercepción y posterior destrucción del dispositivo se produjo sobre una zona despoblada, entre las localidades de Baleni y Cudalbi, cerca de la frontera con Moldavia",
       "url": "https://www.lavanguardia.com/internacional/20260816/11614684/avion-combate-espanol-otan-derriba-dron-violaba-espacio-aereo-rumania.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/08/23/64e59033270ba.r_d.1235-736-0.jpeg",
       "published_at": "2026-08-16T08:20:29+02:00",
@@ -468,30 +465,29 @@
       "editorial_version": 2
     },
     {
-      "id": "f5081b4d1877",
+      "id": "b48e5889bab6",
       "source": "La Vanguardia",
-      "title": "Por qué 'El arte de la guerra' de Sun Tzu sigue guiando a ejércitos, empresas y líderes",
-      "summary": "Las máximas del enigmático estratega chino Sun Tzu, autor de El arte de la guerra, resurgen con fuerza en un mundo que parece haber olvidado que la mejor victoria es la que se consigue sin luchar",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-antigua/20260816/11597815/arte-guerra-sun-tzu-sigue-guiando-ejercitos-empresas-lideres-2-300-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f878cbe9eb.r_d.2303-1529-0.jpeg",
-      "published_at": "2026-08-16T06:30:00+02:00",
-      "category": "economia",
+      "title": "Instantánea de una presidencia",
+      "summary": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
+      "url": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a817a03e8a3c.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "politica",
       "priority": 75,
-      "title_fa": "استمرار کاربرد کتاب «هنر رزم» سان تزو در رهبری و مدیریت مدرن",
-      "lead_fa": "آموزه‌های استراتژیک سان تزو، نویسنده باستانی چینی، بار دیگر در دنیای امروز مورد توجه قرار گرفته است. این اصول در حوزه‌های نظامی و کسب‌وکار به عنوان راهنمایی برای پیروزی بدون درگیری به‌کار گرفته می‌شوند.",
+      "title_fa": "تصویری از دونالد ترامپ در حال خواب در دفتر بیضی",
+      "lead_fa": "رسانه آمریکایی فاکس تصویری را منتشر کرده است که دونالد ترامپ را در حال چرت زدن در دفتر بیضی نشان می‌دهد. این تصویر در رسانه‌ها بازتاب گسترده‌ای داشته است.",
       "key_points_fa": [
-        "بازگشت توجه به آموزه‌های کتاب «هنر رزم» اثر سان تزو",
-        "کاربرد راهبردهای این اثر در ارتش‌ها و سازمان‌های تجاری مدرن",
-        "تاکید بر این اصل که بهترین پیروزی بدون جنگ به دست می‌آید"
+        "انتشار تصویری از ترامپ در حال خواب در دفتر بیضی توسط فاکس",
+        "بازتاب تصویر در رسانه‌های مختلف و طرح بحث‌هایی درباره ریاست جمهوری",
+        "استفاده از این تصویر به عنوان نشانه‌ای از وضعیت سیاسی آمریکا"
       ],
-      "analysis_fa": "استفاده مجدد از متون کلاسیک استراتژیک نشان‌دهنده نیاز رهبران جهان به الگوهای اثبات‌شده برای مدیریت بحران و رقابت در محیط‌های پیچیده و پرتنش امروزی است.",
+      "analysis_fa": "انتشار تصاویر حاشیه‌ای از رهبران سیاسی اغلب ابزاری برای جریان‌سازی رسانه‌ای و انتقاد از مخالفان است. در حالی که حامیان چنین تصاویری را کم‌اهمیت می‌دانند، منتقدان آن را نمادی از خستگی یا بی‌توجهی در مدیریت کلان ارزیابی می‌کنند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#سان_تزو",
-        "#هنر_رزم",
-        "#مدیریت",
-        "#استراتژی"
+        "#ترامپ",
+        "#آمریکا",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -499,7 +495,7 @@
     {
       "id": "25b999982a98",
       "source": "La Vanguardia",
-      "title": "Los cinco pasos del Gobierno para desincentivar el intento de cruce masivo que frenó Rabat",
+      "title": "Los cinco pasos del Gobierno para desactivar el intento de cruce masivo que frenó Rabat",
       "summary": "Los distintos ministerios implicados pusieron en marcha la maquinaria para lanzar el mensaje, a sabiendas de que es imposible de cumplir, de que todo aquel que entra irregularmente en España será expulsado",
       "url": "https://www.lavanguardia.com/politica/20260816/11614482/cinco-pasos-gobierno-desincentivar-intento-cruce-masivo-freno-rabat.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b08b04363.r_d.1423-1287-0.jpeg",
@@ -548,34 +544,6 @@
         "#اسپانیا",
         "#مهاجرت",
         "#مرز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b48e5889bab6",
-      "source": "La Vanguardia",
-      "title": "Instantánea de una presidencia",
-      "summary": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
-      "url": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a817a03e8a3c.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "تصویری از دونالد ترامپ در حال خواب در دفتر بیضی",
-      "lead_fa": "رسانه آمریکایی فاکس تصویری را منتشر کرده است که دونالد ترامپ را در حال چرت زدن در دفتر بیضی نشان می‌دهد. این تصویر در رسانه‌ها بازتاب گسترده‌ای داشته است.",
-      "key_points_fa": [
-        "انتشار تصویری از ترامپ در حال خواب در دفتر بیضی توسط فاکس",
-        "بازتاب تصویر در رسانه‌های مختلف و طرح بحث‌هایی درباره ریاست جمهوری",
-        "استفاده از این تصویر به عنوان نشانه‌ای از وضعیت سیاسی آمریکا"
-      ],
-      "analysis_fa": "انتشار تصاویر حاشیه‌ای از رهبران سیاسی اغلب ابزاری برای جریان‌سازی رسانه‌ای و انتقاد از مخالفان است. در حالی که حامیان چنین تصاویری را کم‌اهمیت می‌دانند، منتقدان آن را نمادی از خستگی یا بی‌توجهی در مدیریت کلان ارزیابی می‌کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#آمریکا",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -695,35 +663,6 @@
       "editorial_version": 2
     },
     {
-      "id": "74060fd8d93e",
-      "source": "EL PAÍS España",
-      "title": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
-      "summary": "Las fuerzas de seguridad marroquíes han detenido a 61 personas por incitar a la migración ilegal en un dispositivo que mantiene blindadas las fronteras de Ceuta y Melilla con el país magrebí",
-      "url": "https://elpais.com/espana/2026-08-15/marruecos-frustra-el-intento-de-cientos-de-migrantes-subsaharianos-de-alcanzar-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4",
-      "published_at": "2026-08-15T16:51:14+00:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "جلوگیری مراکش از تلاش صدها مهاجر برای ورود به سبته",
-      "lead_fa": "نیروهای امنیتی مراکش مانع تلاش صدها مهاجر برای ورود به شهر سبته شدند. در این عملیات، ده‌ها نفر به اتهام تحریک به مهاجرت غیرقانونی بازداشت شدند.",
-      "key_points_fa": [
-        "مداخله نیروهای امنیتی مراکش در مرزهای سبته و ملیلیه",
-        "بازداشت ۶۱ نفر به اتهام ترغیب مهاجرت غیرقانونی",
-        "استقرار تجهیزات حفاظتی برای مسدود کردن مرزها"
-      ],
-      "analysis_fa": "اقدامات اخیر مراکش در راستای توافقات امنیتی با اتحادیه اروپا و اسپانیا برای کنترل مرزهای جنوبی و مهار جریان مهاجرت غیرقانونی انجام می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مراکش",
-        "#مهاجرت",
-        "#سبته",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "92561777b31f",
       "source": "EL PAÍS Economía",
       "title": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
@@ -809,6 +748,34 @@
       "editorial_version": 2
     },
     {
+      "id": "7bc5d030e24e",
+      "source": "La Vanguardia",
+      "title": "Trump extiende el control de EE.UU. sobre América Latina en menos de dos años",
+      "summary": "Washington utiliza la vía militar y política para consolidar su área de influencia en el hemisferio occidental, uno de los puntales de su estrategia de seguridad nacional",
+      "url": "https://www.lavanguardia.com/internacional/20260816/11614006/trump-extiende-control-ee-uu-sobre-america-latina-dos-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ef85e657.r_d.511-327-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "politica",
+      "priority": 74,
+      "title_fa": "گسترش کنترل ایالات متحده بر آمریکای لاتین در کمتر از دو سال",
+      "lead_fa": "واشنگتن از ابزارهای نظامی و سیاسی برای تحکیم نفوذ خود در نیمکره غربی استفاده می‌کند. این رویکرد یکی از ارکان اصلی استراتژی امنیت ملی ایالات متحده محسوب می‌شود.",
+      "key_points_fa": [
+        "استفاده واشنگتن از مسیرهای نظامی و سیاسی",
+        "تلاش برای تثبیت حوزه نفوذ در نیمکره غربی",
+        "قرار گرفتن این اقدام در چارچوب استراتژی امنیت ملی"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده تمرکز مجدد سیاست خارجی ایالات متحده بر تقویت حضور و نفوذ خود در منطقه آمریکای لاتین است. تحلیلگران این روند را بخشی از رقابت‌های ژئوپلیتیک کلان ارزیابی می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکای_لاتین",
+        "#ایالات_محده",
+        "#سیاست_خارجی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "fcaaca223cfc",
       "source": "La Vanguardia",
       "title": "El Peñón de Vélez de la Gomera, la microfrontera inesperada",
@@ -833,34 +800,6 @@
         "#مراکش",
         "#مرز",
         "#جغرافیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7bc5d030e24e",
-      "source": "La Vanguardia",
-      "title": "Trump extiende el control de EE.UU. sobre América Latina en menos de dos años",
-      "summary": "Washington utiliza la vía militar y política para consolidar su área de influencia en el hemisferio occidental, uno de los puntales de su estrategia de seguridad nacional",
-      "url": "https://www.lavanguardia.com/internacional/20260816/11614006/trump-extiende-control-ee-uu-sobre-america-latina-dos-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ef85e657.r_d.511-327-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "گسترش کنترل ایالات متحده بر آمریکای لاتین در کمتر از دو سال",
-      "lead_fa": "واشنگتن از ابزارهای نظامی و سیاسی برای تحکیم نفوذ خود در نیمکره غربی استفاده می‌کند. این رویکرد یکی از ارکان اصلی استراتژی امنیت ملی ایالات متحده محسوب می‌شود.",
-      "key_points_fa": [
-        "استفاده واشنگتن از مسیرهای نظامی و سیاسی",
-        "تلاش برای تثبیت حوزه نفوذ در نیمکره غربی",
-        "قرار گرفتن این اقدام در چارچوب استراتژی امنیت ملی"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تمرکز مجدد سیاست خارجی ایالات متحده بر تقویت حضور و نفوذ خود در منطقه آمریکای لاتین است. تحلیلگران این روند را بخشی از رقابت‌های ژئوپلیتیک کلان ارزیابی می‌کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکای_لاتین",
-        "#ایالات_محده",
-        "#سیاست_خارجی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1008,35 +947,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f35b94dc72c9",
-      "source": "EL PAÍS España",
-      "title": "‘Operación Jaula’ en Castillejos: no es frontera para jóvenes",
-      "summary": "Marruecos sella los accesos a Ceuta con agentes en cada encrucijada y sendero dos semanas después de la avalancha incontrolada de decenas de miles de migrantes",
-      "url": "https://elpais.com/espana/2026-08-15/operacion-jaula-en-castillejos-no-es-frontera-para-jovenes.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4",
-      "published_at": "2026-08-15T03:45:01+00:00",
-      "category": "migracion",
-      "priority": 74,
-      "title_fa": "عملیات قفس در مراکش برای کنترل مرزهای سبته",
-      "lead_fa": "مراکش دو هفته پس از هجوم مهاجران، دسترسی‌ها به سبته را به شدت مسدود کرد. نیروهای امنیتی در تمامی گذرگاه‌ها و مسیرهای فرعی مستقر شدند.",
-      "key_points_fa": [
-        "اجرای عملیات موسوم به قفس در منطقه فنیدق و کاستیخوس",
-        "استقرار ماموران در تمامی چهارراه‌ها و مسیرهای منتهی به مرز سبته",
-        "اقدام دولت مراکش دو هفته پس از ورود کنترل‌نشده هزاران مهاجر"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش جدی مقامات مراکش برای مهار بحران‌های مهاجرتی و پاسخ به فشارهای امنیتی در مرزهای مشترک با اسپانیا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مهاجرت",
-        "#سبته",
-        "#مراکش",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "fc0cb5588cd1",
       "source": "EL PAÍS Economía",
       "title": "Los supervisores europeos dejan sin licencia a más de 1.000 empresas cripto",
@@ -1095,6 +1005,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c82314136dd5",
+      "source": "EL PAÍS España",
+      "title": "Las dudas con Puigdemont y la pérdida de influencia diluyen a Junts en el final de la legislatura",
+      "summary": "El partido independentista acusa el desgaste por un pobre bagaje negociador, el asedio de la extrema derecha y las tensiones internas",
+      "url": "https://elpais.com/espana/2026-08-16/las-dudas-con-puigdemont-y-la-perdida-de-influencia-diluyen-a-junts-en-el-final-de-la-legislatura.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NVLL5OJGRVC4RFN3GHGIJEYO2M.jpg?auth=1289c2686b6bd087219f7a19f89a66a9d2e36fa793519fef2b2e015f91dc03a9",
+      "published_at": "2026-08-16T03:30:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Las dudas con Puigdemont y la pérdida de influencia diluyen a Junts en el final de la legislatura",
+      "lead_fa": "El partido independentista acusa el desgaste por un pobre bagaje negociador, el asedio de la extrema derecha y las tensiones internas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "8e06893f5093",
       "source": "EL PAÍS Economía",
       "title": "El precio de los medicamentos y la paradoja de la transparencia",
@@ -1124,6 +1056,28 @@
       "editorial_version": 2
     },
     {
+      "id": "7c14495d00cb",
+      "source": "EL PAÍS España",
+      "title": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "summary": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
+      "url": "https://elpais.com/espana/2026-08-15/al-menos-un-fallecido-y-dos-menores-heridos-tras-una-riada-en-manzanedo-de-valdueza-leon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NZUEU2QD45CARH6VIVL6O7YWZE.jpg?auth=c699461893ffc4c7cd5b01b2ec651899826d68c98187169a8ad0dd8fb02e35a1",
+      "published_at": "2026-08-15T20:47:21+00:00",
+      "category": "sociedad",
+      "priority": 73,
+      "title_fa": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "lead_fa": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6347abf2090e",
       "source": "La Vanguardia",
       "title": "Una pelea entre grupos étnicos en Lleida acaba con tres heridos por arma blanca y un detenido",
@@ -1147,34 +1101,6 @@
         "#اسپانیا",
         "#حوادث",
         "#لرییدا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9663df6eb075",
-      "source": "La Vanguardia",
-      "title": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
-      "summary": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11614708/detenido-amenazar-navaja-piscina-valencia-banista-socorrista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
-      "published_at": "2026-08-16T10:46:27+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "بازداشت فردی به اتهام تهدید با چاقو در استخری در والنسیا",
-      "lead_fa": "مردی در یک استخر عمومی در والنسیا پس از تذکر نجات‌غریق، با چاقو به او و یک شناگر حمله کرد. پلیس این فرد را به اتهام تهدید و ایجاد درگیری بازداشت کرد.",
-      "key_points_fa": [
-        "مفروض است که درگیری پس از یادآوری ممنوعیت ورود به منطقه‌ای خاص آغاز شده است.",
-        "فرد ضنون به نجات‌غریق و یک شناگر با چاقو حمله کرده است.",
-        "پلیس پس از این حادثه وارد عمل شده و فرد ضارب را دستگیر کرده است."
-      ],
-      "analysis_fa": "این حادثه بار دیگر بحث بر سر امنیت و کنترل فضاهای ورزشی و تفریحی عمومی در فصل گرما را مطرح می‌کند. با وجود حضور ناجیان، افزایش تنش‌های فردی نیازمند حضور سریع‌تر عوامل انتظامی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#حوادث_اسپانیا",
-        "#امنیت_عمومی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1319,6 +1245,28 @@
         "#انرژی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "114d5bf2e27b",
+      "source": "La Vanguardia",
+      "title": "Ucrania lanza más de 600 drones hacia Moscú y alcanza el mayor almacén del Amazon ruso",
+      "summary": "Según las defensas antiaéreas rusas, se derribaron desde la tarde del sábado más de 800 drones sobre los cielos de 16 regiones",
+      "url": "https://www.lavanguardia.com/internacional/20260816/11614692/cuatro-muertos-ataque-ucraniano-mas-600-drones-rusia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a8167b92bcae.r_d.4320-2880-0.jpeg",
+      "published_at": "2026-08-16T09:35:35+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Ucrania lanza más de 600 drones hacia Moscú y alcanza el mayor almacén del Amazon ruso",
+      "lead_fa": "Según las defensas antiaéreas rusas, se derribaron desde la tarde del sábado más de 800 drones sobre los cielos de 16 regiones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1518,50 +1466,6 @@
       "editorial_version": 2
     },
     {
-      "id": "96d2c5faf65d",
-      "source": "La Vanguardia",
-      "title": "Enric Granados, una vida de pálpito",
-      "summary": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
-      "url": "https://www.lavanguardia.com/cultura/20260816/11614457/granados-vida-palpito-biografia-marta-san-miguel.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a34a998a4.r_d.720-559-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Enric Granados, una vida de pálpito",
-      "lead_fa": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5f846279991e",
-      "source": "La Vanguardia",
-      "title": "El río roto de Marruecos",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260816/11613508/rio-roto-marruecos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a802ad701e70.r_d.1593-1054-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El río roto de Marruecos",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ac5d3b8e547c",
       "source": "La Vanguardia",
       "title": "El segundo milagro de Ferran Torres",
@@ -1639,6 +1543,28 @@
       "priority": 68,
       "title_fa": "Los hijos también vamos a Montpellier",
       "lead_fa": "Christopher Nolan ha decidido que La Odisea debe verse en IMAX de 70 milímetros... y en la UE solo tres cines la proyectan exactamente así",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "96d2c5faf65d",
+      "source": "La Vanguardia",
+      "title": "Enric Granados, una vida de pálpito y enigmas",
+      "summary": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
+      "url": "https://www.lavanguardia.com/cultura/20260816/11614457/granados-vida-palpito-biografia-marta-san-miguel.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a34a998a4.r_d.720-559-0.jpeg",
+      "published_at": "2026-08-16T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Enric Granados, una vida de pálpito y enigmas",
+      "lead_fa": "Centrada a menudo en la tragedia de su muerte, la biografía del compositor que presagiaba “el mar me matará” sigue revelando enigmas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1914,28 +1840,6 @@
       "editorial_version": 2
     },
     {
-      "id": "681c33645cc0",
-      "source": "EL PAÍS",
-      "title": "La verdad en literatura",
-      "summary": "La gran debilidad de la ficción es que uno puede identificar las preguntas que plantea un libro y no quererlas responder fuera de sus páginas",
-      "url": "https://elpais.com/opinion/2026-08-16/la-verdad-en-literatura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QP4EI3JKDRE7NOYHB6Y6FKYHNI.jpg?auth=8fa94341a0cdf2b2350e12a70ff43fc7aa290a4ddcc2eb6233c5e71ab0fb8314",
-      "published_at": "2026-08-16T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "La verdad en literatura",
-      "lead_fa": "La gran debilidad de la ficción es que uno puede identificar las preguntas que plantea un libro y no quererlas responder fuera de sus páginas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2955c84a86e3",
       "source": "EL PAÍS",
       "title": "La fiebre de los refugios: ¿por qué miles de personas buscan resguardarse unos días en el Pirineo?",
@@ -2156,28 +2060,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f6caaa5ed29a",
-      "source": "EL PAÍS",
-      "title": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
-      "summary": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
-      "url": "https://elpais.com/eps/2026-08-16/los-javis-ya-no-somos-pareja-pero-somos-familia-todo-ha-mejorado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JVY3KR3LENEHZDVAT3TC26UZGY.JPG?auth=3318b420c078075ed1c6d8351c73cdede48d1ee74441917016ea0b1315920693",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
-      "lead_fa": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "57ac0e1ae4a6",
       "source": "EL PAÍS",
       "title": "Guapa para Dios",
@@ -2189,6 +2071,28 @@
       "priority": 68,
       "title_fa": "Guapa para Dios",
       "lead_fa": "Nadie viste como quiere. Rebelarse contra el sistema es muchísimo más difícil de lo que parece",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f6caaa5ed29a",
+      "source": "EL PAÍS",
+      "title": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
+      "summary": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
+      "url": "https://elpais.com/eps/2026-08-16/los-javis-ya-no-somos-pareja-pero-somos-familia-todo-ha-mejorado.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JVY3KR3LENEHZDVAT3TC26UZGY.JPG?auth=3318b420c078075ed1c6d8351c73cdede48d1ee74441917016ea0b1315920693",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
+      "lead_fa": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2222,28 +2126,6 @@
       "editorial_version": 2
     },
     {
-      "id": "99487e7c971d",
-      "source": "EL PAÍS",
-      "title": "Sexo, dinero y anonimato: así es la red de prostitución nigeriana que opera a través de Telegram",
-      "summary": "EL PAÍS identifica más de un centenar de grupos con miles de miembros que facilitan el contacto entre clientes y mujeres, algunas de las cuales denuncian chantajes, amenazas y explotación",
-      "url": "https://elpais.com/planeta-futuro/2026-08-16/sexo-dinero-y-anonimato-asi-es-la-red-de-prostitucion-nigeriana-que-opera-a-traves-de-telegram.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZLVODK36QNAF3LAPB2PKENVC2Y.jpg?auth=1b213202999b98bd55dd2d1806dcb5310a97af46490557daee9f86b0f23a4e39",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Sexo, dinero y anonimato: así es la red de prostitución nigeriana que opera a través de Telegram",
-      "lead_fa": "EL PAÍS identifica más de un centenar de grupos con miles de miembros que facilitan el contacto entre clientes y mujeres, algunas de las cuales denuncian chantajes, amenazas y explotación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8954d87fd7e6",
       "source": "EL PAÍS",
       "title": "“Unos guantes para los pies”: el regreso de los zapatos de jazz que adoraba Gainsbourg",
@@ -2266,6 +2148,28 @@
       "editorial_version": 2
     },
     {
+      "id": "99487e7c971d",
+      "source": "EL PAÍS",
+      "title": "Sexo, dinero y anonimato: así es la red de prostitución nigeriana que opera a través de Telegram",
+      "summary": "EL PAÍS identifica más de un centenar de grupos con miles de miembros que facilitan el contacto entre clientes y mujeres, algunas de las cuales denuncian chantajes, amenazas y explotación",
+      "url": "https://elpais.com/planeta-futuro/2026-08-16/sexo-dinero-y-anonimato-asi-es-la-red-de-prostitucion-nigeriana-que-opera-a-traves-de-telegram.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZLVODK36QNAF3LAPB2PKENVC2Y.jpg?auth=1b213202999b98bd55dd2d1806dcb5310a97af46490557daee9f86b0f23a4e39",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Sexo, dinero y anonimato: así es la red de prostitución nigeriana que opera a través de Telegram",
+      "lead_fa": "EL PAÍS identifica más de un centenar de grupos con miles de miembros que facilitan el contacto entre clientes y mujeres, algunas de las cuales denuncian chantajes, amenazas y explotación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1e1bba7746e2",
       "source": "EL PAÍS",
       "title": "Etiqueta del móvil en el retrete: una adicción “a escondidas” que perjudica la salud intestinal",
@@ -2277,6 +2181,28 @@
       "priority": 68,
       "title_fa": "Etiqueta del móvil en el retrete: una adicción “a escondidas” que perjudica la salud intestinal",
       "lead_fa": "España es el país del mundo, según diversas encuestas, en el que más nos acompaña el móvil en el cuarto de baño. Y el problema no solo afecta a nuestra cabeza",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6a47a212c08c",
+      "source": "EL PAÍS",
+      "title": "Diez recetas sin fuego para sobrevivir a lo que queda de verano",
+      "summary": "Venimos al rescate con sopas frías, ensaladas, sándwiches, untables y un postre que se preparan sin pasar ni una gota de calor en la cocina",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-16/diez-recetas-sin-fuego-para-sobrevivir-a-lo-que-queda-de-verano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M7VRQJUVLBD3HF5N432YNWDQOY.jpg?auth=6796079794fe64629530e3a5bd4a74233a5fd5eff3beae9b513e87353c9c6dad",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Diez recetas sin fuego para sobrevivir a lo que queda de verano",
+      "lead_fa": "Venimos al rescate con sopas frías, ensaladas, sándwiches, untables y un postre que se preparan sin pasar ni una gota de calor en la cocina",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2354,36 +2280,6 @@
       "editorial_version": 2
     },
     {
-      "id": "18b5076885ca",
-      "source": "EL PAÍS España",
-      "title": "Ceuta refuerza su frontera “para estar preparados” ante un nuevo intento de entrada masiva",
-      "summary": "En la víspera de la convocatoria en redes para cruzar desde Marruecos, los ceutíes ven improbable que se repita el intento, debido al fuerte despliegue militar al otro lado de la frontera",
-      "url": "https://elpais.com/videos/2026-08-14/ceuta-refuerza-su-frontera-para-estar-preparados-ante-un-nuevo-intento-de-entrada-masiva.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204754_180104_video_1800.mp4",
-      "published_at": "2026-08-14T18:21:09+00:00",
-      "category": "migracion",
-      "priority": 68,
-      "title_fa": "تقویت مرز سئوتا در آستانه فراخوان ورود دسته‌جمعی",
-      "lead_fa": "مقام‌های سئوتا مرزهای این منطقه را برای آمادگی در برابر احتمال ورود دسته‌جمعی مهاجران تقویت کرده‌اند. با این حال، شهروندان با توجه به استقرار نظامی سنگین در سوی دیگر مرز، تکرار تلاش برای عبور را بعید می‌دانند.",
-      "key_points_fa": [
-        "تقویت مرزهای سئوتا پیش از فراخوان منتشرشده در شبکه‌های اجتماعی",
-        "فراخوان برای ورود غیرقانونی از سوی مراکش",
-        "استقرار سنگین نظامی در سوی دیگر مرز",
-        "تردید شهروندان سئوتا درباره وقوع تلاش مجدد برای عبور"
-      ],
-      "analysis_fa": "افزایش حضور امنیتی در مرزهای سئوتا واکنشی پیشگیرانه به تحرکات شکل‌گرفته در شبکه‌های اجتماعی است. اگرچه تدابیر امنیتی و حضور نظامی مانع از شکل‌گیری تحکات مشابه گذشته ارزیابی می‌شود، اما مسئله مهاجرت همچنان یکی از چالش‌های مستمر در مناطق مرزی اسپانیا و مراکش به شمار می‌رود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#مراکش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "a75d560823d6",
       "source": "EL PAÍS España",
       "title": "Las heridas que heredaron los nietos",
@@ -2408,35 +2304,6 @@
         "#مفقودان",
         "#حقوق_بشر",
         "#تاریخ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "56d27c490d9f",
-      "source": "EL PAÍS España",
-      "title": "Calma en las calles pero un runrún en las cabezas: Melilla teme un aluvión como el de Ceuta",
-      "summary": "El pasado 30 de julio, los melillenses vieron entrar a más de 1.300 personas desde Marruecos. Aunque la mayoría ha regresado, hay temor a una nueva avalancha, esta vez irrefrenable",
-      "url": "https://elpais.com/espana/2026-08-15/calma-en-la-calle-pero-un-runrun-en-las-cabezas-melilla-teme-un-aluvion-como-el-de-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QANOWMJ3VJDZLLLKP36MVB77UA.JPG?auth=8cda01762fae32e73fa37274d520189be67cc57a75baad89dbfab963d51019f6",
-      "published_at": "2026-08-15T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 64,
-      "title_fa": "نگرانی در ملیلیه از تکرار موج ورود مهاجران",
-      "lead_fa": "پس از ورود بیش از ۱۳۰۰ مهاجر از مراکش به ملیلیه در ۳۰ ژوئیه، ساکنان شهر نگران تکرار این واقعه هستند. اگرچه بیشتر این افراد بازگشته‌اند، اما ترس از وقوع یک بحران غیرقابل مهار همچنان پابرجا است.",
-      "key_points_fa": [
-        "ورود بیش از ۱۳۰۰ نفر از مراکش به ملیلیه در تاریخ ۳۰ ژوئیه",
-        "بازگشت بیشتر افراد واردشده به کشور مبدأ",
-        "وجود نگرانی عمومی در میان ساکنان ملیلیه نسبت به تکرار حوادث مشابه سبته"
-      ],
-      "analysis_fa": "مسأله مهاجرت در شهرهای مرزی اسپانیا همواره یکی از چالش‌های امنیتی و اجتماعی حساس بوده است. رویدادهایی از این دست، فشار مضاعفی بر زیرساخت‌های محلی و روابط دیپلماتیک با مراکش وارد می‌کند و نیازمند مدیریت دقیق مرزی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ملیلیه",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#مراکش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2598,6 +2465,94 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "243f23fe42c4",
+      "source": "EL PAÍS Economía",
+      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DEQHZ4MV6RAX7ITWNU7IOPGWNE.jpg?auth=2e3f6dac7450e927d69481e02b0cb12b6dba130d319ad54394474189b3b5ba6b",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "economia",
+      "priority": 57,
+      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
+      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "752c79153380",
+      "source": "EL PAÍS Economía",
+      "title": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
+      "summary": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "url": "https://cincodias.elpais.com/companias/2026-08-14/la-cnmc-sanciona-a-movistar-plus-por-incumplir-la-ley-de-accesibilidad-en-su-canal-de-futbol.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QTZMWYXKTRCJ3OAEBEI4CSZREA.png?auth=917f5217810c7ae7fbc0ff05b59502323151643d16e48aa87d1a469ccf169a56",
+      "published_at": "2026-08-14T03:15:00+00:00",
+      "category": "politica",
+      "priority": 57,
+      "title_fa": "La CNMC sanciona a Movistar Plus por incumplir la ley de accesibilidad en su canal de fútbol",
+      "lead_fa": "El regulador constata la falta de subtitulado y lengua de signos en la retransmisiones durante 18 meses. La operadora ya ha abonado la sanción de 209.250 euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1538c51c3cd5",
+      "source": "EL PAÍS España",
+      "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
+      "summary": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/hacinadas-drogadas-y-sometidas-con-ritos-de-santeria-asi-malvivian-las-victimas-de-una-red-de-prostitucion-desarticulada-en-soria-y-castellon.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204676_140440_video_1800.mp4",
+      "published_at": "2026-08-14T13:06:37+00:00",
+      "category": "sociedad",
+      "priority": 55,
+      "title_fa": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
+      "lead_fa": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4923aeb306d6",
+      "source": "EL PAÍS España",
+      "title": "El ‘momento Aranzadi’ de Vox",
+      "summary": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
+      "url": "https://elpais.com/opinion/2026-08-14/el-momento-aranzadi-de-vox.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M2UI2SKZ35D5FBSXQPEFISCPOM.jpg?auth=6cae415cb911e2ce78903dfacda0456e145a7ba4d7b792efbac1bee17743c1df",
+      "published_at": "2026-08-14T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 52,
+      "title_fa": "El ‘momento Aranzadi’ de Vox",
+      "lead_fa": "La ultraderecha ya no quiere ser antisistema en las formas, sino utilizar los resortes del Estado para transformarlo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2629,7 +2584,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
@@ -2644,7 +2599,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 130
+      "count": 131
     }
   ]
 }
