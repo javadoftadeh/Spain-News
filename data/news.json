@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:41:23.553154+00:00",
+  "generated_at": "2026-08-16T07:59:48.744552+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
@@ -525,7 +525,7 @@
     {
       "id": "25b999982a98",
       "source": "La Vanguardia",
-      "title": "Los cinco pasos del Gobierno para desactivar el intento de cruce masivo que frenó Rabat",
+      "title": "Los cinco pasos del Gobierno para desincentivar el intento de cruce masivo que frenó Rabat",
       "summary": "Los distintos ministerios implicados pusieron en marcha la maquinaria para lanzar el mensaje, a sabiendas de que es imposible de cumplir, de que todo aquel que entra irregularmente en España será expulsado",
       "url": "https://www.lavanguardia.com/politica/20260816/11614482/cinco-pasos-gobierno-desincentivar-intento-cruce-masivo-freno-rabat.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b08b04363.r_d.1423-1287-0.jpeg",
@@ -864,29 +864,29 @@
       "editorial_version": 2
     },
     {
-      "id": "ad387f3f42b2",
+      "id": "7bc5d030e24e",
       "source": "La Vanguardia",
-      "title": "Líbano: Hizbulah tiene un modelo sostenible",
-      "summary": "El Gobierno libanés no quiere que la organización chií lidere la reconstrucción de Beirut y el sur del país",
-      "url": "https://www.lavanguardia.com/internacional/20260816/11614408/hizbulah-modelo-sostenible.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a8080b16f4a6.r_d.950-1465-0.jpeg",
+      "title": "Trump extiende el control de EE.UU. sobre América Latina en menos de dos años",
+      "summary": "Washington utiliza la vía militar y política para consolidar su área de influencia en el hemisferio occidental, uno de los puntales de su estrategia de seguridad nacional",
+      "url": "https://www.lavanguardia.com/internacional/20260816/11614006/trump-extiende-control-ee-uu-sobre-america-latina-dos-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f2ef85e657.r_d.511-327-0.jpeg",
       "published_at": "2026-08-16T06:00:00+02:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "لبنان: چالش بازسازی بیروت و مدل پایدار حزب‌الله",
-      "lead_fa": "دولت لبنان مخالفت خود را با رهبری سازمان شیعه حزب‌الله در روند بازسازی بیروت و جنوب کشور اعلام کرد. این تنش نشان‌دهنده اختلاف نظر عمیق درباره آینده مدیریتی و اقتصادی مناطق آسیب‌دیده است.",
+      "title_fa": "گسترش کنترل ایالات متحده بر آمریکای لاتین در کمتر از دو سال",
+      "lead_fa": "واشنگتن از ابزارهای نظامی و سیاسی برای تحکیم نفوذ خود در نیمکره غربی استفاده می‌کند. این رویکرد یکی از ارکان اصلی استراتژی امنیت ملی ایالات متحده محسوب می‌شود.",
       "key_points_fa": [
-        "مخالفت صریح دولت لبنان با هدایت بازسازی‌ها توسط حزب‌الله",
-        "تلاش حزب‌الله برای حفظ مدل پایدار نفوذ خود در مناطق شیعه‌نشین",
-        "نگرانی‌های داخلی و منطقه‌ای پیرامون مدیریت ساخت‌وسازهای پس از بحران"
+        "استفاده واشنگتن از مسیرهای نظامی و سیاسی",
+        "تلاش برای تثبیت حوزه نفوذ در نیمکره غربی",
+        "قرار گرفتن این اقدام در چارچوب استراتژی امنیت ملی"
       ],
-      "analysis_fa": "مسئله بازسازی مناطق جنگ‌زده در لبنان فراتر از یک اقدام عمرانی، به نبردی سیاسی برای تثبیت قدرت و نفوذ تبدیل شده است. دولت لبنان تلاش می‌کند با محدود کردن نقش حزب‌الله، مشروعیت نهادهای رسمی را تقویت کند، در حالی که این گروه با تکیه بر ساختارهای موازی به دنبال حفظ پایگاه اجتماعی و سیاسی خود است.",
+      "analysis_fa": "این اقدام نشان‌دهنده تمرکز مجدد سیاست خارجی ایالات متحده بر تقویت حضور و نفوذ خود در منطقه آمریکای لاتین است. تحلیلگران این روند را بخشی از رقابت‌های ژئوپلیتیک کلان ارزیابی می‌کنند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#لبنان",
-        "#حزب_الله",
-        "#بیروت"
+        "#آمریکای_لاتین",
+        "#ایالات_محده",
+        "#سیاست_خارجی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -901,16 +901,23 @@
       "published_at": "2026-08-16T03:45:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Los vecinos de Almaraz, sobre alargar la vida de la central nuclear: “No será la última, lucharemos por más”",
-      "lead_fa": "La planta genera unos 4.000 empleos directos e indicrectos, según el comité de empresa, entre este pueblo de 1.594 habitantes y sus alrededores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "واکنش ساکنان آلماراز به ادامه فعالیت نیروگاه هسته‌ای",
+      "lead_fa": "اهالی منطقه آلماراز خواستار تداوم فعالیت نیروگاه هسته‌ای شدند. این تأسیسات نقش مهمی در اشتغال‌زایی محلی دارد.",
+      "key_points_fa": [
+        "مقاومت اهالی آلماراز در برابر تلاش‌ها برای تعطیلی نیروگاه هسته‌ای",
+        "تولید حدود ۴۰۰۰ شغل مستقیم و غیرمستقیم توسط نیروگاه",
+        "منطقه‌ای با جمعیتی حدود ۱۵۹۴ نفر که به شدت به این تأسیسات وابسته است"
+      ],
+      "analysis_fa": "موضوع تمدید عمر نیروگاه‌های هسته‌ای در اسپانیا همواره میان مسائل اقتصادی محلی و برنامه‌های کلان زیست‌محیطی و انرژی دولت چالش‌برانگیز بوده است. وابستگی شدید اشتغال منطقه کوچک آلماراز به این نیروگاه، انگیزه اصلی ساکنان برای دفاع از ادامه فعالیت آن است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آلماراز",
+        "#اسپانیا",
+        "#انرژی_هسته‌ای",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -923,16 +930,21 @@
       "published_at": "2026-08-16T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Las claves: los bajistas ven su momento mientras el mercado sigue buscando joyas ocultas",
-      "lead_fa": "Tras meses de subidas, algunos analistas pronostican correcciones en el parqué",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازار بورس اسپانیا در جستجوی فرصت‌های پنهان میان هشدار تحلیلگران",
+      "lead_fa": "پس از ماه‌ها رشد مداوم، برخی تحلیلگران بازار مالی از احتمال اصلاح قیمت‌ها خبر می‌دهند. با این وجود، بازار همچنان به دنبال یافتن دارایی‌های ارزشمند و پنهان است.",
+      "key_points_fa": [
+        "پیش‌بینی اصلاح قیمت‌ها در بورس پس از ماه‌ها روند صعودی",
+        "تداوم تلاش فعالان بازار برای یافتن فرصت‌های سرمایه‌گذاری جدید"
+      ],
+      "analysis_fa": "بازارهای مالی پس از دوره‌های طولانی رشد، اغلب با نظرات متفاوتی از سوی تحلیلگران درباره احتمال اصلاح قیمت مواجه می‌شوند. این وضعیت نشان‌دهنده احتیاط بیشتر سرمایه‌گذاران و پایش دقیق‌تر ارزش واقعی دارایی‌هاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بورس_اسپانیا",
+        "#اقتصاد",
+        "#سرمایه_گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1154,28 +1166,6 @@
       "editorial_version": 2
     },
     {
-      "id": "932fb881bd01",
-      "source": "EL PAÍS",
-      "title": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
-      "summary": "El auge del parque histórico, con casi dos millones de visitantes al año, obliga a la ciudad a replantearse cómo quiere contar su pasado en el siglo XXI",
-      "url": "https://elpais.com/cultura/2026-08-16/toledo-y-puy-du-fou-cuando-el-espectaculo-pone-a-prueba-el-patrimonio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/36PNFYVPMVD6VLQ7E6B65W4YNI.jpg?auth=787e6b1a35da8eb03605f4120110cdbdbfe5d995a207ce3f862c6e79ada44e3a",
-      "published_at": "2026-08-16T04:52:25+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
-      "lead_fa": "El auge del parque histórico, con casi dos millones de visitantes al año, obliga a la ciudad a replantearse cómo quiere contar su pasado en el siglo XXI",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ba0b617615d7",
       "source": "La Vanguardia",
       "title": "Mourinho también llora",
@@ -1257,6 +1247,28 @@
         "#انرژی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "c3d7325fa7dd",
+      "source": "La Vanguardia",
+      "title": "¿Puede uno apellidarse Windsor y ser moderno?",
+      "summary": "Chris Jackson, fotógrafo que ha seguido a la família real más de veinte años, afirma que ellos lo están logrando",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260816/11612704/apellidarse-windsor-moderno.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c7f3e7110e.r_d.724-427-0.jpeg",
+      "published_at": "2026-08-16T06:55:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "¿Puede uno apellidarse Windsor y ser moderno?",
+      "lead_fa": "Chris Jackson, fotógrafo que ha seguido a la família real más de veinte años, afirma que ellos lo están logrando",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1502,28 +1514,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7a2f508dc1b1",
-      "source": "La Vanguardia",
-      "title": "Madonna no se rinde y encuentra en su pasado un nuevo resurgir",
-      "summary": "La cantante reivindica la corona de reina del pop con su último álbum 'Confessions II' con el que ha logrado conectar con las nuevas generaciones",
-      "url": "https://www.lavanguardia.com/gente/20260816/11613996/madonna-vuelve-pista-baile.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/05/6a2260846e05a.r_d.973-576-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Madonna no se rinde y encuentra en su pasado un nuevo resurgir",
-      "lead_fa": "La cantante reivindica la corona de reina del pop con su último álbum 'Confessions II' con el que ha logrado conectar con las nuevas generaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "eeb157d705cd",
       "source": "La Vanguardia",
       "title": "Abiertos por vocación: las tiendas centenarias reivindican su legado",
@@ -1601,6 +1591,28 @@
       "priority": 69,
       "title_fa": "Veranos onomásticos",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "932fb881bd01",
+      "source": "EL PAÍS",
+      "title": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
+      "summary": "El auge del parque histórico, con casi dos millones de visitantes al año, obliga a la ciudad a replantearse cómo quiere contar su pasado en el siglo XXI",
+      "url": "https://elpais.com/cultura/2026-08-16/toledo-y-puy-du-fou-cuando-el-espectaculo-pone-a-prueba-el-patrimonio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/36PNFYVPMVD6VLQ7E6B65W4YNI.jpg?auth=787e6b1a35da8eb03605f4120110cdbdbfe5d995a207ce3f862c6e79ada44e3a",
+      "published_at": "2026-08-16T04:52:25+00:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Toledo y Puy du Fou, cuando el espectáculo pone a prueba el patrimonio",
+      "lead_fa": "El auge del parque histórico, con casi dos millones de visitantes al año, obliga a la ciudad a replantearse cómo quiere contar su pasado en el siglo XXI",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
