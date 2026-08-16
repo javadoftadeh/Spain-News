@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T14:36:05.118228+00:00",
+  "generated_at": "2026-08-16T14:56:44.088303+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "2e5fcd8465ad",
     "33dfb3c9f034",
+    "402062aa5030",
     "b001a12eb237",
-    "23c9fb8d2883",
-    "98c9ee219950"
+    "23c9fb8d2883"
   ],
   "items": [
     {
@@ -62,6 +62,33 @@
         "#اسپانیا",
         "#آتش_سوزی",
         "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "402062aa5030",
+      "source": "La Vanguardia",
+      "title": "El PP acusa al Gobierno de “indolencia” en Ceuta y reclama la dimisión de Mónica García",
+      "summary": "Bendodo carga contra la visita de la ministra y Feijóo sitúa la crisis en cuatro frentes: migración, sanidad, orden público y seguridad",
+      "url": "https://www.lavanguardia.com/politica/20260816/11614788/pp-acusa-gobierno-indolencia-ceuta-reclama-dimision-monica-garcia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79b78b1c857.r_d.2125-1325-0.jpeg",
+      "published_at": "2026-08-16T16:23:57+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "حمله حزب مردمی به دولت درباره بحران سبته",
+      "lead_fa": "حزب مردمی دولت را به بی‌عملی در سبته متهم کرد و خواستار استعفای وزیر بهداشت شد. رهبر این حزب بحران را در چهار حوزه مهاجرت، بهداشت، نظم عمومی و امنیت می‌داند.",
+      "key_points_fa": [
+        "انتقاد شدید حزب مردمی از سفر وزیر بهداشت به سبته",
+        "فهرست کردن چهار بحران اصلی شامل مهاجرت و بهداشت توسط فِیخو"
+      ],
+      "analysis_fa": "این انتقادات بخشی از تلاش‌های حزب مردمی برای تحت فشار قرار دادن دولت مرکزی در خصوص مدیریت بحران‌های منطقه‌ای و مرزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -515,33 +542,6 @@
         "#اسپانیا",
         "#ناتو",
         "#رومانی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "25b999982a98",
-      "source": "La Vanguardia",
-      "title": "Los cinco pasos del Gobierno para desincentivar el intento de cruce masivo que frenó Rabat",
-      "summary": "Los distintos ministerios implicados pusieron en marcha la maquinaria para lanzar el mensaje, a sabiendas de que es imposible de cumplir, de que todo aquel que entra irregularmente en España será expulsado",
-      "url": "https://www.lavanguardia.com/politica/20260816/11614482/cinco-pasos-gobierno-desincentivar-intento-cruce-masivo-freno-rabat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80b08b04363.r_d.1423-1287-0.jpeg",
-      "published_at": "2026-08-16T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "اقدامات دولت اسپانیا برای مهار عبور دسته‌جمعی مهاجران",
-      "lead_fa": "وزارتخانه‌های مختلف اسپانیا برنامه‌ای را برای مقابله با تلاش‌های عبور دسته‌جمعی مهاجران فعال کرده‌اند. دولت تأکید کرده است که تمامی واردکنندگان غیرقانونی از کشور اخراج خواهند شد.",
-      "key_points_fa": [
-        "مشارکت چندین وزارتخانه در اجرای طرح مهار مهاجران",
-        "تأکید دولت بر اخراج تمامی افرادی که به صورت غیرقانونی وارد اسپانیا می‌شوند"
-      ],
-      "analysis_fa": "این اقدامات در چارچوب سیاست‌های سخت‌گیرانه دولت برای مدیریت مرزها و همکاری با کشورهای مبدأ انجام می‌شود. چالش اصلی در این زمینه، کارآمدی واقعی این طرح‌ها در عمل است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1202,6 +1202,34 @@
       "editorial_version": 2
     },
     {
+      "id": "be416328aa60",
+      "source": "EL PAÍS Economía",
+      "title": "STC reduce un 2,1% su beneficio semestral pero eleva un 3,8% sus ingresos",
+      "summary": "La ‘teleco’ saudí, accionista estratégica de Telefónica, repartirá esta semana un dividendo de 635 millones de euros",
+      "url": "https://cincodias.elpais.com/companias/2026-08-16/stc-reduce-un-21-su-beneficio-semestral-pero-eleva-un-38-sus-ingresos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SXVZV2GW3VBPJARYF4NVDWB6GY.png?auth=b0d7fd85e930019cd26a245fc244ad1426b613eb350fad12f12999ab95c11cc4",
+      "published_at": "2026-08-16T14:48:18+00:00",
+      "category": "economia",
+      "priority": 70,
+      "title_fa": "کاهش سود نیم‌سال شرکت مخابرات عربستان با وجود افزایش درآمد",
+      "lead_fa": "شرکت مخابرات عربستان سعودی، سهامدار استراتژیک تلفونیکا، گزارش مالی نیم‌ساله خود را منتشر کرد. این شرکت این هفته سود سهام قابل توجهی میان سهامداران توزیع می‌کند.",
+      "key_points_fa": [
+        "سود نیم‌ساله شرکت مخابرات عربستان ۲.۱ درصد کاهش یافت.",
+        "درآمد این شرکت ۳.۸ درصد افزایش نشان می‌دهد.",
+        "مبلغ ۶۳۵ میلیون یورو سود سهام در هفته جاری توزیع می‌شود."
+      ],
+      "analysis_fa": "تغییرات مالی شرکت‌های بزرگ مخابراتی نشان‌دهنده نوسانات بازار و هزینه‌های عملیاتی در کنار رشد درآمد است. حضور سرمایه‌گذاران خارجی در زیرساخت‌های کلیدی اسپانیا همواره از ابعاد مختلف اقتصادی و نظارتی بررسی می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#تلفونیکا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "6625f13ef7fd",
       "source": "EL PAÍS",
       "title": "España suma la plata en la final de aros y mazas y cierra el Mundial de Fráncfort con otra medalla",
@@ -1691,16 +1719,23 @@
       "published_at": "2026-08-16T06:00:00+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Despliegan un operativo para enviar 30 grandes felinos desde Argentina a EE.UU. y Sudáfrica",
-      "lead_fa": "Es en una de las mayores operaciones de reubicación de animales de este tipo de la historia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "عملیات بزرگ انتقال ۳۰ گربه‌سان بزرگ از آرژانتین",
+      "lead_fa": "عملیات بی‌سابقه‌ای برای انتقال ۳۰ گربه‌سان بزرگ از آرژانتین به ایالات متحده و آفریقای جنوبی آغاز شده است. این جابجایی یکی از بزرگترین عملیات‌های بازپروری و انتقال حیوانات در تاریخ محسوب می‌شود.",
+      "key_points_fa": [
+        "مشارکت آرژانتین در یکی از بزرگترین پروژه‌های تاریخ انتقال گربه‌سانان",
+        "مقصد حیوانات کشورهای ایالات متحده و آفریقای جنوبی است",
+        "هدف از این عملیات بهبود شرایط نگهداری و بازپروری حیوانات است"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده افزایش همکاری‌های بین‌المللی برای حفاظت از حیوانات و انتقال آن‌ها به مراکز تخصصی‌تر است. چنین عملیات‌هایی معمولاً با چالش‌های لجستیکی و هزینه‌های سنگین همراه هستند و نیازمند هماهنگی دقیق میان نهادهای مختلف در کشورهای مبدأ و مقصد است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#محیط_زیست",
+        "#حیوانات",
+        "#آرژانتین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2210,28 +2245,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f6caaa5ed29a",
-      "source": "EL PAÍS",
-      "title": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
-      "summary": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
-      "url": "https://elpais.com/eps/2026-08-16/los-javis-ya-no-somos-pareja-pero-somos-familia-todo-ha-mejorado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JVY3KR3LENEHZDVAT3TC26UZGY.JPG?auth=3318b420c078075ed1c6d8351c73cdede48d1ee74441917016ea0b1315920693",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
-      "lead_fa": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "38d245753ecc",
       "source": "EL PAÍS",
       "title": "Jolina Gisèle, la princesa Pokémon, vende su colección millonaria de cartas: “Ya no podíamos tenerla en casa, por su tamaño y por su valor”",
@@ -2243,6 +2256,28 @@
       "priority": 67,
       "title_fa": "Jolina Gisèle, la princesa Pokémon, vende su colección millonaria de cartas: “Ya no podíamos tenerla en casa, por su tamaño y por su valor”",
       "lead_fa": "Esta estudiante suiza de 20 años posee más de 60.000 tarjetas del universo creado por Satoshi Tajiri. Reunidas junto a su padre durante una década, ha llegado el momento de venderlas, pero no le vale cualquier comprador",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f6caaa5ed29a",
+      "source": "EL PAÍS",
+      "title": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
+      "summary": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
+      "url": "https://elpais.com/eps/2026-08-16/los-javis-ya-no-somos-pareja-pero-somos-familia-todo-ha-mejorado.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JVY3KR3LENEHZDVAT3TC26UZGY.JPG?auth=3318b420c078075ed1c6d8351c73cdede48d1ee74441917016ea0b1315920693",
+      "published_at": "2026-08-16T03:30:00+00:00",
+      "category": "cultura",
+      "priority": 67,
+      "title_fa": "Los Javis: “Ya no somos pareja, pero somos familia. Todo ha mejorado”",
+      "lead_fa": "Desde que estrenaron ‘La llamada’ en el ‘hall’ de un pequeño teatro de Madrid en 2013, cada nuevo proyecto de Javier Ambrossi y Javier Calvo ha sido más ambicioso y exitoso que el anterior. Con su segundo largometraje, ‘La bola negra’, reflexionan sobre la identidad y el género a partir de la figura de Lorca. La película logró el premio a la mejor dirección en Cannes y llega a los cines en septiembre",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2593,28 +2628,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "243f23fe42c4",
-      "source": "EL PAÍS Economía",
-      "title": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "summary": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/valdecarros-el-mayor-barrio-a-construir-en-europa-con-50000-casas-las-primeras-promociones-comenzaran-a-principios-de-2027.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DEQHZ4MV6RAX7ITWNU7IOPGWNE.jpg?auth=2e3f6dac7450e927d69481e02b0cb12b6dba130d319ad54394474189b3b5ba6b",
-      "published_at": "2026-08-14T03:15:00+00:00",
-      "category": "economia",
-      "priority": 56,
-      "title_fa": "Valdecarros, el mayor barrio a construir en Europa con 50.000 casas: “Las primeras promociones comenzarán a principios de 2027″",
-      "lead_fa": "Este desarrollo es la mayor bolsa de suelo para vivienda asequible en Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2656,7 +2669,7 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "source": "La Vanguardia",
