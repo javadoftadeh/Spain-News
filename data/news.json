@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T07:13:23.417543+00:00",
+  "generated_at": "2026-08-17T08:22:01.915457+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d61d78a7d612",
     "c98446ef09af",
+    "8825a2e26138",
     "e4b6e111151c",
-    "6543e6735c58",
-    "2ed317c2a336"
+    "6543e6735c58"
   ],
   "items": [
     {
@@ -15,7 +15,7 @@
       "title": "Muere un militar de la UME durante las tareas de extinción del incendio de Riglos",
       "summary": "El presidente del Gobierno de Aragón, Jorge Azcón, ha trasladado su pésame al teniente general de la Unidad Militar de Emergencias y a la familia del bombero fallecido",
       "url": "https://www.lavanguardia.com/local/aragon/20260816/11614855/muere-militar-ume-tareas-extincion-incendio-riglos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81fa1b6f81b.r_d.1955-1572-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82b26e579c9.jpeg",
       "published_at": "2026-08-16T20:06:51+02:00",
       "category": "sociedad",
       "priority": 92,
@@ -66,12 +66,40 @@
       "editorial_version": 2
     },
     {
+      "id": "8825a2e26138",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta amenaza al Gobierno con acudir al poder judicial si no resuelve la crisis en 30 días",
+      "summary": "Mónica García: “Estamos frente a una crisis humanitaria absolutamente excepcional” | Sánchez reúne por videoconferencia a sus ministros por la crisis de Ceuta",
+      "url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JKJIJNC2JNCE3E5ECNLRWV5WCU.jpg?auth=37762945584b18ac25f48f5c2bdea114ea4f450682fdc83f2e04edaee5a09c75",
+      "published_at": "2026-08-17T08:10:03+00:00",
+      "category": "migracion",
+      "priority": 89,
+      "title_fa": "تهدید دولت توسط رئیس سئوتا برای اقدام قضایی بحران مهاجرت",
+      "lead_fa": "رئیس سئوتا به دولت هشدار داد در صورت حل نشدن بحران مهاجران طی ۳۰ روز به مراجع قضایی شکایت می‌کند. نخست‌وزیر نیز نشستی فوق‌العاده با وزیران برای بررسی این وضعیت برگزار کرد.",
+      "key_points_fa": [
+        "تعیین مهلت ۳۰ روزه از سوی رئیس سئوتا برای مداخله دولت",
+        "توصیف وضعیت کنونی به عنوان یک بحران انسانی استثنایی",
+        "برگزاری جلسه اضطراری ویدیوکنفرانسی توسط پدرو سانچز با وزرا"
+      ],
+      "analysis_fa": "این تنش میان دولت مرکزی و مقامات محلی سئوتا نشان‌دهنده چالش‌های عمیق مدیریتی و فشارهای ناشی از ورود مهاجران در مرزهای جنوبی اسپانیا است که نیازمند راهکارهای فوری و هماهنگ بین‌نهادی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#مهاجرت",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e4b6e111151c",
       "source": "La Vanguardia",
-      "title": "El Gobierno ve un riesgo de salud pública en el hacinamiento de migrantes en Ceuta",
+      "title": "La doble cara de la crisis en Ceuta: inmigrantes enfermos en la calle y camas hospitalarias libres",
       "summary": "La titular de Sanidad, que pide no asociar inmigración con enfermedad por ser xenófobo, admite la crisis humanitaria",
       "url": "https://www.lavanguardia.com/politica/20260817/11614862/doble-cara-crisis-ceuta-inmigrantes-enfermos-calle-camas-hospitalarias-libres.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a8206a7e8e04.r_d.2548-2396-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82af6c16497.jpeg",
       "published_at": "2026-08-17T06:00:00+02:00",
       "category": "migracion",
       "priority": 82,
@@ -585,18 +613,25 @@
       "url": "https://elpais.com/espana/2026-08-17/asi-es-la-nave-en-la-que-ceuta-esta-realojando-a-decenas-de-ninas-y-adolescentes-que-dormian-en-la-calle.html",
       "image": "https://imagenes.elpais.com/resizer/v2/5QEWPGHSOVAT5NX7OYSPPDYIRU.jpg?auth=fea893739580a7314960ae3333735b1a4c6e645b7084b9a2ed37e652ff9f86c0",
       "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "politica",
+      "category": "migracion",
       "priority": 74,
-      "title_fa": "Así es la nave en la que Ceuta está realojando a decenas de niñas y adolescentes que dormían en la calle",
-      "lead_fa": "El Gobierno de la ciudad empieza el traslado de las migrantes que estaban en una pista deportiva de El Príncipe bajo el cuidado de los vecinos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اسکان موقت دختران پناهجو در سئوتا توسط دولت محلی",
+      "lead_fa": "دولت محلی سئوتا روند انتقال دختران و نوجوانان مهاجر را از یک زمین ورزشی به یک سوله آغاز کرد. این افراد پیش‌تر توسط همسایگان در خیابان و محوطه ورزشی اسکان داده شده بودند.",
+      "key_points_fa": [
+        "آغاز انتقال دختران و نوجوانان مهاجر از زمین ورزشی ال پرینسیپه به یک سوله مناسب‌تر.",
+        "پیش از این، این کودکان و نوجوانان بی‌سرپناه در خیابان می‌خوابیدند و توسط ساکنان محلی مراقبت می‌شدند.",
+        "دولت شهر سئوتا مسئولیت اسکان و ساماندهی این گروه را بر عهده گرفته است."
+      ],
+      "analysis_fa": "این اقدام دولت محلی سئوتا واکنشی به وضعیت بحرانی اسکان کودکان و نوجوانان مهاجر بی‌سرپناه است که پیش‌تر با حمایت مردمی در شرایط نامناسبی نگهداری می‌شدند. این تصمیم نشان‌دهنده تلاش نهادهای دولتی برای ساماندهی وضعیت مهاجران آسیب‌پذیر در مناطق مرزی اسپانیا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سئوتا",
+        "#مهاجران",
+        "#پناهجویان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -609,16 +644,23 @@
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "migracion",
       "priority": 74,
-      "title_fa": "La delincuencia no tiene nacionalidad, solo circunstancias",
-      "lead_fa": "Un estudio de la Universidad Carlos III rebaja la brecha de delincuencia entre extranjeros y españoles un 48% y muestra sustanciales diferencias por países",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مطالعه دانشگاه کارلوس سوم: کاهش اختلاف جرم و جنایت بین اتباع خارجی و اسپانیایی‌ها",
+      "lead_fa": "پژوهشی جدید نشان می‌دهد که با در نظر گرفتن شرایط اجتماعی‌اقتصادی، اختلاف نرخ جرم میان اتباع خارجی و شهروندان اسپانیایی تا ۴۸ درصد کاهش می‌یابد. همچنین این مطالعه تفاوت‌های چشمگیری را میان میزان بزهکاری بر اساس کشور مبدأ مهاجران آشکار می‌کند.",
+      "key_points_fa": [
+        "انجام پژوهش درباره نرخ بزهکاری توسط دانشگاه کارلوس سوم مادرید.",
+        "کاهش ۴۸ درصدی شکاف جرم و جنایت با تعدیل عوامل اجتماعی‌اقتصادی.",
+        "وجود تفاوت‌های قابل توجه در آمارهای جرم بر اساس ملیت مهاجران."
+      ],
+      "analysis_fa": "این مطالعه به بررسی ریشه‌های واقعی جرم و جنایت فراتر از ملیت افراد می‌پردازد و نشان می‌دهد که فاکتورهای اقتصادی و اجتماعی نقش تعیین‌کننده‌ای در این زمینه دارند. چنین یافته‌هایی می‌تواند به بازتعریف سیاست‌های مدیریتی و انتگراسیون اجتماعی در اسپانیا کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجران",
+        "#اسپانیا",
+        "#امنیت_عمومی",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -905,28 +947,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e6b6f67b5870",
-      "source": "EL PAÍS",
-      "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-      "summary": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-      "url": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VQIHVPE5FRH4JFDSR3MP54S6XQ.jpg?auth=4a6038c7e9e4d6785641d2161dd4a30c57d7e40562011bd095415e00413d53ab",
-      "published_at": "2026-08-16T23:00:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-      "lead_fa": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "60c9e0cf352f",
       "source": "EL PAÍS España",
       "title": "La frontera de Ceuta como muro de Berlín invertido",
@@ -956,6 +976,50 @@
       "editorial_version": 2
     },
     {
+      "id": "e6b6f67b5870",
+      "source": "EL PAÍS",
+      "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
+      "summary": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
+      "url": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VQIHVPE5FRH4JFDSR3MP54S6XQ.jpg?auth=4a6038c7e9e4d6785641d2161dd4a30c57d7e40562011bd095415e00413d53ab",
+      "published_at": "2026-08-16T23:00:00+00:00",
+      "category": "economia",
+      "priority": 72,
+      "title_fa": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
+      "lead_fa": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f12b86da9ef5",
+      "source": "La Vanguardia",
+      "title": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
+      "summary": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615072/catalunya-recuerda-victimas-atentados-17-nueve-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/02/6a1ea7d0db465.jpeg",
+      "published_at": "2026-08-17T09:12:59+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
+      "lead_fa": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e4c051cdd938",
       "source": "La Vanguardia",
       "title": "Schubertíada “¡fantástica!” con Matilda Sterby",
@@ -978,39 +1042,17 @@
       "editorial_version": 2
     },
     {
-      "id": "51b6ed1a4009",
-      "source": "La Vanguardia",
-      "title": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
-      "summary": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
-      "url": "https://www.lavanguardia.com/gente/20260817/11606681/verano-mas-magico-mireia-oriol-euforica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a71c5be1c109.jpeg",
-      "published_at": "2026-08-17T06:44:46+02:00",
+      "id": "2326fc75dbb4",
+      "source": "EL PAÍS",
+      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "summary": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
+      "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
+      "published_at": "2026-08-17T07:15:15+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
-      "lead_fa": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ae9b31e0b5d0",
-      "source": "La Vanguardia",
-      "title": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
-      "summary": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260817/11612719/nueva-baby-doll-vestido-cambio-manera-entender-feminidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c7fce68ccb.r_d.1572-1602-0.jpeg",
-      "published_at": "2026-08-17T06:30:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
-      "lead_fa": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1159,6 +1201,50 @@
         "#تلفونیکا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "51b6ed1a4009",
+      "source": "La Vanguardia",
+      "title": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
+      "summary": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
+      "url": "https://www.lavanguardia.com/gente/20260817/11606681/verano-mas-magico-mireia-oriol-euforica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a71c5be1c109.jpeg",
+      "published_at": "2026-08-17T06:44:46+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
+      "lead_fa": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ae9b31e0b5d0",
+      "source": "La Vanguardia",
+      "title": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
+      "summary": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260817/11612719/nueva-baby-doll-vestido-cambio-manera-entender-feminidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c7fce68ccb.r_d.1572-1602-0.jpeg",
+      "published_at": "2026-08-17T06:30:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
+      "lead_fa": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1823,7 +1909,7 @@
     },
     {
       "id": "e9a11c177ba4",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
       "summary": "El alcalde de Vigo cree que las opiniones de Felipe González “tienen poco efecto electoral” y que el ciclo de Sánchez aún no ha terminado",
       "url": "https://elpais.com/espana/2026-08-17/abel-caballero-a-bad-bunny-le-hariamos-una-casina-mucho-mejor-que-la-que-tiene.html",
@@ -1866,17 +1952,17 @@
       "editorial_version": 2
     },
     {
-      "id": "7c808db1e1a2",
+      "id": "b71e97c4835f",
       "source": "EL PAÍS",
-      "title": "Q Lazzarus, la cantante de ‘Goodbye Horses’ que desapareció del mapa sin conocer su éxito: “Ser mujer afroamericana afectó mucho a su vida”",
-      "summary": "En 1986, Diane Luckey, una taxista con ambiciones musicales, grabó un ‘single’ que se convirtió en icono gracias a ‘El silencio de los corderos’ y versiones de medio centenar de artistas. Nunca cobró un céntimo por el éxito de la canción y se le perdió la pista durante 25 años, hasta que la cineasta Eva Aridjis Fuentes dio con ella en 2019",
-      "url": "https://elpais.com/gente/2026-08-17/q-lazzarus-la-cantante-de-goodbye-horses-que-desaparecio-del-mapa-sin-conocer-su-exito-ser-mujer-afroamericana-afecto-mucho-a-su-vida.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/66GWMWKJFJHXNCSSU3SOF7NAY4.tif?auth=7a46e8ee00a47bf489d493984bc5ae457776ca3c785c3a2f8ec569e54e41ce69",
+      "title": "Mi verano en el asfalto: ¿qué hace que cada año más gente quiera pasar agosto en la ciudad?",
+      "summary": "Los estudios demuestran que los españoles optan, cada vez más, por no viajar este mes y disfrutar de las bondades que ofrecen sus ciudades: verbenas, conciertos y la posibilidad de encontrar mesa sin reserva",
+      "url": "https://elpais.com/icon/2026-08-17/mi-verano-en-el-asfalto-que-hace-que-cada-ano-mas-gente-quiera-pasar-agosto-en-la-ciudad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7IY7PNSALFFEVP3ORGHA3OG7RQ.jpg?auth=499554733f428c8b8b6385141c9ccd4a102eaba746d28084455a56dbfeea3762",
       "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "cultura",
+      "category": "sociedad",
       "priority": 69,
-      "title_fa": "Q Lazzarus, la cantante de ‘Goodbye Horses’ que desapareció del mapa sin conocer su éxito: “Ser mujer afroamericana afectó mucho a su vida”",
-      "lead_fa": "En 1986, Diane Luckey, una taxista con ambiciones musicales, grabó un ‘single’ que se convirtió en icono gracias a ‘El silencio de los corderos’ y versiones de medio centenar de artistas. Nunca cobró un céntimo por el éxito de la canción y se le perdió la pista durante 25 años, hasta que la cineasta Eva Aridjis Fuentes dio con ella en 2019",
+      "title_fa": "Mi verano en el asfalto: ¿qué hace que cada año más gente quiera pasar agosto en la ciudad?",
+      "lead_fa": "Los estudios demuestran que los españoles optan, cada vez más, por no viajar este mes y disfrutar de las bondades que ofrecen sus ciudades: verbenas, conciertos y la posibilidad de encontrar mesa sin reserva",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1910,17 +1996,17 @@
       "editorial_version": 2
     },
     {
-      "id": "b71e97c4835f",
+      "id": "7c808db1e1a2",
       "source": "EL PAÍS",
-      "title": "Mi verano en el asfalto: ¿qué hace que cada año más gente quiera pasar agosto en la ciudad?",
-      "summary": "Los estudios demuestran que los españoles optan, cada vez más, por no viajar este mes y disfrutar de las bondades que ofrecen sus ciudades: verbenas, conciertos y la posibilidad de encontrar mesa sin reserva",
-      "url": "https://elpais.com/icon/2026-08-17/mi-verano-en-el-asfalto-que-hace-que-cada-ano-mas-gente-quiera-pasar-agosto-en-la-ciudad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7IY7PNSALFFEVP3ORGHA3OG7RQ.jpg?auth=499554733f428c8b8b6385141c9ccd4a102eaba746d28084455a56dbfeea3762",
+      "title": "Q Lazzarus, la cantante de ‘Goodbye Horses’ que desapareció del mapa sin conocer su éxito: “Ser mujer afroamericana afectó mucho a su vida”",
+      "summary": "En 1986, Diane Luckey, una taxista con ambiciones musicales, grabó un ‘single’ que se convirtió en icono gracias a ‘El silencio de los corderos’ y versiones de medio centenar de artistas. Nunca cobró un céntimo por el éxito de la canción y se le perdió la pista durante 25 años, hasta que la cineasta Eva Aridjis Fuentes dio con ella en 2019",
+      "url": "https://elpais.com/gente/2026-08-17/q-lazzarus-la-cantante-de-goodbye-horses-que-desaparecio-del-mapa-sin-conocer-su-exito-ser-mujer-afroamericana-afecto-mucho-a-su-vida.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/66GWMWKJFJHXNCSSU3SOF7NAY4.tif?auth=7a46e8ee00a47bf489d493984bc5ae457776ca3c785c3a2f8ec569e54e41ce69",
       "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 69,
-      "title_fa": "Mi verano en el asfalto: ¿qué hace que cada año más gente quiera pasar agosto en la ciudad?",
-      "lead_fa": "Los estudios demuestran que los españoles optan, cada vez más, por no viajar este mes y disfrutar de las bondades que ofrecen sus ciudades: verbenas, conciertos y la posibilidad de encontrar mesa sin reserva",
+      "title_fa": "Q Lazzarus, la cantante de ‘Goodbye Horses’ que desapareció del mapa sin conocer su éxito: “Ser mujer afroamericana afectó mucho a su vida”",
+      "lead_fa": "En 1986, Diane Luckey, una taxista con ambiciones musicales, grabó un ‘single’ que se convirtió en icono gracias a ‘El silencio de los corderos’ y versiones de medio centenar de artistas. Nunca cobró un céntimo por el éxito de la canción y se le perdió la pista durante 25 años, hasta que la cineasta Eva Aridjis Fuentes dio con ella en 2019",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1977,7 +2063,7 @@
     },
     {
       "id": "9f588b3f3f15",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
       "summary": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
       "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
@@ -2207,28 +2293,6 @@
       "editorial_version": 2
     },
     {
-      "id": "88197214eee5",
-      "source": "La Vanguardia",
-      "title": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
-      "summary": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260816/11614812/joven-italiano-coma-atacado-salir-discoteca-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81d8d54aec8.jpeg",
-      "published_at": "2026-08-16T17:45:53+02:00",
-      "category": "deportes",
-      "priority": 65,
-      "title_fa": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
-      "lead_fa": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7f7ea14d214a",
       "source": "EL PAÍS Economía",
       "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
@@ -2311,35 +2375,6 @@
         "#مفقودان",
         "#حقوق_بشر",
         "#تاریخ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "31b4803ae19a",
-      "source": "EL PAÍS Economía",
-      "title": "Cuidado con espiar (aunque sea sin querer) a sus vecinos: estas son las sanciones a las que se enfrenta",
-      "summary": "Las cámaras de vigilancia, videoporteros y mirillas digitales que capten imágenes de forma indiscriminada pueden abocar al pago de multas",
-      "url": "https://elpais.com/economia/negocios/2026-08-15/cuidado-con-espiar-aunque-sea-sin-querer-a-sus-vecinos-estas-son-las-sanciones-a-las-que-se-enfrenta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TBYWNQCDOJDCPBPBPHQBFYXOBI.jpg?auth=656576f6af2423c5391fe76559b8221efa476a02292cfe5d7178ae557db5b201",
-      "published_at": "2026-08-15T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "جریمه‌های سنگین برای دوربین‌های مداربسته متخلف در اسپانیا",
-      "lead_fa": "نصب دوربین‌های نظارتی، آیفون‌های تصویری و چشمی‌های دیجیتالی که تصاویری فراتر از ملک شخصی ثبت کنند، تخلف محسوب می‌شود. این اقدام می‌تواند مالکان را با جریمه‌های مالی سنگین مواجه کند.",
-      "key_points_fa": [
-        "ضبط تصادفی یا هدفمند تصاویر اماکن عمومی و همسایگان غیرقانونی است.",
-        "آیفون‌های تصویری و چشمی‌های دیجیتال مشمول این قوانین حریم خصوصی می‌شوند.",
-        "سازمان حفاظت از داده‌ها در اسپانیا بر این تخلفات نظارت دارد."
-      ],
-      "analysis_fa": "استفاده از تجهیزات نظارتی خانگی در اسپانیا با قوانین سخت‌گیرانه حریم خصوصی و حفاظت از داده‌ها گره خورده است. مرز میان امنیت شخصی و تجاوز به حریم خصوصی دیگران بسیار باریک است و مالکان موظفند زاویه دید تجهیزات خود را دقیقاً محدود به فضای خصوصی خود کنند تا از پی مرجع قانونی جلوگیری شود.",
-      "audience_impact_fa": "ایرانیان مقیم اسپانیا که از دوربین‌های امنیتی یا آیفون‌های تصویری در آپارتمان‌ها یا خانه‌های خود استفاده می‌کنند، باید زاویه دید آن‌ها را بررسی کنند تا تصویر اماکن عمومی یا املاک مجاور را ثبت نکند.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حریم_خصوصی",
-        "#قوانین_اسپانیا",
-        "#مهاجران"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2437,28 +2472,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "9b0da872caef",
-      "source": "EL PAÍS Economía",
-      "title": "¿Por qué un pequeño pueblo riojano es la capital mundial de las butacas?",
-      "summary": "El municipio de Ezcaray cuenta con tres fábricas que han acomodado a miles de espectadores de cine en España desde hace más de medio siglo. Ahora sus productos llegan a teatros y estadios internacionales",
-      "url": "https://elpais.com/economia/negocios/2026-08-15/por-que-un-pequeno-pueblo-riojano-es-la-capital-mundial-de-las-butacas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2I6MTC2AUNCQJHRYDJ6Y3JRJBE.jpg?auth=84e9a9bcf359620fd9e8639531a894cb2526f0ddc2508979b4677d1281e44d4e",
-      "published_at": "2026-08-15T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 53,
-      "title_fa": "¿Por qué un pequeño pueblo riojano es la capital mundial de las butacas?",
-      "lead_fa": "El municipio de Ezcaray cuenta con tres fábricas que han acomodado a miles de espectadores de cine en España desde hace más de medio siglo. Ahora sus productos llegan a teatros y estadios internacionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2490,7 +2503,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 139
+      "count": 142
     },
     {
       "source": "EL PAÍS España",
