@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:54:51.301361+00:00",
+  "generated_at": "2026-08-17T05:47:33.581135+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -241,22 +241,28 @@
       "id": "6770425da099",
       "source": "EL PAÍS",
       "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "summary": "La actriz, que deja una hija de 12 años, fue actriz infantil y participó en ‘Nashville’ o ‘Bichos’. Su hermano menor murió en 2023 por una cardiopatía",
+      "summary": "La intérprete, que deja una hija de 12 años, participó en ‘Nashville’ o ‘Bichos’. Su hermano menor murió en 2023 por una cardiopatía",
       "url": "https://elpais.com/gente/2026-08-17/muere-hayden-panettiere-actriz-de-heroes-a-los-36-anos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/XE2HQCMK7VL7JGX43QJ3LGUQKE.jpg?auth=bcf0162902d18820d3320e0f24be98dbbdcb89a15e8e9c53b9ac1257073602e6",
-      "published_at": "2026-08-17T04:03:04+00:00",
+      "published_at": "2026-08-17T05:42:06+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "lead_fa": "La actriz, que deja una hija de 12 años, fue actriz infantil y participó en ‘Nashville’ o ‘Bichos’. Su hermano menor murió en 2023 por una cardiopatía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درگذشت هیدن پنیتیر، بازیگر سریال «هیروز»، در ۳۶ سالگی",
+      "lead_fa": "هیدن پنیتیر، بازیگر شناخته‌شده آمریکایی، در سن ۳۶ سالگی درگذشت. او بازی در سریال‌های «هیروز» و «نشویل» را در کارنامه داشت.",
+      "key_points_fa": [
+        "درگذشت در سن ۳۶ سالگی",
+        "بازی در سریال‌های محبوب «هیروز» و «نشویل»",
+        "بر جای گذاشتن یک فرزند ۱۲ ساله"
+      ],
+      "analysis_fa": "درگذشت این بازیگر بازتاب گسترده‌ای در رسانه‌های بین‌المللی داشته است و طرفداران آثار تلویزیونی را در شوک فرو برد. بررسی دقیق علت فوت نیازمند انتشار اطلاعیه‌های رسمی پزشکی قانونی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هیدن_پنیتیر",
+        "#سینما",
+        "#درگذشت"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -269,16 +275,21 @@
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Epidemia de ébola sin precedentes",
-      "lead_fa": "Es urgente la reacción mundial frente al brote en la República Democrática del Congo, que avanza a un ritmo jamás visto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "واکنش جهانی به شیوع بی‌سابقه ابولا در کنگو",
+      "lead_fa": "واکنش جهانی به شیوع بیماری ابولا در جمهوری دموکراتیک کنگو امری فوری خوانده شد. این بیماری با سرعتی بی‌سابقه در حال پیشروی است.",
+      "key_points_fa": [
+        "شیوع بی‌سابقه ابولا در جمهوری دموکراتیک کنگو",
+        "نیاز فوری به واکنش جهانی در برابر پیشروی این بیماری"
       ],
-      "ai_translated": false,
+      "analysis_fa": "گسترش سریع این بیماری در کنگو نگرانی‌های بین‌المللی را درباره توانایی مهار آن افزایش داده است و سازمان‌های بهداشتی بر ضرورت مداخله سریع تأکید می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#ابولا",
+        "#کنگو",
+        "#بهداشت_جهانی"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -289,18 +300,25 @@
       "url": "https://elpais.com/espana/2026-08-17/los-colombianos-en-espana-se-movilizan-tras-el-terremoto-tengo-mucha-impotencia-de-estar-al-otro-lado.html",
       "image": "https://imagenes.elpais.com/resizer/v2/2FW2DTI3PBCKTG4LGY7T66II2Y.JPG?auth=20e0c0b97b66c1f8e177580284842288b30de213abe7491f5cdce792e26094ec",
       "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "ciencia",
+      "category": "sociedad",
       "priority": 77,
-      "title_fa": "Los colombianos en España se movilizan tras el terremoto: “Tengo mucha impotencia de estar al otro lado”",
-      "lead_fa": "Restaurantes, comercios, creadores de contenido y espacios culturales impulsan recogidas y actividades para apoyar a los afectados desde la distancia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "واکنش کلمبیایی‌های مقیم اسپانیا به زلزله و تلاش برای کمک به آسیب‌دیدگان",
+      "lead_fa": "کلمبیایی‌های مقیم اسپانیا پس از وقوع زمین‌لرزه دست به اقدام زدند. رستوران‌ها و اصناف به جمع‌آوری کمک برای آسیب‌دیدگان از راه دور مشغول شده‌اند.",
+      "key_points_fa": [
+        "مشارکت رستوران‌ها، کسب‌وکارها و تولیدکنندگان محتوا در جمع‌ آوری کمک",
+        "برگزاری فعالیت‌های مختلف فرهنگی برای حمایت از آسیب‌دیدگان زلزله",
+        "ابراز احساس ناتوانی و نگرانی توسط مهاجران کلمبیایی دور از وطن"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده اهمیت شبکه‌های همبستگی مهاجران در زمان بحران‌های طبیعی در کشورهای مبدأ است. جامعه کلمبیایی در اسپانیا از طریق ابزارهای فرهنگی و تجاری خود تلاش می‌کند تا از فاصله دور به هم‌وطنانش یاری رساند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#کلمبیا",
+        "#زلزله",
+        "#مهاجران"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -425,7 +443,7 @@
       "title": "Alemania afronta dividida las propuestas para ilegalizar a la extrema derecha",
       "summary": "Las campañas electorales regionales reavivan las iniciativas para solicitar la inconstitucionalidad del partido AfD",
       "url": "https://elpais.com/internacional/2026-08-17/alemania-afronta-dividida-las-propuestas-para-ilegalizar-a-la-extrema-derecha.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LWSCCXT4WBKA5AV6PKGDJT7LYE.jpg?auth=c1f27f2166bbb3f1e463fba6f7809b0b0ff4c7fdbe33f33e9d4688d84dde944c",
+      "image": "https://imagenes.elpais.com/resizer/v2/JBY3OJ2HUZBUPMEYPO3K27IBIQ.JPG?auth=4f8acc8aa861acf94c1fac58b1a9bb7a8624abc06dfade129d7a83a27c43446a",
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "politica",
       "priority": 75,
@@ -780,28 +798,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e6b6f67b5870",
-      "source": "EL PAÍS",
-      "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-      "summary": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-      "url": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VQIHVPE5FRH4JFDSR3MP54S6XQ.jpg?auth=4a6038c7e9e4d6785641d2161dd4a30c57d7e40562011bd095415e00413d53ab",
-      "published_at": "2026-08-16T23:00:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-      "lead_fa": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "69dafa302c3b",
       "source": "La Vanguardia",
       "title": "Muere el conductor de un turismo en un accidente en Manresa",
@@ -940,6 +936,28 @@
         "#مجارست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e6b6f67b5870",
+      "source": "EL PAÍS",
+      "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
+      "summary": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
+      "url": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VQIHVPE5FRH4JFDSR3MP54S6XQ.jpg?auth=4a6038c7e9e4d6785641d2161dd4a30c57d7e40562011bd095415e00413d53ab",
+      "published_at": "2026-08-16T23:00:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
+      "lead_fa": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1243,6 +1261,28 @@
       "editorial_version": 2
     },
     {
+      "id": "3cd915f237d5",
+      "source": "EL PAÍS",
+      "title": "Susana Delgado, experta en microbiota: “Los 1.000 primeros días de vida son un periodo crítico”",
+      "summary": "La científica del CSIC explica cómo se construye este ecosistema de microorganismos que habitan nuestro organismo durante los primeros años de vida, su relación con enfermedades y qué hacer para mantenerlo sano",
+      "url": "https://elpais.com/salud-y-bienestar/2026-08-17/susana-delgado-experta-en-microbiota-los-1000-primeros-dias-de-vida-son-un-periodo-critico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/H2BN4VX5ERBF7BMUGFN3LF2N5M.jpg?auth=a84922cc73996a176987db9dd2d59be6a0838652d4e189eb6f64d28f1c601ce8",
+      "published_at": "2026-08-17T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Susana Delgado, experta en microbiota: “Los 1.000 primeros días de vida son un periodo crítico”",
+      "lead_fa": "La científica del CSIC explica cómo se construye este ecosistema de microorganismos que habitan nuestro organismo durante los primeros años de vida, su relación con enfermedades y qué hacer para mantenerlo sano",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e9a11c177ba4",
       "source": "EL PAÍS",
       "title": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
@@ -1254,6 +1294,28 @@
       "priority": 70,
       "title_fa": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
       "lead_fa": "El alcalde de Vigo cree que las opiniones de Felipe González “tienen poco efecto electoral” y que el ciclo de Sánchez aún no ha terminado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "628686dc8a2d",
+      "source": "EL PAÍS",
+      "title": "La evolución del padre: la mayoría de los mamíferos machos apenas se ocupan de sus crías",
+      "summary": "Investigadores han descubierto que el papel de los papás varía mucho entre las distintas culturas. Algunos animales pueden ofrecer pistas útiles sobre nuestro pasado evolutivo",
+      "url": "https://elpais.com/ciencia/2026-08-17/la-evolucion-del-padre-la-mayoria-de-los-mamiferos-machos-apenas-se-ocupan-de-sus-crias.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/67RJ6WZ6QRGWVEUKPVYQWNVA3M.jpg?auth=3e584c807569d6df1a9b0e944d20926181ee9953e8017a1e1a287fd8456d4068",
+      "published_at": "2026-08-17T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "La evolución del padre: la mayoría de los mamíferos machos apenas se ocupan de sus crías",
+      "lead_fa": "Investigadores han descubierto que el papel de los papás varía mucho entre las distintas culturas. Algunos animales pueden ofrecer pistas útiles sobre nuestro pasado evolutivo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1375,28 +1437,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3cd915f237d5",
-      "source": "EL PAÍS",
-      "title": "Susana Delgado, experta en microbiota: “Los 1.000 primeros días de vida son un periodo crítico”",
-      "summary": "La científica del CSIC explica cómo se construye este ecosistema de microorganismos que habitan nuestro organismo durante los primeros años de vida, su relación con enfermedades y qué hacer para mantenerlo sano",
-      "url": "https://elpais.com/salud-y-bienestar/2026-08-17/susana-delgado-experta-en-microbiota-los-1000-primeros-dias-de-vida-son-un-periodo-critico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/H2BN4VX5ERBF7BMUGFN3LF2N5M.jpg?auth=a84922cc73996a176987db9dd2d59be6a0838652d4e189eb6f64d28f1c601ce8",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Susana Delgado, experta en microbiota: “Los 1.000 primeros días de vida son un periodo crítico”",
-      "lead_fa": "La científica del CSIC explica cómo se construye este ecosistema de microorganismos que habitan nuestro organismo durante los primeros años de vida, su relación con enfermedades y qué hacer para mantenerlo sano",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7c808db1e1a2",
       "source": "EL PAÍS",
       "title": "Q Lazzarus, la cantante de ‘Goodbye Horses’ que desapareció del mapa sin conocer su éxito: “Ser mujer afroamericana afectó mucho a su vida”",
@@ -1496,28 +1536,6 @@
       "priority": 70,
       "title_fa": "Gominolas de vinagre de manzana: ¿son la solución para el abdomen perfecto este verano?",
       "lead_fa": "Algunos ‘influencers’ han remplazado el vinagre de manzana por este chuche que promete desinflamar el estómago y mejorar la digestión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e008fc4a81dc",
-      "source": "EL PAÍS",
-      "title": "Ocho bebidas sin alcohol que se pueden preparar en casa para refrescarse",
-      "summary": "Con frutas, té, café o hierbas aromáticas puedes hacer distintas combinaciones para los días en los que no quieres beber solo agua pero necesitas algo fresco",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-17/ocho-bebidas-sin-alcohol-que-se-pueden-preparar-en-casa-para-refrescarse.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PADUIRHW6NAJBHMES4FBWFEY3Y.jpg?auth=8b9ed947703781754c72a3e70346a95dbdb2bf06a07b3a18a5a3dc9d283fa276",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ocho bebidas sin alcohol que se pueden preparar en casa para refrescarse",
-      "lead_fa": "Con frutas, té, café o hierbas aromáticas puedes hacer distintas combinaciones para los días en los que no quieres beber solo agua pero necesitas algo fresco",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2257,50 +2275,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3258f9670e6c",
-      "source": "La Vanguardia",
-      "title": "Una de las autocaravanas más deseadas da el salto para ofrecer más autonomía y seguridad",
-      "summary": "Niesmann+Bischoff renueva la iSmove de cara a 2027 con un completo arsenal de asistentes a la conducción, un equipamiento de serie más completo y soluciones que permiten viajar durante más tiempo sin depender de campings o áreas de servicio",
-      "url": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260816/11606635/autocaravanas-mas-deseadas-da-salto-definitivo-ofrecer-mas-autonomia-seguridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705a7aa58ef.r_d.1819-1392-0.jpeg",
-      "published_at": "2026-08-16T07:00:00+02:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "Una de las autocaravanas más deseadas da el salto para ofrecer más autonomía y seguridad",
-      "lead_fa": "Niesmann+Bischoff renueva la iSmove de cara a 2027 con un completo arsenal de asistentes a la conducción, un equipamiento de serie más completo y soluciones que permiten viajar durante más tiempo sin depender de campings o áreas de servicio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4977ea71c7d6",
-      "source": "La Vanguardia",
-      "title": "Juanjo Figueroa, sumiller: “En Galicia veo cartas con 5 vinos gallegos y 15 Riojas; eso debe cambiar”",
-      "summary": "¿Cuántas referencias debería incluir una carta de vinos? ¿Es mejor vender vinos caros o baratos? ¿Prima siempre la proximidad? El codirector de SAVIA Escuela de Sumillería de La Rioja da las claves",
-      "url": "https://www.lavanguardia.com/comer/beber/20260816/11607484/juanjo-figueroa-sumiller-carta-vinos-restaurante-deberia-representar-zona-esta-ubicado-cdv.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71a9bf159b1.r_d.640-674-0.jpeg",
-      "published_at": "2026-08-16T07:00:00+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Juanjo Figueroa, sumiller: “En Galicia veo cartas con 5 vinos gallegos y 15 Riojas; eso debe cambiar”",
-      "lead_fa": "¿Cuántas referencias debería incluir una carta de vinos? ¿Es mejor vender vinos caros o baratos? ¿Prima siempre la proximidad? El codirector de SAVIA Escuela de Sumillería de La Rioja da las claves",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c3b6c38a7e37",
       "source": "EL PAÍS España",
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -2326,6 +2300,50 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3258f9670e6c",
+      "source": "La Vanguardia",
+      "title": "Una de las autocaravanas más deseadas da el salto para ofrecer más autonomía y seguridad",
+      "summary": "Niesmann+Bischoff renueva la iSmove de cara a 2027 con un completo arsenal de asistentes a la conducción, un equipamiento de serie más completo y soluciones que permiten viajar durante más tiempo sin depender de campings o áreas de servicio",
+      "url": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260816/11606635/autocaravanas-mas-deseadas-da-salto-definitivo-ofrecer-mas-autonomia-seguridad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705a7aa58ef.r_d.1819-1392-0.jpeg",
+      "published_at": "2026-08-16T07:00:00+02:00",
+      "category": "cultura",
+      "priority": 62,
+      "title_fa": "Una de las autocaravanas más deseadas da el salto para ofrecer más autonomía y seguridad",
+      "lead_fa": "Niesmann+Bischoff renueva la iSmove de cara a 2027 con un completo arsenal de asistentes a la conducción, un equipamiento de serie más completo y soluciones que permiten viajar durante más tiempo sin depender de campings o áreas de servicio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4977ea71c7d6",
+      "source": "La Vanguardia",
+      "title": "Juanjo Figueroa, sumiller: “En Galicia veo cartas con 5 vinos gallegos y 15 Riojas; eso debe cambiar”",
+      "summary": "¿Cuántas referencias debería incluir una carta de vinos? ¿Es mejor vender vinos caros o baratos? ¿Prima siempre la proximidad? El codirector de SAVIA Escuela de Sumillería de La Rioja da las claves",
+      "url": "https://www.lavanguardia.com/comer/beber/20260816/11607484/juanjo-figueroa-sumiller-carta-vinos-restaurante-deberia-representar-zona-esta-ubicado-cdv.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71a9bf159b1.r_d.640-674-0.jpeg",
+      "published_at": "2026-08-16T07:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Juanjo Figueroa, sumiller: “En Galicia veo cartas con 5 vinos gallegos y 15 Riojas; eso debe cambiar”",
+      "lead_fa": "¿Cuántas referencias debería incluir una carta de vinos? ¿Es mejor vender vinos caros o baratos? ¿Prima siempre la proximidad? El codirector de SAVIA Escuela de Sumillería de La Rioja da las claves",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
