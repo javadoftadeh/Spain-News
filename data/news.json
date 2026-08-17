@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:37:12.436496+00:00",
+  "generated_at": "2026-08-17T19:56:32.482166+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -749,34 +749,6 @@
       "editorial_version": 2
     },
     {
-      "id": "24d41784c474",
-      "source": "La Vanguardia",
-      "title": "Ayuso vuelve a Sánchez para esquivar el ático y recuperar la iniciativa",
-      "summary": "“No voy a necesitar una residencia oficial a diez meses de las elecciones”",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615213/ayuso-vuelve-sanchez-esquivar-atico-recuperar-iniciativa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a82f58d7ec4a.r_d.961-386-0.jpeg",
-      "published_at": "2026-08-17T12:59:40+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "پاسخ آیوسو به سانتچز برای خروج از حاشیه ملک لوکس و بازیابی ابتکار عمل",
-      "lead_fa": "ایزابل دیاز آیوسو در واکنش به فشارهای سیاسی اخیر درباره مسکن خود موضع‌گیری کرد. او تأکید کرد که در آستانه پایان دوره فعلی نیازی به اقامتگاه رسمی ندارد.",
-      "key_points_fa": [
-        "تاکید آیوسو بر عدم نیاز به اقامتگاه رسمی در ماه‌های پایانی دوره انتخاباتی",
-        "تلاش رئیس دولت مادرید برای بازگرداندن ابتکار عمل سیاسی به حزب متبوع خود",
-        "واکنش به حواشی پیرامون وضعیت مسکن و املاک مرتبط با وی"
-      ],
-      "analysis_fa": "این موضع‌گیری در راستای تلاش‌های مکرر رهبران محلی برای مقابله با اتهامات مخالفان سیاسی و مدیریت بحران‌های رسانه‌ای صورت می‌گیرد. تغییر تمرکز از حواشی شخصی به دستاوردهای مدیریتی تاکتیک رایجی در سپهر سیاسی اسپانیا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آیوسو",
-        "#اسپانیا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "86fc4a9c2850",
       "source": "La Vanguardia",
       "title": "Alejandro Agag, yerno de Aznar, asciende a Juan Urdangarin en su empresa de eventos deportivos",
@@ -1298,16 +1270,23 @@
       "published_at": "2026-08-17T11:52:35+02:00",
       "category": "politica",
       "priority": 72,
-      "title_fa": "El tribunal tailandés concluye la sentencia sobre los recursos del caso Daniel Sancho",
-      "lead_fa": "El Tribunal de Apelaciones de Phuket ha enviado la decisión al tribunal de primera instancia a la espera de elegir un día para su lectura pública",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پایان بررسی تجدیدنظر پرونده دنیل سانچو در دادگاه تایلند",
+      "lead_fa": "دادگاه تجدیدنظر پوکت تصمیم خود درباره پرونده دنیل سانچو را به دادگاه بدوی ارسال کرد. این دادگاه به زودی تاریخ قرائت عمومی حکم را اعلام خواهد کرد.",
+      "key_points_fa": [
+        "دادگاه تجدیدنظر پوکت تصمیم نهایی خود را نهایی کرد.",
+        "پرونده برای اعلام رسمی به دادگاه بدوی فرستاده شد.",
+        "زمان دقیق قرائت عمومی حکم به زودی مشخص می‌شود."
+      ],
+      "analysis_fa": "این مرحله نشان‌دهنده نزدیک شدن به پایان یکی از مراحل حقوقی پرونده‌ای است که بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است. تصمیم دادگاه تجدیدنظر می‌تواند تغییری در حکم اولیه ایجاد کند یا آن را تایید نماید، اما زمان دقیق اعلام رای هنوز به طور رسمی اعلام نشده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دنیل_سانچو",
+        "#اسپانیا",
+        "#تایلند",
+        "#اخبار_قضایی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1405,16 +1384,51 @@
       "published_at": "2026-08-17T20:45:06+02:00",
       "category": "deportes",
       "priority": 70,
-      "title_fa": "Rodri aterriza en Barcelona con un mensaje contundente: “Vengo a ganar todo lo que se ponga por delante”",
-      "lead_fa": "El jugador, que será presentado este miércoles, asegura a su llegada que jugar en el Barcelona “es un sueño”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ورود رودری به بارسلونا با پیام صریح: آمده‌ام همه جام‌ها را ببرم",
+      "lead_fa": "رودری برای پیوستن به بارسلونا وارد این شهر شد. او بازی در این تیم را رویای خود توصیف کرد.",
+      "key_points_fa": [
+        "رودری به عنوان بازیکن جدید بارسلونا معرفی می‌شود.",
+        "او هدف خود را پیروزی در تمامی رقابت‌های پیش رو اعلام کرد.",
+        "این بازیکن انتقال خود به بارسلونا را تحقق یک رویا دانست."
+      ],
+      "analysis_fa": "پیوستن بازیکنان جدید به باشگاه‌های بزرگ مانند بارسلونا همواره با انتظارات بالایی همراه است. اظهارات محکم رودری نشان‌دهنده انگیزه بالای او برای موفقیت در ترکیب تیم جدیدش است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#فوتبال_اسپانیا",
+        "#نقل_وانتقالات"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e1c9665bd8b5",
+      "source": "EL PAÍS",
+      "title": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
+      "summary": "Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones",
+      "url": "https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AK3ZQNOEINO2BFKMESSQFXV2SY.jpg?auth=c12200051a9f984e32edaa874435e7b15a1a1f2de372a7a094241acc54569893",
+      "published_at": "2026-08-17T19:33:52+00:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "دور شدن از پایان تنش؛ پایان توافق آمریکا و ایران",
+      "lead_fa": "با انقضای توافق میان ایالات متحده و ایران، چشم‌انداز پایان مناقشه دورتر شد. واشنگتن همچنین عمان را به بمباران تهدید کرد.",
+      "key_points_fa": [
+        "انقضای توافق پیشین میان ایالات متحده و ایران",
+        "تهدید واشنگتن علیه عمان به دلیل میانجیگری با تهران",
+        "تلاش عمان برای بازگشایی تنگه هرمز به عنوان مانع اصلی مذاکرات"
+      ],
+      "analysis_fa": "پایان توافق و افزایش تنش‌های لفظی میان ایالات متحده و میانجی‌گران منطقه‌ای نشان‌دهنده پیچیدگی بیشتر در مسیر دیپلماسی و حل‌وفصل اختلافات مربوط به تنگه هرمز است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#ایران",
+        "#آمریکا",
+        "#تنگه_هرمز",
+        "#سیاست"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1509,28 +1523,6 @@
         "#آمریکا"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e1c9665bd8b5",
-      "source": "EL PAÍS",
-      "title": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
-      "summary": "Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones",
-      "url": "https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AK3ZQNOEINO2BFKMESSQFXV2SY.jpg?auth=c12200051a9f984e32edaa874435e7b15a1a1f2de372a7a094241acc54569893",
-      "published_at": "2026-08-17T18:24:09+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
-      "lead_fa": "Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1801,6 +1793,28 @@
       "editorial_version": 2
     },
     {
+      "id": "a898de9f0649",
+      "source": "La Vanguardia",
+      "title": "El Supremo ratifica el veredicto por abuso sexual contra Trump en el caso Carroll",
+      "summary": "La máxima instancia judicial de EE.UU., controlada por jueces conservadores, de los que tres fueron nombrados por el actual mandatario, niega por segunda vez el intento del presidente de anular la sentencia civil de cinco millones para la escritora E. Jean Carroll, por abuso sexual",
+      "url": "https://www.lavanguardia.com/internacional/20260817/11615460/trump-culpable-nuevo-tribunal-supremo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/14/6a566aab3dc6e.r_d.1600-1200-0.jpeg",
+      "published_at": "2026-08-17T17:08:59+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El Supremo ratifica el veredicto por abuso sexual contra Trump en el caso Carroll",
+      "lead_fa": "La máxima instancia judicial de EE.UU., controlada por jueces conservadores, de los que tres fueron nombrados por el actual mandatario, niega por segunda vez el intento del presidente de anular la sentencia civil de cinco millones para la escritora E. Jean Carroll, por abuso sexual",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ae9fd7709e34",
       "source": "La Vanguardia",
       "title": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
@@ -1976,7 +1990,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d14ace25ba3.r_d.2229-1455-0.jpeg",
       "published_at": "2026-08-17T09:40:59+02:00",
       "category": "sociedad",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
       "lead_fa": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
       "key_points_fa": [],
@@ -2625,7 +2639,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
