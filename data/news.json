@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:40:13.224092+00:00",
+  "generated_at": "2026-08-17T14:59:43.948453+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -1239,16 +1239,22 @@
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "economia",
       "priority": 72,
-      "title_fa": "Pausa obligada en el apagón nuclear",
-      "lead_fa": "El objetivo de evitar alteraciones repentinas de precios justifica flexibilizar el calendario de cierre de las centrales españolas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "توقف موقت در روند تعطیلی نیروگاه‌های هسته‌ای اسپانیا",
+      "lead_fa": "هدف از این تصمیم، جلوگیری از نوسانات ناگهانی قیمت انرژی در بازار است. دولت تقویم تعطیلی نیروگاه‌های هسته‌ای را انعطاف‌پذیرتر می‌کند.",
+      "key_points_fa": [
+        "بازتنگری در جدول زمانی تعطیلی نیروگاه‌های هسته‌ای اسپانیا",
+        "تلاش برای جلوگیری از تغییرات ناگهانی قیمت‌ها در بازار انرژی",
+        "توازن میان اهداف زیست‌محیطی و ثبات اقتصادی"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده چالش‌های دولت در مدیریت گذار انرژی است. حفظ ثبات قیمت‌ها و تأمین پایدار برق، برنامه‌زدايان را ناچار به بازنگری در زمان‌بندی‌های پیشین کرده است بدون اینکه سیاست کلی تغییر کرده باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#انرژی",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1261,16 +1267,23 @@
       "published_at": "2026-08-17T03:30:00+00:00",
       "category": "economia",
       "priority": 72,
-      "title_fa": "“Se busca experto en ‘blockchain’”: bancos, fintech y consultoras se disputan el talento cripto",
-      "lead_fa": "Entidades como CaixaBank, Unicaja, Santander o TradeRepublic y empresas como EY buscan reforzar sus equipos ante el avance del mercado tokenizado y de los activos digitales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رقابت بانک‌ها و فین‌تک‌های اسپانیا برای جذب متخصصان بلاک‌چین",
+      "lead_fa": "بزرگترین مؤسسات مالی و شرکت‌های مشاوره در اسپانیا جذب نیروهای متخصص حوزه ارزهای دیجیتال و فناوری‌های نوین را آغاز کرده‌اند. بانک‌هایی مانند سانتاندر و کوییش‌بانک به همراه شرکت‌های بزرگ در تلاشند تیم‌های خود را تقویت کنند.",
+      "key_points_fa": [
+        "مؤسساتی مانند کوییش‌بانک، یونی‌کاجا، سانتاندر و ترید ریپابلیک به دنبال جذب متخصصان بلاک‌چین هستند.",
+        "شرکت‌های مشاوره‌ای نظیر ارنست اند یانگ نیز در حال تقویت تیم‌های تخصصی خود هستند.",
+        "این جذب نیرو پاسخی به توسعه بازار توکن‌ها و دارایی‌های دیجیتال است."
+      ],
+      "analysis_fa": "رشد روزافزون بازارهای مبتنی بر دارایی‌های دیجیتال و دارایی‌های توکن‌شده در سال‌های اخیر، نهادهای مالی سنتی و شرکت‌های مشاوره را ناچار کرده است تا زیرساخت‌های انسانی خود را برای انطباق با فناوری‌های نوین و رقابت در بازار مالی مدرن تقویت کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#بلاکچین",
+        "#اقتصاد",
+        "#ارزدجیتال"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1283,60 +1296,22 @@
       "published_at": "2026-08-17T03:15:00+00:00",
       "category": "economia",
       "priority": 72,
-      "title_fa": "Los empresarios españoles, más optimistas que la media global ante el reto de la IA",
-      "lead_fa": "Un informe de NTT Data señala que el 95% de las firmas en España se ven preparadas para el despliegue de la agéntica, frente a la cautela generalizada a escala global",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "آمادگی بالای شرکت‌های اسپانیایی در برابر هوش مصنوعی",
+      "lead_fa": "بر اساس گزارش ان‌تی‌تی دیتا، شرکت‌های اسپانیایی نسبت به میانگین جهانی دیدگاه بسیار مثبت‌تری به هوش مصنوعی دارند. ۹۵ درصد از این شرکت‌ها خود را آماده به‌کارگیری فناوری‌های جدید می‌دانند.",
+      "key_points_fa": [
+        "۹۵ درصد شرکت‌های اسپانیایی آماده استقرار هوش مصنوعی ایجنتیک هستند.",
+        "این میزان از آمادگی، بالاتر از میانگین احتیاط‌آمیز جهانی است.",
+        "گزارش توسط شرکت ان‌تی‌تی دیتا منتشر شده است."
+      ],
+      "analysis_fa": "این داده‌ها نشان‌دهنده پویایی بازار کسب‌وکار اسپانیا در پذیرش فناوری‌های نوین و تمایل مدیران به فاصله گرفتن از رویکردهای محتاطانه جهانی است که می‌تواند به رقابت‌پذیری بیشتر اقتصاد این کشور کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#اسپانیا",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ae9fd7709e34",
-      "source": "La Vanguardia",
-      "title": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
-      "summary": "La semana del 10 al 16 de agosto ha sido la más letal con 51 personas fallecidas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260817/11615268/ascienden-64-muertes-calor-comunidad-valenciana-primera-quincena-agosto.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/18/6a5b746e35471.jpeg",
-      "published_at": "2026-08-17T13:49:09+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
-      "lead_fa": "La semana del 10 al 16 de agosto ha sido la más letal con 51 personas fallecidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8ed7950648a1",
-      "source": "La Vanguardia",
-      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "summary": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83099bd48b4.jpeg",
-      "published_at": "2026-08-17T13:47:58+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "lead_fa": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1406,28 +1381,6 @@
       "editorial_version": 2
     },
     {
-      "id": "89b031a0bfc2",
-      "source": "EL PAÍS",
-      "title": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
-      "summary": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
-      "url": "https://elpais.com/internacional/2026-08-17/trump-amenaza-ahora-con-bombardear-oman-si-se-interpone-en-su-camino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BADPZPCZS5IBJPZJR6TFWY3X74.jpg?auth=c2236bc99b77dd6de369985c97fdc4bb3456dce3c7f2307aee6394f47fcc3bbe",
-      "published_at": "2026-08-17T11:41:55+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
-      "lead_fa": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e6b6f67b5870",
       "source": "EL PAÍS",
       "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
@@ -1478,6 +1431,50 @@
       "editorial_version": 2
     },
     {
+      "id": "ae9fd7709e34",
+      "source": "La Vanguardia",
+      "title": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
+      "summary": "La semana del 10 al 16 de agosto ha sido la más letal con 51 personas fallecidas",
+      "url": "https://www.lavanguardia.com/local/valencia/20260817/11615268/ascienden-64-muertes-calor-comunidad-valenciana-primera-quincena-agosto.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/18/6a5b746e35471.jpeg",
+      "published_at": "2026-08-17T13:49:09+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
+      "lead_fa": "La semana del 10 al 16 de agosto ha sido la más letal con 51 personas fallecidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8ed7950648a1",
+      "source": "La Vanguardia",
+      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
+      "summary": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83099bd48b4.jpeg",
+      "published_at": "2026-08-17T13:47:58+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
+      "lead_fa": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1f688eb60758",
       "source": "La Vanguardia",
       "title": "El rascacielos de Los Ángeles donde Cher, Elton John y medio Hollywood ha hecho cola por un ático",
@@ -1511,6 +1508,28 @@
       "priority": 69,
       "title_fa": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
       "lead_fa": "El club blaugrana está perfilando las salidas de los canteranos Tommy Marqués, Jofre Torrents y el portero Yaakobishvili",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "89b031a0bfc2",
+      "source": "EL PAÍS",
+      "title": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
+      "summary": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
+      "url": "https://elpais.com/internacional/2026-08-17/trump-amenaza-ahora-con-bombardear-oman-si-se-interpone-en-su-camino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BADPZPCZS5IBJPZJR6TFWY3X74.jpg?auth=c2236bc99b77dd6de369985c97fdc4bb3456dce3c7f2307aee6394f47fcc3bbe",
+      "published_at": "2026-08-17T11:41:55+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
+      "lead_fa": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
