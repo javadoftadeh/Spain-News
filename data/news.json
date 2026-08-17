@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:36:00.133429+00:00",
+  "generated_at": "2026-08-17T15:56:06.246610+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -429,6 +429,34 @@
         "#کلمبیا",
         "#زلزله",
         "#مهاجران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "21e3b8b7bb78",
+      "source": "EL PAÍS",
+      "title": "El Supremo ruso rechaza el recurso del único partido contrario a la guerra y no podrá presentarse a las elecciones",
+      "summary": "Uno de los dirigentes de la formación, Lev Shlosberg, ha sido condenado a 11 años por criticar la invasión de Ucrania",
+      "url": "https://elpais.com/internacional/2026-08-17/el-supremo-ruso-rechaza-el-recurso-del-unico-partido-contrario-a-la-guerra-y-no-podra-presentarse-a-las-elecciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ICHUDCUAY5PN5CNKXMYFEV2KT4.jpg?auth=04cd0b7c8ff64b62743d9abd0637b51180c46d105bbba4057fa6399d75c882ef",
+      "published_at": "2026-08-17T15:41:26+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "دیوان عالی روسیه درخواست تنها حزب مخالف جنگ را رد کرد",
+      "lead_fa": "دیوان عالی روسیه صلاحیت تنها حزب مخالف جنگ اوکراین را رد کرد. این تصمیم مانع از حضور حزب در انتخابات پیش رو خواهد شد.",
+      "key_points_fa": [
+        "دیوان عالی روسیه درخواست تجدیدنظر حزب مخالف جنگ را رد کرد.",
+        "یکی از رهبران این حزب به دلیل انتقاد از تهاجم به اوکراین به ۱۱ سال زندان محکوم شد.",
+        "این حزب از حضور در انتخابات آینده محروم شد."
+      ],
+      "analysis_fa": "این اقدام نشان دهنده تشدید محدودیت ها بر سر راه مخالفان جنگ و جریان های سیاسی منتقد دولت در روسیه است. حذف تنها حزب ضد جنگ از رقابت های انتخاباتی، فضای سیاسی این کشور را بیش از پیش محدود می کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#روسیه",
+        "#انتخابات",
+        "#مخالفان_جنگ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1314,6 +1342,33 @@
       "editorial_version": 2
     },
     {
+      "id": "48ffdf14a986",
+      "source": "EL PAÍS",
+      "title": "Por qué Georgina y Cristiano fueron de Gucci en su boda: el diseñador Demna Gvasalia dice que fue un sueño vestirles",
+      "summary": "El georgiano, director creativo de la casa florentina desde hace un año, ha explicado que es “un hermoso círculo que se cierra”",
+      "url": "https://elpais.com/smoda/2026-08-17/por-que-georgina-y-cristiano-fueron-de-gucci-en-su-boda-el-disenador-demna-gvasalia-dice-que-fue-un-sueno-vestirles.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XURGYZOE7VHUNAKRH45EQBZFFY.jpg?auth=b499e4fbeeb2990b84410e8c6f2d29daa664854fda56ed0610a635eda60714e8",
+      "published_at": "2026-08-17T15:39:51+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "دلیل پوشیدن لباس گوچی در عروسی جورجینا و کریستیانو رونالدو",
+      "lead_fa": "طراح ارشد خانه مد گوچی توضیح داد که چرا این زوج معروف لباس‌های این برند را در مراسم خود پوشیدند. دمنا گواسالیا این اتفاق را رویایی توصیف کرد که به حقیقت پیوسته است.",
+      "key_points_fa": [
+        "دمنا گواسالیا یک سال است که به عنوان مدیر خلاق گوچی فعالیت می‌کند.",
+        "او پوشاندن لباس به این زوج را یک چرخه زیبا و کامل نامید."
+      ],
+      "analysis_fa": "انتخاب لباس‌های برندهای لوکس توسط چهره‌های سرشناس ورزشی و مد، بار دیگر تأثیرگذاری متقابل صنعت مد و ستاره‌های فوتبال را برجسته می‌کند. این اظهارات نشان‌دهنده اهمیت روابط میان طراحان برجسته و چهره‌های جهانی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#گوچی",
+        "#مد",
+        "#کریستیانو_رونالدو"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "add32d778c8e",
       "source": "EL PAÍS",
       "title": "Los Mossos investigan la agresión a un joven italiano en Barcelona",
@@ -1379,16 +1434,23 @@
       "published_at": "2026-08-16T23:00:00+00:00",
       "category": "economia",
       "priority": 70,
-      "title_fa": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-      "lead_fa": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت الخاندرو بتانکور، میلیاردر ونزوئلایی، به کاراکاس در هاله‌ای از ابهام",
+      "lead_fa": "الخاندرو بتانکور، میلیاردر ونزوئلایی که تحت تحقیقات قضایی در اسپانیا و سوئیس قرار دارد، در هفته‌های اخیر با پروازهای خصوصی به کاراکاس بازگشته است. این چهره اقتصادی به عنوان یکی از نقاط اتصال میان مقام‌های ونزوئلا و تحولات بین‌المللی شناخته می‌شود.",
+      "key_points_fa": [
+        "بتانکور تحت بررسی نهادهای قضایی کشورهای اسپانیا و سوئیس است.",
+        "سفرهای اخیر او به کاراکاس با پروازهای خصوصی و در هاله‌ای از ابهام انجام شده است.",
+        "نام او در ارتباطات سیاسی و اقتصادی میان ونزوئلا و چهره‌های کلیدی مانند دونالد ترامپ مطرح شده است."
+      ],
+      "analysis_fa": "پرونده الخاندرو بتانکور ابعاد پیچیده اقتصادی و سیاسی دارد که شبکه روابط میان نخبگان ونزوئلا و قدرت‌های غربی را بازتاب می‌دهد. تحقیقات قضایی در اروپا بر فعالیت‌های مالی او متمرکز است و بازگشتش به کاراکاس می‌تواند نشان‌دهنده تحولات جدیدی در وضعیت حقوقی یا سیاسی او باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#ونزوئلا",
+        "#اقتصاد",
+        "#تحقیقات_قضایی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1488,14 +1550,14 @@
     {
       "id": "2326fc75dbb4",
       "source": "EL PAÍS",
-      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
       "summary": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
       "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
       "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
       "published_at": "2026-08-17T12:29:29+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
       "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1519,28 +1581,6 @@
       "priority": 69,
       "title_fa": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
       "lead_fa": "El club blaugrana está perfilando las salidas de los canteranos Tommy Marqués, Jofre Torrents y el portero Yaakobishvili",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c5796f31d88d",
-      "source": "EL PAÍS",
-      "title": "Nuevo repunte en las temperaturas tras el alivio de la dana",
-      "summary": "En la segunda mitad de la semana, el ambiente será mucho más suave por el paso de una sucesión de danas y vaguadas",
-      "url": "https://elpais.com/el-tiempo/2026-08-17/nuevo-repunte-en-las-temperaturas-tras-el-alivio-de-la-dana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/W2BZCPAG3RI7TIDBXJ425G2ZJA.jpg?auth=749ca306982a7c531c16659eefbab65573595eb034e3d9327d325b31d0c08cf8",
-      "published_at": "2026-08-17T12:23:19+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Nuevo repunte en las temperaturas tras el alivio de la dana",
-      "lead_fa": "En la segunda mitad de la semana, el ambiente será mucho más suave por el paso de una sucesión de danas y vaguadas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1596,50 +1636,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c82f31300e81",
-      "source": "EL PAÍS",
-      "title": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
-      "summary": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
-      "url": "https://elpais.com/espana/2026-08-17/la-guardia-civil-lanza-un-amplio-dispositivo-para-localizar-a-los-autores-del-ajuste-de-cuentas-de-isla-cristina.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf",
-      "published_at": "2026-08-17T09:51:00+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
-      "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "daa11839bdf4",
-      "source": "EL PAÍS",
-      "title": "Cuatro muertos y un herido grave en un accidente de tráfico en la N-122 en Zaragoza",
-      "summary": "Se trata de un choque frontal entre un turismo y un camión",
-      "url": "https://elpais.com/espana/2026-08-17/cuatro-muertos-y-un-herido-grave-en-un-accidente-de-trafico-en-la-n-122-en-zaragoza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WGZZMPSUGRCRRETK6MOCSMO2WQ.jfif?auth=870f8c9d53830e53e68290d5df59a92202d594e14a289f949775bc4f550e95a0",
-      "published_at": "2026-08-17T09:40:23+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Cuatro muertos y un herido grave en un accidente de tráfico en la N-122 en Zaragoza",
-      "lead_fa": "Se trata de un choque frontal entre un turismo y un camión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "56f4ccf2eb06",
       "source": "EL PAÍS Economía",
       "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
@@ -1668,6 +1664,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c82f31300e81",
+      "source": "EL PAÍS",
+      "title": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
+      "summary": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
+      "url": "https://elpais.com/espana/2026-08-17/la-guardia-civil-lanza-un-amplio-dispositivo-para-localizar-a-los-autores-del-ajuste-de-cuentas-de-isla-cristina.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf",
+      "published_at": "2026-08-17T09:51:00+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
+      "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ed23553aa914",
       "source": "La Vanguardia",
       "title": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
@@ -1690,17 +1708,17 @@
       "editorial_version": 2
     },
     {
-      "id": "b16c96b11fc3",
+      "id": "daa11839bdf4",
       "source": "EL PAÍS",
-      "title": "Cristiano Ronaldo y Georgina Rodríguez comparten los secretos de su boda en una exclusiva: ceremonia en su sala de estar y misa posterior en Fátima",
-      "summary": "El futbolista y la ‘influencer’ han abierto las puertas de su enlace a la revista ‘Vogue’, donde han explicado los motivos por los que han decidido invitar solo a sus cinco hijos y han confirmado que habrá una gran celebración en el futuro: “Algo íntimo es más inusual para nosotros”",
-      "url": "https://elpais.com/gente/2026-08-17/cristiano-ronaldo-y-georgina-rodriguez-comparten-los-secretos-de-su-boda-en-una-exclusiva-ceremonia-en-su-sala-de-estar-y-misa-posterior-en-fatima.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KSY6VWE26NH6JD7UJ5BS3G6IWM.jpg?auth=b30f068442ea6eb161f3f73885611c0ee69e8de53dd5bf07ece939d9f64a1670",
-      "published_at": "2026-08-17T09:25:18+00:00",
-      "category": "cultura",
+      "title": "Cuatro muertos y un herido grave en un accidente de tráfico en la N-122 en Zaragoza",
+      "summary": "Se trata de un choque frontal entre un turismo y un camión",
+      "url": "https://elpais.com/espana/2026-08-17/cuatro-muertos-y-un-herido-grave-en-un-accidente-de-trafico-en-la-n-122-en-zaragoza.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WGZZMPSUGRCRRETK6MOCSMO2WQ.jfif?auth=870f8c9d53830e53e68290d5df59a92202d594e14a289f949775bc4f550e95a0",
+      "published_at": "2026-08-17T09:40:23+00:00",
+      "category": "sociedad",
       "priority": 68,
-      "title_fa": "Cristiano Ronaldo y Georgina Rodríguez comparten los secretos de su boda en una exclusiva: ceremonia en su sala de estar y misa posterior en Fátima",
-      "lead_fa": "El futbolista y la ‘influencer’ han abierto las puertas de su enlace a la revista ‘Vogue’, donde han explicado los motivos por los que han decidido invitar solo a sus cinco hijos y han confirmado que habrá una gran celebración en el futuro: “Algo íntimo es más inusual para nosotros”",
+      "title_fa": "Cuatro muertos y un herido grave en un accidente de tráfico en la N-122 en Zaragoza",
+      "lead_fa": "Se trata de un choque frontal entre un turismo y un camión",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
