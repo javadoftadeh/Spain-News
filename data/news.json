@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:37:31.212001+00:00",
+  "generated_at": "2026-08-17T22:57:04.485239+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -2167,18 +2167,23 @@
       "url": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81dcff06cda.r_d.2660-2320-0.jpeg",
       "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "turismo",
+      "category": "economia",
       "priority": 64,
-      "title_fa": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
-      "lead_fa": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رکوردشکنی ۲۰ ساله وام‌های مصرفی پیش از تعطیلات در اسپانیا",
+      "lead_fa": "درخواست وام‌های مصرفی برای تعطیلات در اسپانیا به بالاترین میزان در ۲۰ سال اخیر رسید. آمارهای کنونی نشان‌دهنده افزایشی ۹۱ درصدی نسبت به یک دهه گذشته است.",
+      "key_points_fa": [
+        "رسیدن تقاضا برای وام‌های مصرفی پیش از تعطیلات به بالاترین سطح در ۲۰ سال گذشته",
+        "ثبت رشد ۹۱ درصدی در این رقم نسبت به آمار ثبت‌شده در ۱۰ سال قبل"
+      ],
+      "analysis_fa": "افزایش تقاضای وام‌های مصرفی پیش از تعطیلات حاکی از تمایل شهروندان به تأمین مالی سفرهای خود از طریق استقراض است که می‌تواند ناشی از تورم یا کاهش پس‌انداز خانوارها باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#وام_مصرفی",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2191,16 +2196,23 @@
       "published_at": "2026-08-17T06:00:00+02:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "El cerebro, a punto de su momento Ozempic",
-      "lead_fa": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "توسعه داروهای جدید مغزی برای تنظیم خواب و بیداری",
+      "lead_fa": "آزمایشگاه‌های داروسازی در حال توسعه ترکیبات نوینی برای تنظیم چرخه خواب و بیداری هستند. این داروها می‌توانند تحولی مشابه داروهای نوین لاغری در حوزه سلامت ایجاد کنند.",
+      "key_points_fa": [
+        "توسعه داروهای جدید در آزمایشگاه‌های داروسازی",
+        "تمرکز بر تنظیم دقیق وضعیت خواب و بیداری",
+        "مقایسه پتانسیل این داروها با داروهای مشهور تنظیم اشتها"
+      ],
+      "analysis_fa": "تلاش برای یافتن راه‌حل‌های دارویی جدید جهت کنترل چرخه خواب و بیداری نشان‌دهنده اهمیت روزافزون اختلالات خواب در پزشکی مدرن است. در صورت موفقیت این داروها، بازار درمان اختلالات عصبی شاهد تحولی چشمگیر خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سلامت",
+        "#پزشکی",
+        "#خواب",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2211,18 +2223,25 @@
       "url": "https://www.lavanguardia.com/local/barcelona/20260817/11613486/banda-retretes-clandestinos-controla-34-habitaciones-turisticas-ilegales-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1b037166c.r_d.1008-364-0.jpeg",
       "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 64,
-      "title_fa": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
-      "lead_fa": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "شبکه توالت‌های پنهان؛ کنترل ۳۴ اتاق گردشگری غیرقانونی در بارسلون",
+      "lead_fa": "مقامات بارسلون از فعالیت یک شبکه غیرقانونی گردشگری خبر دادند که ده‌ها اتاق را کنترل می‌کند. این گروه از مهمانان خود می‌خواهد درها را به روی پلیس باز نکنند.",
+      "key_points_fa": [
+        "کنترل ۳۴ اتاق گردشگری غیرقانونی توسط یک شبکه در بارسلون.",
+        "درخواست از مسافران برای عدم گشودن در به روی ماموران پلیس.",
+        "برداشتن پلمب‌های شهرداری توسط این گروه پس از اقدامات قانونی."
+      ],
+      "analysis_fa": "گسترش اقامتگاه‌های غیرقانونی در کلانشهرهایی مانند بارسلون یکی از چالش‌های جدی مدیریت شهری است. این تخلفات نشان‌دهنده پیچیدگی روش‌های دور زدن قوانین نظارتی و مقابله با پلمب‌های شهرداری است که نیازمند نظارت شدیدتر نهادهای امنیتی و محلی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلون",
+        "#گردشگری",
+        "#اسپانیا",
+        "#مسکن"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
