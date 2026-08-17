@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:39:12.708336+00:00",
+  "generated_at": "2026-08-17T18:01:03.449191+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
+    "fa9ccda3a607",
     "9737d8de1ca8",
     "47462903d9d1",
-    "e4b6e111151c",
     "6543e6735c58"
   ],
   "items": [
@@ -33,6 +33,34 @@
         "#اسپانیا",
         "#حوادث",
         "#آتش_سوزی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "fa9ccda3a607",
+      "source": "EL PAÍS",
+      "title": "Una semana tras el terremoto en Colombia: De la reconstrucción a la búsqueda activa de supervivientes",
+      "summary": "El Gobierno ha cifrado en 289 las personas fallecidas y en 143 los desaparecidos, siete días después de la emergencia",
+      "url": "https://elpais.com/videos/2026-08-17/una-semana-tras-el-terremoto-en-colombia-de-la-reconstruccion-a-la-busqueda-activa-de-supervivientes.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205312_155034_video_1800.mp4",
+      "published_at": "2026-08-17T15:52:52+00:00",
+      "category": "sociedad",
+      "priority": 89,
+      "title_fa": "یک هفته پس از زمین‌لرزه در کلمبیا: ادامه جستجوی مفقودان",
+      "lead_fa": "دولت کلمبیا یک هفته پس از وقوع زمین‌لرزه آمار قربانیان را اعلام کرد. تلاش‌ها برای یافتن ناپدیدشدگان همچنان ادامه دارد.",
+      "key_points_fa": [
+        "تایید جان باختن ۲۸۹ نفر تا هفت روز پس از حادثه",
+        "گزارش مفقود شدن ۱۴۳ نفر دیگر",
+        "تلاش امدادگران برای یافتن بازماندگان در مناطق آسیب‌دیده"
+      ],
+      "analysis_fa": "گذشت یک هفته از حادثه و تداوم آمار مفقودان نشان‌دهنده ابعاد گسترده فاجعة طبیعی و چالش‌های پیش روی نهادهای امدادی در کلمبیا برای دسترسی به مناطق بحران‌زده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#کلمبیا",
+        "#زمین_لرزه",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -89,34 +117,6 @@
         "#سبته",
         "#اسپانیا",
         "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e4b6e111151c",
-      "source": "La Vanguardia",
-      "title": "La doble cara de la crisis en Ceuta: inmigrantes enfermos en la calle y camas hospitalarias libres",
-      "summary": "La titular de Sanidad, que pide no asociar inmigración con enfermedad por ser xenófobo, admite la crisis humanitaria",
-      "url": "https://www.lavanguardia.com/politica/20260817/11614862/doble-cara-crisis-ceuta-inmigrantes-enfermos-calle-camas-hospitalarias-libres.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82af6c16497.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "بحران انسانی در سئوتا: بیماران مهاجر در خیابان و تخت‌های خالی بیمارستان",
-      "lead_fa": "وزیر بهداشت اسپانیا بحران انسانی در سئوتا را پذیرفت. با این حال، وی ارتباط دادن مهاجرت و بیماری را اقدامی نژادپرستانه دانست.",
-      "key_points_fa": [
-        "حضور مهاجران بیمار در خیابان‌های سئوتا هم‌زمان با وجود تخت‌های خالی بیمارستانی.",
-        "اعتراف مقام ارشد بهداشت به وجود بحران انسانی در منطقه.",
-        "هشدار دولت درباره پرهیز از پیوند دادن موضوع مهاجرت با بیماری."
-      ],
-      "analysis_fa": "این وضعیت تناقض میان ظرفیت‌های درمانی موجود و ناتوانی در مدیریت بحران انسانی در مناطق مرزی را برجسته می‌کند. چالش اصلی در نحوه توزیع امکانات و سیاست‌های مدیریتی نهفته است که ابعاد اجتماعی و سیاسی گسترده‌ای در اسپانیا دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -378,6 +378,34 @@
       "editorial_version": 2
     },
     {
+      "id": "129846f116f5",
+      "source": "La Vanguardia",
+      "title": "El Gobierno ya empieza a instalar los cuatro centros de atención humanitaria en Ceuta",
+      "summary": "Varios operarios ya han empezado los trabajos para acondicionar cuatro espacios que acojerán unas 1.500 personas",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615498/gobierno-empieza-instalar-cuatro-centros-atencion-humanitaria-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a83357fd481c.r_d.959-660-0.jpeg",
+      "published_at": "2026-08-17T18:37:58+02:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "آغاز نصب چهار مرکز رسیدگی به مهاجران در سئوتا",
+      "lead_fa": "دولت اسپانیا روند آماده‌سازی چهار مرکز جدید را در سئوتا آغاز کرد. این فضاها برای اسکان حدود ۱۵۰۰ نفر در نظر گرفته شده‌اند.",
+      "key_points_fa": [
+        "شروع عملیات اجرایی توسط کارگران در محل‌های تعیین‌شده",
+        "هدف از ایجاد این مراکز، اسکان موقت حدود ۱۵۰۰ نفر است",
+        "این اقدام در راستای بهبود شرایط پذیرش و رسیدگی به وضعیت انسانی انجام می‌شود"
+      ],
+      "analysis_fa": "ایجاد این مراکز نشان‌دهنده تلاش دولت برای مدیریت بهتر فشارهای مهاجرتی در مرزهای جنوبی است. سئوتا به عنوان یکی از نقاط ورودی کلیدی، همواره با چالش‌های اسکان و خدمات‌رسانی به پناه‌جویان روبه‌رو بوده و این اقدام پاسخی به نیازهای زیرساختی این منطقه محسوب می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#مهاجران",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "6f955acea784",
       "source": "La Vanguardia",
       "title": "Marta Ortega, fotografiada por Annie Leibovitz en una entrevista para 'Vogue'",
@@ -411,7 +439,7 @@
       "title": "La muerte del profesor de Cambridge Jason Arday resucita la guerra cultural en la universidad británica",
       "summary": "La derecha reaccionaria denunció sus supuestos plagios y falsedades para atacar las políticas de diversidad en el ámbito académico",
       "url": "https://elpais.com/sociedad/2026-08-17/la-muerte-del-profesor-de-cambridge-jason-arday-resucita-la-guerra-cultural-en-la-universidad-britanica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QKZSNOOO4NN4TKUG5GOWYEQOSI.jpg?auth=3856589bf1b4c4795aecc287ae605654a86b90292ec84ce9760a8b802338ca19",
+      "image": "https://imagenes.elpais.com/resizer/v2/J4RTDWH5CRGXJFGLIKCETM25AY.jpg?auth=cfc9ee8e063ed2a99d2f326c77b22b888d7c0692c0acb66464fc0ea4c7c174ce",
       "published_at": "2026-08-17T17:20:25+00:00",
       "category": "politica",
       "priority": 75,
@@ -686,33 +714,6 @@
         "#اسپانیا",
         "#اقتصاد",
         "#ورزش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7ec783d1eec5",
-      "source": "La Vanguardia",
-      "title": "El tribunal tailandés concluye la sentencia sobre los recursos del caso Daniel Sancho",
-      "summary": "El Tribunal de Apelaciones de Phuket ha enviado la decisión al tribunal de primera instancia a la espera de elegir un día para su lectura pública",
-      "url": "https://www.lavanguardia.com/gente/20260817/11615152/tribunal-tailandes-concluye-sentencia-sobre-recursos-caso-daniel-sancho.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/02/69f59e60d6533.r_d.1028-622-0.jpeg",
-      "published_at": "2026-08-17T11:52:35+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "پایان رسیدگی به فرجام‌خواهی پرونده دانیل سانچو در دادگاه تایلند",
-      "lead_fa": "دادگاه تجدیدنظر پوکت تصمیم خود را درباره پرونده دانیل سانچو به دادگاه بدوی ارسال کرد. این تصمیم برای اعلام عمومی در انتظار تعیین وقت است.",
-      "key_points_fa": [
-        "ارسال تصمیم دادگاه تجدیدنظر پوکت به دادگاه بدوی در تایلند",
-        "در انتظار تعیین روز مشخص برای قرائت عمومی حکم نهایی"
-      ],
-      "analysis_fa": "روند قضایی پرونده دانیل سانچو در تایلند پس از ماه‌ها پیگیری به مرحله تعیین‌کننده اعلام حکم نهایی تجدیدنظر رسیده است. دادگاه بدوی مسئولیت ابلاغ رسمی این تصمیم را بر عهده خواهد داشت.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دانیل_سانچو",
-        "#تایلند",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1287,10 +1288,38 @@
       "editorial_version": 2
     },
     {
+      "id": "284e7e33e0da",
+      "source": "La Vanguardia",
+      "title": "Los planes de Hayden Panettiere antes de su muerte: “Queda mucha vida por delante”",
+      "summary": "La intérprete, que tenía 36 años, hablaba en mayo de nuevos proyectos como directora, productora y escritora durante la promoción de sus memorias",
+      "url": "https://www.lavanguardia.com/gente/20260817/11615507/hayden-panettiere-compartio-emocionantes-planes-futuro-semanas-muerte-me-queda-vida-delante.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a829b858fa64.r_d.2547-1340-0.jpeg",
+      "published_at": "2026-08-17T18:59:09+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "مرور آخرین برنامه‌ها و پروژه‌های هیدن پنیتیر پیش از درگذشت",
+      "lead_fa": "هیدن پنیتیر، بازیگر ۳۶ ساله، در ماه مه از برنامه‌های جدید خود برای کارگردانی، تهیه‌کنندگی و نویسندگی خبر داده بود. این اظهارات در جریان معرفی خاطرات او مطرح شده بود.",
+      "key_points_fa": [
+        "پنیتیر در ۳۶ سالگی برنامه‌های متعددی برای آینده حرفه‌ای خود داشت.",
+        "او قصد داشت در حوزه‌های کارگردانی، تهیه‌کنندگی و نویسندگی فعالیت کند.",
+        "این صحبت‌ها در جریان معرفی کتاب خاطراتش بیان شده بود."
+      ],
+      "analysis_fa": "مرور اظهارات پیشین چهره‌های هنری پس از درگذشت آن‌ها، اغلب بازتاب‌دهنده مسیر حرفه‌ای و آرمان‌های شخصی‌شان در آخرین ماه‌های زندگی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هیدن_پنیتیر",
+        "#سینما",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "c69ec16d8abc",
       "source": "La Vanguardia",
       "title": "EE.UU. fracasa en su intento de hacer avanzar el plan de paz de Trump para Gaza",
-      "summary": "Jared Kushner, nieto del presidente, arranca solo unos vagos compromisos de Netanyahu",
+      "summary": "Jared Kushner, yerno del presidente, arranca solo unos vagos compromisos de Netanyahu",
       "url": "https://www.lavanguardia.com/internacional/20260817/11615493/ee-uu-fracasa-intento-avanzar-plan-paz-trump-gaza.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a821479d1d2d.r_d.1328-746-0.jpeg",
       "published_at": "2026-08-17T18:25:19+02:00",
@@ -1597,28 +1626,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8ed7950648a1",
-      "source": "La Vanguardia",
-      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "summary": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83099bd48b4.jpeg",
-      "published_at": "2026-08-17T13:47:58+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "lead_fa": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2326fc75dbb4",
       "source": "EL PAÍS",
       "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
@@ -1630,28 +1637,6 @@
       "priority": 69,
       "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
       "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "89b031a0bfc2",
-      "source": "EL PAÍS",
-      "title": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
-      "summary": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
-      "url": "https://elpais.com/internacional/2026-08-17/trump-amenaza-ahora-con-bombardear-oman-si-se-interpone-en-su-camino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BADPZPCZS5IBJPZJR6TFWY3X74.jpg?auth=c2236bc99b77dd6de369985c97fdc4bb3456dce3c7f2307aee6394f47fcc3bbe",
-      "published_at": "2026-08-17T11:41:55+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
-      "lead_fa": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1691,6 +1676,28 @@
       "editorial_version": 2
     },
     {
+      "id": "8ed7950648a1",
+      "source": "La Vanguardia",
+      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
+      "summary": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83099bd48b4.jpeg",
+      "published_at": "2026-08-17T13:47:58+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
+      "lead_fa": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "deea92cd54c3",
       "source": "La Vanguardia",
       "title": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
@@ -1702,6 +1709,28 @@
       "priority": 68,
       "title_fa": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
       "lead_fa": "El club blaugrana está perfilando las salidas de los canteranos Tommy Marqués, Jofre Torrents y el portero Yaakobishvili",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "89b031a0bfc2",
+      "source": "EL PAÍS",
+      "title": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
+      "summary": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
+      "url": "https://elpais.com/internacional/2026-08-17/trump-amenaza-ahora-con-bombardear-oman-si-se-interpone-en-su-camino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BADPZPCZS5IBJPZJR6TFWY3X74.jpg?auth=c2236bc99b77dd6de369985c97fdc4bb3456dce3c7f2307aee6394f47fcc3bbe",
+      "published_at": "2026-08-17T11:41:55+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
+      "lead_fa": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1977,28 +2006,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cc222543a654",
-      "source": "La Vanguardia",
-      "title": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "summary": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "url": "https://www.lavanguardia.com/local/valencia/20260817/11614799/britanicos-italianos-holandeses-llevan-aeropuerto-valencia-romper-records.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/19/68cd22e257bb4.r_d.1024-768-0.jpeg",
-      "published_at": "2026-08-17T05:00:00+02:00",
-      "category": "turismo",
-      "priority": 66,
-      "title_fa": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "lead_fa": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "33e7db6aeacc",
       "source": "EL PAÍS",
       "title": "La gran frustración del cáncer de ovario: “No es que sea silencioso, es que no lo escuchamos”",
@@ -2219,28 +2226,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3054c0103dd3",
-      "source": "EL PAÍS",
-      "title": "El peligroso regreso a Siria tras la guerra: sobrevivir en una tienda junto a los escombros, en una tierra sembrada de explosivos",
-      "summary": "Más de tres millones de refugiados y desplazados vuelven a sus hogares, que comienzan a reconstruir por su cuenta, tratando de esquivar más de 300.000 artefactos sin detonar",
-      "url": "https://elpais.com/internacional/2026-08-17/el-peligroso-retorno-a-siria-tras-la-guerra-sobrevivir-en-una-tienda-junto-a-los-escombros-en-una-tierra-sembrada-de-explosivos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7BU4PVUDVNH5PGXZJOSYHZTSL4.jpg?auth=bd1b9d612923384c129186e03aab2204cf226ac1f999a770a220854589051bee",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 66,
-      "title_fa": "El peligroso regreso a Siria tras la guerra: sobrevivir en una tienda junto a los escombros, en una tierra sembrada de explosivos",
-      "lead_fa": "Más de tres millones de refugiados y desplazados vuelven a sus hogares, que comienzan a reconstruir por su cuenta, tratando de esquivar más de 300.000 artefactos sin detonar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e008fc4a81dc",
       "source": "EL PAÍS",
       "title": "Ocho bebidas sin alcohol que se pueden preparar en casa para refrescarse",
@@ -2384,6 +2369,28 @@
       "priority": 66,
       "title_fa": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispuesta a pagar por ella”",
       "lead_fa": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cc222543a654",
+      "source": "La Vanguardia",
+      "title": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
+      "summary": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
+      "url": "https://www.lavanguardia.com/local/valencia/20260817/11614799/britanicos-italianos-holandeses-llevan-aeropuerto-valencia-romper-records.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/19/68cd22e257bb4.r_d.1024-768-0.jpeg",
+      "published_at": "2026-08-17T05:00:00+02:00",
+      "category": "turismo",
+      "priority": 65,
+      "title_fa": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
+      "lead_fa": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
