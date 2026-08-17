@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:08:39.776018+00:00",
+  "generated_at": "2026-08-17T10:46:46.006335+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -40,11 +40,11 @@
     {
       "id": "8825a2e26138",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta amenaza al Gobierno con acudir al poder judicial si no resuelve la crisis en 30 días",
-      "summary": "Mónica García: “Estamos frente a una crisis humanitaria absolutamente excepcional” | Sánchez reúne por videoconferencia a sus ministros por la crisis de Ceuta",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP denuncia la “negligencia, irresponsabilidad y pasividad absoluta” del Gobierno respecto a Ceuta",
+      "summary": "El presidente de Ceuta amenaza al Gobierno con acudir al poder judicial si no resuelve la crisis en 30 días | Mónica García: “Estamos frente a una crisis humanitaria absolutamente excepcional”",
       "url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T3ETJOWGG5EY7FTYWKL3FURZRM.jpg?auth=65a9ac4afacab846400d6956970224e0e28a31bbc275c1768ac2cd82d77225db",
-      "published_at": "2026-08-17T09:57:05+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/YWNGHSES3RL2LF6Z3F7EPYEX24.jpg?auth=982fde9b73da8148085eda1c1ad163ddfba31386694571bf13b8a6a1a7861d0a",
+      "published_at": "2026-08-17T10:42:40+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "تهدید دولت توسط رئیس سئوتا برای اقدام قضایی بحران مهاجرت",
@@ -97,7 +97,7 @@
       "id": "47462903d9d1",
       "source": "EL PAÍS",
       "title": "El presidente de Ceuta eleva el tono contra el Gobierno y amenaza con acudir a la justicia si no resuelve la crisis en 30 días",
-      "summary": "Juan Jesús Vivas acusa al Ejecutivo central de “pasividad casi absoluta”",
+      "summary": "Juan Jesús Vivas acusa al Ejecutivo central de “pasividad casi absoluta” y se niega a ceder emplazamientos céntricos para realojar migrantes alegando quejas de los “vecinos”",
       "url": "https://elpais.com/espana/2026-08-17/el-presidente-de-ceuta-eleva-el-tono-contra-el-gobierno-y-amenaza-con-acudir-al-poder-judicial-si-no-resuelve-la-crisis-en-30-dias.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205203_093550_video_1800.mp4",
       "published_at": "2026-08-17T09:31:09+00:00",
@@ -261,6 +261,34 @@
         "#بحران_انرژی",
         "#اقتصاد",
         "#برق"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "07fb35446d5b",
+      "source": "La Vanguardia",
+      "title": "Mueren cuatro personas y otra resulta herida grave en un trágico accidente en Zaragoza",
+      "summary": "El choque frontal se ha producido entre las localidades de Bulbuente y Maleján, entre un turismo y un camión",
+      "url": "https://www.lavanguardia.com/sucesos/20260817/11615161/mueren-cuatro-personas-resulta-herida-grave-tragico-accidente-zaragoza.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a82dc1ccafe3.r_d.858-451-0.jpeg",
+      "published_at": "2026-08-17T12:00:25+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تصادف مرگبار در ساراگوسا؛ چهار کشته و یک زخمی شدید",
+      "lead_fa": "بر اثر تصادف شاخ به شاخ میان یک خودروی سواری و یک کامیون در استان ساراگوسا، چهار نفر جان خود را از دست دادند. همچنین یک نفر دیگر در این حادثه به شدت مجروح و راهی بیمارستان شد.",
+      "key_points_fa": [
+        "این حادثه میان دو منطقه بولبوئنته و مالحان رخ داده است.",
+        "تصادف به صورت شاخ به شاخ میان یک خودروی سواری و یک کامیون اتفاق افتاده است.",
+        "چهار سرنشین در جریان این حادثه جان باختند و یک نفر به شدت آسیب دید."
+      ],
+      "analysis_fa": "وقوع تصادفات جاده‌ای در محورهای فرعی و میان‌شهری اسپانیا همواره یکی از چالش‌های ایمنی حمل‌ونقل این کشور به شمار می‌رود. این حادثه تلخ بار دیگر اهمیت توجه به ایمنی راه‌های ارتباطی خارج از شهرهای بزرگ را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#ساراگوسا",
+        "#حوادث_جاده‌ای"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -456,6 +484,63 @@
         "#اسپانیا",
         "#حوادث",
         "#هوئلوا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "01da8a4f21b9",
+      "source": "La Vanguardia",
+      "title": "Rodri aterriza esta tarde en Barcelona, será presentado mañana y estará en el Gamper",
+      "summary": "El Barça pagará 60 millones fijos y una cantidad extra de variables en función de títulos ganados y partidos jugados que pueden llegar a 70 o más",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260817/11615159/rodri-aterriza-tarde-barcelona-sera-presentado-manana-estara-gamper.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a7614ef18c56.r_d.2304-674-0.jpeg",
+      "published_at": "2026-08-17T11:59:31+02:00",
+      "category": "deportes",
+      "priority": 75,
+      "title_fa": "انتقال رودری به بارسلونا؛ ورود امروز و معرفی فردا",
+      "lead_fa": "رودری، بازیکن جدید بارسلونا، امروز بعدازظهر وارد بارسلونا می‌شود و فردا به طور رسمی معرفی خواهد شد. این بازیکن در جام گمپر نیز حضور خواهد داشت.",
+      "key_points_fa": [
+        "بارسلونا ۶۰ میلیون یورو به صورت ثابت برای این انتقال پرداخت می‌کند.",
+        "مبالغ متغیر بر اساس عناوین کسب شده و بازی‌های انجام شده به مبلغ کل اضافه می‌شود.",
+        "مجموع هزینه این انتقال ممکن است به ۷۰ میلیون یورو یا بیشتر برسد.",
+        "رودری فردا معارفه می‌شود و در مسابقه جام گمپر بازی می‌کند."
+      ],
+      "analysis_fa": "این قرارداد نشان‌دهنده تلاش مدیریت بارسلونا برای تقویت تیم با وجود محدودیت‌های مالی است، بگونه‌ای که بخشی از هزینه‌ها به عملکرد ورزشی بازیکن و تیم گره خورده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#رودری",
+        "#فوتبال_اسپانیا",
+        "#نقل_و_انتقالات"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "7ec783d1eec5",
+      "source": "La Vanguardia",
+      "title": "El tribunal tailandés concluye la sentencia sobre los recursos del caso Daniel Sancho",
+      "summary": "El Tribunal de Apelaciones de Phuket ha enviado la decisión al tribunal de primera instancia a la espera de elegir un día para su lectura pública",
+      "url": "https://www.lavanguardia.com/gente/20260817/11615152/tribunal-tailandes-concluye-sentencia-sobre-recursos-caso-daniel-sancho.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/02/69f59e60d6533.r_d.1028-622-0.jpeg",
+      "published_at": "2026-08-17T11:52:35+02:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "پایان رسیدگی به فرجام‌خواهی پرونده دانیل سانچو در دادگاه تایلند",
+      "lead_fa": "دادگاه تجدیدنظر پوکت تصمیم خود را درباره پرونده دانیل سانچو به دادگاه بدوی ارسال کرد. این تصمیم برای اعلام عمومی در انتظار تعیین وقت است.",
+      "key_points_fa": [
+        "ارسال تصمیم دادگاه تجدیدنظر پوکت به دادگاه بدوی در تایلند",
+        "در انتظار تعیین روز مشخص برای قرائت عمومی حکم نهایی"
+      ],
+      "analysis_fa": "روند قضایی پرونده دانیل سانچو در تایلند پس از ماه‌ها پیگیری به مرحله تعیین‌کننده اعلام حکم نهایی تجدیدنظر رسیده است. دادگاه بدوی مسئولیت ابلاغ رسمی این تصمیم را بر عهده خواهد داشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#دانیل_سانچو",
+        "#تایلند",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1016,6 +1101,28 @@
       "editorial_version": 2
     },
     {
+      "id": "87d3066ce6a7",
+      "source": "La Vanguardia",
+      "title": "Rusia construye bases de drones a una distancia desde la que podría alcanzar a países de la OTAN",
+      "summary": "Según el periódico británico 'The Telegraph', hay diez bases del Kremlin equipadas con plataformas de lanzamiento recién construidas para drones suicidas de largo alcance más avanzados",
+      "url": "https://www.lavanguardia.com/internacional/20260817/11615142/rusia-construye-bases-drones-distancia-alcanzar-paises-otan.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a62ad55884c2.r_d.1278-866-0.jpeg",
+      "published_at": "2026-08-17T11:43:22+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Rusia construye bases de drones a una distancia desde la que podría alcanzar a países de la OTAN",
+      "lead_fa": "Según el periódico británico 'The Telegraph', hay diez bases del Kremlin equipadas con plataformas de lanzamiento recién construidas para drones suicidas de largo alcance más avanzados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d2892ec8c95b",
       "source": "La Vanguardia",
       "title": "Uno de los últimos oasis de Venecia, en peligro por la construcción de 77 villas turísticas",
@@ -1084,37 +1191,15 @@
     {
       "id": "c82f31300e81",
       "source": "EL PAÍS",
-      "title": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina",
+      "title": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
       "summary": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
       "url": "https://elpais.com/espana/2026-08-17/la-guardia-civil-lanza-un-amplio-dispositivo-para-localizar-a-los-autores-del-ajuste-de-cuentas-de-isla-cristina.html",
       "image": "https://imagenes.elpais.com/resizer/v2/RPGW4TPHBRAQTMET6HG3F74QT4.jpg?auth=63f2b8ee5e9ef1e6384d4bb9866973d4348b251b9eb35011c09bea7b1bdfb7d3",
       "published_at": "2026-08-17T09:51:00+00:00",
       "category": "ciencia",
       "priority": 70,
-      "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina",
+      "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
       "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ed23553aa914",
-      "source": "La Vanguardia",
-      "title": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
-      "summary": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
-      "url": "https://www.lavanguardia.com/sucesos/20260817/11615083/visitante-agrede-manera-brutal-funcionaria-centro-penitenciario-brians-2.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d14ace25ba3.r_d.2229-1455-0.jpeg",
-      "published_at": "2026-08-17T09:40:59+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
-      "lead_fa": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1170,50 +1255,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f12b86da9ef5",
-      "source": "La Vanguardia",
-      "title": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
-      "summary": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615072/catalunya-recuerda-victimas-atentados-17-nueve-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/02/6a1ea7d0db465.jpeg",
-      "published_at": "2026-08-17T09:12:59+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
-      "lead_fa": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2326fc75dbb4",
-      "source": "EL PAÍS",
-      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
-      "summary": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-      "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
-      "published_at": "2026-08-17T07:15:15+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
-      "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "abe21b65d552",
       "source": "La Vanguardia",
       "title": "¿Se puede parar a Putin?",
@@ -1238,33 +1279,6 @@
         "#اروپا",
         "#جنگ_ترکیبی",
         "#امنیت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "10a8519b0362",
-      "source": "La Vanguardia",
-      "title": "Principio de acuerdo Barça- Manchester City por Rodri: todos los detalles de la operación",
-      "summary": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas por 60 millones fijos",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260816/11614859/principio-acuerdo-barca-manchester-city-rodri.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7dbb1d7a709.jpeg",
-      "published_at": "2026-08-16T20:38:58+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "توافق اولیه بارسلونا و منچسترسیتی بر سر جذب رودری",
-      "lead_fa": "مذاکرات دو باشگاه در روز یکشنبه سرعت گرفت. این بازیکن در همین هفته وارد بارسلونا خواهد شد.",
-      "key_points_fa": [
-        "شتاب گرفتن روند مذاکرات بارسلونا و منچسترسیتی در روز یکشنبه",
-        "برنامه سفر این بازیکن به بارسلونا در جریان هفته جاری"
-      ],
-      "analysis_fa": "این توافق اولیه نشان‌دهنده تلاش جدی بارسلونا برای تقویت خط هافبک خود با یکی از ستاره‌های کلیدی فوتبال اروپا است، هرچند نهایی شدن قرارداد به جزئیات اداری و رسمی‌سازی بستگی دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#منچسترسیتی",
-        "#فوتبال"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1326,6 +1340,50 @@
       "editorial_version": 2
     },
     {
+      "id": "ed23553aa914",
+      "source": "La Vanguardia",
+      "title": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
+      "summary": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
+      "url": "https://www.lavanguardia.com/sucesos/20260817/11615083/visitante-agrede-manera-brutal-funcionaria-centro-penitenciario-brians-2.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d14ace25ba3.r_d.2229-1455-0.jpeg",
+      "published_at": "2026-08-17T09:40:59+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
+      "lead_fa": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f12b86da9ef5",
+      "source": "La Vanguardia",
+      "title": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
+      "summary": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615072/catalunya-recuerda-victimas-atentados-17-nueve-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a82d6664b22b.r_d.4114-3116-0.jpeg",
+      "published_at": "2026-08-17T09:12:59+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
+      "lead_fa": "Illa pide “más convivencia, más democracia y más paz” frente al “odio y la barbarie”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "27d361aaf1eb",
       "source": "La Vanguardia",
       "title": "Trump atribuye la reducción de maniobras militares con Seúl a su relación con Kim Jong Un",
@@ -1348,39 +1406,17 @@
       "editorial_version": 2
     },
     {
-      "id": "51b6ed1a4009",
-      "source": "La Vanguardia",
-      "title": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
-      "summary": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
-      "url": "https://www.lavanguardia.com/gente/20260817/11606681/verano-mas-magico-mireia-oriol-euforica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a71c5be1c109.jpeg",
-      "published_at": "2026-08-17T06:44:46+02:00",
+      "id": "2326fc75dbb4",
+      "source": "EL PAÍS",
+      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "summary": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
+      "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
+      "published_at": "2026-08-17T07:15:15+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
-      "lead_fa": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ae9b31e0b5d0",
-      "source": "La Vanguardia",
-      "title": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
-      "summary": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260817/11612719/nueva-baby-doll-vestido-cambio-manera-entender-feminidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c7fce68ccb.r_d.1572-1602-0.jpeg",
-      "published_at": "2026-08-17T06:30:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
-      "lead_fa": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+      "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1417,6 +1453,50 @@
         "#محیط_زیست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "51b6ed1a4009",
+      "source": "La Vanguardia",
+      "title": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
+      "summary": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
+      "url": "https://www.lavanguardia.com/gente/20260817/11606681/verano-mas-magico-mireia-oriol-euforica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a71c5be1c109.jpeg",
+      "published_at": "2026-08-17T06:44:46+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
+      "lead_fa": "La actriz recuerda con especial cariño cuando consiguió el papel de Nevenka Fernández",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ae9b31e0b5d0",
+      "source": "La Vanguardia",
+      "title": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
+      "summary": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260817/11612719/nueva-baby-doll-vestido-cambio-manera-entender-feminidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c7fce68ccb.r_d.1572-1602-0.jpeg",
+      "published_at": "2026-08-17T06:30:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
+      "lead_fa": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1596,28 +1676,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8630348ceffb",
-      "source": "La Vanguardia",
-      "title": "El tierno olvido de un Papa sin cola",
-      "summary": "La gente visita el Vaticano, pero pocos recuerdan que el papa Francisco quiso cambiar su escenario después de muerto. Está a 4 kilómetros de la plaza de San Pedro",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11614794/tierno-olvido-papa-cola.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81cfa4921bc.r_d.2865-2353-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El tierno olvido de un Papa sin cola",
-      "lead_fa": "La gente visita el Vaticano, pero pocos recuerdan que el papa Francisco quiso cambiar su escenario después de muerto. Está a 4 kilómetros de la plaza de San Pedro",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0bfc5f82cd63",
       "source": "La Vanguardia",
       "title": "Ballet Fit, el entrenamiento preferido de las famosas españolas",
@@ -1629,28 +1687,6 @@
       "priority": 68,
       "title_fa": "Ballet Fit, el entrenamiento preferido de las famosas españolas",
       "lead_fa": "Su creadora, Gloria Morales, explica por qué Paula Echevarría, Eugenia Silva, Marta Sánchez, Rossy de Palma, Candela Peña, Hiba Abouk y Naty Abascal, entre otras, han escogido su método",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e7188d1623f5",
-      "source": "La Vanguardia",
-      "title": "Arqueología del plástico playero: objetos ‘vintage’ sin fecha de caducidad, pero con fecha de retorno",
-      "summary": "‘Vivir sin plástico’ denuncia cómo envases de hace décadas regresan a las playas",
-      "url": "https://www.lavanguardia.com/vida/20260817/11614058/arquelogia-plastico-playero-objetos-vintage-fecha-caducidad-fecha-retorno.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f496868a10.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Arqueología del plástico playero: objetos ‘vintage’ sin fecha de caducidad, pero con fecha de retorno",
-      "lead_fa": "‘Vivir sin plástico’ denuncia cómo envases de hace décadas regresan a las playas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2243,15 +2279,15 @@
     {
       "id": "8352601f952f",
       "source": "La Vanguardia",
-      "title": "Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina",
-      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas",
+      "title": "Isla Cristina amanece blindada tras un triple crimen con una embarazada entre las víctimas",
+      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
       "url": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a823fa3b7204.r_d.505-386-0.jpeg",
       "published_at": "2026-08-17T00:11:37+02:00",
       "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina",
-      "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas",
+      "priority": 66,
+      "title_fa": "Isla Cristina amanece blindada tras un triple crimen con una embarazada entre las víctimas",
+      "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2260,34 +2296,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9663df6eb075",
-      "source": "La Vanguardia",
-      "title": "Detenido por amenazar con una navaja en una piscina de València a un bañista y un socorrista",
-      "summary": "El sospechoso habría iniciado una discusión con el vigilante, al parecer después de que este le recordase que estaba prohibido subir a un lugar del recinto en el que se encontraba",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11614708/detenido-amenazar-navaja-piscina-valencia-banista-socorrista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
-      "published_at": "2026-08-16T10:46:27+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "بازداشت مردی به اتهام تهدید با چاقو در استخری در والنسیا",
-      "lead_fa": "یک مرد در استخری در والنسیا پس از تذکر ایمنی، به یک شناگر و یک نجات‌غریق حمله کرد. پلیس این فرد را به جرم تهدید با چاقو بازداشت کرد.",
-      "key_points_fa": [
-        "آغاز درگیری پس از یادآوری ممنوعیت ورود به بخشی از محوطه استخر",
-        "تهدید ناجی و یکی از شناگران با استفاده از سلاح سرد (چاقو)",
-        "ورود نیروهای امنیتی و بازداشت فرد مظنون"
-      ],
-      "analysis_fa": "این رویداد نشان‌دهنده افزایش تنش‌ها و خشونت‌های جزئی در فضاهای عمومی و تفریحی در فصل گرم سال است که واکنش سریع نیروهای انتظامی را به دنبال دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#حوادث",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2316,28 +2324,6 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7c14495d00cb",
-      "source": "EL PAÍS España",
-      "title": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
-      "summary": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
-      "url": "https://elpais.com/espana/2026-08-15/al-menos-un-fallecido-y-dos-menores-heridos-tras-una-riada-en-manzanedo-de-valdueza-leon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TEJHFQ5RUBETDEEVEF5QQPAENA.jpg?auth=071e3f58ebbdb13b54b26157ff68bf0cc884311cf51c76838db7fc5012fda957",
-      "published_at": "2026-08-15T20:47:21+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
-      "lead_fa": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2462,6 +2448,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "31b4803ae19a",
+      "source": "EL PAÍS Economía",
+      "title": "Cuidado con espiar (aunque sea sin querer) a sus vecinos: estas son las sanciones a las que se enfrenta",
+      "summary": "Las cámaras de vigilancia, videoporteros y mirillas digitales que capten imágenes de forma indiscriminada pueden abocar al pago de multas",
+      "url": "https://elpais.com/economia/negocios/2026-08-15/cuidado-con-espiar-aunque-sea-sin-querer-a-sus-vecinos-estas-son-las-sanciones-a-las-que-se-enfrenta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TBYWNQCDOJDCPBPBPHQBFYXOBI.jpg?auth=656576f6af2423c5391fe76559b8221efa476a02292cfe5d7178ae557db5b201",
+      "published_at": "2026-08-15T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 52,
+      "title_fa": "Cuidado con espiar (aunque sea sin querer) a sus vecinos: estas son las sanciones a las que se enfrenta",
+      "lead_fa": "Las cámaras de vigilancia, videoporteros y mirillas digitales que capten imágenes de forma indiscriminada pueden abocar al pago de multas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2508,7 +2516,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 130
     }
   ]
 }
