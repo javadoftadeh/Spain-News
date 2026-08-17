@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:34:07.033242+00:00",
+  "generated_at": "2026-08-17T23:55:18.425396+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -2338,16 +2338,23 @@
       "published_at": "2026-08-17T06:00:00+02:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
-      "lead_fa": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تأخیر ۱۴ ساله رنفه در برچیدن دسترسی موقت در بارسلونا",
+      "lead_fa": "شرکت راه آهن رنفه پس از گذشت ۱۴ سال اقدام به برداشتن یک دسترسی موقت در منطقه آرک دو تریومف کرد. درهای مربوط به پروژه‌ای که در سال ۲۰۱۲ به پایان رسیده بود، تا به امروز دست‌نخورده باقی مانده بودند.",
+      "key_points_fa": [
+        "برداشتن دسترسی موقت پروژه‌ای قدیمی در آرک دو تریومف",
+        "تأخیر ۱۴ ساله در برچیدن موانع و درهای پروژه ختم شده در سال ۲۰۱۲",
+        "انتقاد از کُندی شرکت رنفه در اتمام کامل حاشیه‌های پروژه‌های عمرانی"
+      ],
+      "analysis_fa": "این تأخیر طولانی‌مدت بار دیگر انتقادها نسبت به کارایی ووکالت شرکت‌های دولتی در مدیریت و پاکسازی حاشیه‌های پروژه‌های زیرساختی را افزایش داده است. اگرچه این اقدام در نهایت انجام شد، اما زمان‌بندی آن سؤالاتی را درباره نظارت نهادی ایجاد می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#رنفه",
+        "#بارسلونا",
+        "#اسپانیا",
+        "#حمل_و_نقل"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2360,16 +2367,23 @@
       "published_at": "2026-08-17T05:00:00+02:00",
       "category": "turismo",
       "priority": 64,
-      "title_fa": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "lead_fa": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فرودگاه والنسیا؛ رکوردشکنی با گردشگران بریتانیایی، ایتالیایی و هلندی",
+      "lead_fa": "فرودگاه والنسیا به لطف افزایش مسافران از شهرهای اروپایی رکوردشکنی کرد. پالما د مایورکا همچنان بیشترین تبادل مسافر را با این فرودگاه دارد.",
+      "key_points_fa": [
+        "فرودگاه والنسیا آمار رکوردشکنی در پذیرش مسافر را ثبت کرد.",
+        "بیشترین افزایش مسافر مربوط به شهرهای لندن، رم و آمستردام است.",
+        "مسیر هوایی پالما د مایورکا همچنان بیشترین حجم مسافر را با منیسس دارد."
+      ],
+      "analysis_fa": "رشد مسافران بین‌المللی نشان‌دهنده تداوم جذابیت والنسیا به عنوان یک مقصد گردشگری در اسپانیا است. این روند افزایشی ریشه در تقویت ارتباطات هوایی با شهرهای کلیدی اروپا دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#والنسیا",
+        "#اسپانیا",
+        "#گردشگری",
+        "#پرواز"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2382,16 +2396,22 @@
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "cultura",
       "priority": 64,
-      "title_fa": "¿Hay que leer a los clásicos?",
-      "lead_fa": "Es difícil que la literatura del pasado fascine a los más jóvenes como a nosotros, pero debemos sembrar en ellos la curiosidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "آیا باید آثار کلاسیک را مطالعه کرد؟",
+      "lead_fa": "ادبیات گذشتگان شاید برای جوانان امروزی به اندازه نسل‌های قبل جذاب نباشد. با این حال، ترویج کنجکاوی نسبت به این آثار وظیفه‌ای مهم به شمار می‌رود.",
+      "key_points_fa": [
+        "چالش جذابیت ادبیات کلاسیک برای نسل جوان",
+        "لزوم ایجاد انگیزه و کنجکاوی نسبت به متون کهن"
+      ],
+      "analysis_fa": "بررسی ارزش متون کلاسیک و نحوه انتقال میراث ادبی به نسل‌های جدید، همواره از دغدغه‌های اهالی فرهنگ بوده است. یافتن راه‌های نوین برای نزدیک کردن جوانان به ادبیات گذشته، نیازمند بازنگری در روش‌های آموزشی وترویجی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ادبیات",
+        "#کلاسیک",
+        "#فرهنگ",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
