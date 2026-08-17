@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:56:41.057458+00:00",
+  "generated_at": "2026-08-17T22:37:31.212001+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -1374,6 +1374,34 @@
       "editorial_version": 2
     },
     {
+      "id": "31d1eefe143d",
+      "source": "EL PAÍS",
+      "title": "El planeta se acerca a temperaturas que millones de mayores no podrán tolerar: “Muchas más personas estarán en riesgo”",
+      "summary": "Con un calentamiento de 1,5 grados, la vida del 22% de las personas de más de 60 años ya estará en riesgo por estrés térmico",
+      "url": "https://elpais.com/salud-y-bienestar/2026-08-17/el-planeta-se-acerca-a-temperaturas-que-millones-de-mayores-no-podran-tolerar-muchas-mas-personas-estaran-en-riesgo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O74LMWL25NHU7CZKHYNX2YX2RQ.jpg?auth=c80497c60900dd9e3e412ebff3f235cc4695b5d69c783ff113fc61e7e4096a3b",
+      "published_at": "2026-08-17T22:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "خطر گرمایش زمین برای میلیون‌ها سالمند",
+      "lead_fa": "با افزایش دمای زمین، سلامت میلیون‌ها سالمند در خطر است. گرمای شدید توان تحمل بدن افراد بالای ۶۰ سال را به چالش می‌کشد.",
+      "key_points_fa": [
+        "افزایش ۱.۵ درجه‌ای دمای کره زمین زندگی ۲۲ درصد از افراد بالای ۶۰ سال را تهدید می‌کند.",
+        "استرس گرمایی یکی از مخاطرات جدی برای سلامت سالمندان است.",
+        "کارشناسان نسبت به افزایش خطرات ناشی از تغییرات اقلیمی هشدار داده‌اند."
+      ],
+      "analysis_fa": "این هشدار نشان‌دهنده ابعاد انسانی و بهداشتی بحران تغییرات اقلیمی است. تمرکز بر آسیب‌پذیری سالمندان ضرورت بازنگری در سیاست‌های شهری و بهداشتی برای مقابله با امواج گرما را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#تغییرات_اقلیمی",
+        "#سلامت_سالمندان",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "1d14bd46f517",
       "source": "EL PAÍS",
       "title": "Lorca vuelve a pasear por Madrid 90 años después de su fusilamiento",
@@ -2055,18 +2083,24 @@
       "url": "https://elpais.com/espana/2026-08-17/la-guardia-civil-lanza-un-amplio-dispositivo-para-localizar-a-los-autores-del-ajuste-de-cuentas-de-isla-cristina.html",
       "image": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf",
       "published_at": "2026-08-17T09:51:00+00:00",
-      "category": "ciencia",
+      "category": "sociedad",
       "priority": 66,
-      "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
-      "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "عملیات گسترده گارد مدنی اسپانیا برای دستگیری عاملان تسویه حساب در اوئلوا",
+      "lead_fa": "گارد مدنی اسپانیا عملیات وسیعی را برای یافتن عاملان یک تسویه حساب خونین در منطقه ایسلا کریستینا آغاز کرده است. تحقیقات اولیه این رویداد را به یک قتل دیگر در سال ۲۰۲۴ در همین استان مرتبط می‌داند.",
+      "key_points_fa": [
+        "آغاز عملیات گسترده گارد مدنی در ایسلا کریستینا (اوئلوا)",
+        "ارتباط پرونده با قتل دیگری در سال ۲۰۲۴ در اوئلوا",
+        "شناسایی یکی از مظنونان به عنوان یکی از خویشاوندان قربانیان"
+      ],
+      "analysis_fa": "وقوع تسویه حساب‌های خونین و ارتباط زنجیره‌ای پرونده‌های جنایی، چالش‌های امنیتی و انتظامی مرتبط با جرایم سازمان‌یافته را در برخی مناطق اسپانیا برجسته می‌کند. پیوند دادن این حادثه به پرونده‌های قبلی نشان‌دهنده پیچیدگی تحقیقات پلیسی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث",
+        "#گاردمدنی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2079,170 +2113,22 @@
       "published_at": "2026-08-17T09:40:59+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
-      "lead_fa": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "حمله وحشیانه یک بازدیدکننده به کارمند زندان برایانز ۲",
+      "lead_fa": "یک زن بازدیدکننده در زندان برایانز ۲ به یکی از کارمندان این مرکز حمله کرد. این فرد آسیب‌های شدیدی به صورت، چشم و سینه کارمند زندان وارد کرد.",
+      "key_points_fa": [
+        "مهاجم به صورت، چشم و سینه کارمند زندان ضربه زد.",
+        "بخشی از موهای قربانی کنده شد.",
+        "کارمند زندان از ناحیه ساعد و صورت گاز گرفته شد."
+      ],
+      "analysis_fa": "این رویداد بار دیگر مسائل مربوط به امنیت کارکنان در مراکز اصلاحی و تربیتی را برجسته می‌کند. وقوع چنین خشونت‌هایی معمولاً به بازنگری در پروتکل‌های امنیتی ملاقات‌ها منجر می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#زندان",
+        "#حوادث"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8c3dcfd624f0",
-      "source": "La Vanguardia",
-      "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
-      "summary": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
-      "url": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81dcff06cda.r_d.2660-2320-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 65,
-      "title_fa": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
-      "lead_fa": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6c0bd61e2884",
-      "source": "La Vanguardia",
-      "title": "El cerebro, a punto de su momento Ozempic",
-      "summary": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
-      "url": "https://www.lavanguardia.com/vida/20260817/11613859/cerebro-oxempic-peptidos-orexinas-narcolepsia-vigilia-sueno.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f1e56bf47c.r_d.6402-2453-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "El cerebro, a punto de su momento Ozempic",
-      "lead_fa": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f5531fddf639",
-      "source": "La Vanguardia",
-      "title": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
-      "summary": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11613486/banda-retretes-clandestinos-controla-34-habitaciones-turisticas-ilegales-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1b037166c.r_d.1008-364-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 65,
-      "title_fa": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
-      "lead_fa": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "76a8bae2dc1a",
-      "source": "La Vanguardia",
-      "title": "“Conviene respetar la fase del sueño entre las diez y las doce de la noche”",
-      "summary": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260817/11607531/marta-gonzalez-freire-investigadora-biomedica-fase-sueno-diez-doce-noche-conviene-respetarla-acostamos-medianoche-saltamos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b71ddfc7e.r_d.570-490-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 65,
-      "title_fa": "“Conviene respetar la fase del sueño entre las diez y las doce de la noche”",
-      "lead_fa": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b02160e7caca",
-      "source": "La Vanguardia",
-      "title": "Hugo Morales, campeón de Europa sobre una moto de agua con solo 12 años",
-      "summary": "Su afición comenzó cuando tenía 4 años, gracias a que su familia inició un negocio de alquiler de motos de agua en Málaga",
-      "url": "https://www.lavanguardia.com/deportes/20260817/11614820/hugo-morales-campeon-europa-sobre-moto-agua-12-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81defad18fa.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Hugo Morales, campeón de Europa sobre una moto de agua con solo 12 años",
-      "lead_fa": "Su afición comenzó cuando tenía 4 años, gracias a que su familia inició un negocio de alquiler de motos de agua en Málaga",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6016f3a7c18",
-      "source": "La Vanguardia",
-      "title": "Miguel Ríos: “Se necesita una revolución para cambiar el sistema, estamos en cuenta atrás”",
-      "summary": "Con 65 años de carrera sobre su espalda, el cantante se subirá mañana al escenario de Cap Roig para presentar algunas de las canciones de su último álbum, 'El último vals'",
-      "url": "https://www.lavanguardia.com/cultura/20260817/11614779/miguel-rios-necesita-revolucion-cambiar-sistema-cuenta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81c29161fca.r_d.2585-3996-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Miguel Ríos: “Se necesita una revolución para cambiar el sistema, estamos en cuenta atrás”",
-      "lead_fa": "Con 65 años de carrera sobre su espalda, el cantante se subirá mañana al escenario de Cap Roig para presentar algunas de las canciones de su último álbum, 'El último vals'",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6162a6d68005",
-      "source": "La Vanguardia",
-      "title": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
-      "summary": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11614797/renfe-tarda-14-anos-cerrar-acceso-provisional-arc-triomf.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81d0f158e33.r_d.2355-1724-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
-      "lead_fa": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2271,6 +2157,160 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8c3dcfd624f0",
+      "source": "La Vanguardia",
+      "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
+      "summary": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
+      "url": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81dcff06cda.r_d.2660-2320-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 64,
+      "title_fa": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
+      "lead_fa": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6c0bd61e2884",
+      "source": "La Vanguardia",
+      "title": "El cerebro, a punto de su momento Ozempic",
+      "summary": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
+      "url": "https://www.lavanguardia.com/vida/20260817/11613859/cerebro-oxempic-peptidos-orexinas-narcolepsia-vigilia-sueno.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f1e56bf47c.r_d.6402-2453-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "El cerebro, a punto de su momento Ozempic",
+      "lead_fa": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f5531fddf639",
+      "source": "La Vanguardia",
+      "title": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
+      "summary": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11613486/banda-retretes-clandestinos-controla-34-habitaciones-turisticas-ilegales-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1b037166c.r_d.1008-364-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 64,
+      "title_fa": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
+      "lead_fa": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "76a8bae2dc1a",
+      "source": "La Vanguardia",
+      "title": "“Conviene respetar la fase del sueño entre las diez y las doce de la noche”",
+      "summary": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260817/11607531/marta-gonzalez-freire-investigadora-biomedica-fase-sueno-diez-doce-noche-conviene-respetarla-acostamos-medianoche-saltamos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b71ddfc7e.r_d.570-490-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 64,
+      "title_fa": "“Conviene respetar la fase del sueño entre las diez y las doce de la noche”",
+      "lead_fa": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b02160e7caca",
+      "source": "La Vanguardia",
+      "title": "Hugo Morales, campeón de Europa sobre una moto de agua con solo 12 años",
+      "summary": "Su afición comenzó cuando tenía 4 años, gracias a que su familia inició un negocio de alquiler de motos de agua en Málaga",
+      "url": "https://www.lavanguardia.com/deportes/20260817/11614820/hugo-morales-campeon-europa-sobre-moto-agua-12-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81defad18fa.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Hugo Morales, campeón de Europa sobre una moto de agua con solo 12 años",
+      "lead_fa": "Su afición comenzó cuando tenía 4 años, gracias a que su familia inició un negocio de alquiler de motos de agua en Málaga",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6016f3a7c18",
+      "source": "La Vanguardia",
+      "title": "Miguel Ríos: “Se necesita una revolución para cambiar el sistema, estamos en cuenta atrás”",
+      "summary": "Con 65 años de carrera sobre su espalda, el cantante se subirá mañana al escenario de Cap Roig para presentar algunas de las canciones de su último álbum, 'El último vals'",
+      "url": "https://www.lavanguardia.com/cultura/20260817/11614779/miguel-rios-necesita-revolucion-cambiar-sistema-cuenta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81c29161fca.r_d.2585-3996-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Miguel Ríos: “Se necesita una revolución para cambiar el sistema, estamos en cuenta atrás”",
+      "lead_fa": "Con 65 años de carrera sobre su espalda, el cantante se subirá mañana al escenario de Cap Roig para presentar algunas de las canciones de su último álbum, 'El último vals'",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6162a6d68005",
+      "source": "La Vanguardia",
+      "title": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
+      "summary": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11614797/renfe-tarda-14-anos-cerrar-acceso-provisional-arc-triomf.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81d0f158e33.r_d.2355-1724-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
+      "lead_fa": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2373,28 +2413,6 @@
       "priority": 64,
       "title_fa": "Una lectora: “La burocracia ataca la dignidad de las afganas”",
       "lead_fa": "Las cartas al director critican la actuación de las las embajadas españolas en Irán y Pakistán, la situación de los servicios en Ceuta, el trabajo presencial y la presión sobre las madres",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "05b70ac2e608",
-      "source": "EL PAÍS",
-      "title": "Peridis: ¡Qué portero!",
-      "summary": "Viñeta del 17 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-17/peridis-que-portero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XC7QC3A2PRFWLJZVV5MZTFS7GA.jpg?auth=d418bb98a28bce26e3de75a18ffe12f7768e1c9be8a90e2988061ac89f189e10",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Peridis: ¡Qué portero!",
-      "lead_fa": "Viñeta del 17 de agosto de 2026",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2560,28 +2578,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8352601f952f",
-      "source": "La Vanguardia",
-      "title": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
-      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a823fa3b7204.r_d.505-386-0.jpeg",
-      "published_at": "2026-08-17T00:11:37+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
-      "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c3b6c38a7e37",
       "source": "EL PAÍS España",
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -2607,6 +2603,28 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8352601f952f",
+      "source": "La Vanguardia",
+      "title": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
+      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a823fa3b7204.r_d.505-386-0.jpeg",
+      "published_at": "2026-08-17T00:11:37+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
+      "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2705,7 +2723,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 151
     },
     {
       "source": "EL PAÍS España",
