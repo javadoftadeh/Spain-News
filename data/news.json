@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:36:56.608557+00:00",
+  "generated_at": "2026-08-17T21:56:41.057458+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -296,7 +296,7 @@
     {
       "id": "ab929235e7a4",
       "source": "EL PAÍS",
-      "title": "La Policía investiga el acceso del grupo ‘hacker’ prorruso NoName057 a datos sensibles de un millar de policías y militares",
+      "title": "La Policía investiga el acceso del grupo ‘hacker’ prorruso NoName057 a datos sensibles de un millar de agentes y militares",
       "summary": "Esta red, entre cuyos cabecillas está un profesor español, ha lanzado en los últimos años más de 500 oleadas de ciberataques",
       "url": "https://elpais.com/espana/2026-08-17/la-policia-investiga-el-acceso-del-grupo-hacker-prorruso-noname057-a-datos-sensibles-de-medio-millar-de-policias-y-militares.html",
       "image": "https://imagenes.elpais.com/resizer/v2/ON6IUZI5DRAWZEG5BRYXONX27E.jpg?auth=a1d2ad83b5cf2452641bb37e9a4885aa62a39cebbbe293a8d3e7b995374798f7",
@@ -1971,18 +1971,25 @@
       "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
       "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
       "published_at": "2026-08-17T12:29:29+00:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 67,
-      "title_fa": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
-      "lead_fa": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کاهش رزمایش‌های نظامی آمریکا و کره جنوبی توسط ترامپ",
+      "lead_fa": "دونالد ترامپ از کاهش رزمایش‌های نظامی مشترک با کره جنوبی خبر داد. او دلیل این تصمیم را روابط خوب با کیم جونگ اون و انتقاد از عدم همکاری سئول در مسئله ایران عنوان کرد.",
+      "key_points_fa": [
+        "کاهش تمرینات نظامی مشترک آمریکا و کره جنوبی",
+        "اشاره ترامپ به روابط بسیار خوب با رهبر کره شمالی",
+        "انتقاد رئیس‌جمهور آمریکا از عدم همکاری سئول در جنگ با ایران"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده تغییر در اولویت‌های استراتژیک ایالات متحده در شبه‌جزیره کره و تأثیرگذاری تحولات خاورمیانه بر روابط سنتی واشنگتن با متحدان آسیایی‌اش است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمریکا",
+        "#کره_جنوبی",
+        "#ترامپ",
+        "#دیپلماسی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1995,16 +2002,21 @@
       "published_at": "2026-08-17T12:27:35+02:00",
       "category": "deportes",
       "priority": 67,
-      "title_fa": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
-      "lead_fa": "El club blaugrana está perfilando las salidas de los canteranos Tommy Marqués, Jofre Torrents y el portero Yaakobishvili",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کانسلو به عنوان بازیکن آزاد راهی بارسلونا می‌شود",
+      "lead_fa": "ژائو کانسلو پس از جدایی از باشگاه الهلال، امروز به عنوان بازیکن آزاد وارد بارسلونا می‌شود. در همین حال، باشگاه آبی‌اناری در حال نهایی کردن جدایی چند بازیکن جوان خود است.",
+      "key_points_fa": [
+        "ورود ژائو کانسلو به بارسلونا پس از پایان همکاری با الهلال",
+        "بررسی وضعیت جدایی بازیکنان آکادمی شامل تامی مارکِس، ژوفر تورِنتس و دروازه‌بان یاکوبیشویلی توسط بارسلونا"
+      ],
+      "analysis_fa": "این جابجایی نشان‌دهنده تلاش بارسلونا برای تقویت ترکیب خود با جذب بازیکنان آزاد است، در حالی که همزمان مدیریت فهرست بازیکنان جوان و مازاد در دستور کار باشگاه قرار دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#کانسلو",
+        "#فوتبال_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2017,16 +2029,22 @@
       "published_at": "2026-08-17T11:19:40+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Pedraz asume todo el ‘caso Leire’ al incorporar los 14 tomos del sumario que instruía un juez de Madrid",
-      "lead_fa": "Zamarriego remite a la Audiencia Nacional su causa al aceptar la semana pasada que ambas están “indisolublemente” unidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتقال کامل پرونده «لیره» به دیوان ملی اسپانیا توسط قاضی پدراز",
+      "lead_fa": "قاضی پدراز با الحاق ۱۴ جلد پرونده قضایی، مسئولیت کامل تحقیقات موسوم به «پرونده لیره» را بر عهده گرفت. این اقدام پس از موافقت قاضی زاماریگو با اتصال ناگسستنی این پرونده‌ها انجام شد.",
+      "key_points_fa": [
+        "الحاق ۱۴ جلد از پرونده قضایی جریان‌یافته در مادرید به دیوان ملی اسپانیا.",
+        "ارسال پرونده توسط قاضی زاماریگو پس از اذعان به ارتباط غیرقابل تفکیک پرونده‌ها.",
+        "تمرکز روند قضایی پرونده لیره در یک نهاد قضایی واحد."
+      ],
+      "analysis_fa": "تمرکز پرونده‌های مرتبط در یک مرجع قضایی واحد معمولاً به هماهنگی بیشتر در روند تحقیقات و جلوگیری از موازی‌کاری کمک می‌کند. دیوان ملی اسپانیا با در اختیار گرفتن تمام بخش‌های پرونده، نظارت متمرکزتری بر ابعاد مختلف این ماجرا خواهد داشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اخبار_قضایی",
+        "#دیوان_ملی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2038,7 +2056,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf",
       "published_at": "2026-08-17T09:51:00+00:00",
       "category": "ciencia",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
       "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
       "key_points_fa": [],
@@ -2687,7 +2705,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
