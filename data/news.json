@@ -1,42 +1,14 @@
 {
-  "generated_at": "2026-08-17T08:22:01.915457+00:00",
+  "generated_at": "2026-08-17T09:22:20.238809+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "d61d78a7d612",
     "c98446ef09af",
     "8825a2e26138",
+    "9737d8de1ca8",
     "e4b6e111151c",
     "6543e6735c58"
   ],
   "items": [
-    {
-      "id": "d61d78a7d612",
-      "source": "La Vanguardia",
-      "title": "Muere un militar de la UME durante las tareas de extinción del incendio de Riglos",
-      "summary": "El presidente del Gobierno de Aragón, Jorge Azcón, ha trasladado su pésame al teniente general de la Unidad Militar de Emergencias y a la familia del bombero fallecido",
-      "url": "https://www.lavanguardia.com/local/aragon/20260816/11614855/muere-militar-ume-tareas-extincion-incendio-riglos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82b26e579c9.jpeg",
-      "published_at": "2026-08-16T20:06:51+02:00",
-      "category": "sociedad",
-      "priority": 92,
-      "title_fa": "جان باختن یک نظامی واحد امداد و نجات اسپانیا در آتش‌سوزی ریگلوس",
-      "lead_fa": "یک نظامی واحد اضطراری نظامی اسپانیا حین مهار آتش‌سوزی جنگلی در منطقه ریگلوس جان باخت. رئیس دولت آراگون این ضایعه را تسلیت گفت.",
-      "key_points_fa": [
-        "جان باختن یکی از اعضای واحد اضطراری نظامی (UME)",
-        "وقع حادثه در جریان عملیات اطفا حریق در ریگلوس",
-        "پیام تسلیت Jorge Azcón، رئیس دولت آراگون، به خانواده جان‌باخته"
-      ],
-      "analysis_fa": "این حادثه بار دیگر خطرات بالای ماموریت‌های اطفای حریق برای نیروهای امدادی در فصل آتش‌سوزی‌های جنگلی در اسپانیا را برجسته می‌کند. واکنش مقام‌های ارشد سیاسی نشان‌دهنده اهمیت ملی این نیروها است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#امدادگران"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "c98446ef09af",
       "source": "EL PAÍS España",
@@ -72,7 +44,7 @@
       "summary": "Mónica García: “Estamos frente a una crisis humanitaria absolutamente excepcional” | Sánchez reúne por videoconferencia a sus ministros por la crisis de Ceuta",
       "url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/JKJIJNC2JNCE3E5ECNLRWV5WCU.jpg?auth=37762945584b18ac25f48f5c2bdea114ea4f450682fdc83f2e04edaee5a09c75",
-      "published_at": "2026-08-17T08:10:03+00:00",
+      "published_at": "2026-08-17T08:44:48+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "تهدید دولت توسط رئیس سئوتا برای اقدام قضایی بحران مهاجرت",
@@ -89,6 +61,34 @@
         "#سئوتا",
         "#مهاجرت",
         "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9737d8de1ca8",
+      "source": "La Vanguardia",
+      "title": "El presidente de Ceuta carga de nuevo contra el Gobierno y amenaza con acudir a la justicia",
+      "summary": "Juan Jesús Vivas acusa al Ejecutivo de “maquillar la realidad” y le da 30 días para solucionar la crisis",
+      "url": "https://www.lavanguardia.com/politica/20260817/11615101/presidente-ceuta-carga-nuevo-gobierno-anuncia-acudira-justicia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82c68d8825d.jpeg",
+      "published_at": "2026-08-17T10:30:36+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "انتقاد شدید رئیس سبته از دولت مرکزی و تهدید به اقدام قانونی",
+      "lead_fa": "خوان خسوس ویباس، دولت مرکزی را به پنهان‌کاری متهم کرد. او به دولت ۳۰ روز فرصت داد تا بحران کنونی را حل کند.",
+      "key_points_fa": [
+        "خوان خسوس ویباس دولت را به ماست‌مالی کردن واقعیت متهم کرد.",
+        "او یک مهلت ۳۰ روزه برای حل بحران تعیین نمود.",
+        "وی تهدید کرد که در صورت عدم اقدام، به مراجع قضایی متوسل خواهد شد."
+      ],
+      "analysis_fa": "این تنش سیاسی نشان‌دهنده اختلاف نظر میان مقامات محلی سبته و دولت مرکزی اسپانیا بر سر نحوه مدیریت بحران‌هاست. استفاده از ابزارهای قانونی و تعیین مهلت‌های زمانی، ابزاری متداول برای اعمال فشار سیاسی در ساختار اداری اسپانیا به شمار می‌رود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سبته",
+        "#اسپانیا",
+        "#دولت_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -182,7 +182,7 @@
     {
       "id": "fb12035bc153",
       "source": "EL PAÍS",
-      "title": "La crisis migratoria de Ceuta desvela un memorial de agravios de Marruecos hacia España",
+      "title": "Marruecos usa la crisis migratoria de Ceuta para esgrimir un memorial de agravios contra España",
       "summary": "El Gobierno de Rabat traslada por distintos medios un rosario de quejas por no haber sido consultado sobre la regularización, la nacionalidad para los saharauis o la devolución en caliente",
       "url": "https://elpais.com/espana/2026-08-17/la-crisis-migratoria-de-ceuta-desvela-un-memorial-de-agravios-de-marruecos-hacia-espana.html",
       "image": "https://imagenes.elpais.com/resizer/v2/K75AN6LESREW7B62GT4FPYX5QA.jpeg?auth=d0ba097af05c3773e7736c078d0370561e9fd8a4e5561c95c6d5ce9cb35d9a23",
@@ -238,6 +238,34 @@
       "editorial_version": 2
     },
     {
+      "id": "cee729d1ba92",
+      "source": "La Vanguardia",
+      "title": "Diez comunidades tienen avisos por lluvia, tormentas y calor, tres en nivel 'naranja'",
+      "summary": "Hay alertas por temperaturas máximas en Andalucía, Aragón, Islas Baleares, Castilla y León, Castilla-La Mancha, Catalunya, Extremadura, Galicia y Madrid",
+      "url": "https://www.lavanguardia.com/natural/20260817/11615088/diez-comunidades-avisos-lluvia-tormentas-calor-tres-nivel-naranja.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/06/6a74fa8f637a8.r_d.6032-3571-0.jpeg",
+      "published_at": "2026-08-17T10:05:49+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "هشدار هواشناسی در ۱۰ منطقه اسپانیا به دلیل گرما و طوفان",
+      "lead_fa": "سازمان هواشناسی اسپانیا برای ده منطقه این کشور وضعیت هشدار صادر کرد. سه منطقه نیز در سطح هشدار نارنجی قرار گرفتند.",
+      "key_points_fa": [
+        "صدور هشدار به دلیل بارندگی، طوفان و گرمای شدید در ۱۰ منطقه.",
+        "قرار گرفتن سه منطقه در سطح هشدار نارنجی.",
+        "مناطقی از جمله اندلس، آراگون، کاتالونیا و مادرید تحت تأثیر هشدارها هستند."
+      ],
+      "analysis_fa": "این هشدارها نشان‌دهنده ناپایداری‌های جوی در نقاط مختلف اسپانیا است که بخش‌های وسیعی از کشور را با پدیده‌های متضاد جوی مانند بارش، طوفان و هوای داغ درگیر کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هواشناسی_اسپانیا",
+        "#هشدار_هواشناسی",
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "ae155d7f989e",
       "source": "La Vanguardia",
       "title": "Hayden Panettier, actriz de series como 'Nashville' y 'Héroes', muere a los 36 años",
@@ -270,7 +298,7 @@
       "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
       "summary": "La intérprete, que deja una hija de 12 años, participó en ‘Nashville’ o ‘Bichos’. Su hermano menor murió en 2023 por una cardiopatía",
       "url": "https://elpais.com/gente/2026-08-17/muere-hayden-panettiere-actriz-de-heroes-a-los-36-anos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XE2HQCMK7VL7JGX43QJ3LGUQKE.jpg?auth=bcf0162902d18820d3320e0f24be98dbbdcb89a15e8e9c53b9ac1257073602e6",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205197_091627_video_1800.mp4",
       "published_at": "2026-08-17T06:21:05+00:00",
       "category": "sociedad",
       "priority": 77,
@@ -673,16 +701,22 @@
       "published_at": "2026-08-17T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "Alarma en el PP de Madrid: “Nos confiamos. En política no hay nada hecho”",
-      "lead_fa": "En el partido achacan los problemas con el ático a un exceso de confianza, a cambios en Presidencia y a que no ha logrado recuperar la iniciativa con la Ley del concebido no nacido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نگرانی در حزب مردمی مادرید از اعتماد به نفس بیش از حد",
+      "lead_fa": "رهبران حزب مردمی در مادرید نسبت به کاهش ابتکار عمل سیاسی خود ابراز نگرانی کردند. آن‌ها معتقدند که نباید پیش از قطعی شدن پیروزی، هیچ‌چیز را تمام‌شده دانست.",
+      "key_points_fa": [
+        "اعتراف مقامات حزب به وجود مشکلات ناشی از اعتماد به نفس بیش از حد",
+        "اشاره به تغییرات درون‌سازمانی در نهاد ریاست",
+        "ناتوانی در بازپس‌گیری ابتکار عمل سیاسی با وجود طرح‌های مختلف"
+      ],
+      "analysis_fa": "این تحولات نشان‌دهنده چالش‌های درونی حزب مردمی در حفظ پویایی سیاسی و مدیریت حواشی است. حزب با موانعی در بازسازی وجهه خود و پیشبرد اهداف سیاسیش روبروست که نیازمند بازنگری در استراتژی‌های ارتباطی و مدیریتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مادرید",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -840,28 +874,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6aeaccb7499e",
-      "source": "EL PAÍS Economía",
-      "title": "Los empresarios españoles, más optimistas que la media global ante el reto de la IA",
-      "summary": "Un informe de NTT Data señala que el 95% de las firmas en España se ven preparadas para el despliegue de la agéntica, frente a la cautela generalizada a escala global",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/los-empresarios-espanoles-mas-optimistas-que-la-media-global-ante-el-reto-de-la-ia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5OHKSZYWHBG6JJLZK3BY77JYPE.jpg?auth=557bce23ea7f1ac43498eaa1408ed3fa26a677ad0dfb91b0567d6e13c18d4f9d",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "Los empresarios españoles, más optimistas que la media global ante el reto de la IA",
-      "lead_fa": "Un informe de NTT Data señala que el 95% de las firmas en España se ven preparadas para el despliegue de la agéntica, frente a la cautela generalizada a escala global",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2ea09c18f8c1",
       "source": "EL PAÍS Economía",
       "title": "Los vecinos de Almaraz, sobre alargar la vida de la central nuclear: “No será la última, lucharemos por más”",
@@ -947,6 +959,28 @@
       "editorial_version": 2
     },
     {
+      "id": "6aeaccb7499e",
+      "source": "EL PAÍS Economía",
+      "title": "Los empresarios españoles, más optimistas que la media global ante el reto de la IA",
+      "summary": "Un informe de NTT Data señala que el 95% de las firmas en España se ven preparadas para el despliegue de la agéntica, frente a la cautela generalizada a escala global",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/los-empresarios-espanoles-mas-optimistas-que-la-media-global-ante-el-reto-de-la-ia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5OHKSZYWHBG6JJLZK3BY77JYPE.jpg?auth=557bce23ea7f1ac43498eaa1408ed3fa26a677ad0dfb91b0567d6e13c18d4f9d",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "Los empresarios españoles, más optimistas que la media global ante el reto de la IA",
+      "lead_fa": "Un informe de NTT Data señala que el 95% de las firmas en España se ven preparadas para el despliegue de la agéntica, frente a la cautela generalizada a escala global",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "60c9e0cf352f",
       "source": "EL PAÍS España",
       "title": "La frontera de Ceuta como muro de Berlín invertido",
@@ -998,6 +1032,50 @@
       "editorial_version": 2
     },
     {
+      "id": "c1f34935cc96",
+      "source": "La Vanguardia",
+      "title": "Sale a licitación por 59.400 euros la peluquería de la base militar de Bétera",
+      "summary": "La duración será por dos años y se valorará la oferta y las posibles mejoras",
+      "url": "https://www.lavanguardia.com/local/valencia/20260817/11615100/sale-licitacion-59-400-euros-peluqueria-base-militar-betera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/12/6733877f31a8a.r_d.1690-779-0.jpeg",
+      "published_at": "2026-08-17T10:30:56+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Sale a licitación por 59.400 euros la peluquería de la base militar de Bétera",
+      "lead_fa": "La duración será por dos años y se valorará la oferta y las posibles mejoras",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ed23553aa914",
+      "source": "La Vanguardia",
+      "title": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
+      "summary": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
+      "url": "https://www.lavanguardia.com/sucesos/20260817/11615083/visitante-agrede-manera-brutal-funcionaria-centro-penitenciario-brians-2.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d14ace25ba3.r_d.2229-1455-0.jpeg",
+      "published_at": "2026-08-17T09:40:59+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
+      "lead_fa": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f12b86da9ef5",
       "source": "La Vanguardia",
       "title": "Catalunya recuerda a las víctimas de los atentados del 17-A nueve años después",
@@ -1020,17 +1098,17 @@
       "editorial_version": 2
     },
     {
-      "id": "e4c051cdd938",
-      "source": "La Vanguardia",
-      "title": "Schubertíada “¡fantástica!” con Matilda Sterby",
-      "summary": "El público de Vilabertran, fascinado con la voz de la soprano sueca en la inauguración de una edición especial",
-      "url": "https://www.lavanguardia.com/cultura/20260817/11614976/schubertiada-fantastica-matilda-sterby-jordi-roch-vilabertran.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8233d048f97.r_d.1798-1121-0.jpeg",
-      "published_at": "2026-08-17T07:57:00+02:00",
+      "id": "bab8a3c7a735",
+      "source": "EL PAÍS",
+      "title": "Locura en Motril por hacerse con un décimo del número 19726, la fecha de la final del Mundial",
+      "summary": "La combinación está casi agotada en todos los puntos de venta del país, salvo en esta localidad granadina, donde lo juega un club de waterpolo",
+      "url": "https://elpais.com/espana/2026-08-17/locura-en-motril-por-hacerse-con-un-decimo-del-numero-19726-la-fecha-de-la-final-del-mundial.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/STQJ6TUPSNJ2PNOO3MPT34O5KY.jpg?auth=497da08d15810704dbe43205a13563c72a5181dbf960e5c55bae7177bd0c3d08",
+      "published_at": "2026-08-17T08:12:16+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Schubertíada “¡fantástica!” con Matilda Sterby",
-      "lead_fa": "El público de Vilabertran, fascinado con la voz de la soprano sueca en la inauguración de una edición especial",
+      "title_fa": "Locura en Motril por hacerse con un décimo del número 19726, la fecha de la final del Mundial",
+      "lead_fa": "La combinación está casi agotada en todos los puntos de venta del país, salvo en esta localidad granadina, donde lo juega un club de waterpolo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1061,34 +1139,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "92710924a3b3",
-      "source": "La Vanguardia",
-      "title": "“Para su erección no necesitaba testosterona: solo que le escuchara”",
-      "summary": "Tengo 56 años: vivir más puede ayudar a ser mejor médico. Nací en Perú y hace 30 años que ejerzo de médico en Rochester. Allí salimos a la calle contra el ICE de Trump antiinmigrantes: los médicos les atendemos gratis. Colaboro con el programa Decisions Compartides del Departament de Salut. (Foto: Xavi Jurio)",
-      "url": "https://www.lavanguardia.com/lacontra/20260817/11614851/victor-montorri-ereccion-necesitaba-testosterona-le-escuchara.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81f1007029f.r_d.3136-2560-0.jpeg",
-      "published_at": "2026-08-17T00:05:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "پزشک مهاجر: گوش دادن به بیمار از تستوسترون مهم‌تر است",
-      "lead_fa": "یک پزشک ۵۶ ساله اهل پرو که سه دهه در روچستر طبابت کرده، بر اهمیت همدلی در پزشکی تأکید می‌کند. او علاوه بر فعالیت درمانی، با وزارت بهداشت کاتالونیا نیز همکاری دارد.",
-      "key_points_fa": [
-        "تجارب طولانی در حرفه پزشکی در شهر روچستر",
-        "مشارکت در اعتراضات علیه سیاست‌های مهاجرتی دولت ترامپ",
-        "همکاری با برنامه Decisions Compartides وزارت بهداشت"
-      ],
-      "analysis_fa": "این روایت شخصی بازتاب‌دهنده چالش‌ها و دغدغه‌های کادر درمان مهاجر است که علاوه بر خدمت پزشکی، در حوزه‌های اجتماعی و حقوق مهاجران نیز فعالیت دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#پزشکان_مهاجر",
-        "#سلامت",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1204,6 +1254,50 @@
       "editorial_version": 2
     },
     {
+      "id": "e4c051cdd938",
+      "source": "La Vanguardia",
+      "title": "Schubertíada “¡fantástica!” con Matilda Sterby",
+      "summary": "El público de Vilabertran, fascinado con la voz de la soprano sueca en la inauguración de una edición especial",
+      "url": "https://www.lavanguardia.com/cultura/20260817/11614976/schubertiada-fantastica-matilda-sterby-jordi-roch-vilabertran.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8233d048f97.r_d.1798-1121-0.jpeg",
+      "published_at": "2026-08-17T07:57:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Schubertíada “¡fantástica!” con Matilda Sterby",
+      "lead_fa": "El público de Vilabertran, fascinado con la voz de la soprano sueca en la inauguración de una edición especial",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "27d361aaf1eb",
+      "source": "La Vanguardia",
+      "title": "Trump atribuye la reducción de maniobras militares con Seúl a su relación con Kim Jong Un",
+      "summary": "Hoy dan comienzo los ejercicios semestrales de EE.UU. con Corea del Sur, que quiere recuperar autonomía",
+      "url": "https://www.lavanguardia.com/internacional/20260817/11615036/trump-reduce-ejercicios-militares-corea-sur-buena-relacion-kim-jong.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/05/03/5fa916555810a.jpeg",
+      "published_at": "2026-08-17T07:21:03+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Trump atribuye la reducción de maniobras militares con Seúl a su relación con Kim Jong Un",
+      "lead_fa": "Hoy dan comienzo los ejercicios semestrales de EE.UU. con Corea del Sur, que quiere recuperar autonomía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "51b6ed1a4009",
       "source": "La Vanguardia",
       "title": "El verano más mágico de Mireia Oriol: “Estaba eufórica”",
@@ -1270,28 +1364,6 @@
       "editorial_version": 2
     },
     {
-      "id": "13708bdf94a5",
-      "source": "La Vanguardia",
-      "title": "El Conde Cara Cubo de Basura como indicador",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/politica/20260817/11614847/conde-cara-cubo-basura-indicador.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81ece2b005e.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El Conde Cara Cubo de Basura como indicador",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8c3dcfd624f0",
       "source": "La Vanguardia",
       "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
@@ -1314,17 +1386,17 @@
       "editorial_version": 2
     },
     {
-      "id": "27c85501a404",
+      "id": "13708bdf94a5",
       "source": "La Vanguardia",
-      "title": "Ferrari es la única ganadora en la tormenta bursátil del motor europeo",
-      "summary": "Las dudas y los malos resultados prolongan el castigo a las grandes en el 2026",
-      "url": "https://www.lavanguardia.com/economia/20260817/11614825/ferrari-unica-ganadora-tormenta-bursatil-motor-europeo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81df7074a44.jpeg",
+      "title": "El Conde Cara Cubo de Basura como indicador",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/politica/20260817/11614847/conde-cara-cubo-basura-indicador.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81ece2b005e.jpeg",
       "published_at": "2026-08-17T06:00:00+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Ferrari es la única ganadora en la tormenta bursátil del motor europeo",
-      "lead_fa": "Las dudas y los malos resultados prolongan el castigo a las grandes en el 2026",
+      "title_fa": "El Conde Cara Cubo de Basura como indicador",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1567,72 +1639,6 @@
       "priority": 69,
       "title_fa": "Las masías ‘prime’ impulsan a Barnes en la Costa Brava",
       "lead_fa": "Los compradores son sobre todo estadounidenses y europeos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "76a8bae2dc1a",
-      "source": "La Vanguardia",
-      "title": "Marta González-Freire: “Conviene respetar la fase del sueño entre las 10 y las 12 de la noche”",
-      "summary": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260817/11607531/marta-gonzalez-freire-investigadora-biomedica-fase-sueno-diez-doce-noche-conviene-respetarla-acostamos-medianoche-saltamos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b71ddfc7e.r_d.570-490-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Marta González-Freire: “Conviene respetar la fase del sueño entre las 10 y las 12 de la noche”",
-      "lead_fa": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cc222543a654",
-      "source": "La Vanguardia",
-      "title": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "summary": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "url": "https://www.lavanguardia.com/local/valencia/20260817/11614799/britanicos-italianos-holandeses-llevan-aeropuerto-valencia-romper-records.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/19/68cd22e257bb4.r_d.1024-768-0.jpeg",
-      "published_at": "2026-08-17T05:00:00+02:00",
-      "category": "turismo",
-      "priority": 69,
-      "title_fa": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "lead_fa": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3718307624ff",
-      "source": "EL PAÍS",
-      "title": "Elísabet Benavent: “Escribo entretenimiento y me enorgullezco de ello”",
-      "summary": "Netflix estrena ‘Toda la verdad de mis mentiras’, la cuarta adaptación de una novela de la autora de ‘Valeria’",
-      "url": "https://elpais.com/television/series/2026-08-17/elisabet-benavent-escribo-entretenimiento-y-me-enorgullezco-de-ello.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LUZLWKWD45C2ZLO5RZB3ZE5DA4.jpg?auth=1eddfe9924c2c63ab3496bc397a2f91d3ca76487f35b8525f2a50b0236f0453b",
-      "published_at": "2026-08-17T04:08:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Elísabet Benavent: “Escribo entretenimiento y me enorgullezco de ello”",
-      "lead_fa": "Netflix estrena ‘Toda la verdad de mis mentiras’, la cuarta adaptación de una novela de la autora de ‘Valeria’",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2062,72 +2068,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9f588b3f3f15",
-      "source": "EL PAÍS Economía",
-      "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
-      "summary": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WAY5PFTBSRM4BFVP3TGELZUBWU.jpg?auth=515a972b3363c8bdfe8159e48adcc7e5d95288a4690e4463176c4a55a7629eeb",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
-      "lead_fa": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "43bad0c15e93",
-      "source": "EL PAÍS Economía",
-      "title": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
-      "summary": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/grant-thornton-avisa-de-un-atasco-en-el-private-equity-espanol-porque-el-valor-que-aporta-se-ha-agotado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OABQ4IAXZNALJFLRWA6OPCTS34.jpeg?auth=54a504ca13684756ae388ad28484f7d78813b86cd1b7600b9c7cc67e12717e67",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
-      "lead_fa": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8d1be23211f9",
-      "source": "EL PAÍS Economía",
-      "title": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispueta a pagar por ella”",
-      "summary": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/beatriz-navarro-amkt-una-compania-vale-lo-que-valga-su-marca-y-lo-que-la-gente-este-dispueta-a-pagar-por-ella.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6ZBPPAXEGFAKBKU4WNPJZYWCWM.jpg?auth=4be32959d211f3aad769a5c817455e1ab8c5c54a7fc786e2a2a3bac628fe03ee",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispueta a pagar por ella”",
-      "lead_fa": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "56f4ccf2eb06",
       "source": "EL PAÍS Economía",
       "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
@@ -2153,6 +2093,94 @@
         "#محیط_زیست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "cc222543a654",
+      "source": "La Vanguardia",
+      "title": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
+      "summary": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
+      "url": "https://www.lavanguardia.com/local/valencia/20260817/11614799/britanicos-italianos-holandeses-llevan-aeropuerto-valencia-romper-records.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/19/68cd22e257bb4.r_d.1024-768-0.jpeg",
+      "published_at": "2026-08-17T05:00:00+02:00",
+      "category": "turismo",
+      "priority": 68,
+      "title_fa": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
+      "lead_fa": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9f588b3f3f15",
+      "source": "EL PAÍS Economía",
+      "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+      "summary": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WAY5PFTBSRM4BFVP3TGELZUBWU.jpg?auth=515a972b3363c8bdfe8159e48adcc7e5d95288a4690e4463176c4a55a7629eeb",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+      "lead_fa": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "43bad0c15e93",
+      "source": "EL PAÍS Economía",
+      "title": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
+      "summary": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/grant-thornton-avisa-de-un-atasco-en-el-private-equity-espanol-porque-el-valor-que-aporta-se-ha-agotado.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OABQ4IAXZNALJFLRWA6OPCTS34.jpeg?auth=54a504ca13684756ae388ad28484f7d78813b86cd1b7600b9c7cc67e12717e67",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
+      "lead_fa": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8d1be23211f9",
+      "source": "EL PAÍS Economía",
+      "title": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispueta a pagar por ella”",
+      "summary": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/beatriz-navarro-amkt-una-compania-vale-lo-que-valga-su-marca-y-lo-que-la-gente-este-dispueta-a-pagar-por-ella.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6ZBPPAXEGFAKBKU4WNPJZYWCWM.jpg?auth=4be32959d211f3aad769a5c817455e1ab8c5c54a7fc786e2a2a3bac628fe03ee",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispueta a pagar por ella”",
+      "lead_fa": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2230,35 +2258,6 @@
         "#والنسیا",
         "#حوادث",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "edb3f100abb5",
-      "source": "La Vanguardia",
-      "title": "El 'sopar a la fresca' de las playas de València, una tradición que nadie quiere perder",
-      "summary": "Las “inoportunas” declaraciones de un hostelero tras el anuncio de reforma de la franja litoral incomoda al vecindario en una polémica que el Ayuntamiento ha querido calmar",
-      "url": "https://www.lavanguardia.com/local/valencia/20260816/11613203/sopar-fresca-playas-valencia-tradicion-nadie-quiere-perder.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d97043e1bd.r_d.412-910-0.jpeg",
-      "published_at": "2026-08-16T05:50:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "دفاع والنسیا از سنت شب‌نشینی ساحلی",
-      "lead_fa": "اظهارات جنجالی یک فعال صنفی حوزه گردشگری درباره سواحل والنسیا باعث نگرانی ساکنان منطقه شد. شهرداری برای آرام کردن اوضاع و حفظ سنت‌های محلی وارد عمل شده است.",
-      "key_points_fa": [
-        "اعلام طرح اصلاح نوار ساحلی والنسیا توسط مقامات",
-        "واکنش منفی اهالی به اظهارات یک فعال بخش هتلداری و رستوران‌داری",
-        "تلاش شهرداری برای فروکش کردن تنش‌ها و حفظ سنت شب‌نشینی"
-      ],
-      "analysis_fa": "این مناقشه نشان‌دهنده چالش میان توسعه گردشگری و حفظ سنت‌های دیرینه ساکنان محلی است. شهرداری تلاش می‌کند با پادرمیانی، تعادل را میان منافع اقتصادی بخش گردشگری و مطالبات شهروندان برقرار کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#اسپانیا",
-        "#سنت_محلی",
-        "#جامعه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2503,7 +2502,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 142
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
@@ -2518,7 +2517,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 123
+      "count": 126
     }
   ]
 }
