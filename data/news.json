@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T07:01:16.357918+00:00",
+  "generated_at": "2026-08-18T07:50:09.721524+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
+    "551cea927b0f",
     "d4027161348c",
     "1243b47eb865",
-    "d9298d38cd1f",
-    "8dabd493ba6a"
+    "d9298d38cd1f"
   ],
   "items": [
     {
@@ -33,6 +33,33 @@
         "#اسپانیا",
         "#حوادث",
         "#آتش_سوزی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "551cea927b0f",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno apela a la “colaboración entre administraciones” y acusa al PP de acudir a Ceuta para “tensionar”",
+      "summary": "El PP asegura que acude a Ceuta a “reclamar la normalidad” en la ciudad, no a “calentar nada”",
+      "url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HR366JFRJNFK3FBL6J3W7QKP3M.jpg?auth=91eb35bacce22e7fd739a74dce4967514535904b98be8fc05877d632b43fe433",
+      "published_at": "2026-08-18T07:35:52+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "واکنش دولت اسپانیا به تنش‌ها در سئوتا",
+      "lead_fa": "دولت اسپانیا خواستار همکاری میان نهادها شد. همچنین، حزب مردمی (PP) را به تلاش برای افزایش تنش در سئوتا متهم کرد.",
+      "key_points_fa": [
+        "دولت بر لزوم همکاری میان نهادهای مختلف تاکید کرد.",
+        "حزب مردمی هدف خود از سفر به سئوتا را بازگرداندن شرایط عادی عنوان کرد."
+      ],
+      "analysis_fa": "این تحولات نشان‌دهنده تنش‌های سیاسی میان حزب حاکم و حزب اپوزیسیون بر سر مدیریت مسائل مهاجرتی و وضعیت شهر سئوتا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#اسپانیا",
+        "#مهاجرت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -120,35 +147,6 @@
         "#سبته",
         "#بحران_بشردوستانه",
         "#سیاست_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8dabd493ba6a",
-      "source": "EL PAÍS",
-      "title": "Cambio de tono en Ceuta: Vivas pasa al choque contra el Gobierno por la crisis migratoria",
-      "summary": "El presidente autonómico carga contra el Ejecutivo y escenifica el final de años de cordialidad institucional entre las administraciones",
-      "url": "https://elpais.com/espana/2026-08-18/cambio-de-tono-en-ceuta-vivas-pasa-al-choque-contra-el-gobierno-por-la-crisis-migratoria.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205344_173234_video_1800.mp4",
-      "published_at": "2026-08-18T03:15:00+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "تغییر لحن در سبته: انتقاد شدید رئیس دولت محلی از دولت مرکزی",
-      "lead_fa": "خوان ویواس، رئیس دولت محلی سبته، حملات شدیدی را علیه دولت مرکزی آغاز کرد. این موضع‌گیری به سال‌ها روابط دوستانه نهادی میان دو اداره پایان داد.",
-      "key_points_fa": [
-        "آغاز درگیری سیاسی رئیس دولت سبته با دولت مرکزی",
-        "بحران مهاجرت عامل اصلی تغییر لحن مقام‌های محلی",
-        "پایان دوره طولانی همکاری و تنش‌زدایی نهادی"
-      ],
-      "analysis_fa": "این تغییر لحن آشکار نشان‌دهنده فشار فزاینده بحران مهاجرت بر نهادهای محلی سبته است. تشدید تنش میان دولت مرکزی و محلی می‌تواند بر نحوه مدیریت مرزها و تخصیص بودجه‌های اضطراری تأثیر بگذارد، هرچند ابعاد آینده این مناقشه هنوز به طور کامل روشن نیست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -787,16 +785,22 @@
       "published_at": "2026-08-18T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "lead_fa": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پایان سبزنمایی در اتحادیه اروپا: اثبات ادعای پایداری اجباری می‌شود",
+      "lead_fa": "اتحادیه اروپا از ماه سپتامبر شرکت‌ها را ملزم به ارائه مدرک برای ادعاهای زیست‌محیطی می‌کند. این اقدام با هدف مقابله با فریب مصرف‌کنندگان از طریق تبلیغات سبز انجام می‌شود.",
+      "key_points_fa": [
+        "اجرای قوانین جدید اتحادیه اروپا از ماه سپتامبر آغاز می‌شود.",
+        "شرکت‌های مدعی پایداری باید مستندات معتبر ارائه دهند.",
+        "سکوت یا پنهان‌کاری درباره اثرات زیست‌محیطی نیز مشمول نظارت می‌شود."
+      ],
+      "analysis_fa": "قوانین جدید نظارتی در اتحادیه اروپا نشان‌دهنده تلاش جدی نهادهای بین‌المللی برای شفافیت بازار و حمایت از حقوق مصرف‌کنندگان در برابر ادعاهای نادرست شرکت‌ها است. این مقررات می‌تواند هزینه‌های انطباق را برای کسب‌وکارها افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اتحادیه_اروپا",
+        "#اقتصاد_سبز",
+        "#محیط_زیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -809,16 +813,21 @@
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "El ocaso del Tribunal Penal Internacional",
-      "lead_fa": "La orden de arresto de Netanyahu ha puesto de relieve la impotencia de la institución y su tendencia hacia una justicia selectiva",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "زوال دیوان کیفری بین‌المللی؛ چالش‌های عدالت انتخابی",
+      "lead_fa": "صدور حکم بازداشت نتانیاهو ناتوانی دیوان کیفری بین‌المللی را آشکار کرده است. این وضعیت انتقادها نسبت به گرایش این نهاد به سوی عدالت انتخابی را افزایش داده است.",
+      "key_points_fa": [
+        "صدور حکم بازداشت نتانیاهو ناتوانی دیوان کیفری بین‌المللی را برجسته کرده است.",
+        "منتقدان این نهاد را به اعمال عدالت انتخابی متهم می‌کنند."
+      ],
+      "analysis_fa": "این تحلیل به چالش‌های ساختاری دیوان کیفری بین‌المللی و فشارهای سیاسی بر عملکرد آن می‌پردازد و نشان می‌دهد که چگونه تصمیمات این نهاد می‌تواند اعتبار حقوقی آن را زیر سوال ببرد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#دیوان_کیفری_بین_المللی",
+        "#نتانیاهو",
+        "#سیاست_جهانی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1127,61 +1136,17 @@
       "editorial_version": 2
     },
     {
-      "id": "6def3e64faa6",
-      "source": "La Vanguardia",
-      "title": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
-      "summary": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
-      "url": "https://www.lavanguardia.com/comer/beber/20260818/11608299/roberto-duran-primer-espanol-ganar-master-sommelier-titulo-final-camino-vino-supone-compromiso-mi-formacion-buscar-siempre-excelencia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/18/694444897e4e5.r_d.3205-1392-0.jpeg",
-      "published_at": "2026-08-18T06:35:21+02:00",
-      "category": "sociedad",
+      "id": "2cda780a74a9",
+      "source": "EL PAÍS",
+      "title": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
+      "summary": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
+      "url": "https://elpais.com/ciencia/2026-08-18/el-hallazgo-de-un-perro-sobre-una-pareja-en-una-tumba-del-antiguo-egipto-intriga-a-los-cientificos-es-un-detalle-muy-bello-y-realmente-excepcional.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UDDCBZVS2FCFZEXLOJSTPEA5VU.jpg?auth=0758d2e504949cc0d3c079e971d2c9ccbf77ce9e05ed75aa039a87fe3ae73268",
+      "published_at": "2026-08-18T07:24:15+00:00",
+      "category": "ciencia",
       "priority": 70,
-      "title_fa": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
-      "lead_fa": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ac1adcd34399",
-      "source": "La Vanguardia",
-      "title": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
-      "summary": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
-      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260818/11613266/cinco-minutos-encontrar-pareja-tus-amigos-tinder.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ed15f0a96e.jpeg",
-      "published_at": "2026-08-18T06:27:46+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
-      "lead_fa": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "175413c16b3a",
-      "source": "La Vanguardia",
-      "title": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
-      "summary": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260818/11615541/trama-pisos-turisticos-ilegales-lujo-barcelona-pierde-dos-grandes-joyas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8351ac38f77.r_d.4020-2681-0.jpeg",
-      "published_at": "2026-08-18T06:26:01+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
-      "lead_fa": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
+      "title_fa": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
+      "lead_fa": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1302,6 +1267,72 @@
         "#تنگه_هرمز"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6def3e64faa6",
+      "source": "La Vanguardia",
+      "title": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
+      "summary": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
+      "url": "https://www.lavanguardia.com/comer/beber/20260818/11608299/roberto-duran-primer-espanol-ganar-master-sommelier-titulo-final-camino-vino-supone-compromiso-mi-formacion-buscar-siempre-excelencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/18/694444897e4e5.r_d.3205-1392-0.jpeg",
+      "published_at": "2026-08-18T06:35:21+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
+      "lead_fa": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ac1adcd34399",
+      "source": "La Vanguardia",
+      "title": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
+      "summary": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
+      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260818/11613266/cinco-minutos-encontrar-pareja-tus-amigos-tinder.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ed15f0a96e.jpeg",
+      "published_at": "2026-08-18T06:27:46+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
+      "lead_fa": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "175413c16b3a",
+      "source": "La Vanguardia",
+      "title": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
+      "summary": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260818/11615541/trama-pisos-turisticos-ilegales-lujo-barcelona-pierde-dos-grandes-joyas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8351ac38f77.r_d.4020-2681-0.jpeg",
+      "published_at": "2026-08-18T06:26:01+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
+      "lead_fa": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1750,7 +1781,7 @@
       "title": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
       "summary": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
       "url": "https://elpais.com/cultura/2026-08-18/papa-haras-el-favor-de-darle-al-dador-dos-mil-pesetas-los-ultimos-dias-de-federico-garcia-lorca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2DP4JEG5HRDHRFETMMMJOXYISE.jpg?auth=e769329ae53ded4c3597d5a935e19acfa8841d6e74bddd76030ae94ab5c50152",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205459_070234_video_1800.mp4",
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "sociedad",
       "priority": 69,
@@ -1794,7 +1825,7 @@
       "title": "Diagnosticar desde una foto: no, el problema no es el cuerpo de Ariana Grande",
       "summary": "¿Qué podemos hacer nosotros individualmente para dejar de fomentar la cultura de la delgadez y la presión estética sobre las mujeres?",
       "url": "https://elpais.com/salud-y-bienestar/nutrir-con-ciencia/2026-08-18/diagnosticar-desde-una-foto-no-el-problema-no-es-el-cuerpo-de-ariana-grande.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DAAFW7C3S5JLNCFGCYIHEC3OAE.jpg?auth=6f055c732e9a5850cbd644304cbfc388f8f99453eaf59357454a3dce9a1b0b35",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202474_165223_video_1800.mp4",
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "cultura",
       "priority": 69,
@@ -2119,28 +2150,6 @@
       "editorial_version": 2
     },
     {
-      "id": "befb2f2b991b",
-      "source": "EL PAÍS",
-      "title": "Del ajuar victoriano a microtendencia digital: la nueva vida de los pololos",
-      "summary": "Los ‘bloomers’, los pantalones que las sufragistas convirtieron en un emblema de emancipación, saltan de TikTok a las pasarelas con reinterpretaciones que oscilan entre el romanticismo victoriano y la tecnicidad deportiva",
-      "url": "https://elpais.com/smoda/moda/2026-08-18/del-ajuar-victoriano-a-microtendencia-digital-la-nueva-vida-de-los-pololos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/M4III4MLYVF47KCPPKVZUZBXY4.jpg?auth=8cc03da8c434cf5279bfa95a30c94327b978679cba6dd19d3ae6e5f5c67f2053",
-      "published_at": "2026-08-18T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Del ajuar victoriano a microtendencia digital: la nueva vida de los pololos",
-      "lead_fa": "Los ‘bloomers’, los pantalones que las sufragistas convirtieron en un emblema de emancipación, saltan de TikTok a las pasarelas con reinterpretaciones que oscilan entre el romanticismo victoriano y la tecnicidad deportiva",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1e41da9cd788",
       "source": "EL PAÍS Economía",
       "title": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
@@ -2266,7 +2275,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a833aa6182db.r_d.4123-1116-0.jpeg",
       "published_at": "2026-08-18T00:05:00+02:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "“A veces creemos decidir… y decide un microorganismo”",
       "lead_fa": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
       "key_points_fa": [],
@@ -2503,7 +2512,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 146
     },
     {
       "source": "EL PAÍS España",
