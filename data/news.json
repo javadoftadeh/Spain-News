@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:36:38.585021+00:00",
+  "generated_at": "2026-08-18T19:54:13.774075+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "551cea927b0f",
@@ -16,7 +16,7 @@
       "summary": "El Poder Judicial ve necesario un refuerzo de los juzgados de la ciudad y el Gobierno asegura que ya lo ha llevado a cabo",
       "url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/M2T3ZGWICZHTNCPRLSDBODQ57E.jpg?auth=2dbe4f04dc4ad14545bf852d702b2fb36cdd2f3fcb2fbfe7def26fa1786110e4",
-      "published_at": "2026-08-18T19:29:18+00:00",
+      "published_at": "2026-08-18T19:41:02+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "بحران مهاجرت در سئوتا؛ دستگاه قضایی خواستار تقویت دادگاه‌ها شد",
@@ -180,6 +180,34 @@
       "editorial_version": 2
     },
     {
+      "id": "20809ee61cc9",
+      "source": "EL PAÍS",
+      "title": "Un incendio en Las Hurdes (Cáceres) obliga a movilizar a la UME y evacuar a 700 vecinos",
+      "summary": "La Junta de Extremadura ha activado la situación operativa 2",
+      "url": "https://elpais.com/espana/2026-08-18/un-incendio-en-las-hurdes-caceres-obliga-a-movilizar-a-la-ume-y-evacuar-a-300-vecinos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MQ7CKP7DAFAYTDKGBU6CO5JFCI.jpg?auth=4605c17374ded88c297e2de1dfead7e230bfcbcf43069178540ea959d387969e",
+      "published_at": "2026-08-18T19:33:35+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "آتش‌سوزی در لاس اوردز کاثارس؛ تخلیه ۶۰۰ تن و ورود ارتش",
+      "lead_fa": "وقوع یک آتش‌سوزی جنگلی در منطقه لاس اوردز در استان کاثارس اسپانیا باعث تخلیه ۶۰۰ نفر از ساکنان شد. دولت محلی اکسترمادورا سطح هشدار عملیاتی ۲ را فعال کرده و واحد امداد اضطراری ارتش (UME) را به منطقه اعزام کرده است.",
+      "key_points_fa": [
+        "فعال‌سازی سطح هشدار عملیاتی ۲ توسط دولت محلی اکسترمادورا",
+        "تخلیه احتیاطی حدود ۶۰۰ نفر از ساکنان محلی برای حفظ امنیت",
+        "مشارکت واحد امداد اضطراری ارتش اسپانیا (UME) در مهار آتش"
+      ],
+      "analysis_fa": "آتش‌سوزی‌های جنگلی در فصل گرما به یکی از چالش‌های جدی مدیریتی در مناطق مختلف اسپانیا تبدیل شده‌اند. واکنش سریع نهادهای محلی و به‌کارگیری نیروهای ارتش نشان‌دهنده سطح بالای آمادگی و حساسیت دولت در برابر تهدیدات زیست‌محیطی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "f8c412c5d109",
       "source": "La Vanguardia",
       "title": "Muere el mago Juan Tamariz, artista de la ilusión y de lo estrafalario",
@@ -230,34 +258,6 @@
         "#گرانادا",
         "#زلزله",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "20809ee61cc9",
-      "source": "EL PAÍS",
-      "title": "Un incendio en Las Hurdes (Cáceres) obliga a movilizar a la UME y evacuar a 600 vecinos",
-      "summary": "La Junta de Extremadura ha activado la situación operativa 2",
-      "url": "https://elpais.com/espana/2026-08-18/un-incendio-en-las-hurdes-caceres-obliga-a-movilizar-a-la-ume-y-evacuar-a-300-vecinos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MQ7CKP7DAFAYTDKGBU6CO5JFCI.jpg?auth=4605c17374ded88c297e2de1dfead7e230bfcbcf43069178540ea959d387969e",
-      "published_at": "2026-08-18T17:36:23+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آتش‌سوزی در لاس اوردز کاثارس؛ تخلیه ۶۰۰ تن و ورود ارتش",
-      "lead_fa": "وقوع یک آتش‌سوزی جنگلی در منطقه لاس اوردز در استان کاثارس اسپانیا باعث تخلیه ۶۰۰ نفر از ساکنان شد. دولت محلی اکسترمادورا سطح هشدار عملیاتی ۲ را فعال کرده و واحد امداد اضطراری ارتش (UME) را به منطقه اعزام کرده است.",
-      "key_points_fa": [
-        "فعال‌سازی سطح هشدار عملیاتی ۲ توسط دولت محلی اکسترمادورا",
-        "تخلیه احتیاطی حدود ۶۰۰ نفر از ساکنان محلی برای حفظ امنیت",
-        "مشارکت واحد امداد اضطراری ارتش اسپانیا (UME) در مهار آتش"
-      ],
-      "analysis_fa": "آتش‌سوزی‌های جنگلی در فصل گرما به یکی از چالش‌های جدی مدیریتی در مناطق مختلف اسپانیا تبدیل شده‌اند. واکنش سریع نهادهای محلی و به‌کارگیری نیروهای ارتش نشان‌دهنده سطح بالای آمادگی و حساسیت دولت در برابر تهدیدات زیست‌محیطی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1087,25 +1087,31 @@
       "editorial_version": 2
     },
     {
-      "id": "4ce95c06d0ca",
+      "id": "c9bb56ca011c",
       "source": "La Vanguardia",
-      "title": "La familia de Juan Tamariz: cuatro hijos y la herencia de su universo mágico asegurada",
-      "summary": "El ilusionista madrileño ha fallecido este martes a los 83 años, en el Hospital Clínico San Carlos de Madrid",
-      "url": "https://www.lavanguardia.com/gente/20260818/11616177/familia-juan-tamariz-cuatro-hijos-herencia-universo-magico-asegurada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/05/5fa535f476f83.jpeg",
-      "published_at": "2026-08-18T20:39:05+02:00",
+      "title": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
+      "summary": "El ilusionista, fallecido a los 83 años, más que un virtuoso del truco era un director de cine de la percepción",
+      "url": "https://www.lavanguardia.com/vida/20260818/11616195/mago-percepcion-juan-tamariz-muere-fisico-cine-carmen-maura-un-dos-tres.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84ad96a901f.jpeg",
+      "published_at": "2026-08-18T21:11:21+02:00",
       "category": "cultura",
       "priority": 70,
-      "title_fa": "La familia de Juan Tamariz: cuatro hijos y la herencia de su universo mágico asegurada",
-      "lead_fa": "El ilusionista madrileño ha fallecido este martes a los 83 años, en el Hospital Clínico San Carlos de Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "خداحافظی با خوان تاماریز، استاد جادو و ادراک",
+      "lead_fa": "خوان تاماریز، شعبده‌باز برجسته اسپانیایی در سن ۸۳ سالگی درگذشت. او بیش از یک ترداست چیره، کارگردان ادراک به شمار می‌رفت.",
+      "key_points_fa": [
+        "درگذشت خوان تاماریز در سن ۸۳ سالگی",
+        "شناخته شده به عنوان استاد ادراک و شعبده‌بازی در اسپانیا",
+        "تأثیر عمیق بر هنر شعبده‌بازی مدرن"
+      ],
+      "analysis_fa": "خوان تاماریز فراتر از اجرای حقه، با تسکری بر روانشناسی مخاطب و ادراک انسانی توانست هنر شعبده‌بازی را به سطحی جدید ارتقا دهد و میراثی ماندگار بر جای گذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#خوان_تاماریز",
+        "#شعبده_بازی",
+        "#فرهنگ_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1118,16 +1124,23 @@
       "published_at": "2026-08-18T19:57:50+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Rodri nunca dudó: “El Barça fue mi primera opción, por el presente y por la proyección del proyecto”",
-      "lead_fa": "“Este club siempre ha sido un referente para mí, por su juego y los valores que representa”, afirma el medio, al que también quiso el Madrid",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رودری: بارسلونا نخستین انتخاب من بود",
+      "lead_fa": "رودری اعلام کرد بارسلونا به دلیل سبک بازی و آینده پروژه، گزینه اول او بوده است. این بازیکن همچنین مورد توجه باشگاه رئال مادرید نیز قرار داشت.",
+      "key_points_fa": [
+        "بارسلونا به دلیل ارزش‌ها و نوع بازی همواره مرجع مهمی برای رودری بوده است.",
+        "باشگاه رئال مادرید نیز خواهان به خدمت گرفتن این بازیکن بود.",
+        "پروژه ورزشی بارسلونا نقش کلیدی در انتخاب این بازیکن داشته است."
+      ],
+      "analysis_fa": "اظهارات بازیکنان درباره علاقه‌مندی به باشگاه‌های بزرگ معمولا بازتاب‌دهنده ارزش‌گذاری آن‌ها بر روی پروژه‌های ورزشی و سبک‌های بازی است. در این مورد، رقابت میان بارسلونا و رئال مادرید برای جذب استعدادها بار دیگر نمایان شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#رودری",
+        "#بارسلونا",
+        "#رئال_مادرید",
+        "#فوتبال_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1140,16 +1153,22 @@
       "published_at": "2026-08-18T19:32:26+02:00",
       "category": "deportes",
       "priority": 70,
-      "title_fa": "Así es Rodri, el nuevo fichaje del Barcelona: su personalidad, su familia y el estilo que defiende",
-      "lead_fa": "Formado en una familia de profesionales, universitario y alejado de las redes sociales, el nuevo jugador del Barça aporta estilo, jerarquía y experiencia para el Barça de Hansi Flick",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رودری، خرید جدید بارسلونا: شخصیت و سبک بازی",
+      "lead_fa": "رودری با سابقه تحصیلی و دوری از شبکه‌های اجتماعی به بارسلونا پیوست. او قرار است تجربه و نظم را به تیم هانسی فلیک اضافه کند.",
+      "key_points_fa": [
+        "رودری در خانواده‌ای از متخصصان پرورش یافته است.",
+        "او تحصیلات دانشگاهی دارد و از شبکه‌های اجتماعی دوری می‌کند.",
+        "این بازیکن جدید سبک، رهبری و تجربه را به خط هافبک بارسا می‌آورد."
+      ],
+      "analysis_fa": "پیوستن رودری به بارسلونا نشان‌دهنده تمرکز این باشگاه بر جذب بازیکنان با انضباط فردی و تجربه بالا است تا بتواند تعادل را در ترکیب تیم هانسی فلیک حفظ کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#لالیگا",
+        "#فوتبال_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1298,28 +1317,6 @@
       "editorial_version": 2
     },
     {
-      "id": "120a2f9aaf80",
-      "source": "EL PAÍS Economía",
-      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "lead_fa": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7f86550dc79d",
       "source": "EL PAÍS Economía",
       "title": "El Santander, el BBVA y otros cuatro grandes bancos pagarán 75 millones para cerrar el litigio por la venta de bonos mexicanos",
@@ -1464,28 +1461,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bdd6c10c08d0",
-      "source": "La Vanguardia",
-      "title": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
-      "summary": "Irán califica de “ilusión” la amenaza de anexión de Trump y afirma que el estrecho “no volverá a abrirse” hasta que EE.UU. cumpla con lo acordado en junio",
-      "url": "https://www.lavanguardia.com/internacional/20260818/11616049/trump-proclama-ormuz-territorio-ee-uu-red-social.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a846019e32d7.r_d.2576-520-0.jpeg",
-      "published_at": "2026-08-18T15:41:19+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
-      "lead_fa": "Irán califica de “ilusión” la amenaza de anexión de Trump y afirma que el estrecho “no volverá a abrirse” hasta que EE.UU. cumpla con lo acordado en junio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "edbce4f3e910",
       "source": "EL PAÍS",
       "title": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos con un nuevo volcado",
@@ -1541,6 +1516,28 @@
       "priority": 69,
       "title_fa": "El colmillo del narval, un “cuerno mitológico” que se adelantó miles de años a la ingeniería de materiales",
       "lead_fa": "Un estudio descifra la alargada espiral que emerge del cráneo de estos unicornios marinos, formada por dos capas dentales que crecen en sentidos opuestos y le confieren gran resistencia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bdd6c10c08d0",
+      "source": "La Vanguardia",
+      "title": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
+      "summary": "Irán califica de “ilusión” la amenaza de anexión de Trump y afirma que el estrecho “no volverá a abrirse” hasta que EE.UU. cumpla con lo acordado en junio",
+      "url": "https://www.lavanguardia.com/internacional/20260818/11616049/trump-proclama-ormuz-territorio-ee-uu-red-social.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a846019e32d7.r_d.2576-520-0.jpeg",
+      "published_at": "2026-08-18T15:41:19+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
+      "lead_fa": "Irán califica de “ilusión” la amenaza de anexión de Trump y afirma que el estrecho “no volverá a abrirse” hasta que EE.UU. cumpla con lo acordado en junio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1618,28 +1615,6 @@
       "editorial_version": 2
     },
     {
-      "id": "80813ba9e38f",
-      "source": "La Vanguardia",
-      "title": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "summary": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615916/sube-rojo-aviso-miercoles-litoral-valencia-alicante-esperan-44-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a70a8ce59a41.jpeg",
-      "published_at": "2026-08-18T12:53:46+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "lead_fa": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "14232c035536",
       "source": "EL PAÍS España",
       "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
@@ -1651,28 +1626,6 @@
       "priority": 68,
       "title_fa": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
       "lead_fa": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "692f01373b8e",
-      "source": "La Vanguardia",
-      "title": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
-      "summary": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615798/juez-pedraz-ordena-volcar-nuevo-movil-serrano-ex-jefe-gabinete-pedro-sanchez.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a844db77852b.jpeg",
-      "published_at": "2026-08-18T12:39:01+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
-      "lead_fa": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1717,6 +1670,50 @@
       "priority": 68,
       "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
       "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "80813ba9e38f",
+      "source": "La Vanguardia",
+      "title": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
+      "summary": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615916/sube-rojo-aviso-miercoles-litoral-valencia-alicante-esperan-44-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a70a8ce59a41.jpeg",
+      "published_at": "2026-08-18T12:53:46+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
+      "lead_fa": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "692f01373b8e",
+      "source": "La Vanguardia",
+      "title": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
+      "summary": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615798/juez-pedraz-ordena-volcar-nuevo-movil-serrano-ex-jefe-gabinete-pedro-sanchez.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a844db77852b.jpeg",
+      "published_at": "2026-08-18T12:39:01+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
+      "lead_fa": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1794,28 +1791,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f0eb050e39e4",
-      "source": "La Vanguardia",
-      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
-      "published_at": "2026-08-18T09:49:53+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8bdb30032ece",
       "source": "EL PAÍS Economía",
       "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
@@ -1871,6 +1846,28 @@
       "priority": 67,
       "title_fa": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
       "lead_fa": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f0eb050e39e4",
+      "source": "La Vanguardia",
+      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
+      "published_at": "2026-08-18T09:49:53+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2113,6 +2110,28 @@
       "priority": 65,
       "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
       "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "37e5c946cf96",
+      "source": "EL PAÍS Economía",
+      "title": "Europa y la tentación de vigilar para proteger",
+      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "ciencia",
+      "priority": 65,
+      "title_fa": "Europa y la tentación de vigilar para proteger",
+      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
