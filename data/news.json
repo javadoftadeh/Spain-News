@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T03:54:29.298398+00:00",
+  "generated_at": "2026-08-18T04:48:28.415763+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
-    "fa9ccda3a607",
-    "9737d8de1ca8",
-    "47462903d9d1",
-    "6543e6735c58"
+    "d4027161348c",
+    "1243b47eb865",
+    "d9298d38cd1f",
+    "47462903d9d1"
   ],
   "items": [
     {
@@ -38,64 +38,117 @@
       "editorial_version": 2
     },
     {
-      "id": "fa9ccda3a607",
-      "source": "EL PAÍS",
-      "title": "Una semana tras el terremoto en Colombia: De la reconstrucción a la búsqueda activa de supervivientes",
-      "summary": "El Gobierno ha cifrado en 289 las personas fallecidas y en 143 los desaparecidos, siete días después de la emergencia",
-      "url": "https://elpais.com/videos/2026-08-17/una-semana-tras-el-terremoto-en-colombia-de-la-reconstruccion-a-la-busqueda-activa-de-supervivientes.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205312_155034_video_1800.mp4",
-      "published_at": "2026-08-17T15:52:52+00:00",
-      "category": "sociedad",
-      "priority": 89,
-      "title_fa": "یک هفته پس از زمین‌لرزه در کلمبیا: ادامه جستجوی مفقودان",
-      "lead_fa": "دولت کلمبیا یک هفته پس از وقوع زمین‌لرزه آمار قربانیان را اعلام کرد. تلاش‌ها برای یافتن ناپدیدشدگان همچنان ادامه دارد.",
+      "id": "d4027161348c",
+      "source": "La Vanguardia",
+      "title": "Las grandes petroleras duplican sus beneficios gracias a la crisis de Irán",
+      "summary": "Las empresas energéticas mundiales disparan su liquidez a máximos históricos",
+      "url": "https://www.lavanguardia.com/economia/20260818/11615530/grandes-petroleras-duplican-beneficios-gracias-crisis-iran.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8348fa19f20.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "دوبرابر شدن سود شرکت‌های بزرگ نفتی به دلیل بحران ایران",
+      "lead_fa": "شرکت‌های بزرگ انرژی در جهان سود خود را به طور قابل توجهی افزایش داده‌اند. این روند صعودی در پی بحران اخیر در ایران به ثبت رسیده است.",
       "key_points_fa": [
-        "تایید جان باختن ۲۸۹ نفر تا هفت روز پس از حادثه",
-        "گزارش مفقود شدن ۱۴۳ نفر دیگر",
-        "تلاش امدادگران برای یافتن بازماندگان در مناطق آسیب‌دیده"
+        "افزایش چشمگیر سود شرکت‌های نفتی بزرگ.",
+        "رشد نقدینگی شرکت‌های انرژی به بالاترین سطح تاریخی.",
+        "تاثیرپذیری بازار انرژی جهانی از تحولات مرتبط با ایران."
       ],
-      "analysis_fa": "گذشت یک هفته از حادثه و تداوم آمار مفقودان نشان‌دهنده ابعاد گسترده فاجعة طبیعی و چالش‌های پیش روی نهادهای امدادی در کلمبیا برای دسترسی به مناطق بحران‌زده است.",
+      "analysis_fa": "افزایش سود شرکت‌های انرژی نشان‌دهنده تاثیر مستقیم تنش‌های ژئوپلیتیکی و بحران‌های منطقه‌ای، از جمله در ایران، بر بازارهای جهانی نفت و نقدینگی این شرکت‌ها است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
+      "urgency": "normal",
       "hashtags_fa": [
-        "#کلمبیا",
-        "#زمین_لرزه",
-        "#حوادث"
+        "#نفت",
+        "#اقتصاد",
+        "#اسپانیا",
+        "#انرژی"
       ],
       "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "9737d8de1ca8",
-      "source": "La Vanguardia",
-      "title": "El presidente de Ceuta carga de nuevo contra el Gobierno y amenaza con acudir al poder judicial",
-      "summary": "Juan Jesús Vivas acusa al Ejecutivo de “maquillar la realidad” y le da 30 días para solucionar la crisis",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615101/presidente-ceuta-carga-nuevo-gobierno-anuncia-acudira-justicia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82f876c279c.jpeg",
-      "published_at": "2026-08-17T10:30:36+02:00",
+      "id": "1243b47eb865",
+      "source": "EL PAÍS",
+      "title": "Los tropiezos de De la Espriella en medio de la emergencia: un ministro en la playa, balones con propaganda política y clases virtuales sin acceso a wifi",
+      "summary": "Los congresistas llaman al ministro de Vivienda a una moción de censura por tomarse un descanso, mientras que habitantes del Pacífico critican la oferta sin tener en cuenta las realidades locales",
+      "url": "https://elpais.com/america-colombia/2026-08-18/los-tropiezos-de-de-la-espriella-en-medio-de-la-emergencia-un-ministro-en-la-playa-balones-con-propaganda-politica-y-clases-virtuales-sin-acceso-a-wifi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PZHZML2HERLFPJHW4BTUFDIOZU.jpg?auth=837e26408f067f08af57b14d56f881b8b2c27396dbd9db472ac85cd82bacb16b",
+      "published_at": "2026-08-18T04:00:00+00:00",
       "category": "politica",
       "priority": 82,
-      "title_fa": "انتقاد شدید رئیس سبته از دولت مرکزی و تهدید به اقدام قانونی",
-      "lead_fa": "خوان خسوس ویباس، دولت مرکزی را به پنهان‌کاری متهم کرد. او به دولت ۳۰ روز فرصت داد تا بحران کنونی را حل کند.",
+      "title_fa": "درخواست استیضاح وزیر مسکن اسپانیا همزمان با بحران و انتقادات گسترده",
+      "lead_fa": "نمایندگان کنگره اسپانیا خواستار برگزاری جلسه استیضاح وزیر مسکن شدند. این اقدام پس از انتشار تصاویری از استراحت او در ساحل و انتقاد ساکنان مناطق بحران‌زده انجام شد.",
       "key_points_fa": [
-        "خوان خسوس ویباس دولت را به ماست‌مالی کردن واقعیت متهم کرد.",
-        "او یک مهلت ۳۰ روزه برای حل بحران تعیین نمود.",
-        "وی تهدید کرد که در صورت عدم اقدام، به مراجع قضایی متوسل خواهد شد."
+        "فراخوان نمایندگان کنگره برای استیضاح وزیر مسکن",
+        "انتقادات مردمی در منطقه اقیانوس آرام به راهکارهای غیرعملی دولت",
+        "حاشیه‌های مربوط به تبلیغات سیاسی و مشکلات دسترسی به اینترنت در کلاس‌های مجازی"
       ],
-      "analysis_fa": "این تنش سیاسی نشان‌دهنده اختلاف نظر میان مقامات محلی سبته و دولت مرکزی اسپانیا بر سر نحوه مدیریت بحران‌هاست. استفاده از ابزارهای قانونی و تعیین مهلت‌های زمانی، ابزاری متداول برای اعمال فشار سیاسی در ساختار اداری اسپانیا به شمار می‌رود.",
+      "analysis_fa": "این حاشیه‌ها فشار سیاسی بر دولت را در مدیریت بحران‌های جاری افزایش داده است و نشان‌دهنده چالش میان برنامه‌ریزی‌های مرکزی و واقعیت‌های محلی است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "important",
       "hashtags_fa": [
-        "#سبته",
         "#اسپانیا",
-        "#دولت_اسپانیا"
+        "#سیاست",
+        "#استیضاح",
+        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d9298d38cd1f",
+      "source": "EL PAÍS",
+      "title": "La Moncloa y Ceuta pactan espacios para encarrilar la crisis humanitaria en medio de una gran tensión política",
+      "summary": "Vivas, siempre moderado, carga contra el Gobierno, que ve al presidente ceutí desbordado por la presión ultraderechista",
+      "url": "https://elpais.com/espana/2026-08-18/la-moncloa-y-ceuta-pactan-espacios-para-encarrilar-la-crisis-humanitaria-en-medio-de-una-gran-tension-politica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O4LITXGSUZO7RG2DMNHH5Y2RLQ.jpg?auth=c52a3af5c2d259ebbc70b484d01e58d12097fc0c2d7834e0c7e6eacf89a6bdbf",
+      "published_at": "2026-08-18T03:45:01+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "توافق مونکلوا و سبته برای مدیریت بحران بشردوستانه در سایه تنش سیاسی",
+      "lead_fa": "دولت مرکزی اسپانیا و مقام‌های محلی سبته برای ایجاد فضاهایی جهت مدیریت بحران بشردوستانه اخیر به توافق رسیدند. این در حالی است که تنش‌های سیاسی میان دو طرف و فشارهای جناح راست افراطی همچنان ادامه دارد.",
+      "key_points_fa": [
+        "توافق میان مونکلوا و سبته برای کاهش بحران بشردوستانه",
+        "انتقادات شدید رئیس محلی سبته از دولت مرکزی",
+        "متهم شدن رئیس سبته به تحت فشار بودن از سوی راست افراطی"
+      ],
+      "analysis_fa": "این توافق نشان‌دهنده تلاش برای یافتن راهکارهای مدیریتی در یکی از مناطق حساس مرزی اسپانیاست، اما تداوم تنش‌های سیاسی و فشارهای جناح‌های مختلف نشان می‌دهد که دستیابی به یک راه‌حل پایدار همچنان باچالش همراه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#بحران_بشردوستانه",
+        "#سیاست_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8dabd493ba6a",
+      "source": "EL PAÍS",
+      "title": "Cambio de tono en Ceuta: Vivas pasa al choque contra el Gobierno por la crisis migratoria",
+      "summary": "El presidente autonómico carga contra el Ejecutivo y escenifica el final de años de cordialidad institucional entre las administraciones",
+      "url": "https://elpais.com/espana/2026-08-18/cambio-de-tono-en-ceuta-vivas-pasa-al-choque-contra-el-gobierno-por-la-crisis-migratoria.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205344_173234_video_1800.mp4",
+      "published_at": "2026-08-18T03:15:00+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "Cambio de tono en Ceuta: Vivas pasa al choque contra el Gobierno por la crisis migratoria",
+      "lead_fa": "El presidente autonómico carga contra el Ejecutivo y escenifica el final de años de cordialidad institucional entre las administraciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
       "id": "47462903d9d1",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "El presidente de Ceuta eleva el tono contra el Gobierno y amenaza con acudir a la justicia si no resuelve la crisis: “Hay pasividad absoluta”",
       "summary": "Juan Jesús Vivas se niega a ceder emplazamientos céntricos para realojar migrantes alegando quejas de los “vecinos”",
       "url": "https://elpais.com/espana/2026-08-17/el-presidente-de-ceuta-eleva-el-tono-contra-el-gobierno-y-amenaza-con-acudir-al-poder-judicial-si-no-resuelve-la-crisis-en-30-dias.html",
@@ -209,31 +262,69 @@
       "editorial_version": 2
     },
     {
-      "id": "6770425da099",
+      "id": "d8b23bcc5fbf",
       "source": "EL PAÍS",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "summary": "La intérprete, que deja una hija de 12 años, participó en ‘Nashville’ o ‘Bichos’. La oficina forense ha anunciado que “no se encontraron signos de traumatismo que pudieran haber contribuido al fallecimiento”, y que la investigación sigue abierta",
-      "url": "https://elpais.com/gente/2026-08-17/muere-hayden-panettiere-actriz-de-heroes-a-los-36-anos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205197_091627_video_1800.mp4",
+      "title": "Berrocal se salvó por quinta vez de las llamas con 12 vecinos escondidos para defender al pueblo: “El fuego se quedó a 50 metros”",
+      "summary": "El último incendio ha arrasado el 90% de las 12.500 hectáreas de los montes de este municipio de Huelva y 33.000 de la provincia, según el último cálculo satelital",
+      "url": "https://elpais.com/espana/2026-08-18/berrocal-se-salvo-por-quinta-vez-de-las-llamas-con-12-vecinos-escondidos-para-defender-al-pueblo-el-fuego-se-quedo-a-50-metros.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205285_141720_video_1800.mp4",
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "درگذشت هیدن پنیتیر، بازیگر سریال «هیروز»، در ۳۶ سالگی",
-      "lead_fa": "هیدن پنیتیر، بازیگر شناخته‌شده آمریکایی، در سن ۳۶ سالگی درگذشت. او بازی در سریال‌های «هیروز» و «نشویل» را در کارنامه داشت.",
-      "key_points_fa": [
-        "درگذشت در سن ۳۶ سالگی",
-        "بازی در سریال‌های محبوب «هیروز» و «نشویل»",
-        "بر جای گذاشتن یک فرزند ۱۲ ساله"
-      ],
-      "analysis_fa": "درگذشت این بازیگر بازتاب گسترده‌ای در رسانه‌های بین‌المللی داشته است و طرفداران آثار تلویزیونی را در شوک فرو برد. بررسی دقیق علت فوت نیازمند انتشار اطلاعیه‌های رسمی پزشکی قانونی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Berrocal se salvó por quinta vez de las llamas con 12 vecinos escondidos para defender al pueblo: “El fuego se quedó a 50 metros”",
+      "lead_fa": "El último incendio ha arrasado el 90% de las 12.500 hectáreas de los montes de este municipio de Huelva y 33.000 de la provincia, según el último cálculo satelital",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#هیدن_پنیتیر",
-        "#سینما",
-        "#درگذشت"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d787520502c1",
+      "source": "EL PAÍS",
+      "title": "Urgencia para Ceuta",
+      "summary": "La “crisis humanitaria excepcional” requiere movilización de recursos y lealtad institucional para recuperar la normalidad cuanto antes",
+      "url": "https://elpais.com/opinion/2026-08-18/urgencia-para-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5RCLCLSCCBHHRAL5ZXU4NITUQQ.jpg?auth=56775be04f0dcaa5dea6c0be55becd50bc61922cbcc9eb90d54ad1e028e51bde",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Urgencia para Ceuta",
+      "lead_fa": "La “crisis humanitaria excepcional” requiere movilización de recursos y lealtad institucional para recuperar la normalidad cuanto antes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d03003360b58",
+      "source": "EL PAÍS",
+      "title": "Solidaridad de Tigre",
+      "summary": "Los bandazos de De la Espriella en la gestión del terremoto colombiano echan leña a una ya polarizadísima conversación",
+      "url": "https://elpais.com/opinion/2026-08-18/solidaridad-de-tigre.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OXPECIS35JJUFDTOUJ5QPVBRQ4.jpg?auth=b41109304a219f70fdff90ed3e658a1148f23e0892832782b34e2f71e0fbee48",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Solidaridad de Tigre",
+      "lead_fa": "Los bandazos de De la Espriella en la gestión del terremoto colombiano echan leña a una ya polarizadísima conversación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -260,35 +351,6 @@
         "#بارسلونا",
         "#اسپانیا",
         "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ab929235e7a4",
-      "source": "EL PAÍS",
-      "title": "La Policía investiga el acceso del grupo ‘hacker’ prorruso NoName057 a datos sensibles de un millar de agentes y militares",
-      "summary": "Esta red, entre cuyos cabecillas está un profesor español, ha lanzado en los últimos años más de 500 oleadas de ciberataques",
-      "url": "https://elpais.com/espana/2026-08-17/la-policia-investiga-el-acceso-del-grupo-hacker-prorruso-noname057-a-datos-sensibles-de-medio-millar-de-policias-y-militares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ON6IUZI5DRAWZEG5BRYXONX27E.jpg?auth=a1d2ad83b5cf2452641bb37e9a4885aa62a39cebbbe293a8d3e7b995374798f7",
-      "published_at": "2026-08-17T18:50:53+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "تحقیقات پلیس اسپانیا درباره هک داده‌های نظامی و انتظامی توسط گروه روس",
-      "lead_fa": "پلیس اسپانیا دسترسی یک گروه هکری طرفدار روسیه به اطلاعات حساس پانصد نیروی نظامی و پلیس را بررسی می‌کند. این شبکه سایبری در سال‌های اخیر بیش از پانصد موج حملات سایبری سازماندهی کرده است.",
-      "key_points_fa": [
-        "گrup هکری NoName057 متهم به دسترسی به داده‌های حساس است.",
-        "یک شهروند اسپانیایی که معلم است در میان سرکردگان این شبکه قرار دارد.",
-        "این گروه در سال‌های گذشته بیش از پانصد حمله سایبری انجام داده است."
-      ],
-      "analysis_fa": "این پرونده ابعاد امنیتی و سایبری گسترده‌ای دارد و نشان‌دهنده فعالیت شبکه‌های هکری مرتبط با مناقشات ژئوپلیتیک در داخل خاک اسپانیا است. تحقیقات پلیس برای تعیین میزان نفوذ و شناسایی تمامی عوامل دخالت‌کننده ادامه دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#پلیس",
-        "#امنیت_سایبری",
-        "#هک"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -323,7 +385,7 @@
     },
     {
       "id": "daa11839bdf4",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
       "summary": "Se trata de un choque frontal entre un turismo y un camión, cuyo conductor ha sido trasladado al hospital en estado grave",
       "url": "https://elpais.com/espana/2026-08-17/cuatro-muertos-y-un-herido-grave-en-un-accidente-de-trafico-en-la-n-122-en-zaragoza.html",
@@ -434,8 +496,30 @@
       "editorial_version": 2
     },
     {
+      "id": "02f41b065ece",
+      "source": "La Vanguardia",
+      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera y planifica la acogida",
+      "summary": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615550/gobierno-reorienta-gestion-ceuta-asegurada-frontera-planifica-acogida.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8356cebc08f.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera y planifica la acogida",
+      "lead_fa": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d039fcbaf4ea",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "Los caseros compensan la rebaja de ventajas fiscales de la ley de vivienda con las subidas del alquiler",
       "summary": "La suma de las reducciones por IRPF se incrementó en 2024 pese a la reducción del beneficio tributario que introdujo la norma",
       "url": "https://elpais.com/economia/2026-08-18/los-caseros-compensan-la-rebaja-de-ventajas-fiscales-de-la-ley-de-vivienda-con-las-subidas-del-alquiler.html",
@@ -490,6 +574,50 @@
       "editorial_version": 2
     },
     {
+      "id": "ed5d008eda5c",
+      "source": "EL PAÍS",
+      "title": "El ocaso del Tribunal Penal Internacional",
+      "summary": "La orden de arresto de Netanyahu ha puesto de relieve la impotencia de la institución y su tendencia hacia una justicia selectiva",
+      "url": "https://elpais.com/opinion/2026-08-18/el-ocaso-del-tribunal-penal-internacional.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/64E622Y6RNFBTNVSYYZVPURVUI.jpg?auth=46c8993a145bdcdf0f4c93cfc34f2d4eff8b1b05a8a62ef488c2f4c9746639d6",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El ocaso del Tribunal Penal Internacional",
+      "lead_fa": "La orden de arresto de Netanyahu ha puesto de relieve la impotencia de la institución y su tendencia hacia una justicia selectiva",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b73046c8c478",
+      "source": "EL PAÍS",
+      "title": "Los gallitos",
+      "summary": "Marruecos, como Turquía, cobra fondos europeos por contener la inmigración aunque nos hayan enseñado a ignorarlo por conveniencia",
+      "url": "https://elpais.com/opinion/2026-08-18/los-gallitos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XX2URGQFERFLLOOOFXVD3QJDKM.jpg?auth=9e88eced1d63b918aabddc87459fbc0dafe128c90425d2f18d399d005d8a53a1",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "Los gallitos",
+      "lead_fa": "Marruecos, como Turquía, cobra fondos europeos por contener la inmigración aunque nos hayan enseñado a ignorarlo por conveniencia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fcffe1fa6594",
       "source": "EL PAÍS Economía",
       "title": "El regulador estadounidense concede la licencia bancaria a la empresa cripto de los Trump",
@@ -516,6 +644,28 @@
         "#اقتصاد_آمریکا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5d5da7fc8697",
+      "source": "EL PAÍS",
+      "title": "¿Cómo puede subir todo menos el precio del kebab?",
+      "summary": "No es que a los kebabs no les afecte la inflación, sino que su estructura de negocio está tan optimizada y cuentan con márgenes tan altos que la pueden absorber",
+      "url": "https://elpais.com/gastronomia/2026-08-18/como-puede-subir-todo-menos-el-precio-del-kebab.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NXQ5TMAL4RGWFDW6A2TSUSVQN4.jpg?auth=a883923d8ddbc80464406f468cbcbb557e507eccf3474948b98ced2001b93557",
+      "published_at": "2026-08-18T03:25:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "¿Cómo puede subir todo menos el precio del kebab?",
+      "lead_fa": "No es que a los kebabs no les afecte la inflación, sino que su estructura de negocio está tan optimizada y cuentan con márgenes tan altos que la pueden absorber",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -563,35 +713,6 @@
       "editorial_version": 2
     },
     {
-      "id": "300c76709867",
-      "source": "EL PAÍS",
-      "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
-      "summary": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
-      "url": "https://elpais.com/espana/2026-08-17/tres-nuevas-ministras-piden-comparecer-en-el-congreso-por-ceuta-y-se-suman-a-los-cuatro-ya-previstos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PE4BZ4ZVQ4TMNHA6IIDI3KY3KQ.jpg?auth=3b0a43cc9d8084c2dc44e2bfbab354e57b526f6fca99e8b028d1ba11e8b045bb",
-      "published_at": "2026-08-17T19:18:18+00:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "سه وزیر دیگر برای پاسخگویی درباره سبته به کنگره فراخوانده شدند",
-      "lead_fa": "سه تن از وزرای کابینه اسپانیا درخواست حضور در کنگره را ارائه دادند. این اقدام پس از ورود گسترده مهاجران به شهر خودمختار سبته انجام شده است.",
-      "key_points_fa": [
-        "مونیکا گارسیا، الما سایز و سیرا رگو در این نشست حضور خواهند یافت.",
-        "هدف از این حضور، توضیح عملکرد وزارتخانه‌های متبوع پس از ورود انبوه مهاجران است.",
-        "پیش از این نیز چهار وزیر دیگر برای این موضوع دعوت شده بودند."
-      ],
-      "analysis_fa": "افزایش تعداد وزرای احضار شده به پارلمان نشان‌دهنده ابعاد گسترده سیاسی و اجتماعی رویدادهای اخیر در مرز سبته و حساسیت نهادهای قانون‌گذاری نسبت به مدیریت بحران‌های مهاجرتی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#کنگره"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "32140360b027",
       "source": "La Vanguardia",
       "title": "Barcelona contiene el precio de los pisos de estudiantes mientras se dispara en Madrid",
@@ -617,62 +738,6 @@
         "#مادرید",
         "#دانشجویان",
         "#مسکن"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "129846f116f5",
-      "source": "La Vanguardia",
-      "title": "El Gobierno ya empieza a instalar los cuatro centros de atención humanitaria en Ceuta",
-      "summary": "Varios operarios ya han empezado los trabajos para acondicionar cuatro espacios que acojerán unas 1.500 personas",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615498/gobierno-empieza-instalar-cuatro-centros-atencion-humanitaria-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a83357fd481c.r_d.959-660-0.jpeg",
-      "published_at": "2026-08-17T18:37:58+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "آغاز نصب چهار مرکز رسیدگی به مهاجران در سئوتا",
-      "lead_fa": "دولت اسپانیا روند آماده‌سازی چهار مرکز جدید را در سئوتا آغاز کرد. این فضاها برای اسکان حدود ۱۵۰۰ نفر در نظر گرفته شده‌اند.",
-      "key_points_fa": [
-        "شروع عملیات اجرایی توسط کارگران در محل‌های تعیین‌شده",
-        "هدف از ایجاد این مراکز، اسکان موقت حدود ۱۵۰۰ نفر است",
-        "این اقدام در راستای بهبود شرایط پذیرش و رسیدگی به وضعیت انسانی انجام می‌شود"
-      ],
-      "analysis_fa": "ایجاد این مراکز نشان‌دهنده تلاش دولت برای مدیریت بهتر فشارهای مهاجرتی در مرزهای جنوبی است. سئوتا به عنوان یکی از نقاط ورودی کلیدی، همواره با چالش‌های اسکان و خدمات‌رسانی به پناه‌جویان روبه‌رو بوده و این اقدام پاسخی به نیازهای زیرساختی این منطقه محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجران",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "546a10967fcd",
-      "source": "EL PAÍS",
-      "title": "Fernando Sanz, uno de los nuestros",
-      "summary": "Maestro de periodistas, compañero durante tres décadas de varias generaciones de reporteros y referente en la información empresarial, el redactor jefe de este periódico ha fallecido en Menorca",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-17/fernando-sanz-uno-de-los-nuestros.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RDPTJ7BRANDIXOXSPESTF4ZANU.jpg?auth=ebf1e5a2a8041910790d89794b3e03a8765f7841dcdf8121cefb0ec042cd2d60",
-      "published_at": "2026-08-17T18:02:40+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "درگذشت فرناندو سانز، روزنامه‌نگار برجسته اسپانیایی",
-      "lead_fa": "فرناندو سانز، سردبیر و روزنامه‌نگار پیشکسوت روزنامه ال‌پاییس در سن منورکا درگذشت. او سه دهه به عنوان راهنمای نسل‌های مختلف خبرنگاران فعالیت کرد.",
-      "key_points_fa": [
-        "فرناندو سانز نقش مهمی در اطلاع‌رسانی حوزه اقتصادی و کسب‌وکار داشت.",
-        "او برای سه دهه به عنوان همکار و مرجع برای نسل‌های مختلف خبرنگاران شناخته می‌شد.",
-        "خبر درگذشت این روزنامه‌نگار برجسته توسط رسانه ال‌پاییس منتشر شد."
-      ],
-      "analysis_fa": "درگذشت فرناندو سانز فقدانی بزرگ برای جامعه روزنامه‌نگاری اقتصادی اسپانیا به شمار می‌رود. او به عنوان سردبیر و راهنما، تاثیر پایداری بر استانداردهای گزارش‌گری در رسانه‌های این کشور گذاشته بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#روزنامه‌نگاری",
-        "#ال‌پاییس"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -706,34 +771,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c33b1bfc31d9",
-      "source": "EL PAÍS",
-      "title": "La muerte del profesor de Cambridge Jason Arday resucita la guerra cultural en la universidad británica",
-      "summary": "La derecha reaccionaria denunció sus supuestos plagios y falsedades para atacar las políticas de diversidad en el ámbito académico",
-      "url": "https://elpais.com/sociedad/2026-08-17/la-muerte-del-profesor-de-cambridge-jason-arday-resucita-la-guerra-cultural-en-la-universidad-britanica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/J4RTDWH5CRGXJFGLIKCETM25AY.jpg?auth=cfc9ee8e063ed2a99d2f326c77b22b888d7c0692c0acb66464fc0ea4c7c174ce",
-      "published_at": "2026-08-17T17:20:25+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "مرگ جیسون آردهای جنگ فرهنگی در دانشگاه‌های بریتانیا را زنده کرد",
-      "lead_fa": "درگذشت جیسون آردهای، استاد دانشگاه کمبریج، جنجال‌های تازه‌ای را پیرامون سیاست‌های diversité در نظام آکادمیک بریتانیا برانگیخته است. راست‌گرایان افراطی او را به اتهام ادعای سرقت علمی و اطلاعات نادرست هدف حمله قرار دادند.",
-      "key_points_fa": [
-        "درگذشت جیسون آردهای، استاد دانشگاه کمبریج، به بحث‌های گسترده‌ای در فضای دانشگاهی بریتانیا منجر شد.",
-        "جریان‌های راست‌گرا با طرح ادعاهایی درباره فعالیت‌های او، سیاست‌های تنوع و گوناگونی را به چالش کشیدند.",
-        "این مناقشه بار دیگر شکاف‌های سیاسی موجود پیرامون استانداردهای علمی و برابری را عیان کرد."
-      ],
-      "analysis_fa": "این واقعه نشان‌دهنده ابعاد عمیق‌تر تنش‌های سیاسی و ایدئولوژیک در نهادهای آموزشی بریتانیا است. استفاده از مسائل شخصی و دانشگاهی برای به چالش کشیدن سیاست‌های تنوع نژادی و اجتماعی، بیانگر شدت‌گرفتن جنگ‌های فرهنگی در این کشور است که دانشگاه‌ها را به میدان نبرد سیاسی تبدیل کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#دانشگاه_کمبریج",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "19239543ea1b",
       "source": "EL PAÍS España",
       "title": "El Gobierno anuncia que habilita cuatro espacios para albergar a 1.500 migrantes en Ceuta",
@@ -757,92 +794,6 @@
         "#سبته",
         "#مهاجران",
         "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "af73ad2cd934",
-      "source": "EL PAÍS",
-      "title": "El Tribunal Supremo propina otro revés a Trump: rechaza la petición para anular la indemnización millonaria en favor de E. Jean Carroll",
-      "summary": "El presidente estadounidense trataba de anular el pago a la columnista y escritora tras ser condenado por abuso sexual y difamación",
-      "url": "https://elpais.com/us/2026-08-17/el-tribunal-supremo-propina-otro-reves-a-trump-rechaza-la-peticion-para-anular-la-indemnizacion-millonaria-en-favor-de-e-jean-carroll.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N66SGW56Q5IDRIMZFNRPXIFXEU.jpg?auth=90aabb14246fcb1beb6c6369ed2fdde4cc77ec5dcd2587e1fe72048f407e1888",
-      "published_at": "2026-08-17T16:07:56+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "دیوان عالی آمریکا درخواست ترامپ را رد کرد",
-      "lead_fa": "دیوان عالی ایالات متحده درخواست دونالد ترامپ را برای لغو حکم پرداخت غرامت میلیون دلاری به ای. جین کارول رد کرد. رئیس‌جمهور پیشین آمریکا پیش‌تر به اتهام سوءاستفاده جنسی و افترا محکوم شده بود.",
-      "key_points_fa": [
-        "دیوان عالی درخواست ترامپ برای لغو غرامت را رد کرد.",
-        "ترامپ پیش‌تر به دلیل سوءاستفاده جنسی و افترا محکوم شده بود.",
-        "این پرونده توسط نویسنده و ستون‌نویس ای. جین کارول علیه ترامپ دنبال شده است."
-      ],
-      "analysis_fa": "این تصمیم دیوان عالی یکی دیگر از موانع قانونی در برابر تلاش‌های حقوقی دونالد ترامپ برای به چالش کشیدن احکام صادر شده علیه او در پرونده‌های مدنی محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دیوان_عالی",
-        "#دونالد_ترامپ",
-        "#آمریکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "cfb26e5b17d7",
-      "source": "La Vanguardia",
-      "title": "El Gobierno despliega cuatro centros de atención humanitaria en Ceuta para 1.500 migrantes",
-      "summary": "La ministra Saiz anuncia que este mismo lunes se instalarán estos espacios para poder alojar a estas personas",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615249/gobierno-despliega-cuatro-centros-atencion-humanitaria-ceuta-1-500-migrantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82fd796b245.jpeg",
-      "published_at": "2026-08-17T13:35:52+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "راه‌اندازی چهار مرکز اسکان اضطراری برای مهاجران در سئوتا",
-      "lead_fa": "دولت اسپانیا از راه‌اندازی چهار مرکز جدید برای ارائه خدمات بشردوستانه در سئوتا خبر داد. این مراکز از روز دوشنبه برای اسکان ۱۵۰۰ مهاجر فعال می‌شوند.",
-      "key_points_fa": [
-        "وزیر مربوطه اعلام کرد که این مراکز روز دوشنبه مستقر خواهند شد.",
-        "ظرفیت کل این چهار مرکز ۱۵۰۰ مهاجر اعلام شده است.",
-        "هدف از این اقدام، بهبود رسیدگی به وضعیت انسانی در منطقه است."
-      ],
-      "analysis_fa": "افزایش فشار مهاجرتی در مرزهای جنوبی اسپانیا بار دیگر دولت را ناچار به اتخاذ تدابیر اضطراری کرده است. ایجاد این مراکز موقت پاسخی به نیاز فوری برای اسکان تازه‌واردان است، هرچند چالش‌های ساختاری مدیریت مهاجرت همچنان پابرجاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مهاجران",
-        "#سئوتا",
-        "#اسپانیا",
-        "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "3fcefa155253",
-      "source": "EL PAÍS",
-      "title": "El ministro ultra israelí Ben Gvir aboga por matar cada noche en Gaza a 30 o 40 personas",
-      "summary": "El titular de Seguridad Nacional, del que dependen la policía y las prisiones, insiste en la necesidad de ocupar militarmente y construir asentamientos en toda la Franja, así como de promover su limpieza étnica",
-      "url": "https://elpais.com/internacional/2026-08-17/el-ministro-ultra-israeli-ben-gvir-aboga-por-matar-cada-noche-en-gaza-a-30-o-40-personas.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205334_171218_video_1800.mp4",
-      "published_at": "2026-08-17T13:05:51+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "درخواست وزیر راست‌گرای اسرائیل برای کشتار شبانه در غزه",
-      "lead_fa": "ایتامار بن گویر، وزیر امنیت ملی اسرائیل، خواستار کشتار روزانه ده‌ها تن در غزه شد. او همچنین بر اشغال نظامی و ساخت شهرک در سراسر این باریکه تأکید کرد.",
-      "key_points_fa": [
-        "تاکید بن گویر بر کشتار ۳۰ تا ۴۰ نفر در هر شب در غزه",
-        "درخواست اشغال نظامی کامل و شهرک‌سازی در باریکه غزه",
-        "اشاره مقام اسرائیلی به لزوم پاکسازی قومی در منطقه"
-      ],
-      "analysis_fa": "این اظهارات از سوی یک مقام ارشد کابینه اسرائیل مطرح شده که کنترل پلیس و زندان‌ها را بر عهده دارد و نشان‌دهنده تداوم مواضع تندروانه در بدنه سیاسی دولت این کشور درباره جنگ غزه است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#غزه",
-        "#بن_گویر",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -877,7 +828,7 @@
     },
     {
       "id": "ba9903f701fd",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La derecha, ante la ausencia de Albares en el Senado: “¿Qué falló en Ceuta el 30 de julio y no el 15 de agosto?”",
       "summary": "El ministro de Exteriores acude a la misma hora de su citación en la Cámara alta a visitar las obras de la Casa Asia en Barcelona",
       "url": "https://elpais.com/espana/2026-08-17/la-derecha-ante-la-ausencia-de-albares-en-el-senado-que-fallo-en-ceuta-el-30-de-julio-y-no-el-15-de-agosto.html",
@@ -899,63 +850,6 @@
         "#اسپانیا",
         "#سیاست",
         "#سنا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7de5a5bcadaf",
-      "source": "EL PAÍS",
-      "title": "Ayuso, sobre el ático de Chamberí: “No voy a necesitar una residencia oficial a 10 meses de las elecciones”",
-      "summary": "Cuca Gamarra afirma que la presidenta de Madrid ya ha dado todas las explicaciones necesarias “por activa, por pasiva y por perifrástica”",
-      "url": "https://elpais.com/espana/madrid/2026-08-17/ayuso-sobre-el-atico-no-voy-a-necesitar-una-residencia-oficial-a-10-meses-de-las-elecciones.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205233_110325_video_1800.mp4",
-      "published_at": "2026-08-17T11:05:46+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "واکنش آیاسو به حواشی پنت‌هاوس چامبری و انتقاد از دولت",
-      "lead_fa": "رئیس مادرید در واکنش به حواشی مربوط به پنت‌هاوس خود توضیحاتی ارائه داد. او همچنین از عملکرد دولت مرکزی انتقاد کرد.",
-      "key_points_fa": [
-        "ایزابیل دیاز آیاسو اعلام کرد که در آستانه پایان دوره نیازی به اقامتگاه رسمی ندارد.",
-        "او از تعطیلات پدرو سانچز هم‌زمان با بحران در سبته انتقاد کرد."
-      ],
-      "analysis_fa": "این اظهارات بخشی از تنش‌های سیاسی مداوم میان دولت خودمختار مادرید و دولت مرکزی اسپانیا است که در آن رهبران سیاسی از مسائل شخصی و اجرایی برای نقد یکدیگر استفاده می‌کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آیاسو",
-        "#مادرید",
-        "#اسپانیا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "92561777b31f",
-      "source": "EL PAÍS Economía",
-      "title": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
-      "summary": "La revolución demográfica que vive España eleva los gastos, agrava el problema de la vivienda e incrementa el riesgo de vulnerabilidad",
-      "url": "https://elpais.com/economia/negocios/2026-08-16/la-atomizacion-de-los-hogares-por-que-la-reduccion-del-tamano-de-las-familias-tiene-efectos-economicos-negativos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E323IOTZYZEW3JLMFIHEWICXBM.JPG?auth=75f2ef80d7c8c35041ce342f3b11a46fda122e755454c504371f6d1e973451db",
-      "published_at": "2026-08-15T15:30:00+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "کوچک شدن خانوارهای اسپانیایی و چالش‌های اقتصادی آن",
-      "lead_fa": "تحولات جمعیتی در اسپانیا باعث کاهش اندازه خانواده‌ها و افزایش تعداد خانوارهای تک‌نفره شده است. این روند با افزایش هزینه‌ها، تشدید بحران مسکن و بالا رفتن خطر آسیب‌پذیری اقتصادی همراه است.",
-      "key_points_fa": [
-        "کاهش چشمگیر میانگین اعضای هر خانوار در سراسر اسپانیا",
-        "افزایش فشارهای تورمی و هزینه‌های روزمره زندگی به دلیل تکه‌تکه شدن خانوارها",
-        "تشدید بحران مسکن و تقاضای بیشتر برای واحدهای کوچکتر"
-      ],
-      "analysis_fa": "کوچک شدن ابعاد خانوارها در اسپانیا نشان‌دهنده تغییرات عمیق اجتماعی و جمعیتی است که الگوهای مصرف و بازار مسکن را دگرگون می‌کند. این پدیده ساختار تقاضا برای کالاها و خدمات را تغییر داده و فشار مضاعفی بر سیستم رفاهی و اقتصادی کشور وارد می‌آورد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#مسکن",
-        "#جمعیت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -985,34 +879,6 @@
         "#اقتصاد",
         "#کسب_و_کار",
         "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "532afccd76cc",
-      "source": "EL PAÍS",
-      "title": "Alarma en el PP de Madrid: “Nos confiamos. En política no hay nada hecho”",
-      "summary": "En el partido achacan los problemas con el ático a un exceso de confianza, a cambios en Presidencia y a que no ha logrado recuperar la iniciativa con la Ley del concebido no nacido",
-      "url": "https://elpais.com/espana/madrid/2026-08-17/alarma-en-el-pp-de-madrid-nos-confiamos-en-politica-no-hay-nada-hecho.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205233_110325_video_1800.mp4",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "نگرانی در حزب مردمی مادرید از اعتماد به نفس بیش از حد",
-      "lead_fa": "رهبران حزب مردمی در مادرید نسبت به کاهش ابتکار عمل سیاسی خود ابراز نگرانی کردند. آن‌ها معتقدند که نباید پیش از قطعی شدن پیروزی، هیچ‌چیز را تمام‌شده دانست.",
-      "key_points_fa": [
-        "اعتراف مقامات حزب به وجود مشکلات ناشی از اعتماد به نفس بیش از حد",
-        "اشاره به تغییرات درون‌سازمانی در نهاد ریاست",
-        "ناتوانی در بازپس‌گیری ابتکار عمل سیاسی با وجود طرح‌های مختلف"
-      ],
-      "analysis_fa": "این تحولات نشان‌دهنده چالش‌های درونی حزب مردمی در حفظ پویایی سیاسی و مدیریت حواشی است. حزب با موانعی در بازسازی وجهه خود و پیشبرد اهداف سیاسیش روبروست که نیازمند بازنگری در استراتژی‌های ارتباطی و مدیریتی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مادرید",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1105,33 +971,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bdb823f0b1ee",
-      "source": "EL PAÍS",
-      "title": "Juan Manuel Costa, uno de los hoteleros responsables del envidiado modelo turístico de Formentera",
-      "summary": "Nieto de una de las primeras personas que vio el potencial de la isla, este empresario y político cree en la protección del entorno y de los locales",
-      "url": "https://elpais.com/eps/2026-08-17/juan-manuel-costa-uno-de-los-hoteleros-responsables-del-envidiado-modelo-turistico-de-formentera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7ACJ44FPABCMDCQKCLPVEW4VYU.JPG?auth=b22659ccc586f7622a21fe98b3f7efdad32ac9db6073ae9c2855fbc13520c1a8",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "خوان مانوئل کوستا؛ معمار مدل گردشگری پایدار فرمنترا",
-      "lead_fa": "خوان مانوئل کوستا، هتلدار و سیاستمدار اهل فرمنترا، بر حفظ محیط زیست و منافع محلی تأکید دارد. او نوه یکی از نخستین پیشگامان گردشگری در این جزیره است.",
-      "key_points_fa": [
-        "خانواده او از نخستین کسانی بودند که پتانسیل گردشگری فرمنترا را کشف کردند.",
-        "او معتقد به ایجاد تعادل میان توسعه گردشگری و حفاظت از محیط زیست است."
-      ],
-      "analysis_fa": "مدل گردشگری فرمنترا به عنوان نمونه‌ای از رشد کنترل‌شده در اسپانیا شناخته می‌شود که تلاش دارد میان اقتصاد گردشگری و پایداری محیط زیست تعادل برقرار کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#گردشگری",
-        "#فرمنترا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "aef4907e0a5a",
       "source": "EL PAÍS Economía",
       "title": "Martín Tolcachir (Dia): “En 2027 revisaremos los objetivos del plan estratégico: hay recorrido para más”",
@@ -1218,34 +1057,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b921b0fcd0d1",
-      "source": "EL PAÍS",
-      "title": "Pausa obligada en el apagón nuclear",
-      "summary": "El objetivo de evitar alteraciones repentinas de precios justifica flexibilizar el calendario de cierre de las centrales españolas",
-      "url": "https://elpais.com/opinion/2026-08-17/pausa-obligada-en-el-apagon-nuclear.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/O6R4ZHNGLVFZTCFH3XUFGJJ4FY.jpg?auth=14d537655cf3aaa407f8cbde51762b300bdafeeb091d27cc214bbef4ece277e6",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "economia",
-      "priority": 72,
-      "title_fa": "توقف موقت در روند تعطیلی نیروگاه‌های هسته‌ای اسپانیا",
-      "lead_fa": "هدف از این تصمیم، جلوگیری از نوسانات ناگهانی قیمت انرژی در بازار است. دولت تقویم تعطیلی نیروگاه‌های هسته‌ای را انعطاف‌پذیرتر می‌کند.",
-      "key_points_fa": [
-        "بازتنگری در جدول زمانی تعطیلی نیروگاه‌های هسته‌ای اسپانیا",
-        "تلاش برای جلوگیری از تغییرات ناگهانی قیمت‌ها در بازار انرژی",
-        "توازن میان اهداف زیست‌محیطی و ثبات اقتصادی"
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده چالش‌های دولت در مدیریت گذار انرژی است. حفظ ثبات قیمت‌ها و تأمین پایدار برق، برنامه‌زدايان را ناچار به بازنگری در زمان‌بندی‌های پیشین کرده است بدون اینکه سیاست کلی تغییر کرده باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "98c94e57b095",
       "source": "EL PAÍS Economía",
       "title": "“Se busca experto en ‘blockchain’”: bancos, fintech y consultoras se disputan el talento cripto",
@@ -1303,8 +1114,74 @@
       "editorial_version": 2
     },
     {
+      "id": "c1e79686fd28",
+      "source": "La Vanguardia",
+      "title": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
+      "summary": "El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio",
+      "url": "https://www.lavanguardia.com/internacional/20260818/11615405/guerra-iran-merma-capacidad-militar-ee-uu-pacifico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8305df14c3d.r_d.466-391-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
+      "lead_fa": "El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a5745a576e29",
+      "source": "EL PAÍS",
+      "title": "El poblado de la playa El Trampolín crece: una mezquita con cartones, autogestión de las tareas, torneos y aumento de la tensión",
+      "summary": "Decenas de migrantes, la mayoría subsaharianos, malviven al raso en el campamento ceutí a la espera de una salida",
+      "url": "https://elpais.com/espana/2026-08-18/el-poblado-de-la-playa-el-trampolin-crece-una-mezquita-con-cartones-autogestion-de-las-tareas-torneos-y-aumento-de-la-tension.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VZV6E2P2EFFIFPRFN6RHXBMKHQ.jpg?auth=1e4ae7f4c5b711f8f49790b811243bb9a07b163abff3b97ef712c3315f252c45",
+      "published_at": "2026-08-18T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El poblado de la playa El Trampolín crece: una mezquita con cartones, autogestión de las tareas, torneos y aumento de la tensión",
+      "lead_fa": "Decenas de migrantes, la mayoría subsaharianos, malviven al raso en el campamento ceutí a la espera de una salida",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2eed7ae468b9",
+      "source": "EL PAÍS",
+      "title": "El expresidente del Sevilla José María del Nido: “Me ofrezco a Marlaska para mejorar las cárceles”",
+      "summary": "Sostiene que su visión como abogado y su experiencia de tres años en prisión ayudarían a modernizar un sistema penitenciario que considera anticuado",
+      "url": "https://elpais.com/espana/2026-08-18/el-expresidente-del-sevilla-jose-maria-del-nido-me-ofrezco-a-marlaska-para-mejorar-las-carceles.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204672_135128_video_1800.mp4",
+      "published_at": "2026-08-18T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El expresidente del Sevilla José María del Nido: “Me ofrezco a Marlaska para mejorar las cárceles”",
+      "lead_fa": "Sostiene que su visión como abogado y su experiencia de tres años en prisión ayudarían a modernizar un sistema penitenciario que considera anticuado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e7749800b31f",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
       "summary": "Houngbo deja la puerta abierta a que un afín a Trump ocupe la dirección general adjunta, al tiempo que baraja que Washington siga sin pagar sus cuotas",
       "url": "https://elpais.com/economia/2026-08-18/el-rival-de-yolanda-diaz-en-la-oit-busca-el-favor-de-estados-unidos-en-la-batalla-por-la-direccion.html",
@@ -1413,8 +1290,338 @@
       "editorial_version": 2
     },
     {
+      "id": "e4f84cc57f4d",
+      "source": "EL PAÍS",
+      "title": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
+      "summary": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
+      "url": "https://elpais.com/cultura/2026-08-18/papa-haras-el-favor-de-darle-al-dador-dos-mil-pesetas-los-ultimos-dias-de-federico-garcia-lorca.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2DP4JEG5HRDHRFETMMMJOXYISE.jpg?auth=e769329ae53ded4c3597d5a935e19acfa8841d6e74bddd76030ae94ab5c50152",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
+      "lead_fa": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3936204263ee",
+      "source": "EL PAÍS",
+      "title": "Otro eclipse llega a España este agosto, pero este es parcial y de Luna: “Tendrá el color de todos los atardeceres de la Tierra”",
+      "summary": "Sin gafas especiales, el fenómeno podrá verse en todo el país la madrugada del viernes 28; aunque, en algunos puntos, el satélite se ocultará antes de que finalice",
+      "url": "https://elpais.com/ciencia/2026-08-18/otro-eclipse-llega-a-espana-este-agosto-pero-este-es-parcial-y-de-luna-tendra-el-color-de-todos-los-atardeceres-de-la-tierra.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZFKVSZHN6BBJ5F7BPCTWKWRT44.jpg?auth=0ceccc476068be82d74e08b9248d105372c0d61b8409eb90d8056a3d0f15645f",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Otro eclipse llega a España este agosto, pero este es parcial y de Luna: “Tendrá el color de todos los atardeceres de la Tierra”",
+      "lead_fa": "Sin gafas especiales, el fenómeno podrá verse en todo el país la madrugada del viernes 28; aunque, en algunos puntos, el satélite se ocultará antes de que finalice",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "284feca74ede",
+      "source": "EL PAÍS",
+      "title": "Diagnosticar desde una foto: no, el problema no es el cuerpo de Ariana Grande",
+      "summary": "¿Qué podemos hacer nosotros individualmente para dejar de fomentar la cultura de la delgadez y la presión estética sobre las mujeres?",
+      "url": "https://elpais.com/salud-y-bienestar/nutrir-con-ciencia/2026-08-18/diagnosticar-desde-una-foto-no-el-problema-no-es-el-cuerpo-de-ariana-grande.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DAAFW7C3S5JLNCFGCYIHEC3OAE.jpg?auth=6f055c732e9a5850cbd644304cbfc388f8f99453eaf59357454a3dce9a1b0b35",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Diagnosticar desde una foto: no, el problema no es el cuerpo de Ariana Grande",
+      "lead_fa": "¿Qué podemos hacer nosotros individualmente para dejar de fomentar la cultura de la delgadez y la presión estética sobre las mujeres?",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7c1316c30f46",
+      "source": "EL PAÍS",
+      "title": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
+      "summary": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
+      "url": "https://elpais.com/smoda/famosos/2026-08-18/postales-de-verano-cuando-john-kennedy-jr-se-echaba-al-mar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XSKCFCBNDZDMRC22M4MT277L4E.jpg?auth=7c34dc2fd14c57e6db2600e783d7604466a536e059d755be363305f2a1cd7b1d",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
+      "lead_fa": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cd07c05151b9",
+      "source": "EL PAÍS",
+      "title": "¿Por qué tenemos tanto miedo a la edad de las mujeres?",
+      "summary": "En un mundo en donde la creación de la riqueza se ha desligado de la producción de bienes necesitamos nuevos pactos sociales y un nuevo contrato sexual",
+      "url": "https://elpais.com/opinion/2026-08-18/por-que-tenemos-tanto-miedo-a-la-edad-de-las-mujeres.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7VPUVXWMCJGBTKX43VPZHIA4EQ.jpg?auth=2308280bbfd60feea77e2d9ee747d25c3031aec4e01d767de84da7cb183a64b8",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "¿Por qué tenemos tanto miedo a la edad de las mujeres?",
+      "lead_fa": "En un mundo en donde la creación de la riqueza se ha desligado de la producción de bienes necesitamos nuevos pactos sociales y un nuevo contrato sexual",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8f9d82b48278",
+      "source": "EL PAÍS",
+      "title": "El kilómetro cero de las obras de Madrid: las zonas que se concentran en los distritos de Centro y Salamanca encabezan las renovaciones",
+      "summary": "El Consistorio defiende que los datos de Transparencia solo recogen las actuaciones de una dirección general y asegura que se han ejecutado obras en todos los distritos",
+      "url": "https://elpais.com/espana/madrid/2026-08-18/el-kilometro-cero-de-las-obras-de-madrid-las-zonas-que-se-concentran-en-los-distritos-de-centro-y-salamanca-encabezan-las-renovaciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VPU5LBGH6VFWFL5KFZLNW7XNKE.jpg?auth=bfdf15e2b217696ef1810a2ede8aa391407ed8141dd53c1ecd27e8fe6b595de1",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El kilómetro cero de las obras de Madrid: las zonas que se concentran en los distritos de Centro y Salamanca encabezan las renovaciones",
+      "lead_fa": "El Consistorio defiende que los datos de Transparencia solo recogen las actuaciones de una dirección general y asegura que se han ejecutado obras en todos los distritos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7194aa1feb10",
+      "source": "EL PAÍS",
+      "title": "Tamara Contreras, médica: “Cada día hay errores brutales en el hospital por la sobrecarga laboral y falta de recursos humanos”",
+      "summary": "La médica que presentó más de 110.000 firmas contra las guardias quiere hacer crecer el movimiento ciudadano por una sanidad pública segura",
+      "url": "https://elpais.com/sociedad/2026-08-18/tamara-contreras-medica-cada-dia-hay-errores-brutales-en-el-hospital-por-la-sobrecarga-laboral-y-falta-de-recursos-humanos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IS5DYTCTDREK7OIDIGLHWJ3SM4.jpg?auth=db48988fc986543bc528b9bbb9d737600bc6dd59a5465fd027e88d5b6277bbde",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Tamara Contreras, médica: “Cada día hay errores brutales en el hospital por la sobrecarga laboral y falta de recursos humanos”",
+      "lead_fa": "La médica que presentó más de 110.000 firmas contra las guardias quiere hacer crecer el movimiento ciudadano por una sanidad pública segura",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7465605930fe",
+      "source": "EL PAÍS",
+      "title": "Cómo África se ha convertido en el gran árbitro de la FIFA",
+      "summary": "El respaldo africano ha resultado ser el principal sostén político de Gianni Infantino, pero la influencia del continente en la Federación no comenzó con el dirigente suizo: el continente ya no ocupa la periferia del fútbol mundial, sino que está en el centro de su poder",
+      "url": "https://elpais.com/planeta-futuro/2026-08-18/como-africa-se-ha-convertido-en-el-gran-arbitro-de-la-fifa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CZ7E6B75GZCJZMGPQCOE2KTO2A.jpg?auth=83ddc39ea3d7dd6ba45b89e47a2d22792e1d774d957b5458abf0115d18e6ca09",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Cómo África se ha convertido en el gran árbitro de la FIFA",
+      "lead_fa": "El respaldo africano ha resultado ser el principal sostén político de Gianni Infantino, pero la influencia del continente en la Federación no comenzó con el dirigente suizo: el continente ya no ocupa la periferia del fútbol mundial, sino que está en el centro de su poder",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a804d907865d",
+      "source": "EL PAÍS",
+      "title": "Un botánico en defensa de las “arizónicas”",
+      "summary": "Todos los setos mal mantenidos son un riesgo para el fuego, siendo recomendable que estén a una distancia mínima de edificaciones, pero a veces tienen importantes beneficios",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-18/un-botanico-en-defensa-de-las-arizonicas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HVLPAWZ6G5N47J4F4BZK76J3OE.jpg?auth=70b36937b0a019e94a587fd07df6c64e18cc24b38853b583d0902f484e6edd6f",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un botánico en defensa de las “arizónicas”",
+      "lead_fa": "Todos los setos mal mantenidos son un riesgo para el fuego, siendo recomendable que estén a una distancia mínima de edificaciones, pero a veces tienen importantes beneficios",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "881269c46f61",
+      "source": "EL PAÍS",
+      "title": "Moda agosteña de Flavita Banana: el jersey",
+      "summary": "Viñeta del 18 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-18/moda-agostena-de-flavita-banana-el-jersey.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3DGTUGDDNNHVFHZ7B4AFVBUA7I.jpg?auth=4ac6d6a40f5abbc8fc19b2a872e11bd9212cde34c963232c1759528a2f7c30fb",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Moda agosteña de Flavita Banana: el jersey",
+      "lead_fa": "Viñeta del 18 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a761f062a423",
+      "source": "EL PAÍS",
+      "title": "Lorca son todas",
+      "summary": "El del poeta asesinado hace 90 años es el nombre más conocido de los miles de víctimas del franquismo que deben ser recordadas",
+      "url": "https://elpais.com/opinion/2026-08-18/lorca-son-todas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EURNE6TYENBJJOYKF5P3R6KQYE.jpg?auth=181b9a6024d170101eff6302dedf1a8a93eab3b327f5f71809accc2abca37f01",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Lorca son todas",
+      "lead_fa": "El del poeta asesinado hace 90 años es el nombre más conocido de los miles de víctimas del franquismo que deben ser recordadas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1fe926970ccb",
+      "source": "EL PAÍS",
+      "title": "Ni OTAN islámica, ni pacto suní",
+      "summary": "El acuerdo de La Meca entre Arabia Saudí, Pakistán y Turquía es, por ahora, más político y estratégico que militar",
+      "url": "https://elpais.com/internacional/2026-08-18/ni-otan-islamica-ni-pacto-suni.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JPKLRZU35BGHHKFEOI5LXQ2WTQ.JPG?auth=868114b9f33d0a701a3325006da4a7a6246c4170ca3d95aceeb6b762152b3e5d",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ni OTAN islámica, ni pacto suní",
+      "lead_fa": "El acuerdo de La Meca entre Arabia Saudí, Pakistán y Turquía es, por ahora, más político y estratégico que militar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8972d7a44e97",
+      "source": "EL PAÍS",
+      "title": "¿Se puede probar la existencia del más allá? Los científicos que van en busca de Dios",
+      "summary": "Hay médicos, neurocientíficos y físicos que creen que la ciencia puede probar que hay vida después de la muerte, aunque para la mayoría esto es una cuestión de fe y no de laboratorios",
+      "url": "https://elpais.com/ideas/2026-08-18/se-puede-probar-la-existencia-del-mas-alla-los-cientificos-que-van-en-busca-de-dios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EGDBBSBFMZGFDOJX5XEP5SDJQA.jpg?auth=c5bd79412c58b57a865335bfe2867c8b11b7fec221d6e358ae73eee313f7001a",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "¿Se puede probar la existencia del más allá? Los científicos que van en busca de Dios",
+      "lead_fa": "Hay médicos, neurocientíficos y físicos que creen que la ciencia puede probar que hay vida después de la muerte, aunque para la mayoría esto es una cuestión de fe y no de laboratorios",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e691b6635849",
+      "source": "EL PAÍS",
+      "title": "¿Qué recetas preparar cuando hace demasiado calor para cocinar?",
+      "summary": "Cocina veraniega de supervivencia con ideas frescas, fáciles, rápidas en forma de ensaladas imbatibles, diferentes fideos fríos asiáticos, cremas y hasta postres",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-18/que-recetas-preparar-cuando-hace-demasiado-calor-para-cocinar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/23A57SATGBERNNTZOYJW457AFI.jpg?auth=2f6bd0f12396ddb95c932207c1eb08e6b2bc243c82fffa2c13b8136d9d21e3eb",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Qué recetas preparar cuando hace demasiado calor para cocinar?",
+      "lead_fa": "Cocina veraniega de supervivencia con ideas frescas, fáciles, rápidas en forma de ensaladas imbatibles, diferentes fideos fríos asiáticos, cremas y hasta postres",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "180f237df463",
+      "source": "EL PAÍS",
+      "title": "Begur: el pueblo de Girona en el que se para el reloj",
+      "summary": "Este enclave del Baix Empordà ha logrado conservar la magia de sus playas y calas, goza de algunas de las mejores propuestas culinarias del territorio y atrae por igual a locales y foráneos, permaneciendo en un ventajoso segundo plano a la hora de atraer al turismo masivo",
+      "url": "https://elpais.com/elviajero/escapadas/espana/2026-08-18/begur-el-pueblo-de-girona-en-el-que-se-para-el-reloj.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/N7FQBBHPQRFNBPMWQA3WZE5GNQ.jpg?auth=254019b6706743300c5da71e77ecc8e2c4b018f1080a3f7842dd78635fec132d",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Begur: el pueblo de Girona en el que se para el reloj",
+      "lead_fa": "Este enclave del Baix Empordà ha logrado conservar la magia de sus playas y calas, goza de algunas de las mejores propuestas culinarias del territorio y atrae por igual a locales y foráneos, permaneciendo en un ventajoso segundo plano a la hora de atraer al turismo masivo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1e41da9cd788",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
       "summary": "La rivalidad por el control del gas natural entre los países de la región está menos en la gestión de los yacimientos y más en la infraestructura para su mejor comercialización",
       "url": "https://elpais.com/economia/negocios/2026-08-18/la-nueva-guerra-energetica-en-el-mediterraneo-oriental-y-por-que-egipto-y-turquia-llevan-las-de-ganar.html",
@@ -1424,6 +1631,94 @@
       "priority": 70,
       "title_fa": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
       "lead_fa": "La rivalidad por el control del gas natural entre los países de la región está menos en la gestión de los yacimientos y más en la infraestructura para su mejor comercialización",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1808140290c4",
+      "source": "EL PAÍS",
+      "title": "Del ‘scroll’ infinito a volver con un ex: ¿por qué el cerebro nos hace repetir conductas que no queremos?",
+      "summary": "No todo lo que parece que hacemos automáticamente es un hábito, muchas veces es una elección propia. Los expertos explican por qué el cerebro prioriza el alivio inmediato frente al bienestar futuro y qué papel tienen las emociones en el proceso",
+      "url": "https://elpais.com/estilo-de-vida/2026-08-18/del-scroll-infinito-a-volver-con-un-ex-por-que-el-cerebro-nos-hace-repetir-conductas-que-no-queremos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GBK6X6Z5WBCULLC2QDUFJIGL5Q.jpg?auth=54f41cf648569214e323d3729ff49243be7af98f6a316db063c9f10ee33ec986",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Del ‘scroll’ infinito a volver con un ex: ¿por qué el cerebro nos hace repetir conductas que no queremos?",
+      "lead_fa": "No todo lo que parece que hacemos automáticamente es un hábito, muchas veces es una elección propia. Los expertos explican por qué el cerebro prioriza el alivio inmediato frente al bienestar futuro y qué papel tienen las emociones en el proceso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7901d80ca8e0",
+      "source": "EL PAÍS",
+      "title": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
+      "summary": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
+      "url": "https://elpais.com/mamas-papas/expertos/2026-08-18/cuando-el-colecho-con-los-hijos-se-alarga-beneficios-limites-y-mitos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KMVQFW7S5VE5POCZFBIK6ISPCQ.jpg?auth=3652ceecdfbe2294694f57c5f659a9955ee14c5f19ea81b32bf57cdd194a8c1b",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
+      "lead_fa": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "befb2f2b991b",
+      "source": "EL PAÍS",
+      "title": "Del ajuar victoriano a microtendencia digital: la nueva vida de los pololos",
+      "summary": "Los ‘bloomers’, los pantalones que las sufragistas convirtieron en un emblema de emancipación, saltan de TikTok a las pasarelas con reinterpretaciones que oscilan entre el romanticismo victoriano y la tecnicidad deportiva",
+      "url": "https://elpais.com/smoda/moda/2026-08-18/del-ajuar-victoriano-a-microtendencia-digital-la-nueva-vida-de-los-pololos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M4III4MLYVF47KCPPKVZUZBXY4.jpg?auth=8cc03da8c434cf5279bfa95a30c94327b978679cba6dd19d3ae6e5f5c67f2053",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Del ajuar victoriano a microtendencia digital: la nueva vida de los pololos",
+      "lead_fa": "Los ‘bloomers’, los pantalones que las sufragistas convirtieron en un emblema de emancipación, saltan de TikTok a las pasarelas con reinterpretaciones que oscilan entre el romanticismo victoriano y la tecnicidad deportiva",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b73d7539285f",
+      "source": "EL PAÍS",
+      "title": "Diez libros con la comida como protagonista para el último tramo de las vacaciones",
+      "summary": "Novelas, ensayos, fotolibros y recetarios atípicos con los que sumergirse en la gastronomía durante el verano",
+      "url": "https://elpais.com/gastronomia/2026-08-18/diez-libros-con-la-comida-como-protagonista-para-el-ultimo-tramo-de-las-vacaciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CZSBRZIZCREKPGM2DH5TRH4GDY.jpg?auth=a4626b69d5c59470facf6aedc8c10612c02a382be0138b9b9085c746a78fbad4",
+      "published_at": "2026-08-18T03:25:00+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Diez libros con la comida como protagonista para el último tramo de las vacaciones",
+      "lead_fa": "Novelas, ensayos, fotolibros y recetarios atípicos con los que sumergirse en la gastronomía durante el verano",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1507,34 +1802,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1d14bd46f517",
-      "source": "EL PAÍS",
-      "title": "Lorca vuelve a pasear por Madrid 90 años después de su fusilamiento",
-      "summary": "Una escultura del poeta realizada por el artista Fernando Sánchez Castillo recorre la capital en vísperas de la conmemoración de su asesinato",
-      "url": "https://elpais.com/cultura/2026-08-17/lorca-vuelve-a-pasear-por-madrid-90-anos-despues-de-su-fusilamiento.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TWMI7B4MQNBUBIH2MTFUNU3MIQ.jpg?auth=8a2ff5269dd54232e1a27e13069543f0723a30f0d48312fe1cba8b4f80c196b3",
-      "published_at": "2026-08-17T20:58:24+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "بازگشت لورکا به مادرید؛ مجسمه فدریکو در پایتخت اسپانیا",
-      "lead_fa": "مجسمه‌ای از فدریکو گارسیا لورکا، شاعر نامدار اسپانیایی، در آستانه سالگرد اعدامش در مادرید به حرکت درآمده است. این اثر هنری توسط فرناندو سانچز کاستیلو ساخته شده است.",
-      "key_points_fa": [
-        "مجسمه یادبود لورکا در خیابان‌های مادرید به نمایش درآمده است.",
-        "این رویداد در آستانه سالگرد قتل این شاعر برجسته برگزار می‌شود.",
-        "اثر مذکور توسط هنرمند مجسمه‌ساز، فرناندو سانچز کاستیلو، خلق شده است."
-      ],
-      "analysis_fa": "نمایش این مجسمه در فضای عمومی مادرید، بار دیگر توجه عموم و رسانه‌ها را به میراث ادبی و سرنوشت تراژیک فدریکو گارسیا لورکا در تاریخ معاصر اسپانیا جلب می‌کند. این اقدام بخشی از برنامه‌های یادبودی است که برای زنده نگه داشتن نام او برگزار می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#لورکا",
-        "#مادرید",
-        "#ادبیات_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "0368a8eb22b5",
       "source": "La Vanguardia",
       "title": "Rodri aterriza en Barcelona con un mensaje contundente: “Vengo a ganar todo lo que se ponga por delante”",
@@ -1587,119 +1854,6 @@
         "#آمریکا",
         "#تنگه_هرمز",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a7d85115e8c3",
-      "source": "EL PAÍS",
-      "title": "Rodri, a su llegada a Barcelona: “Estoy cumpliendo un sueño, iremos a por la Champions y todo lo que se ponga por delante”",
-      "summary": "El mediocentro madrileño dejó clara su ambición por asumir el reto azulgrana a su llegada a la capital catalana",
-      "url": "https://elpais.com/deportes/futbol/2026-08-17/rodri-en-su-llegada-a-barcelona-estoy-cumpliendo-un-sueno-iremos-a-por-la-champions-y-todo-lo-que-se-ponga-por-delante.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LMV4VFEJBNBK7A6X7U6FJHP4KM.jpg?auth=7f9f2536d63ccd684e4d7fd4f281d16602d1914eab2b8f9ab8f62d96ea81f602",
-      "published_at": "2026-08-17T19:06:01+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "رودری در بارسلونا: رویایی است که محقق شد",
-      "lead_fa": "هافبک جدید مادرید با اشتیاق فراوان وارد بارسلونا شد. او بر تعهد خود برای کسب قهرمانی لیگ قهرمانان اروپا تاکید کرد.",
-      "key_points_fa": [
-        "ورود رودری به بارسلونا با استقبال و بازتاب رسانه‌ای همراه بود.",
-        "او هدف اصلی تیم را قهرمانی در لیگ قهرمانان اروپا و تمام جام‌های پیش‌رو اعلام کرد."
-      ],
-      "analysis_fa": "پیوستن بازیکنان کلیدی به باشگاه‌های بزرگ همواره انتظارات هواداران را بالا می‌برد و توازن قوا را در رقابت‌های پیش‌رو تحت تاثیر قرار می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#رودری",
-        "#بارسلونا",
-        "#فوتبال_اسپانیا",
-        "#لیق_قهرمانان_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "555db789c00b",
-      "source": "EL PAÍS",
-      "title": "Mallorca 1820: radiografía de la última gran epidemia de peste de Europa",
-      "summary": "El análisis de documentos de hace 200 años muestra la gran letalidad del brote, que no fue bubónico, y la eficacia de las medidas de confinamiento",
-      "url": "https://elpais.com/ciencia/2026-08-17/mallorca-1820-radiografia-de-la-ultima-gran-epidemia-de-peste-de-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YJVQL7OGM5G6LNYCEYBOLN3QHM.jpg?auth=8167f8da6cceb3d63a78e9de3459f8fe92d9112f8d314907860a517fd00d032a",
-      "published_at": "2026-08-17T19:00:00+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "بررسی تاریخی آخرین اپیدمی بزرگ طاعون در مایورکا",
-      "lead_fa": "تحلیل اسناد دویست‌ساله جزئیات مرگبارترین اپیدمی تاریخ اروپا را روشن کرد. این پژوهش نشان داد قرنطینه در کنترل شیوع موثر بوده است.",
-      "key_points_fa": [
-        "بررسی اسناد مربوط به دویست سال پیش در مایورکا",
-        "ثبت نرخ بالای مرگ‌ومیر در این طاعون غیرخیارکی",
-        "اثربخشی اقدامات قرنطینه‌ای در مهار بیماری"
-      ],
-      "analysis_fa": "مطالعه اپیدمی‌های تاریخی ابعاد مدیریت بحران در گذشته را آشکار می‌کند. مقایسه روش‌های کنترل قدیمی با استانداردهای مدرن، درک بهتری از واکنش‌های اجتماعی به بیماری‌های فراگیر ارائه می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مایورکا",
-        "#تاریخ_اسپانیا",
-        "#طاعون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7728c4474723",
-      "source": "EL PAÍS",
-      "title": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
-      "summary": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
-      "url": "https://elpais.com/sociedad/2026-08-17/meta-se-enfrentara-en-california-al-mayor-juicio-de-su-historia-por-los-danos-de-las-redes-sociales-a-los-jovenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OJTAXCAKXFI2ZEI6POEUMKEBPI.jpg?auth=ad67d4214ee0a55b7228978926d121b67a7ec7bba70efd8aaddb2df7a245966f",
-      "published_at": "2026-08-17T18:46:26+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "متا در بزرگترین دادگاه تاریخ خود بر سر آسیب شبکه‌های اجتماعی به جوانان",
-      "lead_fa": "شرکت متا با یکی از بزرگترین چالش‌های حقوقی خود در کالیفرنیا مواجه شده است. شاکیان خواستار غرامت سنگین و ایجاد تغییرات بنیادین در فیسبوک و اینستاگرام هستند.",
-      "key_points_fa": [
-        "شاکیان به دنبال غرامتی بیش از ۱.۴ تریلیون دلار هستند.",
-        "پرونده بر آسیب‌های شبکه‌های اجتماعی بر سلامت روان جوانان تمرکز دارد.",
-        "خواهان ایجاد تغییرات ساختاری در پلتفرم‌های فیسبوک و اینستاگرام هستند."
-      ],
-      "analysis_fa": "این پرونده حقوقی می‌تواند نقطه عطفی در نحوه پاسخگویی شرکت‌های بزرگ فناوری به پیامدهای روانی محصولاتشان باشد و بر آینده تنظیم مقررات شبکه‌های اجتماعی تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#متا",
-        "#اسپانیا",
-        "#شبکه‌های_اجتماعی",
-        "#دادگاه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c69ec16d8abc",
-      "source": "La Vanguardia",
-      "title": "EE.UU. fracasa en su intento de hacer avanzar el plan de paz para Gaza",
-      "summary": "Jared Kushner, yerno del presidente, arranca solo unos vagos compromisos de Netanyahu",
-      "url": "https://www.lavanguardia.com/internacional/20260817/11615493/ee-uu-fracasa-intento-avanzar-plan-paz-trump-gaza.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a821479d1d2d.r_d.1328-746-0.jpeg",
-      "published_at": "2026-08-17T18:25:19+02:00",
-      "category": "politica",
-      "priority": 70,
-      "title_fa": "شکست تلاش آمریکا برای پیشبرد طرح صلح ترامپ در غزه",
-      "lead_fa": "تلاش‌های داماد و مشاور ارشد رئیس‌جمهور آمریکا برای پیشبرد طرح صلح غزه با موانع جدی روبه‌رو شد. جارد کوشنر تنها توانست تعهدات مبهمی از سوی نخست‌وزیر اسرائیل به دست آورد.",
-      "key_points_fa": [
-        "جارد کوشنر سفری با هدف پیشبرد طرح صلح غزه انجام داد.",
-        "نتایج این سفر تنها به کسب تعهدات مبهم از بنیامین نتانیاهو منجر شد.",
-        "طرح صلح ترامپ تاکنون نتوانسته پیشرفت چشمگیری داشته باشد."
-      ],
-      "analysis_fa": "این تحولات نشان‌دهنده چالش‌های عمیق در مسیر دیپلماسی ایالات متحده برای حل مناقشه غزه است. مقاومت در برابر طرح‌های صلح و پیچیدگی‌های منطقه‌ای باعث شده تا ابتکار عمل‌های واشنگتن با تردیدهای جدی روبه‌رو شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#غزه",
-        "#آمریکا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1817,146 +1971,6 @@
       "editorial_version": 2
     },
     {
-      "id": "48ffdf14a986",
-      "source": "EL PAÍS",
-      "title": "Por qué Georgina y Cristiano fueron de Gucci en su boda: el diseñador Demna Gvasalia dice que fue un sueño vestirles",
-      "summary": "El georgiano, director creativo de la casa florentina desde hace un año, ha explicado que es “un hermoso círculo que se cierra”",
-      "url": "https://elpais.com/smoda/2026-08-17/por-que-georgina-y-cristiano-fueron-de-gucci-en-su-boda-el-disenador-demna-gvasalia-dice-que-fue-un-sueno-vestirles.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XURGYZOE7VHUNAKRH45EQBZFFY.jpg?auth=b499e4fbeeb2990b84410e8c6f2d29daa664854fda56ed0610a635eda60714e8",
-      "published_at": "2026-08-17T15:39:51+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "دلیل پوشیدن لباس گوچی در عروسی جورجینا و کریستیانو رونالدو",
-      "lead_fa": "طراح ارشد خانه مد گوچی توضیح داد که چرا این زوج معروف لباس‌های این برند را در مراسم خود پوشیدند. دمنا گواسالیا این اتفاق را رویایی توصیف کرد که به حقیقت پیوسته است.",
-      "key_points_fa": [
-        "دمنا گواسالیا یک سال است که به عنوان مدیر خلاق گوچی فعالیت می‌کند.",
-        "او پوشاندن لباس به این زوج را یک چرخه زیبا و کامل نامید."
-      ],
-      "analysis_fa": "انتخاب لباس‌های برندهای لوکس توسط چهره‌های سرشناس ورزشی و مد، بار دیگر تأثیرگذاری متقابل صنعت مد و ستاره‌های فوتبال را برجسته می‌کند. این اظهارات نشان‌دهنده اهمیت روابط میان طراحان برجسته و چهره‌های جهانی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#گوچی",
-        "#مد",
-        "#کریستیانو_رونالدو"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "add32d778c8e",
-      "source": "EL PAÍS",
-      "title": "Los Mossos investigan la agresión a un joven italiano en Barcelona",
-      "summary": "La víctima, de vacaciones en la ciudad, se vio envuelta en una pelea y fue trasladado de urgencia al hospital del Mar",
-      "url": "https://elpais.com/espana/catalunya/2026-08-17/los-mossos-investigan-la-agresion-a-un-joven-italiano-en-barcelona.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CAZ7MGRXARGRFGV5JHSZGZD5L4.jpg?auth=ebff45765f3ff3d8d9088abdf8a59bd1fd08b4638037e2fc5f12083dce6b0050",
-      "published_at": "2026-08-17T15:23:57+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "تحقیقات پلیس بارسلونا درباره حمله به یک گردشگر ایتالیایی",
-      "lead_fa": "پلیس کاتالونیا (موسوس) در حال تحقیق درباره حمله به یک جوان ایتالیایی در بارسلونا است. این فرد که برای تعطیلات به شهر سفر کرده بود، پس از درگیری به بیمارستان منتقل شد.",
-      "key_points_fa": [
-        "قربانی یک گردشگر جوان ایتالیایی است.",
-        "این حادثه در جریان یک درگیری رخ داده است.",
-        "فرد آسیب‌دیده به طور اورژانسی به بیمارستان دل مار منتقل شده است."
-      ],
-      "analysis_fa": "پلیس بارسلونا در حال بررسی ابعاد این درگیری و شناسایی عاملان آن است. جزئیات بیشتری درباره انگیزه ضرب و شتم هنوز منتشر نشده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اسپانیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fe119d3a23a8",
-      "source": "EL PAÍS",
-      "title": "Detenido un hombre por matar a golpes a su compañero de piso en Málaga",
-      "summary": "El arrestado confesó los hechos ante la Policía Nacional y un juez lo ha enviado a prisión provisional",
-      "url": "https://elpais.com/espana/2026-08-17/detenido-un-hombre-por-matar-a-golpes-a-su-companero-de-piso-en-malaga.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7H42N2DR55ALTPOPGSLYUOVVBU.jpg?auth=656f0ee675120e3665c91df59e93dffdbf4f06dd832f1a4853fce4cbdc184efd",
-      "published_at": "2026-08-17T13:35:56+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "بازداشت یک مرد در مالاگا به اتهام قتل هم‌خانه‌اش",
-      "lead_fa": "پلیس ملی اسپانیا مردی را به اتهام قتل هم‌خانه‌اش از طریق ضرب و شتم در مالاگا بازداشت کرد. متهم پس از اعتراف به جرم خود، با حکم قاضی روانه زندان موقت شد.",
-      "key_points_fa": [
-        "وقوع قتل در مالاگا بر اثر ضرب و شتم هم‌خانه",
-        "اعتراف صریح متهم به جرم خود در برابر پلیس ملی",
-        "صدور قرار بازداشت موقت برای متهم از سوی قاضی"
-      ],
-      "analysis_fa": "این پرونده نشان‌دهنده خشونت‌های خانگی و تنش‌های میان هم‌خانه‌هاست که با اقدام سریع پلیس و نهادهای قضایی اسپانیا به بازداشت سریع متهم منجر شده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#مالاگا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "98add023a0f0",
-      "source": "EL PAÍS",
-      "title": "El rey Harald V de Noruega, hospitalizado en Oslo por una anemia",
-      "summary": "El monarca más longevo de Europa, de 89 años, ya había sido ingresado a comienzos de año por una infección. La casa real informa que estará las dos próximas semanas de baja",
-      "url": "https://elpais.com/gente/2026-08-17/el-rey-harald-v-de-noruega-hospitalizado-en-oslo-por-una-anemia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/U52MOJM23JCTVAI4ZXOUGTQCZA.jpg?auth=40518d6b536c61a4c79c14ddc0d90189766d3baa6fbfb87cb7a99451d16c6c08",
-      "published_at": "2026-08-17T17:58:28+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "پادشاه ۸۹ ساله نروژ در بیمارستان بستری شد",
-      "lead_fa": "هارالد پنجم، مسن‌ترین پادشاه اروپا، به دلیل کم‌خونی در بیمارستانی در اسلو بستری شد. دربار نروژ اعلام کرد که او دستکم دو هفته آینده را در استراحت پزشکی خواهد گذراند.",
-      "key_points_fa": [
-        "هارالد پنجم، پادشاه نروژ، ۸۹ سال سن دارد.",
-        "او پیش‌تر در اواخر سال گذشته نیز به دلیل عفونت در بیمارستان بستری شده بود.",
-        "دربار نروژ غیبت دو هفته‌ای او را به دلیل بیماری تأیید کرد."
-      ],
-      "analysis_fa": "بستری شدن مجدد پادشاه نروژ توجه‌ها را به وضعیت سلامت او و آینده نهاد سلطنت در این کشور جلب کرده است. با وجود کهولت سن و بروز مشکلات پزشکی پیاپی، دربار نروژ تلاش می‌کند با اطلاع‌رسانی شفاف، ثبات امور را حفظ کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#نروژ",
-        "#پادشاه_نروژ",
-        "#اخبار_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "03c6228855bf",
-      "source": "EL PAÍS",
-      "title": "La expulsión definitiva de dos concejales díscolos reduce a Vox a su mínima expresión en la ciudad de Madrid",
-      "summary": "Carla Toscano e Ignacio Ansaldo se suman a Javier Ortega Smith como no adscritos y dejan a la formación ultra con solo dos ediles",
-      "url": "https://elpais.com/espana/madrid/2026-08-17/la-expulsion-definitiva-de-dos-concejales-discolos-reduce-a-vox-a-su-minima-expresion-en-la-ciudad-de-madrid.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/W37V3RITLZHYDOMODMX7CJPANI.jpg?auth=8d328be9c9ceaf25447e30473beb7a5d46a7d34b5066cba5a8a372d0ffb7e2fa",
-      "published_at": "2026-08-17T17:55:55+00:00",
-      "category": "politica",
-      "priority": 69,
-      "title_fa": "کاهش اعضای حزب وکس در شورای شهر مادرید به دنبال اخراج دو عضو دیگر",
-      "lead_fa": "حزب راست افراطی وکس در شورای شهر مادرید با اخراج قطعی دو عضو دیگر تضعیف شد. کارلا توسکانو و ایگناسیو آنسالدو به عنوان نمایندگان غیرمرتبط به کار خود ادامه می‌دهند.",
-      "key_points_fa": [
-        "کارلا توسکانو و ایگناسیو آنسالدو از حزب وکس اخراج شدند.",
-        "این دو عضو به همراه خاویر اورتگا اسمیت به عنوان نمایندگان غیرمرتبط ثبت شدند.",
-        "حزب وکس اکنون تنها دو عضو در شورای شهر مادرید دارد."
-      ],
-      "analysis_fa": "این تحولات نشان‌دهنده تنش‌های داخلی و انشعاب در میان نمایندگان حزب وکس در سطح شهرداری مادرید است که می‌تواند قدرت نفوذ این جریان سیاسی را در نهادهای محلی کاهش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مادرید",
-        "#وکس",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ae9fd7709e34",
       "source": "La Vanguardia",
       "title": "Suben a 64 las muertes por calor en la Comunidad Valenciana en la primera quincena de agosto",
@@ -1986,87 +2000,69 @@
       "editorial_version": 2
     },
     {
-      "id": "a898de9f0649",
+      "id": "2a0b3834387e",
       "source": "La Vanguardia",
-      "title": "El Supremo ratifica el veredicto por abuso sexual contra Trump en el caso Carroll",
-      "summary": "La máxima instancia judicial de EE.UU., controlada por jueces conservadores, de los que tres fueron nombrados por el actual mandatario, niega por segunda vez el intento del presidente de anular la sentencia civil de cinco millones para la escritora E. Jean Carroll, por abuso sexual",
-      "url": "https://www.lavanguardia.com/internacional/20260817/11615460/trump-culpable-nuevo-tribunal-supremo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/14/6a566aab3dc6e.r_d.1600-1200-0.jpeg",
-      "published_at": "2026-08-17T17:08:59+02:00",
+      "title": "El gobierno valenciano cifra en 40 millones el impacto de la actividad de Disney en 2026",
+      "summary": "La Generalitat ha concedido a la producción una subvención de 5 millones de euros, lo que representa aproximadamente el 12,5% del gasto que se prevé realizar en la autonomía",
+      "url": "https://www.lavanguardia.com/local/valencia/20260817/11615175/gobierno-valenciano-cifra-40-millones-impacto-actividad-disney-2026.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a69c55b92eb5.r_d.2065-1425-0.jpeg",
+      "published_at": "2026-08-17T12:23:51+02:00",
+      "category": "politica",
+      "priority": 69,
+      "title_fa": "El gobierno valenciano cifra en 40 millones el impacto de la actividad de Disney en 2026",
+      "lead_fa": "La Generalitat ha concedido a la producción una subvención de 5 millones de euros, lo que representa aproximadamente el 12,5% del gasto que se prevé realizar en la autonomía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "46ef21617833",
+      "source": "La Vanguardia",
+      "title": "“A veces creemos decidir… y decide un microorganismo”",
+      "summary": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
+      "url": "https://www.lavanguardia.com/lacontra/20260818/11615504/raul-rivas-veces-creemos-decidir-decide-microorganismo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a833aa6182db.r_d.4123-1116-0.jpeg",
+      "published_at": "2026-08-18T00:05:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "دیوان عالی آمریکا درخواست تجدیدنظر ترامپ در پرونده آزار جنسی را رد کرد",
-      "lead_fa": "دیوان عالی ایالات متحده برای دومین بار تلاش دونالد ترامپ برای لغو حکم محکومیت مدنی در پرونده کارول را رد کرد. دادگاه عالی درخواست تجدیدنظر رئیس‌جمهور منتخب را نپذیرفت.",
-      "key_points_fa": [
-        "دیوان عالی آمریکا درخواست لغو حکم پنج میلیون دلاری پرداخت به ای. جین کارول را رد کرد.",
-        "این پرونده مربوط به اتهامات آزار جنسی و افترا علیه دونالد ترامپ است."
-      ],
-      "analysis_fa": "این تصمیم دیوان عالی مسیر حقوقی برای به چالش کشیدن حکم صادر شده را برای دونالد ترامپ بست و یکی از موانع قانونی مرتبط با این پرونده مدنی را تثبیت کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "“A veces creemos decidir… y decide un microorganismo”",
+      "lead_fa": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#آمریکا",
-        "#دونالد_ترامپ",
-        "#دیوان_عالی"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
-      "id": "8ed7950648a1",
+      "id": "ea805386e29c",
       "source": "La Vanguardia",
-      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "summary": "Gamarra detalla el plan de los de Feijóo para “restablecer la soberanía” en la ciudad autónoma que incluye intervenciones del Ejército",
-      "url": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83099bd48b4.jpeg",
-      "published_at": "2026-08-17T13:47:58+02:00",
-      "category": "migracion",
-      "priority": 67,
-      "title_fa": "درخواست حزب مردمی برای فرماندهی واحد و بازگرداندن مهاجران در سئوتا",
-      "lead_fa": "حزب مردمی اسپانیا خواستار برقراری فرماندهی واحد در سئوتا شد. این طرح شامل مداخله ارتش و بازگرداندن تمامی مهاجران است.",
-      "key_points_fa": [
-        "تاکید حزب مردمی بر بازگرداندن حاکمیت در سئوتا",
-        "پیشنهاد مداخله ارتش در شهر خودمختار سئوتا",
-        "درخواست بازگرداندن مهاجران صرف نظر از سن آن‌ها"
-      ],
-      "analysis_fa": "این موضع‌گیری نشان‌دهنده رویکرد سخت‌گیرانه اپوزیسیون در قبال مدیریت مرزی و بحران‌های مهاجرتی در مناطق مرزی اسپانیا است و بحث‌ها درباره نحوه استفاده از نیروهای نظامی در کنترل مرزها را تشدید می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title": "La Barcelona diplomática",
+      "summary": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
+      "url": "https://www.lavanguardia.com/opinion/20260818/11615510/casa-asia-upm-casa-america-pedralbes-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a833318d2c6c.jpeg",
+      "published_at": "2026-08-18T00:00:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "La Barcelona diplomática",
+      "lead_fa": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "2326fc75dbb4",
-      "source": "EL PAÍS",
-      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a las “muy buenas relaciones” de EE UU con Kim Jong-un",
-      "summary": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-      "url": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2JOC47F745ISFDGV5GUBQOGV2I.jpg?auth=a0faa095550d27258e69df0343b8fa8d8be4b4582456ed0e065a4450259bbb05",
-      "published_at": "2026-08-17T12:29:29+00:00",
-      "category": "politica",
-      "priority": 67,
-      "title_fa": "کاهش رزمایش‌های نظامی آمریکا و کره جنوبی توسط ترامپ",
-      "lead_fa": "دونالد ترامپ از کاهش رزمایش‌های نظامی مشترک با کره جنوبی خبر داد. او دلیل این تصمیم را روابط خوب با کیم جونگ اون و انتقاد از عدم همکاری سئول در مسئله ایران عنوان کرد.",
-      "key_points_fa": [
-        "کاهش تمرینات نظامی مشترک آمریکا و کره جنوبی",
-        "اشاره ترامپ به روابط بسیار خوب با رهبر کره شمالی",
-        "انتقاد رئیس‌جمهور آمریکا از عدم همکاری سئول در جنگ با ایران"
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده تغییر در اولویت‌های استراتژیک ایالات متحده در شبه‌جزیره کره و تأثیرگذاری تحولات خاورمیانه بر روابط سنتی واشنگتن با متحدان آسیایی‌اش است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#کره_جنوبی",
-        "#ترامپ",
-        "#دیپلماسی"
-      ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2098,7 +2094,7 @@
     },
     {
       "id": "2f1a914bb862",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Pedraz asume todo el ‘caso Leire’ al incorporar los 14 tomos del sumario que instruía un juez de Madrid",
       "summary": "Zamarriego remite a la Audiencia Nacional su causa al aceptar la semana pasada que ambas están “indisolublemente” unidas",
       "url": "https://elpais.com/espana/2026-08-17/pedraz-asume-todo-el-caso-leire-al-incorporar-los-14-tomos-del-sumario-que-instruia-un-juez-de-madrid.html",
@@ -2126,7 +2122,7 @@
     },
     {
       "id": "c82f31300e81",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
       "summary": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
       "url": "https://elpais.com/espana/2026-08-17/la-guardia-civil-lanza-un-amplio-dispositivo-para-localizar-a-los-autores-del-ajuste-de-cuentas-de-isla-cristina.html",
@@ -2408,118 +2404,6 @@
       "editorial_version": 2
     },
     {
-      "id": "fb7f36e5368d",
-      "source": "EL PAÍS",
-      "title": "¿Hay que leer a los clásicos?",
-      "summary": "Es difícil que la literatura del pasado fascine a los más jóvenes como a nosotros, pero debemos sembrar en ellos la curiosidad",
-      "url": "https://elpais.com/opinion/2026-08-17/hay-que-leer-a-los-clasicos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VGON5XD6SJD2NECNVMKIQY4734.jpg?auth=3b74ac5e169187baf306acec7284f4cac54e43e86ffe63fb7190d56fba8e028b",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 64,
-      "title_fa": "آیا باید آثار کلاسیک را مطالعه کرد؟",
-      "lead_fa": "ادبیات گذشتگان شاید برای جوانان امروزی به اندازه نسل‌های قبل جذاب نباشد. با این حال، ترویج کنجکاوی نسبت به این آثار وظیفه‌ای مهم به شمار می‌رود.",
-      "key_points_fa": [
-        "چالش جذابیت ادبیات کلاسیک برای نسل جوان",
-        "لزوم ایجاد انگیزه و کنجکاوی نسبت به متون کهن"
-      ],
-      "analysis_fa": "بررسی ارزش متون کلاسیک و نحوه انتقال میراث ادبی به نسل‌های جدید، همواره از دغدغه‌های اهالی فرهنگ بوده است. یافتن راه‌های نوین برای نزدیک کردن جوانان به ادبیات گذشته، نیازمند بازنگری در روش‌های آموزشی وترویجی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ادبیات",
-        "#کلاسیک",
-        "#فرهنگ",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8173ee8250d1",
-      "source": "EL PAÍS",
-      "title": "Monstruosamente normal",
-      "summary": "Tratar la violencia machista como una sucesión de tragedias individuales es lo que ha permitido que siga siendo una epidemia que sufren las mujeres",
-      "url": "https://elpais.com/opinion/2026-08-17/monstruosamente-normal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q2TU6HTETNCDFC4OFIJBKCZN5E.jpg?auth=dd8669fcf8896e1091d441375646dda3f49451c1dd3f8b85cca24521fa925c43",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "خشونت علیه زنان؛ عادی‌سازی فاجعه‌ای که اپیدمی شده است",
-      "lead_fa": "بررسی‌های جدید نشان می‌دهد برخورد با خشونت علیه زنان به عنوان حوادث فردی، مانع ریشه‌کنی این بحران شده است. این پدیده همچنان به عنوان یک اپیدمی گسترده سلامت و امنیت عمومی را تهدید می‌کند.",
-      "key_points_fa": [
-        "نگاه به خشونت علیه زنان به عنوان مجموعه‌ای از تراژدی‌های فردی نادرست است",
-        "این رویکرد باعث شده است خشونت همچنان به عنوان یک اپیدمی ادامه یابد",
-        "لزوم تغییر در سیاست‌های مقابله با خشونت‌های جنسیتی در جامعه"
-      ],
-      "analysis_fa": "این تحلیل بر این مسئله تأکید دارد که عادی‌سازی خشونت علیه زنان و تقلیل آن به اختلافات شخصی، مانع اصلی در برابر شناسایی ابعاد ساختاری این مشکل است. تا زمانی که این پدیده به عنوان یک اورژانس اجتماعی و ساختاری دیده نشود، سیاست‌های پیشگیرانه اثربخشی لازم را نخواهند داشت.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#خشونت_علیه_زنان",
-        "#اسپانیا",
-        "#جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "2c2dc2dc6221",
-      "source": "EL PAÍS",
-      "title": "Riki Blanco: cuerpo y mente",
-      "summary": "Viñeta del 17 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-17/riki-blanco-cuerpo-y-mente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2VCQG6JKENDJFMVBLGRNMJOQPQ.jpg?auth=323bbc3d6b6ea478380bdff1c5e45cace91f45e2fabf5f270bd0f620ae7b899a",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "کاریکاتور روز ریک بلانکو",
-      "lead_fa": "انتشار کاریکاتور جدیدی از ریک بلانکو در روزنامه ال پائیس. این اثر به موضوع ارتباط جسم و ذهن پرداخته است.",
-      "key_points_fa": [
-        "اثر جدید ریک بلانکو منتشر شد.",
-        "موضوع اصلی کاریکاتور ارتباط میان جسم و ذهن است."
-      ],
-      "analysis_fa": "این اثر بخشی از مجموعه کاریکاتورهای موضوعی است که به بررسی ابعاد مختلف روان‌شناختی و انسانی می‌پردازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ریک_بلانکو",
-        "#کاریکاتور",
-        "#ال_پائیس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c2ce1efbc4a1",
-      "source": "EL PAÍS",
-      "title": "Una lectora: “La burocracia ataca la dignidad de las afganas”",
-      "summary": "Las cartas al director critican la actuación de las las embajadas españolas en Irán y Pakistán, la situación de los servicios en Ceuta, el trabajo presencial y la presión sobre las madres",
-      "url": "https://elpais.com/opinion/2026-08-17/una-lectora-la-burocracia-ataca-la-dignidad-de-las-afganas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EHGX3N4H6VBZZBY2QUECEV5QDY.jpg?auth=dba955a377f7abfef8924d44913c440e96fdd9179c03de084a0b59921f4f9159",
-      "published_at": "2026-08-17T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "انتقاد از عملکرد سفارتخانه‌های اسپانیا در قبال زنان افغان",
-      "lead_fa": "نامه‌های خوانندگان به روزنامه ال‌پائیس به انتقاد از روند بوروکراتیک سفارتخانه‌های اسپانیا در ایران و پاکستان پرداخته‌اند. این نامه‌ها تاکید می‌کنند که موانع اداری کرامت زنان افغان را نشانه رفته است.",
-      "key_points_fa": [
-        "انتقاد شدید از بوروکراسی سفارتخانه‌های اسپانیا در ایران و پاکستان",
-        "تاثیر منفی موانع اداری بر وضعیت زنان افغان",
-        "طرح انتقاداتی درباره خدمات سئوتا و فشارهای کاری مادران در بخش نامه‌های مردمی"
-      ],
-      "analysis_fa": "بخش نامه‌های خوانندگان در رسانه‌های اسپانیایی معمولاً بازتاب‌دهنده دغدغه‌های ملموس شهروندان و گروه‌های آسیب‌پذیر است. تمرکز بر وضعیت پناه‌جویان و مشکلات اداری، چالش‌های نهادی در رسیدگی به پرونده‌های انسانی را برجسته می‌کند بدون اینکه لزوماً به تغییر فوری سیاست‌ها منجر شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#زنان_افغان",
-        "#اسپانیا",
-        "#مهاجرت",
-        "#بوروکراسی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e9a11c177ba4",
       "source": "EL PAÍS España",
       "title": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
@@ -2543,91 +2427,6 @@
         "#اسپانیا",
         "#ویگو",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "889a431043f4",
-      "source": "EL PAÍS",
-      "title": "“En realidad, estoy poniendo la lavadora”: cuando el ‘sexting’ se convierte en la nueva manera de fingir y complacer",
-      "summary": "Enviar mensajes subidos de tono puede ser una forma de mantener vivo el deseo, pero cuando una de las partes finge excitación mientras hace cualquier actividad ajena a la libido, se transforma en una trampa",
-      "url": "https://elpais.com/smoda/bienestar/2026-08-17/en-realidad-estoy-poniendo-la-lavadora-cuando-el-sexting-se-convierte-en-la-nueva-manera-de-fingir-y-complacer.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XCV5Y56EDBDFXO6F6JFDVUXWVE.jpg?auth=5733fe4d2b03b9cbfc27a7f7dbd86c2cbf8b5d313e1385f0eca4e50d332483df",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "پدیده جدید در روابط: سکستینگ به ابزاری برای تظاهر و خشنودی تبدیل می‌شود",
-      "lead_fa": "ارسال پیام‌های با محتوای جنسی می‌تواند راهی برای حفظ میل باشد. با این حال، زمانی که یکی از طرفین در حال انجام کارهای روزمره تظاهر به برانگیختگی می‌کند، این رابطه به یک دام تبدیل می‌شود.",
-      "key_points_fa": [
-        "ارسال پیام‌های جنسی گاهی به عنوان ابزاری برای حفظ میل در روابط استفاده می‌شود.",
-        "تظاهر به برانگیختگی در حین انجام فعالیت‌های روزمره یکی از جنبه‌های جدید این پدیده است.",
-        "این رفتار ساختگی می‌تواند به جای نزدیکی واقعی، به یک فریب و دام در ارتباط عاطفی تبدیل شود."
-      ],
-      "analysis_fa": "این پدیده نشان‌دهنده تحول در نحوه ارتباطات عاطفی و جنسی در عصر دیجیتال است. تظاهر به تمایل جنسی در قالب پیام‌های متنی، پیچیدگی‌های جدیدی را در روابط مدرن ایجاد کرده که نیازمند بازنگری در کیفیت ارتباطات زوج‌هاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#روابط_عاطفی",
-        "#فناوری",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f33478531704",
-      "source": "EL PAÍS",
-      "title": "Gominolas de vinagre de manzana: ¿son la solución para el abdomen perfecto este verano?",
-      "summary": "Algunos ‘influencers’ han remplazado el vinagre de manzana por este chuche que promete desinflamar el estómago y mejorar la digestión",
-      "url": "https://elpais.com/videos/2026-08-17/gominolas-de-vinagre-de-manzana-son-la-solucion-para-el-abdomen-perfecto-este-verano.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204300_122239_video_1800.mp4",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "آب‌نبات‌های سرکه سیب؛ ترند تابستانی برای شکم تخت یا ادعایی اغراق‌آمیز؟",
-      "lead_fa": "برخی از اینفلونسرهای شبکه‌های اجتماعی استفاده از پاستیل‌های سرکه سیب را جایگزین مایع آن کرده‌اند. این محصولات وعده کاهش نفخ شکم و بهبود هضم غذا را به مصرف‌کنندگان می‌دهند.",
-      "key_points_fa": [
-        "جایگزینی پاستیل‌های سرکه سیب به جای مایع سنتی آن در میان اینفلونسرها",
-        "ادعای کمک به کاهش التهاب معده و بهبود هضم غذا",
-        "ترند شدن این محصولات در آستانه فصل تابستان"
-      ],
-      "analysis_fa": "رواج محصولات جدید مکمل در شبکه‌های اجتماعی معمولاً پیش از تاییدیه قطعی علمی رخ می‌دهد. استفاده از شکل‌های جایگزین مواد غذایی سنتی، مانند پاستیل‌های سرکه سیب، نشان‌دهنده تمایل بازار به روش‌های آسان‌تر مصرف است، هرچند اثربخشی واقعی آن‌ها نیازمند بررسی‌های پزشکی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سلامتی",
-        "#اسپانیا",
-        "#تغذیه",
-        "#شبکه‌های_اجتماعی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c3b6c38a7e37",
-      "source": "EL PAÍS España",
-      "title": "El diablo del yo y las 80 tumbas sin nombre",
-      "summary": "El ego es ya el guionista de nuestras vidas, pero hay cosas más importantes que solucionar",
-      "url": "https://elpais.com/opinion/2026-08-16/el-diablo-del-yo-y-las-80-tumbas-sin-nombre.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4",
-      "published_at": "2026-08-16T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "تسلط منیت بر زندگی انسان و راز گورهای بی‌نام",
-      "lead_fa": "بر اساس یادداشتی در روزنامه ال‌پائیس، ایگو و منیت به نویسنده زندگی ما تبدیل شده است. با این حال، مسائل مهم‌تری وجود دارد که باید به آن‌ها پرداخت.",
-      "key_points_fa": [
-        "نقش محوری ایگو در شکل‌دهی به سبک زندگی مدرن",
-        "وجود مسائل حیاتی فراتر از خودشیفتگی فردی",
-        "اشاره به رازهای حل‌نشده مربوط به گورهای بی‌نام و نشان"
-      ],
-      "analysis_fa": "این یادداشت نگاهی انتقادی به اصالت‌بخشی به منیت در دنیای امروز دارد و نشان می‌دهد که چگونه توجه بیش از حد به فردیت، مسائل کلان‌تر اجتماعی و انسانی را در حاشیه قرار می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#جامعه",
-        "#روانشناسی",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2729,7 +2528,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a823fa3b7204.r_d.505-386-0.jpeg",
       "published_at": "2026-08-17T00:11:37+02:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
       "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
       "key_points_fa": [],
@@ -2772,7 +2571,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 145
     },
     {
       "source": "EL PAÍS España",
@@ -2787,7 +2586,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 133
+      "count": 130
     }
   ]
 }
