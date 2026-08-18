@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:39:07.555869+00:00",
+  "generated_at": "2026-08-18T18:00:38.957005+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "551cea927b0f",
@@ -265,7 +265,7 @@
     {
       "id": "91c703f845cc",
       "source": "EL PAÍS",
-      "title": "Muere a los 83 años el mago Juan Tamariz, genio de la cartomancia y maestro de generaciones de ilusionistas",
+      "title": "Muere a los 83 años el mago Juan Tamariz, genio de la cartomagia y maestro de generaciones de ilusionistas",
       "summary": "El mítico artista, idolatrado por sus compañeros y el público, y popular por su éxito televisivo, empezó a hacer trucos con cartas a los cuatro años",
       "url": "https://elpais.com/cultura/2026-08-18/muere-a-los-83-anos-el-mago-juan-tamariz-genio-de-la-cartomagia-y-maestro-de-generaciones-de-ilusionistas.html",
       "image": "https://imagenes.elpais.com/resizer/v2/SGQCCKDQNNA3TJWABGO3SAGJUI.jpg?auth=5fb9bb7e035297e2f97512b9c0373859605fdc26c2baf4e8d8c4af16327f217f",
@@ -638,18 +638,24 @@
       "url": "https://elpais.com/mexico/2026-08-18/un-profesor-en-boston-devuelve-a-mexico-mas-de-1100-piezas-prehispanicas.html",
       "image": "https://imagenes.elpais.com/resizer/v2/NTFUY35GVZB6VFINNLLSXMP3CA.jpeg?auth=f57a5c0b5faf46b30fe9921cce661418d53447b37da82a9628db256658c1d97a",
       "published_at": "2026-08-18T16:35:51+00:00",
-      "category": "economia",
+      "category": "cultura",
       "priority": 75,
-      "title_fa": "Un profesor en Boston devuelve a México más de 1.100 piezas prehispánicas",
-      "lead_fa": "Más de 40 alumnos de preparatoria participaron en el proceso de clasificación de los objetos antes de ser entregados en el consulado mexicano",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگرداندن بیش از ۱۱۰۰ قطعه باستانی مکزیک توسط معلمی در بوستون",
+      "lead_fa": "یک معلم در بوستون بیش از ۱۱۰۰ قطعه باستانی متعلق به مکزیک را به این کشور بازگرداند. بیش از ۴۰ دانش‌آموز دبیرستانی در فرآیند دسته‌بندی این آثار پیش از تحویل به کنسولگری مکزیک مشارکت داشتند.",
+      "key_points_fa": [
+        "استرداد بیش از ۱۱۰۰ قطعه باستانی مکزیک از بوستون",
+        "مشارکت بیش از ۴۰ دانش‌آموز در دسته‌بندی اشیاء",
+        "تحویل رسمی آثار به کنسولگری مکزیک"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده افزایش تلاش‌ها برای بازگرداندن میراث فرهنگی به کشورهای مبدأ و مشارکت نهادهای آموزشی در این روند است. چنین اقداماتی می‌تواند به تقویت دیپلماسی فرهنگی و آگاهی‌بخشی به نسل جوان درباره حفظ آثار تاریخی کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مکزیک",
+        "#میراث_فرهنگی",
+        "#باستان‌شناسی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1061,16 +1067,23 @@
       "published_at": "2026-08-18T09:24:20+02:00",
       "category": "politica",
       "priority": 72,
-      "title_fa": "El Gobierno desvincula la veintena de contagios de sarna en el ejército de la llegada masiva de inmigrantes a Ceuta",
-      "lead_fa": "Defensa apunta que se trata de “una infección común en zonas de elevada humedad”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دولت اسپانیا شیوع گرب در ارتش را به ورود مهاجران به سبته مرتبط ندانست",
+      "lead_fa": "وزارت دفاع اسپانیا ابتلا حدود بیست نظامی به بیماری گرب را رد کرد. این نهاد اعلام کرد این عفونت در مناطق با رطوبت بالا رایج است.",
+      "key_points_fa": [
+        "ابتلا حدود بیست نفر از نظامیان اسپانیایی به بیماری گرب",
+        "رد ارتباط میان شیوع این بیماری و ورود گسترده مهاجران به سبته",
+        "توضیح وزارت دفاع درباره شیوع عفونت در مناطق مرطوب"
+      ],
+      "analysis_fa": "این موضع‌گیری دولت تلاشی برای جلوگیری از بهره‌برداری سیاسی از موضوع مهاجرت و تفکیک مسائل بهداشتی ارتش از تحولات مرزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجرت",
+        "#ارتش"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1103,28 +1116,6 @@
       "editorial_version": 2
     },
     {
-      "id": "120a2f9aaf80",
-      "source": "EL PAÍS Economía",
-      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "lead_fa": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0c7f3abeb2b7",
       "source": "EL PAÍS",
       "title": "Algo más que gestos en Venezuela",
@@ -1134,16 +1125,22 @@
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "politica",
       "priority": 71,
-      "title_fa": "Algo más que gestos en Venezuela",
-      "lead_fa": "El pacto para renovar el Tribunal Supremo no puede quedarse en un avance simbólico sin transformación real del régimen",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فراتر از نمادگرایی در ونزوئلا: توافق دادگاه عالی",
+      "lead_fa": "توافق اخیر برای تجدید ساختار دادگاه عالی ونزوئلا نباید تنها به یک اقدام نمادین محدود شود. این رویداد نیازمند تحولی واقعی در ساختار سیاسی این کشور است.",
+      "key_points_fa": [
+        "توافق بر سر تغییرات در دادگاه عالی ونزوئلا",
+        "لزوم فراتر رفتن توافق از جنبه‌های نمادین",
+        "درخواست برای ایجاد تحول واقعی در رژیم سیاسی"
+      ],
+      "analysis_fa": "این توافق نشان‌دهنده تحرکی سیاسی در ونزوئلا است، اما چالش اصلی در اجرای عملی و میزان تمایل حاکمیت به ایجاد تغییرات ساختاری و بنیادین باقی می‌ماند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ونزوئلا",
+        "#سیاست",
+        "#دادگاه_عالی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1213,6 +1210,28 @@
       "editorial_version": 2
     },
     {
+      "id": "675d5f81c8de",
+      "source": "EL PAÍS",
+      "title": "El Barcelona presenta a Rodri hasta 2030: “El Barça está a un paso de ganar la ansiada Champions”",
+      "summary": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou: “El centro del campo es espectacular. Quiero transmitir las ganas de seguir mejorando”",
+      "url": "https://elpais.com/deportes/futbol/2026-08-18/el-barcelona-anuncia-el-fichaje-de-rodri-hasta-2030.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NMZZ5GTL75DCNCCKOS5WWKO3NE.JPG?auth=300606785e1faf546cbc221b48f7dc92e40e18d9f6af48a0ea01c4cbf764cc7d",
+      "published_at": "2026-08-18T17:56:42+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "El Barcelona presenta a Rodri hasta 2030: “El Barça está a un paso de ganar la ansiada Champions”",
+      "lead_fa": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou: “El centro del campo es espectacular. Quiero transmitir las ganas de seguir mejorando”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f5984a5ee87e",
       "source": "La Vanguardia",
       "title": "OpenAI lanza 'ChatGPT para adolescentes', una versión más protegida y orientada al aprendizaje",
@@ -1246,28 +1265,6 @@
       "priority": 70,
       "title_fa": "Granada, 1431: dos seísmos mayores que los actuales causaron destrozos en la Alhambra",
       "lead_fa": "Un temblor en abril de magnitud 6,7 y un segundo sismo en julio de magnitud 6,8 dejaron un caudal de destrozos recogidos por las crónicas de la época",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "675d5f81c8de",
-      "source": "EL PAÍS",
-      "title": "El Barcelona anuncia el fichaje de Rodri hasta 2030",
-      "summary": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou",
-      "url": "https://elpais.com/deportes/futbol/2026-08-18/el-barcelona-anuncia-el-fichaje-de-rodri-hasta-2030.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NMZZ5GTL75DCNCCKOS5WWKO3NE.JPG?auth=300606785e1faf546cbc221b48f7dc92e40e18d9f6af48a0ea01c4cbf764cc7d",
-      "published_at": "2026-08-18T17:04:26+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "El Barcelona anuncia el fichaje de Rodri hasta 2030",
-      "lead_fa": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1483,28 +1480,6 @@
       "editorial_version": 2
     },
     {
-      "id": "24442b6085e2",
-      "source": "EL PAÍS España",
-      "title": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
-      "summary": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
-      "url": "https://elpais.com/espana/2026-08-18/bruselas-avala-el-retorno-a-marruecos-de-los-menores-migrantes-no-acompanados-que-permanezcan-en-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205554_122031_video_1800.mp4",
-      "published_at": "2026-08-18T11:49:10+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
-      "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "62f26811c515",
       "source": "La Vanguardia",
       "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
@@ -1604,6 +1579,28 @@
       "priority": 68,
       "title_fa": "El Atlético no da su brazo a torcer con Julián Álvarez: “Armaremos un equipo para él”",
       "lead_fa": "Simeone va en la misma línea que Miguel Ángel Gil Marín (“como en un juicio, no ha lugar”) y confiesa que al delantero le falta ritmo por lo que no jugará este miércoles ante el Málaga (21.00h)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "24442b6085e2",
+      "source": "EL PAÍS España",
+      "title": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
+      "summary": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
+      "url": "https://elpais.com/espana/2026-08-18/bruselas-avala-el-retorno-a-marruecos-de-los-menores-migrantes-no-acompanados-que-permanezcan-en-ceuta.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205554_122031_video_1800.mp4",
+      "published_at": "2026-08-18T11:49:10+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
+      "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2044,6 +2041,28 @@
       "priority": 66,
       "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
       "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "37e5c946cf96",
+      "source": "EL PAÍS Economía",
+      "title": "Europa y la tentación de vigilar para proteger",
+      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "ciencia",
+      "priority": 66,
+      "title_fa": "Europa y la tentación de vigilar para proteger",
+      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
