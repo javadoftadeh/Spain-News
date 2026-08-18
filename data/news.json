@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:57:41.749669+00:00",
+  "generated_at": "2026-08-18T23:33:40.024687+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "60469daaa078",
@@ -1737,28 +1737,6 @@
       "editorial_version": 2
     },
     {
-      "id": "67186aeb658f",
-      "source": "La Vanguardia",
-      "title": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
-      "summary": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "url": "https://www.lavanguardia.com/vida/20260818/11615912/meena-minal-ninas-adoptadas-amigas-hermanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8438a352cf4.r_d.1984-1179-0.jpeg",
-      "published_at": "2026-08-18T13:06:44+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
-      "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "14232c035536",
       "source": "EL PAÍS España",
       "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
@@ -1766,18 +1744,25 @@
       "url": "https://elpais.com/espana/2026-08-18/una-operacion-policial-conjunta-entre-espana-y-francia-desmantela-una-red-de-traslado-ilicito-de-migrantes.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205591_140810_video_1800.mp4",
       "published_at": "2026-08-18T12:41:05+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 67,
-      "title_fa": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
-      "lead_fa": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انهدام شبکه قاچاق مهاجران در عملیات مشترک پلیس اسپانیا و فرانسه",
+      "lead_fa": "پلیس اسپانیا و فرانسه در یک عملیات مشترک، شبکه ای سه نفره را در زمینه انتقال غیرقانونی مهاجران متلاشی کردند. هر سه عضو این شبکه دستگیر شده اند.",
+      "key_points_fa": [
+        "سه عضو این شبکه قاچاق انسان بازداشت شدند.",
+        "این باند دست کم ۲۰ سفر غیرقانونی انجام داده است.",
+        "مهاجران در هر بار جابجایی بین آلیکانته و مرز لاونکرا حدود پنج نفر بودند."
+      ],
+      "analysis_fa": "این عملیات نشان دهنده همکاری های فرامرزی میان نهادهای انتظامی اسپانیا و فرانسه برای مقابله با باندهای قاچاق مهاجران در مسیرهای مرزی است. چنین اقداماتی بر چالش های امنیتی و مهاجرتی در مرزهای اتحادیه اروپا تاکید می کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجرت",
+        "#اسپانیا",
+        "#فرانسه",
+        "#پلیس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1790,16 +1775,22 @@
       "published_at": "2026-08-18T12:10:29+00:00",
       "category": "cultura",
       "priority": 67,
-      "title_fa": "Pep Guardiola muestra su lado más personal en un documental: “Me voy a divorciar de la mujer más bella”",
-      "lead_fa": "El entrenador protagoniza una serie de cuatro capítulos que llega este miércoles a Prime Video y que sigue sus dos últimos años en el Manchester City",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پپ گواردیولا در یک مستند جدید ابعاد شخصی زندگی خود را به نمایش گذاشت",
+      "lead_fa": "سرمربی منچسترسیتی ستاره یک مستند چهار قسمتی جدید شده است. این مجموعه از روز چهارشنبه در آمازون پرایم ویدیو منتشر می‌شود.",
+      "key_points_fa": [
+        "این مستند چهار قسمتی دو سال اخیر فعالیت پپ گواردیولا در منچسترسیتی را روایت می‌کند.",
+        "مجموعه مذکور از روز چهارشنبه روی پلتفرم پرایم ویدیو قرار می‌گیرد."
+      ],
+      "analysis_fa": "این مستند نگاهی تازه به جنبه‌های کمتر دیده‌شده از زندگی حرفه‌ای و شخصی یکی از سرشناس‌ترین مربیان فوتبال جهان دارد و می‌تواند توجه هواداران فوتبال را در سراسر جهان به خود جلب کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#گواردیولا",
+        "#فوتبال",
+        "#مستند",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1810,10 +1801,38 @@
       "url": "https://elpais.com/espana/2026-08-18/bruselas-avala-el-retorno-a-marruecos-de-los-menores-migrantes-no-acompanados-que-permanezcan-en-ceuta.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205554_122031_video_1800.mp4",
       "published_at": "2026-08-18T11:49:10+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 67,
-      "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
-      "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
+      "title_fa": "کمیسیون اروپا بازگرداندن کودکان مهاجر سبته به مراکش را تایید کرد",
+      "lead_fa": "کمیسیون اروپا اعلام کرد حقوق اتحادیه اروپا بازگرداندن تمامی مهاجران غیرقانونی را مجاز می‌داند. این تصمیم شامل کودکان مهاجر بدون همراه در سبته نیز می‌شود.",
+      "key_points_fa": [
+        "تایید قانونی بازگرداندن مهاجران غیرقانونی توسط کمیسیون اروپا",
+        "شمول این رویه بر کودکان مهاجر بدون همراه در منطقه سبته",
+        "تطابق این اقدام با چارچوب حقوقی اتحادیه اروپا"
+      ],
+      "analysis_fa": "این موضع‌گیری کمیسیون اروپا چارچوب حقوقی مشخصی را برای مدیریت مهاجرت در مرزهای جنوبی اسپانیا فراهم می‌کند و می‌تواند رویه تازه‌ای در برخورد با پرونده‌های مشابه ایجاد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجران",
+        "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "67186aeb658f",
+      "source": "La Vanguardia",
+      "title": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
+      "summary": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
+      "url": "https://www.lavanguardia.com/vida/20260818/11615912/meena-minal-ninas-adoptadas-amigas-hermanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8438a352cf4.r_d.1984-1179-0.jpeg",
+      "published_at": "2026-08-18T13:06:44+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
+      "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1913,50 +1932,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5781520fd138",
-      "source": "EL PAÍS",
-      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
-      "published_at": "2026-08-18T07:57:44+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "300c76709867",
       "source": "EL PAÍS España",
       "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
@@ -2012,6 +1987,50 @@
       "priority": 65,
       "title_fa": "Rodri, más que un fichaje",
       "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5781520fd138",
+      "source": "EL PAÍS",
+      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
+      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
+      "published_at": "2026-08-18T07:57:44+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
