@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T04:48:28.415763+00:00",
+  "generated_at": "2026-08-18T05:41:51.735208+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
     "d4027161348c",
     "1243b47eb865",
     "d9298d38cd1f",
-    "47462903d9d1"
+    "8dabd493ba6a"
   ],
   "items": [
     {
@@ -134,16 +134,23 @@
       "published_at": "2026-08-18T03:15:00+00:00",
       "category": "politica",
       "priority": 82,
-      "title_fa": "Cambio de tono en Ceuta: Vivas pasa al choque contra el Gobierno por la crisis migratoria",
-      "lead_fa": "El presidente autonómico carga contra el Ejecutivo y escenifica el final de años de cordialidad institucional entre las administraciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "تغییر لحن در سبته: انتقاد شدید رئیس دولت محلی از دولت مرکزی",
+      "lead_fa": "خوان ویواس، رئیس دولت محلی سبته، حملات شدیدی را علیه دولت مرکزی آغاز کرد. این موضع‌گیری به سال‌ها روابط دوستانه نهادی میان دو اداره پایان داد.",
+      "key_points_fa": [
+        "آغاز درگیری سیاسی رئیس دولت سبته با دولت مرکزی",
+        "بحران مهاجرت عامل اصلی تغییر لحن مقام‌های محلی",
+        "پایان دوره طولانی همکاری و تنش‌زدایی نهادی"
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تغییر لحن آشکار نشان‌دهنده فشار فزاینده بحران مهاجرت بر نهادهای محلی سبته است. تشدید تنش میان دولت مرکزی و محلی می‌تواند بر نحوه مدیریت مرزها و تخصیص بودجه‌های اضطراری تأثیر بگذارد، هرچند ابعاد آینده این مناقشه هنوز به طور کامل روشن نیست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#سیاست"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -262,6 +269,33 @@
       "editorial_version": 2
     },
     {
+      "id": "b3c0b3196dde",
+      "source": "La Vanguardia",
+      "title": "Los restos del incendio de Les Gavarres: el bosque quemado que la noche no deja ver",
+      "summary": "La Ganga une Calonge con La Bisbal d’Empordà en dieciséis kilómetros. Hoy es una radiografía del incendio y casi nadie recuerda el desastre",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260818/11615265/bosque-quemado-noche-deja-ver.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82f3dc4164d.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "بازگشت خاموشی به جنگل‌های لِس گاوارِس پس از آتش‌سوزی",
+      "lead_fa": "جاده لانگا در منطقه کاتالونیا همچنان نشانه‌های آتش‌سوزی گذشته را به همراه دارد. با این حال، خاطره این فاجعه به تدریج در میان اهالی کم‌رنگ شده است.",
+      "key_points_fa": [
+        "مسیر ۱۶ کیلومتری لانگا اتصال‌دهنده کالونخه به لا بیسبال د امپوردا است.",
+        "این منطقه همچنان تصویری آشکار از خسارات وارده به طبیعت را نشان می‌دهد."
+      ],
+      "analysis_fa": "این گزارش وضعیت بازسازی و فراموشی تدریجی خسارات زیست‌محیطی در مناطق جنگلی اسپانیا را بازتاب می‌دهد و چالش‌های نظارت بر مناطق آسیب‌دیده را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#محیط_زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "d8b23bcc5fbf",
       "source": "EL PAÍS",
       "title": "Berrocal se salvó por quinta vez de las llamas con 12 vecinos escondidos para defender al pueblo: “El fuego se quedó a 50 metros”",
@@ -271,16 +305,22 @@
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Berrocal se salvó por quinta vez de las llamas con 12 vecinos escondidos para defender al pueblo: “El fuego se quedó a 50 metros”",
-      "lead_fa": "El último incendio ha arrasado el 90% de las 12.500 hectáreas de los montes de este municipio de Huelva y 33.000 de la provincia, según el último cálculo satelital",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "نجات روستای بروکال از آتش‌سوزی در اوئلوا",
+      "lead_fa": "آتش‌سوزی اخیر ۹۰ درصد از اراضی جنگلی منطقه بروکال در استان اوئلوا را خاکستر کرد. این پنجمین بار است که این روستا با تلاش اهالی از آتش نجات می‌یابد.",
+      "key_points_fa": [
+        "آتش‌سوزی ۹۰ درصد از ۱۲۵۰۰ هکتار اراضی جنگلی بروکال را نابود کرد.",
+        "در سطح استان اوئلوا نیز ۳۳۰۰۰ هکتار در آتش سوخت.",
+        "۱۲ نفر از اهالی برای دفاع از روستا در برابر شعله‌ها پنهان شده بودند."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این رویداد بار دیگر آسیب‌پذیری مناطق جنگلی و روستایی اسپانیا را در برابر آتش‌سوزی‌های گسترده تابستانی نشان می‌دهد. خسارت‌های وسیع به ثبت رسیده چالش‌های پیش روی مدیریت بحران و حفاظت از محیط زیست را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش‌سوزی",
+        "#محیط‌زیست"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -356,34 +396,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e7b4133db69c",
-      "source": "La Vanguardia",
-      "title": "Granada ha sufrido 348 terremotos desde el viernes, 37 de ellos percibidos",
-      "summary": "La provincia, en el sector central de las Béticas Orientales, es una de las zonas con mayor actividad y peligrosidad sísmica de la península",
-      "url": "https://www.lavanguardia.com/vida/20260817/11615497/granada-sufrido-348-terremotos-viernes-37-percibidos-poblacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80329267c05.jpeg",
-      "published_at": "2026-08-17T18:38:34+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "ثبت ۳۴۸ زمین‌لرزه در گرانادا از روز جمعه تاکنون",
-      "lead_fa": "استان گرانادا در جنوب اسپانیا از روز جمعه شاهد صدها زمین‌لرزه بوده است. از این تعداد، ۳۷ زلزله توسط شهروندان احساس شده است.",
-      "key_points_fa": [
-        "ثبت ۳۴۸ زمین‌لرزه از روز جمعه در گرانادا",
-        "احساس شدن ۳۷ مورد از این زلزله‌ها توسط مردم",
-        "قرار داشتن منطقه در یکی از کانون‌های فعال لرزه‌خیز شبه‌جزیره"
-      ],
-      "analysis_fa": "استان گرانادا به دلیل موقعیت زمین‌شناسی خود در بخش مرکزی سامانه بتیک، یکی از مناطق با بیشترین فعالیت و خطر لرزه‌خیزی در شبه‌جزیره ایبری محسوب می‌شود و وقوع دسته‌ای از زمین‌لرزه‌ها در آن سابقه دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#گرانادا",
-        "#زمین_لرزه",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "daa11839bdf4",
       "source": "EL PAÍS España",
       "title": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
@@ -440,33 +452,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ae155d7f989e",
-      "source": "La Vanguardia",
-      "title": "Hayden Panettiere, actriz de series como 'Nashville' y 'Héroes', muere a los 36 años",
-      "summary": "Conocida por sus papeles en series de televisión como ”Nashville” y “Héroes”, se desconocen las circunstancias del fallecimiento",
-      "url": "https://www.lavanguardia.com/gente/20260817/11615038/muere-actriz-estadounidense-hayden-panettiere-36-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a829b987530d.r_d.1736-959-0.jpeg",
-      "published_at": "2026-08-17T07:30:27+02:00",
-      "category": "cultura",
-      "priority": 77,
-      "title_fa": "درگذشت هیدن پنیتیر، بازیگر سریال‌های «نَشویل» و «قهرمانان» در ۳۶ سالگی",
-      "lead_fa": "هیدن پنیتیر، بازیگر سرشناس تلویزیون، در سن ۳۶ سالگی درگذشت. جزئیات و علت فوت این هنرمند هنوز مشخص نشده است.",
-      "key_points_fa": [
-        "هیدن پنیتیر سابقه بازی در سریال‌های پرمخاطبی مانند «نَشویل» و «قهرمانان» را داشت.",
-        "تا کنون اطلاعاتی درباره شرایط و علت درگذشت او منتشر نشده است."
-      ],
-      "analysis_fa": "درگذشت ناگهانی این بازیگر جوان بازتاب گسترده‌ای در رسانه‌های هنری داشته است، اما با توجه به سکوت منابع رسمی درباره علت فوت، ارزیابی دقیق ابعاد این رویداد نیازمند انتشار اطلاعات بیشتر در آینده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هیدن_پنیتیر",
-        "#سینمای_جهان",
-        "#درگذشت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7dc866706347",
       "source": "EL PAÍS España",
       "title": "Los colombianos en España se movilizan tras el terremoto: “Tengo mucha impotencia de estar al otro lado”",
@@ -496,17 +481,61 @@
       "editorial_version": 2
     },
     {
+      "id": "9760406b5b2d",
+      "source": "La Vanguardia",
+      "title": "Ingenieros, chinos y empresarios sin escrúpulos: así se construyó el ferrocarril que unió EE.UU. de costa a costa",
+      "summary": "Hace poco más de siglo y medio, las dos costas estadounidenses quedaron conectadas por una línea ferroviaria que revolucionó la economía del país emergente",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260818/11607486/ingenieros-chinos-empresarios-escrupulos-asi-construyo-ferrocarril-unio-ee-uu-costa-costa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b01336b0e.r_d.642-585-0.jpeg",
+      "published_at": "2026-08-18T06:30:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Ingenieros, chinos y empresarios sin escrúpulos: así se construyó el ferrocarril que unió EE.UU. de costa a costa",
+      "lead_fa": "Hace poco más de siglo y medio, las dos costas estadounidenses quedaron conectadas por una línea ferroviaria que revolucionó la economía del país emergente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "02f41b065ece",
       "source": "La Vanguardia",
-      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera y planifica la acogida",
+      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera, planifica la acogida",
       "summary": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
       "url": "https://www.lavanguardia.com/politica/20260818/11615550/gobierno-reorienta-gestion-ceuta-asegurada-frontera-planifica-acogida.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8356cebc08f.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera y planifica la acogida",
+      "title_fa": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera, planifica la acogida",
       "lead_fa": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9aae10021806",
+      "source": "La Vanguardia",
+      "title": "Milián Mestre: “Feijóo debería continuar en Catalunya la ‘liaison’ que hubo entre Pujol y Fraga”",
+      "summary": "Periodista de profesión, fue diputado del PP en el Congreso del 1989 al 2000, año en el que dejó el partido",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615474/manuel-milian-mestre-feijoo-deberia-continuar-catalunya-liaison-hubo-pujol-fraga.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a832b422bec1.r_d.3966-2644-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Milián Mestre: “Feijóo debería continuar en Catalunya la ‘liaison’ que hubo entre Pujol y Fraga”",
+      "lead_fa": "Periodista de profesión, fue diputado del PP en el Congreso del 1989 al 2000, año en el que dejó el partido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -743,34 +772,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6f955acea784",
-      "source": "La Vanguardia",
-      "title": "Marta Ortega, fotografiada por Annie Leibovitz en una entrevista para 'Vogue'",
-      "summary": "La empresaria posa en los jardines de su casa diseñados por el arquitecto paisajista y inglés Tom Stuart-Smith y en la sede de Zara en Arteixo",
-      "url": "https://www.lavanguardia.com/gente/20260817/11615481/marta-ortega-fotografiada-annie-leibovitz-entrevista-vogue.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a832e24625e8.r_d.984-986-0.jpeg",
-      "published_at": "2026-08-17T17:58:33+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "تصویربرداری از مارتا اورتگا توسط آنی لیبوویتز برای ووگ",
-      "lead_fa": "مارتا اورتگا، رئیس ایندیتکس، در گفت‌وگو با مجری معتبر مد مقابل دوربین آنی لیبوویتز قرار گرفت. این تصاویر در خانه شخصی او و مقر زارا در آرتیخو ثبت شده‌اند.",
-      "key_points_fa": [
-        "عکاسی توسط آنی لیبوویتز در مصاحبه با مجله ووگ انجام شده است.",
-        "مکان‌های عکاسی شامل باغ شخصی اورتگا و دفتر مرکزی زارا در گالیسیا است.",
-        "طراحی باغ توسط تام استوارت-اسمیت، معمار برجسته منظر، انجام گرفته است."
-      ],
-      "analysis_fa": "حضور مدیران ارشد مد در نشریات بین‌المللی معمولاً بخشی از استراتژی‌های ارتباطی برای تقویت تصویر برند و رهبری بازار محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مارتااورتگا",
-        "#زارا",
-        "#مدهای_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "19239543ea1b",
       "source": "EL PAÍS España",
       "title": "El Gobierno anuncia que habilita cuatro espacios para albergar a 1.500 migrantes en Ceuta",
@@ -794,34 +795,6 @@
         "#سبته",
         "#مهاجران",
         "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "86fc4a9c2850",
-      "source": "La Vanguardia",
-      "title": "Alejandro Agag, yerno de Aznar, asciende a Juan Urdangarin en su empresa de eventos deportivos",
-      "summary": "El hijo mayor de la infanta Cristina se abre paso en el campo de la organización de campeonatos internacionales de alto nivel",
-      "url": "https://www.lavanguardia.com/gente/20260817/11615155/alejandro-agag-yerno-aznar-asciende-juan-urdangarin-empresa-eventos-deportivos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/04/06/6611282e357b9.jpeg",
-      "published_at": "2026-08-17T11:54:00+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "ترفیع خوان اوردانگارین در شرکت آخاندرو آگاگ",
-      "lead_fa": "خوان اوردانگارین، فرزند ارشد اینفانتا کریستینا، در شرکت برگزاری رویدادهای ورزشی آخاندرو آگاگ ارتقای شغلی یافت. او در زمینه سازماندهی مسابقات بین‌المللی سطح بالا فعالیت می‌کند.",
-      "key_points_fa": [
-        "خوان اوردانگارین در شرکت رویدادهای ورزشی تحت مدیریت آخاندرو آگاگ ترفیع گرفت.",
-        "او در حوزه سازماندهی مسابقات بین‌المللی ورزشی فعالیت دارد.",
-        "آخاندرو آگاگ، داماد خوسه ماریا آسنار (نخست‌وزیر اسبق اسپانیا) است."
-      ],
-      "analysis_fa": "این انتصاب و ارتقای شغلی در حوزه مدیریت رویدادهای ورزشی بین‌المللی، بار دیگر توجه رسانه‌ها را به فعالیت‌های شغلی اعضا و نزدیکان خاندان سلطنتی اسپانیا و چگونگی روابط حرفه‌ای آن‌ها جلب کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#ورزش"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -999,64 +972,6 @@
       "editorial_version": 2
     },
     {
-      "id": "60c9e0cf352f",
-      "source": "EL PAÍS España",
-      "title": "La frontera de Ceuta como muro de Berlín invertido",
-      "summary": "Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores",
-      "url": "https://elpais.com/opinion/2026-08-16/la-frontera-de-ceuta-como-muro-de-berlin-invertido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LEJE2GB4KVJOZK4CMZAUCT336E.jpg?auth=fe042ab73bc1b27bafb15a0a10e398519cc8acfec4bebee455c416681c2fb9fd",
-      "published_at": "2026-08-16T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 73,
-      "title_fa": "مرز سبتا؛ چالش امنیت و ارزش‌های انسانی در اروپا",
-      "lead_fa": "تضمین امنیت مرزها اهمیت بالایی دارد، اما نباید به بهای پایمال شدن اصول و ارزش‌های بنیادین تمام شود. مرز سبتا امروزه به نماد پیچیده‌ای از تقابل میان سیاست‌های امنیتی و حقوق انسانی تبدیل شده است.",
-      "key_points_fa": [
-        "لزوم تعادل میان امنیت مرزی و حفظ ارزش‌های انسانی در اروپا",
-        "انتقاد از پیامدهای مخرب اقدامات سخت‌گیرانه مرزی بر اصول دموکراتیک",
-        "سبتا به عنوان یکی از حساس‌ترین نقاط مرزی اسپانیا و اتحادیه اروپا"
-      ],
-      "analysis_fa": "این یادداشت بر چالش همیشگی سیاستگذاران اروپایی در موازنه میان کنترل مهاجرت و پایبندی به حقوق بشر تمرکز دارد. این مسئله نشان‌دهنده فشارهای رو به رشد بر مرزهای جنوبی اروپا و دشواری حفاظت از ارزش‌های لیبرال در مواجهه با بحران‌های مهاجرتی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبتا",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#مرز_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7ec783d1eec5",
-      "source": "La Vanguardia",
-      "title": "El tribunal tailandés concluye la sentencia sobre los recursos del caso Daniel Sancho",
-      "summary": "El Tribunal de Apelaciones de Phuket ha enviado la decisión al tribunal de primera instancia a la espera de elegir un día para su lectura pública",
-      "url": "https://www.lavanguardia.com/gente/20260817/11615152/tribunal-tailandes-concluye-sentencia-sobre-recursos-caso-daniel-sancho.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/02/69f59e60d6533.r_d.1028-622-0.jpeg",
-      "published_at": "2026-08-17T11:52:35+02:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "پایان بررسی تجدیدنظر پرونده دنیل سانچو در دادگاه تایلند",
-      "lead_fa": "دادگاه تجدیدنظر پوکت تصمیم خود درباره پرونده دنیل سانچو را به دادگاه بدوی ارسال کرد. این دادگاه به زودی تاریخ قرائت عمومی حکم را اعلام خواهد کرد.",
-      "key_points_fa": [
-        "دادگاه تجدیدنظر پوکت تصمیم نهایی خود را نهایی کرد.",
-        "پرونده برای اعلام رسمی به دادگاه بدوی فرستاده شد.",
-        "زمان دقیق قرائت عمومی حکم به زودی مشخص می‌شود."
-      ],
-      "analysis_fa": "این مرحله نشان‌دهنده نزدیک شدن به پایان یکی از مراحل حقوقی پرونده‌ای است که بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است. تصمیم دادگاه تجدیدنظر می‌تواند تغییری در حکم اولیه ایجاد کند یا آن را تایید نماید، اما زمان دقیق اعلام رای هنوز به طور رسمی اعلام نشده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دنیل_سانچو",
-        "#اسپانیا",
-        "#تایلند",
-        "#اخبار_قضایی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "98c94e57b095",
       "source": "EL PAÍS Economía",
       "title": "“Se busca experto en ‘blockchain’”: bancos, fintech y consultoras se disputan el talento cripto",
@@ -1114,6 +1029,72 @@
       "editorial_version": 2
     },
     {
+      "id": "6def3e64faa6",
+      "source": "La Vanguardia",
+      "title": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
+      "summary": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
+      "url": "https://www.lavanguardia.com/comer/beber/20260818/11608299/roberto-duran-primer-espanol-ganar-master-sommelier-titulo-final-camino-vino-supone-compromiso-mi-formacion-buscar-siempre-excelencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/18/694444897e4e5.r_d.3205-1392-0.jpeg",
+      "published_at": "2026-08-18T06:35:21+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Roberto Durán, primer español en ganar el Master Sommelier: “Este título no es el final del camino en el vino, supone un compromiso con mi formación y buscar siempre la excelencia”",
+      "lead_fa": "El experto en vino alcanzó el año pasado esta exigente certificación, pero afirma que conseguirlo no tiene más secreto que “disciplina, sacrificio y perseverancia”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ac1adcd34399",
+      "source": "La Vanguardia",
+      "title": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
+      "summary": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
+      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260818/11613266/cinco-minutos-encontrar-pareja-tus-amigos-tinder.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ed15f0a96e.jpeg",
+      "published_at": "2026-08-18T06:27:46+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
+      "lead_fa": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "175413c16b3a",
+      "source": "La Vanguardia",
+      "title": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
+      "summary": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260818/11615541/trama-pisos-turisticos-ilegales-lujo-barcelona-pierde-dos-grandes-joyas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8351ac38f77.r_d.4020-2681-0.jpeg",
+      "published_at": "2026-08-18T06:26:01+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
+      "lead_fa": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "c1e79686fd28",
       "source": "La Vanguardia",
       "title": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
@@ -1125,6 +1106,292 @@
       "priority": 70,
       "title_fa": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
       "lead_fa": "El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "76cba0c609ed",
+      "source": "La Vanguardia",
+      "title": "Siria: sobrevivir en la tierra reventada",
+      "summary": "El desarrollo inmobiliario de los arrabales arrasados de Damasco es una amenaza para la población y el nuevo régimen",
+      "url": "https://www.lavanguardia.com/internacional/20260818/11615479/sobrevivir-tierra-reventada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a832fbf51fcd.r_d.722-1469-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Siria: sobrevivir en la tierra reventada",
+      "lead_fa": "El desarrollo inmobiliario de los arrabales arrasados de Damasco es una amenaza para la población y el nuevo régimen",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "850a16937d4c",
+      "source": "La Vanguardia",
+      "title": "“En el secuestro no sabía que mi familia había sido asesinada, yo sobrevivía por ellas”",
+      "summary": "Eli Sharabi fue capturado por Hamas el 7 de octubre del 2023 y cuenta su experiencia en 'Rehén'",
+      "url": "https://www.lavanguardia.com/cultura/20260818/11615394/secuestro-sabia-mi-familia-habia-sido-asesinada-sobrevivia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82fc6d3f13c.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "“En el secuestro no sabía que mi familia había sido asesinada, yo sobrevivía por ellas”",
+      "lead_fa": "Eli Sharabi fue capturado por Hamas el 7 de octubre del 2023 y cuenta su experiencia en 'Rehén'",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f79aece902b9",
+      "source": "La Vanguardia",
+      "title": "El calor 'funde' el Mont Blanc, vedado a los montañeros",
+      "summary": "Los Alpes europeos son una de las regiones donde las corrientes de hielo se reducen más rápidamente",
+      "url": "https://www.lavanguardia.com/natural/20260818/11615495/mont-blanc-echa-cierre-calor-plena-crisis-glaciares.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72e28dc46e4.r_d.733-871-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El calor 'funde' el Mont Blanc, vedado a los montañeros",
+      "lead_fa": "Los Alpes europeos son una de las regiones donde las corrientes de hielo se reducen más rápidamente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b800a661f184",
+      "source": "La Vanguardia",
+      "title": "Indonesios desafían a la gravedad en la carrera de los postes engrasados",
+      "summary": "La tradicional Panjat Pinang reúne cada 17 de agosto a equipos que compiten por alcanzar los premios colocados en lo alto de un poste",
+      "url": "https://www.lavanguardia.com/internacional/20260818/11615523/indonesia-independencia-carrera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8346a4f0ac3.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Indonesios desafían a la gravedad en la carrera de los postes engrasados",
+      "lead_fa": "La tradicional Panjat Pinang reúne cada 17 de agosto a equipos que compiten por alcanzar los premios colocados en lo alto de un poste",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2b6616234f92",
+      "source": "La Vanguardia",
+      "title": "“El gran cambio de mi vida fue provocar mis proyectos y no depender de la llamada exterior”",
+      "summary": "Actriz, presentadora, productora y guionista, Díaz Aroca es una mujer todoterreno y polifacética que ha sabido reinventarse y dirigir su carrera hacia donde ha querido",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260818/11606573/miriam-diaz-aroca-actriz-64-anos-telefono-nunca-dejo-sonar-gran-cambio-mi-vida-provocar-mis-propios-proyectos-depender-llamada-exterior.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a7045879bbf1.r_d.954-716-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "“El gran cambio de mi vida fue provocar mis proyectos y no depender de la llamada exterior”",
+      "lead_fa": "Actriz, presentadora, productora y guionista, Díaz Aroca es una mujer todoterreno y polifacética que ha sabido reinventarse y dirigir su carrera hacia donde ha querido",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f0e9301136d1",
+      "source": "La Vanguardia",
+      "title": "Ibiza renueva un verano más como codiciado escaparate internacional de los famosos",
+      "summary": "De Victoria Federica a Leonardo DiCaprio, de Jason Statham a Pablo Motos con Ilia Topuria y de Ester Expósito a los Beckham, la Isla Blanca se reivindica como reclamo de actores, cantantes y millonarios de medio mundo",
+      "url": "https://www.lavanguardia.com/gente/20260818/11615540/ibiza-famosos-dicaprio-lamine-yamal-ricky-martin-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83636ce6aed.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ibiza renueva un verano más como codiciado escaparate internacional de los famosos",
+      "lead_fa": "De Victoria Federica a Leonardo DiCaprio, de Jason Statham a Pablo Motos con Ilia Topuria y de Ester Expósito a los Beckham, la Isla Blanca se reivindica como reclamo de actores, cantantes y millonarios de medio mundo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3cccfe6cd745",
+      "source": "La Vanguardia",
+      "title": "Un vídeo de Assumpta Serna desata una ola de rabia por el sistema de dependencia",
+      "summary": "El formulario que impulsó la actriz catalana para que los afectados incluyeran sus denuncias acumula ya más de 1.000 casos",
+      "url": "https://www.lavanguardia.com/vida/20260818/11615470/denuncia-assumpta-serna-desata-ola-indignacion-sistema-dependencia-debemos-denunciar-falta-etica-administracion.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/24/69c2d46e309c0.r_d.1379-826-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un vídeo de Assumpta Serna desata una ola de rabia por el sistema de dependencia",
+      "lead_fa": "El formulario que impulsó la actriz catalana para que los afectados incluyeran sus denuncias acumula ya más de 1.000 casos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ba94255a3380",
+      "source": "La Vanguardia",
+      "title": "Proyecto para acabar con décadas de ruido en la Granvia de l’Hospitalet",
+      "summary": "La Generalitat licita la asistencia técnica del semicubrimiento de la C-31",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260818/11615424/proyecto-acabar-decadas-ruido-granvia-l-hospitalet.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a831146ea911.r_d.3702-2687-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Proyecto para acabar con décadas de ruido en la Granvia de l’Hospitalet",
+      "lead_fa": "La Generalitat licita la asistencia técnica del semicubrimiento de la C-31",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cf8e2c103c26",
+      "source": "La Vanguardia",
+      "title": "Josep Soler: “En España se ahorra muy mal; necesitamos cambiar la mentalidad”",
+      "summary": "El economista y cofundador de la asociación de asesores financieros EFPA desgrana las claves para rentabilizar bien el dinero",
+      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260818/11613197/ahorro-espana-josep-soler-bolsillo-podcast-pca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/10/68e8f8fda6d27.r_d.3221-1985-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Josep Soler: “En España se ahorra muy mal; necesitamos cambiar la mentalidad”",
+      "lead_fa": "El economista y cofundador de la asociación de asesores financieros EFPA desgrana las claves para rentabilizar bien el dinero",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "905e64e3cd87",
+      "source": "La Vanguardia",
+      "title": "Carme Ruscalleda: “En ningún restaurante has de resistir esclavitud. ¡Márchate!”",
+      "summary": "Recuperamos algunos episodios del podcast 'Quédate a comer' para escuchar con calma estas vacaciones",
+      "url": "https://www.lavanguardia.com/podcast/comer/20260818/11603444/carme-ruscalleda-ningun-restaurante-has-resistir-esclavitud-marchate-hay-mas-espacios-ti.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/05/69a9622646215.r_d.3464-2527-0.jpeg",
+      "published_at": "2026-08-18T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Carme Ruscalleda: “En ningún restaurante has de resistir esclavitud. ¡Márchate!”",
+      "lead_fa": "Recuperamos algunos episodios del podcast 'Quédate a comer' para escuchar con calma estas vacaciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "76e1c9944ed0",
+      "source": "La Vanguardia",
+      "title": "Microsoft Rewards te ofrece tres meses de suscripción a La Vanguardia",
+      "summary": "Microsoft Rewards te regala tres meses de La Vanguardia a cambio de algo que ya haces cada día: buscar en internet. Te explicamos cómo aprovechar esta promoción en solo siete días",
+      "url": "https://www.lavanguardia.com/comprar/tecnologia/20260818/11607644/microsoft-rewards-te-ofrece-tres-meses-suscripcion-vanguardia-asi-puedes-conseguirlos-mkt-micr.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/04/6a71d47817561.jpeg",
+      "published_at": "2026-08-18T05:50:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Microsoft Rewards te ofrece tres meses de suscripción a La Vanguardia",
+      "lead_fa": "Microsoft Rewards te regala tres meses de La Vanguardia a cambio de algo que ya haces cada día: buscar en internet. Te explicamos cómo aprovechar esta promoción en solo siete días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7d1e473053db",
+      "source": "La Vanguardia",
+      "title": "El centro y la playa: un estudio mapea las zonas más inseguras para las mujeres en València",
+      "summary": "Un estudio de investigadores de la UPV analiza mapas elaborados por la ciudadanía, datos policiales y redes sociales para detectar los lugares de más riesgo",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615104/centro-playa-estudio-mapea-zonas-mas-inseguras-mujeres-valencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/03/686658e97ac3f.r_d.2016-1512-0.jpeg",
+      "published_at": "2026-08-18T05:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El centro y la playa: un estudio mapea las zonas más inseguras para las mujeres en València",
+      "lead_fa": "Un estudio de investigadores de la UPV analiza mapas elaborados por la ciudadanía, datos policiales y redes sociales para detectar los lugares de más riesgo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "63e7097136b6",
+      "source": "La Vanguardia",
+      "title": "Ideología en las aulas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
+      "published_at": "2026-08-18T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ideología en las aulas",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1859,64 +2126,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7eb39672d6b8",
-      "source": "La Vanguardia",
-      "title": "Casa Asia se trasladará del Raval a su nueva sede de Pedralbes en noviembre",
-      "summary": "Las obras ya han terminado y durante las próximas semanas se instalará el mobiliario y el equipamiento audiovisual",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11615490/casa-asia-trasladara-raval-nueva-sede-pedralbes-noviembre.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a833318d2c6c.jpeg",
-      "published_at": "2026-08-17T18:18:45+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "انتقال دفتر مرکزی «کاسا آسیا» از رابال به پترالبس بارسلونا در ماه نوامبر",
-      "lead_fa": "مؤسسه کاسا آسیا در ماه نوامبر به ساختمان جدید خود در منطقه پترالبس منتقل می‌شود. این جابجایی پس از پایان ساخت‌وساز و در پی نصب تجهیزات جدید صورت می‌گیرد.",
-      "key_points_fa": [
-        "پایان عملیات ساختمانی در مقر جدید کاسا آسیا",
-        "نصب مبلمان و تجهیزات صوتی و تصویری طی هفته‌های آینده",
-        "انتقال رسمی دفتر از محله رابال به پترالبس در آبان/نوامبر"
-      ],
-      "analysis_fa": "انتقال کاسا آسیا به مکان جدید بخشی از برنامه‌های توسعه‌ای این مؤسسه برای بهبود خدمات و فعالیت‌های فرهنگی و دیپلماتیک خود در بارسلونا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کاسا_آسیا",
-        "#بارسلونا",
-        "#اسپانیا",
-        "#فرهنگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "39027f74aae3",
-      "source": "La Vanguardia",
-      "title": "Lamine Yamal se cachondea de los peinados de Gavi y Pedri: “¡Chupa-chups, chupa-chups!”",
-      "summary": "El equipo de Flick volvía hoy a los entrenamientos para empezar a preparar el estreno en la Liga 2026-27",
-      "url": "https://www.lavanguardia.com/deportes/20260817/11615467/lamine-yamal-cachondea-peinados-gavi-pedri-chupa-chups-chupa-chups.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8325a325175.jpeg",
-      "published_at": "2026-08-17T17:28:48+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "شوخی لامینه یامال با مدل موی هم‌تیمی‌هایش در بارسلونا",
-      "lead_fa": "تیم فوتبال بارسلونا تحت هدایت هانسی فلیک تمرینات خود را از سر گرفت. این تمرینات برای آماده‌سازی حضور در فصل جدید لیگ آغاز شده است.",
-      "key_points_fa": [
-        "بازگشت تیم بارسلونا به تمرینات زیر نظر هانسی فلیک",
-        "آماده‌سازی برای آغاز رقابت‌های فصل جدید لیگ",
-        "شوخی لامینه یامال با مدل موی گاوی و پدری در جریان تمرین"
-      ],
-      "analysis_fa": "این حواشی درون‌تیمی نشان‌دهنده فضای شاداب و صمیمی در تمرینات بارسلونا در آستانه شروع فصل جدید مسابقات است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#لامینه_یامال",
-        "#لالیگا",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "3d4e476ebd62",
       "source": "La Vanguardia",
       "title": "Trump amenaza con bombardear Omán si se “interpone” para reabrir Ormuz",
@@ -1939,33 +2148,6 @@
         "#ایران",
         "#آمریکا",
         "#تنگه_هرمز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "29932a5cc07a",
-      "source": "La Vanguardia",
-      "title": "Los cruceros crecen en Barcelona por encima del récord del 2025",
-      "summary": "El Port suma 3,23 millones de pasajeros hasta julio, un 5,3% más",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11615456/cruceros-crecen-barcelona-encima-record-2025.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8321d242e4c.r_d.1967-1519-0.jpeg",
-      "published_at": "2026-08-17T17:04:38+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "رشد بی‌سابقه گردشگری دریایی در بارسلونا",
-      "lead_fa": "بندر بارسلونا تا ماه ژوئیه میزبان ۳.۲۳ میلیون مسافر کروز بوده است. این آمار نشان‌دهنده افزایشی ۵.۳ درصدی نسبت به رکورد سال گذشته است.",
-      "key_points_fa": [
-        "ثبت ۳.۲۳ میلیون مسافر کروز تا ماه ژوئیه در بندر بارسلونا",
-        "افزایش ۵.۳ درصدی آمار مسافران نسبت به سال گذشته"
-      ],
-      "analysis_fa": "افزایش شمار مسافران کشتی‌های تفریحی در بارسلونا نشان‌دهنده تداوم رونق گردشگری دریایی در این شهر بندری است، هرچند این روند ممکن است بحث‌ها درباره مدیریت جمعیت گردشگران و تأثیرات زیست‌محیطی را در سطح محلی تشدید کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#گردشگری",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1997,28 +2179,6 @@
         "#حوادث"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "2a0b3834387e",
-      "source": "La Vanguardia",
-      "title": "El gobierno valenciano cifra en 40 millones el impacto de la actividad de Disney en 2026",
-      "summary": "La Generalitat ha concedido a la producción una subvención de 5 millones de euros, lo que representa aproximadamente el 12,5% del gasto que se prevé realizar en la autonomía",
-      "url": "https://www.lavanguardia.com/local/valencia/20260817/11615175/gobierno-valenciano-cifra-40-millones-impacto-actividad-disney-2026.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a69c55b92eb5.r_d.2065-1425-0.jpeg",
-      "published_at": "2026-08-17T12:23:51+02:00",
-      "category": "politica",
-      "priority": 69,
-      "title_fa": "El gobierno valenciano cifra en 40 millones el impacto de la actividad de Disney en 2026",
-      "lead_fa": "La Generalitat ha concedido a la producción una subvención de 5 millones de euros, lo que representa aproximadamente el 12,5% del gasto que se prevé realizar en la autonomía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2066,33 +2226,6 @@
       "editorial_version": 2
     },
     {
-      "id": "deea92cd54c3",
-      "source": "La Vanguardia",
-      "title": "Cancelo llega hoy en Barcelona como agente libre tras romper con el Al Hilal",
-      "summary": "El club blaugrana está perfilando las salidas de los canteranos Tommy Marqués, Jofre Torrents y el portero Yaakobishvili",
-      "url": "https://www.lavanguardia.com/deportes/20260817/11615187/cancelo-llega-hoy-barcelona-agente-libre-romper-hilal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/12/6a02539c7ce9d.r_d.1584-1056-0.jpeg",
-      "published_at": "2026-08-17T12:27:35+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "کانسلو به عنوان بازیکن آزاد راهی بارسلونا می‌شود",
-      "lead_fa": "ژائو کانسلو پس از جدایی از باشگاه الهلال، امروز به عنوان بازیکن آزاد وارد بارسلونا می‌شود. در همین حال، باشگاه آبی‌اناری در حال نهایی کردن جدایی چند بازیکن جوان خود است.",
-      "key_points_fa": [
-        "ورود ژائو کانسلو به بارسلونا پس از پایان همکاری با الهلال",
-        "بررسی وضعیت جدایی بازیکنان آکادمی شامل تامی مارکِس، ژوفر تورِنتس و دروازه‌بان یاکوبیشویلی توسط بارسلونا"
-      ],
-      "analysis_fa": "این جابجایی نشان‌دهنده تلاش بارسلونا برای تقویت ترکیب خود با جذب بازیکنان آزاد است، در حالی که همزمان مدیریت فهرست بازیکنان جوان و مازاد در دستور کار باشگاه قرار دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#کانسلو",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "2f1a914bb862",
       "source": "EL PAÍS España",
       "title": "Pedraz asume todo el ‘caso Leire’ al incorporar los 14 tomos del sumario que instruía un juez de Madrid",
@@ -2118,6 +2251,28 @@
         "#دیوان_ملی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "dc675babb629",
+      "source": "La Vanguardia",
+      "title": "Recorrido virtual por los escenarios de las fiestas de Gràcia, calle a calle",
+      "summary": "Un paseo por las 23 calles del barrio decoradas por la Festa Major; el miércoles se conocerá la comisión ganadora",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11615445/recorrido-virtual-escenarios-gracia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a831a11e48ac.jpeg",
+      "published_at": "2026-08-17T19:38:18+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Recorrido virtual por los escenarios de las fiestas de Gràcia, calle a calle",
+      "lead_fa": "Un paseo por las 23 calles del barrio decoradas por la Festa Major; el miércoles se conocerá la comisión ganadora",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2149,261 +2304,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ed23553aa914",
-      "source": "La Vanguardia",
-      "title": "Una visitante agrede de manera brutal a una funcionaria en el Centro Penitenciario Brians 2",
-      "summary": "La agresora le golpeó en la cara, le arañó el rostro, el ojo y el pecho, le arrancó trozos de pelo y la mordió en el antebrazo y en la cara",
-      "url": "https://www.lavanguardia.com/sucesos/20260817/11615083/visitante-agrede-manera-brutal-funcionaria-centro-penitenciario-brians-2.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d14ace25ba3.r_d.2229-1455-0.jpeg",
-      "published_at": "2026-08-17T09:40:59+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "حمله وحشیانه یک بازدیدکننده به کارمند زندان برایانز ۲",
-      "lead_fa": "یک زن بازدیدکننده در زندان برایانز ۲ به یکی از کارمندان این مرکز حمله کرد. این فرد آسیب‌های شدیدی به صورت، چشم و سینه کارمند زندان وارد کرد.",
-      "key_points_fa": [
-        "مهاجم به صورت، چشم و سینه کارمند زندان ضربه زد.",
-        "بخشی از موهای قربانی کنده شد.",
-        "کارمند زندان از ناحیه ساعد و صورت گاز گرفته شد."
-      ],
-      "analysis_fa": "این رویداد بار دیگر مسائل مربوط به امنیت کارکنان در مراکز اصلاحی و تربیتی را برجسته می‌کند. وقوع چنین خشونت‌هایی معمولاً به بازنگری در پروتکل‌های امنیتی ملاقات‌ها منجر می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#زندان",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8c3dcfd624f0",
-      "source": "La Vanguardia",
-      "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
-      "summary": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
-      "url": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81dcff06cda.r_d.2660-2320-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "economia",
-      "priority": 64,
-      "title_fa": "رکوردشکنی ۲۰ ساله وام‌های مصرفی پیش از تعطیلات در اسپانیا",
-      "lead_fa": "درخواست وام‌های مصرفی برای تعطیلات در اسپانیا به بالاترین میزان در ۲۰ سال اخیر رسید. آمارهای کنونی نشان‌دهنده افزایشی ۹۱ درصدی نسبت به یک دهه گذشته است.",
-      "key_points_fa": [
-        "رسیدن تقاضا برای وام‌های مصرفی پیش از تعطیلات به بالاترین سطح در ۲۰ سال گذشته",
-        "ثبت رشد ۹۱ درصدی در این رقم نسبت به آمار ثبت‌شده در ۱۰ سال قبل"
-      ],
-      "analysis_fa": "افزایش تقاضای وام‌های مصرفی پیش از تعطیلات حاکی از تمایل شهروندان به تأمین مالی سفرهای خود از طریق استقراض است که می‌تواند ناشی از تورم یا کاهش پس‌انداز خانوارها باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#وام_مصرفی",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6c0bd61e2884",
-      "source": "La Vanguardia",
-      "title": "El cerebro, a punto de su momento Ozempic",
-      "summary": "Los laboratorios desarrollan nuevos fármacos para regular el estado de vigilia y sueño",
-      "url": "https://www.lavanguardia.com/vida/20260817/11613859/cerebro-oxempic-peptidos-orexinas-narcolepsia-vigilia-sueno.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f1e56bf47c.r_d.6402-2453-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "توسعه داروهای جدید مغزی برای تنظیم خواب و بیداری",
-      "lead_fa": "آزمایشگاه‌های داروسازی در حال توسعه ترکیبات نوینی برای تنظیم چرخه خواب و بیداری هستند. این داروها می‌توانند تحولی مشابه داروهای نوین لاغری در حوزه سلامت ایجاد کنند.",
-      "key_points_fa": [
-        "توسعه داروهای جدید در آزمایشگاه‌های داروسازی",
-        "تمرکز بر تنظیم دقیق وضعیت خواب و بیداری",
-        "مقایسه پتانسیل این داروها با داروهای مشهور تنظیم اشتها"
-      ],
-      "analysis_fa": "تلاش برای یافتن راه‌حل‌های دارویی جدید جهت کنترل چرخه خواب و بیداری نشان‌دهنده اهمیت روزافزون اختلالات خواب در پزشکی مدرن است. در صورت موفقیت این داروها، بازار درمان اختلالات عصبی شاهد تحولی چشمگیر خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سلامت",
-        "#پزشکی",
-        "#خواب",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f5531fddf639",
-      "source": "La Vanguardia",
-      "title": "La banda de los retretes clandestinos ya controla 34 habitaciones turísticas ilegales en Barcelona",
-      "summary": "Piden a sus huéspedes de sus suites de alto standing que no abran la puerta a la policía y luego retiran los precintos municipales",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11613486/banda-retretes-clandestinos-controla-34-habitaciones-turisticas-ilegales-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7e1b037166c.r_d.1008-364-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "شبکه توالت‌های پنهان؛ کنترل ۳۴ اتاق گردشگری غیرقانونی در بارسلون",
-      "lead_fa": "مقامات بارسلون از فعالیت یک شبکه غیرقانونی گردشگری خبر دادند که ده‌ها اتاق را کنترل می‌کند. این گروه از مهمانان خود می‌خواهد درها را به روی پلیس باز نکنند.",
-      "key_points_fa": [
-        "کنترل ۳۴ اتاق گردشگری غیرقانونی توسط یک شبکه در بارسلون.",
-        "درخواست از مسافران برای عدم گشودن در به روی ماموران پلیس.",
-        "برداشتن پلمب‌های شهرداری توسط این گروه پس از اقدامات قانونی."
-      ],
-      "analysis_fa": "گسترش اقامتگاه‌های غیرقانونی در کلانشهرهایی مانند بارسلون یکی از چالش‌های جدی مدیریت شهری است. این تخلفات نشان‌دهنده پیچیدگی روش‌های دور زدن قوانین نظارتی و مقابله با پلمب‌های شهرداری است که نیازمند نظارت شدیدتر نهادهای امنیتی و محلی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلون",
-        "#گردشگری",
-        "#اسپانیا",
-        "#مسکن"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "76a8bae2dc1a",
-      "source": "La Vanguardia",
-      "title": "“Conviene respetar la fase del sueño entre las diez y las doce de la noche”",
-      "summary": "González-Freire, licenciada en Ciencias de la Actividad Física y del Deporte, doctora en Fisiología del Ejercicio y con un máster en Genética y Biología Celular, es ahora investigadora del Instituto de Investigación Sanitaria de las Illes Balears (IdISBa), donde estudia los mecanismos que explican por qué envejecemos",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260817/11607531/marta-gonzalez-freire-investigadora-biomedica-fase-sueno-diez-doce-noche-conviene-respetarla-acostamos-medianoche-saltamos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a71b71ddfc7e.r_d.570-490-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 64,
-      "title_fa": "اهمیت رعایت فازهای خواب در ساعات پایانی شب",
-      "lead_fa": "یک پژوهشگر حوزه فیزیولوژی ورزش بر اهمیت استراحت در بازه زمانی میان ساعت ۱۰ تا ۱۲ شب تأکید کرد. این پژوهش‌ها روی مکانیزم‌های سلولی مرتبط با پیری تمرکز دارند.",
-      "key_points_fa": [
-        "پژوهشگر موسسه تحقیقات بهداشتی جزایر بالئاریک روی مکانیزم‌های پیری مطالعه می‌کند.",
-        "این تحقیقات به بررسی چرخه خواب و تاثیر آن بر سلامت می‌پردازد."
-      ],
-      "analysis_fa": "مطالعه روی فرآیندهای بیولوژیکی پیری و خواب از موضوعات در حال بررسی در علوم پزشکی است که به درک بهتر سلامت عمومی کمک می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#خواب",
-        "#سلامت",
-        "#پزشکی",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b02160e7caca",
-      "source": "La Vanguardia",
-      "title": "Hugo Morales, campeón de Europa sobre una moto de agua con solo 12 años",
-      "summary": "Su afición comenzó cuando tenía 4 años, gracias a que su familia inició un negocio de alquiler de motos de agua en Málaga",
-      "url": "https://www.lavanguardia.com/deportes/20260817/11614820/hugo-morales-campeon-europa-sobre-moto-agua-12-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/16/6a81defad18fa.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "هووگو مورالس، قهرمان ۱۲ ساله جت اسکی اروپا",
-      "lead_fa": "هووگو مورالس، نوجوان ۱۲ ساله اسپانیایی، توانست مقام قهرمانی مسابقات جت اسکی اروپا را از آن خود کند. علاقه او به این ورزش از چهار سالگی و به واسطه کسب‌وکار خانوادگی‌شان در مالاگا شکل گرفته بود.",
-      "key_points_fa": [
-        "کسب عنوان قهرمانی اروپا در رشته جت اسکی توسط نوجوان ۱۲ ساله.",
-        "آغاز فعالیت ورزشی از سن چهار سالگی.",
-        "شکل‌گیری علاقه به این ورزش به دلیل کسب‌وکار اجاره جت اسکی خانواده در مالاگا."
-      ],
-      "analysis_fa": "موفقیت هووگو مورالس نشان‌دهنده نقش حمایت خانواده و دسترسی زودهنگام به امکانات ورزشی در پرورش استعدادهای جوان در اسپانیا است. این دستاورد می‌تواند توجه بیشتری را به ورزش‌های آبی و سرمایه‌گذاری روی ورزشکاران رده‌های سنی پایه در این کشور جلب کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#ورزشی",
-        "#جت_اسکی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6016f3a7c18",
-      "source": "La Vanguardia",
-      "title": "Miguel Ríos: “Se necesita una revolución para cambiar el sistema, estamos en cuenta atrás”",
-      "summary": "Con 65 años de carrera sobre su espalda, el cantante se subirá mañana al escenario de Cap Roig para presentar algunas de las canciones de su último álbum, 'El último vals'",
-      "url": "https://www.lavanguardia.com/cultura/20260817/11614779/miguel-rios-necesita-revolucion-cambiar-sistema-cuenta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81c29161fca.r_d.2585-3996-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 64,
-      "title_fa": "میگل ریوس: برای تغییر سیستم به انقلاب نیاز داریم",
-      "lead_fa": "میگل ریوس با ۶۵ سال سابقه در موسیقی، فردا در جشنواره کاپ روایگ روی صحنه می‌رود. او در این اجرا قطعات آلبوم جدید خود با عنوان «آخرین والس» را ارائه خواهد داد.",
-      "key_points_fa": [
-        "سابقه هنری میگل ریوس به ۶۵ سال می‌رسد",
-        "اجرای زنده در جشنواره کاپ روایگ برنامه‌ریزی شده است",
-        "معرفی قطعات آلبوم جدید به نام «آخرین والس»"
-      ],
-      "analysis_fa": "این اظهارات از سوی یکی از چهره‌های باسابقه موسیقی راک اسپانیا مطرح شده و بازتاب‌دهنده نگاه انتقادی او به وضعیت اجتماعی و ساختارهای موجود است بدون اینکه پیامد سیاستی خاصی داشته باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#میگل_ریوس",
-        "#موسیقی_اسپانیا",
-        "#فرهنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6162a6d68005",
-      "source": "La Vanguardia",
-      "title": "Renfe tarda 14 años en cerrar un acceso provisional en Arc de Triomf",
-      "summary": "Las puertas de unas obras acabadas en el 2012 no se han quitado hasta ahora",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260817/11614797/renfe-tarda-14-anos-cerrar-acceso-provisional-arc-triomf.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81d0f158e33.r_d.2355-1724-0.jpeg",
-      "published_at": "2026-08-17T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "تأخیر ۱۴ ساله رنفه در برچیدن دسترسی موقت در بارسلونا",
-      "lead_fa": "شرکت راه آهن رنفه پس از گذشت ۱۴ سال اقدام به برداشتن یک دسترسی موقت در منطقه آرک دو تریومف کرد. درهای مربوط به پروژه‌ای که در سال ۲۰۱۲ به پایان رسیده بود، تا به امروز دست‌نخورده باقی مانده بودند.",
-      "key_points_fa": [
-        "برداشتن دسترسی موقت پروژه‌ای قدیمی در آرک دو تریومف",
-        "تأخیر ۱۴ ساله در برچیدن موانع و درهای پروژه ختم شده در سال ۲۰۱۲",
-        "انتقاد از کُندی شرکت رنفه در اتمام کامل حاشیه‌های پروژه‌های عمرانی"
-      ],
-      "analysis_fa": "این تأخیر طولانی‌مدت بار دیگر انتقادها نسبت به کارایی ووکالت شرکت‌های دولتی در مدیریت و پاکسازی حاشیه‌های پروژه‌های زیرساختی را افزایش داده است. اگرچه این اقدام در نهایت انجام شد، اما زمان‌بندی آن سؤالاتی را درباره نظارت نهادی ایجاد می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#رنفه",
-        "#بارسلونا",
-        "#اسپانیا",
-        "#حمل_و_نقل"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "cc222543a654",
-      "source": "La Vanguardia",
-      "title": "Británicos, italianos y holandeses llevan al aeropuerto de Valencia a romper sus récords",
-      "summary": "Palma de Mallorca sigue siendo el aeródromo que más pasajeros intercambia con Manises, pero el aumento de pasaje procede sobre todo de Londres, Roma y Ámsterdam",
-      "url": "https://www.lavanguardia.com/local/valencia/20260817/11614799/britanicos-italianos-holandeses-llevan-aeropuerto-valencia-romper-records.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/19/68cd22e257bb4.r_d.1024-768-0.jpeg",
-      "published_at": "2026-08-17T05:00:00+02:00",
-      "category": "turismo",
-      "priority": 64,
-      "title_fa": "فرودگاه والنسیا؛ رکوردشکنی با گردشگران بریتانیایی، ایتالیایی و هلندی",
-      "lead_fa": "فرودگاه والنسیا به لطف افزایش مسافران از شهرهای اروپایی رکوردشکنی کرد. پالما د مایورکا همچنان بیشترین تبادل مسافر را با این فرودگاه دارد.",
-      "key_points_fa": [
-        "فرودگاه والنسیا آمار رکوردشکنی در پذیرش مسافر را ثبت کرد.",
-        "بیشترین افزایش مسافر مربوط به شهرهای لندن، رم و آمستردام است.",
-        "مسیر هوایی پالما د مایورکا همچنان بیشترین حجم مسافر را با منیسس دارد."
-      ],
-      "analysis_fa": "رشد مسافران بین‌المللی نشان‌دهنده تداوم جذابیت والنسیا به عنوان یک مقصد گردشگری در اسپانیا است. این روند افزایشی ریشه در تقویت ارتباطات هوایی با شهرهای کلیدی اروپا دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#اسپانیا",
-        "#گردشگری",
-        "#پرواز"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e9a11c177ba4",
       "source": "EL PAÍS España",
       "title": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
@@ -2429,6 +2329,28 @@
         "#سیاست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0a917a249812",
+      "source": "La Vanguardia",
+      "title": "La carabela portuguesa empieza a expandirse por el Cantábrico y 'amenaza' el verano",
+      "summary": "Los episodios masivos se han repetido en julio y agosto en las costas cantábricas, donde serán cada vez más habituales, según los expertos",
+      "url": "https://www.lavanguardia.com/natural/20260817/11611907/carabela-portuguesa-empieza-expandirse-cantabrico-amenaza-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7af42278072.r_d.1015-564-0.jpeg",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "La carabela portuguesa empieza a expandirse por el Cantábrico y 'amenaza' el verano",
+      "lead_fa": "Los episodios masivos se han repetido en julio y agosto en las costas cantábricas, donde serán cada vez más habituales, según los expertos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2518,28 +2440,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "8352601f952f",
-      "source": "La Vanguardia",
-      "title": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
-      "summary": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a823fa3b7204.r_d.505-386-0.jpeg",
-      "published_at": "2026-08-17T00:11:37+02:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
-      "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2586,7 +2486,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 130
+      "count": 122
     }
   ]
 }
