@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:36:35.603358+00:00",
+  "generated_at": "2026-08-18T11:57:31.920108+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "510fd9722dcf",
@@ -12,11 +12,11 @@
     {
       "id": "510fd9722dcf",
       "source": "La Vanguardia",
-      "title": "Terremoto en Granada, en directo | Última hora del seísmo de magnitud 4,7 y los heridos y destrozos",
+      "title": "Terremoto en Granada, en directo | Última hora: al menos tres heridos leves tras el seísmo de magnitud 4,7",
       "summary": "Se han desalojado “temporalmente” los Palacios Nazaríes y la Alcazaba de la Alhambra tras el seísmo",
       "url": "https://www.lavanguardia.com/local/andalucia/20260818/11615877/nuevo-terremoto-magnitud-4-7-granada-sigue-ultima-hora-directo-hoy.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a843f43aba55.jpeg",
-      "published_at": "2026-08-18T13:18:14+02:00",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84399309f15.r_d.2240-1494-0.jpeg",
+      "published_at": "2026-08-18T13:36:19+02:00",
       "category": "sociedad",
       "priority": 84,
       "title_fa": "زمین‌لرزه ۴.۷ ریشتری در گرانادا و تخلیه موقت الحمرا",
@@ -236,6 +236,34 @@
         "#مراکش",
         "#مهاجرت",
         "#سئوتا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6b77dff90868",
+      "source": "La Vanguardia",
+      "title": "Testimonios del terremoto de Granada: “Fue como un zambombazo que duró apenas un segundo, pero se hizo eterno”",
+      "summary": "“El miedo que se pasa es muy difícil de describir”, relatan los vecinos, algunos de los cuales lo han percibido como más intenso que el del sábado",
+      "url": "https://www.lavanguardia.com/vida/20260818/11615925/testimonios-terremoto-granada-zambombazo-duro-apenas-segundo-hizo-eterno.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a843771deb74.jpeg",
+      "published_at": "2026-08-18T13:30:42+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "شهادت‌های شهروندان از زلزله گرانادا: مانند انفجاری بود که طولانی به نظر رسید",
+      "lead_fa": "زمین‌لرزه جدیدی در گرانادا باعث ترس و وحشت ساکنان این منطقه شد. بسیاری از اهالی شدت این زمین‌لرزه را بیشتر از زلزله روز شنبه توصیف کردند.",
+      "key_points_fa": [
+        "احساس ترس شدید میان ساکنان منطقه گرانادا",
+        "توصیف زلزله به عنوان صدایی مهیب و کوتاه اما بسیار هراس‌انگیز",
+        "مقایسه شدت این زمین‌لرزه با زلزله روز شنبه توسط برخی از همسایگان"
+      ],
+      "analysis_fa": "وقوع پس‌لرزه‌ها یا زمین‌لرزه‌های متوالی در یک منطقه می‌تواند سطح اضطراب عمومی را به شدت افزایش دهد. این پدیده معمولاً واکنش‌های روانی مشابهی در میان ساکنان ایجاد می‌کند و مقامات محلی را به بررسی دقیق‌تر ایمنی سازه‌ها وا می دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#زلزله",
+        "#گرانادا",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -494,25 +522,62 @@
       "editorial_version": 2
     },
     {
+      "id": "22ff46b84f4d",
+      "source": "La Vanguardia",
+      "title": "El Gobierno esquiva definitivamente al Senado para blindar su relato de Ceuta en el Congreso",
+      "summary": "La maniobra carece de consecuencias legales, aunque el PP lo elevará al Constitucional, pero margina la funcionalidad de la Cámara Alta",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615935/gobierno-esquiva-senado-blindar-relato-ceuta-congreso.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a843ec2222e0.r_d.2576-1720-0.jpeg",
+      "published_at": "2026-08-18T13:21:24+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "دولت اسپانیا سنا را در مناقشه سئوتا دور زد",
+      "lead_fa": "دولت مرکزی توانست با مانوری سیاسی از سناریوی سنا عبور کند. این اقدام با واکنش حزب مردمی (PP) برای ارجاع به دادگاه قانون اساسی مواجه شده است.",
+      "key_points_fa": [
+        "دور زدن سنا برای تثبیت روایت دولتی درباره رویدادهای سئوتا",
+        "اقدام دولت فاقد پیامدهای حقوقی مستقیم است",
+        "حزب مردمی (PP) قصد دارد موضوع را به دادگاه قانون اساسی بکشاند",
+        "این مانور کارکرد نظارتی مجلس سنا را به حاشیه رانده است"
+      ],
+      "analysis_fa": "این اقدام دولت نشان‌دهنده تنش‌های نهادی میان کنگره و سنا است، به‌ویژه در موضوعات حساس سیاسی مانند سئوتا. اگرچه این مانور از نظر قانونی چالش بزرگی ایجاد نمی‌کند، اما ابعاد سیاسی و حقوقی آن با واکنش احزاب مخالف روبه‌رو شده و بار دیگر کارآمدی نهادهای قانون‌گذاری را زیر سوال برده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سئوتا",
+        "#سنا",
+        "#دولت_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e434bb4b9d1d",
       "source": "EL PAÍS",
       "title": "Feijóo carga contra Puente por “señalar a la Corona” y lo tacha de “tabernario”",
-      "summary": "El líder del PP considera que “padecemos un Gobierno que actúa contra la nación”",
+      "summary": "El líder del PP cree que el Gobierno “actúa contra la nación” con un “programa destituyente y de deconstrucción constitucional”",
       "url": "https://elpais.com/espana/2026-08-18/feijoo-carga-contra-puente-por-senalar-a-la-corona-y-lo-tacha-de-tabernario.html",
       "image": "https://imagenes.elpais.com/resizer/v2/LRRQ7YYTYNEKJER7PHZ63L7V2A.jpg?auth=1e3a8e2d925481828f5993fea6709182b1de689e3f3d9060d7fb72e2f4e21711",
       "published_at": "2026-08-18T11:26:12+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Feijóo carga contra Puente por “señalar a la Corona” y lo tacha de “tabernario”",
-      "lead_fa": "El líder del PP considera que “padecemos un Gobierno que actúa contra la nación”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "حمله شدید فِیخوو به وزیر اسپانیایی به دلیل انتقاد از سلطنت",
+      "lead_fa": "رهبر حزب مردمی اسپانیا، دولت را به تلاش برای تخریب قانون اساسی متهم کرد. او اظهارات وزیر ترابری درباره نهاد سلطنت را به شدت محکوم نمود.",
+      "key_points_fa": [
+        "آلبرتو نونیز فِیخوو دولت را متهم کرد که علیه ملت اسپانیا اقدام می‌کند.",
+        "او برنامه دولت را «دست‌بردار و قانون‌شکن» توصیف کرد.",
+        "این تنش‌ها پس از انتقاد مقام دولتی از جایگاه تاج و تخت بالا گرفت."
+      ],
+      "analysis_fa": "این تنش سیاسی نشان‌دهنده عمق شکاف میان حزب مردمی (مخالفان) و دولت مرکزی بر سر اصول بنیادین نظام سیاسی اسپانیا از جمله جایگاه نهاد سلطنت است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست",
+        "#فیخوو",
+        "#سلطنت"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -736,34 +801,6 @@
       "editorial_version": 2
     },
     {
-      "id": "02f41b065ece",
-      "source": "La Vanguardia",
-      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera, planifica la acogida",
-      "summary": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615550/gobierno-reorienta-gestion-ceuta-asegurada-frontera-planifica-acogida.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a83f81925b66.jpeg",
-      "published_at": "2026-08-18T06:00:00+02:00",
-      "category": "migracion",
-      "priority": 74,
-      "title_fa": "دولت اسپانیا استراتژی خود را در سئوتا تغییر می‌دهد",
-      "lead_fa": "پس از تثبیت مرزها، وزارت مهاجرت برنامه‌ریزی برای پذیرش مهاجران را آغاز کرده است. این نهاد چهار مرکز جدید برای اسکان ۱۵۰۰ مهاجر راه‌اندازی می‌کند.",
-      "key_points_fa": [
-        "تغییر رویکرد دولت در سئوتا از کنترل مرزی به برنامه‌ریزی برای پذیرش",
-        "استقرار چهار مرکز جدید مهاجرتی",
-        "فراهم شدن سرپناه برای ۱۵۰۰ مهاجر"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش دولت برای مدیریت زیرساختی بحران مهاجرت در مناطق مرزی است. تمرکز از کنترل صرف امنیتی به ایجاد ظرفیت‌های اسکان تغییر یافته که می‌تواند چالش‌های مدیریتی آینده را کاهش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجرت",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9aae10021806",
       "source": "La Vanguardia",
       "title": "Milián Mestre: “Feijóo debería continuar en Catalunya la ‘liaison’ que hubo entre Pujol y Fraga”",
@@ -872,6 +909,28 @@
         "#پناهجویان"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "120a2f9aaf80",
+      "source": "EL PAÍS Economía",
+      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
+      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
+      "lead_fa": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1704,28 +1763,6 @@
       "editorial_version": 2
     },
     {
-      "id": "63e7097136b6",
-      "source": "La Vanguardia",
-      "title": "Ideología en las aulas",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
-      "published_at": "2026-08-18T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Ideología en las aulas",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2eed7ae468b9",
       "source": "EL PAÍS",
       "title": "El expresidente del Sevilla José María del Nido: “Me ofrezco a Marlaska para mejorar las cárceles”",
@@ -1825,28 +1862,6 @@
       "priority": 68,
       "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
       "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "37e5c946cf96",
-      "source": "EL PAÍS Economía",
-      "title": "Europa y la tentación de vigilar para proteger",
-      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Europa y la tentación de vigilar para proteger",
-      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2486,7 +2501,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 134
+      "count": 135
     }
   ]
 }
