@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:06:29.223678+00:00",
+  "generated_at": "2026-08-18T03:54:29.298398+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -209,39 +209,10 @@
       "editorial_version": 2
     },
     {
-      "id": "98c9ee219950",
-      "source": "EL PAÍS Economía",
-      "title": "Almaraz, una moratoria prudente en plena crisis energética",
-      "summary": "La incertidumbre en los precios de la luz no invita a hacer mudanzas",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-16/almaraz-una-moratoria-prudente-en-plena-crisis-energetica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TT6A5ZXCWFOLBB4HBSWAHHBGDM.jpg?auth=5722e0f3d9075be5eff80d8cdb8214987df4e527cb3002b74fbb07b680c4e801",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "الماراز؛ تعلیق احتیاطی در اوج بحران انرژی",
-      "lead_fa": "ابهام در قیمت‌های برق در اسپانیا باعث اتخاذ رویکردی محتاطانه شده است. این وضعیت تصمیم‌گیری درباره آینده نیروگاه‌های هسته‌ای را تحت تاثیر قرار داده است.",
-      "key_points_fa": [
-        "عدم قطعیت در بازار انرژی و قیمت برق",
-        "رویکرد احتیاطی در خصوص فعالیت نیروگاه الماراز",
-        "چالش‌های اقتصادی پیش روی سیاست‌گذاران انرژی"
-      ],
-      "analysis_fa": "بحران انرژی و نوسانات قیمت برق در اسپانیا نشان‌دهنده شکنندگی بازار و دشواری در برنامه‌ریزی بلندمدت برای زیرساخت‌های حیاتی مانند انرژی هسته‌ای است. تداوم این شرایط می‌تواند بر هزینه‌های خانوارهای اسپانیایی و صنایع موثر باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#بحران_انرژی",
-        "#اقتصاد",
-        "#برق"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "6770425da099",
       "source": "EL PAÍS",
       "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "summary": "La intérprete, que deja una hija de 12 años, participó en ‘Nashville’ o ‘Bichos’. Su hermano menor murió en 2023 por una cardiopatía",
+      "summary": "La intérprete, que deja una hija de 12 años, participó en ‘Nashville’ o ‘Bichos’. La oficina forense ha anunciado que “no se encontraron signos de traumatismo que pudieran haber contribuido al fallecimiento”, y que la investigación sigue abierta",
       "url": "https://elpais.com/gente/2026-08-17/muere-hayden-panettiere-actriz-de-heroes-a-los-36-anos.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205197_091627_video_1800.mp4",
       "published_at": "2026-08-18T03:30:01+00:00",
@@ -460,6 +431,135 @@
         "#مهاجران"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d039fcbaf4ea",
+      "source": "EL PAÍS Economía",
+      "title": "Los caseros compensan la rebaja de ventajas fiscales de la ley de vivienda con las subidas del alquiler",
+      "summary": "La suma de las reducciones por IRPF se incrementó en 2024 pese a la reducción del beneficio tributario que introdujo la norma",
+      "url": "https://elpais.com/economia/2026-08-18/los-caseros-compensan-la-rebaja-de-ventajas-fiscales-de-la-ley-de-vivienda-con-las-subidas-del-alquiler.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JE5JAOM7JNAGJFJZGHUB6P7PDI.jpg?auth=be4f69af82274a1c957ffe0033f4eabb1674156ae551d5f4da1321c756061307",
+      "published_at": "2026-08-18T03:45:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "واکنش مالکان به قانون مسکن اسپانیا با افزایش اجاره‌بها",
+      "lead_fa": "مالکان خانه‌ها در اسپانیا کاهش مزایای مالیاتی قانون جدید مسکن را با افزایش اجاره‌بها جبران می‌کنند. این روند نشان‌دهنده چالش‌های جدید در بازار اجاره این کشور است.",
+      "key_points_fa": [
+        "افزایش اجاره‌بها توسط مالکان برای جبران کاهش مزایای مالیاتی",
+        "تداوم و افزایش تخفیف‌های مالیاتی بر اساس داده‌های سال ۲۰۲۴ با وجود تغییرات قانونی"
+      ],
+      "analysis_fa": "قانون جدید مسکن با هدف کنترل بازار و کاهش فشار بر مستاجران وضع شده است، اما مالکان برای حفظ سودآوری خود به راهکارهای جایگزین مانند افزایش قیمت اجاره روی آورده‌اند که این امر اثربخشی سیاست‌های حمایتی را با تردید مواجه می‌کند.",
+      "audience_impact_fa": "برای مهاجران و فارسی‌زبانانی که در اسپانیا به عنوان مستاجر زندگی می‌کنند، این وضعیت می‌تواند به معنای تداوم فشار هزینه‌های مسکن باشد، هرچند اثر مستقیم مشخصی به تفکیک ملیت‌ها گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مسکن",
+        "#اجاره_بها",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "79d775831c89",
+      "source": "EL PAÍS Economía",
+      "title": "El excepcionalismo estadounidense de Palantir tiene un lado malo",
+      "summary": "La empresa crece a un ritmo vertiginoso, pero sus vínculos con Washington lastran su expansión internacional",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/el-excepcionalismo-estadounidense-de-palantir-tiene-un-lado-malo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NF6HI7LTRO2WZPFIGCMRYMGXG4.jpg?auth=73ef1dd93b403a80fdb9044139da88d8354025cd3ad041f838f32fea158ccede",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "چالش‌های رشد جهانی پالانتیر؛ سایه سنگین روابط با واشنگتن",
+      "lead_fa": "شرکت پالانتیر با وجود رشد سریع مالی، در توسعه بین‌المللی خود با مانع روبرو است. وابستگی شدید این شرکت به نهادهای آمریکایی، مسیر ورود آن به بازارهای خارجی را کند کرده است.",
+      "key_points_fa": [
+        "رشد سریع و چشمگیر درآمدهای شرکت پالانتیر",
+        "وابستگی عمیق به قراردادهای دولتی ایالات متحده",
+        "موانع پیش روی گسترش فعالیت‌ها در بازارهای بین‌المللی"
+      ],
+      "analysis_fa": "اتکای بیش از حد شرکت‌های فناوری دفاعی و امنیتی به دولت آمریکا می‌تواند مزیت رقابتی آن‌ها را در بازار داخلی حفظ کند، اما در عرصه جهانی به دلیل نگرانی‌های امنیتی سایر کشورها، به یک نقطه ضعف استراتژیک تبدیل شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#پالانتیر",
+        "#اقتصاد",
+        "#فناوری"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "fcffe1fa6594",
+      "source": "EL PAÍS Economía",
+      "title": "El regulador estadounidense concede la licencia bancaria a la empresa cripto de los Trump",
+      "summary": "World Liberty Financial, gestionada por los hijos del presidente, podrá emitir directamente la ‘stablecoin’ USD1, gestionar y custodiar activos digitales y reservas de los clientes",
+      "url": "https://cincodias.elpais.com/criptoactivos/2026-08-18/el-regulador-estadounidense-concede-la-licencia-bancaria-a-la-empresa-cripto-de-los-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GYIWCT3SQFG5BMO2N6SHFPVYVE.JPG?auth=e3d53c902bf1964b90534269ddb6f0d657ad76285e860f66b93b4dc900420bab",
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "اعطای مجوز بانکی آمریکا به شرکت رمزارز خانواده ترامپ",
+      "lead_fa": "نهاد رگولاتور ایالات متحده مجوز بانکی را به شرکت رمزارز وابسته به فرزندان دونالد ترامپ اعطا کرد. این مجوز امکان انتشار استیبل‌کوین و مدیریت دارایی‌های دیجیتال را برای این شرکت فراهم می‌کند.",
+      "key_points_fa": [
+        "شرکت World Liberty Financial توسط فرزندان رئیس‌جمهور آمریکا مدیریت می‌شود.",
+        "این شرکت اجازه یافته است استیبل‌کوین USD1 را به طور مستقیم منتشر کند.",
+        "مدیریت و نگهداری دارایی‌های دیجیتال و ذخایر مشتریان از دیگر اختیارات اعطا شده است."
+      ],
+      "analysis_fa": "اعطای این مجوز به شرکت مرتبط با خانواده ترامپ می‌تواند بحث‌ها درباره تداخل منافع و تاثیرگذاری سیاسی بر نهادهای مالی و نظارتی ایالات متحده را افزایش دهد. این تصمیم همچنین موقعیت این پروژه را در بازار رمزارزها تقویت می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ترامپ",
+        "#رمزارز",
+        "#بانک",
+        "#اقتصاد_آمریکا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "7f86550dc79d",
+      "source": "EL PAÍS Economía",
+      "title": "El Santander, el BBVA y otros cuatro grandes bancos pagarán 75 millones para cerrar el litigio por la venta de bonos mexicanos",
+      "summary": "Fondos de pensiones estadounidenses acusan a las dos entidades españolas y a Bank of America, Citi, Deutsche Bank y HSBC de venderles deuda a precios inflados",
+      "url": "https://cincodias.elpais.com/companias/2026-08-18/el-santander-el-bbva-y-otros-cuatro-grandes-bancos-pagaran-75-millones-para-cerrar-el-litigio-por-la-venta-de-bonos-mexicanos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QBDQPLOQRFIKVD423F5R24CPQM.jpg?auth=17e6d208f8481c654044242545a1a72aac0d03fdab78bb151944fa3793932e0c",
+      "published_at": "2026-08-18T03:15:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El Santander, el BBVA y otros cuatro grandes bancos pagarán 75 millones para cerrar el litigio por la venta de bonos mexicanos",
+      "lead_fa": "Fondos de pensiones estadounidenses acusan a las dos entidades españolas y a Bank of America, Citi, Deutsche Bank y HSBC de venderles deuda a precios inflados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d18e43b0763e",
+      "source": "EL PAÍS Economía",
+      "title": "Amancio Ortega sale de la lusa REN y mantiene otros 3.560 millones invertidos en sectores estratégicos",
+      "summary": "Pontegadea vende por 325 millones debido al interés del Gobierno portugués en entrar en el capital del operador de gas y electricidad",
+      "url": "https://cincodias.elpais.com/companias/2026-08-18/amancio-ortega-sale-de-la-lusa-ren-y-mantiene-otros-3560-millones-invertidos-en-sectores-estrategicos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/63GMWRBD6ZBMFDXWTBV64TV5BA.png?auth=6151614d1f1643ab9ac827b0a7b5260ddbdd18621d14a740d885c79c1ff23ae3",
+      "published_at": "2026-08-18T03:15:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Amancio Ortega sale de la lusa REN y mantiene otros 3.560 millones invertidos en sectores estratégicos",
+      "lead_fa": "Pontegadea vende por 325 millones debido al interés del Gobierno portugués en entrar en el capital del operador de gas y electricidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -832,63 +932,6 @@
       "editorial_version": 2
     },
     {
-      "id": "90dbb57a076c",
-      "source": "EL PAÍS Economía",
-      "title": "Cuando el microcrédito acaba asfixiando la economía familiar: “No podía pagar ni un café”",
-      "summary": "El año pasado se firmaron 3,8 millones de estos préstamos, un 46% más que en 2024, una solución que los expertos consideran que no es útil para resolver los problemas de endeudamiento",
-      "url": "https://elpais.com/economia/2026-08-16/cuando-el-microcredito-acaba-asfixiando-la-economia-familiar-no-podia-pagar-ni-un-cafe.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QB33FHSSNFEFNB22CM2CEYTL5Y.jpg?auth=273701b14af5a3799ab56ce229ecc09f429c12454f108196dd2e398a8cd161e6",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "بحران وام‌های خرد در اسپانیا و فشار بر اقتصاد خانواده‌ها",
-      "lead_fa": "امضای وام‌های خرد در اسپانیا افزایش چشمگیری داشته است. کارشناسان بر این باورند که این ابزار کمکی به حل مشکلات بدهی نمی‌کند.",
-      "key_points_fa": [
-        "سال گذشته ۳.۸ میلیون قرارداد وام خرد در اسپانیا امضا شد.",
-        "این رقم نشان‌دهنده افزایش ۴۶ درصدی نسبت به سال قبل از آن است.",
-        "متخصصان مالی هشدار می‌دهند که این وام‌ها باعث خفگی اقتصادی خانواده‌ها می‌شود."
-      ],
-      "analysis_fa": "رشد سریع استفاده از وام‌های خرد در اسپانیا نشان‌دهنده دشواری‌های معیشتی و افزایش نیاز اقشار مختلف به نقدینگی سریع است. در حالی که تقاضا برای این تسهیلات بالا رفته، نهادهای نظارتی و کارشناسان نسبت به خطرات انباشت بدهی و ناتوانی در بازپرداخت هشدار می‌دهند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#وام"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "940a04cb1438",
-      "source": "EL PAÍS Economía",
-      "title": "El mercado de coches chino cae y sus marcas se lanzan a exportar",
-      "summary": "Las matriculaciones en el gigante asiático cayeron un 21% en el primer semestre. Firmas como Xiaomi apuntan a aterrizar en el Viejo Continente y las ya presentes aumentan cuota",
-      "url": "https://elpais.com/economia/2026-08-16/el-mercado-de-coches-chino-cae-y-sus-marcas-se-lanzan-a-exportar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E7V2JFCPPREABEOKSKNGYYEX7U.jpg?auth=ab8693e50ed5e469dacbe5fc8baec13a69c9a9dc0b3e4a587cbc27a6d8702adb",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "کاهش فروش خودرو در چین و تلاش برندها برای صادرات به اروپا",
-      "lead_fa": "ثبت‌نام خودرو در بازار چین در نیمه نخست سال با افت ۲۱ درصدی روبه‌رو شد. شرکت‌های چینی به دنبال ورود به بازار اروپا و افزایش سهم خود هستند.",
-      "key_points_fa": [
-        "افت ۲۱ درصدی ثبت‌نام خودرو در بازار چین طی نیمه نخست سال.",
-        "برنامه‌ریزی شرکت‌هایی مانند شیائومی برای ورود به بازار اروپا.",
-        "افزایش سهم برندهای چینی حاضر در بازارهای اروپایی."
-      ],
-      "analysis_fa": "کاهش تقاضا در بازار داخلی چین، خودروسازان این کشور را ناگزیر به جستجوی بازارهای جدید کرده است. این روند می‌تواند رقابت در بازار خودروی اروپا را تشدید کند، اما موفقیت نهایی به استراتژی‌های قیمتی و استانداردهای کیفی این برندها بستگی دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#خودرو",
-        "#چین",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "92561777b31f",
       "source": "EL PAÍS Economía",
       "title": "La atomización de los hogares: por qué la reducción del tamaño de las familias tiene efectos económicos negativos",
@@ -1033,91 +1076,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2ea09c18f8c1",
-      "source": "EL PAÍS Economía",
-      "title": "Los vecinos de Almaraz, sobre alargar la vida de la central nuclear: “No será la última, lucharemos por más”",
-      "summary": "La planta genera unos 4.000 empleos directos e indirectos, según el comité de empresa, entre este pueblo de 1.594 habitantes y sus alrededores",
-      "url": "https://elpais.com/economia/2026-08-16/los-vecinos-de-almaraz-sobre-alargar-la-vida-de-la-central-nuclear-no-sera-la-ultima-lucharemos-por-mas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FVWHUGVWONCYLCMANDCNYYFM7Y.jpg?auth=007dab000f656a083b5cbf7e166a44f2afd46d890186f35991e599ee637f3500",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "واکنش ساکنان آلماراز به ادامه فعالیت نیروگاه هسته‌ای",
-      "lead_fa": "اهالی منطقه آلماراز خواستار تداوم فعالیت نیروگاه هسته‌ای شدند. این تأسیسات نقش مهمی در اشتغال‌زایی محلی دارد.",
-      "key_points_fa": [
-        "مقاومت اهالی آلماراز در برابر تلاش‌ها برای تعطیلی نیروگاه هسته‌ای",
-        "تولید حدود ۴۰۰۰ شغل مستقیم و غیرمستقیم توسط نیروگاه",
-        "منطقه‌ای با جمعیتی حدود ۱۵۹۴ نفر که به شدت به این تأسیسات وابسته است"
-      ],
-      "analysis_fa": "موضوع تمدید عمر نیروگاه‌های هسته‌ای در اسپانیا همواره میان مسائل اقتصادی محلی و برنامه‌های کلان زیست‌محیطی و انرژی دولت چالش‌برانگیز بوده است. وابستگی شدید اشتغال منطقه کوچک آلماراز به این نیروگاه، انگیزه اصلی ساکنان برای دفاع از ادامه فعالیت آن است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آلماراز",
-        "#اسپانیا",
-        "#انرژی_هسته‌ای",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4580540b77ed",
-      "source": "EL PAÍS Economía",
-      "title": "Donald Tang (Shein), el rostro amable de un gigante textil en el punto de mira",
-      "summary": "El empresario prevé dejar su cargo antes de la inminente salida a Bolsa de la empresa",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-16/donald-tang-el-rostro-amable-de-un-gigante-textil-en-el-punto-de-mira.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZFFEU3HDE5G73OYFRDEOLALTLM.jpg?auth=b4adcc22aabe4a53368a4cd58f64e41e73324592d9069ea63667033af7c67032",
-      "published_at": "2026-08-16T03:40:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "تغییرات مدیریتی در شیین پیش از ورود به بورس",
-      "lead_fa": "دونالد تانگ، چهره کلیدی و مدیر اجرایی شرکت پوشاک شیین، برنامه‌ریزی کرده است تا پیش از عرضه اولیه سهام این شرکت در بورس، از سمت خود کناره‌گیری کند. این تصمیم در حالی گرفته می‌شود که غول نساجی آماده ورود به بازارهای مالی می‌شود.",
-      "key_points_fa": [
-        "دونالد تانگ به عنوان مدیر اجرایی و چهره عمومی شیین شناخته می‌شود.",
-        "او قصد دارد پیش از عرضه عمومی سهام (IPO) شرکت را ترک کند.",
-        "زمان دقیق خروج او با برنامه عرضه اولیه سهام شرکت هم‌پوشانی دارد."
-      ],
-      "analysis_fa": "کناره‌گیری مدیران ارشد در آستانه ورود شرکت‌های بزرگ به بورس معمولاً نشان‌دهنده بازترکیب ساختار مدیریتی برای تطبیق با استانداردهای نظارتی و مالی جدید است. این تغییر در شیین می‌تواند بر ارزیابی سرمایه‌گذاران از آینده شرکت تأثیرگذار باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#شیین",
-        "#بورس",
-        "#اقتصاد_اسپانیا",
-        "#مجارست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "79811b4e93d6",
-      "source": "EL PAÍS Economía",
-      "title": "Las claves: los bajistas ven su momento mientras el mercado sigue buscando joyas ocultas",
-      "summary": "Tras meses de subidas, algunos analistas pronostican correcciones en el parqué",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-16/las-claves-los-bajistas-ven-su-momento-mientras-el-mercado-sigue-buscando-joyas-ocultas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GF4PJW3DVBOJVD5AZ26L5NERF4.jpg?auth=298780e31bd45654be2e217de73fb67a78f1983833b58568a7f168f6d165d4ac",
-      "published_at": "2026-08-16T03:40:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "بازار بورس اسپانیا در جستجوی فرصت‌های پنهان میان هشدار تحلیلگران",
-      "lead_fa": "پس از ماه‌ها رشد مداوم، برخی تحلیلگران بازار مالی از احتمال اصلاح قیمت‌ها خبر می‌دهند. با این وجود، بازار همچنان به دنبال یافتن دارایی‌های ارزشمند و پنهان است.",
-      "key_points_fa": [
-        "پیش‌بینی اصلاح قیمت‌ها در بورس پس از ماه‌ها روند صعودی",
-        "تداوم تلاش فعالان بازار برای یافتن فرصت‌های سرمایه‌گذاری جدید"
-      ],
-      "analysis_fa": "بازارهای مالی پس از دوره‌های طولانی رشد، اغلب با نظرات متفاوتی از سوی تحلیلگران درباره احتمال اصلاح قیمت مواجه می‌شوند. این وضعیت نشان‌دهنده احتیاط بیشتر سرمایه‌گذاران و پایش دقیق‌تر ارزش واقعی دارایی‌هاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بورس_اسپانیا",
-        "#اقتصاد",
-        "#سرمایه_گذاری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "e767ce1366c5",
       "source": "EL PAÍS España",
       "title": "El narco avanza en el Estrecho con intrincados entramados para el blanqueo del dinero de la droga",
@@ -1197,35 +1155,6 @@
         "#دیا",
         "#اقتصاد_اسپانیا",
         "#سوپرمارکت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "17bdfa12f0be",
-      "source": "EL PAÍS Economía",
-      "title": "2026 no está cumpliendo el guion",
-      "summary": "El mercado descontaba que la Reserva Federal relajaría su política monetaria, mientras en Europa se esperaba estabilidad, pero la evolución ha sido muy diferente",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-17/2026-no-esta-cumpliendo-el-guion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/B4H6U3GNKZMRBFTVQTAKIBUK2Y.jpg?auth=f216611e646fbf48e2c677dc47f9c7698d686d2c3f7d65e2b2ee77a91bb75ba6",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "سال ۲۰۲۶ برخلاف انتظارات اقتصادی پیش می‌رود",
-      "lead_fa": "بازارهای جهانی انتظار داشتند فدرال رزرو سیاست‌های پولی خود را تسهیل کند و اروپا با ثبات همراه باشد. با این حال، تحولات اقتصادی مسیر متفاوتی را در پیش گرفته است.",
-      "key_points_fa": [
-        "تفاوت تحولات اقتصادی سال ۲۰۲۶ با پیش‌بینی‌های اولیه بازار",
-        "انتظار بازار برای تسهیل سیاست‌های پولی فدرال رزرو محقق نشده است",
-        "پیش‌بینی ثبات اقتصادی در اروپا با چالش مواجه شده است"
-      ],
-      "analysis_fa": "تغییرات غیرمنتظره در روندهای کلان اقتصادی نشان‌دهنده شکنندگی پیش‌بینی‌های مالی در سطح جهانی است. تفاوت میان انتظارات بازار و واقعیت‌های اقتصادی می‌تواند بر تصمیم‌گذاری سرمایه‌گذاران و سیاست‌گذاران پولی در آمریکا و اروپا تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد",
-        "#فدرال_رزرو",
-        "#بازار_جهانی",
-        "#اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1371,6 +1300,182 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e7749800b31f",
+      "source": "EL PAÍS Economía",
+      "title": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
+      "summary": "Houngbo deja la puerta abierta a que un afín a Trump ocupe la dirección general adjunta, al tiempo que baraja que Washington siga sin pagar sus cuotas",
+      "url": "https://elpais.com/economia/2026-08-18/el-rival-de-yolanda-diaz-en-la-oit-busca-el-favor-de-estados-unidos-en-la-batalla-por-la-direccion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/U6MGGFOUZ5DS3K4NIISJM7QRZI.jpg?auth=5fcda77195bfb1bb30f9364993b014fe76853ca3cecf6fe9764583e0c484dba4",
+      "published_at": "2026-08-18T03:45:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
+      "lead_fa": "Houngbo deja la puerta abierta a que un afín a Trump ocupe la dirección general adjunta, al tiempo que baraja que Washington siga sin pagar sus cuotas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b8f5a86d84e7",
+      "source": "EL PAÍS Economía",
+      "title": "El mayor problema del ‘shock’ petrolero está en la refinería",
+      "summary": "El Brent ha caído casi un tercio desde el máximo de la guerra de Irán, pero los combustibles apenas se han abaratado",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/el-mayor-problema-del-shock-petrolero-esta-en-la-refineria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RU2G5SCBNJP5DBCRQJOVJTEO7U.jpg?auth=21c7117ee23678b6e94268d877bdf5cd515ef7d0af8eab852d53e39753c325c4",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El mayor problema del ‘shock’ petrolero está en la refinería",
+      "lead_fa": "El Brent ha caído casi un tercio desde el máximo de la guerra de Irán, pero los combustibles apenas se han abaratado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aea84f8b3923",
+      "source": "EL PAÍS Economía",
+      "title": "La fiebre de la IA, un gol en propia meta de Europa",
+      "summary": "Los inversores de la zona euro tienen 440.000 millones expuestos a las grandes tecnológicas estadounidenses",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-fiebre-de-la-ia-un-gol-en-propia-meta-de-europa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I65YVRJHG5CPPDPLK7MMJCVJOI.jpg?auth=04bf82cfed274d4dfb9a81601c6ee7d75f795694d59f46a35b8c52f0823414ff",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La fiebre de la IA, un gol en propia meta de Europa",
+      "lead_fa": "Los inversores de la zona euro tienen 440.000 millones expuestos a las grandes tecnológicas estadounidenses",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3b81fe61a289",
+      "source": "EL PAÍS Economía",
+      "title": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
+      "summary": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/las-claves-lo-que-revela-una-hamburguesa-americana-en-mitad-de-la-china-rural.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z6I5MWYMT5HGTGA55TUTP2HOKQ?auth=348c88ac14952fcc886502e9c1f9e1720d114391c45ec32b20b22902afdc4d8e",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
+      "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "37e5c946cf96",
+      "source": "EL PAÍS Economía",
+      "title": "Europa y la tentación de vigilar para proteger",
+      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Europa y la tentación de vigilar para proteger",
+      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1e41da9cd788",
+      "source": "EL PAÍS Economía",
+      "title": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
+      "summary": "La rivalidad por el control del gas natural entre los países de la región está menos en la gestión de los yacimientos y más en la infraestructura para su mejor comercialización",
+      "url": "https://elpais.com/economia/negocios/2026-08-18/la-nueva-guerra-energetica-en-el-mediterraneo-oriental-y-por-que-egipto-y-turquia-llevan-las-de-ganar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3AE725VYNNDP3I4M5TK25GSMUM.jpg?auth=61395ea9e0a93ca2ffab4ed08556c41baa0ec151f24f4a871598b148cbbc9aa6",
+      "published_at": "2026-08-18T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
+      "lead_fa": "La rivalidad por el control del gas natural entre los países de la región está menos en la gestión de los yacimientos y más en la infraestructura para su mejor comercialización",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aa5dc7a0cf48",
+      "source": "EL PAÍS Economía",
+      "title": "A22, la promotora de la Superliga, perdió 3,1 millones antes del acuerdo de paz con la UEFA",
+      "summary": "Sus accionistas convirtieron en participativo un crédito de más de 10 millones para equilibrar su situación contable",
+      "url": "https://cincodias.elpais.com/companias/2026-08-18/a22-la-promotora-de-la-superliga-perdio-31-millones-antes-del-acuerdo-de-paz-con-la-uefa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XQCCAF2PLFA73ORWTXWVXALHLY.jpg?auth=ab647377c439f770c8928e46ce1a19cf7d4441fc8b539f81b758c3d598ad1d7a",
+      "published_at": "2026-08-18T03:15:00+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "A22, la promotora de la Superliga, perdió 3,1 millones antes del acuerdo de paz con la UEFA",
+      "lead_fa": "Sus accionistas convirtieron en participativo un crédito de más de 10 millones para equilibrar su situación contable",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "31582f5e443f",
+      "source": "EL PAÍS Economía",
+      "title": "La CNMC pone bajo la lupa el dominio total de Cellnex sobre la TDT en España",
+      "summary": "El regulador inicia el proceso para sustituir la supervisión directa del negocio de la difusión de televisión por compromisos vinculantes del operador",
+      "url": "https://cincodias.elpais.com/companias/2026-08-18/la-cnmc-pone-bajo-la-lupa-el-dominio-total-de-cellnex-sobre-la-tdt-en-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TTKB6YAQH5HHNOIBIPMM4JNOKU.jpg?auth=f3cafb649d0192364cf54db6cf35f4e8465c5d3321e19a4429c94e4b5f9eb4e7",
+      "published_at": "2026-08-18T03:15:00+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "La CNMC pone bajo la lupa el dominio total de Cellnex sobre la TDT en España",
+      "lead_fa": "El regulador inicia el proceso para sustituir la supervisión directa del negocio de la difusión de televisión por compromisos vinculantes del operador",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1795,34 +1900,6 @@
       "editorial_version": 2
     },
     {
-      "id": "be416328aa60",
-      "source": "EL PAÍS Economía",
-      "title": "STC reduce un 2,1% su beneficio semestral pero eleva un 3,8% sus ingresos",
-      "summary": "La ‘teleco’ saudí, accionista estratégica de Telefónica, repartirá esta semana un dividendo de 635 millones de euros",
-      "url": "https://cincodias.elpais.com/companias/2026-08-16/stc-reduce-un-21-su-beneficio-semestral-pero-eleva-un-38-sus-ingresos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SXVZV2GW3VBPJARYF4NVDWB6GY.png?auth=b0d7fd85e930019cd26a245fc244ad1426b613eb350fad12f12999ab95c11cc4",
-      "published_at": "2026-08-16T14:48:18+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "کاهش سود نیم‌سال شرکت مخابرات عربستان با وجود افزایش درآمد",
-      "lead_fa": "شرکت مخابرات عربستان سعودی، سهامدار استراتژیک تلفونیکا، گزارش مالی نیم‌ساله خود را منتشر کرد. این شرکت این هفته سود سهام قابل توجهی میان سهامداران توزیع می‌کند.",
-      "key_points_fa": [
-        "سود نیم‌ساله شرکت مخابرات عربستان ۲.۱ درصد کاهش یافت.",
-        "درآمد این شرکت ۳.۸ درصد افزایش نشان می‌دهد.",
-        "مبلغ ۶۳۵ میلیون یورو سود سهام در هفته جاری توزیع می‌شود."
-      ],
-      "analysis_fa": "تغییرات مالی شرکت‌های بزرگ مخابراتی نشان‌دهنده نوسانات بازار و هزینه‌های عملیاتی در کنار رشد درآمد است. حضور سرمایه‌گذاران خارجی در زیرساخت‌های کلیدی اسپانیا همواره از ابعاد مختلف اقتصادی و نظارتی بررسی می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#تلفونیکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "98add023a0f0",
       "source": "EL PAÍS",
       "title": "El rey Harald V de Noruega, hospitalizado en Oslo por una anemia",
@@ -1904,34 +1981,6 @@
         "#والنسیا",
         "#موج_گرما",
         "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "56f4ccf2eb06",
-      "source": "EL PAÍS Economía",
-      "title": "Los ecologistas y el sector de renovables dudan de que se cumpla el calendario de cierre del resto de centrales nucleares tras la prórroga de Almaraz",
-      "summary": "Greenpeace considera previsible que la dificultad de desconectar cuatro reactores a la vez en 2030 sea usada como pretexto para nuevos aplazamientos",
-      "url": "https://elpais.com/economia/2026-08-16/los-ecologistas-y-el-sector-de-renovables-dudan-que-se-cumpla-el-calendario-de-cierre-del-resto-de-centrales-nucleares-tras-la-prorroga-de-almaraz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZGES23NUJJCIVAEVRL4Z4GMCT4.JPG?auth=683cb6efa9fdac0b4bb8303ec48872a839b1db06b9852badcc6f28e8ec2ee7cd",
-      "published_at": "2026-08-15T05:16:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "تردید فعالان محیط‌زیست درباره برنامه تعطیلی نیروگاه‌های هسته‌ای اسپانیا",
-      "lead_fa": "پس از تمدید فعالیت نیروگاه آلماراز، گروه‌های مدافع محیط‌زیست و بخش انرژی‌های تجدیدپذیر درباره اجرای جدول زمانی تعطیلی دیگر نیروگاه‌های هسته‌ای ابراز تردید کردند. صرافی گرین‌پیس هشدار داد که چالش قطع هم‌زمان چهار راکتور در سال ۲۰۳۰ ممکن است بهانه‌ای برای تعویق‌های بیشتر شود.",
-      "key_points_fa": [
-        "تمدید فعالیت نیروگاه هسته‌ای آلماراز در اسپانیا",
-        "تردید فعالان محیط‌زیست و بخش انرژی‌های تجدیدپذیر درباره پایبندی به تقویم زمانی تعطیلی نیروگاه‌ها",
-        "هشدار صرافی گرین‌پیس درباره احتمال استفاده از دشواری قطع چهار راکتور در سال ۲۰۳۰ به عنوان بهانه‌ای برای تعویق‌های آینده"
-      ],
-      "analysis_fa": "این بحث نشان‌دهنده چالش‌های پیچیده دولت اسپانیا در گذار به انرژی‌های پاک بدون به خطر انداختن ثبات شبکه برق است. در حالی که تعهدات زیست‌محیطی خواستار حذف انرژی هسته‌ای است، چالش‌های فنی و اجرایی همچنان مانع بزرگی بر سر راه اجرای دقیق برنامه‌ها محسوب می‌شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#انرژی_هسته‌ای",
-        "#محیط_زیست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2127,34 +2176,6 @@
         "#اسپانیا",
         "#زندان",
         "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7f7ea14d214a",
-      "source": "EL PAÍS Economía",
-      "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
-      "summary": "La Comisión prepara un mecanismo para diversificar el origen de los proveedores en sectores críticos y un fondo de compensación para amortiguar el impacto de posibles represalias",
-      "url": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4Z7RFHMANMYNISPXDBE3ZFYQA.jpg?auth=0016a46cb777f340d509b94d51e0cc91c2c48cd25bddaa1710045f2df4270674",
-      "published_at": "2026-08-16T03:45:01+00:00",
-      "category": "economia",
-      "priority": 65,
-      "title_fa": "آمادگی بروکسل برای مقابله با جنگ تجاری احتمالی با چین",
-      "lead_fa": "کمیسیون اروپا طرحی را برای کاهش وابستگی تجاری به چین آماده می‌کند. این اقدام شامل تنوع‌بخشی به تامین‌کنندگان و ایجاد صندوق حمایتی است.",
-      "key_points_fa": [
-        "تهیه مکانیزمی برای تنوع‌بخشی به مبادی تامین در بخش‌های حیاتی",
-        "پیش‌بینی صندوق جبران خسارت برای کاهش اثرات تلافی‌جویانه احتمالی",
-        "واکنش اتحادیه اروپا به ریسک‌های تجاری و اقتصادی مرتبط با پکن"
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده رویکرد احتیاطی اتحادیه اروپا در برابر تنش‌های تجاری فزاینده با چین است. تلاش برای امن‌سازی زنجیره‌های تامین حیاتی می‌تواند پویایی‌های تجاری در بازار اروپا را تحت تاثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اتحادیه_اروپا",
-        "#چین",
-        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2584,94 +2605,6 @@
       "editorial_version": 2
     },
     {
-      "id": "45ab2139c405",
-      "source": "EL PAÍS Economía",
-      "title": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
-      "summary": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
-      "url": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-08-17/marc-vicente-inpost-iberia-el-estres-no-significa-tener-mucho-trabajo-sino-poco-control.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXDQO2BY3BHJTOATM63B4HMCBQ.jpg?auth=cfe3dd23bfac82113e81adfe428d9846736cf7f684f70fa12cbf7e00c196709f",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
-      "lead_fa": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9f588b3f3f15",
-      "source": "EL PAÍS Economía",
-      "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
-      "summary": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WAY5PFTBSRM4BFVP3TGELZUBWU.jpg?auth=515a972b3363c8bdfe8159e48adcc7e5d95288a4690e4463176c4a55a7629eeb",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
-      "lead_fa": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "43bad0c15e93",
-      "source": "EL PAÍS Economía",
-      "title": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
-      "summary": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/grant-thornton-avisa-de-un-atasco-en-el-private-equity-espanol-porque-el-valor-que-aporta-se-ha-agotado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OABQ4IAXZNALJFLRWA6OPCTS34.jpeg?auth=54a504ca13684756ae388ad28484f7d78813b86cd1b7600b9c7cc67e12717e67",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
-      "lead_fa": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8d1be23211f9",
-      "source": "EL PAÍS Economía",
-      "title": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispuesta a pagar por ella”",
-      "summary": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
-      "url": "https://cincodias.elpais.com/companias/2026-08-17/beatriz-navarro-amkt-una-compania-vale-lo-que-valga-su-marca-y-lo-que-la-gente-este-dispueta-a-pagar-por-ella.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6ZBPPAXEGFAKBKU4WNPJZYWCWM.jpg?auth=4be32959d211f3aad769a5c817455e1ab8c5c54a7fc786e2a2a3bac628fe03ee",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispuesta a pagar por ella”",
-      "lead_fa": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c3b6c38a7e37",
       "source": "EL PAÍS España",
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -2700,6 +2633,94 @@
       "editorial_version": 2
     },
     {
+      "id": "45ab2139c405",
+      "source": "EL PAÍS Economía",
+      "title": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
+      "summary": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
+      "url": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-08-17/marc-vicente-inpost-iberia-el-estres-no-significa-tener-mucho-trabajo-sino-poco-control.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WXDQO2BY3BHJTOATM63B4HMCBQ.jpg?auth=cfe3dd23bfac82113e81adfe428d9846736cf7f684f70fa12cbf7e00c196709f",
+      "published_at": "2026-08-17T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
+      "lead_fa": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9f588b3f3f15",
+      "source": "EL PAÍS Economía",
+      "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+      "summary": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WAY5PFTBSRM4BFVP3TGELZUBWU.jpg?auth=515a972b3363c8bdfe8159e48adcc7e5d95288a4690e4463176c4a55a7629eeb",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "ciencia",
+      "priority": 62,
+      "title_fa": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+      "lead_fa": "La sanción más dura a la que se expone está ligada a la investigación abierta por Bruselas sobre la venta de productos ilegales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "43bad0c15e93",
+      "source": "EL PAÍS Economía",
+      "title": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
+      "summary": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/grant-thornton-avisa-de-un-atasco-en-el-private-equity-espanol-porque-el-valor-que-aporta-se-ha-agotado.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OABQ4IAXZNALJFLRWA6OPCTS34.jpeg?auth=54a504ca13684756ae388ad28484f7d78813b86cd1b7600b9c7cc67e12717e67",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Grant Thornton avisa de un atasco en el ‘private equity’ español porque el valor que aporta se ha agotado",
+      "lead_fa": "Las gestoras buscan hacer caja con las inversiones pospandemia, pero las valoraciones se quedan cortas y provocan un cuello de botella en las salidas. Las firmas pagan dividendos para contentar a los inversores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8d1be23211f9",
+      "source": "EL PAÍS Economía",
+      "title": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispuesta a pagar por ella”",
+      "summary": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
+      "url": "https://cincodias.elpais.com/companias/2026-08-17/beatriz-navarro-amkt-una-compania-vale-lo-que-valga-su-marca-y-lo-que-la-gente-este-dispueta-a-pagar-por-ella.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6ZBPPAXEGFAKBKU4WNPJZYWCWM.jpg?auth=4be32959d211f3aad769a5c817455e1ab8c5c54a7fc786e2a2a3bac628fe03ee",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Beatriz Navarro (AMKT) “Una compañía vale lo que valga su marca y lo que la gente esté dispuesta a pagar por ella”",
+      "lead_fa": "La directora de marketing de Renault preside desde hace unas semanas la asociación que reúne a los profesionales del área. Quiere impulsar la formación en un sector cambiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "8352601f952f",
       "source": "La Vanguardia",
       "title": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
@@ -2711,72 +2732,6 @@
       "priority": 61,
       "title_fa": "Isla Cristina, en shock tras un triple crimen con una embarazada entre las víctimas",
       "lead_fa": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas: una mujer de 39 años embarazada de ocho meses, otra de 62 años y un menor de 16 en la barriada de El Rocío",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b2df21c5c4c5",
-      "source": "EL PAÍS Economía",
-      "title": "La transición energética depende de la red eléctrica",
-      "summary": "Hay que poner el foco de forma decidida en la mejora de la capacidad de transmisión y de almacenamiento",
-      "url": "https://elpais.com/economia/negocios/2026-08-16/la-transicion-energetica-depende-de-la-red-electrica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OXMGFVN2UFEY3OONJRJLL2YXS4.jpg?auth=f330f25ef22da4f14785a0c6bd6daed3aebcee366aa2344dd5840b4fc262c343",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "La transición energética depende de la red eléctrica",
-      "lead_fa": "Hay que poner el foco de forma decidida en la mejora de la capacidad de transmisión y de almacenamiento",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7c3b09f4a4c9",
-      "source": "EL PAÍS Economía",
-      "title": "Un accidente en la montaña rusa, cogidas en los encierros o quemados con los fuegos artificiales: cuando las fiestas de los pueblos no salen gratis",
-      "summary": "Desde percances pirotécnicos hasta cornadas en festejos taurinos: la falta de previsión puede conducir a elevadas indemnizaciones",
-      "url": "https://elpais.com/economia/negocios/2026-08-16/un-accidente-en-la-montana-rusa-cogidas-en-los-encierros-o-quemados-con-los-fuegos-artificiales-cuando-las-fiestas-de-los-pueblos-no-salen-gratis.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MVN7ZVY6TNAC5BRMFMSJUQNLCM.jpg?auth=73a6d2966cb5f44177a7fa64b7bd56c19d37493524f9385b7e4f4a73482fabaf",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Un accidente en la montaña rusa, cogidas en los encierros o quemados con los fuegos artificiales: cuando las fiestas de los pueblos no salen gratis",
-      "lead_fa": "Desde percances pirotécnicos hasta cornadas en festejos taurinos: la falta de previsión puede conducir a elevadas indemnizaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9c924e8e8949",
-      "source": "EL PAÍS Economía",
-      "title": "Los niños ya no vienen con un pan debajo del brazo o cuando la maternidad sigue penalizando a las mujeres",
-      "summary": "La desigualdad de género frustra el deseo de muchas madres de tener más hijos. Ven cómo sus carreras y salarios se quedan atrás respecto a los hombres",
-      "url": "https://elpais.com/economia/negocios/2026-08-16/los-ninos-ya-no-vienen-con-un-pan-debajo-del-brazo-o-por-que-la-maternidad-sigue-penalizando-a-las-mujeres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PXVB3HPHJ5H5ZETBOCIWMJT6QE.JPG?auth=ed8ab58218034bf1fed213fdcdf7e4f8de03bff5c309fc9d510c97df38eeea87",
-      "published_at": "2026-08-16T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Los niños ya no vienen con un pan debajo del brazo o cuando la maternidad sigue penalizando a las mujeres",
-      "lead_fa": "La desigualdad de género frustra el deseo de muchas madres de tener más hijos. Ven cómo sus carreras y salarios se quedan atrás respecto a los hombres",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2817,7 +2772,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 151
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
