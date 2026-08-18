@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:33:40.024687+00:00",
+  "generated_at": "2026-08-18T23:55:26.639832+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "60469daaa078",
@@ -745,36 +745,6 @@
       "editorial_version": 2
     },
     {
-      "id": "22ff46b84f4d",
-      "source": "La Vanguardia",
-      "title": "El Gobierno esquiva definitivamente al Senado para blindar su relato de Ceuta en el Congreso",
-      "summary": "La maniobra carece de consecuencias legales, aunque el PP lo elevará al Constitucional, pero margina la funcionalidad de la Cámara Alta",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615935/gobierno-esquiva-senado-blindar-relato-ceuta-congreso.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84492043fc8.jpeg",
-      "published_at": "2026-08-18T13:21:24+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "دولت اسپانیا سنا را در مناقشه سئوتا دور زد",
-      "lead_fa": "دولت مرکزی توانست با مانوری سیاسی از سناریوی سنا عبور کند. این اقدام با واکنش حزب مردمی (PP) برای ارجاع به دادگاه قانون اساسی مواجه شده است.",
-      "key_points_fa": [
-        "دور زدن سنا برای تثبیت روایت دولتی درباره رویدادهای سئوتا",
-        "اقدام دولت فاقد پیامدهای حقوقی مستقیم است",
-        "حزب مردمی (PP) قصد دارد موضوع را به دادگاه قانون اساسی بکشاند",
-        "این مانور کارکرد نظارتی مجلس سنا را به حاشیه رانده است"
-      ],
-      "analysis_fa": "این اقدام دولت نشان‌دهنده تنش‌های نهادی میان کنگره و سنا است، به‌ویژه در موضوعات حساس سیاسی مانند سئوتا. اگرچه این مانور از نظر قانونی چالش بزرگی ایجاد نمی‌کند، اما ابعاد سیاسی و حقوقی آن با واکنش احزاب مخالف روبه‌رو شده و بار دیگر کارآمدی نهادهای قانون‌گذاری را زیر سوال برده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سئوتا",
-        "#سنا",
-        "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "8e76483b2465",
       "source": "EL PAÍS España",
       "title": "El PP acusa al Gobierno de cercenar a las fuerzas armadas en la incomparecencia de Robles sobre Ceuta",
@@ -1082,6 +1052,90 @@
         "#ونزوئلا",
         "#سیاست",
         "#دادگاه_عالی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "40aac7fa3365",
+      "source": "La Vanguardia",
+      "title": "Así es el cráter provocado por el cohete de SpaceX que se estrelló en la Luna",
+      "summary": "Las fotografías revelan franjas más claras y más oscuras que irradian desde el cráter, el cual tiene 18 metros de ancho y menos de 3 metros de profundidad",
+      "url": "https://www.lavanguardia.com/vida/20260819/11616341/nasa-publica-imagenes-crater-formado-cohete-spacex-estrello-luna.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a84de2c68caf.jpeg",
+      "published_at": "2026-08-19T00:36:11+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "تصاویر دهانه برخورد موشک اسپیس‌ایکس به ماه",
+      "lead_fa": "تصاویر جدید ابعاد دهانه ناشی از برخورد یک موشک اسپیس‌ایکس به ماه را نشان می‌دهند. این دهانه ۱۸ متر عرض و کمتر از ۳ متر عمق دارد.",
+      "key_points_fa": [
+        "تصاویر، نوارهای روشن و ت تیره‌ای را باز می کنند که از دهانه منشعب می‌شوند.",
+        "قطر دهانه برخورد ۱۸ متر اندازه گیری شده است.",
+        "عمق دهانه ایجاد شده کمتر از ۳ متر است."
+      ],
+      "analysis_fa": "بررسی بقایای فضایی و پوسته‌های موشک‌های سرگردان در فضا، اطلاعات ارزشمندی درباره تأثیرات برخورد اجسام بر سطح اجرام آسمانی و چگونگی پخش مواد سطحی در اختیار دانشمندان می‌گذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپیس‌ایکس",
+        "#ماه",
+        "#فضا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "80cd5733dd72",
+      "source": "La Vanguardia",
+      "title": "El gambito marroquí",
+      "summary": "España necesita saber qué quiere de Marruecos y qué está dispuesta a pagar por conseguirlo",
+      "url": "https://www.lavanguardia.com/opinion/20260819/11615964/gambito-marroqui.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84464509a20.jpeg",
+      "published_at": "2026-08-19T00:30:00+02:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "راهبرد اسپانیا در قبال مراکش؛ نیاز به شفافیت و هزینه کرد",
+      "lead_fa": "اسپانیا باید اهداف خود را در روابط با مراکش به روشنی مشخص کند. همچنین این کشور باید بهای لازم برای دستیابی به این اهداف را بپردازد.",
+      "key_points_fa": [
+        "لزوم تعیین دقیق منافع راهبردی اسپانیا در قبال مراکش",
+        "بررسی هزینه‌های سیاسی و اقتصادی تحقق اهداف دوجانبه"
+      ],
+      "analysis_fa": "روابط اسپانیا و مراکش همواره از پیچیدگی‌های سیاسی و امنیتی بالایی برخوردار بوده است. این تحلیل بر ضرورت بازنگری مادرید در سیاست‌های منطقه‌ای خود تأکید می‌کند تا منافع ملی این کشور با واقعیت‌های ژئوپلیتیکی تطبیق یابد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مراکش",
+        "#سیاست_خارجی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "421ac1a06983",
+      "source": "La Vanguardia",
+      "title": "Negar la evidencia",
+      "summary": "La Moncloa pretende equilibrios imposibles con Marruecos, con Ceuta, la UE y la opinión pública",
+      "url": "https://www.lavanguardia.com/opinion/20260819/11616204/negar-evidencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81cd05acb02.r_d.2651-2305-0.jpeg",
+      "published_at": "2026-08-19T00:05:00+02:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "تلاش مونکلوا برای ایجاد تعادل دشوار میان مراکش و اتحادیه اروپا",
+      "lead_fa": "دولت اسپانیا در تلاش است تا تعادلی دشوار میان روابط با مراکش، سبته، اتحادیه اروپا و افکار عمومی برقرار کند. این سیاست با چالش‌های پیچیده دیپلماتیک و داخلی روبه‌رو است.",
+      "key_points_fa": [
+        "تلاش دولت اسپانیا برای حفظ توازن دیپلماتیک با مراکش و اتحادیه اروپا",
+        "وجود چالش‌های مرتبط با مناطق سبته و مللیه در روابط دو کشور",
+        "نقش و واکنش افکار عمومی اسپانیا نسبت به سیاست خارجی دولت"
+      ],
+      "analysis_fa": "دولت اسپانیا در مدیریت روابط خود با مراکش با آزمون سختی روبه‌روست. این وضعیت نیازمند دیپلماسی دقیقی است تا هم‌زمان منافع اتحادیه اروپا، امنیت مرزی در سبته و انتظارات داخلی مدیریت شوند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مراکش",
+        "#اتحادیه_اروپا",
+        "#سیاست_خارجی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1511,34 +1565,6 @@
       "editorial_version": 2
     },
     {
-      "id": "120a2f9aaf80",
-      "source": "EL PAÍS Economía",
-      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "مقابله اتحادیه اروپا با ادعاهای دروغین پایداری شرکت‌ها",
-      "lead_fa": "اتحادیه اروپا از ماه سپتامبر قوانین سخت‌گیرانه‌ای را برای اثبات ادعاهای زیست‌محیطی شرکت‌ها اجرا می‌کند. این اقدام با هدف جلوگیری از فریب مصرف‌کنندگان از طریق تبلیغات سبز انجام می‌شود.",
-      "key_points_fa": [
-        "آغاز نظارت سخت‌گیرانه اتحادیه اروپا بر ادعاهای پایداری شرکت‌ها از ماه سپتامبر",
-        "لزوم ارائه مستندات معتبر برای شرکت‌هایی که ادعای سازگاری با محیط زیست دارند",
-        "مقابله با پدیده سکوت و اطلاعات ناقص در گمراه کردن مصرف‌کنندگان"
-      ],
-      "analysis_fa": "قوانین جدید اتحادیه اروپا نشان‌دهنده تغییر رویکرد نهادهای نظارتی از شعارهای کلی به سوی الزام شفافیت واقعی است. شرکت‌ها دیگر نمی‌توانند تنها با ادعا یا پنهان‌سازی اطلاعات، خود را حامی محیط زیست معرفی کنند و موظف به ارائه مستندات قابل اتکا خواهند بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد_اروپا",
-        "#محیط_زیست",
-        "#حقوق_مصرف‌کننده"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "b0fc015013d9",
       "source": "EL PAÍS",
       "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
@@ -1709,34 +1735,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4bef9647041c",
-      "source": "La Vanguardia",
-      "title": "El misterio de las últimas horas de Lorca",
-      "summary": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "url": "https://www.lavanguardia.com/cultura/20260818/11615922/misterio-ultimas-horas-lorca-aniversario-muerte.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a855ad4ed6.r_d.448-477-0.jpeg",
-      "published_at": "2026-08-18T13:07:31+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "رمزگشایی از ساعت‌های پایانی زندگی فدریکو گارسیا لورکا",
-      "lead_fa": "با گذشت نود سال از قتل فدریکو گارسیا لورکا، فرضیه‌ها درباره نقش یک توطئه چندجانبه در اعدام او قوت گرفته است. این شاعر برجسته اسپانیایی همچنان یکی از چهره‌های نمادین تاریخ معاصر این کشور باقی مانده است.",
-      "key_points_fa": [
-        "شایعات و تحقیقات جدید حاکی از وجود توطئه‌ای چندجانبه در قتل لورکا است.",
-        "این تحولات در آستانه نودمین سالگرد ترور این شاعر مطرح می‌شود.",
-        "جزئیات جدیدی از ابهام‌های ساعات پایانی زندگی او مورد بررسی قرار گرفته است."
-      ],
-      "analysis_fa": "پرونده قتل فدریکو گارسیا لورکا همچنان پس از دهه‌ها ابعاد تازه‌ای پیدا می‌کند. بررسی اسناد و نظریه‌های تازه نشان‌دهنده پیچیدگی‌های سیاسی و اجتماعی دوران جنگ داخلی اسپانیا است که هنرمندان را به شدت تحت تأثیر قرار داده بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#لورکا",
-        "#ادبیات_اسپانیا",
-        "#تاریخ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "14232c035536",
       "source": "EL PAÍS España",
       "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
@@ -1833,28 +1831,6 @@
       "priority": 66,
       "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
       "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "80813ba9e38f",
-      "source": "La Vanguardia",
-      "title": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "summary": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615916/sube-rojo-aviso-miercoles-litoral-valencia-alicante-esperan-44-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a70a8ce59a41.jpeg",
-      "published_at": "2026-08-18T12:53:46+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "lead_fa": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2262,6 +2238,28 @@
       "editorial_version": 2
     },
     {
+      "id": "37e5c946cf96",
+      "source": "EL PAÍS Economía",
+      "title": "Europa y la tentación de vigilar para proteger",
+      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "ciencia",
+      "priority": 64,
+      "title_fa": "Europa y la tentación de vigilar para proteger",
+      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3936204263ee",
       "source": "EL PAÍS",
       "title": "Otro eclipse llega a España este agosto, pero este es parcial y de Luna: “Tendrá el color de todos los atardeceres de la Tierra”",
@@ -2658,7 +2656,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 132
     }
   ]
 }
