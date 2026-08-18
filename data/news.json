@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T16:46:02.931744+00:00",
+  "generated_at": "2026-08-18T17:39:07.555869+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "551cea927b0f",
     "60469daaa078",
     "510fd9722dcf",
-    "1243b47eb865",
-    "d9298d38cd1f"
+    "d9298d38cd1f",
+    "47462903d9d1"
   ],
   "items": [
     {
@@ -15,8 +15,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas denuncia que Ceuta se “siente impotente” y asegura que “el Gobierno tiene medios” para expulsar a los migrantes",
       "summary": "El Poder Judicial ve necesario un refuerzo de los juzgados de la ciudad y el Gobierno asegura que ya lo ha llevado a cabo",
       "url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AYM2XZXMJNGRNDMYEUSEHCRYYM.jpg?auth=13b9a304b00ed81ff05ce2a670cb3ef0e1602f2f51c1f3a6813749745826c976",
-      "published_at": "2026-08-18T16:33:54+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/M2T3ZGWICZHTNCPRLSDBODQ57E.jpg?auth=2dbe4f04dc4ad14545bf852d702b2fb36cdd2f3fcb2fbfe7def26fa1786110e4",
+      "published_at": "2026-08-18T16:43:33+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "بحران مهاجرت در سئوتا؛ دستگاه قضایی خواستار تقویت دادگاه‌ها شد",
@@ -90,35 +90,6 @@
         "#گرانادا",
         "#اسپانیا",
         "#الحمرا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "1243b47eb865",
-      "source": "EL PAÍS",
-      "title": "Los tropiezos de De la Espriella en medio de la emergencia: un ministro en la playa, balones con propaganda política y clases virtuales sin acceso a wifi",
-      "summary": "Los congresistas llaman al ministro de Vivienda a una moción de censura por tomarse un descanso, mientras que habitantes del Pacífico critican la oferta sin tener en cuenta las realidades locales",
-      "url": "https://elpais.com/america-colombia/2026-08-18/los-tropiezos-de-de-la-espriella-en-medio-de-la-emergencia-un-ministro-en-la-playa-balones-con-propaganda-politica-y-clases-virtuales-sin-acceso-a-wifi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205330_165920_video_1800.mp4",
-      "published_at": "2026-08-18T04:00:00+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "درخواست استیضاح وزیر مسکن اسپانیا همزمان با بحران و انتقادات گسترده",
-      "lead_fa": "نمایندگان کنگره اسپانیا خواستار برگزاری جلسه استیضاح وزیر مسکن شدند. این اقدام پس از انتشار تصاویری از استراحت او در ساحل و انتقاد ساکنان مناطق بحران‌زده انجام شد.",
-      "key_points_fa": [
-        "فراخوان نمایندگان کنگره برای استیضاح وزیر مسکن",
-        "انتقادات مردمی در منطقه اقیانوس آرام به راهکارهای غیرعملی دولت",
-        "حاشیه‌های مربوط به تبلیغات سیاسی و مشکلات دسترسی به اینترنت در کلاس‌های مجازی"
-      ],
-      "analysis_fa": "این حاشیه‌ها فشار سیاسی بر دولت را در مدیریت بحران‌های جاری افزایش داده است و نشان‌دهنده چالش میان برنامه‌ریزی‌های مرکزی و واقعیت‌های محلی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#استیضاح",
-        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -210,6 +181,61 @@
       "editorial_version": 2
     },
     {
+      "id": "6de68f55ceda",
+      "source": "EL PAÍS",
+      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
+      "summary": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. “Es una tortura”, dice una vecina afectada",
+      "url": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
+      "published_at": "2026-08-18T17:37:13+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "زمین‌لرزه ۴.۷ ریشتری گرانادا را لرزاند",
+      "lead_fa": "زمین‌لرزه‌ای با قدرت ۴.۷ ریشتر استان گرانادا در اسپانیا را لرزاند. کانون این زمین‌لرزه منطقه آلهندین اعلام شده است.",
+      "key_points_fa": [
+        "بزرگی زمین‌لرزه ۴.۷ ریشتر ثبت شد.",
+        "کانون زلزله در منطقه آلهندین قرار داشت."
+      ],
+      "analysis_fa": "این زمین‌لرزه در یکی از مناطق لرزه‌خیز اسپانیا رخ داده است و مقامات محلی در حال ارزیابی خسارات احتمالی هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#گرانادا",
+        "#زلزله",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "20809ee61cc9",
+      "source": "EL PAÍS",
+      "title": "Un incendio en Las Hurdes (Cáceres) obliga a movilizar a la UME y evacuar a 600 vecinos",
+      "summary": "La Junta de Extremadura ha activado la situación operativa 2",
+      "url": "https://elpais.com/espana/2026-08-18/un-incendio-en-las-hurdes-caceres-obliga-a-movilizar-a-la-ume-y-evacuar-a-300-vecinos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MQ7CKP7DAFAYTDKGBU6CO5JFCI.jpg?auth=4605c17374ded88c297e2de1dfead7e230bfcbcf43069178540ea959d387969e",
+      "published_at": "2026-08-18T17:36:23+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "آتش‌سوزی در لاس اوردز کاثارس؛ تخلیه ۶۰۰ تن و ورود ارتش",
+      "lead_fa": "وقوع یک آتش‌سوزی جنگلی در منطقه لاس اوردز در استان کاثارس اسپانیا باعث تخلیه ۶۰۰ نفر از ساکنان شد. دولت محلی اکسترمادورا سطح هشدار عملیاتی ۲ را فعال کرده و واحد امداد اضطراری ارتش (UME) را به منطقه اعزام کرده است.",
+      "key_points_fa": [
+        "فعال‌سازی سطح هشدار عملیاتی ۲ توسط دولت محلی اکسترمادورا",
+        "تخلیه احتیاطی حدود ۶۰۰ نفر از ساکنان محلی برای حفظ امنیت",
+        "مشارکت واحد امداد اضطراری ارتش اسپانیا (UME) در مهار آتش"
+      ],
+      "analysis_fa": "آتش‌سوزی‌های جنگلی در فصل گرما به یکی از چالش‌های جدی مدیریتی در مناطق مختلف اسپانیا تبدیل شده‌اند. واکنش سریع نهادهای محلی و به‌کارگیری نیروهای ارتش نشان‌دهنده سطح بالای آمادگی و حساسیت دولت در برابر تهدیدات زیست‌محیطی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "0134d86f968e",
       "source": "La Vanguardia",
       "title": "Granada tiembla otra vez: ¿Por qué hay tantos terremotos?",
@@ -232,6 +258,35 @@
         "#گرانادا",
         "#زمین_لرزه",
         "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "91c703f845cc",
+      "source": "EL PAÍS",
+      "title": "Muere a los 83 años el mago Juan Tamariz, genio de la cartomancia y maestro de generaciones de ilusionistas",
+      "summary": "El mítico artista, idolatrado por sus compañeros y el público, y popular por su éxito televisivo, empezó a hacer trucos con cartas a los cuatro años",
+      "url": "https://elpais.com/cultura/2026-08-18/muere-a-los-83-anos-el-mago-juan-tamariz-genio-de-la-cartomagia-y-maestro-de-generaciones-de-ilusionistas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SGQCCKDQNNA3TJWABGO3SAGJUI.jpg?auth=5fb9bb7e035297e2f97512b9c0373859605fdc26c2baf4e8d8c4af16327f217f",
+      "published_at": "2026-08-18T17:07:40+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "درگذشت خوان تاماریز، جادوگر و استاد بزرگ شعبده‌بازی اسپانیا در ۸۳ سالگی",
+      "lead_fa": "خوان تاماریز، هنرمند اسطوره‌ای و استاد شعبده‌بازی و کارتومانی اسپانیا، در سن ۸۳ سالگی درگذشت. او که از چهار سالگی به شعبده‌بازی با ورق روی آورده بود، محبوبیت زیادی میان مخاطبان تلویزیون و همکارانش داشت.",
+      "key_points_fa": [
+        "خوان تاماریز در سن ۸۳ سالگی درگذشت.",
+        "او از چهار سالگی شروع به انجام شعبده‌بازی با ورق کرده بود.",
+        "تاماریز به عنوان یک استاد برجسته و الهام‌بخش برای نسل‌های مختلف شعبده‌بازان شناخته می‌شد."
+      ],
+      "analysis_fa": "درگذشت خوان تاماریز پایان بخشی از تاریخ شعبده‌بازی نوین اسپانیاست. او با سبک منحصربه‌فرد، دانش عمیق و حضور پررنگ خود در تلویزیون، هنر شعبده‌بازی را از یک سرگرمی ساده به یک هنر نمایشی محبوب ارتقا داد و تأثیر عمیقی بر نسل‌های زیادی از شعبده‌بازان گذاشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#خوان_تاماریز",
+        "#شعبده_بازی",
+        "#اسپانیا",
+        "#فرهنگ_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -260,33 +315,6 @@
         "#فیلیدا_لاو",
         "#سینمای_بریتانیا",
         "#درگذشت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6de68f55ceda",
-      "source": "EL PAÍS",
-      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
-      "summary": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. “Es una tortura”, dice una vecina afectada",
-      "url": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-18T15:59:32+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "زمین‌لرزه ۴.۷ ریشتری گرانادا را لرزاند",
-      "lead_fa": "زمین‌لرزه‌ای با قدرت ۴.۷ ریشتر استان گرانادا در اسپانیا را لرزاند. کانون این زمین‌لرزه منطقه آلهندین اعلام شده است.",
-      "key_points_fa": [
-        "بزرگی زمین‌لرزه ۴.۷ ریشتر ثبت شد.",
-        "کانون زلزله در منطقه آلهندین قرار داشت."
-      ],
-      "analysis_fa": "این زمین‌لرزه در یکی از مناطق لرزه‌خیز اسپانیا رخ داده است و مقامات محلی در حال ارزیابی خسارات احتمالی هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#گرانادا",
-        "#زلزله",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -490,34 +518,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d8b23bcc5fbf",
-      "source": "EL PAÍS",
-      "title": "Berrocal se salvó por quinta vez de las llamas con 12 vecinos escondidos para defender al pueblo: “El fuego se quedó a 50 metros”",
-      "summary": "El último incendio ha arrasado el 90% de las 12.500 hectáreas de los montes de este municipio de Huelva y 33.000 de la provincia, según el último cálculo satelital",
-      "url": "https://elpais.com/espana/2026-08-18/berrocal-se-salvo-por-quinta-vez-de-las-llamas-con-12-vecinos-escondidos-para-defender-al-pueblo-el-fuego-se-quedo-a-50-metros.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205285_141720_video_1800.mp4",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "نجات روستای بروکال از آتش‌سوزی در اوئلوا",
-      "lead_fa": "آتش‌سوزی اخیر ۹۰ درصد از اراضی جنگلی منطقه بروکال در استان اوئلوا را خاکستر کرد. این پنجمین بار است که این روستا با تلاش اهالی از آتش نجات می‌یابد.",
-      "key_points_fa": [
-        "آتش‌سوزی ۹۰ درصد از ۱۲۵۰۰ هکتار اراضی جنگلی بروکال را نابود کرد.",
-        "در سطح استان اوئلوا نیز ۳۳۰۰۰ هکتار در آتش سوخت.",
-        "۱۲ نفر از اهالی برای دفاع از روستا در برابر شعله‌ها پنهان شده بودند."
-      ],
-      "analysis_fa": "این رویداد بار دیگر آسیب‌پذیری مناطق جنگلی و روستایی اسپانیا را در برابر آتش‌سوزی‌های گسترده تابستانی نشان می‌دهد. خسارت‌های وسیع به ثبت رسیده چالش‌های پیش روی مدیریت بحران و حفاظت از محیط زیست را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش‌سوزی",
-        "#محیط‌زیست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "daa11839bdf4",
       "source": "EL PAÍS España",
       "title": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
@@ -541,6 +541,35 @@
         "#اسپانیا",
         "#حوادث",
         "#ساراگوسا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "29fabc9030e8",
+      "source": "EL PAÍS",
+      "title": "Comienza el juicio decisivo contra Meta: “Sabían que sus plataformas perjudicaban a los jóvenes”",
+      "summary": "Cuatro estados acusan a Facebook e Instagram de diseñar sistemas para fomentar la adicción de los adolescentes. Reclaman 200.000 millones de dólares en un tribunal californiano",
+      "url": "https://elpais.com/tecnologia/2026-08-18/comienza-el-juicio-decisivo-contra-meta-sabian-que-sus-plataformas-perjudicaban-a-los-jovenes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BO435Y2MBVN4BGH2BN6QPL4IHY.jpg?auth=c513a11497f78c70c1fb68fa5166309aa0b460ef3d6a4ac85a3e9d118e5ea0c4",
+      "published_at": "2026-08-18T17:14:23+00:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "آغاز محاکمه سرنوشت‌ساز متا؛ اتهام آسیب به جوانان",
+      "lead_fa": "چهار ایالت آمریکا شرکت‌های فیسبوک و اینستاگرام را به طراحی سیستم‌های اعتیادآور برای نوجوانان متهم کردند. این دادگاه در کالیفرنیا برگزار می‌شود و شاکیان خواستار ۲۰۰ میلیارد دلار خسارت شده‌اند.",
+      "key_points_fa": [
+        "آغاز دادگاه سرنوشت‌ساز علیه شرکت متا در کالیفرنیا",
+        "اتهام طراحی الگوریتم‌های اعتیادآور برای کاربران نوجوان",
+        "مطالبه ۲۰۰ میلیارد دلار خسارت از سوی چهار ایالت آمریکا"
+      ],
+      "analysis_fa": "این پرونده حقوقی یکی از چالش‌های بزرگ شرکت‌های فناوری بر سر ایمنی کاربران جوان و طراحی پلتفرم‌هاست که می‌تواند رویه نظارتی بر شبکه‌های اجتماعی را تغییر دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#متا",
+        "#فیسبوک",
+        "#اینستاگرام",
+        "#فناوری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -599,6 +628,28 @@
         "#سلطنت"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9de48c6ce25a",
+      "source": "EL PAÍS",
+      "title": "Un profesor en Boston devuelve a México más de 1.100 piezas prehispánicas",
+      "summary": "Más de 40 alumnos de preparatoria participaron en el proceso de clasificación de los objetos antes de ser entregados en el consulado mexicano",
+      "url": "https://elpais.com/mexico/2026-08-18/un-profesor-en-boston-devuelve-a-mexico-mas-de-1100-piezas-prehispanicas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NTFUY35GVZB6VFINNLLSXMP3CA.jpeg?auth=f57a5c0b5faf46b30fe9921cce661418d53447b37da82a9628db256658c1d97a",
+      "published_at": "2026-08-18T16:35:51+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Un profesor en Boston devuelve a México más de 1.100 piezas prehispánicas",
+      "lead_fa": "Más de 40 alumnos de preparatoria participaron en el proceso de clasificación de los objetos antes de ser entregados en el consulado mexicano",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -748,8 +799,8 @@
     {
       "id": "284d7db25a09",
       "source": "EL PAÍS Economía",
-      "title": "La venta de combustibles refinados a países vecinos dispara las exportaciones españolas en junio",
-      "summary": "La guerra en Irán sube los precios en el surtidor y consolida a España como uno de los pocos mercados con capacidad para suministrar carburantes a terceros",
+      "title": "La venta de combustibles refinados a países europeos dispara las exportaciones españolas en junio",
+      "summary": "La guerra en Irán consolida a España como uno de los pocos mercados con capacidad para suministrar carburantes a terceros, con un crecimiento del 52% en el sexto mes",
       "url": "https://elpais.com/economia/2026-08-18/la-venta-de-combustibles-refinados-a-paises-vecinos-dispara-las-exportaciones-espanolas-en-junio.html",
       "image": "https://imagenes.elpais.com/resizer/v2/J7IKKJK4SFPNRIAPYWR7INK7EQ.jpg?auth=b788aa5a772b088f4793984f3b5bf4b565767b89fee53b90ee4560d68ad4f89e",
       "published_at": "2026-08-18T10:25:42+00:00",
@@ -1096,28 +1147,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5a6aad4fe6b5",
-      "source": "EL PAÍS",
-      "title": "De vuelta al B9: cientos de inmigrantes a la calle para la construcción de una comisaría aplazada",
-      "summary": "Ocho meses después del desalojo del mayor asentamiento de Cataluña, el edificio ha sido demolido y la promesa de Albiol no se construirá hasta el próximo mandato",
-      "url": "https://elpais.com/espana/catalunya/2026-08-18/de-vuelta-al-b9-cientos-de-inmigrantes-a-la-calle-para-la-construccion-de-una-comisaria-aplazada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ORMGSODH2JEWNPRZNA2PHJDZC4.jpg?auth=0644d4d651ddbc3acf5d424805a66aac9e6083536cd69d16f90258ca75172a20",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "politica",
-      "priority": 71,
-      "title_fa": "De vuelta al B9: cientos de inmigrantes a la calle para la construcción de una comisaría aplazada",
-      "lead_fa": "Ocho meses después del desalojo del mayor asentamiento de Cataluña, el edificio ha sido demolido y la promesa de Albiol no se construirá hasta el próximo mandato",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "7f86550dc79d",
       "source": "EL PAÍS Economía",
       "title": "El Santander, el BBVA y otros cuatro grandes bancos pagarán 75 millones para cerrar el litigio por la venta de bonos mexicanos",
@@ -1217,6 +1246,28 @@
       "priority": 70,
       "title_fa": "Granada, 1431: dos seísmos mayores que los actuales causaron destrozos en la Alhambra",
       "lead_fa": "Un temblor en abril de magnitud 6,7 y un segundo sismo en julio de magnitud 6,8 dejaron un caudal de destrozos recogidos por las crónicas de la época",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "675d5f81c8de",
+      "source": "EL PAÍS",
+      "title": "El Barcelona anuncia el fichaje de Rodri hasta 2030",
+      "summary": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou",
+      "url": "https://elpais.com/deportes/futbol/2026-08-18/el-barcelona-anuncia-el-fichaje-de-rodri-hasta-2030.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NMZZ5GTL75DCNCCKOS5WWKO3NE.JPG?auth=300606785e1faf546cbc221b48f7dc92e40e18d9f6af48a0ea01c4cbf764cc7d",
+      "published_at": "2026-08-18T17:04:26+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "El Barcelona anuncia el fichaje de Rodri hasta 2030",
+      "lead_fa": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1388,50 +1439,6 @@
       "editorial_version": 2
     },
     {
-      "id": "62f26811c515",
-      "source": "La Vanguardia",
-      "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
-      "summary": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260818/11615921/triple-crimen-isla-cristina-pone-foco-violencia-narcotrafico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a843d22663d1.r_d.2736-1824-0.jpeg",
-      "published_at": "2026-08-18T13:19:10+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
-      "lead_fa": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4bef9647041c",
-      "source": "La Vanguardia",
-      "title": "El misterio de las últimas horas de Lorca",
-      "summary": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "url": "https://www.lavanguardia.com/cultura/20260818/11615922/misterio-ultimas-horas-lorca-aniversario-muerte.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a855ad4ed6.r_d.448-477-0.jpeg",
-      "published_at": "2026-08-18T13:07:31+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El misterio de las últimas horas de Lorca",
-      "lead_fa": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "14232c035536",
       "source": "EL PAÍS España",
       "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
@@ -1487,6 +1494,50 @@
       "priority": 69,
       "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
       "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "62f26811c515",
+      "source": "La Vanguardia",
+      "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
+      "summary": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260818/11615921/triple-crimen-isla-cristina-pone-foco-violencia-narcotrafico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a843d22663d1.r_d.2736-1824-0.jpeg",
+      "published_at": "2026-08-18T13:19:10+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
+      "lead_fa": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4bef9647041c",
+      "source": "La Vanguardia",
+      "title": "El misterio de las últimas horas de Lorca",
+      "summary": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
+      "url": "https://www.lavanguardia.com/cultura/20260818/11615922/misterio-ultimas-horas-lorca-aniversario-muerte.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a855ad4ed6.r_d.448-477-0.jpeg",
+      "published_at": "2026-08-18T13:07:31+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El misterio de las últimas horas de Lorca",
+      "lead_fa": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1630,72 +1681,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f0eb050e39e4",
-      "source": "La Vanguardia",
-      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
-      "published_at": "2026-08-18T09:49:53+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5781520fd138",
-      "source": "EL PAÍS",
-      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
-      "published_at": "2026-08-18T07:57:44+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "300c76709867",
       "source": "EL PAÍS España",
       "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
@@ -1718,6 +1703,28 @@
       "editorial_version": 2
     },
     {
+      "id": "f0eb050e39e4",
+      "source": "La Vanguardia",
+      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
+      "published_at": "2026-08-18T09:49:53+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "309f45ffa5e7",
       "source": "La Vanguardia",
       "title": "Rodri, más que un fichaje",
@@ -1729,6 +1736,50 @@
       "priority": 67,
       "title_fa": "Rodri, más que un fichaje",
       "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5781520fd138",
+      "source": "EL PAÍS",
+      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
+      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
+      "published_at": "2026-08-18T07:57:44+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2004,28 +2055,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e4f84cc57f4d",
-      "source": "EL PAÍS",
-      "title": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
-      "summary": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
-      "url": "https://elpais.com/cultura/2026-08-18/papa-haras-el-favor-de-darle-al-dador-dos-mil-pesetas-los-ultimos-dias-de-federico-garcia-lorca.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205459_070234_video_1800.mp4",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
-      "lead_fa": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3936204263ee",
       "source": "EL PAÍS",
       "title": "Otro eclipse llega a España este agosto, pero este es parcial y de Luna: “Tendrá el color de todos los atardeceres de la Tierra”",
@@ -2048,39 +2077,17 @@
       "editorial_version": 2
     },
     {
-      "id": "7c1316c30f46",
+      "id": "e4f84cc57f4d",
       "source": "EL PAÍS",
-      "title": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
-      "summary": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
-      "url": "https://elpais.com/smoda/famosos/2026-08-18/postales-de-verano-cuando-john-kennedy-jr-se-echaba-al-mar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XSKCFCBNDZDMRC22M4MT277L4E.jpg?auth=7c34dc2fd14c57e6db2600e783d7604466a536e059d755be363305f2a1cd7b1d",
+      "title": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
+      "summary": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
+      "url": "https://elpais.com/cultura/2026-08-18/papa-haras-el-favor-de-darle-al-dador-dos-mil-pesetas-los-ultimos-dias-de-federico-garcia-lorca.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205459_070234_video_1800.mp4",
       "published_at": "2026-08-18T03:30:01+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
-      "lead_fa": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "284feca74ede",
-      "source": "EL PAÍS",
-      "title": "Diagnosticar desde una foto: no, el problema no es el cuerpo de Ariana Grande",
-      "summary": "¿Qué podemos hacer nosotros individualmente para dejar de fomentar la cultura de la delgadez y la presión estética sobre las mujeres?",
-      "url": "https://elpais.com/salud-y-bienestar/nutrir-con-ciencia/2026-08-18/diagnosticar-desde-una-foto-no-el-problema-no-es-el-cuerpo-de-ariana-grande.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202474_165223_video_1800.mp4",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 66,
-      "title_fa": "Diagnosticar desde una foto: no, el problema no es el cuerpo de Ariana Grande",
-      "lead_fa": "¿Qué podemos hacer nosotros individualmente para dejar de fomentar la cultura de la delgadez y la presión estética sobre las mujeres?",
+      "title_fa": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
+      "lead_fa": "En el 90º aniversario del asesinato del poeta, el académico Andrés Soria Olmedo reconstruye sus pasos aquel verano trágico de 1936",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2202,17 +2209,17 @@
       "editorial_version": 2
     },
     {
-      "id": "7901d80ca8e0",
+      "id": "7c1316c30f46",
       "source": "EL PAÍS",
-      "title": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
-      "summary": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
-      "url": "https://elpais.com/mamas-papas/expertos/2026-08-18/cuando-el-colecho-con-los-hijos-se-alarga-beneficios-limites-y-mitos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KMVQFW7S5VE5POCZFBIK6ISPCQ.jpg?auth=3652ceecdfbe2294694f57c5f659a9955ee14c5f19ea81b32bf57cdd194a8c1b",
-      "published_at": "2026-08-18T03:30:00+00:00",
+      "title": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
+      "summary": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
+      "url": "https://elpais.com/smoda/famosos/2026-08-18/postales-de-verano-cuando-john-kennedy-jr-se-echaba-al-mar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XSKCFCBNDZDMRC22M4MT277L4E.jpg?auth=7c34dc2fd14c57e6db2600e783d7604466a536e059d755be363305f2a1cd7b1d",
+      "published_at": "2026-08-18T03:30:01+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
-      "lead_fa": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
+      "title_fa": "Postales de verano: cuando John Kennedy Jr. se echaba al mar",
+      "lead_fa": "Este verano se han cumplido 27 años del fatídico accidente en el que perdió la vida, y sus imágenes navegando, descalzo y en bañador siguen despertando algo en el imaginario popular",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2246,17 +2253,17 @@
       "editorial_version": 2
     },
     {
-      "id": "1808140290c4",
+      "id": "7901d80ca8e0",
       "source": "EL PAÍS",
-      "title": "Del ‘scroll’ infinito a volver con un ex: ¿por qué el cerebro nos hace repetir conductas que no queremos?",
-      "summary": "No todo lo que parece que hacemos automáticamente es un hábito, muchas veces es una elección propia. Los expertos explican por qué el cerebro prioriza el alivio inmediato frente al bienestar futuro y qué papel tienen las emociones en el proceso",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-18/del-scroll-infinito-a-volver-con-un-ex-por-que-el-cerebro-nos-hace-repetir-conductas-que-no-queremos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GBK6X6Z5WBCULLC2QDUFJIGL5Q.jpg?auth=54f41cf648569214e323d3729ff49243be7af98f6a316db063c9f10ee33ec986",
+      "title": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
+      "summary": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
+      "url": "https://elpais.com/mamas-papas/expertos/2026-08-18/cuando-el-colecho-con-los-hijos-se-alarga-beneficios-limites-y-mitos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KMVQFW7S5VE5POCZFBIK6ISPCQ.jpg?auth=3652ceecdfbe2294694f57c5f659a9955ee14c5f19ea81b32bf57cdd194a8c1b",
       "published_at": "2026-08-18T03:30:00+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Del ‘scroll’ infinito a volver con un ex: ¿por qué el cerebro nos hace repetir conductas que no queremos?",
-      "lead_fa": "No todo lo que parece que hacemos automáticamente es un hábito, muchas veces es una elección propia. Los expertos explican por qué el cerebro prioriza el alivio inmediato frente al bienestar futuro y qué papel tienen las emociones en el proceso",
+      "title_fa": "Cuando el colecho con los hijos se alarga: beneficios, límites y mitos",
+      "lead_fa": "Dormir juntos puede ser una solución puntual o convertirse en una dinámica familiar marcada por factores emocionales, relacionales y del desarrollo del menor",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2473,7 +2480,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 151
     },
     {
       "source": "EL PAÍS España",
