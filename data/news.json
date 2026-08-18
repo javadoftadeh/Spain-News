@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:38:02.002308+00:00",
+  "generated_at": "2026-08-18T22:57:41.749669+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "60469daaa078",
@@ -1659,18 +1659,25 @@
       "url": "https://elpais.com/ciencia/2026-08-18/el-colmillo-del-narval-un-cuerno-mitologico-que-se-adelanto-miles-de-anos-a-la-ingenieria-de-materiales.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EOH2HKIZCVBDZDJPYGBEN34NMU.jpg?auth=1010e3703c75f7d3b9dd4e44ad400f3cde8a1f6c76a472b9cdf8d8adeca5a13c",
       "published_at": "2026-08-18T15:00:09+00:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 68,
-      "title_fa": "El colmillo del narval, un “cuerno mitológico” que se adelantó miles de años a la ingeniería de materiales",
-      "lead_fa": "Un estudio descifra la alargada espiral que emerge del cráneo de estos unicornios marinos, formada por dos capas dentales que crecen en sentidos opuestos y le confieren gran resistencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "راز عاج ماروال: شاهکار مهندسی طبیعت",
+      "lead_fa": "پژوهشی جدید ساختار پیچیده عاج ماروال یا تک‌شاخ دریایی را رمزگشایی کرد. این ساختار مارپیچی از دو لایه با رشد مخالف تشکیل شده که مقاومت بالایی به آن می‌دهد.",
+      "key_points_fa": [
+        "عاج ماروال از دو لایه دندانی با جهت رشد مخالف تشکیل شده است.",
+        "این ساختار طبیعی مقاومت و انعطاف‌پذیری فوق‌العاده‌ای به عاج می‌دهد.",
+        "این ویژگی‌های مهندسی پیشرفته قرن‌ها پیش از فناوری‌های مدرن در طبیعت وجود داشته است."
+      ],
+      "analysis_fa": "مطالعه روی عاج ماروال نشان می‌دهد که چگونه ساختارهای زیستی می‌توانند الهام‌بخش مهندسی مواد جدید باشند. این تحقیق درک ما را از سازوکارهای دفاعی و زیستی این جانوران دریایی افزایش می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ماروال",
+        "#علم",
+        "#زیست‌شناسی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1683,16 +1690,22 @@
       "published_at": "2026-08-18T13:19:10+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
-      "lead_fa": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "قتل فجیع سه نفر در Isla Cristina؛ احتمال تسویه حساب باندهای مواد مخدر",
+      "lead_fa": "گارد ملی اسپانیا قتل سه عضو یک خانواده، از جمله یک زن باردار هشت ماهه را در Huelva بررسی می‌کند. فرضیه اصلی پلیس، تسویه حساب میان باندهای قاچاق مواد مخدر است.",
+      "key_points_fa": [
+        "قربانیان شامل یک زن باردار، مادر او و یک نوجوان ۱۶ ساله هستند.",
+        "این جنایت در منطقه Isla Cristina رخ داده است.",
+        "گارد ملی تحقیقات گسترده‌ای را برای شناسایی عاملان آغاز کرده است."
       ],
-      "ai_translated": false,
+      "analysis_fa": "وقوع چنین جنایت خشونت‌آمیزی بار دیگر نگرانی‌ها درباره فعالیت‌های تسویه حساب میان باندهای مواد مخدر در مناطق جنوبی اسپانیا را افزایش داده است. تحقیقات پلیس بر روی اختلافات خانوادگی و باندهای قاچاق متمرکز است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#موادمخدر"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1705,16 +1718,22 @@
       "published_at": "2026-08-18T13:07:31+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "El misterio de las últimas horas de Lorca",
-      "lead_fa": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رمزگشایی از ساعت‌های پایانی زندگی فدریکو گارسیا لورکا",
+      "lead_fa": "با گذشت نود سال از قتل فدریکو گارسیا لورکا، فرضیه‌ها درباره نقش یک توطئه چندجانبه در اعدام او قوت گرفته است. این شاعر برجسته اسپانیایی همچنان یکی از چهره‌های نمادین تاریخ معاصر این کشور باقی مانده است.",
+      "key_points_fa": [
+        "شایعات و تحقیقات جدید حاکی از وجود توطئه‌ای چندجانبه در قتل لورکا است.",
+        "این تحولات در آستانه نودمین سالگرد ترور این شاعر مطرح می‌شود.",
+        "جزئیات جدیدی از ابهام‌های ساعات پایانی زندگی او مورد بررسی قرار گرفته است."
+      ],
+      "analysis_fa": "پرونده قتل فدریکو گارسیا لورکا همچنان پس از دهه‌ها ابعاد تازه‌ای پیدا می‌کند. بررسی اسناد و نظریه‌های تازه نشان‌دهنده پیچیدگی‌های سیاسی و اجتماعی دوران جنگ داخلی اسپانیا است که هنرمندان را به شدت تحت تأثیر قرار داده بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#لورکا",
+        "#ادبیات_اسپانیا",
+        "#تاریخ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1729,28 +1748,6 @@
       "priority": 67,
       "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
       "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "80813ba9e38f",
-      "source": "La Vanguardia",
-      "title": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "summary": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615916/sube-rojo-aviso-miercoles-litoral-valencia-alicante-esperan-44-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a70a8ce59a41.jpeg",
-      "published_at": "2026-08-18T12:53:46+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
-      "lead_fa": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1828,6 +1825,28 @@
       "editorial_version": 2
     },
     {
+      "id": "80813ba9e38f",
+      "source": "La Vanguardia",
+      "title": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
+      "summary": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11615916/sube-rojo-aviso-miercoles-litoral-valencia-alicante-esperan-44-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/03/6a70a8ce59a41.jpeg",
+      "published_at": "2026-08-18T12:53:46+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Sube a rojo el aviso para el miércoles en el litoral de Valencia y Alicante: se esperan 44 grados",
+      "lead_fa": "El Ayuntamiento de València prohibe las actividades al aire libre, activa los cañones de agua de El Saler y amplía el cierre de piscinas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "44669bff2873",
       "source": "La Vanguardia",
       "title": "El Ayuntamiento amplía las ayudas para que las comunidades veten los pisos turísticos",
@@ -1894,28 +1913,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f0eb050e39e4",
-      "source": "La Vanguardia",
-      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
-      "published_at": "2026-08-18T09:49:53+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8bdb30032ece",
       "source": "EL PAÍS Economía",
       "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
@@ -1971,6 +1968,28 @@
       "priority": 66,
       "title_fa": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
       "lead_fa": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f0eb050e39e4",
+      "source": "La Vanguardia",
+      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
+      "published_at": "2026-08-18T09:49:53+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
