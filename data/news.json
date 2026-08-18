@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:46:06.877403+00:00",
+  "generated_at": "2026-08-18T10:43:45.586745+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "c98446ef09af",
@@ -44,7 +44,7 @@
       "summary": "El PP asegura que acude a Ceuta a “reclamar la normalidad” en la ciudad, no a “calentar nada”",
       "url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/HR366JFRJNFK3FBL6J3W7QKP3M.jpg?auth=91eb35bacce22e7fd739a74dce4967514535904b98be8fc05877d632b43fe433",
-      "published_at": "2026-08-18T08:28:33+00:00",
+      "published_at": "2026-08-18T10:05:49+00:00",
       "category": "politica",
       "priority": 82,
       "title_fa": "واکنش دولت اسپانیا به تنش‌ها در سئوتا",
@@ -269,11 +269,11 @@
     {
       "id": "6de68f55ceda",
       "source": "EL PAÍS",
-      "title": "Un nuevo terremoto de magnitud 4,7 sacude Granada",
-      "summary": "El seísmo ha tenido su epicentro en la localidad de Alhendín",
+      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
+      "summary": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. “Es una tortura”, dice una vecina afectada",
       "url": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/D62E7KYQ55BJTMMOH3DVSHYA54.jpg?auth=49d0fc1ce46ae71a07c02232a715adb401f3894aa40dcde5b7acaffe2d389ab6",
-      "published_at": "2026-08-18T09:35:09+00:00",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
+      "published_at": "2026-08-18T10:27:59+00:00",
       "category": "sociedad",
       "priority": 77,
       "title_fa": "زمین‌لرزه ۴.۷ ریشتری گرانادا را لرزاند",
@@ -289,6 +289,35 @@
         "#گرانادا",
         "#زلزله",
         "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d755dc57c74d",
+      "source": "EL PAÍS",
+      "title": "Al menos 10 muertos en un ataque ruso con misiles en la región ucrania de Járkov",
+      "summary": "Otras 17 personas han resultado heridas. Zelenski promete responder a la ofensiva",
+      "url": "https://elpais.com/internacional/2026-08-18/varios-muertos-en-un-ataque-ruso-con-misiles-en-la-region-ucrania-de-jarkov.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/N7EBAE7MTVFWPAZONYU4LOKWZU.JPG?auth=3f42cdbb13396cbd0fe4edd3189ec0c1e05f5d7835f0af187d5ba7f5ce849b0a",
+      "published_at": "2026-08-18T09:38:59+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "حمله موشکی روسیه به خارکف؛ دست‌کم ۱۰ کشته و ۱۷ مجروح",
+      "lead_fa": "در جریان یک حمله موشکی به منطقه خارکف در اوکراین دست‌کم ۱۰ نفر جان خود را از دست دادند. همچنین ۱۷ تن دیگر در این حمله مجروح شدند.",
+      "key_points_fa": [
+        "حمله موشکی روسیه به منطقه خارکف اوکراین",
+        "کشته شدن حداقل ۱۰ نفر و زخمی شدن ۱۷ تن دیگر",
+        "واکنش ولودیمیر زلنسکی و وعده پاسخ به این تهاجم"
+      ],
+      "analysis_fa": "این حمله در ادامه تنش‌های مداوم نظامی میان روسیه و اوکراین در مناطق شرقی این کشور رخ داده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، پس از این رویداد بر لزوم پاسخ به تهاجمات نظامی روسیه تأکید کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اوکراین",
+        "#روسیه",
+        "#خارکف",
+        "#جنگ_اوکراین"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -543,6 +572,35 @@
         "#کلمبیا",
         "#زلزله",
         "#مهاجران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "284d7db25a09",
+      "source": "EL PAÍS Economía",
+      "title": "La venta de combustibles refinados a países vecinos dispara las exportaciones españolas en junio",
+      "summary": "La guerra en Irán sube los precios en el surtidor y consolida a España como uno de los pocos mercados con capacidad para suministrar carburantes a terceros",
+      "url": "https://elpais.com/economia/2026-08-18/la-venta-de-combustibles-refinados-a-paises-vecinos-dispara-las-exportaciones-espanolas-en-junio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/J7IKKJK4SFPNRIAPYWR7INK7EQ.jpg?auth=b788aa5a772b088f4793984f3b5bf4b565767b89fee53b90ee4560d68ad4f89e",
+      "published_at": "2026-08-18T10:25:42+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "جهش صادرات فرآورده‌های سوختی اسپانیا در ژوئن",
+      "lead_fa": "جنگ در ایران قیمت سوخت در پمپ‌بنزین‌های اسپانیا را افزایش داد. در عین حال، این وضعیت اسپانیا را به یکی از معدود صادرکنندگان سوخت به کشورهای همسایه تبدیل کرد.",
+      "key_points_fa": [
+        "افزایش قیمت سوخت در پمپ‌بنزین‌های اسپانیا همزمان با جنگ در ایران",
+        "رشد چشمگیر صادرات فرآورده‌های نفتی پالایش‌شده به کشورهای همسایه در ماه ژوئن",
+        "تثبیت جایگاه اسپانیا به عنوان یکی از تامین‌کنندگان معدود سوخت در بازار"
+      ],
+      "analysis_fa": "تنش‌های ژئوپلیتیک و جنگ در ایران بار دیگر بازار انرژی جهانی و قیمت‌های داخلی را تحت تاثیر قرار داده است. با این حال، ظرفیت پالایشی اسپانیا به این کشور اجازه داده تا از این بحران برای تقویت نقش خود به عنوان تامین‌کننده سوخت در منطقه بهره‌برداری کند و صادرات خود را افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#سوخت",
+        "#صادرات"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -943,6 +1001,35 @@
       "editorial_version": 2
     },
     {
+      "id": "120a2f9aaf80",
+      "source": "EL PAÍS Economía",
+      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
+      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "اتحادیه اروپا سخت‌گیری بر ادعاهای زیست‌محیطی شرکت‌ها را آغاز می‌کند",
+      "lead_fa": "اتحادیه اروپا از ماه سپتامبر قوانین جدیدی را برای اثبات ادعاهای پایداری شرکت‌ها اعمال می‌کند. این مقررات با هدف جلوگیری از فریب مصرف‌کنندگان در حوزه سبزنمایی اجرا می‌شود.",
+      "key_points_fa": [
+        "آغاز اجرای قوانین جدید اتحادیه اروپا از ماه سپتامبر",
+        "الزام شرکت‌ها به ارائه مستندات برای ادعای پایداری و دوستی با محیط زیست",
+        "مقابله با پدیده سبزنمایی و اطلاعات گمره‌کننده برای مصرف‌کننده"
+      ],
+      "analysis_fa": "این اقدام اتحادیه اروپا پاسخی به رشد روزافزون ادعاهای تجاری بدون پشتوانه علمی و محیط‌زیستی است. با افزایش حساسیت مصرف‌کنندگان نسبت به مسائل اقلیمی، شفاف‌سازی در زنجیره تأمین و بازاریابی به یک ضرورت قانونی تبدیل شده است که می‌تواند به رقابت عادلانه‌تر در بازار کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اتحادیه_اروپا",
+        "#اقتصاد_سبز",
+        "#محیط_زیست",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "2f8607114142",
       "source": "EL PAÍS Economía",
       "title": "El mundo se asoma a una deuda más cara: los bonos repuntan a máximos de más de dos décadas",
@@ -1174,6 +1261,28 @@
       "editorial_version": 2
     },
     {
+      "id": "56df7c88e652",
+      "source": "EL PAÍS",
+      "title": "El mensaje de Wladimir Klitschko, expareja de Hayden Panettiere, tras la muerte de la actriz: “Me aseguraré de que nuestra hija recuerde la persona que fue”",
+      "summary": "La intérprete y el exboxeador se conocieron en 2008, tuvieron una hija en 2014 y rompieron su compromiso en 2018. Desde entonces, la pequeña vive con su padre en Ucrania",
+      "url": "https://elpais.com/gente/2026-08-18/el-mensaje-de-wladimir-klitschko-expareja-de-hayden-panettiere-tras-la-muerte-de-la-actriz-me-asegurare-de-que-nuestra-hija-recuerde-la-persona-que-fue.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2HNHL2UWUREE3I62D64MELYUGI.jpg?auth=0b8a8164ca734c02523f8d4c59f0bdfd8b33ee8362ee1fd73d4fec150b2c6f96",
+      "published_at": "2026-08-18T10:22:57+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El mensaje de Wladimir Klitschko, expareja de Hayden Panettiere, tras la muerte de la actriz: “Me aseguraré de que nuestra hija recuerde la persona que fue”",
+      "lead_fa": "La intérprete y el exboxeador se conocieron en 2008, tuvieron una hija en 2014 y rompieron su compromiso en 2018. Desde entonces, la pequeña vive con su padre en Ucrania",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f0eb050e39e4",
       "source": "La Vanguardia",
       "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
@@ -1185,50 +1294,6 @@
       "priority": 70,
       "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
       "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b4326e15fa78",
-      "source": "La Vanguardia",
-      "title": "Detectados una decena de casos de sarna entre los militares desplazados a Ceuta",
-      "summary": "La Unión de Militares de Tropa apunta a las malas condiciones en las que fue alojado el personal como origen del brote",
-      "url": "https://www.lavanguardia.com/vida/20260818/11615744/detectados-decena-casos-sarna-militares-desplazados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80ddbd3cc4d.jpeg",
-      "published_at": "2026-08-18T09:24:20+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Detectados una decena de casos de sarna entre los militares desplazados a Ceuta",
-      "lead_fa": "La Unión de Militares de Tropa apunta a las malas condiciones en las que fue alojado el personal como origen del brote",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "309f45ffa5e7",
-      "source": "La Vanguardia",
-      "title": "Rodri, más que un fichaje",
-      "summary": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
-      "url": "https://www.lavanguardia.com/deportes/20260818/11615743/rodri-mas-fichaje-barcelona-mercado-presentacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a837bd44c5be.jpeg",
-      "published_at": "2026-08-18T09:16:48+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Rodri, más que un fichaje",
-      "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1273,28 +1338,6 @@
       "priority": 70,
       "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
       "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2cda780a74a9",
-      "source": "EL PAÍS",
-      "title": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
-      "summary": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
-      "url": "https://elpais.com/ciencia/2026-08-18/el-hallazgo-de-un-perro-sobre-una-pareja-en-una-tumba-del-antiguo-egipto-intriga-a-los-cientificos-es-un-detalle-muy-bello-y-realmente-excepcional.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UDDCBZVS2FCFZEXLOJSTPEA5VU.jpg?auth=0758d2e504949cc0d3c079e971d2c9ccbf77ce9e05ed75aa039a87fe3ae73268",
-      "published_at": "2026-08-18T07:24:15+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
-      "lead_fa": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1389,6 +1432,72 @@
       "editorial_version": 2
     },
     {
+      "id": "b4326e15fa78",
+      "source": "La Vanguardia",
+      "title": "Detectados una decena de casos de sarna entre los militares desplazados a Ceuta",
+      "summary": "La Unión de Militares de Tropa apunta a las malas condiciones en las que fue alojado el personal como origen del brote",
+      "url": "https://www.lavanguardia.com/vida/20260818/11615744/detectados-decena-casos-sarna-militares-desplazados-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80ddbd3cc4d.jpeg",
+      "published_at": "2026-08-18T09:24:20+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Detectados una decena de casos de sarna entre los militares desplazados a Ceuta",
+      "lead_fa": "La Unión de Militares de Tropa apunta a las malas condiciones en las que fue alojado el personal como origen del brote",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "309f45ffa5e7",
+      "source": "La Vanguardia",
+      "title": "Rodri, más que un fichaje",
+      "summary": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "url": "https://www.lavanguardia.com/deportes/20260818/11615743/rodri-mas-fichaje-barcelona-mercado-presentacion.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a837bd44c5be.jpeg",
+      "published_at": "2026-08-18T09:16:48+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Rodri, más que un fichaje",
+      "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2cda780a74a9",
+      "source": "EL PAÍS",
+      "title": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
+      "summary": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
+      "url": "https://elpais.com/ciencia/2026-08-18/el-hallazgo-de-un-perro-sobre-una-pareja-en-una-tumba-del-antiguo-egipto-intriga-a-los-cientificos-es-un-detalle-muy-bello-y-realmente-excepcional.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UDDCBZVS2FCFZEXLOJSTPEA5VU.jpg?auth=0758d2e504949cc0d3c079e971d2c9ccbf77ce9e05ed75aa039a87fe3ae73268",
+      "published_at": "2026-08-18T07:24:15+00:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: “Es un detalle muy bello y realmente excepcional”",
+      "lead_fa": "La disposición de las momias en un enterramiento tebano en Luxor muestra cómo las prácticas funerarias y sus implicaciones simbólicas cambiaron con el tiempo, según una nueva investigación con participación española",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ac1adcd34399",
       "source": "La Vanguardia",
       "title": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
@@ -1397,7 +1506,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7ed15f0a96e.jpeg",
       "published_at": "2026-08-18T06:27:46+02:00",
       "category": "deportes",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Cinco minutos para encontrar pareja, cuando tus amigos hacen de Tinder",
       "lead_fa": "En Barcelona triunfa Pitch-A-Friend, un formato nacido en Filadelfia en el que son los amigos quienes presentan a los solteros ante una sala llena de desconocidos",
       "key_points_fa": [],
@@ -1419,7 +1528,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8351ac38f77.r_d.4020-2681-0.jpeg",
       "published_at": "2026-08-18T06:26:01+02:00",
       "category": "deportes",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "La trama de pisos turísticos ilegales de lujo de Barcelona pierde dos de sus grandes joyas",
       "lead_fa": "Esta red con una gran querencia por el paseo de Gràcia ignora las multas y los propietarios tardan años en desahuciarlos",
       "key_points_fa": [],
@@ -1441,7 +1550,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a8402cd65197.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico",
       "lead_fa": "El Pentágono retira su único portaaviones en Asia para reubicarlo en Oriente Medio",
       "key_points_fa": [],
@@ -1463,7 +1572,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/20/6a5da3c6f0d4e.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "cultura",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "El madridismo se divide con Rodri aunque opta por pasar página y agarrarse a Mourinho",
       "lead_fa": "Durante dos semanas, en la prensa más cercana al club se dio por hecha su llegada aunque todo viró de un día para otro: una parte entiende que su pieza era necesaria, otros intentan aferrarse al entrenador",
       "key_points_fa": [],
@@ -1485,7 +1594,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a832fbf51fcd.r_d.722-1469-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Siria: sobrevivir en la tierra reventada",
       "lead_fa": "El desarrollo inmobiliario de los arrabales arrasados de Damasco es una amenaza para la población y el nuevo régimen",
       "key_points_fa": [],
@@ -1507,7 +1616,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82fc6d3f13c.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "“En el secuestro no sabía que mi familia había sido asesinada, yo sobrevivía por ellas”",
       "lead_fa": "Eli Sharabi fue capturado por Hamas el 7 de octubre del 2023 y cuenta su experiencia en 'Rehén'",
       "key_points_fa": [],
@@ -1529,7 +1638,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72e28dc46e4.r_d.733-871-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "El calor 'funde' el Mont Blanc, vedado a los montañeros",
       "lead_fa": "Los Alpes europeos son una de las regiones donde las corrientes de hielo se reducen más rápidamente",
       "key_points_fa": [],
@@ -1551,7 +1660,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a8346a4f0ac3.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Indonesios desafían a la gravedad en la carrera de los postes engrasados",
       "lead_fa": "La tradicional Panjat Pinang reúne cada 17 de agosto a equipos que compiten por alcanzar los premios colocados en lo alto de un poste",
       "key_points_fa": [],
@@ -1573,7 +1682,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a7045879bbf1.r_d.954-716-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "“El gran cambio de mi vida fue provocar mis proyectos y no depender de la llamada exterior”",
       "lead_fa": "Actriz, presentadora, productora y guionista, Díaz Aroca es una mujer todoterreno y polifacética que ha sabido reinventarse y dirigir su carrera hacia donde ha querido",
       "key_points_fa": [],
@@ -1595,7 +1704,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83636ce6aed.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Ibiza renueva un verano más como codiciado escaparate internacional de los famosos",
       "lead_fa": "De Victoria Federica a Leonardo DiCaprio, de Jason Statham a Pablo Motos con Ilia Topuria y de Ester Expósito a los Beckham, la Isla Blanca se reivindica como reclamo de actores, cantantes y millonarios de medio mundo",
       "key_points_fa": [],
@@ -1617,7 +1726,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/24/69c2d46e309c0.r_d.1379-826-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Un vídeo de Assumpta Serna desata una ola de rabia por el sistema de dependencia",
       "lead_fa": "El formulario que impulsó la actriz catalana para que los afectados incluyeran sus denuncias acumula ya más de 1.000 casos",
       "key_points_fa": [],
@@ -1639,7 +1748,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a831146ea911.r_d.3702-2687-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Proyecto para acabar con décadas de ruido en la Granvia de l’Hospitalet",
       "lead_fa": "La Generalitat licita la asistencia técnica del semicubrimiento de la C-31",
       "key_points_fa": [],
@@ -1661,7 +1770,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/10/68e8f8fda6d27.r_d.3221-1985-0.jpeg",
       "published_at": "2026-08-18T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Josep Soler: “En España se ahorra muy mal; necesitamos cambiar la mentalidad”",
       "lead_fa": "El economista y cofundador de la asociación de asesores financieros EFPA desgrana las claves para rentabilizar bien el dinero",
       "key_points_fa": [],
@@ -1851,28 +1960,6 @@
       "editorial_version": 2
     },
     {
-      "id": "37e5c946cf96",
-      "source": "EL PAÍS Economía",
-      "title": "Europa y la tentación de vigilar para proteger",
-      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Europa y la tentación de vigilar para proteger",
-      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e4f84cc57f4d",
       "source": "EL PAÍS",
       "title": "“Papá, harás el favor de darle al dador dos mil pesetas”: los últimos días de Federico García Lorca",
@@ -1972,28 +2059,6 @@
       "priority": 68,
       "title_fa": "¿Por qué tenemos tanto miedo a la edad de las mujeres?",
       "lead_fa": "En un mundo en donde la creación de la riqueza se ha desligado de la producción de bienes necesitamos nuevos pactos sociales y un nuevo contrato sexual",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8f9d82b48278",
-      "source": "EL PAÍS",
-      "title": "El kilómetro cero de las obras de Madrid: las zonas que se concentran en los distritos de Centro y Salamanca encabezan las renovaciones",
-      "summary": "El Consistorio defiende que los datos de Transparencia solo recogen las actuaciones de una dirección general y asegura que se han ejecutado obras en todos los distritos",
-      "url": "https://elpais.com/espana/madrid/2026-08-18/el-kilometro-cero-de-las-obras-de-madrid-las-zonas-que-se-concentran-en-los-distritos-de-centro-y-salamanca-encabezan-las-renovaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VPU5LBGH6VFWFL5KFZLNW7XNKE.jpg?auth=bfdf15e2b217696ef1810a2ede8aa391407ed8141dd53c1ecd27e8fe6b595de1",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El kilómetro cero de las obras de Madrid: las zonas que se concentran en los distritos de Centro y Salamanca encabezan las renovaciones",
-      "lead_fa": "El Consistorio defiende que los datos de Transparencia solo recogen las actuaciones de una dirección general y asegura que se han ejecutado obras en todos los distritos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2247,28 +2312,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b73d7539285f",
-      "source": "EL PAÍS",
-      "title": "Diez libros con la comida como protagonista para el último tramo de las vacaciones",
-      "summary": "Novelas, ensayos, fotolibros y recetarios atípicos con los que sumergirse en la gastronomía durante el verano",
-      "url": "https://elpais.com/gastronomia/2026-08-18/diez-libros-con-la-comida-como-protagonista-para-el-ultimo-tramo-de-las-vacaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CZSBRZIZCREKPGM2DH5TRH4GDY.jpg?auth=a4626b69d5c59470facf6aedc8c10612c02a382be0138b9b9085c746a78fbad4",
-      "published_at": "2026-08-18T03:25:00+00:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "Diez libros con la comida como protagonista para el último tramo de las vacaciones",
-      "lead_fa": "Novelas, ensayos, fotolibros y recetarios atípicos con los que sumergirse en la gastronomía durante el verano",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "aa5dc7a0cf48",
       "source": "EL PAÍS Economía",
       "title": "A22, la promotora de la Superliga, perdió 3,1 millones antes del acuerdo de paz con la UEFA",
@@ -2313,50 +2356,6 @@
       "editorial_version": 2
     },
     {
-      "id": "46ef21617833",
-      "source": "La Vanguardia",
-      "title": "“A veces creemos decidir… y decide un microorganismo”",
-      "summary": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
-      "url": "https://www.lavanguardia.com/lacontra/20260818/11615504/raul-rivas-veces-creemos-decidir-decide-microorganismo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a833aa6182db.r_d.4123-1116-0.jpeg",
-      "published_at": "2026-08-18T00:05:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "“A veces creemos decidir… y decide un microorganismo”",
-      "lead_fa": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ea805386e29c",
-      "source": "La Vanguardia",
-      "title": "La Barcelona diplomática",
-      "summary": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
-      "url": "https://www.lavanguardia.com/opinion/20260818/11615510/casa-asia-upm-casa-america-pedralbes-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a833318d2c6c.jpeg",
-      "published_at": "2026-08-18T00:00:00+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "La Barcelona diplomática",
-      "lead_fa": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2f1a914bb862",
       "source": "EL PAÍS España",
       "title": "Pedraz asume todo el ‘caso Leire’ al incorporar los 14 tomos del sumario que instruía un juez de Madrid",
@@ -2385,17 +2384,39 @@
       "editorial_version": 2
     },
     {
-      "id": "7728c4474723",
-      "source": "EL PAÍS",
-      "title": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
-      "summary": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
-      "url": "https://elpais.com/sociedad/2026-08-17/meta-se-enfrentara-en-california-al-mayor-juicio-de-su-historia-por-los-danos-de-las-redes-sociales-a-los-jovenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OJTAXCAKXFI2ZEI6POEUMKEBPI.jpg?auth=ad67d4214ee0a55b7228978926d121b67a7ec7bba70efd8aaddb2df7a245966f",
-      "published_at": "2026-08-17T18:46:26+00:00",
+      "id": "46ef21617833",
+      "source": "La Vanguardia",
+      "title": "“A veces creemos decidir… y decide un microorganismo”",
+      "summary": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
+      "url": "https://www.lavanguardia.com/lacontra/20260818/11615504/raul-rivas-veces-creemos-decidir-decide-microorganismo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a833aa6182db.r_d.4123-1116-0.jpeg",
+      "published_at": "2026-08-18T00:05:00+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
-      "lead_fa": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
+      "title_fa": "“A veces creemos decidir… y decide un microorganismo”",
+      "lead_fa": "Tengo 51 años. Nací y vivo en Salamanca. Casado, tenemos una hija. Dirijo un centro de investigación sobre microbiología. Sanidad y educación deben ser universales e ir de la mano del sector privado. No tengo creencias religiosas, pero sí la sensación de un orden superior. (Foto: Berta Joven)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ea805386e29c",
+      "source": "La Vanguardia",
+      "title": "La Barcelona diplomática",
+      "summary": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
+      "url": "https://www.lavanguardia.com/opinion/20260818/11615510/casa-asia-upm-casa-america-pedralbes-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a833318d2c6c.jpeg",
+      "published_at": "2026-08-18T00:00:00+02:00",
+      "category": "deportes",
+      "priority": 66,
+      "title_fa": "La Barcelona diplomática",
+      "lead_fa": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2435,6 +2456,28 @@
       "editorial_version": 2
     },
     {
+      "id": "7728c4474723",
+      "source": "EL PAÍS",
+      "title": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
+      "summary": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
+      "url": "https://elpais.com/sociedad/2026-08-17/meta-se-enfrentara-en-california-al-mayor-juicio-de-su-historia-por-los-danos-de-las-redes-sociales-a-los-jovenes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OJTAXCAKXFI2ZEI6POEUMKEBPI.jpg?auth=ad67d4214ee0a55b7228978926d121b67a7ec7bba70efd8aaddb2df7a245966f",
+      "published_at": "2026-08-17T18:46:26+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Meta se enfrenta en California al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
+      "lead_fa": "La compañía se juega indemnizaciones por más de 1,4 billones de dólares. Los demandantes reclaman cambios en Facebook e Instagram",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e9a11c177ba4",
       "source": "EL PAÍS España",
       "title": "Abel Caballero: “A Bad Bunny le haríamos una ‘casiña’ mucho mejor que la que tiene”",
@@ -2460,28 +2503,6 @@
         "#سیاست"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "45ab2139c405",
-      "source": "EL PAÍS Economía",
-      "title": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
-      "summary": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
-      "url": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-08-17/marc-vicente-inpost-iberia-el-estres-no-significa-tener-mucho-trabajo-sino-poco-control.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXDQO2BY3BHJTOATM63B4HMCBQ.jpg?auth=cfe3dd23bfac82113e81adfe428d9846736cf7f684f70fa12cbf7e00c196709f",
-      "published_at": "2026-08-17T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Marc Vicente (InPost Iberia): “El estrés no significa tener mucho trabajo, sino poco control”",
-      "lead_fa": "El lugar en el mundo del directivo catalán está en Andalucía: “Es donde se mejor se vive en España”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     }
   ],
@@ -2524,7 +2545,7 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "source": "La Vanguardia",
