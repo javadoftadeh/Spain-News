@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:35:20.668125+00:00",
+  "generated_at": "2026-08-18T21:55:09.162249+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "551cea927b0f",
@@ -1115,6 +1115,34 @@
       "editorial_version": 2
     },
     {
+      "id": "8630fd58b928",
+      "source": "La Vanguardia",
+      "title": "La Alhambra presenta daños de carácter leve, ninguno estructural, centrados en la Alcazaba",
+      "summary": "Los expertos mantienen el trabajo de revisión para conocer el impacto de los seísmos en el monumento, que se ha desalojado este mediodía y permanece cerrado",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260818/11616201/alhambra-presenta-danos-caracter-leve-ninguno-estructural-centrados-alcazaba.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84799233b1c.r_d.2931-1957-0.jpeg",
+      "published_at": "2026-08-18T22:21:34+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "آسیب‌های جزئی در کاخ الحمرا پس از زمین‌لرزه",
+      "lead_fa": "مجموعه تاریخی الحمرا پس از وقوع زمین‌لرزه به طور موقت تخلیه شد و در حال حاضر بسته است. کارشناسان تأیید کرده‌اند که آسیب‌ها جزئی بوده و هیچ صدمه ساختاری گزارش نشده است.",
+      "key_points_fa": [
+        "تخلیه مجموعه الحمرا به دلیل وقوع زمین‌لرزه در ظهر امروز",
+        "بسته بودن موقت مجموعه برای بررسی‌های ایمنی",
+        "تایید کارشناسان مبنی بر سطحی بودن خسارات و عدم وجود آسیب ساختاری"
+      ],
+      "analysis_fa": "وقوع زمین‌لرزه در مناطق تاریخی و گردشگری اسپانیا همواره نگرانی‌هایی درباره حفظ آثار باستانی ایجاد می‌کند. ارزیابی دقیق خسارات توسط کارشناسان برای تضمین ایمنی بازدیدکنندگان و حفاظت از این میراث جهانی ضروری است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#الحمرا",
+        "#اسپانیا",
+        "#زمین_لرزه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "c9bb56ca011c",
       "source": "La Vanguardia",
       "title": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
@@ -1280,34 +1308,6 @@
         "#بارسلونا",
         "#رودری",
         "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "120a2f9aaf80",
-      "source": "EL PAÍS Economía",
-      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
-      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "اتحادیه اروپا سخت‌گیری بر ادعاهای زیست‌محیطی شرکت‌ها را آغاز می‌کند",
-      "lead_fa": "اتحادیه اروپا از ماه سپتامبر شرکت‌ها را ملزم به ارائه مستندات برای ادعاهای پایداری می‌کند. این اقدام با هدف مقابله با فریب‌کاری‌های سبز و اطلاع‌رسانی دقیق به مصرف‌کنندگان انجام می‌شود.",
-      "key_points_fa": [
-        "اجرای قوانین جدید اتحادیه اروپا از ماه سپتامبر آغاز می‌شود.",
-        "شرکت‌های مدعی پایداری باید برای ادعاهای خود مدرک ارائه کنند.",
-        "هدف این مقررات جلوگیری از گمراه کردن مصرف‌کنندگان است."
-      ],
-      "analysis_fa": "افزایش نظارت بر ادعاهای زیست‌محیطی نشان‌دهنده رویکرد جدی‌تر نهادهای اروپایی برای شفافیت بازار است. این مقررات شرکت‌ها را ناچار می‌سازد تا از تبلیغات بدون پشتوانه پرهیز کنند و رقابت سالم‌تری در بازار ایجاد شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد_اروپا",
-        "#محیط_زیست",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1546,18 +1546,25 @@
       "url": "https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/5ALUN63X5BOWXHHUU6GTAXVCGU.jpg?auth=ce5b21797250ddcb77917f52c43c7e8a106b02a3d42d344c6b9582f4d8395055",
       "published_at": "2026-08-18T15:41:42+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
-      "lead_fa": "El republicano va un paso más allá en sus amenazas de anexión con una imagen publicada en su propia red social",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "category": "politica",
+      "priority": 68,
+      "title_fa": "ادعای جنجالی ترامپ درباره تنگه هرمز",
+      "lead_fa": "دونالد ترامپ در تصویری که در شبکه اجتماعی خود منتشر کرد، تنگه هرمز را «سرزمین جدید ایالات متحده» خواند. این اقدام گامی فراتر در تهدیدات الحاق‌طلبانه او به شمار می‌رود.",
+      "key_points_fa": [
+        "انتشار تصویر و ادعای ترامپ در شبکه اجتماعی شخصی‌اش",
+        "توصیف تنگه هرمز به عنوان سرزمین جدید ایالات متحده",
+        "تداوم تهدیدات مربوط به الحاق مناطق توسط مقام سابق آمریکایی"
+      ],
+      "analysis_fa": "این‌گونه اظهارات بازتابی از رویکرد جنجالی ترامپ در فضای مجازی است که معمولاً اهداف سیاسی خاصی را دنبال می‌کند. با این حال، ارزش حقوقی و عملی چنین ادعاهایی در حقوق بین‌الملل نیازمند بررسی دقیق تحولات ژئوپلیتیک است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ترامپ",
+        "#تنگه_هرمز",
+        "#آمریکا",
+        "#سیاست_خارجی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1568,18 +1575,24 @@
       "url": "https://www.lavanguardia.com/internacional/20260818/11616049/trump-proclama-ormuz-territorio-ee-uu-red-social.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a846019e32d7.r_d.2576-520-0.jpeg",
       "published_at": "2026-08-18T15:41:19+02:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 68,
-      "title_fa": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
-      "lead_fa": "Irán califica de “ilusión” la amenaza de anexión de Trump y afirma que el estrecho “no volverá a abrirse” hasta que EE.UU. cumpla con lo acordado en junio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "واکنش ایران به ادعای دونالد ترامپ درباره تنگه هرمز",
+      "lead_fa": "دونالد ترامپ تنگه هرمز را در شبکه اجتماعی خود «قلمرو ایالات متحده» خواند. ایران این تهدید را توهم توصیف کرد.",
+      "key_points_fa": [
+        "اعلام ترامپ در شبکه اجتماعی درباره تنگه هرمز",
+        "واکنش مقام‌های ایرانی و رد این ادعا به عنوان توهم",
+        "تاکید ایران بر عدم بازگشایی تنگه تا اجرای توافقات ژوئن"
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تنش لحن‌محور نشان‌دهنده تداوم چالش‌های ژئوپلیتیک میان واشنگتن و تهران است و ابعاد اقتصادی و امنیتی مهمی برای کنترل آبراه‌های بین‌المللی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#تنگه_هرمز",
+        "#آمریکا",
+        "#ایران"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1638,28 +1651,6 @@
       "priority": 68,
       "title_fa": "El colmillo del narval, un “cuerno mitológico” que se adelantó miles de años a la ingeniería de materiales",
       "lead_fa": "Un estudio descifra la alargada espiral que emerge del cráneo de estos unicornios marinos, formada por dos capas dentales que crecen en sentidos opuestos y le confieren gran resistencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "14232c035536",
-      "source": "EL PAÍS España",
-      "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
-      "summary": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
-      "url": "https://elpais.com/espana/2026-08-18/una-operacion-policial-conjunta-entre-espana-y-francia-desmantela-una-red-de-traslado-ilicito-de-migrantes.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205591_140810_video_1800.mp4",
-      "published_at": "2026-08-18T12:41:05+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
-      "lead_fa": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1759,17 +1750,17 @@
       "editorial_version": 2
     },
     {
-      "id": "692f01373b8e",
-      "source": "La Vanguardia",
-      "title": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
-      "summary": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615798/juez-pedraz-ordena-volcar-nuevo-movil-serrano-ex-jefe-gabinete-pedro-sanchez.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a844db77852b.jpeg",
-      "published_at": "2026-08-18T12:39:01+02:00",
+      "id": "14232c035536",
+      "source": "EL PAÍS España",
+      "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
+      "summary": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
+      "url": "https://elpais.com/espana/2026-08-18/una-operacion-policial-conjunta-entre-espana-y-francia-desmantela-una-red-de-traslado-ilicito-de-migrantes.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205591_140810_video_1800.mp4",
+      "published_at": "2026-08-18T12:41:05+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "El juez Pedraz ordena volcar de nuevo el móvil de Serrano, ex jefe de gabinete de Sánchez",
-      "lead_fa": "El también expresidente de Correos había pedido la anulación del primer clonado del teléfono porque se realizó sin la presencia de su letrado",
+      "title_fa": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
+      "lead_fa": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2111,6 +2102,28 @@
       "editorial_version": 2
     },
     {
+      "id": "63e7097136b6",
+      "source": "La Vanguardia",
+      "title": "Ideología en las aulas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
+      "published_at": "2026-08-18T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Ideología en las aulas",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "e7749800b31f",
       "source": "EL PAÍS Economía",
       "title": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
@@ -2119,7 +2132,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/U6MGGFOUZ5DS3K4NIISJM7QRZI.jpg?auth=5fcda77195bfb1bb30f9364993b014fe76853ca3cecf6fe9764583e0c484dba4",
       "published_at": "2026-08-18T03:45:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
       "lead_fa": "Houngbo deja la puerta abierta a que un afín a Trump ocupe la dirección general adjunta, al tiempo que baraja que Washington siga sin pagar sus cuotas",
       "key_points_fa": [],
@@ -2141,7 +2154,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RU2G5SCBNJP5DBCRQJOVJTEO7U.jpg?auth=21c7117ee23678b6e94268d877bdf5cd515ef7d0af8eab852d53e39753c325c4",
       "published_at": "2026-08-18T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El mayor problema del ‘shock’ petrolero está en la refinería",
       "lead_fa": "El Brent ha caído casi un tercio desde el máximo de la guerra de Irán, pero los combustibles apenas se han abaratado",
       "key_points_fa": [],
@@ -2163,7 +2176,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/I65YVRJHG5CPPDPLK7MMJCVJOI.jpg?auth=04bf82cfed274d4dfb9a81601c6ee7d75f795694d59f46a35b8c52f0823414ff",
       "published_at": "2026-08-18T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "La fiebre de la IA, un gol en propia meta de Europa",
       "lead_fa": "Los inversores de la zona euro tienen 440.000 millones expuestos a las grandes tecnológicas estadounidenses",
       "key_points_fa": [],
@@ -2185,7 +2198,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Z6I5MWYMT5HGTGA55TUTP2HOKQ?auth=348c88ac14952fcc886502e9c1f9e1720d114391c45ec32b20b22902afdc4d8e",
       "published_at": "2026-08-18T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
       "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
       "key_points_fa": [],
@@ -2199,17 +2212,17 @@
       "editorial_version": 2
     },
     {
-      "id": "63e7097136b6",
-      "source": "La Vanguardia",
-      "title": "Ideología en las aulas",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
-      "published_at": "2026-08-18T05:00:00+02:00",
-      "category": "sociedad",
+      "id": "37e5c946cf96",
+      "source": "EL PAÍS Economía",
+      "title": "Europa y la tentación de vigilar para proteger",
+      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "ciencia",
       "priority": 64,
-      "title_fa": "Ideología en las aulas",
-      "lead_fa": "",
+      "title_fa": "Europa y la tentación de vigilar para proteger",
+      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2515,7 +2528,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf",
       "published_at": "2026-08-17T09:51:00+00:00",
       "category": "ciencia",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "La Guardia Civil lanza un amplio dispositivo para localizar a los autores del ajuste de cuentas de Isla Cristina (Huelva)",
       "lead_fa": "La investigación relaciona los hechos con otro asesinato ocurrido en la capital onubense en 2024, cuyo presunto responsable es familiar de las víctimas",
       "key_points_fa": [],
