@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:54:13.774075+00:00",
+  "generated_at": "2026-08-18T20:36:53.186546+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "551cea927b0f",
@@ -16,7 +16,7 @@
       "summary": "El Poder Judicial ve necesario un refuerzo de los juzgados de la ciudad y el Gobierno asegura que ya lo ha llevado a cabo",
       "url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/M2T3ZGWICZHTNCPRLSDBODQ57E.jpg?auth=2dbe4f04dc4ad14545bf852d702b2fb36cdd2f3fcb2fbfe7def26fa1786110e4",
-      "published_at": "2026-08-18T19:41:02+00:00",
+      "published_at": "2026-08-18T20:17:55+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "بحران مهاجرت در سئوتا؛ دستگاه قضایی خواستار تقویت دادگاه‌ها شد",
@@ -512,6 +512,34 @@
         "#اسپانیا",
         "#حوادث",
         "#ساراگوسا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9257630ad03c",
+      "source": "EL PAÍS",
+      "title": "Estados Unidos amplía su campaña contra el Tribunal Penal Internacional y sanciona a su presidenta",
+      "summary": "Las medidas contra Tomoko Akane y el fiscal Abdoulaye Seye se suman a las adoptadas contra otros 11 magistrados. Washington aspira a desmantelar la institución responsable de procesar crímenes de guerra y contra la humanidad",
+      "url": "https://elpais.com/internacional/2026-08-18/estados-unidos-amplia-su-campana-contra-el-tribunal-penal-internacional-y-sanciona-a-su-presidenta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JM6GGZYUUZJG7ENMB5AR2BFBH4.jpg?auth=70fd0ed72381af97b37242205bcaf61f6f9724129329d70c244d4bba025bf1dc",
+      "published_at": "2026-08-18T20:04:40+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "گسترش تحریم‌های ایالات متحده علیه دیوان کیفری بین‌المللی",
+      "lead_fa": "ایالات متحده تحریم‌های جدیدی را علیه رئیس و یک دادستان دیوان کیفری بین‌المللی اعمال کرد. واشنگتن هدف از این اقدامات را تضعیف نهاد مسئول رسیدگی به جنایات جنگی اعلام کرده است.",
+      "key_points_fa": [
+        "اعمال تحریم علیه تاموکو اکانه، رئیس دیوان کیفری بین‌المللی.",
+        "تحریمعبدولایه سیه، دادستان دیوان، در ادامه اقدامات علیه مقامات قضایی.",
+        "هدف‌گذاری واشنگتن برای محدود کردن فعالیت‌های نهاد بین‌المللی پیگرد جنایات جنگی."
+      ],
+      "analysis_fa": "توسعه تحریم‌ها نشان‌دهنده رویکرد سخت‌گیرانه ایالات متحده در قبال نهادهای قضایی بین‌المللی است که صلاحیت آن‌ها را به رسمیت نمی‌شناسد. این اقدام می‌تواند همکاری‌های حقوقی بین‌المللی را با چالش‌های تازه‌ای مواجه کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#دیوان_کیفری_بین_المللی",
+        "#آمریکا",
+        "#تحریم"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1172,50 +1200,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f2ea3d915ff9",
-      "source": "La Vanguardia",
-      "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
-      "summary": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
-      "url": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a8495d41ae21.jpeg",
-      "published_at": "2026-08-18T19:27:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
-      "lead_fa": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6318aee4f68b",
-      "source": "La Vanguardia",
-      "title": "Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario",
-      "summary": "Disney había cortado los lazos con el actor a raíz de la batalla legal que mantuvo con su exmujer Amber Heard, con acusaciones de maltrato cruzadas",
-      "url": "https://www.lavanguardia.com/gente/20260818/11616157/margot-robbie-protagonizara-piratas-caribe-6-jack-sparrow-johnny-depp-sera-personaje-secundario.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84952856582.r_d.196-172-0.jpeg",
-      "published_at": "2026-08-18T19:27:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario",
-      "lead_fa": "Disney había cortado los lazos con el actor a raíz de la batalla legal que mantuvo con su exmujer Amber Heard, con acusaciones de maltrato cruzadas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0cd06199a4e0",
       "source": "EL PAÍS",
       "title": "Juan Tamariz, genio de lo cotidiano y poeta de lo imposible",
@@ -1223,40 +1207,24 @@
       "url": "https://elpais.com/cultura/2026-08-18/juan-tamariz-genio-de-lo-cotidiano-y-poeta-de-lo-imposible.html",
       "image": "https://imagenes.elpais.com/resizer/v2/6A5IJA5HPVG2XNOT572MX7446I.jpeg?auth=001b7e449d54311fc792615f00b9a3800ad37197ebf6482db385f864c717e0d9",
       "published_at": "2026-08-18T19:19:29+00:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 70,
-      "title_fa": "Juan Tamariz, genio de lo cotidiano y poeta de lo imposible",
-      "lead_fa": "Luis Piedrahita recuerda la humildad y la generosidad del maestro de la cartomagia, “un ‘showman’ descomunal”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "یودیش خوان تاماریز؛ جادوگر و شاعر ناممکن‌ها",
+      "lead_fa": "لوئیس پیدراهیتا از فروتنی و سخاوت خوان تاماریز، استاد برجسته شعبده‌بازی تجلیل کرد. او تاماریز را یک نمایش‌گردان بزرگ و بی‌نظیر توصیف نمود.",
+      "key_points_fa": [
+        "تقدیر لوئیس پیدراهیتا از مهارت‌های هنری خوان تاماریز",
+        "تاکید بر فروتنی و سخاوت این استاد برجسته کارتومانی",
+        "توصیف تاماریز به عنوان یک چهره بزرگ در دنیای نمایش"
+      ],
+      "analysis_fa": "این اظهارات بار دیگر جایگاه برجسته خوان تاماریز را در هنر شعبده‌بازی و تاثیرگذاری او بر نسل‌های دیگر هنرمندان در اسپانیا یادآوری می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#خوان_تاماریز",
+        "#شعبده_بازی",
+        "#فرهنگ_اسپانیا"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6e4f122aa69a",
-      "source": "La Vanguardia",
-      "title": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
-      "summary": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
-      "url": "https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8490f7166c6.r_d.2080-1609-0.jpeg",
-      "published_at": "2026-08-18T19:06:15+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
-      "lead_fa": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1294,7 +1262,7 @@
       "title": "El Barcelona presenta a Rodri hasta 2030: “El Barça está a un paso de ganar la ansiada Champions”",
       "summary": "El capitán de la selección española, MVP del último Mundial que ganó la Roja, es presentado este martes en el Camp Nou: “El centro del campo es espectacular. Quiero transmitir las ganas de seguir mejorando”",
       "url": "https://elpais.com/deportes/futbol/2026-08-18/el-barcelona-anuncia-el-fichaje-de-rodri-hasta-2030.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QWEAKJ2TENDG7K4V6YRA6DVQNI.jpg?auth=aab80ed3696dcd8e0652427d62267b2aa336d2b6f468eff37487e04a9b35fb4e",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205707_185202_video_1800.mp4",
       "published_at": "2026-08-18T17:56:42+00:00",
       "category": "deportes",
       "priority": 70,
@@ -1352,18 +1320,25 @@
       "url": "https://cincodias.elpais.com/companias/2026-08-18/amancio-ortega-sale-de-la-lusa-ren-y-mantiene-otros-3560-millones-invertidos-en-sectores-estrategicos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/63GMWRBD6ZBMFDXWTBV64TV5BA.png?auth=6151614d1f1643ab9ac827b0a7b5260ddbdd18621d14a740d885c79c1ff23ae3",
       "published_at": "2026-08-18T03:15:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 70,
-      "title_fa": "Amancio Ortega sale de la lusa REN y mantiene otros 3.560 millones invertidos en sectores estratégicos",
-      "lead_fa": "Pontegadea vende por 325 millones debido al interés del Gobierno portugués en entrar en el capital del operador de gas y electricidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "خروج آمانسیو اورتگا از شرکت پرتغالی رن",
+      "lead_fa": "پونتگادئا سهام خود در اپراتور گاز و برق پرتغال را فروخت. این تصمیم پس از ابراز تمایل دولت پرتغال برای ورود به سرمایه این شرکت اتخاذ شد.",
+      "key_points_fa": [
+        "فروش سهام شرکت رن به ارزش ۳۲۵ میلیون یورو",
+        "حفظ ۳.۵۶ میلیارد یورو سرمایه‌گذاری در بخش‌های استراتژیک دیگر",
+        "تمایل دولت پرتغال برای ورود به سرمایه اپراتور گاز و برق"
+      ],
+      "analysis_fa": "این جابجایی سرمایه نشان‌دهنده واکنش سرمایه‌گذاران بزرگ به تغییرات نظارتی و مداخله دولت‌ها در بخش‌های راهبردی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمانسیو_اورتگا",
+        "#پرتغال",
+        "#اقتصاد",
+        "#سرمایه‌گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1414,6 +1389,72 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f2ea3d915ff9",
+      "source": "La Vanguardia",
+      "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
+      "summary": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
+      "url": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a8495d41ae21.jpeg",
+      "published_at": "2026-08-18T19:27:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
+      "lead_fa": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6318aee4f68b",
+      "source": "La Vanguardia",
+      "title": "Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario",
+      "summary": "Disney había cortado los lazos con el actor a raíz de la batalla legal que mantuvo con su exmujer Amber Heard, con acusaciones de maltrato cruzadas",
+      "url": "https://www.lavanguardia.com/gente/20260818/11616157/margot-robbie-protagonizara-piratas-caribe-6-jack-sparrow-johnny-depp-sera-personaje-secundario.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84952856582.r_d.196-172-0.jpeg",
+      "published_at": "2026-08-18T19:27:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario",
+      "lead_fa": "Disney había cortado los lazos con el actor a raíz de la batalla legal que mantuvo con su exmujer Amber Heard, con acusaciones de maltrato cruzadas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6e4f122aa69a",
+      "source": "La Vanguardia",
+      "title": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
+      "summary": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
+      "url": "https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8490f7166c6.r_d.2080-1609-0.jpeg",
+      "published_at": "2026-08-18T19:06:15+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
+      "lead_fa": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1549,72 +1590,6 @@
       "editorial_version": 2
     },
     {
-      "id": "62f26811c515",
-      "source": "La Vanguardia",
-      "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
-      "summary": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
-      "url": "https://www.lavanguardia.com/local/andalucia/20260818/11615921/triple-crimen-isla-cristina-pone-foco-violencia-narcotrafico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a843d22663d1.r_d.2736-1824-0.jpeg",
-      "published_at": "2026-08-18T13:19:10+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
-      "lead_fa": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4bef9647041c",
-      "source": "La Vanguardia",
-      "title": "El misterio de las últimas horas de Lorca",
-      "summary": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "url": "https://www.lavanguardia.com/cultura/20260818/11615922/misterio-ultimas-horas-lorca-aniversario-muerte.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a855ad4ed6.r_d.448-477-0.jpeg",
-      "published_at": "2026-08-18T13:07:31+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El misterio de las últimas horas de Lorca",
-      "lead_fa": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "67186aeb658f",
-      "source": "La Vanguardia",
-      "title": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
-      "summary": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "url": "https://www.lavanguardia.com/vida/20260818/11615912/meena-minal-ninas-adoptadas-amigas-hermanas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8438a352cf4.r_d.1984-1179-0.jpeg",
-      "published_at": "2026-08-18T13:06:44+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
-      "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "14232c035536",
       "source": "EL PAÍS España",
       "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
@@ -1670,6 +1645,72 @@
       "priority": 68,
       "title_fa": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
       "lead_fa": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "62f26811c515",
+      "source": "La Vanguardia",
+      "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
+      "summary": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
+      "url": "https://www.lavanguardia.com/local/andalucia/20260818/11615921/triple-crimen-isla-cristina-pone-foco-violencia-narcotrafico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a843d22663d1.r_d.2736-1824-0.jpeg",
+      "published_at": "2026-08-18T13:19:10+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
+      "lead_fa": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4bef9647041c",
+      "source": "La Vanguardia",
+      "title": "El misterio de las últimas horas de Lorca",
+      "summary": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
+      "url": "https://www.lavanguardia.com/cultura/20260818/11615922/misterio-ultimas-horas-lorca-aniversario-muerte.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a855ad4ed6.r_d.448-477-0.jpeg",
+      "published_at": "2026-08-18T13:07:31+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El misterio de las últimas horas de Lorca",
+      "lead_fa": "A los 90 años de su asesinato, se afianzan las teorías que afirman que su ejecución surgió de una conspiración múltiple",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "67186aeb658f",
+      "source": "La Vanguardia",
+      "title": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
+      "summary": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
+      "url": "https://www.lavanguardia.com/vida/20260818/11615912/meena-minal-ninas-adoptadas-amigas-hermanas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8438a352cf4.r_d.1984-1179-0.jpeg",
+      "published_at": "2026-08-18T13:06:44+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
+      "lead_fa": "Meena Geltink (43 años) y Minal Tijssen (44) se hicieron amigas en un campamentos para menores adoptados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1791,50 +1832,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5781520fd138",
-      "source": "EL PAÍS",
-      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
-      "published_at": "2026-08-18T07:57:44+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "300c76709867",
       "source": "EL PAÍS España",
       "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
@@ -1890,6 +1887,50 @@
       "priority": 66,
       "title_fa": "Rodri, más que un fichaje",
       "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5781520fd138",
+      "source": "EL PAÍS",
+      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
+      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
+      "published_at": "2026-08-18T07:57:44+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2253,28 +2294,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bce79c845df1",
-      "source": "EL PAÍS",
-      "title": "Peridis: ahora realojo",
-      "summary": "Viñeta del 18 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-18/peridis-ahora-realojo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RCBTF7ICMRDGTJBYUYJANFSHLY.jpg?auth=44ce4e080ae1a60162d9e88b8e2222bbb46d742ae97494d09d08c75bd0b99031",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Peridis: ahora realojo",
-      "lead_fa": "Viñeta del 18 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8972d7a44e97",
       "source": "EL PAÍS",
       "title": "¿Se puede probar la existencia del más allá? Los científicos que van en busca de Dios",
@@ -2524,7 +2543,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 152
+      "count": 153
     },
     {
       "source": "EL PAÍS España",
