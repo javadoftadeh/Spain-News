@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:06:53.407893+00:00",
+  "generated_at": "2026-08-19T13:54:30.988001+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d217eaa19a7b",
@@ -15,8 +15,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Ceuta acepta el plan del Gobierno de trasladar 500 niñas migrantes a la Península como “medida extraordinaria”",
       "summary": "El PP, sobre el traslado de 500 niñas migrantes desde Ceuta: “El interés superior del menor será estar con su familia” | Los populares piden la reprobación de cinco ministros por la gestión de la crisis migratoria en Ceuta",
       "url": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7JAHNLKNKREBJL4U35BRPCVXIE.JPG?auth=e9802c2d6828f590e6a1f2003865678fb71de9edb5873105a1cd201e6786954d",
-      "published_at": "2026-08-19T12:40:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/NW74FDZMYFBOPKV2T5XGQR6HTI.jpg?auth=f9ef149c330df682a9edeaf0e4273787712ceb38edeff67fb5eb8ca3d311c18a",
+      "published_at": "2026-08-19T11:39:11+00:00",
       "category": "migracion",
       "priority": 96,
       "title_fa": "دولت اسپانیا برای انتقال ۵۰۰ دختر مهاجر از سئوئا برنامه‌ریزی می‌کند",
@@ -160,16 +160,23 @@
       "published_at": "2026-08-19T11:44:27+00:00",
       "category": "politica",
       "priority": 82,
-      "title_fa": "El PP pide en el Senado la reprobación de otros cinco ministros por la crisis migratoria en Ceuta",
-      "lead_fa": "La portavoz popular presume de haber convertido en “el freno a la deriva autoritaria de Sánchez” la Cámara alta, donde ya han reprobado a ocho ministros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درخواست حزب مردمی در سنا برای توبیخ پنج وزیر دیگر",
+      "lead_fa": "حزب مردمی اسپانیا در سنا خواستار توبیخ پنج وزیر دیگر به دلیل بحران مهاجرت در سئوئا شد. این حزب سنا را به سدی در برابر رویکرد دولت تبدیل کرده است.",
+      "key_points_fa": [
+        "درخواست حزب مردمی برای توبیخ پنج وزیر کابینه",
+        "اشاره به بحران مهاجرت در منطقه سئوئا",
+        "تاکید بر نقش سنا به عنوان مانعی در برابر دولت سانچز"
+      ],
+      "analysis_fa": "این اقدام حزب مردمی در سنا نشان دهنده تشدید تنش های سیاسی میان حزب حاکم و اپوزیسیون بر سر مدیریت بحران های مهاجرتی است. استفاده از ابزار توبیخ در سنا اگرچه پیامد حقوقی مستقیم ندارد، اما فشارهای سیاسی را افزایش می دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سنا",
+        "#مهاجرت",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -230,25 +237,60 @@
       "editorial_version": 2
     },
     {
+      "id": "3862033d6db9",
+      "source": "EL PAÍS",
+      "title": "El ejército de Israel admite que disparó contra el coche de la niña palestina Hind Rajab en Gaza y abre una investigación penal por su muerte",
+      "summary": "Las Fuerzas Armadas también abren pesquisas sobre la muerte de 15 trabajadores humanitarios y de emergencia en la Franja, y cierran la del asesinato de los trabajadores de la ONG del chef José Andrés",
+      "url": "https://elpais.com/internacional/2026-08-19/el-ejercito-de-israel-admite-que-disparo-contra-el-coche-de-la-nina-palestina-hind-rajab-en-gaza-y-abre-una-investigacion-penal-por-su-muerte.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZDIEZLNCCZEB7BURHLVLQRTKEQ.JPG?auth=d87ba9c22af3f46344accbfe13be27f0fbcee3e34c7c78cd02a6a5009746a231",
+      "published_at": "2026-08-19T13:01:01+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "ارتش اسرائیل تیراندازی به خودروی هند رجب در غزه را پذیرفت",
+      "lead_fa": "ارتش اسرائیل اعتراف کرد که به خودروی یک کودک فلسطینی در غزه تیراندازی کرده است. مقامات نظامی همچنین تحقیقات کیفری درباره مرگ این کودک و چند امدادگر آغاز کرده‌اند.",
+      "key_points_fa": [
+        "پذیرش تیراندازی نظامیان اسرائیلی به خودروی هند رجب در غزه",
+        "آغاز تحقیقات کیفری درباره مرگ این کودک و ۱۵ امدادگر",
+        "بسته شدن پرونده مربوط به کشته شدن امدادگران سازمان غیردولتی سرآشپز خوزه آندرس"
+      ],
+      "analysis_fa": "این اعتراف پس از ماه‌ها فشار بین‌المللی و بررسی‌های حقوقی درباره مرگ غیرنظامیان و امدادگران در بار باریکه غزه صورت گرفته است. ارتش اسرائیل همزمان با آغاز برخی تحقیقات کیفری، پرونده‌های دیگری را نیز بسته است که این امر ابعادی از چالش‌های نظارت بر عملکرد نظامیان را آشکار می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسرائیل",
+        "#غزه",
+        "#حوادث_جنگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "addeb05976f7",
       "source": "EL PAÍS",
       "title": "Fallece Josep Cusí, fiel amigo de Juan Carlos I",
-      "summary": "El armador de los veleros Bribón fallece en Barcelona a los 92 años",
+      "summary": "El armador de los barcos de regata ‘Bribón’ fallece en Barcelona a los 92 años",
       "url": "https://elpais.com/espana/catalunya/2026-08-19/fallece-josep-cusi-fiel-amigo-de-juan-carlos-i.html",
       "image": "https://imagenes.elpais.com/resizer/v2/G2JKKOYDX5BQZNU2VOC6HULJPU.jpg?auth=a6197ebe03a3aeb5f6b23281f44ebafe7889fc36c297fcff195e2b6368676eb4",
       "published_at": "2026-08-19T11:49:57+00:00",
       "category": "deportes",
       "priority": 77,
-      "title_fa": "Fallece Josep Cusí, fiel amigo de Juan Carlos I",
-      "lead_fa": "El armador de los veleros Bribón fallece en Barcelona a los 92 años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درگذشت جوزپ کوسی، دوست نزدیک و هم‌نشین دریایی خوان کارلوس اول",
+      "lead_fa": "جوزپ کوسی، مالک و شناورگردان قایق‌های مسابقه‌ای «بریبون»، در سن ۹۲ سالگی در بارسلونا درگذشت. او به عنوان یکی از دوستان وفادار و دیرینه خوان کارلوس اول شناخته می‌شد.",
+      "key_points_fa": [
+        "جوزپ کوسی در سن ۹۲ سالگی در بارسلونا درگذشت.",
+        "وی مالک و مسئول قایق‌های مسابقه‌ای معروف «بریبون» بود.",
+        "او دوستی نزدیک و دیرینه‌ای با خوان کارلوس اول، پادشاه پیشین اسپانیا، داشت."
+      ],
+      "analysis_fa": "درگذشت جوزپ کوسی پایان بخش یکی از دوستی‌های قدیمی و تاثیرگذار در حاشیه دربار اسپانیا و جهان قایقرانی بادبانی است. کوسی نقش مهمی در فعالیت‌های ورزشی و سفرهای دریایی خوان کارلوس اول ایفا کرده بود و نام او سال‌ها با تاریخچه قایق‌های «بریبون» گره خورده بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
+        "#اسپانیا",
+        "#خوان_کارلوس",
+        "#قایقرانی",
         "#اخبار_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -392,12 +434,34 @@
       "editorial_version": 2
     },
     {
+      "id": "8484c0bcef85",
+      "source": "EL PAÍS Economía",
+      "title": "Los precios de la energía en Europa volvieron a escalar por encima del 10% en julio",
+      "summary": "Eurostat confirma que la inflación de la eurozona se situó en el 2,9%, con España como el país con mayor tensión en el IPC entre las grandes economías",
+      "url": "https://elpais.com/economia/2026-08-19/los-precios-de-la-energia-en-europa-volvieron-a-escalar-por-encima-del-10-en-julio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DZEO24IKFRPOTNGDNZR43Z2CAI.jpg?auth=1f054e9f485e45041e8c6af9f7e397006cddb2c901b9b428290729eefc12b15c",
+      "published_at": "2026-08-19T13:28:37+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Los precios de la energía en Europa volvieron a escalar por encima del 10% en julio",
+      "lead_fa": "Eurostat confirma que la inflación de la eurozona se situó en el 2,9%, con España como el país con mayor tensión en el IPC entre las grandes economías",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d73a0f090060",
       "source": "EL PAÍS",
       "title": "Comprar una casa se pone cada vez más difícil para quienes viven en la costa",
       "summary": "El esfuerzo para adquirir vivienda en los municipios litorales exige un 40% de los ingresos medios de las familias, mientras los precios subieron un 13,5% en el arranque de año, según Tinsa",
       "url": "https://elpais.com/economia/vivienda/2026-08-19/comprar-una-casa-se-pone-cada-vez-mas-dificil-para-quienes-viven-en-la-costa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/62325J6XRRLH7DFPEIX3FK4DXM.jpg?auth=6bb29aaefc30b6d012a7d257fd3e059e6425901ec27196a313760dc7b94036bd",
+      "image": "https://imagenes.elpais.com/resizer/v2/HHM6YYZFMNG3RER52JEOYW43BA.jpg?auth=91fd7c77be1633b74d7397985ada1b8912095f0466e1bfdab0c651aa1299b26d",
       "published_at": "2026-08-19T12:48:38+00:00",
       "category": "economia",
       "priority": 75,
@@ -455,34 +519,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6b1de2e8410e",
-      "source": "EL PAÍS",
-      "title": "Israel construye instalaciones con “cabinas de observación” para ejecutar en la horca a palestinos condenados a muerte",
-      "summary": "El ministro ultra Itamar Ben Gvir anuncia la construcción y cita a EE UU como ejemplo. “Estamos haciendo historia”, dice el titular de Seguridad Nacional",
-      "url": "https://elpais.com/internacional/2026-08-19/israel-construye-instalaciones-con-cabinas-de-observacion-para-ejecutar-en-la-horca-a-palestinos-condenados-a-muerte.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205853_100627_video_1800.mp4",
-      "published_at": "2026-08-19T10:47:46+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "ساخت تاسیسات اعدام با طناب دار برای فلسطینیان در اسرائیل",
-      "lead_fa": "وزیر امنیت ملی اسرائیل از ساخت تاسیسات جدیدی با کابین‌های مشاهده برای اجرای حکم اعدام فلسطینیان خبر داد. ایتامار بن گویر ایالات متحده را به عنوان الگو در این زمینه ذکر کرد.",
-      "key_points_fa": [
-        "اعلام ساخت تاسیسات اعدام توسط ایتامار بن گویر",
-        "استناد مقام صهیونیستی به مدل ایالات متحده به عنوان الگو",
-        "توصیف این اقدام به عنوان «تاریخ‌ساز» از سوی وزیر امنیت ملی اسرائیل"
-      ],
-      "analysis_fa": "این تصمیم در راستای سیاست‌های حزب راست افراطی اسرائیل و با هدف تشدید مجازات‌ها اتخاذ شده است. این اقدام می‌تواند بحث‌های حقوق بشری و بین‌المللی درباره مجازات اعدام را در سرزمین‌های اشغالی دوباره برجسته کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسرائیل",
-        "#فلسطین",
-        "#اعدام"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -595,28 +631,6 @@
         "#دادگاه"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "30554c7da2c1",
-      "source": "La Vanguardia",
-      "title": "Expertos alertan de que los vídeos virales de frutas están radicalizando a los menores",
-      "summary": "Cierto contenido generado por inteligencia artificial, aparentemente inofensivo, oculta narrativas extremistas, violencia explícita y misoginia",
-      "url": "https://www.lavanguardia.com/neo/ia/20260819/11615958/expertos-alertan-sobre-contenido-basura-ia-videos-virales-frutas-radicalizando-menores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a8448e7ba545.jpeg",
-      "published_at": "2026-08-19T06:36:12+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "Expertos alertan de que los vídeos virales de frutas están radicalizando a los menores",
-      "lead_fa": "Cierto contenido generado por inteligencia artificial, aparentemente inofensivo, oculta narrativas extremistas, violencia explícita y misoginia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -904,32 +918,25 @@
       "editorial_version": 2
     },
     {
-      "id": "b3241e4b0549",
+      "id": "30554c7da2c1",
       "source": "La Vanguardia",
-      "title": "Consumo multa con un millón de euros a Avis por prácticas abusivas",
-      "summary": "La empresa cobraba ilegalmente gastos de gestión si el cliente era penalizado con una multa de tráfico",
-      "url": "https://www.lavanguardia.com/economia/20260819/11616148/consumo-multa-millon-euros-avis-practicas-abusivas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84917243ef6.r_d.400-196-0.jpeg",
-      "published_at": "2026-08-19T08:00:00+02:00",
-      "category": "economia",
+      "title": "Expertos alertan de que los vídeos virales de frutas están radicalizando a los menores",
+      "summary": "Cierto contenido generado por inteligencia artificial, aparentemente inofensivo, oculta narrativas extremistas, violencia explícita y misoginia",
+      "url": "https://www.lavanguardia.com/neo/ia/20260819/11615958/expertos-alertan-sobre-contenido-basura-ia-videos-virales-frutas-radicalizando-menores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a8448e7ba545.jpeg",
+      "published_at": "2026-08-19T06:36:12+02:00",
+      "category": "sociedad",
       "priority": 74,
-      "title_fa": "جریمه یک میلیون یورویی شرکت اوریس به دلیل تخلفات و هزینه‌های غیرقانونی",
-      "lead_fa": "وزارت مصرف اسپانیا شرکت کرایه خودرو اوریس را یک میلیون یورو جریمه کرد. این شرکت مبالغ غیرقانونی به عنوان هزینه مدیریت برای جریمه‌های رانندگی از مشتریان دریافت می‌کرد.",
-      "key_points_fa": [
-        "مبلغ جریمه تعیین شده یک میلیون یورو است.",
-        "تخلف مربوط به دریافت هزینه‌های غیرقانونی مدیریت برای جرایم رانندگی مشتریان است.",
-        "این اقدام توسط وزارت مصرف اسپانیا انجام شده است."
-      ],
-      "analysis_fa": "این تصمیم در راستای حمایت از حقوق مصرف‌کنندگان و برخورد با رویه‌های ناعادلانه در بازار خدمات کرایه خودرو اتخاذ شده است. نظارت نهادهای نظارتی اسپانیا بر شرکت‌های خدماتی برای جلوگیری از اخذ هزینه‌های پنهان افزایش یافته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Expertos alertan de que los vídeos virales de frutas están radicalizando a los menores",
+      "lead_fa": "Cierto contenido generado por inteligencia artificial, aparentemente inofensivo, oculta narrativas extremistas, violencia explícita y misoginia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#مصرف‌کنندگان",
-        "#قانون"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1069,17 +1076,83 @@
       "editorial_version": 2
     },
     {
+      "id": "9100910f79db",
+      "source": "La Vanguardia",
+      "title": "Aperitivo otoñal desde mañana con lluvia en el norte y el este por una vaguada atlántica",
+      "summary": "Las temperaturas bajarán en zonas de Galicia y el Cantábrico y ligeramente en el mediterráneo, donde el calor en Valencia coincidirá este jueves con tormentas",
+      "url": "https://www.lavanguardia.com/natural/20260819/11616602/aperitivo-otonal-manana-lluvia-norte-vaguada-atlantica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/18/69e324952de38.r_d.3016-1861-0.jpeg",
+      "published_at": "2026-08-19T15:06:08+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Aperitivo otoñal desde mañana con lluvia en el norte y el este por una vaguada atlántica",
+      "lead_fa": "Las temperaturas bajarán en zonas de Galicia y el Cantábrico y ligeramente en el mediterráneo, donde el calor en Valencia coincidirá este jueves con tormentas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a6959423c6e3",
+      "source": "La Vanguardia",
+      "title": "ChatGPT mostrará anuncios la semana próxima en su versión gratuita",
+      "summary": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
+      "url": "https://www.lavanguardia.com/vida/20260819/11616578/chatgpt-mostrara-anuncios-semana-proxima-version-gratuita.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a859a99a63e4.r_d.1937-1150-0.jpeg",
+      "published_at": "2026-08-19T14:02:47+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "ChatGPT mostrará anuncios la semana próxima en su versión gratuita",
+      "lead_fa": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6c9ea4428b9c",
       "source": "La Vanguardia",
-      "title": "El ejército israelí admite que atacó el coche de la niña Hind Rajab, muerta en Gaza en el 2024",
+      "title": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
       "summary": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
       "url": "https://www.lavanguardia.com/internacional/20260819/11616564/ejercito-israeli-admite-ataco-coche-nina-hind-rajab-muerta-gaza-2024.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/23/68d2cecec582d.r_d.1986-1388-0.jpeg",
       "published_at": "2026-08-19T13:39:17+02:00",
       "category": "ciencia",
       "priority": 70,
-      "title_fa": "El ejército israelí admite que atacó el coche de la niña Hind Rajab, muerta en Gaza en el 2024",
+      "title_fa": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
       "lead_fa": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f6c9a0e7f791",
+      "source": "La Vanguardia",
+      "title": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
+      "summary": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
+      "url": "https://www.lavanguardia.com/natural/20260819/11616558/seccion-iconico-farallon-acantilados-moher-derrumba-atlantico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/07/65e98b3fade1e.jpeg",
+      "published_at": "2026-08-19T13:35:26+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
+      "lead_fa": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1093,15 +1166,81 @@
     {
       "id": "d4a4311b4415",
       "source": "La Vanguardia",
-      "title": "El príncipe Lorenzo reconoce a su hijo Clément, y este se convierte en príncipe",
+      "title": "El príncipe Lorenzo de Bélgica reconoce a su hijo Clément, y este se convierte en príncipe",
       "summary": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
       "url": "https://www.lavanguardia.com/gente/20260819/11616541/principe-lorenzo-reconoce-oficialmente-hijo-clement-convierte-principe-belgica.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/30/69f39027e5f3f.jpeg",
       "published_at": "2026-08-19T13:18:48+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El príncipe Lorenzo reconoce a su hijo Clément, y este se convierte en príncipe",
+      "title_fa": "El príncipe Lorenzo de Bélgica reconoce a su hijo Clément, y este se convierte en príncipe",
       "lead_fa": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "45641d2ac4e4",
+      "source": "EL PAÍS",
+      "title": "Ayuso se instala en una urbanización de Puerta de Hierro tras dejar el ático que compartía con González Amador",
+      "summary": "La presidenta se muda a una zona acomodada tras abandonar el barrio en el que creció y donde la Comunidad de Madrid compró el polémico apartamento con 199 metros de terraza",
+      "url": "https://elpais.com/espana/madrid/2026-08-19/ayuso-se-instala-en-una-urbanizacion-de-puerta-de-hierro-tras-dejar-el-atico-que-compartia-con-gonzalez-amador.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MTRGBQMOC5A2PFS7X3TGEENEHI.jpg?auth=88f40abca43ca966c69585ce027d1024e0fc9c5761ce412db0979823209acc3f",
+      "published_at": "2026-08-19T13:15:29+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ayuso se instala en una urbanización de Puerta de Hierro tras dejar el ático que compartía con González Amador",
+      "lead_fa": "La presidenta se muda a una zona acomodada tras abandonar el barrio en el que creció y donde la Comunidad de Madrid compró el polémico apartamento con 199 metros de terraza",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "106a06e0625b",
+      "source": "EL PAÍS",
+      "title": "El monumento al emperador que no valía un mojón",
+      "summary": "Un epigrafista desvela que un supuesto dintel romano de la sierra de Cazorla es, en realidad, una demarcación del siglo XX",
+      "url": "https://elpais.com/cultura/2026-08-19/el-monumento-al-emperador-que-no-valia-un-mojon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VA6IPCUKBRFVDOLFNDARY54WAA.png?auth=b6d6f950652d4b4f60d3ea25e9d4345ca47d0c9775055bf11fc95cfaf00878e7",
+      "published_at": "2026-08-19T13:15:04+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El monumento al emperador que no valía un mojón",
+      "lead_fa": "Un epigrafista desvela que un supuesto dintel romano de la sierra de Cazorla es, en realidad, una demarcación del siglo XX",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8ff4310b1a97",
+      "source": "EL PAÍS",
+      "title": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
+      "summary": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-ia-mas-avanzada-tras-la-rebelion-de-sus-agentes-este-verano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/N5B2GJUPEZHWDEKDKTJSYMSIFU.jpg?auth=ecba913c9816255bbb4953c335f29699015bd274f62beff87e818743aae92514",
+      "published_at": "2026-08-19T13:15:02+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
+      "lead_fa": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1124,50 +1263,6 @@
       "priority": 70,
       "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
       "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5dc5d5892ca8",
-      "source": "La Vanguardia",
-      "title": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
-      "summary": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616483/pp-compromis-cargan-puente-entrega-trenes-usados-23-anos-madrid.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8584fc5dd07.r_d.800-450-0.jpeg",
-      "published_at": "2026-08-19T12:35:32+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
-      "lead_fa": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6c8d5432776f",
-      "source": "La Vanguardia",
-      "title": "El cambio climático hace habitual el calor extremo del Mediterráneo",
-      "summary": "Un episodio como el de 2026 ha pasado de esperarse una vez cada 2.000 años a repetirse cada cinco",
-      "url": "https://www.lavanguardia.com/ciencia/20260819/11616197/cambio-climatico-habitual-calor-extremo-mediterraneo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a61aadc3bdb5.r_d.1069-738-0.jpeg",
-      "published_at": "2026-08-19T12:31:34+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El cambio climático hace habitual el calor extremo del Mediterráneo",
-      "lead_fa": "Un episodio como el de 2026 ha pasado de esperarse una vez cada 2.000 años a repetirse cada cinco",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1204,14 +1299,14 @@
       "id": "c5cecf121443",
       "source": "EL PAÍS",
       "title": "El TPI resiste al acoso de EE UU: “Recibimos golpes destinados al derecho internacional”",
-      "summary": "Bruselas reafirma su apoyo a la corte después de que Washington aprobase nuevas sanciones contra sus jueves. Chad y Venezuela anuncian su marcha de la institución tras las presiones de Estados Unidos",
+      "summary": "Bruselas reafirma su apoyo a la corte después de que Washington aprobase nuevas sanciones contra sus jueces. Chad y Venezuela anuncian su marcha de la institución tras las presiones de Estados Unidos",
       "url": "https://elpais.com/internacional/2026-08-19/la-campana-de-trump-para-desmantelar-el-tribunal-penal-internacional-consigue-sus-primeros-aliados-en-africa-y-america-latina.html",
       "image": "https://imagenes.elpais.com/resizer/v2/3JYH44UKKBHE3NCK5273NDBYRU.jpg?auth=b32871e29b3575a0efee44d077a835ed4b2cd457abfe86352f4437f386abc99f",
       "published_at": "2026-08-19T11:52:37+00:00",
       "category": "sociedad",
       "priority": 70,
       "title_fa": "El TPI resiste al acoso de EE UU: “Recibimos golpes destinados al derecho internacional”",
-      "lead_fa": "Bruselas reafirma su apoyo a la corte después de que Washington aprobase nuevas sanciones contra sus jueves. Chad y Venezuela anuncian su marcha de la institución tras las presiones de Estados Unidos",
+      "lead_fa": "Bruselas reafirma su apoyo a la corte después de que Washington aprobase nuevas sanciones contra sus jueces. Chad y Venezuela anuncian su marcha de la institución tras las presiones de Estados Unidos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1242,57 +1337,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "859f1d03dcdd",
-      "source": "EL PAÍS Economía",
-      "title": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
-      "summary": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
-      "url": "https://cincodias.elpais.com/companias/2026-08-19/nokia-agudiza-el-repliegue-europeo-y-desmantelara-todas-sus-operaciones-en-china-antes-de-fin-de-ano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DCJLHR6FKFMIPEICBUEGN4VCQA.jpg?auth=c05e4773e20ffcf66a959daf87a7568d83f776826760efc6323ce5933364bf02",
-      "published_at": "2026-08-19T10:14:24+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
-      "lead_fa": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "72fc75f83462",
-      "source": "La Vanguardia",
-      "title": "Mourinho explica por qué Rodri no fichó por el Madrid: “Él tenía dudas y me las generó a mí”",
-      "summary": "El técnico del Real Madrid concedió a Josep Pedrerol su primera entrevista tras ser presentado hoy sin prensa: “Los jugadores protegen mi versión agresiva porque su comportamiento es intachable”",
-      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260819/11616345/mourinho-confiesa-chiringuito-xabi-alonso-arbeloa-pagaron-platos-rotos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84d37fa0f9d.r_d.4007-363-0.jpeg",
-      "published_at": "2026-08-19T01:35:25+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "مورینیو دلیل عدم پیوستن رودری به رئال مادرید را توضیح داد",
-      "lead_fa": "ژوزه مورینیو در مصاحبه‌ای جدید به دلایل منتفی شدن انتقال رودری به رئال مادرید اشاره کرد. او گفت که این بازیکن تردیدهایی داشت که این تردیدها را به خود او نیز منتقل کرده بود.",
-      "key_points_fa": [
-        "مورینیو در گفت‌وگو با ژوزپ پدررول درباره مسائل مختلف صحبت کرد.",
-        "او به تردیدهای رودری درباره پیوستن به رئال مادرید اشاره کرد.",
-        "این مربی پرتغالی تاکید کرد که بازیکنان از سبک او محافظت می‌کنند."
-      ],
-      "analysis_fa": "اظهارات مورینیو درباره انتقال بازیکنان برجسته معمولاً بازتاب زیادی در رسانه‌های ورزشی دارد و ابعاد پنهان نقل‌وانتقالات گذشته را روشن می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#رئال_مادرید",
-        "#مورینیو",
-        "#رودری",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1430,31 +1474,47 @@
       "editorial_version": 2
     },
     {
-      "id": "7f86550dc79d",
-      "source": "EL PAÍS Economía",
-      "title": "El Santander, el BBVA y otros cuatro grandes bancos pagarán 75 millones para cerrar el litigio por la venta de bonos mexicanos",
-      "summary": "Fondos de pensiones estadounidenses acusan a las dos entidades españolas y a Bank of America, Citi, Deutsche Bank y HSBC de venderles deuda a precios inflados",
-      "url": "https://cincodias.elpais.com/companias/2026-08-18/el-santander-el-bbva-y-otros-cuatro-grandes-bancos-pagaran-75-millones-para-cerrar-el-litigio-por-la-venta-de-bonos-mexicanos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QBDQPLOQRFIKVD423F5R24CPQM.jpg?auth=17e6d208f8481c654044242545a1a72aac0d03fdab78bb151944fa3793932e0c",
-      "published_at": "2026-08-18T03:15:00+00:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "توافق سانتاندر و BBVA برای پایان به دعوای حقوقی اوراق مکزیکی",
-      "lead_fa": "شش بانک بزرگ جهانی از جمله سانتاندر و BBVA پذیرختند ۷۵ میلیون دلار برای حل و فصل یک دعوای حقوقی در آمریکا بپردازند. صندوق‌های بازنشستگی آمریکایی این بانک‌ها را به فروش اوراق قرضه مکزیکی با قیمت‌های غیرواقعی متهم کرده بودند.",
-      "key_points_fa": [
-        "پرداخت ۷۵ میلیون دلار توسط شش بانک بزرگ از جمله سانتاندر و BBVA.",
-        "اتهام فروش اوراق قرضه دولتی مکزیک با قیمت‌های تورم‌زا به صندوق‌های بازنشستگی آمریکا.",
-        "حضور نام بانک‌های دیگری مانند سیتی، دویچه بانک و HSBC در میان متهمان پرونده."
-      ],
-      "analysis_fa": "این توافق مالی به سال‌ها مناقشه حقوقی در ایالات متحده پایان می‌دهد و به بانک‌های بزرگ اجازه می‌دهد از هزینه‌های سنگین‌تر و تبعات منفی ادامه دادرسی جلوگیری کنند، بدون اینکه اعتراف رسمی به تخلف داشته باشند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "id": "5dc5d5892ca8",
+      "source": "La Vanguardia",
+      "title": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
+      "summary": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616483/pp-compromis-cargan-puente-entrega-trenes-usados-23-anos-madrid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8584fc5dd07.r_d.800-450-0.jpeg",
+      "published_at": "2026-08-19T12:35:32+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
+      "lead_fa": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#بانک",
-        "#اقتصاد"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6c8d5432776f",
+      "source": "La Vanguardia",
+      "title": "El cambio climático hace habitual el calor extremo del Mediterráneo",
+      "summary": "Un episodio como el de 2026 ha pasado de esperarse una vez cada 2.000 años a repetirse cada cinco",
+      "url": "https://www.lavanguardia.com/ciencia/20260819/11616197/cambio-climatico-habitual-calor-extremo-mediterraneo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a61aadc3bdb5.r_d.1069-738-0.jpeg",
+      "published_at": "2026-08-19T12:31:34+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El cambio climático hace habitual el calor extremo del Mediterráneo",
+      "lead_fa": "Un episodio como el de 2026 ha pasado de esperarse una vez cada 2.000 años a repetirse cada cinco",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1469,6 +1529,28 @@
       "priority": 69,
       "title_fa": "El Ministerio de Infancia trabaja en la acogida de 500 niñas migrantes para sacarlas de las calles de Ceuta",
       "lead_fa": "La fórmula pasaría primero por dar techo a las menores en seis nuevos espacios en la ciudad y , en semanas o meses, reubicarlas en recursos de ONGS en la Península sin necesidad de trasladar la tutela a las CC.AA.",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "16f4178496d7",
+      "source": "La Vanguardia",
+      "title": "La emotiva despedida del Mago Pop a Juan Tamariz tras su fallecimiento",
+      "summary": "Antonio Díaz asegura que el ilusionista fue uno de sus referentes en su infancia y desvela las enseñanzas que adquirió gracias a su trabajo",
+      "url": "https://www.lavanguardia.com/gente/20260819/11616426/emotiva-despedida-mago-pop-juan-tamariz-fallecimiento.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8563907a173.r_d.220-524-0.jpeg",
+      "published_at": "2026-08-19T11:26:27+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La emotiva despedida del Mago Pop a Juan Tamariz tras su fallecimiento",
+      "lead_fa": "Antonio Díaz asegura que el ilusionista fue uno de sus referentes en su infancia y desvela las enseñanzas que adquirió gracias a su trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1524,17 +1606,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a369b5ac046a",
-      "source": "La Vanguardia",
-      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-19T10:01:28+02:00",
+      "id": "859f1d03dcdd",
+      "source": "EL PAÍS Economía",
+      "title": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
+      "summary": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
+      "url": "https://cincodias.elpais.com/companias/2026-08-19/nokia-agudiza-el-repliegue-europeo-y-desmantelara-todas-sus-operaciones-en-china-antes-de-fin-de-ano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DCJLHR6FKFMIPEICBUEGN4VCQA.jpg?auth=c05e4773e20ffcf66a959daf87a7568d83f776826760efc6323ce5933364bf02",
+      "published_at": "2026-08-19T10:14:24+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "title_fa": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
+      "lead_fa": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1546,17 +1628,17 @@
       "editorial_version": 2
     },
     {
-      "id": "854753d69f14",
-      "source": "EL PAÍS",
-      "title": "Ceuta ultima los preparativos para enterrar a las víctimas de la llegada masiva a El Tarajal",
-      "summary": "Los 76 fallecidos sin identificar comenzarán a recibir sepultura por tandas esta semana y se situarán en una zona delimitada del cementerio musulmán Sidi Embarek",
-      "url": "https://elpais.com/espana/2026-08-19/ceuta-ultima-los-preparativos-para-enterrar-a-las-victimas-de-la-llegada-masiva-a-el-tarajal.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EYZXCM57SBG6HBNBZNTDSTIL6I.jpg?auth=7e04f5f4d142750a465fca8798ea0d9f76505e3210caa0e5f1dc69bd41969eb5",
-      "published_at": "2026-08-19T09:44:37+00:00",
+      "id": "a369b5ac046a",
+      "source": "La Vanguardia",
+      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
+      "published_at": "2026-08-19T10:01:28+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Ceuta ultima los preparativos para enterrar a las víctimas de la llegada masiva a El Tarajal",
-      "lead_fa": "Los 76 fallecidos sin identificar comenzarán a recibir sepultura por tandas esta semana y se situarán en una zona delimitada del cementerio musulmán Sidi Embarek",
+      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1612,28 +1694,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8ff4310b1a97",
-      "source": "EL PAÍS",
-      "title": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
-      "summary": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
-      "url": "https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-ia-mas-avanzada-tras-la-rebelion-de-sus-agentes-este-verano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N5B2GJUPEZHWDEKDKTJSYMSIFU.jpg?auth=ecba913c9816255bbb4953c335f29699015bd274f62beff87e818743aae92514",
-      "published_at": "2026-08-19T08:38:50+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
-      "lead_fa": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6e4f122aa69a",
       "source": "La Vanguardia",
       "title": "Bruselas avala la devolución de los menores no acompañados a Marruecos",
@@ -1658,28 +1718,6 @@
         "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "778484812ce6",
-      "source": "La Vanguardia",
-      "title": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
-      "summary": "Los creadores con criterio y autoridad cultural conquistan a una audiencia cada vez más exigente y se convierten en el nuevo objeto de deseo de la moda",
-      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260819/11613844/unboxing-vender-auge-influencer-intelectuales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7eee14a27d2.r_d.1149-677-0.jpeg",
-      "published_at": "2026-08-19T06:16:57+02:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
-      "lead_fa": "Los creadores con criterio y autoridad cultural conquistan a una audiencia cada vez más exigente y se convierten en el nuevo objeto de deseo de la moda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1711,17 +1749,17 @@
       "editorial_version": 2
     },
     {
-      "id": "6a0dc81f2f54",
+      "id": "778484812ce6",
       "source": "La Vanguardia",
-      "title": "Un Gamper con Raphinha, Rodri, Adeyemi y Gordon y sin De Jong ni Julián Álvarez",
-      "summary": "El Barça afronta ante el Al -Ahly egipcio el último ensayo antes del debut liguero, con el estreno de sus nuevos fichajes y con Raphinha de capitán",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260819/11616175/gamper-raphinha-rodri-adeyemi-gordon-jong-julian-alvarez-presentacion-equipo-temporada-26-27.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a84a2624768b.r_d.3413-2404-0.jpeg",
-      "published_at": "2026-08-19T06:00:00+02:00",
-      "category": "sociedad",
+      "title": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
+      "summary": "Los creadores con criterio y autoridad cultural conquistan a una audiencia cada vez más exigente y se convierten en el nuevo objeto de deseo de la moda",
+      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260819/11613844/unboxing-vender-auge-influencer-intelectuales.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7eee14a27d2.r_d.1149-677-0.jpeg",
+      "published_at": "2026-08-19T06:16:57+02:00",
+      "category": "cultura",
       "priority": 67,
-      "title_fa": "Un Gamper con Raphinha, Rodri, Adeyemi y Gordon y sin De Jong ni Julián Álvarez",
-      "lead_fa": "El Barça afronta ante el Al -Ahly egipcio el último ensayo antes del debut liguero, con el estreno de sus nuevos fichajes y con Raphinha de capitán",
+      "title_fa": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
+      "lead_fa": "Los creadores con criterio y autoridad cultural conquistan a una audiencia cada vez más exigente y se convierten en el nuevo objeto de deseo de la moda",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2151,28 +2189,6 @@
       "editorial_version": 2
     },
     {
-      "id": "51692dcf42f1",
-      "source": "EL PAÍS",
-      "title": "La Newyorkina, la granola asturiana que nació de un mal desayuno en Nueva York",
-      "summary": "La marca creada por Pelayo Pérez en el obrador de su bar de Oviedo hace 10 años ha aportado una dimensión nueva a la forma de entender la primera comida del día. Una que combina lo saludable con lo delicioso, y que ya vende en más de 20 países y factura 3,5 millones de euros",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-19/la-newyorkina-la-granola-asturiana-que-nacio-de-un-mal-desayuno-en-nueva-york.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QBI5NJSETVECZP2DFIKWOIXBE4.jpg?auth=c3fbdc263b4322ac14dabea03a33a235abc15ef95ddb28dd6fdfa2e44b7e820b",
-      "published_at": "2026-08-19T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La Newyorkina, la granola asturiana que nació de un mal desayuno en Nueva York",
-      "lead_fa": "La marca creada por Pelayo Pérez en el obrador de su bar de Oviedo hace 10 años ha aportado una dimensión nueva a la forma de entender la primera comida del día. Una que combina lo saludable con lo delicioso, y que ya vende en más de 20 países y factura 3,5 millones de euros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "df6768ca32a7",
       "source": "EL PAÍS Economía",
       "title": "Portugal se adelanta a España y abre una consulta pública para regular el coste del ‘escudo antiapagón’",
@@ -2274,28 +2290,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4a270fd71eba",
-      "source": "La Vanguardia",
-      "title": "Postureo, 'go home'",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/opinion/20260819/11615868/postureo-go-home.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842fde5b97d.jpeg",
-      "published_at": "2026-08-19T00:30:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Postureo, 'go home'",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "400f444ad957",
       "source": "EL PAÍS",
       "title": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
@@ -2318,17 +2312,17 @@
       "editorial_version": 2
     },
     {
-      "id": "c9bb56ca011c",
+      "id": "4a270fd71eba",
       "source": "La Vanguardia",
-      "title": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
-      "summary": "El ilusionista, fallecido a los 83 años, más que un virtuoso del truco era un director de cine de la percepción",
-      "url": "https://www.lavanguardia.com/vida/20260818/11616195/mago-percepcion-juan-tamariz-muere-fisico-cine-carmen-maura-un-dos-tres.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84ad96a901f.jpeg",
-      "published_at": "2026-08-18T21:11:21+02:00",
-      "category": "cultura",
+      "title": "Postureo, 'go home'",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/opinion/20260819/11615868/postureo-go-home.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842fde5b97d.jpeg",
+      "published_at": "2026-08-19T00:30:00+02:00",
+      "category": "sociedad",
       "priority": 65,
-      "title_fa": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
-      "lead_fa": "El ilusionista, fallecido a los 83 años, más que un virtuoso del truco era un director de cine de la percepción",
+      "title_fa": "Postureo, 'go home'",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2362,28 +2356,6 @@
       "editorial_version": 2
     },
     {
-      "id": "300c76709867",
-      "source": "EL PAÍS España",
-      "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
-      "summary": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
-      "url": "https://elpais.com/espana/2026-08-17/tres-nuevas-ministras-piden-comparecer-en-el-congreso-por-ceuta-y-se-suman-a-los-cuatro-ya-previstos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PE4BZ4ZVQ4TMNHA6IIDI3KY3KQ.jpg?auth=3b0a43cc9d8084c2dc44e2bfbab354e57b526f6fca99e8b028d1ba11e8b045bb",
-      "published_at": "2026-08-17T19:18:18+00:00",
-      "category": "politica",
-      "priority": 62,
-      "title_fa": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
-      "lead_fa": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8bdb30032ece",
       "source": "EL PAÍS Economía",
       "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
@@ -2395,6 +2367,28 @@
       "priority": 61,
       "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
       "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "300c76709867",
+      "source": "EL PAÍS España",
+      "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
+      "summary": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
+      "url": "https://elpais.com/espana/2026-08-17/tres-nuevas-ministras-piden-comparecer-en-el-congreso-por-ceuta-y-se-suman-a-los-cuatro-ya-previstos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PE4BZ4ZVQ4TMNHA6IIDI3KY3KQ.jpg?auth=3b0a43cc9d8084c2dc44e2bfbab354e57b526f6fca99e8b028d1ba11e8b045bb",
+      "published_at": "2026-08-17T19:18:18+00:00",
+      "category": "politica",
+      "priority": 61,
+      "title_fa": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
+      "lead_fa": "Mónica García, Elma Sáiz y Sira Rego explicarán las actuaciones de sus Ministerios tras la entrada masiva de migrantes a la ciudad autónoma",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2501,7 +2495,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 153
+      "count": 154
     },
     {
       "source": "EL PAÍS España",
@@ -2516,7 +2510,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 126
+      "count": 127
     }
   ]
 }
