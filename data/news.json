@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:44:12.723049+00:00",
+  "generated_at": "2026-08-19T17:37:40.026566+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d217eaa19a7b",
@@ -15,8 +15,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo anuncia que acudirá al Supremo por la negativa de los ministros de comparecer en el Senado",
       "summary": "Vivas reclama un marco normativo para que “nadie nunca pueda utilizar la presión migratoria para desestabilizar Ceuta” | La ciudad acepta el plan del Gobierno de trasladar 500 niñas migrantes a la Península como “medida extraordinaria”",
       "url": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HMZ3NZCMINDAXKAR6DW3TSW43U.jpeg?auth=edb4b75d848798fe78ec7e9deebc62e7ff5fe681bffed3f3467f805acefef82d",
-      "published_at": "2026-08-19T16:42:34+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/HNIVYXYA7NBVFPWFYGAWTN3244.jpeg?auth=fcef331bbfe23c12a0f0917dc481cd35eb2bde69b10ca8df61faee8dd551b545",
+      "published_at": "2026-08-19T17:10:32+00:00",
       "category": "migracion",
       "priority": 96,
       "title_fa": "دولت اسپانیا برای انتقال ۵۰۰ دختر مهاجر از سئوئا برنامه‌ریزی می‌کند",
@@ -43,7 +43,7 @@
       "summary": "La ciudad autónoma acepta el plan del Ejecutivo como “medida extraordinaria” y reclama el retorno de todos los extranjeros que accedieron de forma irregular",
       "url": "https://elpais.com/espana/2026-08-19/el-gobierno-trabaja-en-el-traslado-urgente-de-500-ninas-migrantes-de-ceuta-a-la-peninsula.html",
       "image": "https://imagenes.elpais.com/resizer/v2/LZSKQAVXYBB4DCHPPZGKWWLZUU.jpg?auth=2a2acb219c9ab9bc55d555cbf08a0ad88685d140bde939f2d738bb445aabbfaa",
-      "published_at": "2026-08-19T15:27:35+00:00",
+      "published_at": "2026-08-19T16:53:31+00:00",
       "category": "migracion",
       "priority": 82,
       "title_fa": "انتقال فوری ۵۰۰ دختر مهاجر از سبته به شبه‌جزیره اسپانیا",
@@ -489,6 +489,33 @@
       "editorial_version": 2
     },
     {
+      "id": "cc9423cab222",
+      "source": "EL PAÍS",
+      "title": "El salón de baile y el búnker militar de Trump, una construcción con cemento “imposible’ de quitar que avanza 20 horas cada día",
+      "summary": "El Gobierno pide a la Corte Suprema que le permita continuar con las obras en la Casa Blanca. Se espera que ese tribunal falle antes del fin de la semana",
+      "url": "https://elpais.com/us/2026-08-19/el-salon-de-baile-y-el-bunker-militar-de-trump-una-construccion-con-cemento-imposible-de-quitar-que-avanza-20-horas-cada-dia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D646SBG5XRKFFNSTOJL67WJHB4.jpg?auth=6196e62410a5eff765098c93275d5612426aa1cb1fed18b930709bb3ab41cb61",
+      "published_at": "2026-08-19T17:18:45+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "درخواست دولت آمریکا از دیوان عالی برای ادامه ساخت‌وساز در کاخ سفید",
+      "lead_fa": "د دولت از دیوان عالی این کشور خواست تا اجازه ادامه پروژه‌های ساختمانی در کاخ سفید را صادر کند. انتظار می‌رود این دادگاه پیش از پایان هفته جاری حکم خود را اعلام کند.",
+      "key_points_fa": [
+        "درخواست دولت برای ادامه ساخت‌وسازها در کاخ سفید",
+        "انتظار صدور حکم دیوان عالی پیش از پایان هفته"
+      ],
+      "analysis_fa": "این پرونده حقوقی نشان‌دهنده چالش‌های میان نهادهای اجرایی و قضایی ایالات متحده بر سر پروژه‌های عمرانی در عمارت ریاست‌جمهوری است. تصمیم دیوان عالی می‌تواند تعیین‌کننده حدود اختیارات دولت در این زمینه باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#کاخ_سفید",
+        "#دیوان_عالی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "ca9795c8c217",
       "source": "La Vanguardia",
       "title": "Buscan con un helicóptero y drones a un león suelto en la sierra de Toledo",
@@ -512,6 +539,35 @@
         "#اسپانیا",
         "#تولدو",
         "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2936b1475451",
+      "source": "EL PAÍS",
+      "title": "Moderna y Merck anuncian el éxito de la primera vacuna personalizada contra el melanoma y sus acciones se disparan en Bolsa",
+      "summary": "El avance se ha difundido en una nota de prensa en la que no se ofrecen datos concretos de mejora de supervivencia. De confirmarse, se trataría de un hito histórico",
+      "url": "https://elpais.com/ciencia/2026-08-19/el-anuncio-del-exito-de-la-primera-vacuna-contra-el-melanoma-dispara-las-acciones-de-moderna-y-merck.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BCHE4A4QT5B3FPE6PTMMD2CHUY.jpg?auth=f2ce7ed093d333b57cca76b9100f232b72b7b7e1a7126f74e113521c701cc856",
+      "published_at": "2026-08-19T17:03:41+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "موفقیت واکسن شخصی‌سازی‌شده ملانوم مدرنا و مرک و جهش سهام آن‌ها",
+      "lead_fa": "شرکت‌های مدرنا و مرک از موفقیت نخستین واکسن شخصی‌سازی‌شده برای درمان ملانوم خبر دادند. این پیشرفت علمی باعث جهش ارزش سهام این دو شرکت در بورس شد.",
+      "key_points_fa": [
+        "موفقیت واکسن شخصی‌سازی‌شده ملانوم در بیانیه مطبوعاتی مشترک اعلام شد.",
+        "در اطلاعیه اولیه، داده‌های قطعی مربوط به بهبود میزان بقای بیماران ارائه نشده است.",
+        "سهام شرکت‌های مدرنا و مرک در بازار بورس با افزایش چشمگیری روبه‌رو شد."
+      ],
+      "analysis_fa": "اعلام این دستاورد پزشکی بازتاب مثبتی در بازارهای مالی داشته است، اما تایید نهایی اثربخشی آن نیازمند انتشار داده‌های دقیق‌تر بالینی و تایید مراجع علمی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مدرنا",
+        "#ملانوم",
+        "#پزشکی",
+        "#بورس"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -681,35 +737,6 @@
         "#مورینیو",
         "#رئال_مادرید",
         "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5f02eceaf7ca",
-      "source": "EL PAÍS",
-      "title": "Juicio a Meta: la compañía niega haber buscado “enganchar” a los niños a sus redes mientras los fiscales exigen “que deje de mentir”",
-      "summary": "En la primera jornada del proceso, los abogados de la empresa rechazaron las acusaciones de 29 estados de que buscó deliberadamente crear adicción a menores en Facebook e Instagram",
-      "url": "https://elpais.com/tecnologia/2026-08-19/juicio-a-meta-la-compania-niega-haber-buscado-enganchar-a-los-ninos-a-sus-redes-mientras-los-fiscales-exigen-que-deje-de-mentir.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205800_042245_video_1800.mp4",
-      "published_at": "2026-08-19T07:40:00+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "دفاع متا در دادگاه: اتهام ایجاد اعتیاد در کودکان را رد می‌کنیم",
-      "lead_fa": "متا در نخستین روز محاکمه خود، اتهامات ۲۹ ایالت آمریکا مبنی بر تلاش عمدی برای ایجاد اعتیاد در کودکان در فیسبوک و اینستاگرام را رد کرد. این در حالی است که دادستان‌ها خواستار توقف دروغ‌گویی این شرکت شدند.",
-      "key_points_fa": [
-        "آغاز محاکمه متا به اتهام تلاش برای جذب معتادگونه کودکان به شبکه‌های اجتماعی",
-        "رد اتهامات توسط وکلای شرکت متا در جلسه دادگاه",
-        "فشار ۲۹ ایالت آمریکا بر متا برای پذیرش مسئولیت آسیب‌های روانی کاربران نوجوان"
-      ],
-      "analysis_fa": "این دادگاه یکی از چالش‌های حقوقی بزرگ برای شرکت متا به شمار می‌رود که می‌تواند آینده نظارت بر پلتفرم‌های اجتماعی و حفاظت از کاربران نوجوان را تحت تاثیر قرار دهد. روند حقوقی تازه آغاز شده و نتیجه قطعی آن هنوز مشخص نیست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#متا",
-        "#کودکان",
-        "#شبکه_اجتماعی",
-        "#دادگاه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1262,50 +1289,6 @@
       "editorial_version": 2
     },
     {
-      "id": "976448b2a562",
-      "source": "EL PAÍS",
-      "title": "Rafa Jódar - Flavio Cobolli en directo | El madrileño se lleva el primer set 6-4",
-      "summary": "Jódar quiere seguir con el buen momento por el que atraviesa con una victoria ante el finalista de Roland Garros",
-      "url": "https://elpais.com/deportes/tenis/2026-08-19/rafa-jodar-flavio-cobolli-en-directo-el-partido-del-master-cincinnati-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R4FKZNCZ3FIQPOE7DKQAY7TGEE.jpg?auth=ad621fdb26eb0b67107e08439122740ee74845cb07da7dc385f2b1e9695ff5b3",
-      "published_at": "2026-08-19T16:41:44+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Rafa Jódar - Flavio Cobolli en directo | El madrileño se lleva el primer set 6-4",
-      "lead_fa": "Jódar quiere seguir con el buen momento por el que atraviesa con una victoria ante el finalista de Roland Garros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1473095a4440",
-      "source": "La Vanguardia",
-      "title": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
-      "summary": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
-      "url": "https://www.lavanguardia.com/vida/salud/20260819/11616646/moderna-merck-anuncian-resultados-positivos-ensayo-vacuna-melanoma.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/10/24/5fa448a8e52f4.r_d.329-250-0.jpeg",
-      "published_at": "2026-08-19T16:26:01+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
-      "lead_fa": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c5cecf121443",
       "source": "EL PAÍS",
       "title": "El TPI resiste al acoso de EE UU: “Recibimos golpes destinados al derecho internacional”",
@@ -1372,28 +1355,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2936b1475451",
-      "source": "EL PAÍS",
-      "title": "El anuncio del éxito de la primera vacuna contra el melanoma dispara las acciones de Moderna y Merck",
-      "summary": "El avance se ha difundido en una nota de prensa en la que no se ofrecen datos concretos de mejora de supervivencia. De confirmarse, se trataría de un hito histórico",
-      "url": "https://elpais.com/ciencia/2026-08-19/el-anuncio-del-exito-de-la-primera-vacuna-contra-el-melanoma-dispara-las-acciones-de-moderna-y-merck.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BCHE4A4QT5B3FPE6PTMMD2CHUY.jpg?auth=f2ce7ed093d333b57cca76b9100f232b72b7b7e1a7126f74e113521c701cc856",
-      "published_at": "2026-08-19T13:57:46+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El anuncio del éxito de la primera vacuna contra el melanoma dispara las acciones de Moderna y Merck",
-      "lead_fa": "El avance se ha difundido en una nota de prensa en la que no se ofrecen datos concretos de mejora de supervivencia. De confirmarse, se trataría de un hito histórico",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "80cd5733dd72",
       "source": "La Vanguardia",
       "title": "El gambito marroquí",
@@ -1446,6 +1407,28 @@
         "#فرهنگ_اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1473095a4440",
+      "source": "La Vanguardia",
+      "title": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
+      "summary": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
+      "url": "https://www.lavanguardia.com/vida/salud/20260819/11616646/moderna-merck-anuncian-resultados-positivos-ensayo-vacuna-melanoma.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/10/24/5fa448a8e52f4.r_d.329-250-0.jpeg",
+      "published_at": "2026-08-19T16:26:01+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
+      "lead_fa": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1504,50 +1487,6 @@
       "priority": 69,
       "title_fa": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
       "lead_fa": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f6c9a0e7f791",
-      "source": "La Vanguardia",
-      "title": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
-      "summary": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
-      "url": "https://www.lavanguardia.com/natural/20260819/11616558/seccion-iconico-farallon-acantilados-moher-derrumba-atlantico.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/07/65e98b3fade1e.jpeg",
-      "published_at": "2026-08-19T13:35:26+02:00",
-      "category": "turismo",
-      "priority": 69,
-      "title_fa": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
-      "lead_fa": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d4a4311b4415",
-      "source": "La Vanguardia",
-      "title": "El príncipe Lorenzo reconoce oficialmente a su hijo Clément, y este se convierte en príncipe de Bélgica",
-      "summary": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
-      "url": "https://www.lavanguardia.com/gente/20260819/11616541/principe-lorenzo-reconoce-oficialmente-hijo-clement-convierte-principe-belgica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/30/69f39027e5f3f.jpeg",
-      "published_at": "2026-08-19T13:18:48+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El príncipe Lorenzo reconoce oficialmente a su hijo Clément, y este se convierte en príncipe de Bélgica",
-      "lead_fa": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1625,28 +1564,6 @@
       "editorial_version": 2
     },
     {
-      "id": "60203fad5c34",
-      "source": "La Vanguardia",
-      "title": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
-      "summary": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
-      "url": "https://www.lavanguardia.com/politica/20260819/11616482/ayuso-mete-jardin-recomendar-restaurante-conocido-simbologia-franquista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a8588bc9460f.jpeg",
-      "published_at": "2026-08-19T12:55:07+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
-      "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2462cfb95279",
       "source": "EL PAÍS",
       "title": "Gastroenteritis, tuberculosis, sarna: las enfermeras denuncian un “colapso sanitario sin precedentes” en Ceuta",
@@ -1658,28 +1575,6 @@
       "priority": 69,
       "title_fa": "Gastroenteritis, tuberculosis, sarna: las enfermeras denuncian un “colapso sanitario sin precedentes” en Ceuta",
       "lead_fa": "Defensa asegura que el brote de infecciones cutáneas entre los militares no está relacionado con la atención a los inmigrantes, ya que dos soldados ya llegaron contagiados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "eae6c552557b",
-      "source": "EL PAÍS",
-      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
-      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-19T10:56:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1737,6 +1632,72 @@
         "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f6c9a0e7f791",
+      "source": "La Vanguardia",
+      "title": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
+      "summary": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
+      "url": "https://www.lavanguardia.com/natural/20260819/11616558/seccion-iconico-farallon-acantilados-moher-derrumba-atlantico.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/07/65e98b3fade1e.jpeg",
+      "published_at": "2026-08-19T13:35:26+02:00",
+      "category": "turismo",
+      "priority": 68,
+      "title_fa": "Una sección del icónico farallón de los acantilados de Moher se derrumba en el Atlántico",
+      "lead_fa": "El momento, captado con incredulidad por una turista estadounidense, ha recordado la fuerza del mar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d4a4311b4415",
+      "source": "La Vanguardia",
+      "title": "El príncipe Lorenzo reconoce oficialmente a su hijo Clément, y este se convierte en príncipe de Bélgica",
+      "summary": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
+      "url": "https://www.lavanguardia.com/gente/20260819/11616541/principe-lorenzo-reconoce-oficialmente-hijo-clement-convierte-principe-belgica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/30/69f39027e5f3f.jpeg",
+      "published_at": "2026-08-19T13:18:48+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El príncipe Lorenzo reconoce oficialmente a su hijo Clément, y este se convierte en príncipe de Bélgica",
+      "lead_fa": "Clément Vandenkerckhove no cambiará de apellido, pero, según la información de 'Le Soir', ya es un príncipe belga",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "60203fad5c34",
+      "source": "La Vanguardia",
+      "title": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
+      "summary": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
+      "url": "https://www.lavanguardia.com/politica/20260819/11616482/ayuso-mete-jardin-recomendar-restaurante-conocido-simbologia-franquista.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a8588bc9460f.jpeg",
+      "published_at": "2026-08-19T12:55:07+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
+      "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1828,17 +1789,17 @@
       "editorial_version": 2
     },
     {
-      "id": "859f1d03dcdd",
-      "source": "EL PAÍS Economía",
-      "title": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
-      "summary": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
-      "url": "https://cincodias.elpais.com/companias/2026-08-19/nokia-agudiza-el-repliegue-europeo-y-desmantelara-todas-sus-operaciones-en-china-antes-de-fin-de-ano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DCJLHR6FKFMIPEICBUEGN4VCQA.jpg?auth=c05e4773e20ffcf66a959daf87a7568d83f776826760efc6323ce5933364bf02",
-      "published_at": "2026-08-19T10:14:24+00:00",
+      "id": "eae6c552557b",
+      "source": "EL PAÍS",
+      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
+      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
+      "published_at": "2026-08-19T10:56:01+00:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
-      "lead_fa": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
+      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1850,17 +1811,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a369b5ac046a",
-      "source": "La Vanguardia",
-      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-19T10:01:28+02:00",
+      "id": "859f1d03dcdd",
+      "source": "EL PAÍS Economía",
+      "title": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
+      "summary": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
+      "url": "https://cincodias.elpais.com/companias/2026-08-19/nokia-agudiza-el-repliegue-europeo-y-desmantelara-todas-sus-operaciones-en-china-antes-de-fin-de-ano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DCJLHR6FKFMIPEICBUEGN4VCQA.jpg?auth=c05e4773e20ffcf66a959daf87a7568d83f776826760efc6323ce5933364bf02",
+      "published_at": "2026-08-19T10:14:24+00:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "title_fa": "Nokia agudiza el repliegue europeo y desmantelará todas sus operaciones en China antes de fin de año",
+      "lead_fa": "La compañía finlandesa se suma a los recortes de Ericsson en el país asiático como respuesta al desplome de sus ventas tras el veto de Occidente a Huawei y ZTE",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1919,6 +1880,28 @@
         "#پست_اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a369b5ac046a",
+      "source": "La Vanguardia",
+      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
+      "published_at": "2026-08-19T10:01:28+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2405,7 +2388,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/JPMGNC4CWJEDTE5NQMGAO5EOTY.jpg?auth=9c7dcf7fb09af2da17fbf217b40f3cfff190f7d738d5416424604f35c8e393a1",
       "published_at": "2026-08-18T23:01:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
       "lead_fa": "Un estudio confirma que las temperaturas marinas récord en Europa están causadas por el cambio climático y multiplican impactos, como el riesgo de episodios como la dana de Valencia",
       "key_points_fa": [],
@@ -2441,28 +2424,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "300c76709867",
       "source": "EL PAÍS España",
       "title": "Tres nuevas ministras piden comparecer en el Congreso por Ceuta y se suman a los cuatro ya previstos",
@@ -2482,6 +2443,56 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 59,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "976448b2a562",
+      "source": "EL PAÍS",
+      "title": "Rafa Jódar - Flavio Cobolli en directo | Cobolli se lleva el segundo set 7-6 y empata el partido",
+      "summary": "Jódar quiere seguir con el buen momento por el que atraviesa con una victoria ante el finalista de Roland Garros",
+      "url": "https://elpais.com/deportes/tenis/2026-08-19/rafa-jodar-flavio-cobolli-en-directo-el-partido-del-master-cincinnati-en-vivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R4FKZNCZ3FIQPOE7DKQAY7TGEE.jpg?auth=ad621fdb26eb0b67107e08439122740ee74845cb07da7dc385f2b1e9695ff5b3",
+      "published_at": "2026-08-19T17:33:05+00:00",
+      "category": "deportes",
+      "priority": 50,
+      "title_fa": "تساوی در مسابقه تنیس بین رافا خودار و فلاویو کوبولی",
+      "lead_fa": "فلاویو کوبولی موفق شد در ست دوم با نتیجه ۷ بر ۶ پیروز شود و بازی را به تساوی بکشاند. رافا خودار تلاش می‌کند روند خوب خود را در این مسابقه ادامه دهد.",
+      "key_points_fa": [
+        "فلاویو کوبولی برنده ست دوم با نتیجه ۷ بر ۶ شد.",
+        "بازی بین رافا خودار و فلاویو کوبولی در جریان است.",
+        "خودار به دنبال تداوم نتایج خوب خود در مقابل فینالیست رولان گاروس است."
+      ],
+      "analysis_fa": "این رقابت ورزشی بخشی از تورنمنت جاری است که در آن رافا خودار با یکی از حریفان مطرح روبرو شده است. عملکرد بازیکنان در ست‌های پایانی تعیین‌کننده نتیجه نهایی مسابقه خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#تنیس",
+        "#اسپانیا",
+        "#ورزش"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     }
   ],
