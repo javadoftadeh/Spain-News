@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:50:07.651237+00:00",
+  "generated_at": "2026-08-19T03:08:53.585168+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "60469daaa078",
@@ -1706,6 +1706,34 @@
       "editorial_version": 2
     },
     {
+      "id": "120a2f9aaf80",
+      "source": "EL PAÍS Economía",
+      "title": "La última milla del ‘greenwashing’: cuando callar también confunde al consumidor",
+      "summary": "En septiembre la Unión Europea empezará a exigir pruebas a cualquier empresa que presuma de sostenible",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-18/la-ultima-milla-del-greenwashing-cuando-callar-tambien-confunde-al-consumidor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WRNYOMZIE5IYZP2FPG4OP7GKQM.jpg?auth=d9b8f9354627883d00023dca162bd5c660ce60f9afc4eb8d619ad0b010add0ef",
+      "published_at": "2026-08-18T03:40:00+00:00",
+      "category": "economia",
+      "priority": 68,
+      "title_fa": "پایان سبزنمایی در اتحادیه اروپا: اثبات ادعای پایداری اجباری می‌شود",
+      "lead_fa": "اتحادیه اروپا از ماه سپتامبر قوانین سخت‌گیرانه‌ای را برای شرکت‌های مدعی پایداری اجرا می‌کند. این مقررات جدید به منظور جلوگیری از فریب مصرف‌کنندگان و ادعاهای اثبات‌نشده طراحی شده است.",
+      "key_points_fa": [
+        "اجرای قوانین جدید اتحادیه اروپا از ماه سپتامبر آغاز می‌شود.",
+        "شرکت‌ها باید برای ادعاهای زیست‌محیطی خود مستندات و مدارک ارائه دهند.",
+        "هدف از این اقدام، مقابله با سبزنمایی و حمایت از حقوق مصرف‌کنندگان است."
+      ],
+      "analysis_fa": "افزایش نظارت بر ادعاهای زیست‌محیطی شرکت‌ها نشان‌دهنده تلاش نهادهای اروپایی برای شفافیت بازار و جلوگیری از سوءاستفاده تجاری از دغدغه‌های اکولوژیک مصرف‌کنندگان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اتحادیه_اروپا",
+        "#اقتصاد_سبز",
+        "#محیط_زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "62f26811c515",
       "source": "La Vanguardia",
       "title": "El ajuste de cuentas entre clanes de la droga que estaría detrás del brutal triple crimen de Isla Cristina",
@@ -1884,16 +1912,23 @@
       "published_at": "2026-08-18T11:19:44+02:00",
       "category": "cultura",
       "priority": 65,
-      "title_fa": "El Guardiola más emocional se abre en un documental: broncas en el vestuario, su divorcio...",
-      "lead_fa": "Una serie de Amazon revela escenas del exentrenador del Manchester City donde muestra su decepción y frustración en varios momentos de su última temporada en el club",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مستند جدید پپ گواردیولا و روایت لحظات احساسی و دشوار دوران مربیگری",
+      "lead_fa": "یک سریال مستند جدید در آمازون ابعاد احساسی و ناامیدی‌های پپ گواردیولا را به تصویر کشیده است. این اثر به حواشی رختکن و چالش‌های آخرین فصل حضور او در منچسترسیتی می‌پردازد.",
+      "key_points_fa": [
+        "نمایش لحظات ناامیدی و سرخوردگی گواردیولا در مستند جدید آمازون",
+        "پرداختن به مسائل شخصی و حواشی رختکن تیم در طول فصل",
+        "روایتی متفاوت و احساسی از دوران مربیگری این چهره سرشناس فوتبال"
+      ],
+      "analysis_fa": "انتشار مستندهای ورزشی از چهره‌های شاخص فوتبال به ابزاری برای روایت پشت صحنه و جذب مخاطبان گسترده تبدیل شده است. این آثار معمولاً جنبه‌های کمتر دیده‌شده زندگی حرفه‌ای و شخصی مربیان را بازتاب می‌دهند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#گواردیولا",
+        "#فوتبال",
+        "#اسپانیا",
+        "#مستند"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1906,82 +1941,22 @@
       "published_at": "2026-08-18T10:22:57+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "El mensaje de Wladimir Klitschko, expareja de Hayden Panettiere, tras la muerte de la actriz: “Me aseguraré de que nuestra hija recuerde la persona que fue”",
-      "lead_fa": "La intérprete y el exboxeador se conocieron en 2008, tuvieron una hija en 2014 y rompieron su compromiso en 2018. Desde entonces, la pequeña vive con su padre en Ucrania",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "واکنش ولادیمیر کلیچکو به درگذشت هایدن پنتییر",
+      "lead_fa": "ولادیمیر کلیچکو پس از درگذشت هایدن پنتییر، نامزد سابق خود، پیامی منتشر کرد. او تأکید کرد که مطمئن خواهد شد دخترشان مادرش را به یاد خواهد آورد.",
+      "key_points_fa": [
+        "کلیچکو و پنتییر در سال ۲۰۰۸ با یکدیگر آشنا شدند.",
+        "آن‌ها در سال ۲۰۱۴ صاحب دختری شدند و در سال ۲۰۱۸ از یکدیگر جدا شدند.",
+        "فرزند مشترک آن‌ها از زمان جدایی با پدرش در اوکراین زندگی می‌کند."
+      ],
+      "analysis_fa": "این رویداد بازتاب گسترده‌ای در رسانه‌ها داشته و تمرکز بر ابعاد شخصی زندگی این چهره‌های شناخته‌شده و وضعیت فرزند آن‌ها پس از این واقعه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اخبار_فرهنگی",
+        "#سینما"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f0eb050e39e4",
-      "source": "La Vanguardia",
-      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
-      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
-      "published_at": "2026-08-18T09:49:53+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
-      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5781520fd138",
-      "source": "EL PAÍS",
-      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
-      "published_at": "2026-08-18T07:57:44+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2007,6 +1982,28 @@
       "editorial_version": 2
     },
     {
+      "id": "f0eb050e39e4",
+      "source": "La Vanguardia",
+      "title": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "summary": "La cifra ha crecido en 270 en los últimos cinco días",
+      "url": "https://www.lavanguardia.com/politica/20260818/11615761/interior-eleva-2-168-menores-migrantes-registrados-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a842d2d81c44.jpeg",
+      "published_at": "2026-08-18T09:49:53+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Interior eleva a 2.168 los menores migrantes registrados en Ceuta",
+      "lead_fa": "La cifra ha crecido en 270 en los últimos cinco días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "309f45ffa5e7",
       "source": "La Vanguardia",
       "title": "Rodri, más que un fichaje",
@@ -2018,6 +2015,50 @@
       "priority": 64,
       "title_fa": "Rodri, más que un fichaje",
       "lead_fa": "El Barça contrata al mejor mediocentro del mundo, un Busquets actualizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5781520fd138",
+      "source": "EL PAÍS",
+      "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "summary": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
+      "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
+      "published_at": "2026-08-18T07:57:44+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+      "lead_fa": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2139,28 +2180,6 @@
       "editorial_version": 2
     },
     {
-      "id": "63e7097136b6",
-      "source": "La Vanguardia",
-      "title": "Ideología en las aulas",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
-      "published_at": "2026-08-18T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Ideología en las aulas",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e7749800b31f",
       "source": "EL PAÍS Economía",
       "title": "El rival de Yolanda Díaz en la OIT busca el favor de Estados Unidos en la batalla por la dirección",
@@ -2238,28 +2257,6 @@
       "priority": 63,
       "title_fa": "Las claves: lo que revela una hamburguesa americana en mitad de la China rural",
       "lead_fa": "El gigante asiático ha aumentado el consumo de uno de los alimentos más icónicos de la gastronomía estadounidense",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "37e5c946cf96",
-      "source": "EL PAÍS Economía",
-      "title": "Europa y la tentación de vigilar para proteger",
-      "summary": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-18/europa-y-la-tentacion-de-vigilar-para-proteger.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DJ35MVLTIZGSTJ6JJEWEUDPEZI.jpg?auth=0981cd2a46e82ee90129969d933b3daf69095abc9bd46df0854f365d2b197f05",
-      "published_at": "2026-08-18T03:40:00+00:00",
-      "category": "ciencia",
-      "priority": 63,
-      "title_fa": "Europa y la tentación de vigilar para proteger",
-      "lead_fa": "Chat Control muestra cómo Europa normaliza mecanismos de supervisión mientras reduce los espacios de privacidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2480,6 +2477,28 @@
       "priority": 63,
       "title_fa": "La CNMC pone bajo la lupa el dominio total de Cellnex sobre la TDT en España",
       "lead_fa": "El regulador inicia el proceso para sustituir la supervisión directa del negocio de la difusión de televisión por compromisos vinculantes del operador",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "63e7097136b6",
+      "source": "La Vanguardia",
+      "title": "Ideología en las aulas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260818/11614802/ideologia-aulas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/6970966ca54e5.jpeg",
+      "published_at": "2026-08-18T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Ideología en las aulas",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
