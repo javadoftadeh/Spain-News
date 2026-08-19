@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T17:37:40.026566+00:00",
+  "generated_at": "2026-08-19T17:57:29.509079+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d217eaa19a7b",
+    "543e99f6795d",
     "e5b2c5d802b2",
     "42d7a4f4f19a",
-    "30e177f3ddb1",
-    "d99f976bf663"
+    "30e177f3ddb1"
   ],
   "items": [
     {
@@ -16,7 +16,7 @@
       "summary": "Vivas reclama un marco normativo para que “nadie nunca pueda utilizar la presión migratoria para desestabilizar Ceuta” | La ciudad acepta el plan del Gobierno de trasladar 500 niñas migrantes a la Península como “medida extraordinaria”",
       "url": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/HNIVYXYA7NBVFPWFYGAWTN3244.jpeg?auth=fcef331bbfe23c12a0f0917dc481cd35eb2bde69b10ca8df61faee8dd551b545",
-      "published_at": "2026-08-19T17:10:32+00:00",
+      "published_at": "2026-08-19T17:52:20+00:00",
       "category": "migracion",
       "priority": 96,
       "title_fa": "دولت اسپانیا برای انتقال ۵۰۰ دختر مهاجر از سئوئا برنامه‌ریزی می‌کند",
@@ -32,6 +32,33 @@
         "#سئوئا",
         "#مهاجرت",
         "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "543e99f6795d",
+      "source": "La Vanguardia",
+      "title": "El incendio de Pinofranqueado (Cáceres) vuelve a coger fuerza y pone en alerta Salamanca",
+      "summary": "Las llamas ya han afectado a unas 1.600 hectáreas",
+      "url": "https://www.lavanguardia.com/local/extremadura/20260819/11616712/incendio-pinofranqueado-caceres-vuelve-coger-fuerza-pone-alerta-salamanca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85dc4b5e2e8.r_d.960-690-0.jpeg",
+      "published_at": "2026-08-19T18:45:24+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "اوام‌گرفتن دوباره آتش‌سوزی جنگلی در پینوفرانکهادو و هشدار در سالامانکا",
+      "lead_fa": "آتش‌سوزی جنگلی در منطقه پینوفرانکهادو در استان کاسرس دوباره شدت گرفت. این حریق تاکنون حدود ۱۶۰۰ هکتار از اراضی را طعمه حریق کرده است.",
+      "key_points_fa": [
+        "گسترش شعله‌های آتش باعث به حالت آماده‌باش درآمدن منطقه سالامانکا شده است.",
+        "تاکنون حدود ۱۶۰۰ هکتار از اراضی منطقه تحت تأثیر این آتش‌سوزی قرار گرفته‌اند."
+      ],
+      "analysis_fa": "رشد دوباره آتش‌سوزی در این منطقه نشان‌دهنده چالش‌های مداوم در مهار حریق‌های جنگلی است که تحت تأثیر شرایط جوی می‌توانند به سرعت گسترش یابند و مناطق همجوار را تهدید کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#محیط‌زیست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -239,7 +266,7 @@
     {
       "id": "ee84551a9ccf",
       "source": "La Vanguardia",
-      "title": "Un nuevo incendio en Madrid obliga a confinar a los 5.000 residentes en Aldea del Fresno y Villamantilla",
+      "title": "Un nuevo incendio en Madrid obliga a confinar a los residentes en Aldea del Fresno y Villamantilla",
       "summary": "La Unidad Militar de Emergencias (UME) se suma a una veintena de dotaciones terrestres y cinco medios aéreos de la Comunidad",
       "url": "https://www.lavanguardia.com/local/madrid/20260819/11616644/nuevo-incendio-madrid-obliga-confinar-5-000-residentes-aldea-fresno-villamantilla.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d24c15c46.jpeg",
@@ -484,6 +511,34 @@
         "#اسپانیا",
         "#حوادث",
         "#ساراگوسا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6072979eb702",
+      "source": "La Vanguardia",
+      "title": "Feijóo acudirá al Supremo por la ausencia del Gobierno en Ceuta y se erige en alternativa",
+      "summary": "El líder del PP presenta un plan de siete puntos para la frontera sur entre criticas a Pedro Sánchez por su ausencia",
+      "url": "https://www.lavanguardia.com/politica/20260819/11616709/feijoo-acudira-supremo-ausencia-gobierno-ceuta-erige-alternativa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85dabaef274.r_d.812-540-0.jpeg",
+      "published_at": "2026-08-19T18:41:38+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "شکایت حزب مردمی اسپانیا از دولت درباره سبته",
+      "lead_fa": "رهبر حزب مردمی اسپانیا اعلام کرد که به دلیل غیبت دولت در سبته به دیوان عالی شکایت می‌کند. او همزمان یک طرح هفت ماده‌ای برای مدیریت مرزهای جنوبی ارائه داد.",
+      "key_points_fa": [
+        "شکایت آلبرتو نونیث فئیخو از دولت به دیوان عالی کشور",
+        "انتقاد شدید از غیبت پدرو سانچز، نخست‌وزیر، در شهر سبته",
+        "ارائه یک برنامه هفت‌ملموسی برای ساماندهی مرزهای جنوبی اسپانیا"
+      ],
+      "analysis_fa": "این اقدام رهبر اپوزیسیون بخشی از تلاش مداوم حزب مردمی برای به چالش کشیدن سیاست‌های دولت مرکزی در مناطق مرزی و حساس است. این تنش‌ها نشان‌دهنده اختلاف‌نظر عمیق میان حزب حاکم و اپوزیسیون بر سر مدیریت بحران‌های مرزی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1062,18 +1117,25 @@
       "url": "https://cincodias.elpais.com/companias/2026-08-19/telefonica-pagara-102-millones-tras-perder-el-recurso-final-por-su-litigio-en-republica-checa.html",
       "image": "https://imagenes.elpais.com/resizer/v2/NMWFCQPFSNBDBO7Z3YBOH4N43I.png?auth=ff90f93f654f9a871fc69420e9992223ca8343bda955c193f922ba3b9e543db5",
       "published_at": "2026-08-19T12:18:07+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 74,
-      "title_fa": "Telefónica pagará 102 millones tras perder el recurso final por su litigio en República Checa",
-      "lead_fa": "El Tribunal Constitucional desestima la petición de la operadora española y valida la indemnización a dos fondos vinculados al inversor Pavel Tykač",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پرداخت ۱۰۲ میلیون یورو توسط تلخونیکا در جمهوری چک",
+      "lead_fa": "دادگاه قانون اساسی اسپانیا درخواست تجدیدنظر شرکت تلخونیکا را رد کرد. این شرکت باید غرامت هنگفتی به صندوق‌های سرمایه‌گذاری مرتبط با پاول تیکاچ پرداخت کند.",
+      "key_points_fa": [
+        "رد شدن درخواست تجدیدنظر شرکت مخابراتی تلخونیکا در دادگاه قانون اساسی",
+        "تایید نهایی حکم پرداخت غرامت ۱۰۲ میلیون یورویی",
+        "ذی‌نفع بودن دو صندوق سرمایه‌گذاری وابسته به سرمایه‌گذار چک، پاول تیکاچ"
+      ],
+      "analysis_fa": "این تصمیم قضایی پرونده‌ای حقوقی و مالی را به پایان می‌برد که بر سودآوری و وضعیت مالی شرکت تلخونیکا تأثیرگذار است. چنین احکامی اهمیت انطباق با قوانین و چالش‌های حقوقی شرکت‌های بزرگ چندملیتی در بازارهای بین‌المللی را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#تلخونیکا",
+        "#اسپانیا",
+        "#اقتصاد",
+        "#جمهوری_چک"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1157,17 +1219,17 @@
       "editorial_version": 2
     },
     {
-      "id": "702433bfef82",
+      "id": "663e0a06ea5a",
       "source": "La Vanguardia",
-      "title": "Detenido un hombre por pornografía infantil y grabar con cámaras a su hija y siete menores más",
-      "summary": "El individuo, de 34 años, también habría agredido a su pareja, la madre de la niña, a las que amenazaba con deportar a su país de origen",
-      "url": "https://www.lavanguardia.com/vida/20260819/11616704/detenido-hombre-pornografia-infantil-grabar-camaras-hija-siete-menores-mas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a7595dd07305.jpeg",
-      "published_at": "2026-08-19T18:33:40+02:00",
+      "title": "València se abrasa bajo temperaturas que sobrepasan los 40ºC",
+      "summary": "Las elevadas temperaturas vacían las calles de la ciudad, que se blinda ante el calor asfixiante, mientras que Xàtiva, en plenas fiestas, marca el máximo con 44,1ºC",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616690/valencia-abrasa-44-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3b9dbc50.jpeg",
+      "published_at": "2026-08-19T18:59:35+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Detenido un hombre por pornografía infantil y grabar con cámaras a su hija y siete menores más",
-      "lead_fa": "El individuo, de 34 años, también habría agredido a su pareja, la madre de la niña, a las que amenazaba con deportar a su país de origen",
+      "title_fa": "València se abrasa bajo temperaturas que sobrepasan los 40ºC",
+      "lead_fa": "Las elevadas temperaturas vacían las calles de la ciudad, que se blinda ante el calor asfixiante, mientras que Xàtiva, en plenas fiestas, marca el máximo con 44,1ºC",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1223,6 +1285,50 @@
       "editorial_version": 2
     },
     {
+      "id": "9a3842ea09c8",
+      "source": "La Vanguardia",
+      "title": "Moderna y Merck anuncian resultados positivos ede su vacuna contra el melanoma",
+      "summary": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
+      "url": "https://www.lavanguardia.com/vida/salud/20260819/11616670/moderna-merck-anuncian-resultados-positivos-ensayo-vacuna-melanoma.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/10/24/5fa448a8e52f4.r_d.329-250-0.jpeg",
+      "published_at": "2026-08-19T18:13:33+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Moderna y Merck anuncian resultados positivos ede su vacuna contra el melanoma",
+      "lead_fa": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f6cc4a4e8e4b",
+      "source": "EL PAÍS",
+      "title": "Francia registra 7.300 muertes adicionales durante las olas de calor desde mayo",
+      "summary": "Entre el 3 y el 22 de julio hubo 1.243 fallecidos y este verano, además de ser el más caluroso, es ya el más mortífero tras el de 2003, con 15.000 decesos",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/francia-registra-7300-muertes-adicionales-durante-las-olas-de-calor-desde-mayo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TZSRDOLMEJNGPJJTWTVO6FHRZE.jpg?auth=ed269d89cdc349065f86cb4fbd87e7cc24e8996a5f448ec442dd5c3834875916",
+      "published_at": "2026-08-19T17:41:16+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Francia registra 7.300 muertes adicionales durante las olas de calor desde mayo",
+      "lead_fa": "Entre el 3 y el 22 de julio hubo 1.243 fallecidos y este verano, además de ser el más caluroso, es ya el más mortífero tras el de 2003, con 15.000 decesos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3242c62ffff9",
       "source": "La Vanguardia",
       "title": "Aparecen en la playa de Malgrat otros 30 paquetes de cocaína con estampita",
@@ -1267,28 +1373,6 @@
       "editorial_version": 2
     },
     {
-      "id": "83ece546da83",
-      "source": "La Vanguardia",
-      "title": "Rodri Hernández, el alimentador de la era Flick",
-      "summary": "El fichaje del futbolista presenta argumentos de peso que han acabado convenciendo a Hansi Flick",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260819/11616621/rodri-hernandez-alimentador-flick-analisis-perfil-tactivo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85c0a986c6e.jpeg",
-      "published_at": "2026-08-19T16:43:24+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Rodri Hernández, el alimentador de la era Flick",
-      "lead_fa": "El fichaje del futbolista presenta argumentos de peso que han acabado convenciendo a Hansi Flick",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c5cecf121443",
       "source": "EL PAÍS",
       "title": "El TPI resiste al acoso de EE UU: “Recibimos golpes destinados al derecho internacional”",
@@ -1322,28 +1406,6 @@
       "priority": 70,
       "title_fa": "Revolución en neuromedicina al lograr minicerebros humanos que se mantienen vivos durante años",
       "lead_fa": "Investigadoras de Harvard crean un modelo que permite estudiar el cerebro hasta momentos del desarrollo ahora inalcanzables, abriendo la puerta a estudios más avanzados de sus enfermedades y posibles tratamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6c0439b60de8",
-      "source": "EL PAÍS",
-      "title": "Último día de calor intenso con aviso rojo en Valencia y Alicante antes del desplome de las temperaturas: hasta 10° menos",
-      "summary": "Una vaguada muy pronunciada dejará un tiempo muy revuelto con fuertes lluvias en gran parte de la Península y Baleares el sábado, el domingo y el lunes",
-      "url": "https://elpais.com/el-tiempo/2026-08-19/ultimo-dia-de-calor-intenso-con-aviso-rojo-en-valencia-y-alicante-antes-del-desplome-de-las-temperaturas-hasta-10-menos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ESW5AF63ENJM3AAGKLFO6Y37AM.jpg?auth=5fb2f8c7bfc6f81ee086983cc0230a6144f70a42867dc5606d5daa71bf1897f5",
-      "published_at": "2026-08-19T14:40:17+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Último día de calor intenso con aviso rojo en Valencia y Alicante antes del desplome de las temperaturas: hasta 10° menos",
-      "lead_fa": "Una vaguada muy pronunciada dejará un tiempo muy revuelto con fuertes lluvias en gran parte de la Península y Baleares el sábado, el domingo y el lunes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1410,17 +1472,17 @@
       "editorial_version": 2
     },
     {
-      "id": "1473095a4440",
+      "id": "83ece546da83",
       "source": "La Vanguardia",
-      "title": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
-      "summary": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
-      "url": "https://www.lavanguardia.com/vida/salud/20260819/11616646/moderna-merck-anuncian-resultados-positivos-ensayo-vacuna-melanoma.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/10/24/5fa448a8e52f4.r_d.329-250-0.jpeg",
-      "published_at": "2026-08-19T16:26:01+02:00",
+      "title": "Rodri Hernández, el alimentador de la era Flick",
+      "summary": "El fichaje del futbolista presenta argumentos de peso que han acabado convenciendo a Hansi Flick",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260819/11616621/rodri-hernandez-alimentador-flick-analisis-perfil-tactivo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85c0a986c6e.jpeg",
+      "published_at": "2026-08-19T16:43:24+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Moderna y Merck anuncian prometedores avances en una vacuna contra el melanoma",
-      "lead_fa": "El ensayo clínico de fase 3, etapa decisiva antes de solicitar la autorización para comercializar el tratamiento, se llevó a cabo con más de 1.100 personas",
+      "title_fa": "Rodri Hernández, el alimentador de la era Flick",
+      "lead_fa": "El fichaje del futbolista presenta argumentos de peso que han acabado convenciendo a Hansi Flick",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1454,17 +1516,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a6959423c6e3",
-      "source": "La Vanguardia",
-      "title": "ChatGPT mostrará anuncios la semana próxima en su versión gratuita",
-      "summary": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
-      "url": "https://www.lavanguardia.com/vida/20260819/11616578/chatgpt-mostrara-anuncios-semana-proxima-version-gratuita.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a859a99a63e4.r_d.1937-1150-0.jpeg",
-      "published_at": "2026-08-19T14:02:47+02:00",
-      "category": "deportes",
+      "id": "6c0439b60de8",
+      "source": "EL PAÍS",
+      "title": "Último día de calor intenso con aviso rojo en Valencia y Alicante antes del desplome de las temperaturas: hasta 10° menos",
+      "summary": "Una vaguada muy pronunciada dejará un tiempo muy revuelto con fuertes lluvias en gran parte de la Península y Baleares el sábado, el domingo y el lunes",
+      "url": "https://elpais.com/el-tiempo/2026-08-19/ultimo-dia-de-calor-intenso-con-aviso-rojo-en-valencia-y-alicante-antes-del-desplome-de-las-temperaturas-hasta-10-menos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ESW5AF63ENJM3AAGKLFO6Y37AM.jpg?auth=5fb2f8c7bfc6f81ee086983cc0230a6144f70a42867dc5606d5daa71bf1897f5",
+      "published_at": "2026-08-19T14:40:17+00:00",
+      "category": "sociedad",
       "priority": 69,
-      "title_fa": "ChatGPT mostrará anuncios la semana próxima en su versión gratuita",
-      "lead_fa": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
+      "title_fa": "Último día de calor intenso con aviso rojo en Valencia y Alicante antes del desplome de las temperaturas: hasta 10° menos",
+      "lead_fa": "Una vaguada muy pronunciada dejará un tiempo muy revuelto con fuertes lluvias en gran parte de la Península y Baleares el sábado, el domingo y el lunes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1476,17 +1538,17 @@
       "editorial_version": 2
     },
     {
-      "id": "6c9ea4428b9c",
+      "id": "a6959423c6e3",
       "source": "La Vanguardia",
-      "title": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
-      "summary": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
-      "url": "https://www.lavanguardia.com/internacional/20260819/11616564/ejercito-israeli-admite-ataco-coche-nina-hind-rajab-muerta-gaza-2024.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85b8a6b79e0.jpeg",
-      "published_at": "2026-08-19T13:39:17+02:00",
-      "category": "ciencia",
+      "title": "Adiós a ChatGPT tal y como lo conocemos: la versión gratuita mostrará anuncios",
+      "summary": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
+      "url": "https://www.lavanguardia.com/vida/20260819/11616578/chatgpt-mostrara-anuncios-semana-proxima-version-gratuita.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a859a99a63e4.r_d.1937-1150-0.jpeg",
+      "published_at": "2026-08-19T14:02:47+02:00",
+      "category": "deportes",
       "priority": 69,
-      "title_fa": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
-      "lead_fa": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
+      "title_fa": "Adiós a ChatGPT tal y como lo conocemos: la versión gratuita mostrará anuncios",
+      "lead_fa": "OpenAI amplía a 31 países europeos la llegada de la publicidad que, según asegura, estará completamente desligada de las respuestas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1586,17 +1648,17 @@
       "editorial_version": 2
     },
     {
-      "id": "0610d4f8ac22",
+      "id": "6c9ea4428b9c",
       "source": "La Vanguardia",
-      "title": "“Los psiquedélicos te enseñan que puedes estar vivo sin sufrir”",
-      "summary": "Tengo 55 años. Nací en Madrid y vivo en Málaga. Soy psicólogo y doctor en farmacología clínica psiquedélica. Sin pareja y sin hijos. ¿ Política? Soy socialdemócrata. ¿ Creencias? Estamos aquí por un accidente... maravilloso. Toco la guitarra en la banda San Isidro de Periana. (Foto: Ana Jiménez)",
-      "url": "https://www.lavanguardia.com/lacontra/20260819/11616143/jose-carlos-bouso-saiz-psiquedelicos-te-ensenan-puedes-vivo-sufrir.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a848ab6377f4.r_d.2255-1746-0.jpeg",
-      "published_at": "2026-08-19T00:05:00+02:00",
-      "category": "politica",
-      "priority": 69,
-      "title_fa": "“Los psiquedélicos te enseñan que puedes estar vivo sin sufrir”",
-      "lead_fa": "Tengo 55 años. Nací en Madrid y vivo en Málaga. Soy psicólogo y doctor en farmacología clínica psiquedélica. Sin pareja y sin hijos. ¿ Política? Soy socialdemócrata. ¿ Creencias? Estamos aquí por un accidente... maravilloso. Toco la guitarra en la banda San Isidro de Periana. (Foto: Ana Jiménez)",
+      "title": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
+      "summary": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
+      "url": "https://www.lavanguardia.com/internacional/20260819/11616564/ejercito-israeli-admite-ataco-coche-nina-hind-rajab-muerta-gaza-2024.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85b8a6b79e0.jpeg",
+      "published_at": "2026-08-19T13:39:17+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "El ejército israelí admite que disparó al coche de la niña de 5 años Hind Rajab y a su ambulancia",
+      "lead_fa": "Las autoridades militares han abierto una investigación penal por el tiroteo, que se saldó con nueve fallecidos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1605,33 +1667,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6e4f122aa69a",
-      "source": "La Vanguardia",
-      "title": "Bruselas avala la devolución de los menores no acompañados a Marruecos",
-      "summary": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
-      "url": "https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8490f7166c6.r_d.2080-1609-0.jpeg",
-      "published_at": "2026-08-18T19:06:15+02:00",
-      "category": "migracion",
-      "priority": 69,
-      "title_fa": "یادآوری کمیسیون اروپا درباره شرایط بازگرداندن کودکان به مراکش",
-      "lead_fa": "اتحادیه اروپا اعلام کرد بازگرداندن کودکان بدون همراه به کشور مبدأ تحت شرایط مشخصی امکان‌پذیر است. این رویه نیازمند رعایت استانداردهای پذیرش در کشور مقصد است.",
-      "key_points_fa": [
-        "تاکید بر امکان بازگرداندن کودکان به مراکش با رعایت شرایط خاص",
-        "لزوم وجود استانداردهای مناسب پذیرش در کشور مبدأ طبق دستورالعمل بازگرداندن"
-      ],
-      "analysis_fa": "این موضع‌گیری چارچوب حقوقی و اجرایی دولت‌ها را در قبال مدیریت مهاجرکان خردسال بدون همراه روشن‌تر می‌کند و بر تعهدات بین‌المللی در زمینه حقوق کودکان تأکید دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مراکش",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2380,28 +2415,6 @@
       "editorial_version": 2
     },
     {
-      "id": "400f444ad957",
-      "source": "EL PAÍS",
-      "title": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
-      "summary": "Un estudio confirma que las temperaturas marinas récord en Europa están causadas por el cambio climático y multiplican impactos, como el riesgo de episodios como la dana de Valencia",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-18/la-ola-de-calor-mas-preocupante-del-verano-viene-del-mar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JPMGNC4CWJEDTE5NQMGAO5EOTY.jpg?auth=9c7dcf7fb09af2da17fbf217b40f3cfff190f7d738d5416424604f35c8e393a1",
-      "published_at": "2026-08-18T23:01:00+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "La ola de calor más preocupante del verano está en el mar: “Puede provocar fenómenos meteorológicos extremos en tierra”",
-      "lead_fa": "Un estudio confirma que las temperaturas marinas récord en Europa están causadas por el cambio climático y multiplican impactos, como el riesgo de episodios como la dana de Valencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6664e0aee0a0",
       "source": "La Vanguardia",
       "title": "Siete detenidos en Lleida por otra trifulca entre pakistaníes y magrebíes con hachas y cuchillos",
@@ -2470,11 +2483,11 @@
     {
       "id": "976448b2a562",
       "source": "EL PAÍS",
-      "title": "Rafa Jódar - Flavio Cobolli en directo | Cobolli se lleva el segundo set 7-6 y empata el partido",
-      "summary": "Jódar quiere seguir con el buen momento por el que atraviesa con una victoria ante el finalista de Roland Garros",
+      "title": "Rafa Jódar - Flavio Cobolli en directo | Jódar cae ante Cobolli y se despide de Cincinnati",
+      "summary": "El madrileño no pudo aprovechar su ventaja y es eliminado en los octavos ante el italiano",
       "url": "https://elpais.com/deportes/tenis/2026-08-19/rafa-jodar-flavio-cobolli-en-directo-el-partido-del-master-cincinnati-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/R4FKZNCZ3FIQPOE7DKQAY7TGEE.jpg?auth=ad621fdb26eb0b67107e08439122740ee74845cb07da7dc385f2b1e9695ff5b3",
-      "published_at": "2026-08-19T17:33:05+00:00",
+      "published_at": "2026-08-19T15:01:45+00:00",
       "category": "deportes",
       "priority": 50,
       "title_fa": "تساوی در مسابقه تنیس بین رافا خودار و فلاویو کوبولی",
@@ -2540,7 +2553,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 130
+      "count": 132
     }
   ]
 }
