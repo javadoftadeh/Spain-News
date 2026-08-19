@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:33:37.937009+00:00",
+  "generated_at": "2026-08-19T23:55:42.467663+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e5b2c5d802b2",
@@ -1852,16 +1852,22 @@
       "published_at": "2026-08-19T13:15:29+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Ayuso se instala en una urbanización de Puerta de Hierro tras dejar el piso que compartía con González Amador",
-      "lead_fa": "La presidenta se muda a una zona acomodada tras abandonar el barrio en el que creció y donde la Comunidad de Madrid compró el polémico apartamento con 199 metros de terraza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نقل‌مکان ایوسو به منطقه مسکونی پوئرتا د هیرو",
+      "lead_fa": "ایزابل دیاز ایوسو، رئیس منطقه مادرید، به یک منطقه مرفه مسکونی نقل‌مکان کرد. این جابه‌جایی پس از ترک آپارتمان قبلی او صورت گرفت.",
+      "key_points_fa": [
+        "ایسابل دیاز ایوسو به محله پوئرتا د هیرو نقل‌مکان کرد.",
+        "او پیش‌تر در آپارتمانی در محله دوران کودکی‌اش زندگی می‌کرد.",
+        "آپارتمان قبلی او دارای حاشیه‌هایی پیرامون خرید توسط جامعه مادرید بود."
+      ],
+      "analysis_fa": "نقل‌مکان مقامات سیاسی معمولا بازتاب رسانه‌ای دارد، به‌ویژه اگر با حاشیه‌های ملکی پیشین مرتبط باشد. این تغییر سکونت در چارچوب مسائل شخصی سیاستمداران ارزیابی می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ایوسو",
+        "#مادرید",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1874,16 +1880,22 @@
       "published_at": "2026-08-19T13:15:04+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "El monumento al emperador que no valía un mojón",
-      "lead_fa": "Un epigrafista desvela que un supuesto dintel romano de la sierra de Cazorla es, en realidad, una demarcación del siglo XX",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کشف حقیقت درباره یک اثر باستانی در اسپانیا",
+      "lead_fa": "یک متخصص کتیبه‌شناسی فاش کرد که یک سنگ‌نوشته منتسب به دوران روم باستان در منطقه سیرای کاسورلا، در واقع متعلق به قرن بیستم است. این اثر که تصور می‌شد تاریخی باشد، صرفاً یک سنگ مرزگذاری مدرن است.",
+      "key_points_fa": [
+        "بررسی‌های کارشناسی نشان داد اثر موسوم به رومی ساخت قرن بیستم است.",
+        "این سنگ‌نوشته در منطقه سیرای کاسورلا واقع شده است.",
+        "متخصصان با رمزگشایی کتیبه به ماهیت واقعی آن پی بردند."
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده اهمیت پژوهش‌های علمی و دقیق در راستی‌آزمایی آثار تاریخی و جلوگیری از اشتباه در معرفی میراث فرهنگی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#باستان‌شناسی",
+        "#میراث_فرهنگی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1896,16 +1908,22 @@
       "published_at": "2026-08-19T13:15:02+00:00",
       "category": "ciencia",
       "priority": 67,
-      "title_fa": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
-      "lead_fa": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "توقف موقت توسعه پیشرفته‌ترین هوش مصنوعی OpenAI پس از بروز حوادث امنیتی",
+      "lead_fa": "شرکت OpenAI پس از وقوع یک رشته حوادث امنیتی، توسعه پیشرفته‌ترین هوش مصنوعی خود را موقتاً کند کرد. این تصمیم در پی چالش‌های امنیتی تابستان گذشته گرفته شده است.",
+      "key_points_fa": [
+        "کند شدن موقت روند توسعه هوش مصنوعی پیشرفته OpenAI",
+        "بروز یک موج از حوادث امنیتی مرتبط با عوامل هوش مصنوعی",
+        "واکنش شرکت سام آلتمن به مسائل حفاظتی و امنیتی"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده چالش‌های فزاینده در کنترل و ایمن‌سازی مدل‌های پیشرفته هوش مصنوعی است. شرکت‌ها ناچارند میان سرعت نوآوری و استانداردهای ایمنی تعادل ایجاد کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#فناوری",
+        "#OpenAI"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
