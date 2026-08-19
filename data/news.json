@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:36:51.366588+00:00",
+  "generated_at": "2026-08-19T21:57:17.028059+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "d217eaa19a7b",
@@ -16,7 +16,7 @@
       "summary": "Vivas reclama un marco normativo para que “nadie nunca pueda utilizar la presión migratoria para desestabilizar Ceuta” | La ciudad acepta el plan del Gobierno de trasladar 500 niñas migrantes a la Península como “medida extraordinaria”",
       "url": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/HNIVYXYA7NBVFPWFYGAWTN3244.jpeg?auth=fcef331bbfe23c12a0f0917dc481cd35eb2bde69b10ca8df61faee8dd551b545",
-      "published_at": "2026-08-19T21:06:14+00:00",
+      "published_at": "2026-08-19T21:46:51+00:00",
       "category": "migracion",
       "priority": 96,
       "title_fa": "دولت اسپانیا برای انتقال ۵۰۰ دختر مهاجر از سئوئا برنامه‌ریزی می‌کند",
@@ -1626,16 +1626,22 @@
       "published_at": "2026-08-19T17:14:04+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Aparecen en la playa de Malgrat otros 30 paquetes de cocaína con estampita",
-      "lead_fa": "El primer hallazgo de droga de la misma remesa fue el 10 de julio en Castellón",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کشف ۳۰ بسته دیگر کوکائین در ساحل مالگرات اسپانیا",
+      "lead_fa": "سی بسته جدید مواد مخدر همراه با تصاویر کوچک در یکی از سواحل مالگرات پیدا شد. نخستین محموله از این محموله قاچاق در دهم ژوئن در کاستلیون کشف شده بود.",
+      "key_points_fa": [
+        "کشف ۳۰ بسته کوکائین در ساحل مالگرات",
+        "وجود تصاویر کوچک روی بسته‌های کشف‌شده",
+        "ارتباط این محموله با کشفیات قبلی در کاستلیون"
+      ],
+      "analysis_fa": "پیدا شدن پی‌درپی بسته‌های مواد مخدر در سواحل مختلف اسپانیا نشان‌دهنده احتمال غرق شدن یا رها شدن یک محموله بزرگ قاچاق در دریا است که جریان آب آن‌ها را به ساحل می‌آورد. پلیس در حال بررسی مسیر حرکت و منبع اصلی این محموله‌ها است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث",
+        "#مبارزه_با_مواد_مخدر"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1646,18 +1652,24 @@
       "url": "https://www.lavanguardia.com/internacional/20260819/11616661/iran-apunta-escalada-amenaza-paises-golfo-perfila-objetivos-europa.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85c5da974da.r_d.2089-1104-0.jpeg",
       "published_at": "2026-08-19T17:13:57+02:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 68,
-      "title_fa": "Irán apunta hacia la escalada: amenaza a los países del Golfo y perfila objetivos en Europa",
-      "lead_fa": "Emiratos Árabes añade tensión al anunciar el bloqueo de los intercambios económicos con Teherán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "افزایش تنش‌ها میان ایران و کشورهای منطقه و اروپا",
+      "lead_fa": "امارات متحده عربی از مسدود کردن مبادلات اقتصادی با تهران خبر داد. این اقدام بر Pوی تشدید تنش‌های منطقه‌ای تاثیرگذار است.",
+      "key_points_fa": [
+        "اعلام مسدود شدن مبادلات اقتصادی با تهران از سوی امارات متحده عربی",
+        "افزایش نگرانی‌ها پیرامون ثبات اقتصادی و امنیتی در خلیج فارس"
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تحولات نشان‌دهنده افزایش اصطکاک میان ایران و کشورهای همسایه است و می‌تواند پویایی‌های تجاری و دیپلماتیک در منطقه را بیش از پیش تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#ایران",
+        "#امارات",
+        "#خلیج_فارس",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1670,16 +1682,21 @@
       "published_at": "2026-08-19T16:44:29+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Natalie Harp, vestida para liderar: la vuelta de tuerca que necesita el estilo Maga",
-      "lead_fa": "La supuesta mano derecha de Donald Trump se desmarca estilísticamente del tradicional y manido look Maga que hasta hoy han lucido todas las personalidades femeninas cercanas al presidente de Estados Unidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تغییر سبک استایل مشاور دونالد ترامپ توجه رسانه‌ها را جلب کرد",
+      "lead_fa": "ناتالی هارپ، از چهره‌های نزدیک به دونالد ترامپ، استایل متفاوتی را نسبت به ظاهر سنتی حامیان جنبش ماگا به نمایش گذاشته است. این تغییر پوشش بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است.",
+      "key_points_fa": [
+        "ناتالی هارپ به عنوان دستیار نزدیک دونالد ترامپ شناخته می‌شود.",
+        "استایل جدید او تفاوتی آشکار با ظاهر سنتی زنان نزدیک به رئیس‌جمهور آمریکا دارد."
+      ],
+      "analysis_fa": "این تغییر ظاهری فراتر از یک انتخاب شخصی، بازتاب‌دهنده تلاش برای بازتعریف تصویر رسانه‌ای چهره‌های نزدیک به رهبران سیاسی است. تغییر در استایل شخصیت‌های سیاسی معمولاً پیام‌های ارتباطی خاصی را به مخاطبان منتقل می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#استایل_سیاسی",
+        "#دونالد_ترامپ",
+        "#آمریکا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2238,7 +2255,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/VY6WBONBQBEPNMMFDJ7OJQOQ4U.JPG?auth=bccec55bdb95522e167cc8ce52651a845fb5c162856174198efe81d176844fb8",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Isla Cristina, entre el miedo y la consternación tras el triple homicidio: “Esto no es nuestro pueblo”",
       "lead_fa": "La localidad onubense vuelve poco a poco a la normalidad después de que dos encapuchados mataran el domingo a tres personas y se dieran a la fuga",
       "key_points_fa": [],
@@ -2260,7 +2277,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ACFMG2LCRNBRLGQS5GVKPJCBXA.jpg?auth=93c08e073b76a7652ad3f75d0a13765334f20acc28bc64a2bc0c2f98eedce26f",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Los menores que no querían su traslado a la Península: “Ya tenía media vida hecha en Tenerife”",
       "lead_fa": "Más de mil adolescentes se resistieron a su traslado desde Canarias para ser reubicados en otras comunidades por su arraigo en las islas. Muchos lo lograron",
       "key_points_fa": [],
@@ -2282,7 +2299,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YY7MEB7NEFAVDF3L5AGPYSNKIE.jpg?auth=f2712a71a6aa29366e0296c5e0668b0f77c19a6f692e1cae625c06e44f941538",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "España lidera el encarecimiento de los carburantes en Europa tras la retirada progresiva de ayudas",
       "lead_fa": "Los expertos también achacan el fenómeno a una fiscalidad más baja, que hace los surtidores sean más reactivos a las cotizaciones internacionales",
       "key_points_fa": [],
@@ -2304,7 +2321,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/5XI5KU4ZOZKJVKOH7DTS2P2P2M.jpg?auth=0eb00c815b48154525176f6d7f1b8ae6e9f9ffcfc554b4226d4b825550d29d86",
       "published_at": "2026-08-19T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Los Trump se frotan las manos con la licencia bancaria",
       "lead_fa": "World Liberty Financial, el proyecto de criptomonedas de la familia del republicano, acaba de obtener la licencia bancaria",
       "key_points_fa": [],
@@ -2326,7 +2343,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/6M2XKVSR6ZNY5HEVK3N3L46YKU.jpg?auth=9dc8a4aa9761fdb777acd627cc1dd344af740f53cf94c6a534ef2ecbf5d60b26",
       "published_at": "2026-08-19T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Europa está infravalorando su asfixiante futuro",
       "lead_fa": "Solo el 23% de los hogares europeos tiene aire acondicionado, frente al 90% en Estados Unidos",
       "key_points_fa": [],
@@ -2348,7 +2365,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/OUVT7XHPHJFNFDBZ3CTSTPWAHY.jpg?auth=d82471eb25405d47223dc55e08d9a901ec983b7577f399a3734e11255e02aa7a",
       "published_at": "2026-08-19T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Las claves: 29 estados contra una de las siete mayores compañías del mundo",
       "lead_fa": "Meta se enfrenta al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
       "key_points_fa": [],
@@ -2370,7 +2387,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/2XTOUVKINRAS7KURCTDREIAGIM.jpg?auth=b99b27603c5d037361974f55b9900c66fc459759590606c96f127018a864a77f",
       "published_at": "2026-08-19T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "España ya no puede permitirse dejar el biometano a medias",
       "lead_fa": "Pocas soluciones permiten reforzar la seguridad energética y generar actividad ecnonómica en el medio rural al mismo tiempo",
       "key_points_fa": [],
@@ -2562,7 +2579,7 @@
     {
       "id": "57a59537ce02",
       "source": "La Vanguardia",
-      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas a la espera del nueve",
+      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas",
       "summary": "El equipo azulgrana gana sin alardes al Al-Ahly egipcio con un partido marcado por los múltiples cambios del técnico (Koundé hizo de central) y un calor sofocante",
       "url": "https://www.lavanguardia.com/deportes/20260819/11616771/barca-lleva-gamper-flick-da-pocas-pistas-espera-nueve.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a860cd3e7114.r_d.511-19-0.jpeg",
