@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:38:16.577378+00:00",
+  "generated_at": "2026-08-20T11:59:51.808282+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "80746bb4daf0",
@@ -100,7 +100,7 @@
       "summary": "La policía desaloja el campamento en el arenal y traslada a los migrantes a dos recintos controlados | El Gobierno critica que “la única propuesta” del PP de devolver a todos los migrantes sea una “ilegalidad”",
       "url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EFTGIL6XR5BH5K5DKTG6T5TTY4.jpeg?auth=da9140defa300d0c7ee92a2a512e8d1c5f02d2213561b51b169efd1325fcabc3",
-      "published_at": "2026-08-20T11:34:52+00:00",
+      "published_at": "2026-08-20T11:42:07+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "آغاز تخلیه مهاجران از ساحل سبته و سفر رئیس اندلس به این شهر",
@@ -318,6 +318,34 @@
       "editorial_version": 2
     },
     {
+      "id": "892eef6bb80b",
+      "source": "EL PAÍS",
+      "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
+      "summary": "Durante la pasada noche, las 17 dotaciones de Bomberos y Bomberos Forestales han estado trabajando sobre el terreno",
+      "url": "https://elpais.com/espana/madrid/2026-08-20/el-incendio-de-aldea-del-fresno-continua-estabilizado-y-su-evolucion-es-positiva.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E7VR64HNZRFVLEZXEFTSJLEOY4.jpeg?auth=f8aa3910e45bbb994d0eafb2d26aa4885f35d4e507d5c5408dd11b00fb7e4fe5",
+      "published_at": "2026-08-20T07:06:42+00:00",
+      "category": "sociedad",
+      "priority": 76,
+      "title_fa": "ادامه تثبیت آتش‌سوزی در آلدئا دل فرسنو با روند رو به جلو",
+      "lead_fa": "آتش‌سوزی در منطقه آلدئا دل فرسنو همچنان در وضعیت تثبیت‌شده قرار دارد. ۱۷ تیم آتش‌نشانی شب گذشته در منطقه عملیاتی فعال بودند.",
+      "key_points_fa": [
+        "ادامه عملیات مهار آتش توسط تیم‌های آتش‌نشانی و جنگلبانی",
+        "تثبیت وضعیت آتش‌سوزی در طول شب گذشته",
+        "ارزیابی مثبت روند تحولات مربوط به حریق"
+      ],
+      "analysis_fa": "پایداری شرایط جوی و فعالیت شبانه‌روزی تیم‌های امدادی نقش مهمی در مهار آتش‌سوزی‌های جنگلی ایفا می‌کند. روند کنونی نشان‌دهنده کنترل نسبی بحران است، اما ارزیابی نهایی به پایداری شرایط در ساعات آینده بستگی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e7e9d52818f2",
       "source": "EL PAÍS",
       "title": "Laura Estremera, psicóloga: “Es urgente cambiar la mirada que tenemos de los primeros años de vida de un niño”",
@@ -439,16 +467,23 @@
       "published_at": "2026-08-20T10:32:28+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Una devolución exprés de menores en 2021 como la que plantea ahora el PP acabó con una condena por prevaricación",
-      "lead_fa": "La Audiencia de Cádiz fijó una pena de nueve años de inhabilitación a la entonces delegada del Gobierno en Ceuta y la exvicepresidenta de la ciudad por la repatriación de migrantes marroquíes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "محکومیت مقام سابق اسپانیایی به دلیل اخراج سریع کودکان مهاجر",
+      "lead_fa": "دادگاهی در اسپانیا یک مقام سابق دولتی را به دلیل اخراج غیرقانونی کودکان مراکشی در سال ۲۰۲۱ محکوم کرد. این پرونده هم‌زمان با پیشنهادهای سیاستی جدید حزب مردمی (PP) درباره بازگرداندن سریع مهاجران مطرح شده است.",
+      "key_points_fa": [
+        "دادگاه استانی کادیس حکم ۹ سال انفصال از خدمات دولتی را برای نماینده وقت دولت در سبته صادر کرد.",
+        "این محکومیت به دلیل اتهام سوءاستفاده از قدرت در پرونده بازگرداندن مهاجران مراکشی صادر شده است.",
+        "معاون پیشین شهردار سبته نیز در همین پرونده محکوم شد."
+      ],
+      "analysis_fa": "این پرونده قضایی چالش‌های حقوقی و سیاسی پیرامون نحوه مدیریت مرزها و اخراج سریع مهاجران خردسال در اسپانیا را برجسته می‌کند. طرح مجدد موضوع اخراج‌های سریع از سوی حزب مردمی در حالی است که دادگاه‌ها چنین اقداماتی را در گذشته غیرقانونی تشخیص داده و مقام‌های مجری را با احکام سنگین مواجه کرده‌اند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مهاجران",
+        "#سیاست_اسپانیا",
+        "#اخبار_قضایی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -461,16 +496,22 @@
       "published_at": "2026-08-20T10:29:32+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El PP culpa a Sánchez de la incomparecencia “contumaz” de los ministros en el Senado sobre Ceuta",
-      "lead_fa": "Los populares registran el recurso en el Supremo en el que exigen que fuerce la presencia del Gobierno antes de que acabe agosto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "احزاب مخالف در اسپانیا دولت را به عدم حضور در سنا متهم کردند",
+      "lead_fa": "حزب مردمی اسپانیا لایحه جدیدی را علیه دولت ثبت کرد. این حزب خواستار حضور وزرا در سنا پیش از پایان ماه اوت شد.",
+      "key_points_fa": [
+        "ثبت شکایت رسمی توسط حزب مردمی در دیوان عالی اسپانیا",
+        "اعتراض به عدم حضور مداوم وزرا در جلسات سنا درباره سبتا",
+        "درخواست اجبار دولت به پاسخگویی پیش از اتمام تعطیلات اوت"
+      ],
+      "analysis_fa": "این اقدام حقوقی نشان‌دهنده تنش‌های سیاسی میان دولت مرکزی و احزاب مخالف بر سر پاسخگویی نهادی است. پیگیری قضایی این موضوع می‌تواند فشارهای سیاسی بر کابینه را افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست",
+        "#سنا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -812,7 +853,7 @@
       "title": "La Policía desaloja la playa del Trampolín con el traslado de 1.800 migrantes a centros de acogida",
       "summary": "Unos 1.200 subsaharianos han sido dirigidos caminando hacia el recurso de Loma Margarita y otros 500 magrebíes al parking de El Embolsamiento",
       "url": "https://www.lavanguardia.com/politica/20260820/11616948/comienza-traslado-inmigrantes-playa-trampolin-dos-centros-temporales-1-800-camas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86b54e95132.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86e49b458ce.jpeg",
       "published_at": "2026-08-20T09:20:03+02:00",
       "category": "migracion",
       "priority": 74,
@@ -1082,28 +1123,6 @@
       "editorial_version": 2
     },
     {
-      "id": "665017a58f9f",
-      "source": "EL PAÍS",
-      "title": "Ceuta no está en el Senado",
-      "summary": "La comparecencia de los ministros en la Cámara alta es obligatoria, pero ha faltado lealtad institucional de los senadores",
-      "url": "https://elpais.com/opinion/2026-08-20/ceuta-no-esta-en-el-senado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VZIDMRONQJGETGECCVTAFXWH4M.jpg?auth=7367395e849d87a9a56a02558cee38f7ad583ae5a77892b62f0ca29f8e5b4d5e",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Ceuta no está en el Senado",
-      "lead_fa": "La comparecencia de los ministros en la Cámara alta es obligatoria, pero ha faltado lealtad institucional de los senadores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "74f5a7f445b7",
       "source": "EL PAÍS Economía",
       "title": "El Supremo de EE UU avala las sanciones millonarias a las grandes operadoras por vender datos de sus clientes",
@@ -1237,7 +1256,7 @@
     },
     {
       "id": "74414e0f2cc3",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "15 millones por una casa: una calle de Andratx, en Mallorca, se convierte en la más cara de España para comprar",
       "summary": "Baleares, Madrid y Málaga concentran las 10 direcciones más exclusivas del país. La capital suma cuatro enclaves, más que ninguna otra provincia, según Idealista",
       "url": "https://elpais.com/economia/vivienda/2026-08-20/15-millones-por-una-casa-una-calle-de-andratx-en-mallorca-se-convierte-en-la-mas-cara-de-espana-para-comprar.html",
@@ -1310,15 +1329,15 @@
     {
       "id": "ed65c9824d7e",
       "source": "EL PAÍS",
-      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "summary": "Un temporal atlántico dejará además lluvias copiosas",
+      "title": "Las temperaturas se desploman el fin de semana y habrá lluvias fuertes, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "summary": "Los expertos coinciden en que estos episodios son raros en los últimos veranos y en que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
       "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
       "published_at": "2026-08-20T10:51:56+00:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 70,
-      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "lead_fa": "Un temporal atlántico dejará además lluvias copiosas",
+      "title_fa": "Las temperaturas se desploman el fin de semana y habrá lluvias fuertes, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "lead_fa": "Los expertos coinciden en que estos episodios son raros en los últimos veranos y en que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1341,28 +1360,6 @@
       "priority": 70,
       "title_fa": "Sandra Bullock habla por primera vez de la muerte de su pareja, Bryan Randall: “Empecé a llorarle cuatro años antes de que falleciera”",
       "lead_fa": "La actriz ha hablado en un ‘podcast’ sobre cómo lidió con la enfermedad del fotógrafo Bryan Randall, fallecido en 2023 de esclerosis lateral amiotrófica, al mismo tiempo que cuidaba a sus hijos en plena pandemia: “Fue una triple adversidad bastante dura”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8124486b0bd6",
-      "source": "EL PAÍS",
-      "title": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-      "summary": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
-      "url": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JPNW66FVMZFOROC6DIRW326PFQ.jpg?auth=ad56a720eef8f87fe1aa290bf839f28cb46e47f4fa688ee165b1ff186845a43b",
-      "published_at": "2026-08-20T08:52:56+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-      "lead_fa": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1534,6 +1531,28 @@
       "priority": 69,
       "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
       "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8124486b0bd6",
+      "source": "EL PAÍS",
+      "title": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
+      "summary": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
+      "url": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JPNW66FVMZFOROC6DIRW326PFQ.jpg?auth=ad56a720eef8f87fe1aa290bf839f28cb46e47f4fa688ee165b1ff186845a43b",
+      "published_at": "2026-08-20T08:52:56+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
+      "lead_fa": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2013,28 +2032,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c66427707dc1",
-      "source": "EL PAÍS",
-      "title": "anti, el músico a la contra: “Algunas salas preguntan tu número de seguidores en Instagram o escuchas en Spotify. Yo tengo poco de eso”",
-      "summary": "“Siempre me he sentido en contra de la corriente y, con los años, se ha agudizado”, dice Tito Pintado, pionero del ‘indie’ español de con Penélope Trip, que retoma su proyecto más personal tras años de parón",
-      "url": "https://elpais.com/icon/2026-08-20/anti-el-musico-a-la-contra-algunas-salas-preguntan-tu-numero-de-seguidores-en-instagram-o-escuchas-en-spotify-yo-tengo-poco-de-eso.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RTMT3ABFKZDORDANCOCVSTJMEY.jpg?auth=fb399da742ae27c742ffacc919d4a9f3239b6e90f5c7f47086ff548c44ba7736",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "anti, el músico a la contra: “Algunas salas preguntan tu número de seguidores en Instagram o escuchas en Spotify. Yo tengo poco de eso”",
-      "lead_fa": "“Siempre me he sentido en contra de la corriente y, con los años, se ha agudizado”, dice Tito Pintado, pionero del ‘indie’ español de con Penélope Trip, que retoma su proyecto más personal tras años de parón",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "34d6ee6b3c27",
       "source": "EL PAÍS Economía",
       "title": "La marea de los pequeños inversores llega a los robots humanoides y catapulta a Unitree Robotics",
@@ -2449,7 +2446,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 156
     },
     {
       "source": "EL PAÍS España",
