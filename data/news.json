@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:41:36.743143+00:00",
+  "generated_at": "2026-08-20T23:02:36.503305+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "f976d6b916f2",
@@ -1111,7 +1111,7 @@
       "summary": "El creciente uso de los nuevos adelgazantes obliga a la industria alimentaria a reposicionarse",
       "url": "https://www.lavanguardia.com/opinion/20260821/11617106/alimentacion-postozempic.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/11/68ea9a9f8977a.jpeg",
-      "published_at": "2026-08-21T00:03:42+02:00",
+      "published_at": "2026-08-21T00:30:00+02:00",
       "category": "economia",
       "priority": 70,
       "title_fa": "تغییر رویکرد صنایع غذایی با افزایش مصرف داروهای لاغری",
@@ -1673,38 +1673,23 @@
       "published_at": "2026-08-20T16:16:39+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Tormentas con rachas de 149 km/h derriban el techo de una iglesia en Alzira y causan daños",
-      "lead_fa": "El temporal deja también árboles caídos, cortes de carreteras y retrasos ferroviarios tras registrar fuertes rachas de viento",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "طوفان شدید با سرعت ۱۴۹ کیلومتر در ساعت در آلسیرا",
+      "lead_fa": "طوفان سهمگین اخیر در منطقه آلسیرا خسارات گسترده‌ای به بار آورد. این پدیده جوی موجب سقوط سقف یک کلیسا و اختلال در حمل‌ونقل شد.",
+      "key_points_fa": [
+        "ثبت تندبادهایی با سرعت ۱۴۹ کیلومتر در ساعت در منطقه",
+        "تخریب سقف یک کلیسا در آلسیرا بر اثر شدت باد",
+        "قطعی جاده‌ها، سقوط درختان و تاخیر در خطوط ریلی"
+      ],
+      "analysis_fa": "این طوفان شدید نمونه‌ای از شرایط ناپایدار جوی است که اخیراً بخش‌هایی از اسپانیا را درگیر کرده و زیرساخت‌ها و خدمات شهری را با اختلال مواجه ساخته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#طوفان",
+        "#اسپانیا",
+        "#آلسیرا",
+        "#حوادث"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1940a9caa0ee",
-      "source": "La Vanguardia",
-      "title": "Trump declara la “guerra económica” a Irán y amenaza a los países que negocien con el régimen",
-      "summary": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
-      "url": "https://www.lavanguardia.com/internacional/20260820/11617189/trump-anuncia-guerra-economica-iran-amenaza-paises-negocien-regimen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8706ac8afff.jpeg",
-      "published_at": "2026-08-20T15:55:57+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Trump declara la “guerra económica” a Irán y amenaza a los países que negocien con el régimen",
-      "lead_fa": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1735,6 +1720,36 @@
       "editorial_version": 2
     },
     {
+      "id": "1940a9caa0ee",
+      "source": "La Vanguardia",
+      "title": "Trump declara la “guerra económica” a Irán y amenaza a los países que negocien con el régimen",
+      "summary": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11617189/trump-anuncia-guerra-economica-iran-amenaza-paises-negocien-regimen.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8706ac8afff.jpeg",
+      "published_at": "2026-08-20T15:55:57+02:00",
+      "category": "politica",
+      "priority": 67,
+      "title_fa": "اعلام جنگ اقتصادی ترامپ علیه ایران",
+      "lead_fa": "رئیس‌جمهور آمریکا از آغاز تحریم‌های اقتصادی بی‌سابقه علیه ایران خبر داد. این اقدام پس از بن‌بست در تلاش‌های دیپلماتیک صورت گرفته است.",
+      "key_points_fa": [
+        "اعلام جنگ اقتصادی علیه ایران توسط ترامپ",
+        "توصیف این اقدام به عنوان مخرب‌ترین عملیات اقتصادی تاریخ",
+        "هشدار به کشورهایی که با حکومت ایران مراوده دارند",
+        "تاکید بر توقف دیپلماسی به عنوان دلیل این تصمیم"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده تشدید فشارهای اقتصادی بر ایران پس از شکست مذاکرات دیپلماتیک است و می‌تواند پویایی‌های تجاری و سیاسی بین‌المللی مرتبط با تهران را به شدت تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#ایران",
+        "#اقتصاد",
+        "#تحریم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "745d12514e4d",
       "source": "La Vanguardia",
       "title": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
@@ -1744,16 +1759,23 @@
       "published_at": "2026-08-20T15:25:32+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
-      "lead_fa": "Arturo Béjar, que trabajó cerca de ocho años en la compañía, testifica que el presidente y fundador de la plataforma mintió para encubrir los daños a menores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "شهادت مهندس سابق متا علیه زاکربرگ",
+      "lead_fa": "یک مهندس سابق متا در کنگره شهادت داد که مارک زاکربرگ عامدانه آسیب‌های وارد شده به کودکان را پنهان کرده است. آر图رو بژار اعلام کرد مدیرعامل متا در این زمینه به افکار عمومی دروغ گفته است.",
+      "key_points_fa": [
+        "آر图رو بژار حدود هشت سال در شرکت متا سابقه فعالیت داشته است.",
+        "شهادت جدید ابعاد تازه‌ای از مسئولیت مدیران ارشد در قبال سلامت روان نوجوانان را نمایان می‌کند.",
+        "متا تاکنون به این اجماع و شهادت جدید واکنش رسمی نشان داده است."
+      ],
+      "analysis_fa": "این شهادت فشارها بر شبکه‌های اجتماعی بزرگ را برای شفافیت بیشتر و پاسخگویی در قبال امنیت کاربران جوان افزایش می‌دهد. پرونده‌های حقوقی مشابه می‌توانند تغییراتی در قوانین نظارتی بر پلتفرم‌های دیجیتال ایجاد کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#متا",
+        "#زاکربرگ",
+        "#امنیت_کودکان",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1867,28 +1889,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c3d4aca1a787",
-      "source": "La Vanguardia",
-      "title": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
-      "summary": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
-      "url": "https://www.lavanguardia.com/sucesos/20260820/11617085/guardia-civil-incauta-246-relojes-falsificados-valorados-mas-1-5-millones-euros-castello-d-empuries.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86daecd61f0.r_d.757-606-0.jpeg",
-      "published_at": "2026-08-20T12:54:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
-      "lead_fa": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "74414e0f2cc3",
       "source": "EL PAÍS",
       "title": "15 millones por una casa: una calle de Andratx, en Mallorca, se convierte en la más cara de España para comprar",
@@ -1933,6 +1933,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c3d4aca1a787",
+      "source": "La Vanguardia",
+      "title": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
+      "summary": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
+      "url": "https://www.lavanguardia.com/sucesos/20260820/11617085/guardia-civil-incauta-246-relojes-falsificados-valorados-mas-1-5-millones-euros-castello-d-empuries.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86daecd61f0.r_d.757-606-0.jpeg",
+      "published_at": "2026-08-20T12:54:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
+      "lead_fa": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ed65c9824d7e",
       "source": "EL PAÍS",
       "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
@@ -1941,7 +1963,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
       "published_at": "2026-08-20T10:51:56+00:00",
       "category": "ciencia",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
       "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
       "key_points_fa": [],
@@ -1966,50 +1988,6 @@
       "priority": 66,
       "title_fa": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
       "lead_fa": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8105a0e34f45",
-      "source": "La Vanguardia",
-      "title": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
-      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
-      "published_at": "2026-08-20T09:52:56+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
-      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a1e5425e465",
-      "source": "La Vanguardia",
-      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
-      "published_at": "2026-08-20T09:42:58+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2054,6 +2032,50 @@
       "priority": 66,
       "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
       "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8105a0e34f45",
+      "source": "La Vanguardia",
+      "title": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
+      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
+      "published_at": "2026-08-20T09:52:56+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
+      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a1e5425e465",
+      "source": "La Vanguardia",
+      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
+      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
+      "published_at": "2026-08-20T09:42:58+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2615,7 +2637,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 139
+      "count": 132
     }
   ]
 }
