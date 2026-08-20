@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T18:56:23.367229+00:00",
+  "generated_at": "2026-08-20T19:41:12.269603+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "f976d6b916f2",
     "80746bb4daf0",
     "1130d9243135",
-    "31cb2f4ea21f",
+    "fd9379be35e3",
     "10267a3be185"
   ],
   "items": [
@@ -92,28 +92,28 @@
       "editorial_version": 2
     },
     {
-      "id": "31cb2f4ea21f",
+      "id": "fd9379be35e3",
       "source": "La Vanguardia",
       "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "summary": "El epicentro se ha ubicado a 35 kilómetros de la localidad de Coracora, sin que hasta el momento se hayan notificado daños personales o materiales",
-      "url": "https://www.lavanguardia.com/vida/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
+      "summary": "Hasta el momento no se han registrado daños personales o materiales",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a87487539914.r_d.412-425-0.jpeg",
       "published_at": "2026-08-20T20:28:52+02:00",
       "category": "sociedad",
       "priority": 77,
       "title_fa": "زمین‌لرزه ۷.۲ ریشتری منطقه آیاکوتو در پرو را لرزاند",
-      "lead_fa": "زمین‌لرزه قدرتمندی با بزرگی ۷.۲ ریشتر منطقه آند در جنوب پرو را لرزاند. کانون این زلزله در نزدیکی شهر کوراکورا گزارش شده است.",
+      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۷.۲ در مقیاس ریشتر منطقه کوهستانی آیاکوتو در جنوب پرو را لرزاند. تا کنون گزارشی درباره تلفات جانی یا خسارات مالی منتشر نشده است.",
       "key_points_fa": [
-        "بزرگی زمین‌لرزه ۷.۲ ریشتر اعلام شده است.",
-        "کانون زلزله در ۳۵ کیلومتری شهر کوراکورا قرار داشت.",
-        "تاکنون گزارشی درباره خسارات جانی یا مالی منتشر نشده است."
+        "زمین‌لرزه با قدرت ۷.۲ ریشتر جنوب پرو را لرزاند.",
+        "کانون زلزله در منطقه آندین آیاکوتو بوده است.",
+        "تاکنون هیچ‌گونه خسارت جانی یا مالی ثبت نشده است."
       ],
-      "analysis_fa": "این زمین‌لرزه در منطقه کوهستانی و صعب‌العبور آیاکوتو رخ داده است و ارزیابی دقیق خسارات ممکن است نیازمند زمان بیشتر و بررسی تیم‌های امدادی باشد.",
+      "analysis_fa": "وقوع زمین‌لرزه‌های شدید در پرو به دلیل قرارگیری این کشور در کمربند لرزه‌خیز اقیانوس آرام (حلقه آتش) امری رایج است. مقامات محلی و سازمان‌های امدادی همچنان در حال ارزیابی مناطق تحت تأثیر هستند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "important",
       "hashtags_fa": [
         "#پرو",
-        "#زمین_لرزه",
+        "#زمین‌لرزه",
         "#آیاکوتو"
       ],
       "ai_translated": true,
@@ -884,34 +884,6 @@
       "editorial_version": 2
     },
     {
-      "id": "12527e920e59",
-      "source": "La Vanguardia",
-      "title": "Australia forzará a las tecnológicas a compensar a los medios por usar noticias",
-      "summary": "La nueva ley cargará a las plataformas digitales con una tasa sobre sus beneficios publicitarios a menos que lleguen a ocho acuerdos con editores de prensa",
-      "url": "https://www.lavanguardia.com/vida/20260820/11617126/australia-forzara-tecnologicas-compensar-medios-comunicacion-noticias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/24/699d4d6657752.jpeg",
-      "published_at": "2026-08-20T13:47:19+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "استرالیا فناوری‌های بزرگ را ملزم به پرداخت حق نشر می‌کند",
-      "lead_fa": "دولت استرالیا قانون جدیدی برای وادار کردن پلتفرم‌های دیجیتال به جبران خسارت ناشران اخبار تدوین می‌کند. این طرح در صورت عدم توافق با رسانه‌ها، مالیاتی بر درآمدهای تبلیغاتی اعمال خواهد کرد.",
-      "key_points_fa": [
-        "تصویب قانون جدید در استرالیا برای حمایت از رسانه‌های خبری",
-        "اعمال نرخ بر سود تبلیغاتی پلتفرم‌های دیجیتال در صورت عدم توافق",
-        "الزام پلتفرم‌ها به دستیابی به توافق با ناشران مطبوعاتی"
-      ],
-      "analysis_fa": "این اقدام ادامه تنش‌های میان دولت‌ها و غول‌های فناوری بر سر درآمد حاصل از محتوای خبری است. مدل‌های مشابه ممکن است الهام‌بخش سایر کشورها برای تنظیم مقررات سخت‌گیرانه‌تر شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#استرالیا",
-        "#رسانه",
-        "#فناوری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ff5d228f572f",
       "source": "La Vanguardia",
       "title": "La Guardia Civil suspende la búsqueda del supuesto león de la sierra de Toledo",
@@ -1164,6 +1136,33 @@
       "editorial_version": 2
     },
     {
+      "id": "40bbe8dd6ca0",
+      "source": "La Vanguardia",
+      "title": "El Pentágono retira del Golfo el polémico portaaviones 'Abraham Lincoln'",
+      "summary": "El Mando Central de Estados Unidos ha confirmado el despliegue de un nuevo buque, el George Washington, que sustituirá en la misión de Oriente Medio al Abraham Lincoln",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11617306/pentagono-retira-golfo-persico-portaaviones-registro-deterioro-condiciones-vida.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a874988944a9.jpeg",
+      "published_at": "2026-08-20T20:40:23+02:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "خروج ناو هواپیمابر آمریکایی آبراهام لینکلن از خلیج فارس",
+      "lead_fa": "فرماندهی مرکزی ایالات متحده از جابجایی ناوهای خود در خاورمیانه خبر داد. ناو جورج واشنگتن جایگزین آبراهام لینکلن شد.",
+      "key_points_fa": [
+        "تایید خروج ناو آبراهام لینکلن از منطقه خلیج فارس",
+        "استقرار ناو جدید جورج واشنگتن در ماموریت خاورمیانه"
+      ],
+      "analysis_fa": "این جابجایی نظامی در راستای چرخش تجهیزات و نیروهای ایالات متحده در منطقه خاورمیانه صورت گرفته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#خلیج_فارس",
+        "#نظامی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "d772f728b9b6",
       "source": "La Vanguardia",
       "title": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
@@ -1200,18 +1199,24 @@
       "url": "https://www.lavanguardia.com/politica/20260820/11617285/rey-juan-carlos-vuelve-barcelona-dar-ultimo-adios-amigo-josep-cusi.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/28/6a67f3f5f2801.jpeg",
       "published_at": "2026-08-20T19:27:47+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "El rey Juan Carlos vuelve a Barcelona para dar el último adiós a su amigo Josep Cusí",
-      "lead_fa": "El padre del Rey ha hecho un viaje relámpago para dar el pésame personalmente a la familia del armador",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت موقت خوان کارلوس به بارسلونا برای ادای احترام به دوست درگذشته‌اش",
+      "lead_fa": "پادشاه سابق اسپانیا برای شرکت در مراسم تدفین جوزپ کوسی سفری کوتاه به بارسلونا داشت. او شخصاً به خانواده این کشتیران تسلیت گفت.",
+      "key_points_fa": [
+        "خوان کارلوس سفر کوتاهی به بارسلونا انجام داد.",
+        "هدف از این سفر ابراز همدردی با خانواده جوزپ کوسی بود.",
+        "کوسی از دوستان نزدیک پادشاه سابق به شمار می‌رفت."
+      ],
+      "analysis_fa": "حضور پادشاه پیشین اسپانیا در بارسلونا سفری خصوصی و با هدف ادای احترام به یکی از دوستان نزدیک او صورت گرفته است. این‌گونه سفرها معمولاً بدون برنامه‌های رسمی دولتی انجام می‌شود و بازتاب‌دهنده روابط شخصی اوست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#خوان_کارلوس",
+        "#بارسلونا",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1226,28 +1231,6 @@
       "priority": 70,
       "title_fa": "El 'once' de jugadores insignes que siguen sin equipo",
       "lead_fa": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6cf616a11261",
-      "source": "La Vanguardia",
-      "title": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
-      "summary": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
-      "url": "https://www.lavanguardia.com/vida/20260820/11617265/universidad-gante-anuncia-medidas-instigador-linchamiento-jason-arday.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/26/63fb450156ac1.r_d.363-208-0.jpeg",
-      "published_at": "2026-08-20T18:31:55+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
-      "lead_fa": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1551,6 +1534,28 @@
       "editorial_version": 2
     },
     {
+      "id": "6cf616a11261",
+      "source": "La Vanguardia",
+      "title": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
+      "summary": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
+      "url": "https://www.lavanguardia.com/vida/20260820/11617265/universidad-gante-anuncia-medidas-instigador-linchamiento-jason-arday.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/26/63fb450156ac1.r_d.363-208-0.jpeg",
+      "published_at": "2026-08-20T18:31:55+02:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
+      "lead_fa": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f64b7540335b",
       "source": "La Vanguardia",
       "title": "Tormentas con rachas de 149 km/h derriban el techo de una iglesia en Alzira y causan daños",
@@ -1603,7 +1608,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86fdb0f2226.jpeg",
       "published_at": "2026-08-20T15:25:32+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
       "lead_fa": "Arturo Béjar, que trabajó cerca de ocho años en la compañía, testifica que el presidente y fundador de la plataforma mintió para encubrir los daños a menores",
       "key_points_fa": [],
@@ -1625,53 +1630,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/25/6744595782a66.r_d.662-256-0.jpeg",
       "published_at": "2026-08-20T15:13:21+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Detenido en Lleida un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
       "lead_fa": "Su historial delictivo cuenta con tentativa de homicidio, robos con violencia y lesiones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "96e9c6a006a8",
-      "source": "EL PAÍS",
-      "title": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
-      "summary": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/la-fiscalia-investiga-a-los-concejales-que-retrasaron-la-anulacion-de-la-licencia-del-algarrobico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/B4I3FUXEY5DGZAXDDCDH556MQA.jpg?auth=8755c146a9802750a371e442341fefbaeebe75090567e817b363612c5a832842",
-      "published_at": "2026-08-20T13:31:39+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
-      "lead_fa": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7ffdc7669c5e",
-      "source": "EL PAÍS",
-      "title": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes",
-      "summary": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
-      "url": "https://elpais.com/espana/2026-08-20/bruselas-recalca-el-deber-de-espana-de-proteger-a-menores-vulnerables-en-ceuta-pese-a-reclamar-el-retorno-de-los-migrantes-irregulares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/S7TQ7GYPEZFHFMO55W26J6J7LU.jpeg?auth=aad354adfca6c47e95aa2d508d580d6b729db484300d5e96f89bf8c565c0b30c",
-      "published_at": "2026-08-20T13:14:10+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes",
-      "lead_fa": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1716,6 +1677,50 @@
       "priority": 68,
       "title_fa": "La sequía de los ríos europeos descubre nuevos hallazgos históricos en Italia y Serbia",
       "lead_fa": "Las altas temperaturas y una falta importante de lluvias han provocado una bajada considerable de caudales en varios países de Europa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "96e9c6a006a8",
+      "source": "EL PAÍS",
+      "title": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
+      "summary": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/la-fiscalia-investiga-a-los-concejales-que-retrasaron-la-anulacion-de-la-licencia-del-algarrobico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/B4I3FUXEY5DGZAXDDCDH556MQA.jpg?auth=8755c146a9802750a371e442341fefbaeebe75090567e817b363612c5a832842",
+      "published_at": "2026-08-20T13:31:39+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
+      "lead_fa": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7ffdc7669c5e",
+      "source": "EL PAÍS",
+      "title": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes",
+      "summary": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
+      "url": "https://elpais.com/espana/2026-08-20/bruselas-recalca-el-deber-de-espana-de-proteger-a-menores-vulnerables-en-ceuta-pese-a-reclamar-el-retorno-de-los-migrantes-irregulares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S7TQ7GYPEZFHFMO55W26J6J7LU.jpeg?auth=aad354adfca6c47e95aa2d508d580d6b729db484300d5e96f89bf8c565c0b30c",
+      "published_at": "2026-08-20T13:14:10+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes",
+      "lead_fa": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1804,28 +1809,6 @@
       "priority": 68,
       "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
       "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3468231a1965",
-      "source": "EL PAÍS España",
-      "title": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
-      "summary": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
-      "url": "https://elpais.com/espana/2026-08-19/feijoo-sobre-el-traslado-de-migrantes-ni-mayores-ni-menores-han-de-regresar-todos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
-      "published_at": "2026-08-19T19:09:10+00:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
-      "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1952,6 +1935,28 @@
       "editorial_version": 2
     },
     {
+      "id": "3468231a1965",
+      "source": "EL PAÍS España",
+      "title": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "summary": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "url": "https://elpais.com/espana/2026-08-19/feijoo-sobre-el-traslado-de-migrantes-ni-mayores-ni-menores-han-de-regresar-todos.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
+      "published_at": "2026-08-19T19:09:10+00:00",
+      "category": "politica",
+      "priority": 67,
+      "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "889bcaa45fab",
       "source": "EL PAÍS Economía",
       "title": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
@@ -1974,6 +1979,28 @@
       "editorial_version": 2
     },
     {
+      "id": "7f424f123429",
+      "source": "EL PAÍS Economía",
+      "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
+      "summary": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
+      "url": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
+      "published_at": "2026-08-20T05:30:00+00:00",
+      "category": "ciencia",
+      "priority": 66,
+      "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
+      "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "89d129f8131c",
       "source": "La Vanguardia",
       "title": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
@@ -1982,7 +2009,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85ceb42c5bb.jpeg",
       "published_at": "2026-08-20T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
       "lead_fa": "La Policía Local de Málaga ha destruido 91 tubos de sushi",
       "key_points_fa": [],
@@ -2004,31 +2031,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/25/6a650f33b271a.jpeg",
       "published_at": "2026-08-20T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Todo lo que prepara Apple",
       "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7f424f123429",
-      "source": "EL PAÍS Economía",
-      "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "summary": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "url": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
-      "published_at": "2026-08-20T05:30:00+00:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2216,28 +2221,6 @@
       "editorial_version": 2
     },
     {
-      "id": "fe7a57954a58",
-      "source": "EL PAÍS",
-      "title": "Otro internet es posible más allá de los ‘influencers’",
-      "summary": "El ‘scroll’ infinito ha frito cortezas prefrontales, pero el público veinteañero anhela poner el cerebro a trabajar",
-      "url": "https://elpais.com/opinion/2026-08-20/otro-internet-es-posible-mas-alla-de-los-influencers.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RZ2VNYN7MBDUTAM6KQ6A5UMLYE.jpg?auth=7d7eebc4b61914415881a413d0f0549a3e771a50d5549b09545b96636179ec44",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Otro internet es posible más allá de los ‘influencers’",
-      "lead_fa": "El ‘scroll’ infinito ha frito cortezas prefrontales, pero el público veinteañero anhela poner el cerebro a trabajar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "34d6ee6b3c27",
       "source": "EL PAÍS Economía",
       "title": "La marea de los pequeños inversores llega a los robots humanoides y catapulta a Unitree Robotics",
@@ -2378,7 +2361,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4cc0fd10961.r_d.884-730-0.jpeg",
       "published_at": "2026-08-19T12:38:12+02:00",
       "category": "sociedad",
-      "priority": 60,
+      "priority": 59,
       "title_fa": "Next Maritime gana el premio Pyme del Año Tarragona 2026",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2400,7 +2383,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/08/10/64d4ebc23fe72.r_d.1044-797-0.jpeg",
       "published_at": "2026-08-19T12:37:08+02:00",
       "category": "sociedad",
-      "priority": 60,
+      "priority": 59,
       "title_fa": "La sandía conquista el verano como la fruta con mejor sabor, según los catalanes",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2422,7 +2405,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8584fc5dd07.r_d.800-450-0.jpeg",
       "published_at": "2026-08-19T12:35:32+02:00",
       "category": "sociedad",
-      "priority": 60,
+      "priority": 59,
       "title_fa": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
       "lead_fa": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
       "key_points_fa": [],
@@ -2478,6 +2461,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
+      "category": "sociedad",
+      "priority": 51,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2509,7 +2514,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 152
+      "count": 153
     },
     {
       "source": "EL PAÍS España",
@@ -2524,7 +2529,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 138
+      "count": 139
     }
   ]
 }
