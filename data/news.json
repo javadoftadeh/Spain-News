@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-08-20T13:08:39.085045+00:00",
+  "generated_at": "2026-08-20T13:57:15.372194+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "2ea33a4eb745",
     "80746bb4daf0",
     "1130d9243135",
     "482a86eae16b",
-    "f89f57fb0b79",
-    "a2ab5d77eb9e"
+    "f89f57fb0b79"
   ],
   "items": [
+    {
+      "id": "2ea33a4eb745",
+      "source": "La Vanguardia",
+      "title": "Segunda ola de la crisis de la gasolina en Rusia: largas colas y restricciones en Moscú",
+      "summary": "Rusia, tradicionalmente exportador de petróleo y productos derivados, ha empezado a importar combustible ante la escasez provocada por los ataques ucranianos",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11617125/largas-colas-y-restricciones-de-suministro-en-moscu-en-la-segunda-ola-de-la-crisis-de-la-gasolina.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e828bc341.r_d.2715-1665-0.jpeg",
+      "published_at": "2026-08-20T13:47:42+02:00",
+      "category": "economia",
+      "priority": 84,
+      "title_fa": "بحران سوخت در روسیه؛ آغاز واردات بنزین به دلیل حملات پهپادی",
+      "lead_fa": "روسیه، صادرکننده سنتی نفت، به دلیل کمبود سوخت ناشی از حملات اوکراین به واردات بنزین روی آورده است. این وضعیت موجب شکل‌گیری صف‌های طولانی و اعمال محدودیت‌ها در مسکو شده است.",
+      "key_points_fa": [
+        "آغاز واردات سوخت توسط روسیه به دلیل کمبود داخلی",
+        "تأثیر حملات اوکراین بر زیرساخت‌های انرژی روسیه",
+        "ایجاد صف‌های طولانی و اعمال محدودیت‌های توزیع در مسکو"
+      ],
+      "analysis_fa": "حملات اوکراین به تأسیسات پالایش نفت روسیه، زنجیره تأمین سوخت این کشور را با اختلال مواجه کرده است. تبدیل شدن روسیه از صادرکننده به واردکننده فرآورده‌های نفتی نشان‌دهنده آسیب‌پذیری بخش انرژی این کشور در برابر مناقشات نظامی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#روسیه",
+        "#بحران_سوخت",
+        "#مسکو",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "80746bb4daf0",
       "source": "EL PAÍS Economía",
@@ -67,11 +96,11 @@
     {
       "id": "482a86eae16b",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Bruselas espera que “todos los migrantes ilegales” sean devueltos a Marruecos",
-      "summary": "El Gobierno desaloja la playa de El Trampolín, reubica a 1.800 personas en dos espacios y prevé abrir más | El Gobierno critica que “la única propuesta” del PP de devolver a todos los migrantes sea una “ilegalidad”",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas, tras el desalojo del Trampolín: “Trasladar a los migrantes no es arreglar el problema”",
+      "summary": "El Gobierno desaloja la playa, reubica a 1.800 personas en dos espacios y prevé abrir más | Bruselas espera que “todos los migrantes ilegales” sean devueltos",
       "url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/VFJLJPY5YZAT7MZ44RARZT66B4.JPG?auth=223321fdcaa7aba94202b29064dd63ddfeb4a6b43028d4ce2e09f147cb40f4de",
-      "published_at": "2026-08-20T13:05:36+00:00",
+      "published_at": "2026-08-20T13:24:16+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "آغاز تخلیه مهاجران از ساحل سبته و سفر رئیس اندلس به این شهر",
@@ -207,33 +236,6 @@
       "editorial_version": 2
     },
     {
-      "id": "23b658778da1",
-      "source": "EL PAÍS",
-      "title": "Ceuta como termómetro de la izquierda",
-      "summary": "La crisis ceutí deja entrever puntos flacos en el discurso progresista y quizás augura el agotamiento de su ciclo político",
-      "url": "https://elpais.com/opinion/2026-08-20/ceuta-como-termometro-de-la-izquierda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/X6WB2DG23JCJVAXGBARUJ5CHLU.jpg?auth=53acf4987347190eeffc09cdeb1bdf22eeb065424ad5fa0ab68eabae2032b395",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "بحران سبته و آزمونی برای گفتمان چپ در اسپانیا",
-      "lead_fa": "بحران اخیر در شهر سبته نقاط ضعف گفتمان مترقی را نمایان کرده است. این تحولات شاید نشانه‌ای از پایان یک چرخه سیاسی باشد.",
-      "key_points_fa": [
-        "بحران سبته چالش‌هایی را برای جریان‌های سیاسی چپ ایجاد کرده است.",
-        "تحلیلگران این رویداد را نشانه‌ای از فرسایش احتمالی چرخه سیاسی فعلی می‌دانند."
-      ],
-      "analysis_fa": "بررسی واکنش‌ها به بحران سبته نشان می‌دهد که احزاب سیاسی مترقی در مواجهه با چالش‌های مرزی و امنیتی با دشواری‌های گفتمانی روبه‌رو هستند. این وضعیت می‌تواند بر توازن قدرت سیاسی در کشور تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#اسپانیا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "991c2cc25a80",
       "source": "EL PAÍS",
       "title": "La estética del bronceado: origen, bulos y recomendaciones de una práctica que no siempre estuvo de moda",
@@ -312,6 +314,62 @@
         "#اسپانیا",
         "#مهاجران",
         "#سبته"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "851c191ac5f0",
+      "source": "La Vanguardia",
+      "title": "Bruselas avala que ACS, Telefónica, Santander y Gobierno opten a la gigafactoría",
+      "summary": "España quiere participar en una de las principales infraestructuras europeas con un proyecto en Móra la Nova",
+      "url": "https://www.lavanguardia.com/economia/20260820/11617160/bruselas-avala-operacion-acs-telefonica-santander-gobierno-optar-gigafactoria.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86f444b070f.jpeg",
+      "published_at": "2026-08-20T14:38:36+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "چراغ سبز بروکسل به حضور شرکت‌های بزرگ اسپانیایی در پروژه گیگافکتوری",
+      "lead_fa": "کمیسیون اروپا با حضور شرکت‌های بزرگ اسپانیایی و دولت در طرح کلان گیگافکتوری موافقت کرد. این پروژه قرار است در منطقه مورا لا نووا اجرا شود.",
+      "key_points_fa": [
+        "موافقت بروکسل با مشارکت شرکت‌هایی مانند ای‌سی‌اس، تلفونیکا و سانتاندر",
+        "هدف اسپانیا پیوستن به زیرساخت‌های کلیدی صنعتی اروپا",
+        "مکان در نظر گرفته شده برای اجرای پروژه در مورا لا نووا است"
+      ],
+      "analysis_fa": "این تصمیم گامی در جهت تقویت زیرساخت‌های صنعتی و فناوری اسپانیا با حمایت نهادهای اروپایی محسوب می‌شود و توان رقابتی این کشور را در بخش انرژی و فناوری افزایش می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#بروکسل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "62133c6c84ca",
+      "source": "La Vanguardia",
+      "title": "El veto internacional a Lawrence de Arabia: “No sobrepase los logros normales si aprecia su integridad”",
+      "summary": "Su papel en la Revuelta Árabe contra el Imperio Otomano llevó a que, en la década de 1930, Francia, Alemania, Rusia, Persia, Turquía, India y Egipto le negasen el visado",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260820/11617105/veto-internacional-lawrence-arabia-sobrepase-logros-normales-aprecia-integridad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e09253441.r_d.357-302-0.jpeg",
+      "published_at": "2026-08-20T13:52:39+02:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "وتوی بین‌المللی لورنس عربستان: عدم صدور روادید توسط چندین کشور",
+      "lead_fa": "نقش لورنس عربستان در شورش عربی علیه امپراتوری عثمانی پیامدهایی به دنبال داشت. در دهه ۱۹۳۰ میلادی، چند کشور به او روادید ورود ندادند.",
+      "key_points_fa": [
+        "فرانسه، آلمان، روسیه، ایران، ترکیه، هند و مصر از صدور روادید برای لورنس عربستان خودداری کردند.",
+        "این تصمیمات در دهه ۱۹۳۰ و به دلیل نقش او در شورش عربی اتخاذ شد.",
+        "مقامات این کشورها محدودیت‌هایی را برای سفر او اعمال کردند."
+      ],
+      "analysis_fa": "این رویداد تاریخی نشان‌دهنده حساسیت‌های سیاسی پیرامون نقش چهره‌های اطلاعاتی و نظامی در تحولات خاورمیانه است که بازتاب آن در روابط دیپلماتیک آن دوران دیده می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#لورنس_عربستان",
+        "#تاریخ",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -651,34 +709,6 @@
         "#اسپانیا",
         "#اقتصاد",
         "#بازار_کار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a818d949c4ec",
-      "source": "La Vanguardia",
-      "title": "La pugna de las grandes marcas por el turista más adinerado dispara el m2 del paseo de Gràcia",
-      "summary": "El eje más señorial de Barcelona consolida de este modo su particular sorpasso al Portal de l’Àngel",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260819/11616727/pugna-grandes-marcas-turista-mas-adinerado-dispara-m2-paseo-gracia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85e67d4bb4a.jpeg",
-      "published_at": "2026-08-19T19:29:37+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "رقابت برندهای لوکس، قیمت اجاره در پاسئو د گراسیا بارسلونا را جهش داد",
-      "lead_fa": "خیابان لوکس پاسئو د گراسیا در بارسلونا از دیگر معابر تجاری پیشی گرفت. رقابت برندهای بزرگ برای جذب گردشگران ثروتمند عامل اصلی این افزایش قیمت است.",
-      "key_points_fa": [
-        "تثبیت جایگاه پاسئو د گراسیا به عنوان گران‌ترین معبر تجاری بارسلونا",
-        "رقابت فشرده برندهای برتر جهانی برای حضور در این منطقه",
-        "تمرکز بر جذب گردشگران با توان مالی بالا"
-      ],
-      "analysis_fa": "این روند نشان‌دهنده تغییر تمرکز در بازار خرده‌فروشی بارسلونا به سمت اقتصاد لوکس و گردشگری تجاری است که می‌تواند پویایی اقتصادی مرکز شهر را دگرگون کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اقتصاد_اسپانیا",
-        "#گردشگری"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1056,28 +1086,6 @@
       "editorial_version": 2
     },
     {
-      "id": "170c6f1fd3dc",
-      "source": "EL PAÍS",
-      "title": "La utilidad de Óscar Puente",
-      "summary": "Los exabruptos del ministro solo despiertan una duda: si son una maniobra de distracción o el camino que deben seguir los demás",
-      "url": "https://elpais.com/opinion/2026-08-20/la-utilidad-de-oscar-puente.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MIGMQMATCNC3PKRAWPVECTLT3U.jpg?auth=671fb7bf4379c66940ef54c20b80e22fa10a4e4fb0bb2c5a9c3a656bee646bb5",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "La utilidad de Óscar Puente",
-      "lead_fa": "Los exabruptos del ministro solo despiertan una duda: si son una maniobra de distracción o el camino que deben seguir los demás",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "517c176038f7",
       "source": "EL PAÍS",
       "title": "Tragedia y renacer de las vajillas de La Cartuja: “Es la primera vez que oía a un empresario decir que quería ampliar la plantilla”",
@@ -1210,6 +1218,50 @@
       "editorial_version": 2
     },
     {
+      "id": "745d12514e4d",
+      "source": "La Vanguardia",
+      "title": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
+      "summary": "Arturo Béjar, que trabajó cerca de ocho años en la compañía, testifica que el presidente y fundador de la plataforma mintió para encubrir los daños a menores",
+      "url": "https://www.lavanguardia.com/vida/20260820/11617177/ex-ingeniero-meta-testifica-zuckerberg-mintio-encubrir-danos-menores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86fdb0f2226.jpeg",
+      "published_at": "2026-08-20T15:25:32+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
+      "lead_fa": "Arturo Béjar, que trabajó cerca de ocho años en la compañía, testifica que el presidente y fundador de la plataforma mintió para encubrir los daños a menores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e315c621a356",
+      "source": "La Vanguardia",
+      "title": "Detenido en Lleida un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
+      "summary": "Su historial delictivo cuenta con tentativa de homicidio, robos con violencia y lesiones",
+      "url": "https://www.lavanguardia.com/local/lleida/20260820/11617168/detenido-lleida-peligroso-fugitivo-numerosos-antecedentes-buscado-reino-unido.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/25/6744595782a66.r_d.662-256-0.jpeg",
+      "published_at": "2026-08-20T15:13:21+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Detenido en Lleida un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
+      "lead_fa": "Su historial delictivo cuenta con tentativa de homicidio, robos con violencia y lesiones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "eeb25bb4cba4",
       "source": "La Vanguardia",
       "title": "Las incógnitas del regreso de Harry y Meghan a Inglaterra",
@@ -1254,17 +1306,17 @@
       "editorial_version": 2
     },
     {
-      "id": "62133c6c84ca",
-      "source": "La Vanguardia",
-      "title": "El veto internacional a Lawrence de Arabia: “No sobrepase los logros normales si aprecia su integridad”",
-      "summary": "Su papel en la Revuelta Árabe contra el Imperio Otomano llevó a que, en la década de 1930, Francia, Alemania, Rusia, Persia, Turquía, India y Egipto le negasen la entrada",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260820/11617105/veto-internacional-lawrence-arabia-sobrepase-logros-normales-aprecia-integridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e09253441.r_d.357-302-0.jpeg",
-      "published_at": "2026-08-20T13:52:39+02:00",
+      "id": "f5db2c51be69",
+      "source": "EL PAÍS",
+      "title": "Varios reventones con vientos de cerca de 150 kilómetros provocan daños materiales en la provincia de Valencia",
+      "summary": "En Alzira han volado techos y caído algún muro al paso de la tormenta",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-20/varios-reventones-con-vientos-de-cerca-de-150-kilometros-provocan-danos-materiales-en-la-provincia-de-valencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S44EN7A32BCDDIJGBNELQCHV2M.jpg?auth=f59b68e0e78a220c1c9dd8d182b3e1602548f77914b11676aa2207063a26c6a3",
+      "published_at": "2026-08-20T13:39:39+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El veto internacional a Lawrence de Arabia: “No sobrepase los logros normales si aprecia su integridad”",
-      "lead_fa": "Su papel en la Revuelta Árabe contra el Imperio Otomano llevó a que, en la década de 1930, Francia, Alemania, Rusia, Persia, Turquía, India y Egipto le negasen la entrada",
+      "title_fa": "Varios reventones con vientos de cerca de 150 kilómetros provocan daños materiales en la provincia de Valencia",
+      "lead_fa": "En Alzira han volado techos y caído algún muro al paso de la tormenta",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1276,17 +1328,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d5dfb2a1a60b",
-      "source": "La Vanguardia",
-      "title": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
-      "summary": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260820/11617061/catalunya-prepara-cambio-avisos-intensidad-lluvias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/28/68b0777035f8f.jpeg",
-      "published_at": "2026-08-20T12:46:23+02:00",
+      "id": "96e9c6a006a8",
+      "source": "EL PAÍS",
+      "title": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
+      "summary": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/la-fiscalia-investiga-a-los-concejales-que-retrasaron-la-anulacion-de-la-licencia-del-algarrobico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/B4I3FUXEY5DGZAXDDCDH556MQA.jpg?auth=8755c146a9802750a371e442341fefbaeebe75090567e817b363612c5a832842",
+      "published_at": "2026-08-20T13:31:39+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
-      "lead_fa": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
+      "title_fa": "La Fiscalía investiga a los concejales que retrasaron la anulación de la licencia del Algarrobico",
+      "lead_fa": "El ministerio fiscal, que ha requerido diversa documentación al Ayuntamiento de Carboneras, responde así a la denuncia interpuesta por la asociación Salvemos Mojácar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1298,17 +1350,17 @@
       "editorial_version": 2
     },
     {
-      "id": "80e475608766",
-      "source": "La Vanguardia",
-      "title": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
-      "summary": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
-      "url": "https://www.lavanguardia.com/politica/20260820/11617073/pp-vox-dejan-fuera-victimas-violencia-genero-alquiler-social-valladolid.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/01/69565fa2301e1.r_d.1998-1030-0.jpeg",
-      "published_at": "2026-08-20T12:44:23+02:00",
+      "id": "7ffdc7669c5e",
+      "source": "EL PAÍS",
+      "title": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes irregulares",
+      "summary": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
+      "url": "https://elpais.com/espana/2026-08-20/bruselas-recalca-el-deber-de-espana-de-proteger-a-menores-vulnerables-en-ceuta-pese-a-reclamar-el-retorno-de-los-migrantes-irregulares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/S7TQ7GYPEZFHFMO55W26J6J7LU.jpeg?auth=aad354adfca6c47e95aa2d508d580d6b729db484300d5e96f89bf8c565c0b30c",
+      "published_at": "2026-08-20T13:14:10+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
-      "lead_fa": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
+      "title_fa": "Bruselas recalca el “deber” de España de proteger a menores vulnerables en Ceuta pese a reclamar el retorno de los migrantes irregulares",
+      "lead_fa": "La Comisión, que aún no ha sido informada formalmente de los planes de reubicar a unas 500 niñas en la Península, subraya la “clara expectativa” de que todos los que entraron ilegalmente sean devueltos a Marruecos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1372,15 +1424,15 @@
     {
       "id": "1b5b3f39b7b1",
       "source": "EL PAÍS",
-      "title": "Leire Díez carga contra la UCO y Pedraz para evitar que se fusionen en la Audiencia Nacional las dos causas que la investigan",
-      "summary": "La exmilitante del PSOE insiste en dos nuevos recursos que las ambas investigaciones son por “hechos idénticos”",
+      "title": "Leire Díez carga contra la UCO y Pedraz para evitar que se unan en la Audiencia Nacional sus dos causas",
+      "summary": "La exmilitante del PSOE insiste en acusar a la Guardia Civil y al magistrado de investigarla en secreto por “hechos idénticos” a los del juez Zamarriego",
       "url": "https://elpais.com/espana/2026-08-20/leire-diez-ataca-a-la-uco-y-al-juez-pedraz-para-evitar-que-este-aglutine-las-investigaciones-sobre-ella.html",
       "image": "https://imagenes.elpais.com/resizer/v2/APK4TRBBSRBDXDTOEWEZUKVWZM.jpg?auth=3184287327428d73d329be1a453baad05b66023fbce063cb87b0a336d176063c",
       "published_at": "2026-08-20T11:15:51+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Leire Díez carga contra la UCO y Pedraz para evitar que se fusionen en la Audiencia Nacional las dos causas que la investigan",
-      "lead_fa": "La exmilitante del PSOE insiste en dos nuevos recursos que las ambas investigaciones son por “hechos idénticos”",
+      "title_fa": "Leire Díez carga contra la UCO y Pedraz para evitar que se unan en la Audiencia Nacional sus dos causas",
+      "lead_fa": "La exmilitante del PSOE insiste en acusar a la Guardia Civil y al magistrado de investigarla en secreto por “hechos idénticos” a los del juez Zamarriego",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1389,89 +1441,12 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ed65c9824d7e",
-      "source": "EL PAÍS",
-      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "summary": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
-      "published_at": "2026-08-20T10:51:56+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4ee1e0a52410",
-      "source": "La Vanguardia",
-      "title": "Esperando el tren de danas",
-      "summary": "La prevención del cambio climático debería ser una prioridad, pero los vientos políticos no propician acuerdos",
-      "url": "https://www.lavanguardia.com/opinion/20260820/11616770/esperando-tren-danas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "published_at": "2026-08-20T00:05:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "آمادگی در برابر اثرات تغییرات اقلیمی؛ چالش پیش روی سیاست",
-      "lead_fa": "پیشگیری از تغییرات اقلیمی باید در اولویت قرار گیرد. با این حال، فضای سیاسی کنونی مساعد دستیابی به توافق‌های لازم نیست.",
-      "key_points_fa": [
-        "ضرورت توجه جدی به پیشگیری از پیامدهای تغییرات اقلیمی",
-        "وجود موانع سیاسی در مسیر توافق‌های همه‌جانبه"
-      ],
-      "analysis_fa": "این گزارش به شکاف میان نیازهای مبرم زیست‌محیطی و اراده سیاسی برای مقابله با بحران‌های اقلیمی اشاره دارد. اختلاف‌نظرهای سیاسی اغلب مانع از اجرای برنامه‌های پیشگیرانه بلندمدت می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تغییرات_اقلیمی",
-        "#اسپانیا",
-        "#محیط_زیست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a931ebb39db",
-      "source": "La Vanguardia",
-      "title": "Gamper: De los discursos de Flick y Raphinha a la ovación a Rodri y los abucheos a De Jong",
-      "summary": "El primer equipo pisó el Spotify Camp Nou y la afición disfrutó de los discursos emotivos de Hansi Flick y Raphinha",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260819/11616732/gamper-discursos-flick-raphinha-ovacion-rodri-abucheos-jong.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85e9f0bf817.r_d.1920-1295-0.jpeg",
-      "published_at": "2026-08-19T19:49:23+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "بازگشت بارسلونا به نیوکمپ در جام خوان گمپر",
-      "lead_fa": "تیم اصلی بارسلونا در ورزشگاه اسپاتیفای نوکمپ حضور یافت. هواداران از سخنرانی‌های احساسی هانسی فلیک و رافینیا استقبال کردند.",
-      "key_points_fa": [
-        "حضور تیم اصلی بارسلونا در اسپاتیفای نوکمپ",
-        "سخنرانی احساسی هانسی فلیک برای هواداران",
-        "سخنرانی رافینیا در جریان برگزاری جام خوان گمپر"
-      ],
-      "analysis_fa": "این رویداد سنتی پیش از شروع فصل، فرصتی برای معرفی بازیکنان و کادر فنی به هواداران در خانه جدید یا بازسازی‌شده است و اهمیت نمادین بالایی برای باشگاه دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#فوتبال_اسپانیا",
-        "#نوکمپ"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
       "id": "d06ee23afd3a",
       "source": "La Vanguardia",
-      "title": "¿Quién es Natalie Harp, la “impresora humana” que siempre está junto a Trump?",
+      "title": "¿Quién es Natalie Harp, la joven asesora que siempre está junto a Trump?",
       "summary": "La proximidad entre el presidente y esta mujer de 35 años provoca polémica una vez conocido que fue una de las pocas personas elegidas para ir en el avión de camuflaje en la salida del mandatario de Turquía tras la amenaza iraní",
       "url": "https://www.lavanguardia.com/internacional/20260819/11616723/natalie-harp-asesora-joven-rubia-siempre-esta-trump.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ef32f0d02.jpeg",
@@ -1497,17 +1472,39 @@
       "editorial_version": 2
     },
     {
-      "id": "3468231a1965",
-      "source": "EL PAÍS España",
-      "title": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
-      "summary": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
-      "url": "https://elpais.com/espana/2026-08-19/feijoo-sobre-el-traslado-de-migrantes-ni-mayores-ni-menores-han-de-regresar-todos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
-      "published_at": "2026-08-19T19:09:10+00:00",
-      "category": "politica",
-      "priority": 70,
-      "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
-      "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "id": "d5dfb2a1a60b",
+      "source": "La Vanguardia",
+      "title": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
+      "summary": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260820/11617061/catalunya-prepara-cambio-avisos-intensidad-lluvias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/28/68b0777035f8f.jpeg",
+      "published_at": "2026-08-20T12:46:23+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
+      "lead_fa": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "80e475608766",
+      "source": "La Vanguardia",
+      "title": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
+      "summary": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
+      "url": "https://www.lavanguardia.com/politica/20260820/11617073/pp-vox-dejan-fuera-victimas-violencia-genero-alquiler-social-valladolid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/01/69565fa2301e1.r_d.1998-1030-0.jpeg",
+      "published_at": "2026-08-20T12:44:23+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
+      "lead_fa": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1541,6 +1538,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ed65c9824d7e",
+      "source": "EL PAÍS",
+      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "summary": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
+      "published_at": "2026-08-20T10:51:56+00:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "97c4deed9178",
       "source": "La Vanguardia",
       "title": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
@@ -1552,50 +1571,6 @@
       "priority": 69,
       "title_fa": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
       "lead_fa": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8105a0e34f45",
-      "source": "La Vanguardia",
-      "title": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
-      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
-      "published_at": "2026-08-20T09:52:56+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
-      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a1e5425e465",
-      "source": "La Vanguardia",
-      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
-      "published_at": "2026-08-20T09:42:58+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1651,17 +1626,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9adcc931fade",
-      "source": "EL PAÍS",
-      "title": "Trump proclama “la mayor guerra económica” contra Irán",
-      "summary": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
-      "url": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MZYDTTXFPFACJIGR3JBELU2ILE.jpg?auth=b824024e959a4ba311bea3b4505a08106c9beabee1b1a91f46cd20dfcedaa32b",
-      "published_at": "2026-08-20T07:26:04+00:00",
-      "category": "sociedad",
+      "id": "3468231a1965",
+      "source": "EL PAÍS España",
+      "title": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "summary": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "url": "https://elpais.com/espana/2026-08-19/feijoo-sobre-el-traslado-de-migrantes-ni-mayores-ni-menores-han-de-regresar-todos.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
+      "published_at": "2026-08-19T19:09:10+00:00",
+      "category": "politica",
       "priority": 69,
-      "title_fa": "Trump proclama “la mayor guerra económica” contra Irán",
-      "lead_fa": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
+      "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1673,31 +1648,47 @@
       "editorial_version": 2
     },
     {
-      "id": "2064d1c1113e",
+      "id": "8105a0e34f45",
       "source": "La Vanguardia",
-      "title": "La amistad como compromiso",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/politica/20260819/11616702/amistad-compromiso.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/07/69d55b78ddd39.jpeg",
-      "published_at": "2026-08-19T18:18:52+02:00",
+      "title": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
+      "published_at": "2026-08-20T09:52:56+02:00",
       "category": "sociedad",
-      "priority": 69,
-      "title_fa": "دوستی به مثابه تعهد: نگاهی به ابعاد اجتماعی روابط انسانی در اسپانیا",
-      "lead_fa": "مفهوم دوستی در جامعه امروز اسپانیا فراتر از یک رابطه عاطفی ساده و به عنوان یک تعهد اجتماعی شناخته می‌شود. کارشناسان بر اهمیت حفظ این پیوندها در دنیای مدرن تأکید می‌کنند.",
-      "key_points_fa": [
-        "دوستی‌ها نیازمند مراقبت و تعهد متقابل در طول زمان هستند.",
-        "تغییرات سبک زندگی مدرن بر روابط اجتماعی و دوستی‌ها تأثیر گذاشته است.",
-        "روابط دوستانه پایدار نقش مهمی در سلامت روان افراد دارند."
-      ],
-      "analysis_fa": "بررسی مفهوم دوستی به عنوان یک تعهد نشان‌دهنده تحول در ارزش‌های اجتماعی و فردی است. این موضوع بازتاب‌دهنده نیاز انسان به تعلق‌خاطر در ساختارهای پیچیده شهری و مدرن است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "priority": 68,
+      "title_fa": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#دوستی",
-        "#جامعه_اسپانیا",
-        "#روابط_اجتماعی"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a1e5425e465",
+      "source": "La Vanguardia",
+      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
+      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
+      "published_at": "2026-08-20T09:42:58+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1712,6 +1703,28 @@
       "priority": 68,
       "title_fa": "Harry y Meghan regresan al Reino Unido seis años después de su marcha a California",
       "lead_fa": "Los duques de Sussex ya han matriculado a sus dos hijos en colegios británicos antes de su vuelta a Londres de cara a septiembre",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9adcc931fade",
+      "source": "EL PAÍS",
+      "title": "Trump proclama “la mayor guerra económica” contra Irán",
+      "summary": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
+      "url": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MZYDTTXFPFACJIGR3JBELU2ILE.jpg?auth=b824024e959a4ba311bea3b4505a08106c9beabee1b1a91f46cd20dfcedaa32b",
+      "published_at": "2026-08-20T07:26:04+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Trump proclama “la mayor guerra económica” contra Irán",
+      "lead_fa": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1838,28 +1851,6 @@
       "editorial_version": 2
     },
     {
-      "id": "2e923dc293ce",
-      "source": "La Vanguardia",
-      "title": "Un Mourinho con piel de cordero",
-      "summary": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
-      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260820/11616756/mourinho-piel-cordero.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a784786d58f1.r_d.1941-930-0.jpeg",
-      "published_at": "2026-08-20T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "Un Mourinho con piel de cordero",
-      "lead_fa": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "89d129f8131c",
       "source": "La Vanguardia",
       "title": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
@@ -1871,6 +1862,28 @@
       "priority": 67,
       "title_fa": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
       "lead_fa": "La Policía Local de Málaga ha destruido 91 tubos de sushi",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2e923dc293ce",
+      "source": "La Vanguardia",
+      "title": "Un Mourinho con piel de cordero",
+      "summary": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
+      "url": "https://www.lavanguardia.com/deportes/real-madrid/20260820/11616756/mourinho-piel-cordero.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/09/6a784786d58f1.r_d.1941-930-0.jpeg",
+      "published_at": "2026-08-20T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 67,
+      "title_fa": "Un Mourinho con piel de cordero",
+      "lead_fa": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2025,28 +2038,6 @@
       "priority": 67,
       "title_fa": "La Comunidad de Madrid reconoce por escrito que algunos hospitales públicos no garantizan el derecho al aborto: “No se puede asegurar”",
       "lead_fa": "El Servicio Madrileño de Salud justifica en un contrato pagar a clínicas privadas “entre otros motivos, por el ejercicio del derecho a la objeción de conciencia por parte del personal sanitario”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c8410c4577d5",
-      "source": "EL PAÍS",
-      "title": "“El ébola se extiende a una velocidad más rápida que nuestra capacidad para contenerlo”: el brote está fuera de control en Congo, según la OMS",
-      "summary": "Más de 5.000 personas han contraído la enfermedad y 2.420 han muerto en una epidemia que ya es la más mortífera de su historia y golpea a comunidades desplazadas por la guerra",
-      "url": "https://elpais.com/planeta-futuro/2026-08-20/el-ebola-se-extiende-a-una-velocidad-mas-rapida-que-nuestra-capacidad-para-contenerlo-el-brote-esta-fuera-de-control-en-congo-segun-la-oms.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WCM56SH7TFPUNGD6PIKHCVXNIM.jpg?auth=b01d0a73ed9ae68c159419390ad77efdb1cd5c178bc1dbf5737b37d83b1107e2",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "“El ébola se extiende a una velocidad más rápida que nuestra capacidad para contenerlo”: el brote está fuera de control en Congo, según la OMS",
-      "lead_fa": "Más de 5.000 personas han contraído la enfermedad y 2.420 han muerto en una epidemia que ya es la más mortífera de su historia y golpea a comunidades desplazadas por la guerra",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2242,7 +2233,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8588bc9460f.r_d.358-306-0.jpeg",
       "published_at": "2026-08-19T12:55:07+02:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
       "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
       "key_points_fa": [],
@@ -2264,7 +2255,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4cc0fd10961.r_d.884-730-0.jpeg",
       "published_at": "2026-08-19T12:38:12+02:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Next Maritime gana el premio Pyme del Año Tarragona 2026",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2286,7 +2277,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/08/10/64d4ebc23fe72.r_d.1044-797-0.jpeg",
       "published_at": "2026-08-19T12:37:08+02:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "La sandía conquista el verano como la fruta con mejor sabor, según los catalanes",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2308,7 +2299,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
       "published_at": "2026-08-19T10:56:01+00:00",
       "category": "sociedad",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
       "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
       "key_points_fa": [],
@@ -2445,7 +2436,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 157
+      "count": 156
     },
     {
       "source": "EL PAÍS España",
@@ -2460,7 +2451,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 135
+      "count": 137
     }
   ]
 }
