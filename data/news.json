@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:48:39.086318+00:00",
+  "generated_at": "2026-08-20T03:07:35.006638+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e5b2c5d802b2",
@@ -2070,28 +2070,6 @@
       "editorial_version": 2
     },
     {
-      "id": "eae6c552557b",
-      "source": "EL PAÍS",
-      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
-      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-19T10:56:01+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6c8d5432776f",
       "source": "La Vanguardia",
       "title": "El cambio climático hace habitual el calor extremo del Mediterráneo",
@@ -2101,16 +2079,21 @@
       "published_at": "2026-08-19T12:31:34+02:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "El cambio climático hace habitual el calor extremo del Mediterráneo",
-      "lead_fa": "Un episodio como el de 2026 ha pasado de esperarse una vez cada 2.000 años a repetirse cada cinco",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تغییر اقلیم؛ گرمای شدید مدیترانه به رویدادی عادی تبدیل می‌شود",
+      "lead_fa": "مطالعات جدید نشان می‌دهد که رویدادهای گرمایی شدید در مدیترانه بسیار تکرارپذیر شده‌اند. شرایطی که پیش‌تر بسیار نادر بود، اکنون به‌طور چشمگیری شایع‌تر شده است.",
+      "key_points_fa": [
+        "افزایش شدید دمای هوا در منطقه مدیترانه تحت تأثیر تغییر اقلیم",
+        "تغییر فاصله زمانی وقوع موج‌های گرمایی شدید از هر دو هزار سال یک‌بار به هر پنج سال یک‌بار"
+      ],
+      "analysis_fa": "این داده‌ها نشان‌دهنده شتاب‌گرفتن تغییرات اقلیمی در جنوب اروپا و حوزه مدیترانه است که فشارهای زیست‌محیطی و اقتصادی را بر کشورهای این منطقه افزایش می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#تغییر_اقلیم",
+        "#مدیترانه",
+        "#محیط_زیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2121,18 +2104,24 @@
       "url": "https://www.lavanguardia.com/politica/20260819/11616428/ministerio-infancia-trabaja-acogida-500-ninas-migrantes-sacarlas-calles-ceuta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a8593a6e0b85.jpeg",
       "published_at": "2026-08-19T11:27:34+02:00",
-      "category": "ciencia",
+      "category": "migracion",
       "priority": 65,
-      "title_fa": "El Ministerio de Infancia trabaja en la acogida de 500 niñas migrantes para sacarlas de las calles de Ceuta",
-      "lead_fa": "La fórmula pasaría primero por dar techo a las menores en seis nuevos espacios en la ciudad y , en semanas o meses, reubicarlas en recursos de ONGS en la Península sin necesidad de trasladar la tutela a las CC.AA.",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "طرح وزارت کودکی اسپانیا برای اسکان ۵۰۰ دختر مهاجر در سبته",
+      "lead_fa": "وزارت کودکی اسپانیا طرحی را برای اسکان ۵۰۰ دختر مهاجر در شهر سبته بررسی می‌کند. هدف این طرح خارج کردن این کودکان از خیابان‌ها و انتقال موقت آن‌ها به شبه‌جزیره است.",
+      "key_points_fa": [
+        "ایجاد شش فضای جدید اقامتی در سبته برای اسکان دختران مهاجر.",
+        "برنامه‌ریزی برای انتقال این افراد به مراکز سازمان‌های غیردولتی در شبه‌جزیره طی هفته‌ها یا ماه‌های آینده.",
+        "عدم نیاز به انتقال سرپرستی به جوامع خودمختار در این روند."
+      ],
+      "analysis_fa": "این ابتکار با هدف بهبود شرایط انسانی و ساماندهی مهاجران خردسال در مناطق مرزی اسپانیا دنبال می‌شود. چالش اصلی در این میان، هماهنگی میان نهادهای دولتی و سازمان‌های غیردولتی برای اسکان پایدار این افراد است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مهاجران",
+        "#سبته"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2145,8 +2134,36 @@
       "published_at": "2026-08-19T11:26:27+02:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "La emotiva despedida del Mago Pop a Juan Tamariz tras su fallecimiento",
-      "lead_fa": "Antonio Díaz asegura que el ilusionista fue uno de sus referentes en su infancia y desvela las enseñanzas que adquirió gracias a su trabajo",
+      "title_fa": "وداع احساسی جادوگر پاپ با خوان تاماریز",
+      "lead_fa": "آنتونیو دیاز، معروف به جادوگر پاپ، پس از درگذشت خوان تاماریز پیامی احساسی منتشر کرد. او از تاماریز به عنوان یکی از الگوهای دوران کودکی خود یاد کرد.",
+      "key_points_fa": [
+        "آنتونیو دیاز درگذشت خوان تاماریز را تسلیت گفت.",
+        "او تاماریز را الگوی دوران کودکی خود معرفی کرد.",
+        "دیاز بر اهمیت آموزش‌ها و تأثیر کار تاماریز بر حرفه خود تأکید کرد."
+      ],
+      "analysis_fa": "درگذشت خوان تاماریز، چهره برجسته دنیای شعبده‌بازی، واکنش‌های زیادی را در میان هنرمندان این عرصه به همراه داشته است. ادای احترام چهره‌های سرشناسی مانند آنتونیو دیاز نشان‌دهنده تأثیر عمیق نسل پیشین شعبده‌بازی اسپانیا بر نسل‌های جدید است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#خوان_تاماریز",
+        "#جادوگر_پاپ",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eae6c552557b",
+      "source": "EL PAÍS",
+      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
+      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
+      "published_at": "2026-08-19T10:56:01+00:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2180,28 +2197,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a369b5ac046a",
-      "source": "La Vanguardia",
-      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-19T10:01:28+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
-      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "feca4fa9f23b",
       "source": "EL PAÍS",
       "title": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
@@ -2213,6 +2208,28 @@
       "priority": 65,
       "title_fa": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
       "lead_fa": "Una asociación alicantina pide que se investigue como crimen homófobo. El Ayuntamiento condena la agresión mortal, pero ve “arriesgado” calificarla de esa forma",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a369b5ac046a",
+      "source": "La Vanguardia",
+      "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "summary": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616381/comunidad-valenciana-aviso-rojo-miercoles-calor-asfixiante-maximas-44.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85616a0eb6d.r_d.2067-1378-0.jpeg",
+      "published_at": "2026-08-19T10:01:28+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
+      "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2257,28 +2274,6 @@
       "priority": 63,
       "title_fa": "El forcón: la tradición taurina que une Portugal y España",
       "lead_fa": "La tradición, exclusiva del concejo portugués de Sabugal, reúne cada agosto a miles de personas y se ha convertido en un punto de encuentro para los vecinos y la diáspora emigrada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a5c72d440c60",
-      "source": "La Vanguardia",
-      "title": "Bienvenido, mister “Wei”",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11615756/bienvenido-mister-wei.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/01/68b56ec18b690.jpeg",
-      "published_at": "2026-08-19T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Bienvenido, mister “Wei”",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2631,6 +2626,28 @@
       "priority": 63,
       "title_fa": "Pontegadea Inmobiliaria reduce a un tercio su beneficio por el traspaso de activos a Luxemburgo",
       "lead_fa": "La filial del ‘family office’ de Amancio Ortega concentra ahora las propiedades en España y Portugal y gana 21 millones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a5c72d440c60",
+      "source": "La Vanguardia",
+      "title": "Bienvenido, mister “Wei”",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11615756/bienvenido-mister-wei.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/01/68b56ec18b690.jpeg",
+      "published_at": "2026-08-19T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Bienvenido, mister “Wei”",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
