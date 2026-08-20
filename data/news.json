@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:41:52.267044+00:00",
+  "generated_at": "2026-08-20T18:02:11.183737+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "80746bb4daf0",
@@ -146,35 +146,6 @@
         "#روسیه",
         "#کی‌یف",
         "#جنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a2ab5d77eb9e",
-      "source": "EL PAÍS",
-      "title": "Seúl alerta del lanzamiento de una decena de misiles de corto alcance desde Corea del Norte al mar de Japón",
-      "summary": "Las autoridades niponas habían confirmado previamente haber detectado el lanzamiento de un solo proyectil. Trump confirma que quiere verse este año con el líder norcoreano, Kim Jong-un",
-      "url": "https://elpais.com/internacional/2026-08-20/seul-alerta-del-lanzamiento-de-una-decena-de-misiles-de-corto-alcance-desde-corea-del-norte-al-mar-de-japon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KSF255FLPZHXVCZC26S5BRDENI.jpg?auth=f336403fab579e6ffe6b984ab8161c9526aa27f89baf9e29d2be0d5d3e8d206a",
-      "published_at": "2026-08-20T11:05:56+00:00",
-      "category": "politica",
-      "priority": 77,
-      "title_fa": "پرتاب ده موشک برد کوتاه از کره شمالی به سمت دریای ژاپن",
-      "lead_fa": "مقام‌های سئول از پرتاب حدود ده موشک برد کوتاه توسط کره شمالی خبر دادند. پیش‌تر مقام‌های ژاپنی تنها از شلیک یک پرتابه خبر داده بودند.",
-      "key_points_fa": [
-        "پرتاب حدود ده موشک برد کوتاه از سوی کره شمالی به سمت دریای ژاپن",
-        "تایید اولیه پرتاب تنها یک پرتابه توسط مقام‌های ژاپنی",
-        "تمایل دونالد ترامپ برای دیدار با کیم جونگ اون در سال جاری"
-      ],
-      "analysis_fa": "افزایش فعالیت‌های موشکی کره شمالی نشان‌دهنده تداوم تنش‌ها در شبه‌جزیره کره است. اظهارات مقامات آمریکایی درباره تمایل به دیدار با رهبر کره شمالی نیز ابعاد دیپلماتیک این تحولات را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#کره_شمالی",
-        "#سئول",
-        "#موشک",
-        "#ژاپن"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1119,16 +1090,22 @@
       "published_at": "2026-08-20T03:45:01+00:00",
       "category": "politica",
       "priority": 71,
-      "title_fa": "Los ujieres del Congreso se visten de cine",
-      "lead_fa": "La Cámara Baja tiene un contrato de tres años por casi 900.000 euros con una empresa que confecciona el vestuario de producciones como ‘La sociedad de la Nieve’ o ‘Gladiator II’",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دوخت لباس کارکنان کنگره اسپانیا توسط طراحان فیلم‌های بزرگ",
+      "lead_fa": "مجس نمایندگان اسپانیا قراردادی سه ساله برای تهیه لباس کارکنان خود امضا کرده است. این لباس‌ها توسط شرکت سازنده costumes آثار معروفی مانند گلادیاتور ۲ دوخته می‌شوند.",
+      "key_points_fa": [
+        "ارزش قرارداد نزدیک به ۹۰۰ هزار یورو است.",
+        "مدت زمان اجرای این قرارداد سه سال تعیین شده است.",
+        "این شرکت سابقه همکاری در تولید فیلم‌های بزرگی مانند جامعه برف را دارد."
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده توجه به جزئیات تشریفاتی در نهادهای دولتی اسپانیا و بهره‌گیری از ظرفیت صنایع فرهنگی و هنری این کشور در بخش‌های عمومی است. این قرارداد از طریق روال‌های قانونی و تجاری معمول منعقد شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کنگره_اسپانیا",
+        "#مادرید",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1141,16 +1118,22 @@
       "published_at": "2026-08-20T03:45:01+00:00",
       "category": "politica",
       "priority": 71,
-      "title_fa": "El PSOE presentará de nuevo la rebaja de la tasa de alcoholemia al volante a la vuelta del verano",
-      "lead_fa": "El Grupo Socialista en el Congreso está negociando la propuesta para modificar la ley con el resto de formaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "حزب سوسیالیست اسپانیا طرح کاهش حد مجاز الکل رانندگان را پاییز بررسی می‌کند",
+      "lead_fa": "گروه سوسیالیست در کنگره اسپانیا در حال مذاکره با دیگر احزاب برای اصلاح قانون است. این طرح پس از تعطیلات تابستانی دوباره ارائه خواهد شد.",
+      "key_points_fa": [
+        "مذاکره حزب سوسیالیست با سایر جریان‌های سیاسی در کنگره",
+        "هدف از اصلاح قانون، کاهش میزان مجاز الکل در خون رانندگان است",
+        "ارائه مجدد طرح پس از پایان تعطیلات تابستانی"
+      ],
+      "analysis_fa": "تلاش مجدد برای تغییر قوانین مربوط به مصرف الکل در رانندگی نشان‌دهنده اراده سیاسی حزب حاکم برای افزایش ایمنی جاده‌ای است، اما تصویب آن نیازمند جلب نظر موافق سایر احزاب در پارلمان خواهد بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#قوانین_رانندگی",
+        "#حزب_سوسیالیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1163,16 +1146,22 @@
       "published_at": "2026-08-20T03:40:00+00:00",
       "category": "economia",
       "priority": 71,
-      "title_fa": "Europa descubre el valor económico de ser aburrida",
-      "lead_fa": "En un mundo cada vez más imprevisible, la fiabilidad adquiere valor en el desarrollo de la economía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ارزش اقتصادی ثبات در اروپا",
+      "lead_fa": "در دنیای غیرقابل‌پیش‌بینی امروز، قابلیت اعتماد به مزیتی اقتصادی تبدیل شده است. اروپا در حال کشف ارزش پنهان ثبات و قابل‌اتکا بودن است.",
+      "key_points_fa": [
+        "افزایش اهمیت ثبات در اقتصاد جهانی",
+        "ارزش‌گذاری بازارها بر روی قابلیت اعتماد اروپا",
+        "نقش ثبات در جذب سرمایه‌گذاری"
+      ],
+      "analysis_fa": "این گزارش نشان می‌دهد که در شرایط ناپایدار کنونی جهان، ثبات و پیش‌بینی‌پذیری می‌توانند به عنوان یک مزیت رقابتی برای اقتصادها عمل کنند و سرمایه‌ها را به سمت مناطق امن‌تر هدایت نمایند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد",
+        "#اروپا",
+        "#سرمایه‌گذاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1352,12 +1341,34 @@
       "editorial_version": 2
     },
     {
+      "id": "d772f728b9b6",
+      "source": "La Vanguardia",
+      "title": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
+      "summary": "Después de más de cinco meses de baja, el número dos del mundo regresa en 10 días a la competición",
+      "url": "https://www.lavanguardia.com/deportes/tenis/20260820/11617282/carlos-alcaraz-anuncia-regresa-pistas-us-open-vuelta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a873906eab31.jpeg",
+      "published_at": "2026-08-20T19:29:38+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
+      "lead_fa": "Después de más de cinco meses de baja, el número dos del mundo regresa en 10 días a la competición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "7b76338e2a0a",
       "source": "La Vanguardia",
       "title": "El 'once' de jugadores insignes que siguen sin equipo",
       "summary": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
       "url": "https://www.lavanguardia.com/deportes/20260820/11616102/once-jugadores-insignes-siguen-equipo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/20/6a370c658f3b7.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a87354b01216.jpeg",
       "published_at": "2026-08-20T18:59:43+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1385,6 +1396,28 @@
       "priority": 70,
       "title_fa": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
       "lead_fa": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "845fef4ae20e",
+      "source": "EL PAÍS",
+      "title": "La Sociedad Interamericana de Prensa reconoce a Pilar Gil con el Premio Ejecutiva del 2026",
+      "summary": "La SIP destaca el liderazgo y visión estratégica de la consejera delegada de PRISA Media",
+      "url": "https://elpais.com/comunicacion/2026-08-20/la-sociedad-interamericana-de-prensa-reconoce-a-pilar-gil-con-el-premio-ejecutiva-del-2026.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LLVSKDWYVZBKZBXCM2XWQW3VSU.jpg?auth=73fce7eaacc09fde8174591ee28a65005d85267c45163984954d7551cd97cf0f",
+      "published_at": "2026-08-20T17:41:17+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La Sociedad Interamericana de Prensa reconoce a Pilar Gil con el Premio Ejecutiva del 2026",
+      "lead_fa": "La SIP destaca el liderazgo y visión estratégica de la consejera delegada de PRISA Media",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1849,14 +1882,14 @@
     {
       "id": "8105a0e34f45",
       "source": "La Vanguardia",
-      "title": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "title": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
       "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
       "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
       "published_at": "2026-08-20T09:52:56+02:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
       "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1914,7 +1947,7 @@
     },
     {
       "id": "889bcaa45fab",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
       "summary": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
       "url": "https://elpais.com/economia/2026-08-20/el-santander-cierra-la-compra-de-webster-en-un-tiempo-record-y-exhibe-musculo-en-estados-unidos.html",
@@ -2012,28 +2045,6 @@
       "priority": 66,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b1daa917b615",
-      "source": "La Vanguardia",
-      "title": "Nucleares: ¿Sí o no?",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616432/nucleares.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/30/6839ca63a819a.jpeg",
-      "published_at": "2026-08-20T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Nucleares: ¿Sí o no?",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2210,6 +2221,28 @@
       "priority": 66,
       "title_fa": "Otro internet es posible más allá de los ‘influencers’",
       "lead_fa": "El ‘scroll’ infinito ha frito cortezas prefrontales, pero el público veinteañero anhela poner el cerebro a trabajar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a5ca64d4db3f",
+      "source": "EL PAÍS",
+      "title": "Por una plataforma para los afectados por el pádel",
+      "summary": "El vacío del Madrid de agosto es el escenario perfecto para comprobar hasta dónde llega la adicción por este deporte",
+      "url": "https://elpais.com/opinion/2026-08-20/por-una-plataforma-para-los-afectados-por-el-padel.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EBULUXRV4JMMZHMIR5H4LY6F34.jpg?auth=250345c478f98bd45e2ad53e9589c4999cf9c296a61332ecd379dc17e9974e2e",
+      "published_at": "2026-08-20T03:30:01+00:00",
+      "category": "deportes",
+      "priority": 66,
+      "title_fa": "Por una plataforma para los afectados por el pádel",
+      "lead_fa": "El vacío del Madrid de agosto es el escenario perfecto para comprobar hasta dónde llega la adicción por este deporte",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2439,28 +2472,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "70404d291a7f",
-      "source": "EL PAÍS Economía",
-      "title": "España lidera el encarecimiento de los carburantes en Europa tras la retirada progresiva de ayudas",
-      "summary": "Los expertos también achacan el fenómeno a una fiscalidad más baja, que hace los surtidores sean más reactivos a las cotizaciones internacionales",
-      "url": "https://elpais.com/economia/2026-08-19/espana-lidera-el-encarecimiento-de-los-carburantes-en-europa-tras-la-retirada-progresiva-de-ayudas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YY7MEB7NEFAVDF3L5AGPYSNKIE.jpg?auth=f2712a71a6aa29366e0296c5e0668b0f77c19a6f692e1cae625c06e44f941538",
-      "published_at": "2026-08-19T03:45:01+00:00",
-      "category": "sociedad",
-      "priority": 58,
-      "title_fa": "España lidera el encarecimiento de los carburantes en Europa tras la retirada progresiva de ayudas",
-      "lead_fa": "Los expertos también achacan el fenómeno a una fiscalidad más baja, que hace los surtidores sean más reactivos a las cotizaciones internacionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2492,7 +2503,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 152
+      "count": 151
     },
     {
       "source": "EL PAÍS España",
@@ -2507,7 +2518,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 140
+      "count": 141
     }
   ]
 }
