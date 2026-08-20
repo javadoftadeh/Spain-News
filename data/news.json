@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T10:44:37.115353+00:00",
+  "generated_at": "2026-08-20T11:38:16.577378+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "80746bb4daf0",
     "1130d9243135",
     "d99f976bf663",
-    "24a3b4637afa",
-    "d9298d38cd1f"
+    "482a86eae16b",
+    "f89f57fb0b79"
   ],
   "items": [
     {
@@ -94,59 +94,86 @@
       "editorial_version": 2
     },
     {
-      "id": "24a3b4637afa",
-      "source": "EL PAÍS España",
-      "title": "El PP pide en el Senado la reprobación de otros cinco ministros por la crisis migratoria en Ceuta",
-      "summary": "La portavoz popular presume de haber convertido en “el freno a la deriva autoritaria de Sánchez” la Cámara alta, donde ya han reprobado a ocho ministros",
-      "url": "https://elpais.com/espana/2026-08-19/el-pp-pide-en-el-senado-la-reprobacion-de-otros-cinco-ministros-por-la-crisis-migratoria-en-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205876_112441_video_1800.mp4",
-      "published_at": "2026-08-19T11:44:27+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "درخواست حزب مردمی در سنا برای توبیخ پنج وزیر دیگر",
-      "lead_fa": "حزب مردمی اسپانیا در سنا خواستار توبیخ پنج وزیر دیگر به دلیل بحران مهاجرت در سئوئا شد. این حزب سنا را به سدی در برابر رویکرد دولت تبدیل کرده است.",
+      "id": "482a86eae16b",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes de la playa del Trampolín y prevé habilitar nuevos espacios",
+      "summary": "La policía desaloja el campamento en el arenal y traslada a los migrantes a dos recintos controlados | El Gobierno critica que “la única propuesta” del PP de devolver a todos los migrantes sea una “ilegalidad”",
+      "url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EFTGIL6XR5BH5K5DKTG6T5TTY4.jpeg?auth=da9140defa300d0c7ee92a2a512e8d1c5f02d2213561b51b169efd1325fcabc3",
+      "published_at": "2026-08-20T11:34:52+00:00",
+      "category": "migracion",
+      "priority": 77,
+      "title_fa": "آغاز تخلیه مهاجران از ساحل سبته و سفر رئیس اندلس به این شهر",
+      "lead_fa": "عملیات تخلیه مهاجران از ساحل «ال ترامپولین» در سبته و انتقال آن‌ها به دو مکان تعیین‌شده آغاز شد. در همین حال، خوان مانوئل مورنو، رئیس منطقه اندلس، روز پنجشنبه به سبته سفر می‌کند.",
       "key_points_fa": [
-        "درخواست حزب مردمی برای توبیخ پنج وزیر کابینه",
-        "اشاره به بحران مهاجرت در منطقه سئوئا",
-        "تاکید بر نقش سنا به عنوان مانعی در برابر دولت سانچز"
+        "آغاز انتقال مهاجران از ساحل سبته به فضاهای جدید",
+        "سفر خوان مانوئل مورنو، رئیس دولت خودمختار اندلس، به سبته در روز پنجشنبه"
       ],
-      "analysis_fa": "این اقدام حزب مردمی در سنا نشان دهنده تشدید تنش های سیاسی میان حزب حاکم و اپوزیسیون بر سر مدیریت بحران های مهاجرتی است. استفاده از ابزار توبیخ در سنا اگرچه پیامد حقوقی مستقیم ندارد، اما فشارهای سیاسی را افزایش می دهد.",
+      "analysis_fa": "این اقدام در چارچوب مدیریت جریان‌های مهاجرتی و کنترل وضعیت سواحل در مناطق مرزی اسپانیا انجام می‌شود. حضور مقامات محلی در این منطقه نشان‌دهنده اهمیت هماهنگی بین منطقه‌ای در رسیدگی به مسائل مهاجرت است.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#سنا",
-        "#مهاجرت",
-        "#سیاست"
+        "#سبته",
+        "#مهاجران",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "d9298d38cd1f",
-      "source": "EL PAÍS España",
-      "title": "La Moncloa y Ceuta pactan espacios para encarrilar la crisis humanitaria en medio de una gran tensión política",
-      "summary": "Vivas, siempre moderado, carga contra el Gobierno, que ve al presidente ceutí desbordado por la presión ultraderechista",
-      "url": "https://elpais.com/espana/2026-08-18/la-moncloa-y-ceuta-pactan-espacios-para-encarrilar-la-crisis-humanitaria-en-medio-de-una-gran-tension-politica.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205487_092556_video_1800.mp4",
-      "published_at": "2026-08-18T03:45:01+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "توافق مونکلوا و سبته برای مدیریت بحران بشردوستانه در سایه تنش سیاسی",
-      "lead_fa": "دولت مرکزی اسپانیا و مقام‌های محلی سبته برای ایجاد فضاهایی جهت مدیریت بحران بشردوستانه اخیر به توافق رسیدند. این در حالی است که تنش‌های سیاسی میان دو طرف و فشارهای جناح راست افراطی همچنان ادامه دارد.",
+      "id": "f89f57fb0b79",
+      "source": "EL PAÍS",
+      "title": "Al menos 16 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
+      "summary": "Las explosiones afectan a varios puntos de la ciudad, entre ellos un depósito de municiones, y obligan a cortar el suministro eléctrico en algunas zonas",
+      "url": "https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206102_072849_video_1800.mp4",
+      "published_at": "2026-08-20T11:12:03+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "حمله موشکی روسیه به کی‌یف؛ کشته و مجروح شدن ده‌ها نفر",
+      "lead_fa": "در پی حملات هوایی روسیه به مناطق مختلف کی‌یف، هشت نفر جان خود را از دست دادند و ده‌ها تن دیگر زخمی شدند. این انفجارها چندین نقطه از جمله یک انبار مهمات را هدف قرار داد.",
       "key_points_fa": [
-        "توافق میان مونکلوا و سبته برای کاهش بحران بشردوستانه",
-        "انتقادات شدید رئیس محلی سبته از دولت مرکزی",
-        "متهم شدن رئیس سبته به تحت فشار بودن از سوی راست افراطی"
+        "وقوع انفجارهای متعدد در نقاط مختلف شهر کی‌یف",
+        "کشته شدن ۸ نفر و مجروح شدن ده‌ها غیرنظامی",
+        "هدف قرار گرفتن یک انبار مهمات در جریان حملات"
       ],
-      "analysis_fa": "این توافق نشان‌دهنده تلاش برای یافتن راهکارهای مدیریتی در یکی از مناطق حساس مرزی اسپانیاست، اما تداوم تنش‌های سیاسی و فشارهای جناح‌های مختلف نشان می‌دهد که دستیابی به یک راه‌حل پایدار همچنان باچالش همراه است.",
+      "analysis_fa": "این حملات نشان‌دهنده تداوم تنش‌ها و استراتژی نظامی روسیه در هدف قرار دادن زیرساخت‌ها و انبارهای تسلیحاتی در مناطق شهری اوکراین است. پیامدهای این درگیری‌ها همچنان بر امنیت منطقه‌ای و وضعیت انسانی تأثیر می‌گذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#اوکراین",
+        "#روسیه",
+        "#کی‌یف",
+        "#جنگ"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a2ab5d77eb9e",
+      "source": "EL PAÍS",
+      "title": "Seúl alerta del lanzamiento de una decena de misiles de corto alcance desde Corea del Norte al mar de Japón",
+      "summary": "Las autoridades niponas habían confirmado previamente haber detectado el lanzamiento de un solo proyectil. Trump confirma que quiere verse este año con el líder norcoreano, Kim Jong-un",
+      "url": "https://elpais.com/internacional/2026-08-20/seul-alerta-del-lanzamiento-de-una-decena-de-misiles-de-corto-alcance-desde-corea-del-norte-al-mar-de-japon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KSF255FLPZHXVCZC26S5BRDENI.jpg?auth=f336403fab579e6ffe6b984ab8161c9526aa27f89baf9e29d2be0d5d3e8d206a",
+      "published_at": "2026-08-20T11:05:56+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "پرتاب ده موشک برد کوتاه از کره شمالی به سمت دریای ژاپن",
+      "lead_fa": "مقام‌های سئول از پرتاب حدود ده موشک برد کوتاه توسط کره شمالی خبر دادند. پیش‌تر مقام‌های ژاپنی تنها از شلیک یک پرتابه خبر داده بودند.",
+      "key_points_fa": [
+        "پرتاب حدود ده موشک برد کوتاه از سوی کره شمالی به سمت دریای ژاپن",
+        "تایید اولیه پرتاب تنها یک پرتابه توسط مقام‌های ژاپنی",
+        "تمایل دونالد ترامپ برای دیدار با کیم جونگ اون در سال جاری"
+      ],
+      "analysis_fa": "افزایش فعالیت‌های موشکی کره شمالی نشان‌دهنده تداوم تنش‌ها در شبه‌جزیره کره است. اظهارات مقامات آمریکایی درباره تمایل به دیدار با رهبر کره شمالی نیز ابعاد دیپلماتیک این تحولات را برجسته می‌کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "important",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#بحران_بشردوستانه",
-        "#سیاست_اسپانیا"
+        "#کره_شمالی",
+        "#سئول",
+        "#موشک",
+        "#ژاپن"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -175,117 +202,6 @@
         "#گردشگری",
         "#کنیات",
         "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "482a86eae16b",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes de la playa del Trampolín y prevé habilitar nuevos espacios",
-      "summary": "La policía desalojada la playa de El Trampolín y traslada a los migrantes a dos recintos controlados | El Gobierno critica que “la única propuesta” del PP de devolver a todos los migrantes sea una “ilegalidad”",
-      "url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EFTGIL6XR5BH5K5DKTG6T5TTY4.jpeg?auth=da9140defa300d0c7ee92a2a512e8d1c5f02d2213561b51b169efd1325fcabc3",
-      "published_at": "2026-08-20T10:42:28+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "آغاز تخلیه مهاجران از ساحل سبته و سفر رئیس اندلس به این شهر",
-      "lead_fa": "عملیات تخلیه مهاجران از ساحل «ال ترامپولین» در سبته و انتقال آن‌ها به دو مکان تعیین‌شده آغاز شد. در همین حال، خوان مانوئل مورنو، رئیس منطقه اندلس، روز پنجشنبه به سبته سفر می‌کند.",
-      "key_points_fa": [
-        "آغاز انتقال مهاجران از ساحل سبته به فضاهای جدید",
-        "سفر خوان مانوئل مورنو، رئیس دولت خودمختار اندلس، به سبته در روز پنجشنبه"
-      ],
-      "analysis_fa": "این اقدام در چارچوب مدیریت جریان‌های مهاجرتی و کنترل وضعیت سواحل در مناطق مرزی اسپانیا انجام می‌شود. حضور مقامات محلی در این منطقه نشان‌دهنده اهمیت هماهنگی بین منطقه‌ای در رسیدگی به مسائل مهاجرت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجران",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f89f57fb0b79",
-      "source": "EL PAÍS",
-      "title": "Al menos 12 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
-      "summary": "Las explosiones afectan a varios puntos de la ciudad, entre ellos un depósito de municiones, y obligan a cortar el suministro eléctrico en algunas zonas",
-      "url": "https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206102_072849_video_1800.mp4",
-      "published_at": "2026-08-20T07:08:31+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "حمله موشکی روسیه به کی‌یف؛ کشته و مجروح شدن ده‌ها نفر",
-      "lead_fa": "در پی حملات هوایی روسیه به مناطق مختلف کی‌یف، هشت نفر جان خود را از دست دادند و ده‌ها تن دیگر زخمی شدند. این انفجارها چندین نقطه از جمله یک انبار مهمات را هدف قرار داد.",
-      "key_points_fa": [
-        "وقوع انفجارهای متعدد در نقاط مختلف شهر کی‌یف",
-        "کشته شدن ۸ نفر و مجروح شدن ده‌ها غیرنظامی",
-        "هدف قرار گرفتن یک انبار مهمات در جریان حملات"
-      ],
-      "analysis_fa": "این حملات نشان‌دهنده تداوم تنش‌ها و استراتژی نظامی روسیه در هدف قرار دادن زیرساخت‌ها و انبارهای تسلیحاتی در مناطق شهری اوکراین است. پیامدهای این درگیری‌ها همچنان بر امنیت منطقه‌ای و وضعیت انسانی تأثیر می‌گذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "breaking",
-      "hashtags_fa": [
-        "#اوکراین",
-        "#روسیه",
-        "#کی‌یف",
-        "#جنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "892eef6bb80b",
-      "source": "EL PAÍS",
-      "title": "El incendio de Aldea del Fresno continúa estabilizado y su evolución es “positiva”",
-      "summary": "Durante la pasada noche, las 17 dotaciones de Bomberos y Bomberos Forestales han estado trabajando sobre el terreno",
-      "url": "https://elpais.com/espana/madrid/2026-08-20/el-incendio-de-aldea-del-fresno-continua-estabilizado-y-su-evolucion-es-positiva.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E7VR64HNZRFVLEZXEFTSJLEOY4.jpeg?auth=f8aa3910e45bbb994d0eafb2d26aa4885f35d4e507d5c5408dd11b00fb7e4fe5",
-      "published_at": "2026-08-20T07:06:42+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "ادامه روند پایدار و مثبت مهار آتش‌سوزی در آلدا دل فرسنو",
-      "lead_fa": "عملیات مهار آتش‌سوزی در منطقه آلدا دل فرسنو با موفقیت ادامه دارد. وضعیت این حریق به لطف تلاش‌های شبانه پایدار گزارش شده است.",
-      "key_points_fa": [
-        "حضور و فعالیت ۱۷ تیم از آتش‌نشانان و آتش‌نشانان جنگلی در طول شب",
-        "تداوم وضعیت پایدار و ارزیابی مثبت از روند پیشرفت عملیات",
-        "ادامه تلاش‌ها برای مهار کامل آتش در منطقه"
-      ],
-      "analysis_fa": "تلاش‌های شبانه‌روزی نیروهای امدادی و آتش‌نشانی در مناطق جنگلی اسپانیا معمولاً نقش کلیدی در جلوگیری از گسترش حریق در ساعات پایانی دارد. استمرار وضعیت پایدار نشان‌دهنده مهار نسبی بحران است، هرچند پایش شرایط جوی همچنان اهمیت دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آتش‌سوزی",
-        "#اسپانیا",
-        "#اخبار_جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "68e29d1aedd2",
-      "source": "La Vanguardia",
-      "title": "China disputa el liderazgo a Europa en el 40% de sus industrias clave",
-      "summary": "Lagarde alerta de que Pekín rivaliza con nichos europeos de valor añadido",
-      "url": "https://www.lavanguardia.com/economia/20260820/11616736/china-disputa-liderazgo-europa-40-industrias-clave.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85ecaf416f7.r_d.2200-1155-0.jpeg",
-      "published_at": "2026-08-20T06:00:00+02:00",
-      "category": "economia",
-      "priority": 77,
-      "title_fa": "رقابت چین با اروپا در صنایع کلیدی",
-      "lead_fa": "رئیس بانک مرکزی اروپا نسبت به رقابت فزاینده پکن هشدار داد. چین در حال حاضر در چهل درصد از صنایع کلیدی اروپا حضور دارد.",
-      "key_points_fa": [
-        "هشدار کریستین لاگارد درباره رقابت صنعتی چین",
-        "تسلط پکن بر چهلو درصد از بخش‌های کلیدی و با ارزش افزوده اروپا"
-      ],
-      "analysis_fa": "این رقابت نشان‌دهنده تغییر توازن قدرت صنعتی در سطح جهانی است و می‌تواند فشارهای بیشتری بر اقتصاد اتحادیه اروپا وارد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#چین",
-        "#اروپا",
-        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -375,33 +291,6 @@
       "editorial_version": 2
     },
     {
-      "id": "28f91a562875",
-      "source": "EL PAÍS",
-      "title": "Dos geólogos explican la sucesión de terremotos de los últimos días: ¿qué sabemos y qué desconocemos?",
-      "summary": "Certezas y dudas sobre la actividad sísmica que asusta a los habitantes de la provincia andaluza",
-      "url": "https://elpais.com/ciencia/2026-08-20/dos-geologos-explican-la-sucesion-de-terremotos-de-los-ultimos-dias-que-sabemos-y-que-desconocemos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "توضیح زمین‌شناسان درباره زمین‌لرزه‌های اخیر در اندلس",
-      "lead_fa": "زمین‌شناسان اسپانیایی ابعاد مختلف فعالیت‌های لرزه‌ای اخیر در استان اندلس را بررسی کردند. این سلسله زلزله‌ها باعث نگرانی ساکنان منطقه شده است.",
-      "key_points_fa": [
-        "بررسی قطعیات و تردیدها درباره فعالیت‌های لرزه‌ای در اندلس",
-        "پاسخ متخصصان به پرسش‌های ساکنان محلی درباره زمین‌لرزه‌ها"
-      ],
-      "analysis_fa": "افزایش فعالیت‌های لرزه‌ای در برخی مناطق اسپانیا معمولاً نگرانی‌هایی را درباره گسل‌های فعال به همراه دارد و کارشناسان تلاش می‌کنند با داده‌های علمی به ابهامات پاسخ دهند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#زمین_لرزه",
-        "#اسپانیا",
-        "#اندلس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "991c2cc25a80",
       "source": "EL PAÍS",
       "title": "La estética del bronceado: origen, bulos y recomendaciones de una práctica que no siempre estuvo de moda",
@@ -423,34 +312,6 @@
       "hashtags_fa": [
         "#پوست",
         "#سلامتی",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "116406da5239",
-      "source": "EL PAÍS España",
-      "title": "Seis terremotos marcan la noche en Granada tras el seísmo de magnitud 4,8 del martes",
-      "summary": "Los centros de salud y hospitales recuperan su funcionamiento habitual",
-      "url": "https://elpais.com/espana/2026-08-19/seis-terremotos-marcan-la-noche-en-granada-cinco-de-ellos-sentidos-por-los-vecinos.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-19T07:50:25+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "لرزش‌های پی‌درپی در گرانادا پس از زلزله ۴.۸ ریشتری",
-      "lead_fa": "شش زمین‌لرزه شب گذشته منطقه گرانادا را لرزاند. مراکز درمانی و بیمارستان‌ها به فعالیت عادی خود بازگشته‌اند.",
-      "key_points_fa": [
-        "ثبت شش زمین‌لرزه در طول شب در گرانادا",
-        "وقوع زلزله اصلی با بزرگی ۴.۸ ریشتر در روز سه‌شنبه",
-        "بازگشت مراکز بهداشتی و بیمارستان‌ها به روند عادی کار"
-      ],
-      "analysis_fa": "پس‌لرزه‌های پیاپی پس از زلزله اصلی واکنشی طبیعی در زمین‌ساخت منطقه است که معمولاً با تخلیه انرژی باقی‌مانده رخ می‌دهد. مدیریت بحران و بازگشت سریع مراکز درمانی به حالت عادی نشان‌دهنده آمادگی زیرساختی در برابر این حوادث است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#زلزله",
-        "#گرانادا",
         "#اسپانیا"
       ],
       "ai_translated": true,
@@ -485,12 +346,40 @@
       "editorial_version": 2
     },
     {
+      "id": "e5b2c5d802b2",
+      "source": "EL PAÍS España",
+      "title": "El Gobierno trabaja en el traslado urgente de 500 niñas migrantes de Ceuta a la Península",
+      "summary": "La ciudad autónoma acepta el plan del Ejecutivo como “medida extraordinaria” y reclama el retorno de todos los extranjeros que accedieron de forma irregular",
+      "url": "https://elpais.com/espana/2026-08-19/el-gobierno-trabaja-en-el-traslado-urgente-de-500-ninas-migrantes-de-ceuta-a-la-peninsula.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LZSKQAVXYBB4DCHPPZGKWWLZUU.jpg?auth=2a2acb219c9ab9bc55d555cbf08a0ad88685d140bde939f2d738bb445aabbfaa",
+      "published_at": "2026-08-19T16:53:31+00:00",
+      "category": "migracion",
+      "priority": 76,
+      "title_fa": "دولت اسپانیا برای انتقال اضطراری ۵۰۰ دختر مهاجر از سبته تلاش می‌کند",
+      "lead_fa": "دولت مرکزی طرح انتقال اضطراری ۵۰۰ دختر مهاجر از سبته به خاک اصلی اسپانیا را دنبال می‌کند. شهر خودمختار سبته این طرح را به عنوان یک اقدام فوق‌العاده پذیرفته است.",
+      "key_points_fa": [
+        "برنامه‌ریزی برای انتقال ۵۰۰ دختر مهاجر از سبته به شبه‌جزیره",
+        "پذیرش طرح توسط شهر خودمختار سبته به عنوان اقدامی فوق‌العاده",
+        "درخواست مقامات محلی برای بازگرداندن تمامی اتباع خارجی که به صورت غیرقانونی وارد شده‌اند"
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده فشارهای مداوم بر مراکز نگهداری مهاجران در شهرهای مرزی سبته و ملیلیه است. دولت مرکزی و مقامات محلی در تلاش برای مدیریت ازدحام مهاجران و توزیع بار مسئولیت در خاک اصلی اسپانیا هستند، در حالی که مطالبات برای کنترل بیشتر مرزها همچنان پابرجاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجران",
+        "#سبته"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "f46cdf8e408b",
       "source": "La Vanguardia",
-      "title": "Andratx corona el lujo inmobiliario en España: comprar una vivienda cuesta 15 millones",
+      "title": "Las diez calles más caras de España para comprar una vivienda",
       "summary": "Baleares, Madrid y Málaga concentran las diez calles más caras de España para comprar casa según el portal Idealista; la avenida del Tibidabo lidera Catalunya con 5,98 millones",
       "url": "https://www.lavanguardia.com/economia/20260820/11617011/andratx-corona-lujo-inmobiliario-espana-comprar-cuesta-15-millones-vivienda.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/11/29/5fc63f9663442.r_d.621-403-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/11/28/5fc64146e550e.r_d.477-309-0.jpeg",
       "published_at": "2026-08-20T11:30:48+02:00",
       "category": "economia",
       "priority": 75,
@@ -541,12 +430,56 @@
       "editorial_version": 2
     },
     {
+      "id": "5ee31f95cff4",
+      "source": "EL PAÍS",
+      "title": "Una devolución exprés de menores en 2021 como la que plantea ahora el PP acabó con una condena por prevaricación",
+      "summary": "La Audiencia de Cádiz fijó una pena de nueve años de inhabilitación a la entonces delegada del Gobierno en Ceuta y la exvicepresidenta de la ciudad por la repatriación de migrantes marroquíes",
+      "url": "https://elpais.com/espana/2026-08-20/una-devolucion-expres-de-menores-en-2021-como-la-que-plantea-ahora-el-pp-acabo-con-una-condena-por-prevaricacion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/53HSMR7VSRP75OUHYF4UCV5L3Y.jpg?auth=7d73ccf8d932471c31400160b1db75a2de322227f3c2fbbf4487816bbbac37ea",
+      "published_at": "2026-08-20T10:32:28+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Una devolución exprés de menores en 2021 como la que plantea ahora el PP acabó con una condena por prevaricación",
+      "lead_fa": "La Audiencia de Cádiz fijó una pena de nueve años de inhabilitación a la entonces delegada del Gobierno en Ceuta y la exvicepresidenta de la ciudad por la repatriación de migrantes marroquíes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f896d51329da",
+      "source": "EL PAÍS",
+      "title": "El PP culpa a Sánchez de la incomparecencia “contumaz” de los ministros en el Senado sobre Ceuta",
+      "summary": "Los populares registran el recurso en el Supremo en el que exigen que fuerce la presencia del Gobierno antes de que acabe agosto",
+      "url": "https://elpais.com/espana/2026-08-20/el-pp-culpa-a-sanchez-de-la-incomparecencia-contumaz-de-los-ministros-en-el-senado-sobre-ceuta.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206157_111241_video_1800.mp4",
+      "published_at": "2026-08-20T10:29:32+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El PP culpa a Sánchez de la incomparecencia “contumaz” de los ministros en el Senado sobre Ceuta",
+      "lead_fa": "Los populares registran el recurso en el Supremo en el que exigen que fuerce la presencia del Gobierno antes de que acabe agosto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "5326d9663e44",
       "source": "La Vanguardia",
       "title": "El Gobierno tacha de “ilegalidad manifiesta” las deportaciones de menores planteadas por Feijóo",
       "summary": "El Ministerio de Infancia asegura que Vivas conocía el plan para enviar a 500 niñas a la Península, que el presidente ceutí negó",
       "url": "https://www.lavanguardia.com/politica/20260820/11616970/gobierno-tacha-ilegalidad-manifiesta-deportaciones-menores-planteadas-feijoo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85ddefa5a3d.r_d.1603-931-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86daae42362.jpeg",
       "published_at": "2026-08-20T10:03:49+02:00",
       "category": "politica",
       "priority": 75,
@@ -652,6 +585,28 @@
         "#حوادث_طبیعی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8e55e9e9114a",
+      "source": "EL PAÍS España",
+      "title": "Las réplicas no dejan descansar a Granada, que teme más terremotos mientras revisa centenares de edificios dañados",
+      "summary": "La capital y su área metropolitana intentan volver a la normalidad entre calles acordonadas, una multitud de operarios y vecinos que siguen con el susto en el cuerpo",
+      "url": "https://elpais.com/espana/2026-08-20/las-replicas-no-dejan-descansar-a-granada-que-teme-mas-terremotos-mientras-revisa-centenares-de-edificios-danados.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5IIU343MPNFI3JTQXJSRUBXOPE.jpg?auth=a1eb5ef824347c602d9bb1e7bdee787ec7c32a697a5d3465bce69b1146a2f8e7",
+      "published_at": "2026-08-20T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "Las réplicas no dejan descansar a Granada, que teme más terremotos mientras revisa centenares de edificios dañados",
+      "lead_fa": "La capital y su área metropolitana intentan volver a la normalidad entre calles acordonadas, una multitud de operarios y vecinos que siguen con el susto en el cuerpo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -852,63 +807,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e434bb4b9d1d",
-      "source": "EL PAÍS España",
-      "title": "Feijóo carga contra Puente por “señalar a la Corona” y lo tacha de “tabernario”",
-      "summary": "El líder del PP cree que el Gobierno “actúa contra la nación” con un “programa destituyente y de deconstrucción constitucional”",
-      "url": "https://elpais.com/espana/2026-08-18/feijoo-carga-contra-puente-por-senalar-a-la-corona-y-lo-tacha-de-tabernario.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205557_122910_video_1800.mp4",
-      "published_at": "2026-08-18T16:40:56+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "حمله شدید فِیخوو به وزیر اسپانیایی به دلیل انتقاد از سلطنت",
-      "lead_fa": "رهبر حزب مردمی اسپانیا، دولت را به تلاش برای تخریب قانون اساسی متهم کرد. او اظهارات وزیر ترابری درباره نهاد سلطنت را به شدت محکوم نمود.",
-      "key_points_fa": [
-        "آلبرتو نونیز فِیخوو دولت را متهم کرد که علیه ملت اسپانیا اقدام می‌کند.",
-        "او برنامه دولت را «دست‌بردار و قانون‌شکن» توصیف کرد.",
-        "این تنش‌ها پس از انتقاد مقام دولتی از جایگاه تاج و تخت بالا گرفت."
-      ],
-      "analysis_fa": "این تنش سیاسی نشان‌دهنده عمق شکاف میان حزب مردمی (مخالفان) و دولت مرکزی بر سر اصول بنیادین نظام سیاسی اسپانیا از جمله جایگاه نهاد سلطنت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#فیخوو",
-        "#سلطنت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8e76483b2465",
-      "source": "EL PAÍS España",
-      "title": "El PP acusa al Gobierno de cercenar a las fuerzas armadas en la incomparecencia de Robles sobre Ceuta",
-      "summary": "La ministra ha esgrimido que tenía que asistir hoy a las honras fúnebres del cabo fallecido de la UME para no ir al Senado",
-      "url": "https://elpais.com/espana/2026-08-18/el-pp-acusa-al-gobierno-de-cercenar-a-las-fuerzas-armadas-en-la-incomparecencia-de-robles-sobre-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205613_145035_video_1800.mp4",
-      "published_at": "2026-08-18T12:09:34+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "انتقاد حزب مردمی از غیبت وزیر دفاع در سنا درباره سبته",
-      "lead_fa": "حزب مردمی اسپانیا دولت را به تضعیف نیروهای مسلح متهم کرد. این انتقاد پس از آن مطرح شد که وزیر دفاع از حضور در سنا خودداری کرد.",
-      "key_points_fa": [
-        "مارگاریتا روبلز، وزیر دفاع، در جلسه سنا درباره سبته حاضر نشد.",
-        "دلیل غیبت وزیر، حضور در مراسم تدفین یکی از اعضای یگان امداد نظامی اعلام شد.",
-        "حزب مردمی (PP) این غیبت را نشانه بی‌توجهی به نهادهای پارلمانی دانست."
-      ],
-      "analysis_fa": "این رویداد بازتاب‌دهنده تنش‌های سیاسی میان حزب حاکم و اپوزیسون بر سر پاسخگویی نهادی است. در حالی که دولت دلیل موجهی برای غیبت وزیر ارائه کرده، مخالفان تلاش می‌کنند از این موضوع برای زیر سؤال بردن تعهد دولت به نظارت پارلمانی بهره‌برداری کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#ارتش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ded5f7abbfd3",
       "source": "La Vanguardia",
       "title": "La Policía desaloja la playa del Trampolín con el traslado de 1.800 migrantes a centros de acogida",
@@ -934,28 +832,6 @@
         "#پلیس"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "dc9f578408b9",
-      "source": "La Vanguardia",
-      "title": "Ben Gvir anuncia salas de ejecución para palestinos con “cabinas de observación”",
-      "summary": "El ministro israelí está en el punto de mira de las críticas internacionales por sus recientes declaraciones a favor de ejecutar a palestinos de forma diaria y sistemática en Gaza",
-      "url": "https://www.lavanguardia.com/internacional/20260820/11616922/ben-gvir-anuncia-salas-ejecucion-cabinas-observacion-palestinos-condenados-muerte.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a869cc35ded5.jpeg",
-      "published_at": "2026-08-20T07:28:24+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Ben Gvir anuncia salas de ejecución para palestinos con “cabinas de observación”",
-      "lead_fa": "El ministro israelí está en el punto de mira de las críticas internacionales por sus recientes declaraciones a favor de ejecutar a palestinos de forma diaria y sistemática en Gaza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -986,46 +862,17 @@
       "editorial_version": 2
     },
     {
-      "id": "261f62cefdba",
-      "source": "EL PAÍS Economía",
-      "title": "Telefónica pagará 102 millones tras perder el recurso final por su litigio en República Checa",
-      "summary": "El Tribunal Constitucional desestima la petición de la operadora española y valida la indemnización a dos fondos vinculados al inversor Pavel Tykač",
-      "url": "https://cincodias.elpais.com/companias/2026-08-19/telefonica-pagara-102-millones-tras-perder-el-recurso-final-por-su-litigio-en-republica-checa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NMWFCQPFSNBDBO7Z3YBOH4N43I.png?auth=ff90f93f654f9a871fc69420e9992223ca8343bda955c193f922ba3b9e543db5",
-      "published_at": "2026-08-19T12:18:07+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "پرداخت ۱۰۲ میلیون یورو توسط تلخونیکا در جمهوری چک",
-      "lead_fa": "دادگاه قانون اساسی اسپانیا درخواست تجدیدنظر شرکت تلخونیکا را رد کرد. این شرکت باید غرامت هنگفتی به صندوق‌های سرمایه‌گذاری مرتبط با پاول تیکاچ پرداخت کند.",
-      "key_points_fa": [
-        "رد شدن درخواست تجدیدنظر شرکت مخابراتی تلخونیکا در دادگاه قانون اساسی",
-        "تایید نهایی حکم پرداخت غرامت ۱۰۲ میلیون یورویی",
-        "ذی‌نفع بودن دو صندوق سرمایه‌گذاری وابسته به سرمایه‌گذار چک، پاول تیکاچ"
-      ],
-      "analysis_fa": "این تصمیم قضایی پرونده‌ای حقوقی و مالی را به پایان می‌برد که بر سودآوری و وضعیت مالی شرکت تلخونیکا تأثیرگذار است. چنین احکامی اهمیت انطباق با قوانین و چالش‌های حقوقی شرکت‌های بزرگ چندملیتی در بازارهای بین‌المللی را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تلخونیکا",
-        "#اسپانیا",
-        "#اقتصاد",
-        "#جمهوری_چک"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a1c1659278c7",
-      "source": "EL PAÍS",
-      "title": "Feijóo y Vivas abren una nueva guerra por los menores en Ceuta",
-      "summary": "El Gobierno sigue adelante con su plan y sostiene que es ilegal una deportación masiva de niños y adolescentes y recuerda que hubo inhabilitaciones por ello en 2021",
-      "url": "https://elpais.com/espana/2026-08-20/feijoo-y-vivas-abren-una-nueva-guerra-por-los-menores-en-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
-      "published_at": "2026-08-20T03:45:01+00:00",
+      "id": "dc9f578408b9",
+      "source": "La Vanguardia",
+      "title": "Ben Gvir anuncia salas de ejecución con “cabinas de observación” para palestinos condenados a muerte",
+      "summary": "El ministro israelí está en el punto de mira de las críticas internacionales por sus recientes declaraciones a favor de ejecutar a palestinos de forma diaria y sistemática en Gaza",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11616922/ben-gvir-anuncia-salas-ejecucion-cabinas-observacion-palestinos-condenados-muerte.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a869cc35ded5.jpeg",
+      "published_at": "2026-08-20T07:28:24+02:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Feijóo y Vivas abren una nueva guerra por los menores en Ceuta",
-      "lead_fa": "El Gobierno sigue adelante con su plan y sostiene que es ilegal una deportación masiva de niños y adolescentes y recuerda que hubo inhabilitaciones por ello en 2021",
+      "title_fa": "Ben Gvir anuncia salas de ejecución con “cabinas de observación” para palestinos condenados a muerte",
+      "lead_fa": "El ministro israelí está en el punto de mira de las críticas internacionales por sus recientes declaraciones a favor de ejecutar a palestinos de forma diaria y sistemática en Gaza",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1059,8 +906,30 @@
       "editorial_version": 2
     },
     {
+      "id": "a1c1659278c7",
+      "source": "EL PAÍS España",
+      "title": "Feijóo y Vivas abren una nueva guerra por los menores en Ceuta",
+      "summary": "El Gobierno sigue adelante con su plan y sostiene que es ilegal una deportación masiva de niños y adolescentes y recuerda que hubo inhabilitaciones por ello en 2021",
+      "url": "https://elpais.com/espana/2026-08-20/feijoo-y-vivas-abren-una-nueva-guerra-por-los-menores-en-ceuta.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
+      "published_at": "2026-08-20T03:45:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Feijóo y Vivas abren una nueva guerra por los menores en Ceuta",
+      "lead_fa": "El Gobierno sigue adelante con su plan y sostiene que es ilegal una deportación masiva de niños y adolescentes y recuerda que hubo inhabilitaciones por ello en 2021",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ae6e9dcfb71e",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Los ujieres del Congreso se visten de cine",
       "summary": "La Cámara Baja tiene un contrato de tres años por casi 900.000 euros con una empresa que confecciona el vestuario de producciones como ‘La sociedad de la Nieve’ o ‘Gladiator II’",
       "url": "https://elpais.com/espana/2026-08-20/los-ujieres-del-congreso-se-visten-de-cine.html",
@@ -1070,6 +939,28 @@
       "priority": 73,
       "title_fa": "Los ujieres del Congreso se visten de cine",
       "lead_fa": "La Cámara Baja tiene un contrato de tres años por casi 900.000 euros con una empresa que confecciona el vestuario de producciones como ‘La sociedad de la Nieve’ o ‘Gladiator II’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "748af6390e8e",
+      "source": "EL PAÍS España",
+      "title": "El PSOE presentará de nuevo la rebaja de la tasa de alcoholemia al volante a la vuelta del verano",
+      "summary": "El Grupo Socialista en el Congreso está negociando la propuesta para modificar la ley con el resto de formaciones",
+      "url": "https://elpais.com/espana/2026-08-20/el-psoe-presentara-de-nuevo-la-rebaja-de-la-tasa-de-alcoholemia-al-volante-a-la-vuelta-del-verano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/33JHFBGIOVH45CBRFGEM5BOMBM.JPG?auth=360d6034d007e4664c1d46e18b25a03e636bb7e729d85fbc238770051258bf0e",
+      "published_at": "2026-08-20T03:45:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "El PSOE presentará de nuevo la rebaja de la tasa de alcoholemia al volante a la vuelta del verano",
+      "lead_fa": "El Grupo Socialista en el Congreso está negociando la propuesta para modificar la ley con el resto de formaciones",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1287,7 +1178,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GYXWLQYXZJML3B7DSKL7LYHCOQ.jpg?auth=2b7a1b92f122b8816fafeef01e5d19fc83a33fe7591e44f6a537d408b7a6aee6",
       "published_at": "2026-08-20T02:09:24+00:00",
       "category": "economia",
-      "priority": 73,
+      "priority": 72,
       "title_fa": "La deuda de Estados Unidos supera la barrera de los 40 billones en medio de las preocupaciones por el coste de la deuda",
       "lead_fa": "El endeudamiento bruto representa ya el 124% del PIB cuando el bono a 30 años cotiza en máximos en dos décadas",
       "key_points_fa": [],
@@ -1301,17 +1192,17 @@
       "editorial_version": 2
     },
     {
-      "id": "97c4deed9178",
+      "id": "d5dfb2a1a60b",
       "source": "La Vanguardia",
-      "title": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
-      "summary": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
-      "url": "https://www.lavanguardia.com/local/castilla-la-mancha/20260820/11616990/toro-embiste-vehiculo-marcha-encierro-guadalajara-revienta-ventanilla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86ba4c38f07.r_d.458-260-0.jpeg",
-      "published_at": "2026-08-20T10:37:02+02:00",
+      "title": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
+      "summary": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260820/11617061/catalunya-prepara-cambio-avisos-intensidad-lluvias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/28/68b0777035f8f.jpeg",
+      "published_at": "2026-08-20T12:46:23+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
-      "lead_fa": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
+      "title_fa": "Catalunya se prepara para un cambio de tiempo con avisos por intensidad de lluvias",
+      "lead_fa": "El episodio podría generar tormentas localmente intensas y fenómenos violentos en los próximos días",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1323,17 +1214,17 @@
       "editorial_version": 2
     },
     {
-      "id": "8105a0e34f45",
+      "id": "80e475608766",
       "source": "La Vanguardia",
-      "title": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
-      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86c9b53b66f.r_d.1226-780-0.jpeg",
-      "published_at": "2026-08-20T09:52:56+02:00",
+      "title": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
+      "summary": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
+      "url": "https://www.lavanguardia.com/politica/20260820/11617073/pp-vox-dejan-fuera-victimas-violencia-genero-alquiler-social-valladolid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/01/69565fa2301e1.r_d.1998-1030-0.jpeg",
+      "published_at": "2026-08-20T12:44:23+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
-      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "title_fa": "PP y Vox dejan fuera a las víctimas de violencia de género del alquiler social en Valladolid",
+      "lead_fa": "La medida busca extender el criterio reservado a víctimas de violencia machista a todos los que hayan sufrido violencia en el ámbito familiar",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1345,17 +1236,89 @@
       "editorial_version": 2
     },
     {
-      "id": "c86f2b787260",
+      "id": "74414e0f2cc3",
+      "source": "EL PAÍS Economía",
+      "title": "15 millones por una casa: una calle de Andratx, en Mallorca, se convierte en la más cara de España para comprar",
+      "summary": "Baleares, Madrid y Málaga concentran las 10 direcciones más exclusivas del país. La capital suma cuatro enclaves, más que ninguna otra provincia, según Idealista",
+      "url": "https://elpais.com/economia/vivienda/2026-08-20/15-millones-por-una-casa-una-calle-de-andratx-en-mallorca-se-convierte-en-la-mas-cara-de-espana-para-comprar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4E6PIDQMZVFVPOGDTKU2Y6WIZM.jpg?auth=788c09e15cd4291695c14bcd51c35c505d196f11a6700d814e9c8422d639e40c",
+      "published_at": "2026-08-20T11:27:02+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "15 millones por una casa: una calle de Andratx, en Mallorca, se convierte en la más cara de España para comprar",
+      "lead_fa": "Baleares, Madrid y Málaga concentran las 10 direcciones más exclusivas del país. La capital suma cuatro enclaves, más que ninguna otra provincia, según Idealista",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0fac921d163c",
       "source": "EL PAÍS",
-      "title": "Valencia registra la noche más cálida desde que hay datos, con una mínima de 30,9 grados",
-      "summary": "Casi 100 localidades valencianas dieron la pasada medianoche temperaturas por encima de los 35 grados, según Avamet",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-20/valencia-registra-la-noche-mas-calida-desde-que-hay-datos-con-una-minima-de-309-grados.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6J5VHEN4LVD4RPXAMZFNEVSTHM.JPG?auth=1577f79650c463fde8380a6bff7bfa3e2ea2f8d85f2652b1e1b2d48e49782d72",
-      "published_at": "2026-08-20T09:21:50+00:00",
+      "title": "Drones, helicópteros y patrullas por el supuesto avistamiento de un león en Toledo",
+      "summary": "La Guardia Civil despliega una veintena de agentes en la Sierra de San Vicente tras la llamada de un repartidor alertando de la presencia de un posible felino",
+      "url": "https://elpais.com/espana/2026-08-20/drones-helicopteros-y-patrullas-por-el-supuesto-avistamiento-de-un-leon-en-toledo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GCIPQRBA2FFFHPINVSCVZM3OVQ.jpg?auth=14969f2053c388090787b8aa45619645bc0e4612ba663120dd7ad48672e936be",
+      "published_at": "2026-08-20T11:24:45+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Valencia registra la noche más cálida desde que hay datos, con una mínima de 30,9 grados",
-      "lead_fa": "Casi 100 localidades valencianas dieron la pasada medianoche temperaturas por encima de los 35 grados, según Avamet",
+      "title_fa": "جستجوی گارد ملی اسپانیا برای یافتن شیر در تولدو",
+      "lead_fa": "گارد ملی اسپانیا پس از گزارش یک پیک مبنی بر مشاهده احتمالی یک گربه‌سان بزرگ در استان تولدو، عملیات جستجو را آغاز کرد. نیروهای امنیتی با استفاده از پهپاد و بالگرد در حال بررسی منطقه هستند.",
+      "key_points_fa": [
+        "گزارش مشاهده حیوان توسط یک پیک در منطقه سیه‌را د سان ویسنته ارائه شده است.",
+        "گارد ملی اسپانیا حدود بیست مأمور را به محل اعزام کرده است.",
+        "عملیات جستجو با بهره‌گیری از پهپادها و بالگردها در جریان است."
+      ],
+      "analysis_fa": "گزارش‌های مربوط به مشاهده حیوانات عجیب یا خطرناک در مناطق روستایی معمولاً واکنش سریع نهادهای انتظامی را به دنبال دارد تا از خطرات احتمالی برای ساکنان جلوگیری شود. تعیین صحت این گزارش‌ها تا زمان یافتن آثار یا خود حیوان دشوار است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#تولدو",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1b5b3f39b7b1",
+      "source": "EL PAÍS",
+      "title": "Leire Díez ataca a la UCO y al juez Pedraz para evitar que se unan las dos investigaciones sobre ella",
+      "summary": "La exmilitante del PSOE presenta dos recursos para que un juzgado de Madrid continúe con sus pesquisas",
+      "url": "https://elpais.com/espana/2026-08-20/leire-diez-ataca-a-la-uco-y-al-juez-pedraz-para-evitar-que-este-aglutine-las-investigaciones-sobre-ella.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/APK4TRBBSRBDXDTOEWEZUKVWZM.jpg?auth=3184287327428d73d329be1a453baad05b66023fbce063cb87b0a336d176063c",
+      "published_at": "2026-08-20T11:15:51+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Leire Díez ataca a la UCO y al juez Pedraz para evitar que se unan las dos investigaciones sobre ella",
+      "lead_fa": "La exmilitante del PSOE presenta dos recursos para que un juzgado de Madrid continúe con sus pesquisas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ed65c9824d7e",
+      "source": "EL PAÍS",
+      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "summary": "Un temporal atlántico dejará además lluvias copiosas",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
+      "published_at": "2026-08-20T10:51:56+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "lead_fa": "Un temporal atlántico dejará además lluvias copiosas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1438,34 +1401,6 @@
       "editorial_version": 2
     },
     {
-      "id": "96a93288ebe5",
-      "source": "La Vanguardia",
-      "title": "El universo marino de la plaza Rovira, mejor decorado de las fiestas de Gràcia",
-      "summary": "El invernadero de Mozart queda en segunda posición y la calle Llibertat es la que recibe más puntos en la temática conjunta",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260819/11616754/universo-marino-plaza-rovira-mejor-decorado-fiestas-gracia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85f6df55306.r_d.980-586-0.jpeg",
-      "published_at": "2026-08-19T20:40:38+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "پلازا روویرا برنده بهترین تزئینات جشن‌های گراسیا شد",
-      "lead_fa": "دکوراسیون با موضوع دنیای دریایی در پلازا روویرا عنوان بهترین تزئینات جشن‌های گراسیا را به خود اختصاص داد. این رقابت مردمی هر ساله در بارسلونا برگزار می‌شود.",
-      "key_points_fa": [
-        "میدان پلازا روویرا رتبه نخست تزئینات را کسب کرد.",
-        "استانه «اینورنادرو دو موتسارت» در جایگاه دوم ایستاد.",
-        "خیابان ییبرتات بیشترین امتیاز را در بخش موضوعی مشترک به دست آورد."
-      ],
-      "analysis_fa": "جشن‌های گراسیا یکی از مهم‌ترین رویدادهای فرهنگی و اجتماعی بارسلونا است که در آن اهالی محلات با استفاده از مواد بازیافتی و خلاقیت، خیابان‌ها و میادین را تزئین می‌کنند. این جشنواره علاوه بر ایجاد فضای رقابتی، اهمیت مشارکت مدنی و هویت مح محلی را برجسته می‌سازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اسپانیا",
-        "#جشنواره_گراسیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "4a931ebb39db",
       "source": "La Vanguardia",
       "title": "Gamper: De los discursos de Flick y Raphinha a la ovación a Rodri y los abucheos a De Jong",
@@ -1519,6 +1454,72 @@
         "#آمریکا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3468231a1965",
+      "source": "EL PAÍS España",
+      "title": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "summary": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "url": "https://elpais.com/espana/2026-08-19/feijoo-sobre-el-traslado-de-migrantes-ni-mayores-ni-menores-han-de-regresar-todos.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260819/1205984_174313_video_1800.mp4",
+      "published_at": "2026-08-19T19:09:10+00:00",
+      "category": "politica",
+      "priority": 70,
+      "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
+      "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "97c4deed9178",
+      "source": "La Vanguardia",
+      "title": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
+      "summary": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
+      "url": "https://www.lavanguardia.com/local/castilla-la-mancha/20260820/11616990/toro-embiste-vehiculo-marcha-encierro-guadalajara-revienta-ventanilla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86ba4c38f07.r_d.458-260-0.jpeg",
+      "published_at": "2026-08-20T10:37:02+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
+      "lead_fa": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8105a0e34f45",
+      "source": "La Vanguardia",
+      "title": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86c9b53b66f.r_d.1226-780-0.jpeg",
+      "published_at": "2026-08-20T09:52:56+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El magnate del ladrillo que fundó Evergrande, condenado en China a cadena perpetua",
+      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1632,50 +1633,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cf4f9c0d042b",
-      "source": "EL PAÍS",
-      "title": "Detenido tras matar a su tío de una cuchillada en la localidad valenciana de Massanassa",
-      "summary": "El suceso se ha producido de madrugada después de una fuerte discusión entre ambos",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-20/detenido-tras-matar-a-su-tio-de-una-cuchillada-en-la-localidad-valenciana-de-massanassa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HI6PCSUMQ5AKTNLTUDFNN44TRY.jpeg?auth=f3331cf9e0664e1205a6d449c07b8fc498bc5e15a2219936ec2ca98a03b95767",
-      "published_at": "2026-08-20T06:41:26+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Detenido tras matar a su tío de una cuchillada en la localidad valenciana de Massanassa",
-      "lead_fa": "El suceso se ha producido de madrugada después de una fuerte discusión entre ambos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7f424f123429",
-      "source": "EL PAÍS Economía",
-      "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "summary": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "url": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
-      "published_at": "2026-08-20T05:30:00+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "2064d1c1113e",
       "source": "La Vanguardia",
       "title": "La amistad como compromiso",
@@ -1737,28 +1694,6 @@
       "priority": 68,
       "title_fa": "Polvorines",
       "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6e069ed9c87",
-      "source": "La Vanguardia",
-      "title": "Palestina: la resistencia pacífica salva a Taibe",
-      "summary": "Una pequeña comunidad palestina se organiza para que nadie muera por las provocaciones de los colonos israelíes",
-      "url": "https://www.lavanguardia.com/internacional/20260820/11616715/resistencia-pacifica-salva-taibe.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85e6718e4fd.r_d.3707-2176-0.jpeg",
-      "published_at": "2026-08-20T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Palestina: la resistencia pacífica salva a Taibe",
-      "lead_fa": "Una pequeña comunidad palestina se organiza para que nadie muera por las provocaciones de los colonos israelíes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1836,6 +1771,28 @@
       "editorial_version": 2
     },
     {
+      "id": "7f424f123429",
+      "source": "EL PAÍS Economía",
+      "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
+      "summary": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
+      "url": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
+      "published_at": "2026-08-20T05:30:00+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
+      "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3a62dcbcb980",
       "source": "EL PAÍS Economía",
       "title": "Llega el ‘día de la liberación fiscal’: ¿indicador económico fiable o eslogan antiimpuestos?",
@@ -1869,28 +1826,6 @@
       "priority": 68,
       "title_fa": "El doble riesgo del comercio ‘online’ masivo que llega a España",
       "lead_fa": "Los tres euros que Bruselas cobra desde julio a los paquetes de bajo valor son un parche insuficiente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8a743b612c38",
-      "source": "EL PAÍS",
-      "title": "La Comunidad de Madrid reconoce por escrito que algunos hospitales públicos no garantizan el derecho al aborto: “No se puede asegurar”",
-      "summary": "El Servicio Madrileño de Salud justifica en un contrato pagar a clínicas privadas “entre otros motivos, por el ejercicio del derecho a la objeción de conciencia por parte del personal sanitario”",
-      "url": "https://elpais.com/espana/madrid/2026-08-20/la-comunidad-de-madrid-reconoce-por-escrito-que-algunos-hospitales-publicos-no-garantizan-el-derecho-al-aborto-no-se-puede-asegurar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/G5VTYKO2ORGCHB4EVMQB6J4EHY.jpg?auth=e607383c7601f563d28c07fd13b940b12445d79308949bc3f6d55d84b70c532e",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La Comunidad de Madrid reconoce por escrito que algunos hospitales públicos no garantizan el derecho al aborto: “No se puede asegurar”",
-      "lead_fa": "El Servicio Madrileño de Salud justifica en un contrato pagar a clínicas privadas “entre otros motivos, por el ejercicio del derecho a la objeción de conciencia por parte del personal sanitario”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1968,17 +1903,17 @@
       "editorial_version": 2
     },
     {
-      "id": "037057cdcfb6",
+      "id": "8a743b612c38",
       "source": "EL PAÍS",
-      "title": "Los padres y madres son menos alegres, pero se sienten más plenos: así es la paradoja de la paternidad",
-      "summary": "Tener hijos disminuye la satisfacción en el día a día, pero aumenta la percepción de que la vida tiene sentido",
-      "url": "https://elpais.com/sociedad/2026-08-20/los-padres-y-madres-son-menos-alegres-pero-se-sienten-mas-plenos-asi-es-la-paradoja-de-la-paternidad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BISRZFEYJVDGXHXNGGXNTE2QNE.JPG?auth=fdc6bfdd618aaefccaf2e657916a89ac5921ffad1ee98b695ec77d55caa16113",
+      "title": "La Comunidad de Madrid reconoce por escrito que algunos hospitales públicos no garantizan el derecho al aborto: “No se puede asegurar”",
+      "summary": "El Servicio Madrileño de Salud justifica en un contrato pagar a clínicas privadas “entre otros motivos, por el ejercicio del derecho a la objeción de conciencia por parte del personal sanitario”",
+      "url": "https://elpais.com/espana/madrid/2026-08-20/la-comunidad-de-madrid-reconoce-por-escrito-que-algunos-hospitales-publicos-no-garantizan-el-derecho-al-aborto-no-se-puede-asegurar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/G5VTYKO2ORGCHB4EVMQB6J4EHY.jpg?auth=e607383c7601f563d28c07fd13b940b12445d79308949bc3f6d55d84b70c532e",
       "published_at": "2026-08-20T03:30:01+00:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Los padres y madres son menos alegres, pero se sienten más plenos: así es la paradoja de la paternidad",
-      "lead_fa": "Tener hijos disminuye la satisfacción en el día a día, pero aumenta la percepción de que la vida tiene sentido",
+      "title_fa": "La Comunidad de Madrid reconoce por escrito que algunos hospitales públicos no garantizan el derecho al aborto: “No se puede asegurar”",
+      "lead_fa": "El Servicio Madrileño de Salud justifica en un contrato pagar a clínicas privadas “entre otros motivos, por el ejercicio del derecho a la objeción de conciencia por parte del personal sanitario”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2023,6 +1958,28 @@
       "priority": 68,
       "title_fa": "El Real Madrid, 225 millones en fichajes, pero las dudas de siempre",
       "lead_fa": "Los seis jugadores contratados después de dos años de desplome no suponen una revolución en el equipo. La apuesta para resolver los grandes agujeros se llama Mourinho",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "037057cdcfb6",
+      "source": "EL PAÍS",
+      "title": "Los padres y madres son menos alegres, pero se sienten más plenos: así es la paradoja de la paternidad",
+      "summary": "Tener hijos disminuye la satisfacción en el día a día, pero aumenta la percepción de que la vida tiene sentido",
+      "url": "https://elpais.com/sociedad/2026-08-20/los-padres-y-madres-son-menos-alegres-pero-se-sienten-mas-plenos-asi-es-la-paradoja-de-la-paternidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BISRZFEYJVDGXHXNGGXNTE2QNE.JPG?auth=fdc6bfdd618aaefccaf2e657916a89ac5921ffad1ee98b695ec77d55caa16113",
+      "published_at": "2026-08-20T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Los padres y madres son menos alegres, pero se sienten más plenos: así es la paradoja de la paternidad",
+      "lead_fa": "Tener hijos disminuye la satisfacción en el día a día, pero aumenta la percepción de que la vida tiene sentido",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2237,17 +2194,17 @@
       "editorial_version": 2
     },
     {
-      "id": "60203fad5c34",
+      "id": "12b293bbedaf",
       "source": "La Vanguardia",
-      "title": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
-      "summary": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
-      "url": "https://www.lavanguardia.com/politica/20260819/11616482/ayuso-mete-jardin-recomendar-restaurante-conocido-simbologia-franquista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8588bc9460f.r_d.358-306-0.jpeg",
-      "published_at": "2026-08-19T12:55:07+02:00",
+      "title": "La Policía investiga el hallazgo de huesos humanos en el alcantarillado de València",
+      "summary": "Un equipo de mantenimiento de los imbornales halló los restos en una instalación dedicada a canalizar las aguas residuales",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11616612/policia-investiga-hallazgo-huesos-humanos-alcantarillado-valencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/26/68ad8c3f0db6e.jpeg",
+      "published_at": "2026-08-19T15:08:54+02:00",
       "category": "sociedad",
       "priority": 63,
-      "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
-      "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
+      "title_fa": "La Policía investiga el hallazgo de huesos humanos en el alcantarillado de València",
+      "lead_fa": "Un equipo de mantenimiento de los imbornales halló los restos en una instalación dedicada a canalizar las aguas residuales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2259,17 +2216,17 @@
       "editorial_version": 2
     },
     {
-      "id": "eae6c552557b",
-      "source": "EL PAÍS España",
-      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
-      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
-      "published_at": "2026-08-19T10:56:01+00:00",
+      "id": "60203fad5c34",
+      "source": "La Vanguardia",
+      "title": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
+      "summary": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
+      "url": "https://www.lavanguardia.com/politica/20260819/11616482/ayuso-mete-jardin-recomendar-restaurante-conocido-simbologia-franquista.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8588bc9460f.r_d.358-306-0.jpeg",
+      "published_at": "2026-08-19T12:55:07+02:00",
       "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
-      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
+      "priority": 62,
+      "title_fa": "Ayuso se mete en otro jardín al recomendar un restaurante conocido por su simbología franquista",
+      "lead_fa": "La presidenta se graba en El Mirador de Pelayos, un local cuyos dueños exhibieron en Telemadrid como uno de los últimos “templos del franquismo” de la región",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2314,6 +2271,28 @@
       "priority": 62,
       "title_fa": "La sandía conquista el verano como la fruta con mejor sabor, según los catalanes",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "eae6c552557b",
+      "source": "EL PAÍS España",
+      "title": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "summary": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
+      "url": "https://elpais.com/espana/2026-08-19/granada-pasa-la-noche-en-la-calle-por-el-miedo-a-nuevas-replicas-esto-acojona-mucho-no-he-dormido-nada.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4",
+      "published_at": "2026-08-19T10:56:01+00:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Granada pasa la noche en la calle por el miedo a nuevas réplicas: “Esto acojona mucho, no he dormido nada”",
+      "lead_fa": "La capital y su área metropolitana intentan retomar la normalidad mientras una multitud duerme en coches, aceras o jardines públicos como los de Armilla, donde esta mañana aún queda un centenar de personas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2391,39 +2370,17 @@
       "editorial_version": 2
     },
     {
-      "id": "edbce4f3e910",
-      "source": "EL PAÍS España",
-      "title": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos con un nuevo volcado",
-      "summary": "Juan Manuel Serrano, antiguo jefe de Gabinete de Pedro Sánchez en el PSOE, cuestionó la legalidad de la intervención de su teléfono por la UCO en mayo",
-      "url": "https://elpais.com/espana/2026-08-18/el-juez-pedraz-blinda-los-posibles-mensajes-del-caso-leire-en-el-movil-del-expresidente-de-correos-con-un-nuevo-volcado.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CKQZE42WD5NDLKG5AGVCWNDB6I.jpg?auth=1761eba5949f92379db4c22f356862e2141e0eb86b055c1524888c77961c05ea",
-      "published_at": "2026-08-18T15:13:53+00:00",
+      "id": "8bdb30032ece",
+      "source": "EL PAÍS Economía",
+      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
+      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
+      "published_at": "2026-08-18T08:30:00+00:00",
       "category": "sociedad",
-      "priority": 56,
-      "title_fa": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos con un nuevo volcado",
-      "lead_fa": "Juan Manuel Serrano, antiguo jefe de Gabinete de Pedro Sánchez en el PSOE, cuestionó la legalidad de la intervención de su teléfono por la UCO en mayo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "daa11839bdf4",
-      "source": "EL PAÍS España",
-      "title": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
-      "summary": "Se trata de un choque frontal entre un turismo y un camión, cuyo conductor ha sido trasladado al hospital en estado grave",
-      "url": "https://elpais.com/espana/2026-08-17/cuatro-muertos-y-un-herido-grave-en-un-accidente-de-trafico-en-la-n-122-en-zaragoza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WGZZMPSUGRCRRETK6MOCSMO2WQ.jfif?auth=870f8c9d53830e53e68290d5df59a92202d594e14a289f949775bc4f550e95a0",
-      "published_at": "2026-08-17T18:31:08+00:00",
-      "category": "sociedad",
-      "priority": 56,
-      "title_fa": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
-      "lead_fa": "Se trata de un choque frontal entre un turismo y un camión, cuyo conductor ha sido trasladado al hospital en estado grave",
+      "priority": 53,
+      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
+      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2492,7 +2449,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
