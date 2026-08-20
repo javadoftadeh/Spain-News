@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:42:31.861563+00:00",
+  "generated_at": "2026-08-20T21:04:26.353752+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "f976d6b916f2",
@@ -95,7 +95,7 @@
       "id": "fd9379be35e3",
       "source": "La Vanguardia",
       "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "summary": "Hasta el momento no se han registrado daños personales o materiales",
+      "summary": "El temblor se sintió hasta en la capital Lima, a más de 600 kilómetros, pero hasta el momento no se han registrado daños personales o materiales",
       "url": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a87487539914.r_d.412-425-0.jpeg",
       "published_at": "2026-08-20T20:28:52+02:00",
@@ -1134,6 +1134,35 @@
       "editorial_version": 2
     },
     {
+      "id": "3a3c90689495",
+      "source": "La Vanguardia",
+      "title": "La línea 1 de metro estrena vías renovadas entre Santa Eulàlia y Mercat Nou",
+      "summary": "Las obras encaran la recta final para restablecer el servicio entre Florida y Plaça de Sants el próximo sábado 29 de agosto",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260820/11617326/linea-1-metro-barcelona-renovacion-vias-santa-eulalia-mercat-nou.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8751c264928.r_d.2194-1463-0.jpeg",
+      "published_at": "2026-08-20T21:28:17+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "بازگشایی خط ۱ مترو بارسلونا پس از پایان تعمیرات",
+      "lead_fa": "عملیات بازسازی خط ۱ مترو بارسلونا به مراحل پایانی خود نزدیک می‌شود. سرویس‌دهی در این مسیر از روز شنبه ۲۹ اوت از سر گرفته خواهد شد.",
+      "key_points_fa": [
+        "نوسازی ریل‌ها در محدوده میان سانتا اولالیا و مرکات نو",
+        "بازگشت جریان عادی قطارها بین ایستگاه‌های فلوریدا و پلاسا د سانتس",
+        "برنامه زمانی دقیق برای روز شنبه ۲۹ اوت تنظیم شده است"
+      ],
+      "analysis_fa": "این پروژه بخشی از برنامه‌های بهبود زیرساخت‌های حمل‌ونقل شهری است که با هدف افزایش ایمنی و کاهش اختلالات در شبکه مترو انجام می‌شود.",
+      "audience_impact_fa": "برای مسافران و مهاجرانی که از این خط مترو در بارسلونا استفاده می‌کنند، تردد در این مسیر از روز شنبه تسهیل خواهد شد.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مترو",
+        "#بارسلونا",
+        "#اسپانیا",
+        "#حمل_ونقل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "40bbe8dd6ca0",
       "source": "La Vanguardia",
       "title": "El Pentágono retira del Golfo el polémico portaaviones 'Abraham Lincoln'",
@@ -1249,7 +1278,7 @@
       "id": "2eccf41c0833",
       "source": "EL PAÍS",
       "title": "El juicio por la muerte de Maradona, alterado por un error insólito: los peritos analizaron los estudios clínicos del padre",
-      "summary": "La junta médica se basó en esos informes para reconstruir los últimos días del astro argentino",
+      "summary": "La junta médica incorporó informes equivocados en el análisis de la historia clínica del astro argentino",
       "url": "https://elpais.com/argentina/2026-08-20/el-juicio-por-la-muerte-de-maradona-alterado-por-un-error-insolito-los-peritos-analizaron-los-estudios-clinicos-del-padre.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EEBQU257DJFJLCDQ6AMDEKDW6I.jpg?auth=d2362eb6260a5f43e77e1a5f63595e78ae2f561212b5f15fdf96b987496c5ad6",
       "published_at": "2026-08-20T17:49:33+00:00",
@@ -1395,16 +1424,21 @@
       "published_at": "2026-08-20T03:30:01+00:00",
       "category": "economia",
       "priority": 70,
-      "title_fa": "Una advertencia de los mercados",
-      "lead_fa": "La subida de la rentabilidad de los bonos a largo plazo augura dudas sobre la estabilidad de las grandes economías",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "هشدار بازارهای مالی درباره ثبات اقتصادی",
+      "lead_fa": "بازده اوراق قرضه بلندمدت در بازارها افزایش یافته است. این روند نشان‌دهنده تردیدهایی درباره ثبات اقتصادهای بزرگ است.",
+      "key_points_fa": [
+        "افزایش سود اوراق قرضه بلندمدت در بازارهای مالی",
+        "بروز نشانه‌های تردید نسبت به ثبات اقتصادی کلان"
+      ],
+      "analysis_fa": "رشد سود اوراق قرضه بلندمدت معمولاً بازتابی از نگرانی سرمایه‌گذاران نسبت به وضعیت اقتصادی و چشم‌انداز تورم یا سیاست‌های پولی است. این پدیده می‌تواند هزینه‌های تامین مالی دولت‌ها و بنگاه‌های بزرگ را تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد",
+        "#بازارهای_مالی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1417,16 +1451,22 @@
       "published_at": "2026-08-20T03:30:01+00:00",
       "category": "politica",
       "priority": 70,
-      "title_fa": "Ceuta no está en el Senado",
-      "lead_fa": "La comparecencia de los ministros en la Cámara alta es obligatoria, pero ha faltado lealtad institucional de los senadores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "غیبت سبته در سنای اسپانیا",
+      "lead_fa": "حضور وزرا در مجلس سنا الزامی است، اما نمایندگان این مجلس به وظیفه وفاداری نهادی عمل نکردند. این مسئله بحث‌های سیاسی تازه‌ای را درباره روابط نهادی ایجاد کرده است.",
+      "key_points_fa": [
+        "حضور وزرا در سنای اسپانیا الزامی قانونی است.",
+        "انتقاد از عدم رعایت وفاداری نهادی توسط سناتورها.",
+        "این موضوع تنش‌های سیاسی میان نهادهای دولتی را برجسته کرده است."
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده چالش‌های موجود در تعامل میان قوه مجریه و مقننه در اسپانیا است و بحث‌ها درباره مسئولیت‌پذیری نهادی را تشدید می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سنا",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1652,14 +1692,14 @@
     {
       "id": "e315c621a356",
       "source": "La Vanguardia",
-      "title": "Detenido en Lleida un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
+      "title": "Detenido un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
       "summary": "Su historial delictivo cuenta con tentativa de homicidio, robos con violencia y lesiones",
       "url": "https://www.lavanguardia.com/local/lleida/20260820/11617168/detenido-lleida-peligroso-fugitivo-numerosos-antecedentes-buscado-reino-unido.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/25/6744595782a66.r_d.662-256-0.jpeg",
       "published_at": "2026-08-20T15:13:21+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Detenido en Lleida un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
+      "title_fa": "Detenido un “peligroso” fugitivo con numerosos antecedentes buscado por Reino Unido",
       "lead_fa": "Su historial delictivo cuenta con tentativa de homicidio, robos con violencia y lesiones",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -2073,28 +2113,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b1daa917b615",
-      "source": "La Vanguardia",
-      "title": "Nucleares: ¿Sí o no?",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616432/nucleares.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/30/6839ca63a819a.jpeg",
-      "published_at": "2026-08-20T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Nucleares: ¿Sí o no?",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3a62dcbcb980",
       "source": "EL PAÍS Economía",
       "title": "Llega el ‘día de la liberación fiscal’: ¿indicador económico fiable o eslogan antiimpuestos?",
@@ -2359,17 +2377,17 @@
       "editorial_version": 2
     },
     {
-      "id": "3242c62ffff9",
+      "id": "b1daa917b615",
       "source": "La Vanguardia",
-      "title": "Aparecen en la playa de Malgrat otros 30 paquetes de cocaína con estampita",
-      "summary": "El primer hallazgo de droga de la misma remesa fue el 10 de julio en Castellón",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260819/11616668/aparecen-playa-malgrat-otros-30-paquetes-cocaina-estampita.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85c7a8d105c.jpeg",
-      "published_at": "2026-08-19T17:14:04+02:00",
+      "title": "Nucleares: ¿Sí o no?",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616432/nucleares.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/30/6839ca63a819a.jpeg",
+      "published_at": "2026-08-20T05:00:00+02:00",
       "category": "sociedad",
-      "priority": 61,
-      "title_fa": "Aparecen en la playa de Malgrat otros 30 paquetes de cocaína con estampita",
-      "lead_fa": "El primer hallazgo de droga de la misma remesa fue el 10 de julio en Castellón",
+      "priority": 64,
+      "title_fa": "Nucleares: ¿Sí o no?",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
