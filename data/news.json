@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:41:12.269603+00:00",
+  "generated_at": "2026-08-20T20:02:20.809253+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "f976d6b916f2",
@@ -1220,28 +1220,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7b76338e2a0a",
-      "source": "La Vanguardia",
-      "title": "El 'once' de jugadores insignes que siguen sin equipo",
-      "summary": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
-      "url": "https://www.lavanguardia.com/deportes/20260820/11616102/once-jugadores-insignes-siguen-equipo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a87354b01216.jpeg",
-      "published_at": "2026-08-20T18:59:43+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El 'once' de jugadores insignes que siguen sin equipo",
-      "lead_fa": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f5db2c51be69",
       "source": "EL PAÍS",
       "title": "Varios reventones con vientos de cerca de 150 kilómetros provocan daños materiales en la provincia de Valencia",
@@ -1251,16 +1229,22 @@
       "published_at": "2026-08-20T18:10:55+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Varios reventones con vientos de cerca de 150 kilómetros provocan daños materiales en la provincia de Valencia",
-      "lead_fa": "En Alzira (Valencia) vuelan techos y cae un árbol sobre las vías del Cercanías al paso de las tormentas, que también descargan con virulencia en Murcia y Albacete y se dirigen a Baleares",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "طوفان شدید با بادهای ۱۵۰ کیلومتری در والنسیا خسارت به بار آورد",
+      "lead_fa": "وزش بادهای شدید و طوفان در استان والنسیا خسارات مالی فراوانی برجای گذاشت. این سامانه بارشی همچنین مناطق مورسیا و آلباسته را درنوردید و به سمت جزایر بالئاریس حرکت می‌کند.",
+      "key_points_fa": [
+        "کنده‌شدن سقف‌ها و سقوط درخت بر روی خطوط قطار حومه‌ای در آلسیرا",
+        "ثبت سرعت باد نزدیک به ۱۵۰ کیلومتر بر ساعت در منطقه",
+        "حرکت طوفان به سمت مورسیا، آلباسته و جزایر بالئاریس"
       ],
-      "ai_translated": false,
+      "analysis_fa": "وقوع این پدیده‌های جوی شدید نشان‌دهنده افزایش ناپایداری‌های جوی در مناطق شرقی و جنوب شرقی اسپانیا است که زیرساخت‌ها و خدمات شهری را با چالش جدی مواجه کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#طوفان",
+        "#والنسیا",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1273,16 +1257,22 @@
       "published_at": "2026-08-20T17:49:33+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El juicio por la muerte de Maradona, alterado por un error insólito: los peritos analizaron los estudios clínicos del padre",
-      "lead_fa": "La junta médica se basó en esos informes para reconstruir los últimos días del astro argentino",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اشتباه عجیب در دادگاه مرگ مارادونا؛ بررسی پرونده پزشکی پدر",
+      "lead_fa": "روند قضایی بررسی پرونده مرگ دیگو مارادونا به دلیل یک خطای پزشکی دچار اختلال شد. هیئت پزشکی به اشتباه مدارک بالینی پدر او را بررسی کرده بود.",
+      "key_points_fa": [
+        "هیئت پزشکی از گزارش‌های اشتباه برای بازسازی روزهای پایانی زندگی مارادونا استفاده کرده است.",
+        "این اشتباه عجیب در جریان دادگاه و بررسی دقیق پرونده آشکار شد.",
+        "این خطا می‌تواند بر روند تعیین مسئولان مرگ ستاره آرژانتینی تأثیر بگذارد."
+      ],
+      "analysis_fa": "این اشتباه در فرآیند کارشناسی پزشکی قانونی نشان‌دهنده نقص‌های احتمالی در مستندات اولیه پرونده است. با توجه به حساسیت بالای این پرونده حقوقی، این نوع خطاها می‌توانند اعتبار گزارش‌های تخصصی را زیر سؤال ببرند و روند دادرسی را طولانی‌تر کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مارادونا",
+        "#آرژانتین",
+        "#دادگاه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1295,16 +1285,21 @@
       "published_at": "2026-08-20T17:41:17+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "La Sociedad Interamericana de Prensa reconoce a Pilar Gil con el Premio Ejecutiva del 2026",
-      "lead_fa": "La SIP destaca el liderazgo y visión estratégica de la consejera delegada de PRISA Media",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اعطای جایزه اجرایی سال ۲۰۲۶ به پیلار گیل توسط انجمن مطبوعات بین‌امریکایی",
+      "lead_fa": "انجمن مطبوعات بین‌امریکایی جایزه اجرایی سال ۲۰۲۶ خود را به پیلار گیل اهدا کرد. این نهاد رهبری و دیدگاه استراتژیک مدیرعامل پریسا مدیا را برجسته کرد.",
+      "key_points_fa": [
+        "پیلار گیل، مدیرعامل پریسا مدیا، جایزه اجرایی ۲۰۲۶ را دریافت کرد.",
+        "انجمن مطبوعات بین‌امریکایی این تصمیم را بر اساس رهبری و دیدگاه استراتژیک او اتخاذ کرد."
+      ],
+      "analysis_fa": "این تقدیر نشان‌دهنده اهمیت نقش مدیریتی پیلار گیل در یکی از گروه‌های رسانه‌ای بزرگ اسپانیا است و جایگاه رسانه‌ای پریسا مدیا را در سطح بین‌المللی تقویت می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#پیلار_گیل",
+        "#پریسا_مدیا",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1534,6 +1529,28 @@
       "editorial_version": 2
     },
     {
+      "id": "7b76338e2a0a",
+      "source": "La Vanguardia",
+      "title": "El 'once' de jugadores insignes que siguen sin equipo",
+      "summary": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
+      "url": "https://www.lavanguardia.com/deportes/20260820/11616102/once-jugadores-insignes-siguen-equipo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a87354b01216.jpeg",
+      "published_at": "2026-08-20T18:59:43+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El 'once' de jugadores insignes que siguen sin equipo",
+      "lead_fa": "Carvajal, Jadon Sancho, Kessié, o Goretzka son algunos de los jugadores libres de gran nivel que siguen en busca de un nuevo club",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6cf616a11261",
       "source": "La Vanguardia",
       "title": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
@@ -1586,7 +1603,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8706ac8afff.jpeg",
       "published_at": "2026-08-20T15:55:57+02:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Trump declara la “guerra económica” a Irán y amenaza a los países que negocien con el régimen",
       "lead_fa": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
       "key_points_fa": [],
@@ -1732,28 +1749,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c3d4aca1a787",
-      "source": "La Vanguardia",
-      "title": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
-      "summary": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
-      "url": "https://www.lavanguardia.com/sucesos/20260820/11617085/guardia-civil-incauta-246-relojes-falsificados-valorados-mas-1-5-millones-euros-castello-d-empuries.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86daecd61f0.r_d.757-606-0.jpeg",
-      "published_at": "2026-08-20T12:54:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
-      "lead_fa": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "74414e0f2cc3",
       "source": "EL PAÍS",
       "title": "15 millones por una casa: una calle de Andratx, en Mallorca, se convierte en la más cara de España para comprar",
@@ -1798,28 +1793,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ed65c9824d7e",
-      "source": "EL PAÍS",
-      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "summary": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
-      "published_at": "2026-08-20T10:51:56+00:00",
-      "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
-      "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "931ad918dae2",
       "source": "La Vanguardia",
       "title": "Natalie Harp, vestida para liderar: la vuelta de tuerca que necesita el estilo Maga",
@@ -1847,6 +1820,50 @@
       "editorial_version": 2
     },
     {
+      "id": "c3d4aca1a787",
+      "source": "La Vanguardia",
+      "title": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
+      "summary": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
+      "url": "https://www.lavanguardia.com/sucesos/20260820/11617085/guardia-civil-incauta-246-relojes-falsificados-valorados-mas-1-5-millones-euros-castello-d-empuries.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86daecd61f0.r_d.757-606-0.jpeg",
+      "published_at": "2026-08-20T12:54:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Incautados 246 relojes falsificados valorados en más de 1,5 millones en Castelló d'Empúries",
+      "lead_fa": "Los objetos, supuestas imitaciones de marcas de alta gama, fueron hallados en dos vehículos, listos para su venta y distribución",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ed65c9824d7e",
+      "source": "EL PAÍS",
+      "title": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "summary": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-20/las-temperaturas-se-desploman-el-fin-de-semana-es-normal-un-zarpazo-otonal-en-pleno-agosto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/V6TLUQB3KJB4FMESHTFG2NPUGQ.jpg?auth=1a1812a79184c122dcda07d06ceabc0339ae185e2cd2e74b6a3b083bb70c57e7",
+      "published_at": "2026-08-20T10:51:56+00:00",
+      "category": "ciencia",
+      "priority": 67,
+      "title_fa": "Las temperaturas se desploman el fin de semana, ¿es normal un zarpazo otoñal en pleno agosto?",
+      "lead_fa": "Los expertos coinciden en que estos episodios, con lluvias copiosas, son raros en los últimos veranos y subrayan que en esta ocasión hay una gran cantidad de energía debido a un Mediterráneo en ebullición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "97c4deed9178",
       "source": "La Vanguardia",
       "title": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
@@ -1858,50 +1875,6 @@
       "priority": 67,
       "title_fa": "Un toro embiste un vehículo en marcha durante un encierro en Guadalajara y revienta la ventanilla",
       "lead_fa": "En las imágenes se puede observar cómo el animal avanza enganchado al coche hasta que, unos metros después, consigue liberarse y abandonar el trayecto del vehículo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8105a0e34f45",
-      "source": "La Vanguardia",
-      "title": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
-      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
-      "published_at": "2026-08-20T09:52:56+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
-      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a1e5425e465",
-      "source": "La Vanguardia",
-      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
-      "published_at": "2026-08-20T09:42:58+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
-      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1946,6 +1919,50 @@
       "priority": 67,
       "title_fa": "Feijóo, sobre el traslado de migrantes: “Ni mayores ni menores. Han de regresar todos”",
       "lead_fa": "El líder del PP critica en Ceuta el cambio de rumbo del Gobierno e insiste en que no se puede utilizar una “invasión” para que los menores se queden en España",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8105a0e34f45",
+      "source": "La Vanguardia",
+      "title": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
+      "summary": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "url": "https://www.lavanguardia.com/economia/20260820/11616951/china-condena-cadena-perpetua-fundador-evergrande-magnate-ladrillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
+      "published_at": "2026-08-20T09:52:56+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
+      "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a1e5425e465",
+      "source": "La Vanguardia",
+      "title": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "summary": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
+      "url": "https://www.lavanguardia.com/local/valencia/20260820/11616955/noche-dantesca-comunidad-valenciana-temperaturas-39-grados.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
+      "published_at": "2026-08-20T09:42:58+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
+      "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
