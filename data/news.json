@@ -1,14 +1,69 @@
 {
-  "generated_at": "2026-08-20T03:07:35.006638+00:00",
+  "generated_at": "2026-08-20T03:55:47.798634+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "80746bb4daf0",
+    "1130d9243135",
     "e5b2c5d802b2",
     "42d7a4f4f19a",
-    "30e177f3ddb1",
-    "d99f976bf663",
-    "24a3b4637afa"
+    "30e177f3ddb1"
   ],
   "items": [
+    {
+      "id": "80746bb4daf0",
+      "source": "EL PAÍS Economía",
+      "title": "El gran viento de cola de los bonos ya no sopla para la Bolsa",
+      "summary": "Los rendimientos de la deuda pública han subido a niveles que no se veían desde la crisis financiera",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-20/el-gran-viento-de-cola-de-los-bonos-ya-no-sopla-para-la-bolsa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MYUTQ5YI5RPYNDYYX7ZIK25RLE.jpg?auth=80ca6906bed2c8134cbd389236d1a29f43895f58cfc1ca7745487bc5fa999682",
+      "published_at": "2026-08-20T03:40:00+00:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "پایان دوران طلایی اوراق قرضه و تاثیر آن بر بورس اسپانیا",
+      "lead_fa": "بازده اوراق قرضه دولتی اسپانیا به بالاترین سطح از زمان بحران مالی رسید. این تحول فشار تازه‌ای بر بازارهای سهام وارد کرده است.",
+      "key_points_fa": [
+        "افزایش چشمگیر بازده بدهی‌های دولتی به بالاترین رکوردها از دوران بحران مالی",
+        "کاهش جذابیت اوراق قرضه به عنوان محرک اصلی رشد بازار بورس"
+      ],
+      "analysis_fa": "افزایش سود اوراق قرضه دولتی نشان‌دهنده تغییر شرایط کلان اقتصادی و هزینه بالاتر استقراض است که به طور سنتی بر بازارهای سهام و سرمایه‌گذاری تاثیر می‌گذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اقتصاد_اسپانیا",
+        "#بورس",
+        "#اوراق_قرضه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1130d9243135",
+      "source": "EL PAÍS Economía",
+      "title": "Munich Re pesca en las aguas turbias del ciberseguro",
+      "summary": "Los precios de las pólizas contra ataques informáticos están cayendo mientras el coste de las brechas de seguridad sube sin parar",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-20/munich-re-pesca-en-las-aguas-turbias-del-ciberseguro.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5XQPXGZE2JKVRMM4CTJTZX3L7M.jpg?auth=19f762121b1f0e9b6cd3e4706c271b4d5507fc5b8e1a2cde97a1056024a497a6",
+      "published_at": "2026-08-20T03:40:00+00:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "کاهش قیمت بیمه‌های سایبری در آلمان با وجود افزایش هزینه‌های امنیتی",
+      "lead_fa": "در حالی که هزینه‌های ناشی از حملات سایبری به طور مداوم در حال افزایش است، قیمت بیمه‌های مقابله با این خطرات سیر نزولی به خود گرفته است. شرکت مونیخ ری از این شرایط آشفته برای سودآوری در بازار بیمه سایبری استفاده می‌کند.",
+      "key_points_fa": [
+        "کاهش قیمت بیمه‌های ضد حملات سایبری در بازار",
+        "روند صعودی هزینه‌های ناشی از نقص‌های امنیتی",
+        "نقش فعال شرکت مونیخ ری در این بازار آشفته"
+      ],
+      "analysis_fa": "این روند نشان‌دهنده پویایی پیچیده در بازار بیمه‌های سایبری است، جایی که رقابت میان شرکت‌های بیمه ممکن است قیمت‌ها را کاهش دهد، در حالی که تهدیدات امنیتی و هزینه‌های مرتبط با آن همچنان رو به رشد هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بیمه_سایبری",
+        "#امنیت_اطلاعات",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "e5b2c5d802b2",
       "source": "EL PAÍS",
@@ -404,6 +459,78 @@
         "#ساراگوسا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "368dbbdbf012",
+      "source": "EL PAÍS Economía",
+      "title": "España registra una caída de más de 16.000 vacantes de empleo en el segundo trimestre, la mayor desde 2008",
+      "summary": "Las 143.359 plazas para las que no se encuentran trabajadores representan una tasa de puestos sin cubrir del 0,8%, una décima menos que a principios de año",
+      "url": "https://elpais.com/economia/2026-08-20/espana-registra-una-caida-de-mas-de-16000-vacantes-de-empleo-en-el-segundo-trimestre-la-mayor-desde-2008.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/W5KXGYUVPFNITOLTRF7HEH77BA.jpg?auth=4d635bdc80db25f53251eff89e1d12d6c28cc4f2f71b591cf2bd4a2a0ebbcf70",
+      "published_at": "2026-08-20T03:45:01+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "کاهش بیش از ۱۶ هزار فرصت شغلی خالی در اسپانیا طی سه ماهه دوم",
+      "lead_fa": "تعداد فرصت‌های شغلی خالی در اسپانیا در سه ماهه دوم سال کاهش یافت. این رقم بزرگ‌ترین افت از سال ۲۰۰۸ تاکنون محسوب می‌شود.",
+      "key_points_fa": [
+        "ثبت ۱۴۳ هزار و ۳۵۹ جایگاه شغلی خالی بدون نیروی کار",
+        "نرخ مشاغل بدون متقاضی به صفر و هشت دهم درصد رسید",
+        "کاهش یک دهم درصدی نسبت به ابتدای سال جاری"
+      ],
+      "analysis_fa": "کاهش مشاغل خالی می‌تواند نشان‌دهنده تغییرات در پویایی بازار کار یا تطبیق تقاضای کارفرمایان با شرایط اقتصادی باشد، هرچند تحلیل دقیق‌تر نیازمند بررسی روندهای بلندمدت است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#بازار_کار"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "280fb43bf18e",
+      "source": "EL PAÍS Economía",
+      "title": "Europa descubre el valor económico de ser aburrida",
+      "summary": "En un mundo cada vez más imprevisible, la fiabilidad adquiere valor en el desarrollo de la economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-20/europa-descubre-el-valor-economico-de-ser-aburrida.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YVYLWEVWEBJ7NBL75MT4L26O4Q.jpg?auth=cdb0eece9626814d2dfae0d2c9119d6a4297c8c62a2b63011785f4f1b8dc2a09",
+      "published_at": "2026-08-20T03:40:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Europa descubre el valor económico de ser aburrida",
+      "lead_fa": "En un mundo cada vez más imprevisible, la fiabilidad adquiere valor en el desarrollo de la economía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "761e22f50678",
+      "source": "EL PAÍS Economía",
+      "title": "El plan de vivienda de la UE, visto desde la calle",
+      "summary": "La primera estrategia común europea contra el sinhogarismo llega sin garantías suficientes",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-20/el-plan-de-vivienda-de-la-ue-visto-desde-la-calle.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/524M3VKZNVJR3JP7S7QJHAS3PY.jpg?auth=41ee0bf5493b752b37ce27fc6c3bda7f5746a17806225f94d4a34fcf5c9ccbd0",
+      "published_at": "2026-08-20T03:40:00+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El plan de vivienda de la UE, visto desde la calle",
+      "lead_fa": "La primera estrategia común europea contra el sinhogarismo llega sin garantías suficientes",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -832,34 +959,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3fc3edf5d7ae",
-      "source": "EL PAÍS Economía",
-      "title": "La deuda cambia la carta de navegación financiera",
-      "summary": "El mercado de bonos lanza una advertencia mientras la Bolsa sigue en alza",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-19/la-deuda-cambia-la-carta-de-navegacion-financiera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NRK2RS5N2FCORJ2M32MAHQSUAE.JPG?auth=5cac7551eb021e2991244abd6337aa37b52d15837bde248566c618f4f46a74b8",
-      "published_at": "2026-08-19T03:40:00+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "هشدار بازار اوراق قرضه در اسپانیا همزمان با صعود بورس",
-      "lead_fa": "بازار اوراق قرضه اسپانیا نسبت به وضعیت بدهی‌ها هشدار داده است. این در حالی است که شاخص بورس همچنان روند صعودی دارد.",
-      "key_points_fa": [
-        "صدور هشدار از سوی بازار اوراق قرضه درباره وضعیت بدهی‌ها",
-        "ادامه روند صعودی بورس همزمان با تحولات بازار اوراق"
-      ],
-      "analysis_fa": "واگرایی میان روندهای بازار اوراق قرضه و بازار سهام نشان‌دهنده نوعی احتیاط در میان فعالان اقتصادی است. در حالی که بورس رشد می‌کند، نگرانی‌ها درباره بدهی‌ها می‌تواند بر چشم‌انداز مالی بلندمدت تأثیر بگذارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد",
-        "#اسپانیا",
-        "#بورس",
-        "#بدهی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "8927824e7804",
       "source": "EL PAÍS",
       "title": "La gran sequía devora el corazón de Europa: cosechas en mínimos, restricciones históricas y la economía estancada",
@@ -969,35 +1068,6 @@
         "#مسکن",
         "#اجاره_بها",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fcffe1fa6594",
-      "source": "EL PAÍS Economía",
-      "title": "El regulador estadounidense concede la licencia bancaria a la empresa cripto de los Trump",
-      "summary": "World Liberty Financial, gestionada por los hijos del presidente, podrá emitir directamente la ‘stablecoin’ USD1, gestionar y custodiar activos digitales y reservas de los clientes",
-      "url": "https://cincodias.elpais.com/criptoactivos/2026-08-18/el-regulador-estadounidense-concede-la-licencia-bancaria-a-la-empresa-cripto-de-los-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GYIWCT3SQFG5BMO2N6SHFPVYVE.JPG?auth=e3d53c902bf1964b90534269ddb6f0d657ad76285e860f66b93b4dc900420bab",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "اعطای مجوز بانکی آمریکا به شرکت رمزارز خانواده ترامپ",
-      "lead_fa": "نهاد رگولاتور ایالات متحده مجوز بانکی را به شرکت رمزارز وابسته به فرزندان دونالد ترامپ اعطا کرد. این مجوز امکان انتشار استیبل‌کوین و مدیریت دارایی‌های دیجیتال را برای این شرکت فراهم می‌کند.",
-      "key_points_fa": [
-        "شرکت World Liberty Financial توسط فرزندان رئیس‌جمهور آمریکا مدیریت می‌شود.",
-        "این شرکت اجازه یافته است استیبل‌کوین USD1 را به طور مستقیم منتشر کند.",
-        "مدیریت و نگهداری دارایی‌های دیجیتال و ذخایر مشتریان از دیگر اختیارات اعطا شده است."
-      ],
-      "analysis_fa": "اعطای این مجوز به شرکت مرتبط با خانواده ترامپ می‌تواند بحث‌ها درباره تداخل منافع و تاثیرگذاری سیاسی بر نهادهای مالی و نظارتی ایالات متحده را افزایش دهد. این تصمیم همچنین موقعیت این پروژه را در بازار رمزارزها تقویت می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#رمزارز",
-        "#بانک",
-        "#اقتصاد_آمریکا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1170,6 +1240,50 @@
         "#محیط_زیست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3a62dcbcb980",
+      "source": "EL PAÍS Economía",
+      "title": "Llega el ‘día de la liberación fiscal’: ¿indicador económico fiable o eslogan antiimpuestos?",
+      "summary": "Un grupo de economistas liberales difunde la fecha para reflejar cuántos días de trabajo necesita un contribuyente para cumplir con Hacienda, pero otros académicos critican que la metáfora simplifica la realidad tributaria",
+      "url": "https://elpais.com/economia/2026-08-20/llega-el-dia-de-la-liberacion-fiscal-indicador-economico-fiable-o-eslogan-antiimpuestos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I3IBVPZDC5E3JARTSGP5OQCMRM.jpg?auth=0eececb4e762f33af471ac57906977d3013dbef8b2e5b6d22def39faedbae730",
+      "published_at": "2026-08-20T03:45:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Llega el ‘día de la liberación fiscal’: ¿indicador económico fiable o eslogan antiimpuestos?",
+      "lead_fa": "Un grupo de economistas liberales difunde la fecha para reflejar cuántos días de trabajo necesita un contribuyente para cumplir con Hacienda, pero otros académicos critican que la metáfora simplifica la realidad tributaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d32f499e4768",
+      "source": "EL PAÍS Economía",
+      "title": "El doble riesgo del comercio ‘online’ masivo que llega a España",
+      "summary": "Los tres euros que Bruselas cobra desde julio a los paquetes de bajo valor son un parche insuficiente",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-20/el-doble-riesgo-del-comercio-online-masivo-que-llega-a-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BAKT6HR2YBWOGCCE5ZHAYLKD5I.jpg?auth=fef5b087f849fab5e1aa15cdb727426597747c00b775f8a6b387e6397904eeed",
+      "published_at": "2026-08-20T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El doble riesgo del comercio ‘online’ masivo que llega a España",
+      "lead_fa": "Los tres euros que Bruselas cobra desde julio a los paquetes de bajo valor son un parche insuficiente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1927,63 +2041,6 @@
       "editorial_version": 2
     },
     {
-      "id": "14232c035536",
-      "source": "EL PAÍS España",
-      "title": "Una operación policial conjunta entre España y Francia desmantela una red de traslado ilícito de migrantes",
-      "summary": "La trama, formada por tres integrantes que han sido arrestados, realizó al menos 20 desplazamientos entre Alicante y el paso fronterizo de La Junquera con una media de cinco personas por trayecto",
-      "url": "https://elpais.com/espana/2026-08-18/una-operacion-policial-conjunta-entre-espana-y-francia-desmantela-una-red-de-traslado-ilicito-de-migrantes.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205591_140810_video_1800.mp4",
-      "published_at": "2026-08-18T12:41:05+00:00",
-      "category": "migracion",
-      "priority": 67,
-      "title_fa": "انهدام شبکه قاچاق مهاجران در عملیات مشترک پلیس اسپانیا و فرانسه",
-      "lead_fa": "پلیس اسپانیا و فرانسه در یک عملیات مشترک، شبکه ای سه نفره را در زمینه انتقال غیرقانونی مهاجران متلاشی کردند. هر سه عضو این شبکه دستگیر شده اند.",
-      "key_points_fa": [
-        "سه عضو این شبکه قاچاق انسان بازداشت شدند.",
-        "این باند دست کم ۲۰ سفر غیرقانونی انجام داده است.",
-        "مهاجران در هر بار جابجایی بین آلیکانته و مرز لاونکرا حدود پنج نفر بودند."
-      ],
-      "analysis_fa": "این عملیات نشان دهنده همکاری های فرامرزی میان نهادهای انتظامی اسپانیا و فرانسه برای مقابله با باندهای قاچاق مهاجران در مسیرهای مرزی است. چنین اقداماتی بر چالش های امنیتی و مهاجرتی در مرزهای اتحادیه اروپا تاکید می کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مهاجرت",
-        "#اسپانیا",
-        "#فرانسه",
-        "#پلیس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "24442b6085e2",
-      "source": "EL PAÍS España",
-      "title": "Bruselas avala el retorno a Marruecos de los menores migrantes no acompañados que permanezcan en Ceuta",
-      "summary": "La Comisión Europea asegura que el derecho de la UE contempla la devolución de todos los inmigrantes en situación irregular",
-      "url": "https://elpais.com/espana/2026-08-18/bruselas-avala-el-retorno-a-marruecos-de-los-menores-migrantes-no-acompanados-que-permanezcan-en-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205554_122031_video_1800.mp4",
-      "published_at": "2026-08-18T11:49:10+00:00",
-      "category": "migracion",
-      "priority": 67,
-      "title_fa": "کمیسیون اروپا بازگرداندن کودکان مهاجر سبته به مراکش را تایید کرد",
-      "lead_fa": "کمیسیون اروپا اعلام کرد حقوق اتحادیه اروپا بازگرداندن تمامی مهاجران غیرقانونی را مجاز می‌داند. این تصمیم شامل کودکان مهاجر بدون همراه در سبته نیز می‌شود.",
-      "key_points_fa": [
-        "تایید قانونی بازگرداندن مهاجران غیرقانونی توسط کمیسیون اروپا",
-        "شمول این رویه بر کودکان مهاجر بدون همراه در منطقه سبته",
-        "تطابق این اقدام با چارچوب حقوقی اتحادیه اروپا"
-      ],
-      "analysis_fa": "این موضع‌گیری کمیسیون اروپا چارچوب حقوقی مشخصی را برای مدیریت مهاجرت در مرزهای جنوبی اسپانیا فراهم می‌کند و می‌تواند رویه تازه‌ای در برخورد با پرونده‌های مشابه ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجران",
-        "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "d4a4311b4415",
       "source": "La Vanguardia",
       "title": "El príncipe Lorenzo reconoce oficialmente a su hijo Clément, y este se convierte en príncipe de Bélgica",
@@ -2197,28 +2254,6 @@
       "editorial_version": 2
     },
     {
-      "id": "feca4fa9f23b",
-      "source": "EL PAÍS",
-      "title": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
-      "summary": "Una asociación alicantina pide que se investigue como crimen homófobo. El Ayuntamiento condena la agresión mortal, pero ve “arriesgado” calificarla de esa forma",
-      "url": "https://elpais.com/sociedad/2026-08-19/una-asociacion-pide-que-se-investigue-como-delito-de-odio-el-asesinato-de-un-joven-gay-en-alicante.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4D5OQEEFTVBPHANTPVMUWU5HQU.jpg?auth=af889648b0a992e868002f639feb8783db6d170c3db2ccbbdce56396d22e9f8c",
-      "published_at": "2026-08-19T09:27:08+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
-      "lead_fa": "Una asociación alicantina pide que se investigue como crimen homófobo. El Ayuntamiento condena la agresión mortal, pero ve “arriesgado” calificarla de esa forma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a369b5ac046a",
       "source": "La Vanguardia",
       "title": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
@@ -2230,6 +2265,28 @@
       "priority": 64,
       "title_fa": "La Comunidad Valenciana en aviso rojo por calor asfixiante y máximas de 44º",
       "lead_fa": "El jueves habrá aviso amarillo en el litoral de las provincias de Valencia y Alicante y en el litoral sur de la de Castellón",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "feca4fa9f23b",
+      "source": "EL PAÍS",
+      "title": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
+      "summary": "Una asociación alicantina pide que se investigue como crimen homófobo. El Ayuntamiento condena la agresión mortal, pero ve “arriesgado” calificarla de esa forma",
+      "url": "https://elpais.com/sociedad/2026-08-19/una-asociacion-pide-que-se-investigue-como-delito-de-odio-el-asesinato-de-un-joven-gay-en-alicante.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4D5OQEEFTVBPHANTPVMUWU5HQU.jpg?auth=af889648b0a992e868002f639feb8783db6d170c3db2ccbbdce56396d22e9f8c",
+      "published_at": "2026-08-19T09:27:08+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
+      "lead_fa": "Una asociación alicantina pide que se investigue como crimen homófobo. El Ayuntamiento condena la agresión mortal, pero ve “arriesgado” calificarla de esa forma",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2285,6 +2342,28 @@
       "editorial_version": 2
     },
     {
+      "id": "a5c72d440c60",
+      "source": "La Vanguardia",
+      "title": "Bienvenido, mister “Wei”",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260819/11615756/bienvenido-mister-wei.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/01/68b56ec18b690.jpeg",
+      "published_at": "2026-08-19T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Bienvenido, mister “Wei”",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "8e1034ec4d0a",
       "source": "EL PAÍS",
       "title": "Isla Cristina, entre el miedo y la consternación tras el triple homicidio: “Esto no es nuestro pueblo”",
@@ -2293,7 +2372,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/VY6WBONBQBEPNMMFDJ7OJQOQ4U.JPG?auth=bccec55bdb95522e167cc8ce52651a845fb5c162856174198efe81d176844fb8",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Isla Cristina, entre el miedo y la consternación tras el triple homicidio: “Esto no es nuestro pueblo”",
       "lead_fa": "La localidad onubense vuelve poco a poco a la normalidad después de que dos encapuchados mataran el domingo a tres personas y se dieran a la fuga",
       "key_points_fa": [],
@@ -2315,7 +2394,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ACFMG2LCRNBRLGQS5GVKPJCBXA.jpg?auth=93c08e073b76a7652ad3f75d0a13765334f20acc28bc64a2bc0c2f98eedce26f",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Los menores que no querían su traslado a la Península: “Ya tenía media vida hecha en Tenerife”",
       "lead_fa": "Más de mil adolescentes se resistieron a su traslado desde Canarias para ser reubicados en otras comunidades por su arraigo en las islas. Muchos lo lograron",
       "key_points_fa": [],
@@ -2337,7 +2416,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YY7MEB7NEFAVDF3L5AGPYSNKIE.jpg?auth=f2712a71a6aa29366e0296c5e0668b0f77c19a6f692e1cae625c06e44f941538",
       "published_at": "2026-08-19T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "España lidera el encarecimiento de los carburantes en Europa tras la retirada progresiva de ayudas",
       "lead_fa": "Los expertos también achacan el fenómeno a una fiscalidad más baja, que hace los surtidores sean más reactivos a las cotizaciones internacionales",
       "key_points_fa": [],
@@ -2359,75 +2438,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/5XI5KU4ZOZKJVKOH7DTS2P2P2M.jpg?auth=0eb00c815b48154525176f6d7f1b8ae6e9f9ffcfc554b4226d4b825550d29d86",
       "published_at": "2026-08-19T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Los Trump se frotan las manos con la licencia bancaria",
       "lead_fa": "World Liberty Financial, el proyecto de criptomonedas de la familia del republicano, acaba de obtener la licencia bancaria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7b5ed54ff420",
-      "source": "EL PAÍS Economía",
-      "title": "Europa está infravalorando su asfixiante futuro",
-      "summary": "Solo el 23% de los hogares europeos tiene aire acondicionado, frente al 90% en Estados Unidos",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-19/europa-esta-infravalorando-su-asfixiante-futuro.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6M2XKVSR6ZNY5HEVK3N3L46YKU.jpg?auth=9dc8a4aa9761fdb777acd627cc1dd344af740f53cf94c6a534ef2ecbf5d60b26",
-      "published_at": "2026-08-19T03:40:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Europa está infravalorando su asfixiante futuro",
-      "lead_fa": "Solo el 23% de los hogares europeos tiene aire acondicionado, frente al 90% en Estados Unidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "43796c0a8cf5",
-      "source": "EL PAÍS Economía",
-      "title": "Las claves: 29 estados contra una de las siete mayores compañías del mundo",
-      "summary": "Meta se enfrenta al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-19/las-claves-29-estados-contra-una-de-las-siete-mayores-companias-del-mundo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OUVT7XHPHJFNFDBZ3CTSTPWAHY.jpg?auth=d82471eb25405d47223dc55e08d9a901ec983b7577f399a3734e11255e02aa7a",
-      "published_at": "2026-08-19T03:40:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Las claves: 29 estados contra una de las siete mayores compañías del mundo",
-      "lead_fa": "Meta se enfrenta al mayor juicio de su historia por los daños de las redes sociales a los jóvenes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6b1485d96ce9",
-      "source": "EL PAÍS Economía",
-      "title": "España ya no puede permitirse dejar el biometano a medias",
-      "summary": "Pocas soluciones permiten reforzar la seguridad energética y generar actividad ecnonómica en el medio rural al mismo tiempo",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-19/espana-ya-no-puede-permitirse-dejar-el-biometano-a-medias.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2XTOUVKINRAS7KURCTDREIAGIM.jpg?auth=b99b27603c5d037361974f55b9900c66fc459759590606c96f127018a864a77f",
-      "published_at": "2026-08-19T03:40:00+00:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "España ya no puede permitirse dejar el biometano a medias",
-      "lead_fa": "Pocas soluciones permiten reforzar la seguridad energética y generar actividad ecnonómica en el medio rural al mismo tiempo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2447,7 +2460,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/R5UL4DWY6NFC3IGSGZMFSOC5WA.jpg?auth=67d13dfbb89b90ca71561863cae7f1a7fd0730750fdd757f84885f6f748e6a7b",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "turismo",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Los ríos de Andalucía agonizan por el turismo: “No ves nada, está todo muerto”",
       "lead_fa": "La masificación turística pone en riesgo la fauna y la flora de multitud de parajes fluviales, con cauces destrozados y acumulación de basuras, mientras la Junta solo regula algunos cauces y ya planea abrir el Chíllar, prohibido el acceso desde hace tres años",
       "key_points_fa": [],
@@ -2469,7 +2482,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NKK5T6CEEZFYBHMMPGSEO7GIR4.jpg?auth=cfab83deced9dfdc38cd189722b2b78697c43cf6d7fc6d9934624e004ebbd81b",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Pagar un concierto para no ver nada: Bruno Mars abre el debate de las entradas ‘audio only’",
       "lead_fa": "La nueva gira de la estrella ofrece a 70 euros asientos desde los que no se ve ni el escenario ni las pantallas. La ‘mierdificación’ no tiene fin",
       "key_points_fa": [],
@@ -2491,7 +2504,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/CP5PG77EUZDL3DH4YFZQ7CYUGY.jpg?auth=5b45200d30f7c1dfa5de0a3d5a2e52b4be1740f9bf5f301289ecf9a6b9252b89",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "turismo",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Kylian Mbappé no es el único: por qué los hombres suelen hacer malas fotos de sus parejas",
       "lead_fa": "Muchos usuarios han comentado la diferencia de calidad entre las fotografías que Ester Expósito ha tomado al futbolista y las que él ha hecho de la actriz durante sus vacaciones. Lo curioso es que estas diferencias son habituales en las parejas heterosexuales",
       "key_points_fa": [],
@@ -2513,7 +2526,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/AD7WZLB5KBKDLDF2UY7RGJ6WTY.jpg?auth=2c7a47ce9f56c0e6d260893c7153ead5a1344839be6efb9d9edd994658b42d14",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "turismo",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Santiago de Compostela quiere tirar a los peregrinos al pilón",
       "lead_fa": "Este verano se han vuelto virales los vídeos de caminantes que culminan a ritmo de charanga su viaje a la ciudad",
       "key_points_fa": [],
@@ -2535,7 +2548,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/Q5YJ67NUKVL5TFTAXNKWBNIPNM.jpg?auth=6fbc61db050b3ced870463ca606c6d5ce0a2eb17c4e390a1097c697639b865c0",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "cultura",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "En defensa de las cosas mal hechas",
       "lead_fa": "En estos tiempos de limo generativo, tenemos que apreciar los esfuerzos por seguir haciendo arte humano, aunque sea malo",
       "key_points_fa": [],
@@ -2557,7 +2570,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HJQT4H6P5FBWPL23SAVHFMJORU.jpg?auth=98202092168e5ac2719293bca0853a42af7375139e92fc10fa203d63b215462c",
       "published_at": "2026-08-19T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "El Santander rozará los 200.000 millones de valor tras cerrar la ampliación para comprar Webster",
       "lead_fa": "El banco presidido por Ana Botín multiplica su capitalización por nueve en seis años y acaricia un nivel nunca visto para una firma española. La adquisición del banco estadounidense elevará su número de acciones en 335 millones",
       "key_points_fa": [],
@@ -2579,7 +2592,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7LV5VRKT5VFUTJ7VEEH6UC6SWI.jpg?auth=7730c475993ea320dab0c6826f82ba2de3f313e68c71d60314875e1b28e2d278",
       "published_at": "2026-08-19T03:30:00+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Pastel de verduras exprés, una receta para microondas o freidora de aire",
       "lead_fa": "Puedes prepararlo con cualquier hortaliza siempre que respetes su tiempo de cocción. Añadirle nata, queso o bacon es opcional",
       "key_points_fa": [],
@@ -2601,7 +2614,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/PL56K6E5ZFPOBAZCNUTIGFHJPY.jpg?auth=aa97257794279949eff04fa9eed53b33998fcfdaa0925c19b0480a0d97df709f",
       "published_at": "2026-08-19T03:15:00+00:00",
       "category": "cultura",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Portugal se adelanta a España y abre una consulta pública para regular el coste del ‘escudo antiapagón’",
       "lead_fa": "El regulador energético luso, ERSE, plantea que los sobrecostes se trasladen en un 40% a la parte regulada de la factura de la luz",
       "key_points_fa": [],
@@ -2623,31 +2636,9 @@
       "image": "https://imagenes.elpais.com/resizer/v2/72AD64DOSZDZLJMXLXPRDQJLJQ.jpg?auth=8508e07ddb843c77c6095f57980a3a36bf98ed3075fab14ae156f13a1b00f97e",
       "published_at": "2026-08-19T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Pontegadea Inmobiliaria reduce a un tercio su beneficio por el traspaso de activos a Luxemburgo",
       "lead_fa": "La filial del ‘family office’ de Amancio Ortega concentra ahora las propiedades en España y Portugal y gana 21 millones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a5c72d440c60",
-      "source": "La Vanguardia",
-      "title": "Bienvenido, mister “Wei”",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260819/11615756/bienvenido-mister-wei.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/01/68b56ec18b690.jpeg",
-      "published_at": "2026-08-19T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Bienvenido, mister “Wei”",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2716,7 +2707,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 151
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
@@ -2726,7 +2717,7 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "La Vanguardia",
