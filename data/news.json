@@ -1,18 +1,103 @@
 {
-  "generated_at": "2026-08-21T13:55:48.847006+00:00",
+  "generated_at": "2026-08-21T14:50:06.949024+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "7a75b2481297",
+    "e93219f6d0fe",
+    "62efed55d1d5",
     "e2600f504d93",
-    "fdf534682e4d",
-    "9c674691b7de",
-    "f976d6b916f2",
-    "7ac8d8c14af3"
+    "fdf534682e4d"
   ],
   "items": [
     {
+      "id": "7a75b2481297",
+      "source": "EL PAÍS",
+      "title": "Los vecinos de Gátova, en Valencia, confinados por el humo del incendio forestal de Segorbe",
+      "summary": "La Generalitat Valenciana solicita el apoyo de la Unidad Militar de Emergencias para las labores de extinción de un fuego que ha quemado 133 hectáreas",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SL447X5L4BBNRITIWURMEQC2EQ.jpeg?auth=5280cd968f05be756ab1b8439c730a2ab441596a50c120f4c6a3ddd7fd41a864",
+      "published_at": "2026-08-21T13:59:40+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "قرنطینه اهالی گاتوا در والنسیا به دلیل دود آتش‌سوزی جنگلی",
+      "lead_fa": "دولت محلی والنسیا خواستار کمک واحد ارتش برای مهار آتش‌سوزی شد. این حریق تاکنون ۱۳۳ هکتار از اراضی را سوزانده است.",
+      "key_points_fa": [
+        "قرنطینه اهالی منطقه گاتوا به دلیل دود غلیظ آتش‌سوزی سگوربه",
+        "درخواست کمک دولت والنسیا از واحد نظامی اضطراری (UME)",
+        "وسعت اراضی سوخته‌شده به ۱۳۳ هکتار رسیده است"
+      ],
+      "analysis_fa": "آتش‌سوزی‌های جنگلی در مناطق مختلف اسپانیا به ویژه در فصل گرم سال، مقامات محلی را با چالش جدی مواجه می‌کند و استفاده از امکانات نظامی برای مهار آن‌ها به رویه‌ای رایج تبدیل شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#والنسیا",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e93219f6d0fe",
+      "source": "La Vanguardia",
+      "title": "Muere Nancy Kissinger, viuda de Henry Kissinger y colaboradora de Nelson Rockefeller",
+      "summary": "Exasesora política y filántropa, fue una figura clave de la diplomacia internacional durante la Guerra Fría",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617729/muere-nancy-kissinger-viuda-henry-kissinger-colaboradora-nelson-rockefeller.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8852f23fb01.r_d.3391-854-0.jpeg",
+      "published_at": "2026-08-21T15:57:03+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "نَنسی کیسینجر، همسر هنری کیسینجر و چهره برجسته دیپلماسی درگذشت",
+      "lead_fa": "نَنسی کیسینجر، مشاور سیاسی سابق و نیکوکار، درگذشت. او از چهره‌های کلیدی دیپلماسی بین‌المللی در دوران جنگ سرد بود.",
+      "key_points_fa": [
+        "او همسر هنری کیسینجر، وزیر خارجه پیشین آمریکا بود.",
+        "به عنوان مشاور سیاسی و فیالانتروپ فعالیت می‌کرد.",
+        "در دوران جنگ سرد در عرصه دیپلماسی بین‌المللی نقش‌آفرین بود."
+      ],
+      "analysis_fa": "درگذشت نَنسی کیسینجر پایان بخش زندگی یکی از چهره‌های مرتبط با تحولات دیپلماتیک دوران جنگ سرد است. فعالیت‌های او در کنار چهره‌هایی چون نلسون روکافلر و هنری کیسینجر، او را در متن تصمیم‌ات مهم سیاسی قرار داده بود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#دیپلماسی",
+        "#درگذشت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "62efed55d1d5",
+      "source": "La Vanguardia",
+      "title": "Sánchez elige a Ángel Víctor Torres para coordinar la acción del Gobierno en Ceuta",
+      "summary": "El ministro de Política Territorial, que ya vivió crisis migratorias como presidente de Canarias, supervisará las actuaciones de Defensa, Interior, Exteriores, Inclusión y Migraciones, y Juventud e Infancia",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617730/sanchez-elige-angel-victor-torres-coordinar-accion-gobierno-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a79cd1ff3625.jpeg",
+      "published_at": "2026-08-21T15:26:22+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "انتخاب آنخل ویکتور تورس برای هماهنگی اقدامات دولت در سبته",
+      "lead_fa": "پدرو سانچز، نخست‌وزیر اسپانیا، وزیر سیاست سرزمینی را به عنوان هماهنگ‌کننده اقدامات دولتی در سبته منصوب کرد. این تصمیم با توجه به سابقه او در مدیریت بحران‌های مهاجرتی اتخاذ شده است.",
+      "key_points_fa": [
+        "آنخل ویکتور تورس پیش‌تر رئیس جزایر قناری بوده و تجربه مدیریت بحران‌های مهاجرتی را دارد.",
+        "او نظارت بر عملکرد وزارتخانه‌های دفاع، کشور، خارجه، مهاجرت و جوانان را بر عهده خواهد داشت.",
+        "هدف از این انتصاب، هماهنگی بیشتر میان نهادهای دولتی مختلف در منطقه سبته است."
+      ],
+      "analysis_fa": "تعیین یک وزیر با تجربه اجرایی مشخص در حوزه مهاجرت برای مدیریت امور سبته، نشان‌دهنده تلاش دولت مرکزی برای تمرکززدایی و افزایش کارآمدی در مناطق مرزی حساسی است که با چالش‌های مهاجرتی دست و پنجه نرم می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجرت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e2600f504d93",
       "source": "La Vanguardia",
-      "title": "El PSOE y el PD italiano critican a Frederisken por apoyar a Meloni en la crisis de Ceuta",
+      "title": "El PSOE y el PD italiano unen fuerzas contra Frederiksen por apoyar a Meloni en la crisis de Ceuta",
       "summary": "Las formaciones denuncian ante el Partido Socialista Europeo la falta de solidaridad con España de la primera ministra danesa",
       "url": "https://www.lavanguardia.com/politica/20260821/11617621/psoe-pd-italiano-unen-fuerzas-frederisken-apoyar-meloni-crisis-ceuta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8838998844d.r_d.1056-556-0.jpeg",
@@ -124,6 +209,36 @@
       "editorial_version": 2
     },
     {
+      "id": "9133cac4fd70",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
+      "summary": "La playa del Trampolín vuelve a llenarse de migrantes tras la limpieza realizada a primera hora",
+      "url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FDFPWIV7IFFLPIWUU4OE2EX7NY.jpg?auth=c188fed681e2f18846acab16a7617d2df7bc122bf09a58f359d5b31b4ac9a5c2",
+      "published_at": "2026-08-21T14:28:31+00:00",
+      "category": "migracion",
+      "priority": 77,
+      "title_fa": "تحولات مهاجرت به سبته و تلاش برای انتقال کودکان",
+      "lead_fa": "وزارت کودکان اسپانیا ابراز امیدواری کرد که دختران مهاجر در هفته‌های آینده از سبته منتقل شوند. با این حال، هنوز پیشنهاد مشخصی به مقامات این شهر ارسال نشده است.",
+      "key_points_fa": [
+        "امیدواری وزارتخانه به انتقال دختران مهاجر از سبته در آینده نزدیک",
+        "عدم ارسال پیشنهاد مشخص به مقامات محلی سبته تاکنون",
+        "ازسرگیری عملیات نظافت در ساحل ال ترامپولین",
+        "تاکید بروکسل بر لزوم بازگرداندن تمامی مهاجرانی که به طور غیرقانونی وارد سبته شده‌اند"
+      ],
+      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های هماهنگی میان دولت مرکزی اسپانیا و نهادهای محلی سبته در مدیریت بحران‌های مهاجرتی و اسکان افراد آسیب‌پذیر است. تاخیر در ارائه راهکارهای عملی می‌تواند فشارهای سیاسی و اجتماعی را بر دولت افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "7ac8d8c14af3",
       "source": "La Vanguardia",
       "title": "El Consell defiende su gestión del incendio de la Vall d'Uixò: Se enviaron 17 Es-Alert a la población",
@@ -180,36 +295,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9133cac4fd70",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
-      "summary": "Se retoman las tareas de limpieza en la playa de El Trampolín | Bruselas espera que “todos los migrantes que entraron ilegalmente a Ceuta” sean devueltos",
-      "url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BU2WLZIMMBAI7BDBHUZORB7HVM.jpeg?auth=a2869d1010ec78217c6a554ecbd589f8e120fdc263a2b99f64cd6a60ba57e51b",
-      "published_at": "2026-08-21T11:32:40+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "تحولات مهاجرت به سبته و تلاش برای انتقال کودکان",
-      "lead_fa": "وزارت کودکان اسپانیا ابراز امیدواری کرد که دختران مهاجر در هفته‌های آینده از سبته منتقل شوند. با این حال، هنوز پیشنهاد مشخصی به مقامات این شهر ارسال نشده است.",
-      "key_points_fa": [
-        "امیدواری وزارتخانه به انتقال دختران مهاجر از سبته در آینده نزدیک",
-        "عدم ارسال پیشنهاد مشخص به مقامات محلی سبته تاکنون",
-        "ازسرگیری عملیات نظافت در ساحل ال ترامپولین",
-        "تاکید بروکسل بر لزوم بازگرداندن تمامی مهاجرانی که به طور غیرقانونی وارد سبته شده‌اند"
-      ],
-      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های هماهنگی میان دولت مرکزی اسپانیا و نهادهای محلی سبته در مدیریت بحران‌های مهاجرتی و اسکان افراد آسیب‌پذیر است. تاخیر در ارائه راهکارهای عملی می‌تواند فشارهای سیاسی و اجتماعی را بر دولت افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#اتحادیه_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "6d0d51b0290e",
       "source": "EL PAÍS",
       "title": "Por qué trasladar a 500 menores de Ceuta a la Península: atención básica inmediata y respuesta a la salud mental",
@@ -233,35 +318,6 @@
         "#سئوئا",
         "#مهاجرت",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e45da92ee5ac",
-      "source": "EL PAÍS",
-      "title": "Las mil y una calamidades de los bomberos de Castilla y León tras el incendio más grave de la historia de España: “Es inhumano”",
-      "summary": "Los brigadistas denuncian que el récord de hectáreas quemadas en Ávila revela que el dispositivo sigue sin mejorar pese a años de desgracias",
-      "url": "https://elpais.com/espana/2026-08-21/las-mil-y-una-calamidades-de-los-bomberos-de-castilla-y-leon-tras-el-incendio-mas-grave-de-la-historia-de-espana-es-inhumano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UJUNZ3WQAFC6JD7C7KXIFP3BSQ.jpg?auth=6437b73606b05faa635fd2f665b9603c723f8848ef9c7f5ca8dc59a468f4e066",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "انتقاد شدید آتش‌نشانان کاستییا و لئون از وضعیت بحرانی اطفای حریق",
-      "lead_fa": "نیروهای امدادی کاستییا و لئون پس از بزرگ‌ترین آتش‌سوزی تاریخ اسپانیا شرایط کاری خود را غیرانسان خواندند. آن‌ها معتقدند که تجهیزات و سازماندهی اطفای حریق با وجود سال‌ها فاجعه همچنان بهبود نیافته است.",
-      "key_points_fa": [
-        "اعتراض آتش‌نشانان به وضعیت نامناسب پس از رکوردشکنی مساحت اراضی سوخته در آویلا",
-        "انتقاد از ناکارآمدی مستمر تجهیزات و دستگاه‌های امدادی در اسپانیا",
-        "توصیف شرایط کاری نیروهای امدادی به عنوان وضعیتی غیرانسان"
-      ],
-      "analysis_fa": "این اعتراضات بار دیگر ضعف ساختاری سیستم‌های مدیریت بحران و پیشگیری از آتش‌سوزی‌های جنگلی در مناطق مرکزی اسپانیا را برجسته می‌کند. تکرار این حوادث و نارضایتی نیروهای میدانی، فشارهای سیاسی بر دولت‌های محلی را برای بازنگری در بودجه‌ها و تجهیزات ایمنی افزایش داده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اسپانیا",
-        "#آتش_نشانان",
-        "#کاستییا_و_لئون"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -293,6 +349,72 @@
         "#بحران_مسکن"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ce418fab3125",
+      "source": "La Vanguardia",
+      "title": "Diez partidos de sanción a Paredes y uno a Gavi por los incidentes tras la final del Mundial",
+      "summary": "La FIFA castiga también a los argentinos Molina (siete), Ayala (tres) y Almada (uno)",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617771/diez-partidos-sancion-paredes-gavi-incidentes-final-mundial.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8860a5a174f.r_d.2568-1016-0.jpeg",
+      "published_at": "2026-08-21T16:32:51+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Diez partidos de sanción a Paredes y uno a Gavi por los incidentes tras la final del Mundial",
+      "lead_fa": "La FIFA castiga también a los argentinos Molina (siete), Ayala (tres) y Almada (uno)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e398512552b4",
+      "source": "EL PAÍS",
+      "title": "El príncipe Enrique, Elizabeth Hurley, Elton John y otros denunciantes contra el ‘Daily Mail’ tienen que pagar al diario 11 millones de euros en siete días",
+      "summary": "Según el juez, la conducta de los famosos que perdieron su demanda contra el grupo Associated Newspapers por la supuesta obtención de información de forma ilícita fue “sumamente irrazonable”",
+      "url": "https://elpais.com/gente/2026-08-21/el-principe-enrique-elizabeth-hurley-elton-john-y-otros-denunciantes-contra-el-daily-mail-tienen-que-pagar-al-diario-11-millones-de-euros-en-siete-dias.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HTA2YAS3TVFZFFIEZ4QV6USHPQ.jpg?auth=36afae47da631aec15ec455412472ff7f9bf618edf0685deaa58e398c52fb647",
+      "published_at": "2026-08-21T14:34:24+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El príncipe Enrique, Elizabeth Hurley, Elton John y otros denunciantes contra el ‘Daily Mail’ tienen que pagar al diario 11 millones de euros en siete días",
+      "lead_fa": "Según el juez, la conducta de los famosos que perdieron su demanda contra el grupo Associated Newspapers por la supuesta obtención de información de forma ilícita fue “sumamente irrazonable”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1e0866b45893",
+      "source": "EL PAÍS",
+      "title": "La FIFA sanciona con diez partidos a Paredes y con uno a Gavi por los incidentes de la final del Mundial",
+      "summary": "También hay castigo para Nahuel Molina (siete encuentros), Almada (uno), Ayala (tres) y una fuerte multa económica para la AFA por la pancarta “Malvinas argentinas” exhibida en las semifinales ante Inglaterra",
+      "url": "https://elpais.com/deportes/futbol/2026-08-21/la-fifa-sanciona-con-diez-partidos-a-paredes-y-con-uno-a-gavi-por-los-incidentes-de-la-final-del-mundial.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260720/1197028_080337_video_1800.mp4",
+      "published_at": "2026-08-21T13:58:55+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "La FIFA sanciona con diez partidos a Paredes y con uno a Gavi por los incidentes de la final del Mundial",
+      "lead_fa": "También hay castigo para Nahuel Molina (siete encuentros), Almada (uno), Ayala (tres) y una fuerte multa económica para la AFA por la pancarta “Malvinas argentinas” exhibida en las semifinales ante Inglaterra",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -412,8 +534,8 @@
     {
       "id": "9af06cdcaa6e",
       "source": "La Vanguardia",
-      "title": "Varios medios aéreos se incorporan para apagar el incendio iniciado en Segorbe por un rayo",
-      "summary": "Las llamas se iniciaron ayer por la tarde entre Gátova y Segorbe (Castellón)",
+      "title": "La Generalitat ordena el confinamiento de Gátova por el incendio de Segorbe y pide ayuda a la UME",
+      "summary": "Las llamas se iniciaron ayer por la tarde entre Gátova y Segorbe (Castellón) por la caída de un rayo en un paraje montañoso de difícil acceso",
       "url": "https://www.lavanguardia.com/local/valencia/20260821/11617504/medios-aereos-incorporan-apagar-incendio-iniciado-segorbe-rayo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/02/68651eaf57456.jpeg",
       "published_at": "2026-08-21T08:35:01+02:00",
@@ -433,35 +555,6 @@
         "#اسپانیا",
         "#آتش_سوزی",
         "#کاستلون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "41ad3a7b93f1",
-      "source": "La Vanguardia",
-      "title": "El Gobierno aplica por fin el primer plan para poner orden en Ceuta",
-      "summary": "La Administración central abre dos centros temporales que no garantizan a nadie quedarse, solo camas y cuidados",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617318/gobierno-aplica-primer-plan-poner-orden-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ebdc53287.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "اجرای نخستین طرح دولت برای ساماندهی مهاجران در سئوتا",
-      "lead_fa": "دولت مرکزی اسپانیا دو مرکز موقت جدید در سئوتا راه‌اندازی کرد. این مراکز تنها به ارائه تخت و مراقبت می‌پردازند و اقامت دائم را تضمین نمی‌کنند.",
-      "key_points_fa": [
-        "گشایش دو مرکز موقت توسط دولت مرکزی در سئوتا",
-        "عدم تضمین اقامت دائم برای مراجعان در مراکز جدید",
-        "تمرکز خدمات بر ارائه تخت‌های اقامتی و مراقبت‌های اولیه"
-      ],
-      "analysis_fa": "اجرای این طرح نشان‌دهنده تلاش دولت برای مدیریت جریان‌های مهاجرتی و کنترل وضعیت اضطراری در مناطق مرزی مانند سئوتا است، بدون اینکه تعهدی برای پذیرش دائمی ایجاد کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سئوتا",
-        "#مهاجران",
-        "#دولت_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -666,6 +759,28 @@
       "editorial_version": 2
     },
     {
+      "id": "0cb79fc6a863",
+      "source": "La Vanguardia",
+      "title": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
+      "summary": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617599/vuelven-desalojar-mas-mil-migrantes-playa-trampolin-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882bc6bfd93.jpeg",
+      "published_at": "2026-08-21T11:55:02+02:00",
+      "category": "economia",
+      "priority": 74,
+      "title_fa": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
+      "lead_fa": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "d4a48ed0f5d1",
       "source": "EL PAÍS",
       "title": "Ocasio-Cortez narra el proceso para congelar sus óvulos mientras se especula sobre su posible candidatura presidencial en 2028",
@@ -717,35 +832,6 @@
         "#اسپانیا",
         "#گردشگری",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "65af3af0cc91",
-      "source": "La Vanguardia",
-      "title": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
-      "summary": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
-      "url": "https://www.lavanguardia.com/internacional/20260821/11617245/entra-vigor-sentencia-ordena-trump-detener-obras-salon-baile-casa-blanca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88109832309.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "اجرای حکم توقف ساخت سالن رقص کاخ سفید توسط ترامپ",
-      "lead_fa": "حکم دادگاه مبنی بر توقف ساخت‌وساز سالن رقص در کاخ سفید اجرایی شد. دولت ترامپ این پروژه را برای امنیت ملی ضروری می‌داند.",
-      "key_points_fa": [
-        "اجرای حکم دادگاه برای توقف پروژه ساخت سالن رقص در کاخ سفید.",
-        "استدلال دولت مبنی بر ضرورت این پروژه برای امنیت ملی.",
-        "پرونده در حال حاضر در دادگاه عالی بررسی می‌شود."
-      ],
-      "analysis_fa": "این پرونده چالش میان اختیارات اجرایی رئیس‌جمهور و تصمیمات قضایی را برجسته می‌کند و استدلال‌های امنیتی دولت در برابر قوانین حفاظتی بناهای تاریخی قرار گرفته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#کاخ_سفید",
-        "#ترامپ",
-        "#قضاوت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -803,34 +889,6 @@
         "#آمریکا",
         "#انتخابات",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b3a39a4cbd6",
-      "source": "EL PAÍS",
-      "title": "Tito Álvarez, ocho años después de las protestas del taxi: “Yo soy Dios o el diablo, no hay término medio”",
-      "summary": "El líder de Élite Taxi afronta la fractura del sector ante la tramitación de la ley que ha impulsado, mientras vive con su prometida en Isla Margarita, en Venezuela",
-      "url": "https://elpais.com/espana/catalunya/2026-08-21/tito-alvarez-ocho-anos-despues-de-las-protestas-del-taxi-yo-soy-dios-o-el-diablo-no-hay-termino-medio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZCC5F6244RHPNC4Q33RGNTOF3I.jpg?auth=ca664abde96aa03197e4171c76b8a4afaaff63eadfa9d8c98801f8926464b9a6",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "تیتو آلوارز، هشت سال پس از اعتصابات تاکسی: من خدا هستم یا شیطان",
-      "lead_fa": "رهبر اتحادیه تاکسی‌رانی الیت با شکاف در این صنف بر سر لایحه پیشنهادی خود روبه‌روست. او اکنون با نامزد خود در جزیره مارگاریتا در ونزوئلا زندگی می‌کند.",
-      "key_points_fa": [
-        "تیتو آلوارز هشت سال پس از اعتراضات معروف تاکسی‌رانان موضع‌گیری کرد.",
-        "صنف تاکسی‌رانی دچار اختلاف و شکاف شده است.",
-        "این تنش‌ها همزمان با بررسی لایحه جدیدی که او پیشنهاد کرده ایجاد شده است."
-      ],
-      "analysis_fa": "وضعیت فعلی آلوارز و چالش‌های صنف تاکسی‌رانی بار دیگر توجه رسانه‌ها را به نقش رهبران صنفی و تاثیر قوانین جدید بر حمل‌ونقل شهری جلب کرده است. این تحولات نشان‌دهنده پیچیدگی‌های سیاسی و صنفی در حوزه حمل‌ونقل شهری اسپانیاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#تاکسی",
-        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1130,6 +1188,50 @@
       "editorial_version": 2
     },
     {
+      "id": "c2d3e311ecbb",
+      "source": "La Vanguardia",
+      "title": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
+      "summary": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "url": "https://www.lavanguardia.com/gente/20260821/11617732/juez-ordena-principe-harry-otros-seis-demandantes-pagar-11-millones-euros-editor-daily-mail.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/23/697363342a0f7.r_d.2477-1652-0.jpeg",
+      "published_at": "2026-08-21T15:34:05+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
+      "lead_fa": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3fe61b28f775",
+      "source": "EL PAÍS",
+      "title": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
+      "summary": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
+      "url": "https://elpais.com/deportes/tenis/2026-08-21/sinner-no-jugara-el-us-open-por-una-lesion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HVMFKOSEONPX3A6ULZZ3CWDK4Y.jpg?auth=c41862fc806d56aa6fd3270e5730bc92a74706a828b34434a986d69cef480f85",
+      "published_at": "2026-08-21T14:44:50+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
+      "lead_fa": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b27d8cdc7ddc",
       "source": "La Vanguardia",
       "title": "El ejército de EE.UU. desmantela su batallón especializado en la guerra con drones",
@@ -1196,138 +1298,6 @@
       "editorial_version": 2
     },
     {
-      "id": "16de9bf7a96a",
-      "source": "La Vanguardia",
-      "title": "Ethel Caterham, la persona más anciana del mundo, cumple 117 años",
-      "summary": "Nacida en 1909 en Shipton Bellinger, al sur de Inglaterra, es una de las únicas 13 personas en la historia que han alcanzado esa edad",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617679/ethel-caterham-persona-mas-anciana-mundo-cumple-117-anos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/09/68e78b9970ddf.r_d.2254-794-0.jpeg",
-      "published_at": "2026-08-21T13:39:12+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ethel Caterham, la persona más anciana del mundo, cumple 117 años",
-      "lead_fa": "Nacida en 1909 en Shipton Bellinger, al sur de Inglaterra, es una de las únicas 13 personas en la historia que han alcanzado esa edad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f65965179daf",
-      "source": "La Vanguardia",
-      "title": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
-      "summary": "OpenAI lanza un complemento para macOS que permite lee, escribir, resumir y enviar los mensajes de la aplicación de la manzana",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617657/chatgpt-controlar-app-imessage-mac-abrir-nuevo-frente-apple.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8836a37528d.r_d.1868-973-0.jpeg",
-      "published_at": "2026-08-21T13:36:18+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
-      "lead_fa": "OpenAI lanza un complemento para macOS que permite lee, escribir, resumir y enviar los mensajes de la aplicación de la manzana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2e913df175de",
-      "source": "La Vanguardia",
-      "title": "Detienen al sospechoso del sabotaje al Nord Stream mientras asesoraba una película de Hollywood sobre el propio atentado",
-      "summary": "El ucraniano Volodymyr Zhuravlyov, señalado como cabecilla de las explosiones que en 2022 dejaron fuera de servicio el gasoducto que llevaba gas ruso a Alemania, ha sido detenido en un set de rodaje en Croacia",
-      "url": "https://www.lavanguardia.com/internacional/20260821/11617633/detienen-sospechoso-sabotaje-nord-stream-asesoraba-pelicula-hollywood-sobre-propio-atentado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882e2ecff29.jpeg",
-      "published_at": "2026-08-21T13:33:58+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Detienen al sospechoso del sabotaje al Nord Stream mientras asesoraba una película de Hollywood sobre el propio atentado",
-      "lead_fa": "El ucraniano Volodymyr Zhuravlyov, señalado como cabecilla de las explosiones que en 2022 dejaron fuera de servicio el gasoducto que llevaba gas ruso a Alemania, ha sido detenido en un set de rodaje en Croacia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "09ae8ee0f7e8",
-      "source": "La Vanguardia",
-      "title": "Detenido por robar maletas en trenes de alta velocidad entre Barcelona y Tarragona",
-      "summary": "Según los Mossos, una vez robado el equipaje, el arrestado intentaba regresar a Barcelona en trenes regionales",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260821/11617676/detenido-robar-maletas-trenes-alta-velocidad-barcelona-tarragona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/11/6913b79b2facd.r_d.2178-2332-0.jpeg",
-      "published_at": "2026-08-21T13:30:50+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Detenido por robar maletas en trenes de alta velocidad entre Barcelona y Tarragona",
-      "lead_fa": "Según los Mossos, una vez robado el equipaje, el arrestado intentaba regresar a Barcelona en trenes regionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "cbf57cd4b914",
-      "source": "La Vanguardia",
-      "title": "La prensa británica reacciona al regreso de los Sussex: “El respeto no se compra”",
-      "summary": "Los medios cuestionan la vuelta del príncipe Harry y Meghan Markle a un país que han criticado duramente en los últimos seis años",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617654/prensa-britanica-reacciona-inesperado-regreso-sussex-deben-comprender-respeto-compra.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/29/69530376624eb.r_d.1305-843-0.jpeg",
-      "published_at": "2026-08-21T13:17:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La prensa británica reacciona al regreso de los Sussex: “El respeto no se compra”",
-      "lead_fa": "Los medios cuestionan la vuelta del príncipe Harry y Meghan Markle a un país que han criticado duramente en los últimos seis años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5a4f1e024956",
-      "source": "EL PAÍS",
-      "title": "Una potente borrasca y una vaguada dejarán lluvias y tormentas en el norte y este peninsulares y Baleares",
-      "summary": "La zona de bajas presiones está siendo vigilada por el Centro Nacional de Huracanes de EE UU por su rareza",
-      "url": "https://elpais.com/el-tiempo/2026-08-21/una-potente-borrasca-dejara-lluvias-y-tormentas-en-el-norte-y-este-peninsulares-y-baleares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SR2EBEKO3FL47BBHAZHX3AIKEE.jpg?auth=aefec8becce72c6f5e395efabb789ce2d5ff7e86241dba8478cd278ca16bdd44",
-      "published_at": "2026-08-21T13:12:39+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Una potente borrasca y una vaguada dejarán lluvias y tormentas en el norte y este peninsulares y Baleares",
-      "lead_fa": "La zona de bajas presiones está siendo vigilada por el Centro Nacional de Huracanes de EE UU por su rareza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ce7d307d7845",
       "source": "EL PAÍS Economía",
       "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
@@ -1372,94 +1342,6 @@
       "editorial_version": 2
     },
     {
-      "id": "917b49e7d876",
-      "source": "EL PAÍS",
-      "title": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
-      "summary": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
-      "url": "https://elpais.com/espana/catalunya/2026-08-21/la-audiencia-de-barcelona-rechaza-una-denuncia-de-abogados-cristianos-por-un-folleto-sobre-el-aborto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZRNJEPA35VCKZM4FYQCCSZ4BT4.jpg?auth=b61db7dec74bf5e5d2fcf7943c8de92d2fa93684d766f08fe2af4ccf9a38eac1",
-      "published_at": "2026-08-21T11:34:46+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
-      "lead_fa": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6b67f5599833",
-      "source": "EL PAÍS",
-      "title": "Ariana Grande arremete de nuevo contra Trump por usar una canción suya en un TikTok tránsfobo: “Tu verdad es falsa”",
-      "summary": "“Nunca vuelvas a utilizar mi música”, ha escrito la cantante en el vídeo que se refiere a las mujeres trans como hombres y que promueve su prohibición en el deporte femenino. La intérprete lanzó en junio su fundación Bright Days Ahead para proteger los derechos de la comunidad LGBTIQ+",
-      "url": "https://elpais.com/gente/2026-08-21/ariana-grande-arremete-de-nuevo-contra-trump-por-usar-una-cancion-suya-en-un-tiktok-transfobo-tu-verdad-es-falsa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/L3DPDXRIUNC5ZGSSQLFXD2LQBQ.jpg?auth=9b4a2d57dd298e733072e629cbea13a3d39250e0099da7ce7e0334451cc91ba9",
-      "published_at": "2026-08-21T11:16:15+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Ariana Grande arremete de nuevo contra Trump por usar una canción suya en un TikTok tránsfobo: “Tu verdad es falsa”",
-      "lead_fa": "“Nunca vuelvas a utilizar mi música”, ha escrito la cantante en el vídeo que se refiere a las mujeres trans como hombres y que promueve su prohibición en el deporte femenino. La intérprete lanzó en junio su fundación Bright Days Ahead para proteger los derechos de la comunidad LGBTIQ+",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b45fca1d3032",
-      "source": "EL PAÍS",
-      "title": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "summary": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
-      "url": "https://cincodias.elpais.com/companias/2026-08-21/tesla-retira-casi-millones-de-vehiculos-en-china-por-distintos-problemas-de-seguridad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5HXNIMQSQJLYXO5ANKPJJDENDY.jpg?auth=0ae543c24384aac6f52bf32ffb192425ab6ed81dcfcb6d80250b95393337becd",
-      "published_at": "2026-08-21T11:13:21+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "lead_fa": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fe2ea22a0611",
-      "source": "La Vanguardia",
-      "title": "Tenemos oficios/Viva España",
-      "summary": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
-      "url": "https://www.lavanguardia.com/opinion/20260821/11617096/oficios-viva-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8712b9a1bfb.r_d.2518-2070-0.jpeg",
-      "published_at": "2026-08-21T00:30:00+02:00",
-      "category": "migracion",
-      "priority": 70,
-      "title_fa": "Tenemos oficios/Viva España",
-      "lead_fa": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c426c43cdbc2",
       "source": "La Vanguardia",
       "title": "Alimentación postozempic",
@@ -1488,17 +1370,105 @@
       "editorial_version": 2
     },
     {
-      "id": "20a5b0ce558c",
+      "id": "16de9bf7a96a",
       "source": "La Vanguardia",
-      "title": "Los pisos de los políticos",
-      "summary": "Cuando la vivienda de un gobernante es materia de escrutinio público siempre tiene las de perder",
-      "url": "https://www.lavanguardia.com/opinion/20260821/11617480/pisos-politicos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "published_at": "2026-08-21T00:05:00+02:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "Los pisos de los políticos",
-      "lead_fa": "Cuando la vivienda de un gobernante es materia de escrutinio público siempre tiene las de perder",
+      "title": "Ethel Caterham, la persona más anciana del mundo, cumple 117 años",
+      "summary": "Nacida en 1909 en Shipton Bellinger, al sur de Inglaterra, es una de las únicas 13 personas en la historia que han alcanzado esa edad",
+      "url": "https://www.lavanguardia.com/vida/20260821/11617679/ethel-caterham-persona-mas-anciana-mundo-cumple-117-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/09/68e78b9970ddf.r_d.2254-794-0.jpeg",
+      "published_at": "2026-08-21T13:39:12+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Ethel Caterham, la persona más anciana del mundo, cumple 117 años",
+      "lead_fa": "Nacida en 1909 en Shipton Bellinger, al sur de Inglaterra, es una de las únicas 13 personas en la historia que han alcanzado esa edad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f65965179daf",
+      "source": "La Vanguardia",
+      "title": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
+      "summary": "OpenAI lanza un complemento para macOS que permite lee, escribir, resumir y enviar los mensajes de la aplicación de la manzana",
+      "url": "https://www.lavanguardia.com/vida/20260821/11617657/chatgpt-controlar-app-imessage-mac-abrir-nuevo-frente-apple.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8836a37528d.r_d.1868-973-0.jpeg",
+      "published_at": "2026-08-21T13:36:18+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
+      "lead_fa": "OpenAI lanza un complemento para macOS que permite lee, escribir, resumir y enviar los mensajes de la aplicación de la manzana",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2e913df175de",
+      "source": "La Vanguardia",
+      "title": "Detenido por el sabotaje al Nord Stream mientras trabajaba en una película sobre el atentado",
+      "summary": "El ucraniano Volodymyr Zhuravlyov, señalado como cabecilla de las explosiones que en 2022 dejaron fuera de servicio el gasoducto que llevaba gas ruso a Alemania, ha sido detenido en un set de rodaje en Croacia",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617633/detienen-sospechoso-sabotaje-nord-stream-asesoraba-pelicula-hollywood-sobre-propio-atentado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882e2ecff29.jpeg",
+      "published_at": "2026-08-21T13:33:58+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Detenido por el sabotaje al Nord Stream mientras trabajaba en una película sobre el atentado",
+      "lead_fa": "El ucraniano Volodymyr Zhuravlyov, señalado como cabecilla de las explosiones que en 2022 dejaron fuera de servicio el gasoducto que llevaba gas ruso a Alemania, ha sido detenido en un set de rodaje en Croacia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cbf57cd4b914",
+      "source": "La Vanguardia",
+      "title": "La prensa británica reacciona al inesperado regreso de los Sussex: “El respeto no se compra”",
+      "summary": "Los medios cuestionan la vuelta del príncipe Harry y Meghan Markle a un país que han criticado duramente en los últimos seis años",
+      "url": "https://www.lavanguardia.com/gente/20260821/11617654/prensa-britanica-reacciona-inesperado-regreso-sussex-deben-comprender-respeto-compra.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/29/69530376624eb.r_d.1305-843-0.jpeg",
+      "published_at": "2026-08-21T13:17:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La prensa británica reacciona al inesperado regreso de los Sussex: “El respeto no se compra”",
+      "lead_fa": "Los medios cuestionan la vuelta del príncipe Harry y Meghan Markle a un país que han criticado duramente en los últimos seis años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0d2f032f9742",
+      "source": "La Vanguardia",
+      "title": "La presidenta del CGPJ se reunirá con el presidente Vivas a la menor brevedad posible",
+      "summary": "El mandatario ceutí reclamó el pasado lunes ser recibido por Perelló para informarle de que “Ceuta está en peligro”",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617650/presidenta-cgpj-reunira-presidente-vivas-menor-brevedad-posible.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/19/6a346b5b098e3.jpeg",
+      "published_at": "2026-08-21T13:00:53+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La presidenta del CGPJ se reunirá con el presidente Vivas a la menor brevedad posible",
+      "lead_fa": "El mandatario ceutí reclamó el pasado lunes ser recibido por Perelló para informarle de que “Ceuta está en peligro”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1554,17 +1524,83 @@
       "editorial_version": 2
     },
     {
-      "id": "0cb79fc6a863",
+      "id": "917b49e7d876",
+      "source": "EL PAÍS",
+      "title": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
+      "summary": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
+      "url": "https://elpais.com/espana/catalunya/2026-08-21/la-audiencia-de-barcelona-rechaza-una-denuncia-de-abogados-cristianos-por-un-folleto-sobre-el-aborto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZRNJEPA35VCKZM4FYQCCSZ4BT4.jpg?auth=b61db7dec74bf5e5d2fcf7943c8de92d2fa93684d766f08fe2af4ccf9a38eac1",
+      "published_at": "2026-08-21T11:34:46+00:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
+      "lead_fa": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6b67f5599833",
+      "source": "EL PAÍS",
+      "title": "Ariana Grande arremete de nuevo contra Trump por usar una canción suya en un TikTok tránsfobo: “Tu verdad es falsa”",
+      "summary": "“Nunca vuelvas a utilizar mi música”, ha escrito la cantante en el vídeo que se refiere a las mujeres trans como hombres y que promueve su prohibición en el deporte femenino. La intérprete lanzó en junio su fundación Bright Days Ahead para proteger los derechos de la comunidad LGBTIQ+",
+      "url": "https://elpais.com/gente/2026-08-21/ariana-grande-arremete-de-nuevo-contra-trump-por-usar-una-cancion-suya-en-un-tiktok-transfobo-tu-verdad-es-falsa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/L3DPDXRIUNC5ZGSSQLFXD2LQBQ.jpg?auth=9b4a2d57dd298e733072e629cbea13a3d39250e0099da7ce7e0334451cc91ba9",
+      "published_at": "2026-08-21T11:16:15+00:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Ariana Grande arremete de nuevo contra Trump por usar una canción suya en un TikTok tránsfobo: “Tu verdad es falsa”",
+      "lead_fa": "“Nunca vuelvas a utilizar mi música”, ha escrito la cantante en el vídeo que se refiere a las mujeres trans como hombres y que promueve su prohibición en el deporte femenino. La intérprete lanzó en junio su fundación Bright Days Ahead para proteger los derechos de la comunidad LGBTIQ+",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0e293e0779f2",
       "source": "La Vanguardia",
-      "title": "Vuelven a desalojar a más de mil migrantes de la playa de El Trampolín",
-      "summary": "No se ha comunicado oficialmente el destino de las personas evacuadas",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617599/vuelven-desalojar-mas-mil-migrantes-playa-trampolin-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882bc6bfd93.jpeg",
-      "published_at": "2026-08-21T11:55:02+02:00",
+      "title": "Caen dos mafias que cobraban hasta 9.000 euros por trasladar migrantes de Ceuta a la península",
+      "summary": "Se han detenido cinco personas que usaban embarcaciones de pequeños tamaño y llegaban a cobrar hasta 9.000 euros",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617573/caen-dos-organizaciones-trafico-ilicito-migrantes-ceuta-peninsula.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8712b9a1bfb.r_d.2518-2070-0.jpeg",
+      "published_at": "2026-08-21T11:14:24+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Vuelven a desalojar a más de mil migrantes de la playa de El Trampolín",
-      "lead_fa": "No se ha comunicado oficialmente el destino de las personas evacuadas",
+      "title_fa": "Caen dos mafias que cobraban hasta 9.000 euros por trasladar migrantes de Ceuta a la península",
+      "lead_fa": "Se han detenido cinco personas que usaban embarcaciones de pequeños tamaño y llegaban a cobrar hasta 9.000 euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b45fca1d3032",
+      "source": "EL PAÍS",
+      "title": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "summary": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
+      "url": "https://cincodias.elpais.com/companias/2026-08-21/tesla-retira-casi-millones-de-vehiculos-en-china-por-distintos-problemas-de-seguridad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5HXNIMQSQJLYXO5ANKPJJDENDY.jpg?auth=0ae543c24384aac6f52bf32ffb192425ab6ed81dcfcb6d80250b95393337becd",
+      "published_at": "2026-08-21T11:13:21+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "lead_fa": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1601,14 +1637,14 @@
       "id": "5dbdd94eaf12",
       "source": "EL PAÍS",
       "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "summary": "El índice al que están referenciadas la mayoría de las hipotecas variables en España alcanza el nivel más alto en más de dos años",
+      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
       "published_at": "2026-08-21T10:32:15+00:00",
       "category": "sociedad",
       "priority": 69,
       "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "lead_fa": "El índice al que están referenciadas la mayoría de las hipotecas variables en España alcanza el nivel más alto en más de dos años",
+      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1631,28 +1667,6 @@
       "priority": 69,
       "title_fa": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
       "lead_fa": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d398da36a260",
-      "source": "EL PAÍS",
-      "title": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
-      "summary": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
-      "url": "https://elpais.com/deportes/futbol/2026-08-21/mourinho-en-su-primera-rueda-de-prensa-con-cada-titulo-del-real-madrid-tenia-una-llamada-del-presi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206464_090818_video_1800.mp4",
-      "published_at": "2026-08-21T08:44:11+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
-      "lead_fa": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1708,28 +1722,6 @@
       "editorial_version": 2
     },
     {
-      "id": "294abb8f138d",
-      "source": "La Vanguardia",
-      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "summary": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
-      "published_at": "2026-08-21T06:05:00+02:00",
-      "category": "ciencia",
-      "priority": 67,
-      "title_fa": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "lead_fa": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d64bc0965914",
       "source": "La Vanguardia",
       "title": "Ayuso, una inquilina polémica",
@@ -1741,50 +1733,6 @@
       "priority": 67,
       "title_fa": "Ayuso, una inquilina polémica",
       "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0b8a81f09d0c",
-      "source": "La Vanguardia",
-      "title": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
-      "summary": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
-      "url": "https://www.lavanguardia.com/economia/20260821/11617286/impacto-ia-expansion-encarece-financiacion-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a873847c817a.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
-      "lead_fa": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "adda565c887d",
-      "source": "La Vanguardia",
-      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1851,6 +1799,28 @@
       "priority": 67,
       "title_fa": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
       "lead_fa": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "adda565c887d",
+      "source": "La Vanguardia",
+      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2104,28 +2074,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b0c199ec71e3",
-      "source": "EL PAÍS",
-      "title": "Tortilla de berenjena, la receta que también puedes preparar con calabacín",
-      "summary": "Con huevos y la hortaliza de verano de tu preferencia puedes resolver una comida rápida y completa",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-21/tortilla-de-berenjena-la-receta-que-tambien-puedes-preparar-con-calabacin.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/23S467OFAJFMHOF7KZXGV4OVV4.jpg?auth=942887133c9190c92f2c9026ac205406cb20ab434f99a14554a64916fd045b3f",
-      "published_at": "2026-08-21T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Tortilla de berenjena, la receta que también puedes preparar con calabacín",
-      "lead_fa": "Con huevos y la hortaliza de verano de tu preferencia puedes resolver una comida rápida y completa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4557536f1724",
       "source": "EL PAÍS",
       "title": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
@@ -2137,6 +2085,28 @@
       "priority": 67,
       "title_fa": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
       "lead_fa": "Los duques de Sussex planean establecerse fuera de Londres y seguirán sin ejercer tareas de representación. Los posibles encuentros o desencuentros con Guillermo de Inglaterra pasarán a ser el nuevo objetivo de los tabloides británicos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b0c199ec71e3",
+      "source": "EL PAÍS",
+      "title": "Tortilla de berenjena, la receta que también puedes preparar con calabacín",
+      "summary": "Con huevos y la hortaliza de verano de tu preferencia puedes resolver una comida rápida y completa",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-21/tortilla-de-berenjena-la-receta-que-tambien-puedes-preparar-con-calabacin.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/23S467OFAJFMHOF7KZXGV4OVV4.jpg?auth=942887133c9190c92f2c9026ac205406cb20ab434f99a14554a64916fd045b3f",
+      "published_at": "2026-08-21T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Tortilla de berenjena, la receta que también puedes preparar con calabacín",
+      "lead_fa": "Con huevos y la hortaliza de verano de tu preferencia puedes resolver una comida rápida y completa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2329,7 +2299,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
       "published_at": "2026-08-20T05:30:00+00:00",
       "category": "ciencia",
-      "priority": 60,
+      "priority": 59,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
@@ -2481,7 +2451,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 130
+      "count": 133
     }
   ]
 }
