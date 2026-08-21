@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:37:11.618373+00:00",
+  "generated_at": "2026-08-21T11:58:34.394395+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e2600f504d93",
@@ -411,35 +411,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5c6b3e562a1c",
-      "source": "EL PAÍS",
-      "title": "La ocupación hotelera alcanza un récord en julio pese a la subida histórica de precios",
-      "summary": "Las pernoctaciones avanzan un tímido 0,3% hasta los 44,8 millones, mientras la tarifa media por una habitacion doble sube un 7% y se sitúa en 157 euros",
-      "url": "https://elpais.com/economia/2026-08-21/la-ocupacion-hotelera-alcanza-un-record-en-julio-pese-a-la-subida-historica-de-precios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PX54CZMSBJEE5NPL2557BKX2ZI.jpg?auth=a93fc03a5fa8fcc6a78529b3f9b55f05f1e9f7d2ddb09a13f9f28fd7133c64b4",
-      "published_at": "2026-08-21T08:35:30+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "رکوردشکنی اشغال هتل‌های اسپانیا در تیرماه با وجود افزایش قیمت‌ها",
-      "lead_fa": "تعداد اقامت‌های شبانه در هتل‌های اسپانیا در ماه ژوئیه با افزایشی جزئی به ۴۴.۸ میلیون مورد رسید. در همین حال، میانگین قیمت اتاق‌های دو تخته با ۷ درصد افزایش به ۱۵۷ یورو بالغ شد.",
-      "key_points_fa": [
-        "رشد ناچیز ۰.۳ درصدی در تعداد اقامت‌های شبانه نسبت به دوره مشابه",
-        "افزایش تاریخی ۷ درصدی در میانگین قیمت هر اتاق دو تخته",
-        "ثبت میانگین قیمت ۱۵۷ یورو برای هر شب اقامت در اتاق دو تخته"
-      ],
-      "analysis_fa": "این آمار نشان‌دهنده تداوم تقاضا برای سفر در اسپانیا است، حتی با وجود اینکه هزینه‌های اقامت به بالاترین سطح خود رسیده. این روند حاکی از انعطاف‌پذیری بازار گردشگری در برابر تورم و رشد قیمت‌هاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#گردشگری",
-        "#اقتصاد",
-        "#هتل"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "65de860f60bb",
       "source": "EL PAÍS",
       "title": "La falta de aceite y de recambios para los generadores de los hospitales de Gaza, por el bloqueo israelí, amenaza la vida de los pacientes",
@@ -754,7 +725,7 @@
     },
     {
       "id": "7de7e3258a53",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Los turistas extranjeros dispararon el gasto en las provincias donde mejor se vio el eclipse",
       "summary": "El pago con tarjeta por parte de los foráneos creció hasta un 220% en Soria y un 106% en La Rioja durante la semana del fenómeno natural, según los datos de BBVA",
       "url": "https://elpais.com/economia/2026-08-21/los-turistas-extranjeros-dispararon-el-gasto-en-las-provincias-donde-mejor-se-vio-el-eclipse.html",
@@ -848,16 +819,22 @@
       "published_at": "2026-08-21T03:40:00+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Elecciones legislativas en EE UU: Trump va mal y los demócratas, peor",
-      "lead_fa": "El giro socialista del principal partido de la oposición amenaza con dilapidar una ventaja que las encuestas daban por hecha",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتخابات کنگره آمریکا: چالش برای ترامپ و دموکرات‌ها",
+      "lead_fa": "چرخش سوسیالیستی حزب اپوزیسون اصلی در ایالات متحده، برتری پیش‌بینی‌شده در نظرسنجی‌ها را به مخاطره انداخته است. وضعیت رقابت‌های انتخاباتی پیش‌رو نشان‌دهنده چالش‌های جدی برای هر دو جریان سیاسی اصلی است.",
+      "key_points_fa": [
+        "تهدید برتری انتخاباتی دموکرات‌ها به دلیل گرایش‌های سوسیالیستی اخیر.",
+        "وضعیت نامناسب حزب اپوزیسون در نظرسنجی‌های تازه.",
+        "تأثیر تحولات حزب مخالف بر معادلات سیاسی آمریکا."
+      ],
+      "analysis_fa": "تحولات اخیر در مواضع حزب اپوزیسون اصلی نشان می‌دهد که رقابت‌های سیاسی در ایالات متحده وارد مرحله پیچیده‌ای شده است. در حالی که نظرسنجی‌ها پیش‌تر برتری را برای جناح‌های خاصی پیش‌بینی می‌کردند، تغییر رویکردها می‌تواند معادلات قدرت را در کنگره تغییر دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمریکا",
+        "#انتخابات",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -868,18 +845,24 @@
       "url": "https://elpais.com/espana/2026-08-21/el-gran-desalojo-de-la-playa-de-el-trampolin-no-es-para-ir-a-marruecos-es-una-jaima-buena.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206254_161218_video_1800.mp4",
       "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
+      "category": "migracion",
       "priority": 73,
-      "title_fa": "El gran desalojo de la playa de El Trampolín: “No es para ir a Marruecos, es una jaima buena”",
-      "lead_fa": "El Gobierno reubica a unos 1.400 migrantes que vivían en el mayor asentamiento irregular de la ciudad autónoma y otros 500 se instalan en la zona horas después de comenzar a limpiarla",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
+      "title_fa": "تخلیه بزرگترین سکونتگاه غیرقانونی مهاجران در شهر خودمختار",
+      "lead_fa": "دولت اسپانیا حدود ۱۴۰۰ مهاجر ساکن در ساحل ال ترامپولین را جابه‌جا کرد. تنها چند ساعت پس از آغاز پاکسازی، ۵۰۰ مهاجر دیگر در این منطقه مستقر شدند.",
+      "key_points_fa": [
+        "جابه‌جایی ۱۴۰۰ مهاجر از بزرگترین سکونتگاه غیرقانونی در شهر خودمختار.",
+        "آغاز عملیات پاکسازی و تمیزسازی منطقه توسط نهادهای دولتی.",
+        "استقرار مجدد ۵۰۰ مهاجر دیگر در همان منطقه تنها ساعاتی پس از شروع پاکسازی."
+      ],
+      "analysis_fa": "این اقدام نشان‌دهنده چالش‌های مداوم دولت در مدیریت سکونتگاه‌های غیرقانونی و جریان مهاجرت است. تخلیه این مناطق بدون ارائه راه‌حل‌های پایدار و ریشه‌ای برای اسکان، معمولاً به بازگشت سریع مهاجران به همان نقاط منجر می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
       "hashtags_fa": [
+        "#مهاجرت",
+        "#اسپانیا",
         "#اخبار_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -892,16 +875,22 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 73,
-      "title_fa": "Tito Álvarez, ocho años después de las protestas del taxi: “Yo soy Dios o el diablo, no hay término medio”",
-      "lead_fa": "El líder de Élite Taxi afronta la fractura del sector ante la tramitación de la ley que ha impulsado, mientras vive con su prometida en Isla Margarita, en Venezuela",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تیتو آلوارز، هشت سال پس از اعتصابات تاکسی: من خدا هستم یا شیطان",
+      "lead_fa": "رهبر اتحادیه تاکسی‌رانی الیت با شکاف در این صنف بر سر لایحه پیشنهادی خود روبه‌روست. او اکنون با نامزد خود در جزیره مارگاریتا در ونزوئلا زندگی می‌کند.",
+      "key_points_fa": [
+        "تیتو آلوارز هشت سال پس از اعتراضات معروف تاکسی‌رانان موضع‌گیری کرد.",
+        "صنف تاکسی‌رانی دچار اختلاف و شکاف شده است.",
+        "این تنش‌ها همزمان با بررسی لایحه جدیدی که او پیشنهاد کرده ایجاد شده است."
+      ],
+      "analysis_fa": "وضعیت فعلی آلوارز و چالش‌های صنف تاکسی‌رانی بار دیگر توجه رسانه‌ها را به نقش رهبران صنفی و تاثیر قوانین جدید بر حمل‌ونقل شهری جلب کرده است. این تحولات نشان‌دهنده پیچیدگی‌های سیاسی و صنفی در حوزه حمل‌ونقل شهری اسپانیاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
+        "#اسپانیا",
+        "#تاکسی",
         "#اخبار_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1286,6 +1275,28 @@
       "editorial_version": 2
     },
     {
+      "id": "917b49e7d876",
+      "source": "EL PAÍS",
+      "title": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
+      "summary": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
+      "url": "https://elpais.com/espana/catalunya/2026-08-21/la-audiencia-de-barcelona-rechaza-una-denuncia-de-abogados-cristianos-por-un-folleto-sobre-el-aborto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZRNJEPA35VCKZM4FYQCCSZ4BT4.jpg?auth=b61db7dec74bf5e5d2fcf7943c8de92d2fa93684d766f08fe2af4ccf9a38eac1",
+      "published_at": "2026-08-21T11:34:46+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "La Audiencia de Barcelona rechaza una denuncia de Abogados Cristianos por un folleto sobre el aborto",
+      "lead_fa": "La plataforma ultracatólica presentó al contencioso una demanda para retirar un tríptico informativo titulado ‘¿Cómo abortar en Barcelona si eres joven?’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "abd2c9f9c8db",
       "source": "La Vanguardia",
       "title": "El alcalde de Como prohíbe las bicicletas en el centro de la ciudad tras ser atropellado por una",
@@ -1319,6 +1330,28 @@
       "priority": 70,
       "title_fa": "Ariana Grande arremete de nuevo contra Trump por usar una canción suya en un TikTok tránsfobo: “Tu verdad es falsa”",
       "lead_fa": "“Nunca vuelvas a utilizar mi música”, ha escrito la cantante en el vídeo que se refiere a las mujeres trans como hombres y que promueve su prohibición en el deporte femenino. La intérprete lanzó en junio su fundación Bright Days Ahead para proteger los derechos de la comunidad LGBTIQ+",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b45fca1d3032",
+      "source": "EL PAÍS",
+      "title": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "summary": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
+      "url": "https://cincodias.elpais.com/companias/2026-08-21/tesla-retira-casi-millones-de-vehiculos-en-china-por-distintos-problemas-de-seguridad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5HXNIMQSQJLYXO5ANKPJJDENDY.jpg?auth=0ae543c24384aac6f52bf32ffb192425ab6ed81dcfcb6d80250b95393337becd",
+      "published_at": "2026-08-21T11:13:21+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "lead_fa": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1385,28 +1418,6 @@
       "priority": 70,
       "title_fa": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
       "lead_fa": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d398da36a260",
-      "source": "EL PAÍS",
-      "title": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
-      "summary": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
-      "url": "https://elpais.com/deportes/futbol/2026-08-21/mourinho-en-su-primera-rueda-de-prensa-con-cada-titulo-del-real-madrid-tenia-una-llamada-del-presi.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NE7POHOSRFMT5AQJ4SNSP66N5U.jpg?auth=7eed0977866362288360711827c1dfe88b2b3154020d690fc7a4135b07ebea10",
-      "published_at": "2026-08-21T08:44:11+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
-      "lead_fa": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1506,6 +1517,28 @@
       "priority": 69,
       "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
       "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d398da36a260",
+      "source": "EL PAÍS",
+      "title": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
+      "summary": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
+      "url": "https://elpais.com/deportes/futbol/2026-08-21/mourinho-en-su-primera-rueda-de-prensa-con-cada-titulo-del-real-madrid-tenia-una-llamada-del-presi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NE7POHOSRFMT5AQJ4SNSP66N5U.jpg?auth=7eed0977866362288360711827c1dfe88b2b3154020d690fc7a4135b07ebea10",
+      "published_at": "2026-08-21T08:44:11+00:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
+      "lead_fa": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2436,7 +2469,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 147
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
