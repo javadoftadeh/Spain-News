@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T04:21:31.235537+00:00",
+  "generated_at": "2026-08-21T05:08:47.746574+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "fdf534682e4d",
     "9c674691b7de",
     "f976d6b916f2",
     "0cb4b761e981",
-    "d2dbd6cbf855"
+    "e45da92ee5ac"
   ],
   "items": [
     {
@@ -132,16 +132,23 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Las mil y una calamidades de los bomberos de Castilla y León tras el incendio más grave de la historia de España: “Es inhumano”",
-      "lead_fa": "Los brigadistas denuncian que el récord de hectáreas quemadas en Ávila revela que el dispositivo sigue sin mejorar pese a años de desgracias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتقاد شدید آتش‌نشانان کاستییا و لئون از وضعیت بحرانی اطفای حریق",
+      "lead_fa": "نیروهای امدادی کاستییا و لئون پس از بزرگ‌ترین آتش‌سوزی تاریخ اسپانیا شرایط کاری خود را غیرانسان خواندند. آن‌ها معتقدند که تجهیزات و سازماندهی اطفای حریق با وجود سال‌ها فاجعه همچنان بهبود نیافته است.",
+      "key_points_fa": [
+        "اعتراض آتش‌نشانان به وضعیت نامناسب پس از رکوردشکنی مساحت اراضی سوخته در آویلا",
+        "انتقاد از ناکارآمدی مستمر تجهیزات و دستگاه‌های امدادی در اسپانیا",
+        "توصیف شرایط کاری نیروهای امدادی به عنوان وضعیتی غیرانسان"
+      ],
+      "analysis_fa": "این اعتراضات بار دیگر ضعف ساختاری سیستم‌های مدیریت بحران و پیشگیری از آتش‌سوزی‌های جنگلی در مناطق مرکزی اسپانیا را برجسته می‌کند. تکرار این حوادث و نارضایتی نیروهای میدانی، فشارهای سیاسی بر دولت‌های محلی را برای بازنگری در بودجه‌ها و تجهیزات ایمنی افزایش داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#آتش_نشانان",
+        "#کاستییا_و_لئون"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -152,18 +159,24 @@
       "url": "https://elpais.com/espana/2026-08-21/por-que-trasladar-a-500-menores-de-ceuta-a-la-peninsula-atencion-basica-inmediata-y-respuesta-a-la-salud-mental.html",
       "image": "https://imagenes.elpais.com/resizer/v2/S7TQ7GYPEZFHFMO55W26J6J7LU.jpeg?auth=aad354adfca6c47e95aa2d508d580d6b729db484300d5e96f89bf8c565c0b30c",
       "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 77,
-      "title_fa": "Por qué trasladar a 500 menores de Ceuta a la Península: atención básica inmediata y respuesta a la salud mental",
-      "lead_fa": "Tres mujeres y cinco menores de edad han sido atendidas en el centro de crisis 24 horas de la ciudad en este contexto humanitario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتقال ۵۰۰ کودک از سئوئا به شبه‌جزیره برای رسیدگی پزشکی",
+      "lead_fa": "سه زن و پنج کودک در مرکز بحران شهر مورد رسیدگی قرار گرفتند. این اقدام بخشی از پاسخ به نیازهای بشردوستانه و سلامت روان است.",
+      "key_points_fa": [
+        "انتقال ۵۰۰ کودک از سئوئا به شبه‌جزیره اسپانیا",
+        "ارائه توجه بنیادین فوری و پاسخ به نیازهای سلامت روان",
+        "رسیدگی به سه زن و پنج کودک در مرکز بحران ۲۴ ساعته"
+      ],
+      "analysis_fa": "این تصمیم در راستای مدیریت بحران‌های انسانی و کاهش فشار بر زیرساخت‌های محلی سئوئا اتخاذ شده است و بر ضرورت توجه به آسیب‌پذیرترین اقشار مهاجر تأکید دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سئوئا",
+        "#مهاجرت",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -261,16 +274,23 @@
       "published_at": "2026-08-21T03:45:01+00:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "Medio año de guerra después, Estados Unidos sigue sin estrangular la economía de Irán",
-      "lead_fa": "El cerco comercial y financiero que Trump quiere intensificar daña a Teherán, pero no hace descarrilar la matriz productiva del régimen. La población civil es la más golpeada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اقتصاد ایران پس از نیم سال جنگ همچنان پابرجاست",
+      "lead_fa": "تحریم‌های تجاری و مالی آمریکا فشار شدیدی بر تهران وارد کرده است. با این حال، این اقدامات هنوز ساختار تولیدی حکومت را از کار نیانداخته است.",
+      "key_points_fa": [
+        "فشار تجاری و مالی ایالات متحده علیه ایران ادامه دارد.",
+        "ساختار تولیدی حکومت ایران تاکنون متوقف نشده است.",
+        "جمعیت غیرنظامی بیشترین آسیب را از این وضعیت متحمل شده است."
+      ],
+      "analysis_fa": "فشارهای اقتصادی شدیدی که از سوی ایالات متحده اعمال می‌شود، اقتصاد ایران را تضعیف کرده است اما نتوانسته فروپاشی کامل ساختار اقتصادی آن را به همراه داشته باشد. در این میان، غیرنظامیان بیش از دیگر بخش‌ها متحمل هزینه‌های این چالش‌های اقتصادی می‌شوند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ایران",
+        "#آمریکا",
+        "#اقتصاد",
+        "#تحریم"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -494,28 +514,6 @@
       "editorial_version": 2
     },
     {
-      "id": "023f4330fa4c",
-      "source": "EL PAÍS",
-      "title": "El verano de los algoritmos: ¿Cómo cambian las recomendaciones de TikTok, Instagram y Spotify?",
-      "summary": "Millones de personas modifican de manera simultánea sus rutinas y estados de ánimo y las plataformas responden amplificando aquello que se vuelve más visto o compartido",
-      "url": "https://elpais.com/tecnologia/2026-08-21/el-verano-de-los-algoritmos-como-cambian-las-recomendaciones-de-tiktok-instagram-y-spotify.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PINLUBBKSJDQBA4W5NVVASMD6I.jpg?auth=7235f29baba97ad18c16a300ae73bea9cf39c3e09f304d1ef7d3e1c073c2b69b",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "El verano de los algoritmos: ¿Cómo cambian las recomendaciones de TikTok, Instagram y Spotify?",
-      "lead_fa": "Millones de personas modifican de manera simultánea sus rutinas y estados de ánimo y las plataformas responden amplificando aquello que se vuelve más visto o compartido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0da8ddb13e41",
       "source": "EL PAÍS",
       "title": "¿Pueden los progresistas de Estados Unidos impulsar el crecimiento económico?",
@@ -527,28 +525,6 @@
       "priority": 75,
       "title_fa": "¿Pueden los progresistas de Estados Unidos impulsar el crecimiento económico?",
       "lead_fa": "Para que triunfen políticos como Mamdani no basta con la redistribución; hace falta también un programa que fomente la actividad, el empleo de calidad y la capacidad productiva",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1f657196329c",
-      "source": "EL PAÍS",
-      "title": "Arden los platós: cómo las dinámicas más tóxicas de internet se han infiltrado en la televisión",
-      "summary": "Las tertulias políticas se nutren de contenidos virales, y las redes replican las intervenciones más polémicas, en un bucle de odio y simplismo que nos envilece",
-      "url": "https://elpais.com/opinion/2026-08-21/arden-los-platos-como-las-dinamicas-mas-toxicas-de-internet-se-han-infiltrado-en-la-television.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ICSKXGA66NDWVOJ5LJ2OH2FYFQ.jpg?auth=187802070bc07d1931f82a42efc6c8d66b4d0f38ed1edabe8295f0dd3feb7d31",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Arden los platós: cómo las dinámicas más tóxicas de internet se han infiltrado en la televisión",
-      "lead_fa": "Las tertulias políticas se nutren de contenidos virales, y las redes replican las intervenciones más polémicas, en un bucle de odio y simplismo que nos envilece",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -627,7 +603,7 @@
     },
     {
       "id": "a0e0bb8eaf05",
-      "source": "EL PAÍS Economía",
+      "source": "EL PAÍS",
       "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
       "summary": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
       "url": "https://cincodias.elpais.com/companias/2026-08-21/el-gran-proveedor-de-atun-en-lata-de-mercadona-bate-record-de-ventas-y-dispara-beneficios.html",
@@ -637,28 +613,6 @@
       "priority": 75,
       "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
       "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e03235f4d64d",
-      "source": "EL PAÍS",
-      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "summary": "Las autoridades reportan por el momento daños menores, sin víctimas",
-      "url": "https://elpais.com/america/2026-08-20/un-terremoto-de-magnitud-72-sacude-la-region-andina-de-ayacucho-en-el-sur-de-peru.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206334_193226_video_1800.mp4",
-      "published_at": "2026-08-20T20:22:40+00:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "lead_fa": "Las autoridades reportan por el momento daños menores, sin víctimas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -951,17 +905,17 @@
       "editorial_version": 2
     },
     {
-      "id": "5fe95a5da561",
-      "source": "EL PAÍS",
-      "title": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
-      "summary": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
-      "url": "https://elpais.com/sociedad/2026-08-20/un-estudio-de-la-oms-rechaza-que-se-obligue-a-los-sanitarios-a-denunciar-agresiones-machistas-cuando-la-paciente-no-quiere.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OPCYOGVEOZHRLJYL2Y6L52ZTTQ.jpg?auth=1cb34e9c53afc1110e7ee037b36e7a0491139dc94d4971a968509be1d4bb9470",
-      "published_at": "2026-08-20T22:30:00+00:00",
-      "category": "politica",
+      "id": "fd9379be35e3",
+      "source": "La Vanguardia",
+      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
+      "summary": "El temblor se sintió hasta en la capital Lima, a más de 600 kilómetros, pero hasta el momento no se han registrado daños personales o materiales",
+      "url": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a87487539914.r_d.412-425-0.jpeg",
+      "published_at": "2026-08-20T20:28:52+02:00",
+      "category": "sociedad",
       "priority": 74,
-      "title_fa": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
-      "lead_fa": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
+      "title_fa": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
+      "lead_fa": "El temblor se sintió hasta en la capital Lima, a más de 600 kilómetros, pero hasta el momento no se han registrado daños personales o materiales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1029,6 +983,28 @@
       "editorial_version": 2
     },
     {
+      "id": "5fe95a5da561",
+      "source": "EL PAÍS",
+      "title": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
+      "summary": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
+      "url": "https://elpais.com/sociedad/2026-08-20/un-estudio-de-la-oms-rechaza-que-se-obligue-a-los-sanitarios-a-denunciar-agresiones-machistas-cuando-la-paciente-no-quiere.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OPCYOGVEOZHRLJYL2Y6L52ZTTQ.jpg?auth=1cb34e9c53afc1110e7ee037b36e7a0491139dc94d4971a968509be1d4bb9470",
+      "published_at": "2026-08-20T22:30:00+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
+      "lead_fa": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a1c1659278c7",
       "source": "EL PAÍS España",
       "title": "Feijóo y Vivas abren una nueva guerra por los menores en Ceuta",
@@ -1055,6 +1031,50 @@
         "#سیاست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4d3f33cf1289",
+      "source": "EL PAÍS",
+      "title": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
+      "summary": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
+      "url": "https://elpais.com/america/2026-08-21/la-vida-revolucionaria-en-nicaragua-del-hermano-de-natalie-harp-la-devota-secretaria-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
+      "lead_fa": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e0695f7e7fa0",
+      "source": "EL PAÍS",
+      "title": "Las multinacionales energéticas regresan a Venezuela",
+      "summary": "La tutela estadounidense en el país facilita la llegada de grandes capitales al negocio petrolero y rompe con años de aislamiento y sanciones internacionales",
+      "url": "https://elpais.com/america/2026-08-21/las-multinacionales-energeticas-regresan-a-venezuela.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CBANUB3VLNMEBNHEOJ4WKD4T5M.jpg?auth=a0346b7d7c98d5a84a0cf721c96a32fa98e1afb3e5675709460da1172d4e413b",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Las multinacionales energéticas regresan a Venezuela",
+      "lead_fa": "La tutela estadounidense en el país facilita la llegada de grandes capitales al negocio petrolero y rompe con años de aislamiento y sanciones internacionales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1234,6 +1254,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ccdf71f056ca",
+      "source": "EL PAÍS",
+      "title": "‘Historia verdadera de la conquista de la Nueva España’: chanchullos, aventuras y rapiñas explicadas por un soldado escritor",
+      "summary": "Bernal Díaz del Castillo, que tomó Tenochtitlán con Hernán Cortes, escribió una crónica clásica en la que dio su versión de la conquista. Ahora se publica adaptada y en español moderno",
+      "url": "https://elpais.com/babelia/2026-08-21/historia-verdadera-de-la-conquista-de-la-nueva-espana-una-narracion-parcial-desde-el-punto-de-vista-de-un-vencedor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FNQ3CFGUG5ADRA4LJRUFNKIK34.jpg?auth=b4e7894503bfecfc1b79b46f1d3b15683912d03f28b46cecdf74e520ae28c420",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "‘Historia verdadera de la conquista de la Nueva España’: chanchullos, aventuras y rapiñas explicadas por un soldado escritor",
+      "lead_fa": "Bernal Díaz del Castillo, que tomó Tenochtitlán con Hernán Cortes, escribió una crónica clásica en la que dio su versión de la conquista. Ahora se publica adaptada y en español moderno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a99fafd74e77",
       "source": "EL PAÍS",
       "title": "Nueva esperanza contra el cáncer",
@@ -1333,28 +1375,6 @@
       "priority": 70,
       "title_fa": "Un castillo de naipes",
       "lead_fa": "Claro que en España hace calor en verano pero no durante tanto tiempo y con las temperaturas tan altas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a0946d3e0e4b",
-      "source": "EL PAÍS",
-      "title": "Monchi: “El peor enemigo para un director deportivo es la improvisación”",
-      "summary": "El responsable del área deportiva del Espanyol atiende a El País antes de medirse con el Real Madrid en la segunda jornada liguera",
-      "url": "https://elpais.com/deportes/futbol/2026-08-21/monchi-el-peor-enemigo-para-un-director-deportivo-es-la-improvisacion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WMRQUCTQOVDX5JEG3MADCYLNTM.jpg?auth=3fd4a00ab801337ad638aeb3ef69e891813064628ba8bf07282bb66d2458fb34",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Monchi: “El peor enemigo para un director deportivo es la improvisación”",
-      "lead_fa": "El responsable del área deportiva del Espanyol atiende a El País antes de medirse con el Real Madrid en la segunda jornada liguera",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2126,7 +2146,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ea29b7636.jpeg",
       "published_at": "2026-08-20T09:52:56+02:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "China condena a cadena perpetua al fundador de Evergrande, el magnate del ladrillo",
       "lead_fa": "Xu Jiayin, que llegó a ser el hombre más rico del país, pierde además todo su patrimonio por el fraude que acompañó al ascenso del gigante inmobiliario",
       "key_points_fa": [],
@@ -2148,7 +2168,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d3dcf0514.jpeg",
       "published_at": "2026-08-20T09:42:58+02:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Noche “dantesca” en la Comunidad Valenciana con temperaturas de hasta 39 grados",
       "lead_fa": "La localidad alicantina de Dénia ha registrado la temperatura más elevada y más de 90 municipios han superado los 35",
       "key_points_fa": [],
@@ -2368,7 +2388,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4cc0fd10961.r_d.884-730-0.jpeg",
       "published_at": "2026-08-19T12:38:12+02:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Next Maritime gana el premio Pyme del Año Tarragona 2026",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2390,7 +2410,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/08/10/64d4ebc23fe72.r_d.1044-797-0.jpeg",
       "published_at": "2026-08-19T12:37:08+02:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "La sandía conquista el verano como la fruta con mejor sabor, según los catalanes",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2412,7 +2432,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8584fc5dd07.r_d.800-450-0.jpeg",
       "published_at": "2026-08-19T12:35:32+02:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "El PP y Compromís cargan contra Puente por la entrega de trenes usados 23 años en Madrid",
       "lead_fa": "El Ministerio defiende que las 41 unidades Civia que se incorporan a las Cercanías valencianas han sido completamente modernizadas y permitirán aumentar la capacidad de transporte",
       "key_points_fa": [],
@@ -2477,7 +2497,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 141
+      "count": 142
     },
     {
       "source": "EL PAÍS España",
