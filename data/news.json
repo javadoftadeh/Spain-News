@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:37:04.307411+00:00",
+  "generated_at": "2026-08-21T20:57:29.528849+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
@@ -1206,16 +1206,22 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 70,
-      "title_fa": "Mohamed VI y Felipe VI, una relación fraternal menos directa que la entretejida por sus padres",
-      "lead_fa": "Frente a la monarquía de perfil más ejecutivo de Rabat, el rey de España se ve supeditado a la primacía constitucional del Gobierno. Ambos soberanos se conocen desde la infancia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "روابط پادشاهان اسپانیا و مراکش در سایه نهادهای سیاسی",
+      "lead_fa": "پادشاهان اسپانیا و مراکش از دوران کودکی یکدیگر را می‌شناسند. با این حال، روابط آن‌ها به اندازه ارتباط پدرانشان مستقیم و نزدیک نیست.",
+      "key_points_fa": [
+        "پادشاه مراکش رویکردی اجرایی‌تر در قدرت دارد.",
+        "پادشاه اسپانیا تحت لوای اولویت‌های قانون اساسی دولت فعالیت می‌کند.",
+        "دو پادشاه از کودکی با یکدیگر آشنایی دارند."
+      ],
+      "analysis_fa": "تفاوت در ساختارهای سیاسی دو کشور نقش مهمی در نحوه تعامل پادشاهان آن‌ها ایفا می‌کند. نظام پادشاهی در مراکش اختیارات اجرایی برجسته‌تری به پادشاه می‌دهد، در حالی که پادشاه اسپانیا به عنوان رئیس کشور تابع تصمیمات دولت و چارچوب قانون اساسی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مراکش",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1228,16 +1234,22 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 70,
-      "title_fa": "La ley y la jurisprudencia amparan por igual a menores inmigrantes y españoles",
-      "lead_fa": "Los niños pueden ser devueltos siempre que se den las circunstancias y el consentimiento. Mientras están en España, deben gozar de la misma protección que los nacionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "برابری حمایت قانونی از کودکان مهاجر و اسپانیایی",
+      "lead_fa": "قانون و رویه قضایی در اسپانیا از کودکان مهاجر و شهروندان این کشور به طور یکسان حمایت می‌کنند. با این حال، امکان بازگرداندن کودکان تحت شرایط و با اخذ رضایت وجود دارد.",
+      "key_points_fa": [
+        "کودکان مهاجر در طول حضور خود در اسپانیا باید از همان سطح حفاظتی شهروندان اسپانیایی برخوردار شوند.",
+        "بازگرداندن کودکان منوط به فراهم بودن شرایط خاص و وجود رضایت است."
+      ],
+      "analysis_fa": "این موضع‌گیری حقوقی بر اساس قوانین و رویه‌های قضایی اسپانیا تایید می‌کند که اقلیت‌های صغیر مهاجر از حقوق حمایتی مشابهی با اتباع این کشور بهره‌مند هستند. این رویکرد تعادل میان الزامات حقوق بشری و قوانین مهاجرتی را بازتاب می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مهاجران",
+        "#حقوق_کودک",
+        "#قوانین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1248,18 +1260,23 @@
       "url": "https://elpais.com/espana/2026-08-21/ceuta-se-trata-de-ninas-y-ninos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/2KMOIGROLVDUJFRITLR5LKPFHU.jpg?auth=5e33a56b031f2720ff039225deb4db8ff8d03468437e2cc57e13cc0e2a656220",
       "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
+      "category": "migracion",
       "priority": 70,
-      "title_fa": "Ceuta: se trata de niñas y niños",
-      "lead_fa": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "وضعیت کودکان در سبته؛ تاکید بر رعایت قوانین در بازگرداندن به مراکش",
+      "lead_fa": "مقامات اسپانیایی اعلام کردند رسیدگی به وضعیت کودکان در شهر خودمختار سبته نیازمند رعایت دقیق قوانین است. بازگرداندن این خردسالان به خانواده‌ها یا نهادهای مراکشی باید بر اساس موازین حقوقی جاری انجام شود.",
+      "key_points_fa": [
+        "لزوم رعایت استانداردهای قانونی در برخورد با کودکان در سبته",
+        "تاکید بر بازگشت قانونی خردسالان به خانواده یا نهادهای مراکشی"
+      ],
+      "analysis_fa": "موضوع مهاجرت و وضعیت کودکان بی‌سرپرست در شهرهای مرزی اسپانیا همواره یکی از چالش‌های حقوقی و اجرایی پیچیده بوده است. رویکرد اخیر بر لزوم انطباق کامل اقدامات اجرایی با چارچوب‌های قانونی و حقوق بشری تاکید دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1431,7 +1448,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/HVMFKOSEONPX3A6ULZZ3CWDK4Y.jpg?auth=c41862fc806d56aa6fd3270e5730bc92a74706a828b34434a986d69cef480f85",
       "published_at": "2026-08-21T14:44:50+00:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
       "lead_fa": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
       "key_points_fa": [],
@@ -1533,50 +1550,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ce7d307d7845",
-      "source": "EL PAÍS Economía",
-      "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
-      "summary": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
-      "url": "https://cincodias.elpais.com/economia/2026-08-21/la-industria-impulsa-el-crecimiento-de-la-actividad-privada-de-la-zona-euro-a-su-mejor-registro-de-2026.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MEQHG2ZILVP55BDQ4WUQH4XHBU.jpg?auth=773ae5554a3c3cc2b8a2e208b5aec40ea4aa1881cff6ce9e05b05a12a6cecc41",
-      "published_at": "2026-08-21T11:55:13+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
-      "lead_fa": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8f1c0701cb46",
-      "source": "EL PAÍS",
-      "title": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
-      "summary": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
-      "url": "https://elpais.com/internacional/2026-08-21/europa-exige-a-israel-que-renuncie-a-construir-un-asentamiento-que-hace-imposible-un-futuro-estado-palestino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6SBGOT5G25KCRLBOZ54J2QOIBQ.jpg?auth=f05ee443da671a2f6d482624f9e9893c331ad6086788a4ce4d2d7326fadc7876",
-      "published_at": "2026-08-21T11:52:09+00:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
-      "lead_fa": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f65965179daf",
       "source": "La Vanguardia",
       "title": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
@@ -1654,6 +1627,50 @@
       "priority": 67,
       "title_fa": "La presidenta del CGPJ se reunirá con el presidente Vivas a la menor brevedad posible",
       "lead_fa": "El mandatario ceutí reclamó el pasado lunes ser recibido por Perelló para informarle de que “Ceuta está en peligro”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ce7d307d7845",
+      "source": "EL PAÍS Economía",
+      "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
+      "summary": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
+      "url": "https://cincodias.elpais.com/economia/2026-08-21/la-industria-impulsa-el-crecimiento-de-la-actividad-privada-de-la-zona-euro-a-su-mejor-registro-de-2026.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MEQHG2ZILVP55BDQ4WUQH4XHBU.jpg?auth=773ae5554a3c3cc2b8a2e208b5aec40ea4aa1881cff6ce9e05b05a12a6cecc41",
+      "published_at": "2026-08-21T11:55:13+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
+      "lead_fa": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8f1c0701cb46",
+      "source": "EL PAÍS",
+      "title": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
+      "summary": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
+      "url": "https://elpais.com/internacional/2026-08-21/europa-exige-a-israel-que-renuncie-a-construir-un-asentamiento-que-hace-imposible-un-futuro-estado-palestino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6SBGOT5G25KCRLBOZ54J2QOIBQ.jpg?auth=f05ee443da671a2f6d482624f9e9893c331ad6086788a4ce4d2d7326fadc7876",
+      "published_at": "2026-08-21T11:52:09+00:00",
+      "category": "cultura",
+      "priority": 67,
+      "title_fa": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
+      "lead_fa": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2477,7 +2494,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 147
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
