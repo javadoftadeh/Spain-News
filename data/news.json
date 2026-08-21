@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T07:53:49.268529+00:00",
+  "generated_at": "2026-08-21T08:55:29.540277+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "fdf534682e4d",
     "9c674691b7de",
     "f976d6b916f2",
-    "9af06cdcaa6e",
-    "7a75b2481297"
+    "d78df5add030",
+    "9af06cdcaa6e"
   ],
   "items": [
     {
@@ -95,6 +95,34 @@
       "editorial_version": 2
     },
     {
+      "id": "d78df5add030",
+      "source": "La Vanguardia",
+      "title": "Valencia recupera la normalidad tras dos días de reventones térmicos",
+      "summary": "Los vientos de casi 150 kilómetros por hora obligaron a los bomberos a realizar más de 120 actuaciones y las lluvias obligaron a decretar la preemergencia hidrológica nivel amarillo en la cuenca Albaida-Cañoles",
+      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617528/valencia-recupera-normalidad-dos-dias-temperaturas-disparadas-reventones-termicos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8802c7b4769.jpeg",
+      "published_at": "2026-08-21T09:53:57+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "بازگشت والنسیا به شرایط عادی پس از تندبادهای شدید",
+      "lead_fa": "شهر والنسیا پس از دو روز وزش بادهای شدید و بارش باران به وضعیت عادی بازگشت. آتش‌نشانان برای مقابله با خسارات، بیش از ۱۲۰ ماموریت انجام دادند.",
+      "key_points_fa": [
+        "وزش باد با سرعت نزدیک به ۱۵۰ کیلومتر بر ساعت",
+        "انجام بیش از ۱۲۰ ماموریت توسط آتش‌نشانی",
+        "اعلام وضعیت پیش‌هشدارهیدرولوژیکی سطح زرد در حوضه آبریز آلبایدا-کانیولس"
+      ],
+      "analysis_fa": "پدیده رونت گرمایی (تندبادهای همراه با کاهش شدید رطوبت و افزایش ناگهانی دما) باعث خساراتی در منطقه شد و نهادهای امدادی را به حالت آماده‌باش درآورد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#والنسیا",
+        "#اسپانیا",
+        "#آب‌وهوا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "9af06cdcaa6e",
       "source": "La Vanguardia",
       "title": "Varios medios aéreos se incorporan para apagar el incendio iniciado en Segorbe por un rayo",
@@ -147,34 +175,6 @@
         "#والنسیا",
         "#آتش‌سوزی",
         "#محیط‌زیست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0cb4b761e981",
-      "source": "EL PAÍS",
-      "title": "Más de dos mil horas de vuelo: Aragón, la región peor dotada contra incendios, es también la que pide más apoyo de las aeronaves estatales",
-      "summary": "Esa comunidad y Castilla y León concentran casi la mitad de las horas de vuelo de los aviones y helicópteros contraincendios del Ministerio para la Transición Ecológica",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/aragon-la-region-con-menos-medios-de-extincion-por-hectareas-forestales-es-tambien-la-que-pide-apoyo-de-mas-aeronaves-estatales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/G2KLX5255BOLDJJLVHW43TYSUQ.jpg?auth=d92d8c370454597d89fd16852282b1efeb4a39ad9f8690415ca488874f36d353",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "آراگون: بیشترین تقاضا برای ناوگان هوایی مبارزه با آتش‌سوزی در اسپانیا",
-      "lead_fa": "منطقه آراگون با وجود کمترین امکانات محلی مقابله با آتش‌سوزی، بیشترین درخواست را برای استفاده از هواپیماهای دولتی ثبت کرده است. این منطقه به همراه کاستیا و لئون نزدیک به نیمی از ساعت‌های پروازی ناوگان اطفای حریق وزارت انتقال اکولوژیک را به خود اختصاص داده‌اند.",
-      "key_points_fa": [
-        "آراگون ضعیف‌ترین منطقه اسپانیا در امکانات بومی ضد حریق است.",
-        "آراگون و کاستیا و لئون نیمی از ساعت‌های پروازی هوایی وزارتخانه را مصرف می‌کنند.",
-        "وابستگی شدید این مناطق به ناوگان هوایی دولت مرکزی برای مهار آتش‌سوزی."
-      ],
-      "analysis_fa": "این آمار نشان‌دهنده نابرابری در توزیع امکانات استانی و اتکای مناطق کم‌برخوردار به تجهیزات ملی در بحران‌های طبیعی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#اسپانیا",
-        "#آراگون"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -266,6 +266,64 @@
       "editorial_version": 2
     },
     {
+      "id": "5c6b3e562a1c",
+      "source": "EL PAÍS",
+      "title": "La ocupación hotelera alcanza un récord en julio pese a la subida histórica de precios",
+      "summary": "Las pernoctaciones avanzan un tímido 0,3% hasta los 44,8 millones, mientras la tarifa media por una habitacion doble sube un 7% y se sitúa en 157 euros",
+      "url": "https://elpais.com/economia/2026-08-21/la-ocupacion-hotelera-alcanza-un-record-en-julio-pese-a-la-subida-historica-de-precios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PX54CZMSBJEE5NPL2557BKX2ZI.jpg?auth=a93fc03a5fa8fcc6a78529b3f9b55f05f1e9f7d2ddb09a13f9f28fd7133c64b4",
+      "published_at": "2026-08-21T08:35:30+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "رکوردشکنی اشغال هتل‌های اسپانیا در تیرماه با وجود افزایش قیمت‌ها",
+      "lead_fa": "تعداد اقامت‌های شبانه در هتل‌های اسپانیا در ماه ژوئیه با افزایشی جزئی به ۴۴.۸ میلیون مورد رسید. در همین حال، میانگین قیمت اتاق‌های دو تخته با ۷ درصد افزایش به ۱۵۷ یورو بالغ شد.",
+      "key_points_fa": [
+        "رشد ناچیز ۰.۳ درصدی در تعداد اقامت‌های شبانه نسبت به دوره مشابه",
+        "افزایش تاریخی ۷ درصدی در میانگین قیمت هر اتاق دو تخته",
+        "ثبت میانگین قیمت ۱۵۷ یورو برای هر شب اقامت در اتاق دو تخته"
+      ],
+      "analysis_fa": "این آمار نشان‌دهنده تداوم تقاضا برای سفر در اسپانیا است، حتی با وجود اینکه هزینه‌های اقامت به بالاترین سطح خود رسیده. این روند حاکی از انعطاف‌پذیری بازار گردشگری در برابر تورم و رشد قیمت‌هاست.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#گردشگری",
+        "#اقتصاد",
+        "#هتل"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "65de860f60bb",
+      "source": "EL PAÍS",
+      "title": "La falta de aceite y de recambios para los generadores de los hospitales de Gaza, por el bloqueo israelí, amenaza la vida de los pacientes",
+      "summary": "Con el acceso a la red eléctrica cortado, la escasez suministros para generar energía, para las ambulancias y para las bombas de agua empuja al sector sanitario de la Franja al colapso",
+      "url": "https://elpais.com/planeta-futuro/2026-08-21/la-falta-de-aceite-y-de-recambios-para-los-generadores-de-los-hospitales-de-gaza-por-el-bloqueo-israeli-amenaza-la-vida-de-los-pacientes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/X2774QFQEZGSVPXBQ73D45BMNY.jpg?auth=210f3b236c2efcce2aa5c377df344120f860f479fbee991ff2982e609c2be8a4",
+      "published_at": "2026-08-21T07:38:05+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "بحران سوخت و تجهیزات در بیمارستان‌های غزه جان بیماران را تهدید می‌کند",
+      "lead_fa": "بیمارستان‌های غزه به دلیل قطع برق و کمبود شدید سوخت برای ژنراتورها در آستانه فروپاشی قرار گرفته‌اند. محاصره اسرائیل دسترسی به ملزومات حیاتی برای بخش بهداشت و درمان را به شدت مختل کرده است.",
+      "key_points_fa": [
+        "قطع کامل دسترسی به شبکه برق سراسری در غزه",
+        "کمبود شدید روغن و قطعات یدکی برای ژنراتورهای بیمارستانی",
+        "اختلال جدی در عملکرد آمبولانس‌ها و پمپ‌های آب",
+        "قرار گرفتن بخش سلامت و بیماران در خطر مرگبار"
+      ],
+      "analysis_fa": "وضعیت بحرانی بهداشت در غزه نشان‌دهنده ابعاد انسانی عمیق ناشی از محاصره و تداوم درگیری‌هاست. این وضعیت فراتر از یک چالش لجستیکی، بحرانی سیستماتیک است که زیرساخت‌های حیاتی بقا را هدف قرار داده و امکان ارائه خدمات اولیه پزشکی را از بین برده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#غزه",
+        "#بحران_بهداشتی",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "41ad3a7b93f1",
       "source": "La Vanguardia",
       "title": "El Gobierno aplica por fin el primer plan para poner orden en Ceuta",
@@ -300,7 +358,7 @@
       "title": "Purga en el Mosad por el fracaso del plan para derrocar el régimen iraní",
       "summary": "El servicio de inteligencia israelí destituye a dos altos cargos por los fallos en la operación que pretendía acabar con el gobierno de los ayatolás",
       "url": "https://www.lavanguardia.com/internacional/20260821/11617193/purga-mosad-fracaso-plan-derrocar-regimen-irani.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a87147d46dba.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87f48651820.jpeg",
       "published_at": "2026-08-21T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
@@ -522,31 +580,25 @@
       "editorial_version": 2
     },
     {
-      "id": "ab0d0cadeb13",
+      "id": "65af3af0cc91",
       "source": "La Vanguardia",
-      "title": "Política del miedo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617207/politica-miedo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86b04a4a7ea.r_d.810-540-0.jpeg",
-      "published_at": "2026-08-21T05:00:00+02:00",
+      "title": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
+      "summary": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617245/entra-vigor-sentencia-ordena-trump-detener-obras-salon-baile-casa-blanca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8724c30367e.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "سیاست ترس در فضای سیاسی اسپانیا",
-      "lead_fa": "بحث پیرامون استفاده از راهبردهای مبتنی بر ترس در رقابت‌های سیاسی اسپانیا بالا گرفته است. کارشناسان و احزاب درباره پیامدهای این رویه بر جامعه ابراز نگرانی کرده‌اند.",
-      "key_points_fa": [
-        "افزایش تنش‌های سیاسی میان احزاب اصلی اسپانیا",
-        "انتقاد کارشناسان از رواج گفتمان ترس در فضای عمومی",
-        "تأثیرگذاری این رویکرد بر مشارکت شهروندان در انتخابات"
-      ],
-      "analysis_fa": "استفاده از احساسات عمومی به عنوان ابزاری سیاسی معمولاً برای بسیج رای‌دهندگان و تحت‌الشعاع قرار دادن سایر موضوعات مدیریتی به کار می‌رود. این پدیده می‌تواند به دوقطبی شدن بیشتر جامعه و کاهش کیفیت گفت‌وگوی دموکراتیک منجر شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
+      "lead_fa": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
         "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -727,7 +779,7 @@
       "title": "La ley y la jurisprudencia amparan por igual a menores inmigrantes y españoles",
       "summary": "Los niños pueden ser devueltos siempre que se den las circunstancias y el consentimiento. Mientras están en España, deben gozar de la misma protección que los nacionales",
       "url": "https://elpais.com/espana/2026-08-21/la-ley-y-la-jurisprudencia-amparan-por-igual-a-menores-inmigrantes-y-espanoles.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3XWFCNSH7ROGTCASRNMI6UXDBI.jpg?auth=ecbf2468c8b9f0a5502c2600949e33653cdd5f74e03aeed32443b33fdcaeeb02",
+      "image": "https://imagenes.elpais.com/resizer/v2/L3LDF3F7FJE4BLCJFWTX2NACLY.jpg?auth=3fbdaaeded310f44dc24ec3f81605cb4acb960df06775df29256cf35b81c0c9b",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
@@ -749,7 +801,7 @@
       "title": "Ceuta: se trata de niñas y niños",
       "summary": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
       "url": "https://elpais.com/espana/2026-08-21/ceuta-se-trata-de-ninas-y-ninos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LZSKQAVXYBB4DCHPPZGKWWLZUU.jpg?auth=2a2acb219c9ab9bc55d555cbf08a0ad88685d140bde939f2d738bb445aabbfaa",
+      "image": "https://imagenes.elpais.com/resizer/v2/2KMOIGROLVDUJFRITLR5LKPFHU.jpg?auth=5e33a56b031f2720ff039225deb4db8ff8d03468437e2cc57e13cc0e2a656220",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
@@ -771,7 +823,7 @@
       "title": "Los jóvenes necesitan crecer en un entorno digital saludable",
       "summary": "Los gobiernos deben ir más allá de las lógicas prohibicionistas, y las grandes tecnológicas asumir que el bienestar mental es un requisito esencial de sus diseños",
       "url": "https://elpais.com/opinion/2026-08-21/los-jovenes-necesitan-crecer-en-un-entorno-digital-saludable.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KS5MQVCHIJJBPFIHASALQQBYAI.jpg?auth=25d257fa904b27018fa9b91c66d51e93516e73de15f10321b38c1ce650d6b183",
+      "image": "https://imagenes.elpais.com/resizer/v2/FPRLCLMIDVCUHJYZSMXTK6TABI.jpg?auth=969968a635b61a17cfd65386597265699d51cc759fc65d39fb3e1a1b9686b218",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
@@ -920,6 +972,28 @@
       "editorial_version": 2
     },
     {
+      "id": "fe2ea22a0611",
+      "source": "La Vanguardia",
+      "title": "Tenemos oficios/Viva España",
+      "summary": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
+      "url": "https://www.lavanguardia.com/opinion/20260821/11617096/oficios-viva-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8712b9a1bfb.jpeg",
+      "published_at": "2026-08-21T00:30:00+02:00",
+      "category": "migracion",
+      "priority": 72,
+      "title_fa": "Tenemos oficios/Viva España",
+      "lead_fa": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "20a5b0ce558c",
       "source": "La Vanguardia",
       "title": "Los pisos de los políticos",
@@ -931,50 +1005,6 @@
       "priority": 72,
       "title_fa": "Los pisos de los políticos",
       "lead_fa": "Cuando la vivienda de un gobernante es materia de escrutinio público siempre tiene las de perder",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c0d4439bc8c6",
-      "source": "La Vanguardia",
-      "title": "“Los judíos seguimos esperando la llegada del verdadero Mesías”",
-      "summary": "Tengo 51 años. Nací en Buenos Aires, viví en México y la mitad de mi vida en Barcelona. Soy rabino. Estoy casado y tengo siete hijos (entre 9 y 26 años, tres viven hoy en Israel) y un nieto (2). ¿ Política? Apolítico. ¿Creencias? Creo en Yahvé y soy judío jasídico. Si vives en Israel, tienes que defenderlo. (Foto: Miquel Muñoz / Shooting)",
-      "url": "https://www.lavanguardia.com/lacontra/20260821/11617289/david-libersohn-rabino-judios-seguimos-esperando-llegada-verdadero-mesias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8738c35b25e.r_d.2324-2314-0.jpeg",
-      "published_at": "2026-08-21T00:05:00+02:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "“Los judíos seguimos esperando la llegada del verdadero Mesías”",
-      "lead_fa": "Tengo 51 años. Nací en Buenos Aires, viví en México y la mitad de mi vida en Barcelona. Soy rabino. Estoy casado y tengo siete hijos (entre 9 y 26 años, tres viven hoy en Israel) y un nieto (2). ¿ Política? Apolítico. ¿Creencias? Creo en Yahvé y soy judío jasídico. Si vives en Israel, tienes que defenderlo. (Foto: Miquel Muñoz / Shooting)",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5fe95a5da561",
-      "source": "EL PAÍS",
-      "title": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
-      "summary": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
-      "url": "https://elpais.com/sociedad/2026-08-20/un-estudio-de-la-oms-rechaza-que-se-obligue-a-los-sanitarios-a-denunciar-agresiones-machistas-cuando-la-paciente-no-quiere.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OPCYOGVEOZHRLJYL2Y6L52ZTTQ.jpg?auth=1cb34e9c53afc1110e7ee037b36e7a0491139dc94d4971a968509be1d4bb9470",
-      "published_at": "2026-08-20T22:30:00+00:00",
-      "category": "politica",
-      "priority": 72,
-      "title_fa": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
-      "lead_fa": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1015,17 +1045,83 @@
       "editorial_version": 2
     },
     {
-      "id": "252565866e01",
+      "id": "6e88d371a8f9",
       "source": "La Vanguardia",
-      "title": "PortAventura cierra varias piscinas por la presencia de excrementos en el agua",
-      "summary": "El parque pudo reabrir con normalidad el pasado miércoles después de lo que sería un nuevo incidente a raíz de un reto viral",
-      "url": "https://www.lavanguardia.com/local/tarragona/20260821/11617503/portaventura-cierra-piscinas-caribe-aquatic-park-presencia-excrementos-agua.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/02/66d5e50c366bb.r_d.450-253-0.jpeg",
-      "published_at": "2026-08-21T08:35:29+02:00",
+      "title": "Francia, Reino Unido, Alemania e Italia exigen a Netanyahu que cese su expansión en Cisjordania",
+      "summary": "Europa se encalla al buscar una prohibición conjunta del comercio procedente de los asentamientos israelíes ilegales",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617534/colonos-cisjordania-parlamento-europeo-smr.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/04/690a177904094.jpeg",
+      "published_at": "2026-08-21T10:04:51+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "PortAventura cierra varias piscinas por la presencia de excrementos en el agua",
-      "lead_fa": "El parque pudo reabrir con normalidad el pasado miércoles después de lo que sería un nuevo incidente a raíz de un reto viral",
+      "title_fa": "Francia, Reino Unido, Alemania e Italia exigen a Netanyahu que cese su expansión en Cisjordania",
+      "lead_fa": "Europa se encalla al buscar una prohibición conjunta del comercio procedente de los asentamientos israelíes ilegales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "89473e6e0524",
+      "source": "La Vanguardia",
+      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88045544bfc.jpeg",
+      "published_at": "2026-08-21T09:44:49+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "627a2b7c91f4",
+      "source": "La Vanguardia",
+      "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
+      "summary": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
+      "url": "https://www.lavanguardia.com/natural/20260821/11617525/aemet-activa-aviso-naranja-camp-tarragona-terres-l-ebre-viernes-lluvias-intensas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87facad64e6.r_d.1603-864-0.jpeg",
+      "published_at": "2026-08-21T09:30:34+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
+      "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d398da36a260",
+      "source": "EL PAÍS",
+      "title": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
+      "summary": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
+      "url": "https://elpais.com/deportes/futbol/2026-08-21/mourinho-en-su-primera-rueda-de-prensa-con-cada-titulo-del-real-madrid-tenia-una-llamada-del-presi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NE7POHOSRFMT5AQJ4SNSP66N5U.jpg?auth=7eed0977866362288360711827c1dfe88b2b3154020d690fc7a4135b07ebea10",
+      "published_at": "2026-08-21T08:44:11+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
+      "lead_fa": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1070,7 +1166,7 @@
       "title": "El Pentágono retira del Golfo el polémico portaaviones 'Abraham Lincoln'",
       "summary": "El Mando Central de Estados Unidos ha confirmado el despliegue de un nuevo buque, el George Washington, que sustituirá en la misión de Oriente Medio al Abraham Lincoln",
       "url": "https://www.lavanguardia.com/internacional/20260820/11617306/pentagono-retira-golfo-persico-portaaviones-registro-deterioro-condiciones-vida.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874988944a9.r_d.525-488-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87f41b1f051.jpeg",
       "published_at": "2026-08-20T20:40:23+02:00",
       "category": "politica",
       "priority": 70,
@@ -1095,7 +1191,7 @@
       "id": "d772f728b9b6",
       "source": "La Vanguardia",
       "title": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
-      "summary": "Después de más de cinco meses de baja, el número dos del mundo regresa en 10 días a la competición",
+      "summary": "Después de más de cuatro meses de baja, el número dos del mundo regresa en 10 días a la competición",
       "url": "https://www.lavanguardia.com/deportes/tenis/20260820/11617282/carlos-alcaraz-anuncia-regresa-pistas-us-open-vuelta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a873906eab31.r_d.2244-968-0.jpeg",
       "published_at": "2026-08-20T19:29:38+02:00",
@@ -1281,28 +1377,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9b8c226b3787",
-      "source": "La Vanguardia",
-      "title": "Palestina, país de árabes y judíos",
-      "summary": "La utopía es un bálsamo y también un faro que ilumina las noches de verano en un bar de Ramala",
-      "url": "https://www.lavanguardia.com/internacional/20260821/11617044/palestina-pais-arabes-judios.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86d07396eae.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Palestina, país de árabes y judíos",
-      "lead_fa": "La utopía es un bálsamo y también un faro que ilumina las noches de verano en un bar de Ramala",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "adda565c887d",
       "source": "La Vanguardia",
       "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
@@ -1369,28 +1443,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b32edfad6490",
-      "source": "La Vanguardia",
-      "title": "El largo camino de regreso al Reino Unido de los duques de Sussex",
-      "summary": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8732161fa2f.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El largo camino de regreso al Reino Unido de los duques de Sussex",
-      "lead_fa": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e6a0f6582366",
       "source": "La Vanguardia",
       "title": "Bélgica reivindica la identidad de sus patatas fritas",
@@ -1435,6 +1487,28 @@
       "editorial_version": 2
     },
     {
+      "id": "b32edfad6490",
+      "source": "La Vanguardia",
+      "title": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "summary": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "url": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8732161fa2f.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "lead_fa": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "67ab3b71acf8",
       "source": "La Vanguardia",
       "title": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
@@ -1468,28 +1542,6 @@
       "priority": 69,
       "title_fa": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
       "lead_fa": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e0695f7e7fa0",
-      "source": "EL PAÍS",
-      "title": "Las multinacionales energéticas regresan a Venezuela",
-      "summary": "La tutela estadounidense en el país facilita la llegada de grandes capitales al negocio petrolero y rompe con años de aislamiento y sanciones internacionales",
-      "url": "https://elpais.com/america/2026-08-21/las-multinacionales-energeticas-regresan-a-venezuela.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CBANUB3VLNMEBNHEOJ4WKD4T5M.jpg?auth=a0346b7d7c98d5a84a0cf721c96a32fa98e1afb3e5675709460da1172d4e413b",
-      "published_at": "2026-08-21T04:00:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Las multinacionales energéticas regresan a Venezuela",
-      "lead_fa": "La tutela estadounidense en el país facilita la llegada de grandes capitales al negocio petrolero y rompe con años de aislamiento y sanciones internacionales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1589,6 +1641,28 @@
       "editorial_version": 2
     },
     {
+      "id": "4039d007b9b7",
+      "source": "EL PAÍS",
+      "title": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
+      "summary": "Los expresidentes ingresarán una dieta de 750 euros cada vez que asistan a la Comisión Jurídica Asesora de Madrid, que se reunió 45 veces en 2025, año en el que habrían cobrado 33.750 euros de ir a todas las citas",
+      "url": "https://elpais.com/espana/madrid/2026-08-21/ayuso-nombra-a-gallardon-aguirre-y-cifuentes-para-un-puesto-consultivo-por-el-que-optan-a-cobrar-decenas-de-miles-de-euros-al-ano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/36WGPFNUIFDZTGF62A7LBTFF7A.JPG?auth=f2b1145d6d74d4ef7e5889c87637944eec24ca232cdab755f6d8a1565eedf56c",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
+      "lead_fa": "Los expresidentes ingresarán una dieta de 750 euros cada vez que asistan a la Comisión Jurídica Asesora de Madrid, que se reunió 45 veces en 2025, año en el que habrían cobrado 33.750 euros de ir a todas las citas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ff4cd6166e76",
       "source": "EL PAÍS",
       "title": "Vivir el verano como las palomas: sin pedir permiso y sin pagar",
@@ -1644,28 +1718,6 @@
       "priority": 69,
       "title_fa": "‘Historia verdadera de la conquista de la Nueva España’: chanchullos, aventuras y rapiñas explicadas por un soldado escritor",
       "lead_fa": "Bernal Díaz del Castillo, que tomó Tenochtitlán con Hernán Cortes, escribió una crónica clásica en la que dio su versión de la conquista. Ahora se publica adaptada y en español moderno",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4039d007b9b7",
-      "source": "EL PAÍS",
-      "title": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
-      "summary": "Los expresidentes ingresarán una dieta de 750 euros cada vez que asistan a la Comisión Jurídica Asesora de Madrid, que se reunió 45 veces en 2025, año en el que habrían cobrado 33.750 euros de ir a todas las citas",
-      "url": "https://elpais.com/espana/madrid/2026-08-21/ayuso-nombra-a-gallardon-aguirre-y-cifuentes-para-un-puesto-consultivo-por-el-que-optan-a-cobrar-decenas-de-miles-de-euros-al-ano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/36WGPFNUIFDZTGF62A7LBTFF7A.JPG?auth=f2b1145d6d74d4ef7e5889c87637944eec24ca232cdab755f6d8a1565eedf56c",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Ayuso nombra a Gallardón, Aguirre y Cifuentes para un puesto consultivo por el que optan a cobrar decenas de miles de euros al año",
-      "lead_fa": "Los expresidentes ingresarán una dieta de 750 euros cada vez que asistan a la Comisión Jurídica Asesora de Madrid, que se reunió 45 veces en 2025, año en el que habrían cobrado 33.750 euros de ir a todas las citas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1754,6 +1806,28 @@
       "priority": 69,
       "title_fa": "Moda agosteña de Flavita Banana: las sandalias",
       "lead_fa": "Viñeta del 21 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3b72638ad3ad",
+      "source": "EL PAÍS",
+      "title": "Recuerda el verano de 1936",
+      "summary": "Las voces que recogió el historiador Ronald Fraser en su libro sobre la Guerra Civil permiten reconstruir el clima en el que los españoles aprendieron a matarse",
+      "url": "https://elpais.com/opinion/2026-08-21/recuerda-el-verano-de-1936.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GU3GWQ535VBYTCAOIUBNZOWFBQ.jpg?auth=e39e6c423d065a7b69512db72f8c269d58596f944d87020a5cf3249002248b9a",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Recuerda el verano de 1936",
+      "lead_fa": "Las voces que recogió el historiador Ronald Fraser en su libro sobre la Guerra Civil permiten reconstruir el clima en el que los españoles aprendieron a matarse",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1919,61 +1993,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6cf616a11261",
-      "source": "La Vanguardia",
-      "title": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
-      "summary": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor",
-      "url": "https://www.lavanguardia.com/vida/20260820/11617265/universidad-gante-anuncia-medidas-instigador-linchamiento-jason-arday.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/26/63fb450156ac1.r_d.363-208-0.jpeg",
-      "published_at": "2026-08-20T18:31:55+02:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "اقدام دانشگاه خنت علیه محرک کارزار علیه استاد دانشگاه",
-      "lead_fa": "دانشگاه خنت اعلام کرد علیه ناتان کوفناس، محرک اتهامات علیه آثار آکادمیک یک استاد، اقداماتی انجام می‌دهد. کوفناس پیش‌تر اظهاراتی جنجالی درباره توانمندی سیاه‌پوستان مطرح کرده بود.",
-      "key_points_fa": [
-        "دانشگاه خنت تصمیمی علیه ناتان کوفناس اتخاذ کرده است.",
-        "کوفناس پیش‌تر ادعاهایی را درباره توانمندی فکری افراد سیاه‌پوست مطرح کرده بود.",
-        "او در ترویج اتهامات علیه تولیدات آکادمیک یک استاد نقش داشت."
-      ],
-      "analysis_fa": "این اقدام دانشگاه خنت نشان‌دهنده حساسیت نهادهای آکادمیک نسبت به اظهارات جنجالی و تلاش برای حفاظت از استانداردهای علمی و دانشگاهی در برابر رفتارهای تبعیض‌آمیز است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دانشگاه_خنت",
-        "#اسپانیا",
-        "#اخبار_فرهنگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "35a7ffa02606",
-      "source": "EL PAÍS",
-      "title": "Alcaraz confirma que jugará el US Open después de estar cuatro meses de baja por lesión",
-      "summary": "El murciano subió una foto en su cuenta de Instagram para hacer oficial su vuelta al circuito. El tenista vuelve para defender el título ganado en 2025",
-      "url": "https://elpais.com/deportes/tenis/2026-08-20/alcaraz-confirma-que-jugara-el-us-open-despues-de-estar-cuatro-meses-de-baja-por-lesion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BJ254CZUKJKH5HPGO5X2PMQXTI.jpg?auth=3951c2cda58a23209a31ee8f9cfc11e0d1bdf948f693c2e99bd5fb694c1ac135",
-      "published_at": "2026-08-20T17:21:03+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "تأیید حضور کارلوس آلکاراس در اوپن آمریکا پس از مصدومیت",
-      "lead_fa": "کارلوس آلکاراس پس از چهار ماه دوری از میابقات به دلیل مصدومیت، بازگشت خود را تأیید کرد. تنیسور مورسایی با انتشار تصویری در اینستاگرام آمادگی خود را برای رقابت‌ها اعلام کرد.",
-      "key_points_fa": [
-        "آلکاراس پس از چهار ماه مصدومیت به میرد برگشت.",
-        "او برای دفاع از عنوان قهرمانی کسب شده در سال ۲۰۲۵ مسابقه می‌دهد."
-      ],
-      "analysis_fa": "بازگشت کارلوس آلکاراس پس از یک دوره مصدومیت طولانی، اهمیت بالایی برای تنیس حرفه‌ای و مسابقات پیش‌رو دارد. این تنیسور اسپانیایی تلاش می‌کند تا آمادگی خود را بازیابد و از عنوان قهرمانی قبلی خود دفاع کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تنیس",
-        "#آلکاراس",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "74f5a7f445b7",
       "source": "EL PAÍS Economía",
       "title": "El Supremo de EE UU avala las sanciones millonarias a las grandes operadoras por vender datos de sus clientes",
@@ -2003,41 +2022,12 @@
       "editorial_version": 2
     },
     {
-      "id": "f64b7540335b",
-      "source": "La Vanguardia",
-      "title": "Tormentas con rachas de viento de 149 km/h derriban el techo de una iglesia en Alzira",
-      "summary": "El temporal deja también árboles caídos, cortes de carreteras y retrasos ferroviarios tras registrar fuertes rachas de viento",
-      "url": "https://www.lavanguardia.com/local/valencia/20260820/11617195/tormentas-rachas-149-km-h-derriban-techo-iglesia-alzira-causan-graves-danos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a87218216781.jpeg",
-      "published_at": "2026-08-20T16:16:39+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "طوفان شدید با سرعت ۱۴۹ کیلومتر در ساعت در آلسیرا",
-      "lead_fa": "طوفان سهمگین اخیر در منطقه آلسیرا خسارات گسترده‌ای به بار آورد. این پدیده جوی موجب سقوط سقف یک کلیسا و اختلال در حمل‌ونقل شد.",
-      "key_points_fa": [
-        "ثبت تندبادهایی با سرعت ۱۴۹ کیلومتر در ساعت در منطقه",
-        "تخریب سقف یک کلیسا در آلسیرا بر اثر شدت باد",
-        "قطعی جاده‌ها، سقوط درختان و تاخیر در خطوط ریلی"
-      ],
-      "analysis_fa": "این طوفان شدید نمونه‌ای از شرایط ناپایدار جوی است که اخیراً بخش‌هایی از اسپانیا را درگیر کرده و زیرساخت‌ها و خدمات شهری را با اختلال مواجه ساخته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#طوفان",
-        "#اسپانیا",
-        "#آلسیرا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "1940a9caa0ee",
       "source": "La Vanguardia",
-      "title": "Trump anuncia una “guerra económica” contra Irán y amenaza a los que negocien con el régimen",
+      "title": "Trump anuncia una “guerra económica” contra Irán y amenaza a los países que negocien con el régimen",
       "summary": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
       "url": "https://www.lavanguardia.com/internacional/20260820/11617189/trump-anuncia-guerra-economica-iran-amenaza-paises-negocien-regimen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8706ac8afff.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8706ac8afff.r_d.3216-2232-0.jpeg",
       "published_at": "2026-08-20T15:55:57+02:00",
       "category": "politica",
       "priority": 67,
@@ -2205,7 +2195,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
       "published_at": "2026-08-20T05:30:00+00:00",
       "category": "ciencia",
-      "priority": 62,
+      "priority": 61,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
@@ -2305,28 +2295,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "8bdb30032ece",
-      "source": "EL PAÍS Economía",
-      "title": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "summary": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "url": "https://elpais.com/economia/mis-derechos/2026-08-18/publicas-fotos-de-tus-hijos-en-redes-estas-son-las-lineas-rojas-que-nunca-deberias-cruzar-para-proteger-sus-derechos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IFBDA5KK5VDWPKH2VPI455RQOM.jpg?auth=dcd3622a9759338a1d5ebad3fc6c09f53cdc85eb485803600671bc1e461a997c",
-      "published_at": "2026-08-18T08:30:00+00:00",
-      "category": "sociedad",
-      "priority": 47,
-      "title_fa": "¿Publicas fotos de tus hijos en redes? Estas son las líneas rojas que nunca deberías cruzar para proteger sus derechos",
-      "lead_fa": "Compartir un post en redes sociales puede revelar datos personales, llegar a terceros y afectar a la privacidad, seguridad y reputación de los niños",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2358,7 +2326,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 143
     },
     {
       "source": "EL PAÍS España",
@@ -2373,7 +2341,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 126
+      "count": 128
     }
   ]
 }
