@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:35:42.303541+00:00",
+  "generated_at": "2026-08-21T21:57:25.551901+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
@@ -1404,16 +1404,24 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "Los inversores ‘se pelean’ por el cobre y pagan primas récord por acapararlo cuanto antes",
-      "lead_fa": "Su precio entra en ebullición en el mercado de Londres ante la caída de inventarios que provoca su traslado masivo hacia EE UU por la amenaza de aranceles, que se une a un déficit de producción estructural",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رقابت سرمایه‌گذاران بر سر مس و پرداخت پاداش‌های رکوردشکن",
+      "lead_fa": "قیمت مس در بازار لندن به دلیل کاهش موجودی‌ها و انتقال گسترده به ایالات متحده به شدت افزایش یافته است. این وضعیت ناشی از تهدید تعرفه‌ها و کسری ساختاری تولید است.",
+      "key_points_fa": [
+        "جهش قیمت مس در بازار فلزات لندن",
+        "انتقال حجم زیادی از مس به آمریکا به دلیل ترس از تعرفه‌ها",
+        "وجود کسری ساختاری در تولید جهانی مس",
+        "پرداخت جوایز و پاداش‌های بی‌سابقه برای انباشت سریع مس"
+      ],
+      "analysis_fa": "بازار جهانی مس تحت تأثیر نگرانی‌های تجاری و سیاست‌های تعرفه‌ای دچار تنش شده است. هجوم موجودی‌ها به بازار ایالات متحده به منظور پیش‌دستی بر تعرفه‌های احتمالی، تعادل عرضه و تقاضا را در سایر نقاط جهان به هم زده و به رشد بی‌سابقه قیمت‌ها منجر شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مس",
+        "#اقتصاد",
+        "#بازار_جهانی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1426,16 +1434,22 @@
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
-      "lead_fa": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "استفاده آمانسیو اورتگا از شرکت شخصی برای تامین مالی املاک",
+      "lead_fa": "بنیان‌گذار ایندیتکس از شرکت Esparelle 2016 برای تامین مالی خرید املاک خود استفاده می‌کند. این شرکت سرمایه‌گذاری سال گذشته میلادی زیان ثبت کرده است.",
+      "key_points_fa": [
+        "آمانسیو اورتگا از شرکت شخصی Esparelle 2016 برای وام‌دهی داخلی استفاده می‌کند.",
+        "مبلغ این عملیات مالی برای خرید املاک به دو میلیارد و پانصد میلیون یورو می‌رسد.",
+        "این شرکت در سال گذشته میلادی زیانی معادل چهل و هفت میلیون یورو داشته است."
+      ],
+      "analysis_fa": "استفاده از شرکت‌های هلدینگ و ابزارهای مالی اختصاصی توسط سرمایه‌گذاران بزرگ برای مدیریت دارایی‌ها و تراکنش‌های املاک، روشی رایج در بازار است که امکان تامین مالی متمرکز را فراهم می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمانسیو_اورتگا",
+        "#اقتصاد_اسپانیا",
+        "#املاک"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1448,16 +1462,23 @@
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
-      "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رکوردشکنی فروش و سودآوری تأمین‌کننده بزرگ تن‌ماهی مرکانونا",
+      "lead_fa": "شرکت ژالسا در سال ۲۰۲۵ به درآمد ۸۲۴ میلیون یورویی دست یافت. بیش از نیمی از این فروش متعلق به زنجیره سوپرمارکت‌های مرکانونا است.",
+      "key_points_fa": [
+        "درآمد شرکت ژالسا در سال ۲۰۲۵ به ۸۲۴ میلیون یورو رسید.",
+        "حدود ۵۵ درصد از کل فروش این شرکت از طریق تأمین محصولات برای مرکانونا محقق شده است.",
+        "این عملکرد مالی با رشد قابل توجهی در سودآوری همراه بوده است."
+      ],
+      "analysis_fa": "این آمار نشان‌دهنده وابستگی متقابل و موفقیت تجاری میان عرضه‌کنندگان بزرگ مواد غذایی و زنجیره‌های توزیع عمده مانند مرکانونا در بازار اسپانیا است. تمرکز بر تأمین برندهای اختصاصی توانسته رشد پایداری را برای تولیدکنندگان فراهم کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#مرکانونا",
+        "#تن_ماهی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2004,7 +2025,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/75UJTKLGY5FJ3FRFQLNWHQDYI4.jpg?auth=3cd0c239c1e9d240a3faebce1e91b355c7cb71ff00d8d44d04ee31f0dcbe3b89",
       "published_at": "2026-08-21T03:40:00+00:00",
       "category": "cultura",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Cuando no todo vale: por qué ha fracasado el arte hecho con IA",
       "lead_fa": "El valor de una obra artística depende en gran medida de que exista un número limitado de ellas",
       "key_points_fa": [],
@@ -2026,7 +2047,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ONKGGTT77JMXZKUR5GJ5NYYWZM.jpg?auth=4fd1693eb5816d713abd426a844848d5d1b38c686b00daa5788695f37fece568",
       "published_at": "2026-08-21T03:40:00+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "El diluvio de deuda del Estado y la IA deja secos a los hogares",
       "lead_fa": "El bono a 30 años toca máximos desde 2007 y encarece las hipotecas justo cuando el Tesoro y los gigantes tecnológicos compiten por el mismo dinero",
       "key_points_fa": [],
@@ -2334,7 +2355,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/E426XPXEWJOS3N2H5Q3AMMFNSQ.jpg?auth=fb9e138aff7b4ac50b97d4d725bd5684725529b619a79f786eb0fa77173de1d6",
       "published_at": "2026-08-20T06:42:05+00:00",
       "category": "sociedad",
-      "priority": 58,
+      "priority": 57,
       "title_fa": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
       "lead_fa": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
       "key_points_fa": [],
@@ -2378,7 +2399,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/I3IBVPZDC5E3JARTSGP5OQCMRM.jpg?auth=0eececb4e762f33af471ac57906977d3013dbef8b2e5b6d22def39faedbae730",
       "published_at": "2026-08-20T03:45:01+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Llega el ‘día de la liberación fiscal’: ¿indicador económico fiable o eslogan antiimpuestos?",
       "lead_fa": "Un grupo de economistas liberales difunde la fecha para reflejar cuántos días de trabajo necesita un contribuyente para cumplir con Hacienda, pero otros académicos critican que la metáfora simplifica la realidad tributaria",
       "key_points_fa": [],
