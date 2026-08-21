@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:41:55.210806+00:00",
+  "generated_at": "2026-08-21T18:02:28.460741+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
@@ -15,7 +15,7 @@
       "title": "Los vecinos de Gátova, en Valencia, son evacuados por el incendio forestal de Segorbe",
       "summary": "La Generalitat Valenciana solicita el apoyo de la Unidad Militar de Emergencias para las labores de extinción de un fuego que ha quemado 133 hectáreas",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206597_160841_video_1800.mp4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206631_174516_video_1800.mp4",
       "published_at": "2026-08-21T13:59:40+00:00",
       "category": "sociedad",
       "priority": 84,
@@ -208,6 +208,34 @@
       "editorial_version": 2
     },
     {
+      "id": "953519cee31b",
+      "source": "EL PAÍS",
+      "title": "Al menos 14 muertos y decenas de heridos en un ataque ruso en Kryvyi Rih, la ciudad natal de Zelenski",
+      "summary": "Moscú lanza una ofensiva con drones contra un centro comercial. Hay una veintena de niños entre las víctimas",
+      "url": "https://elpais.com/internacional/2026-08-21/varios-muertos-y-heridos-en-un-ataque-ruso-en-kryvyi-rih-la-ciudad-natal-de-zelenski.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6E5FZSJ3NJIVZPPYQHJI334FMY.jpg?auth=3179cd642387930f638389751795030d4c916e5e4b30a581632d27fd2ce840ab",
+      "published_at": "2026-08-21T17:47:06+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "حمله موشکی و پهپادی روسیه به کریوی ریه دست‌کم ۱۴ کشته برجای گذاشت",
+      "lead_fa": "در پی حمله روسیه به شهر کریوی ریه، زادگاه ولودیمیر زلنسکی، حداقل ۱۴ نفر جان خود را از دست دادند. این تهاجم یک مرکز تجاری را هدف قرار داد و ده‌ها زخمی برجای گذاشت.",
+      "key_points_fa": [
+        "حمله به شهر کریوی ریه با استفاده از پهپادها انجام شد.",
+        "یک مرکز تجاری هدف اصلی این تهاجم بود.",
+        "حدود بیست کودک در میان قربانیان و مصدومان این حادثه دیده می‌شوند."
+      ],
+      "analysis_fa": "این حمله در ادامه تشدید تنش‌ها و حملات هوایی به مناطق مسکونی و تجاری اوکراین صورت گرفته است. انتخاب زادگاه رئیس‌جمهور اوکراین به عنوان هدف، بر استراتژی نظامی مسکو در اعمال فشار روانی و نظامی بر مناطق کلیدی تأکید دارد، در حالی که زیرساخت‌های غیرنظامی همچنان بیشترین آسیب را متحمل می‌شوند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#اوکراین",
+        "#روسیه",
+        "#کریوی_ریه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "36d098d1d2d1",
       "source": "EL PAÍS",
       "title": "Venezuela, Colombia, Perú: claves tectónicas para entender la secuencia de terremotos en el Caribe y los Andes",
@@ -328,18 +356,24 @@
       "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617798/barca-inscribe-rodri-adeyemi-vende-tommy-marques-braga-11-millones.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a886bae85eed.jpeg",
       "published_at": "2026-08-21T17:29:20+02:00",
-      "category": "politica",
+      "category": "deportes",
       "priority": 75,
-      "title_fa": "El Barça inscribe a Rodri y Adeyemi y vende a Tommy Marqués al Braga por 11 millones",
-      "lead_fa": "El curso pasado Marqués, de 19 años, estuvo en dinámica del primer equipo, con el que llegó a disputar dos partidos oficiales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ثبت نام رودری و آدیمی در بارسلونا و فروش تومی مارکز به براگا",
+      "lead_fa": "باشگاه بارسلونا قرارداد رودری و آدیمی را به ثبت رساند. همچنین تومی مارکز، مهاجم ۱۹ ساله، با قراردادی به ارزش ۱۱ میلیون یورو به براگا پیوست.",
+      "key_points_fa": [
+        "ثبت نام بازیکنان جدید یعنی رودری و آدیمی در بارسلونا",
+        "انتقال تومی مارکز به باشگاه براگا با مبلغ ۱۱ میلیون یورو",
+        "حضور مارکز در تمرینات تیم اول و انجام دو بازی رسمی در فصل گذشته"
+      ],
+      "analysis_fa": "این جابجایی‌ها بخشی از برنامه‌ریزی مدیریت ورزشی بارسلونا برای تنظیم ترکیب تیم و مدیریت مالی و ورزشی بازیکنان جوان محسوب می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#نقل_وانتقالات",
+        "#فوتبال_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -748,18 +782,25 @@
       "url": "https://www.lavanguardia.com/local/valencia/20260821/11617528/valencia-recupera-normalidad-dos-dias-temperaturas-disparadas-reventones-termicos.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8802c7b4769.r_d.1042-980-0.jpeg",
       "published_at": "2026-08-21T09:53:57+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 74,
-      "title_fa": "Valencia recupera la normalidad tras dos días de reventones térmicos",
-      "lead_fa": "Los vientos de casi 150 kilómetros por hora obligaron a los bomberos a realizar más de 120 actuaciones y las lluvias obligaron a decretar la preemergencia hidrológica nivel amarillo en la cuenca Albaida-Cañoles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت والنسیا به شرایط عادی پس از تندبادها و بارش‌های شدید",
+      "lead_fa": "والنسیا پس از دو روز وزش بادهای شدید و بارندگی به وضعیت عادی بازگشت. آتش‌نشانان بیش از ۱۲۰ مأموریت برای مقابله با خسارات انجام دادند.",
+      "key_points_fa": [
+        "وزش بادهایی با سرعت نزدیک به ۱۵۰ کیلومتر بر ساعت در منطقه",
+        "انجام بیش از ۱۲۰ عملیات توسط آتش‌نشانان برای مهار خسارات",
+        "اعلام وضعیت پیش‌هشداره هیدرولوژیکی سطح زرد در حوضه آبریز آلбаیدا-کانیولس به دلیل بارش‌ها"
+      ],
+      "analysis_fa": "پدیده‌های جوی موسوم به رخدادهای حرارتی و بادهای شدید در این منطقه از اسپانیا معمولاً با خسارات موقت به زیرساخت‌ها و خدمات شهری همراه است. واکنش سریع نهادهای امدادی مانع از بروز بحران گسترده شد، هرچند آمادگی در برابر حوادث غیرمترقبه همچنان یک چالش فصلی برای مدیریت شهری محسوب می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#والنسیا",
+        "#اسپانیا",
+        "#آبوهوا",
+        "#حوادث"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -987,6 +1028,28 @@
       "editorial_version": 2
     },
     {
+      "id": "78881da01b73",
+      "source": "EL PAÍS",
+      "title": "“En Israel miran para otro lado ante el genocidio”, dice una lectora",
+      "summary": "La barbarie en Gaza, el uso del agua potable en Madrid, los ‘influencers’ y las exigencias del mercado laboral son las cartas en el buzón del director",
+      "url": "https://elpais.com/opinion/2026-08-21/en-israel-miran-para-otro-lado-ante-el-genocidio-una-lectora.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NJUXYN3DOFIHZDH4TPYZVHPG2A.jpg?auth=ec05d9f684dbc9517768e6de4cff2178f2a90891d87abfaa6e071a5dc66401e7",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "“En Israel miran para otro lado ante el genocidio”, dice una lectora",
+      "lead_fa": "La barbarie en Gaza, el uso del agua potable en Madrid, los ‘influencers’ y las exigencias del mercado laboral son las cartas en el buzón del director",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f9ac27589d0d",
       "source": "EL PAÍS España",
       "title": "Mohamed VI y Felipe VI, una relación fraternal menos directa que la entretejida por sus padres",
@@ -1075,28 +1138,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a0e0bb8eaf05",
-      "source": "EL PAÍS",
-      "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
-      "summary": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
-      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-gran-proveedor-de-atun-en-lata-de-mercadona-bate-record-de-ventas-y-dispara-beneficios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/47AKIXNPYVDDNAP3MPFX5CG7WM.jpg?auth=53cde1279200c5a886c746ca41573be7bda6914fbb21e0260cc21fae9d3bad0a",
-      "published_at": "2026-08-21T03:15:00+00:00",
-      "category": "economia",
-      "priority": 71,
-      "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
-      "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "df138a5e27c2",
       "source": "EL PAÍS Economía",
       "title": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
@@ -1108,6 +1149,28 @@
       "priority": 71,
       "title_fa": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
       "lead_fa": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0e0bb8eaf05",
+      "source": "EL PAÍS Economía",
+      "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
+      "summary": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
+      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-gran-proveedor-de-atun-en-lata-de-mercadona-bate-record-de-ventas-y-dispara-beneficios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/47AKIXNPYVDDNAP3MPFX5CG7WM.jpg?auth=53cde1279200c5a886c746ca41573be7bda6914fbb21e0260cc21fae9d3bad0a",
+      "published_at": "2026-08-21T03:15:00+00:00",
+      "category": "economia",
+      "priority": 71,
+      "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
+      "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1181,6 +1244,50 @@
       "priority": 70,
       "title_fa": "Una pelea con cuchillos y destornilladores en la rambla del Raval crispa a los comerciantes",
       "lead_fa": "“Si el Ayuntamiento no toma medidas y mejora la seguridad perderemos los pocos clientes que nos quedan”, dicen los restauradores de este eje",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "07d686f9e8db",
+      "source": "EL PAÍS",
+      "title": "Gil Marín: “Vamos a ayudar a Julián, le necesitamos para competir entre los grandes”",
+      "summary": "El consejero delegado del Atlético insiste en que el delantero no saldrá de su equipo y pidió al entorno cuidar al argentino",
+      "url": "https://elpais.com/deportes/futbol/2026-08-21/gil-marin-vamos-a-ayudar-a-julian-le-necesitamos-para-competir-entre-los-grandes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PP26ECWQERMBZOTD23RQ7SZSTM.jpg?auth=0ee064d5e3153b159213d74cd219e2cf38d08bc31fa76cf2a95471b2d5628cc9",
+      "published_at": "2026-08-21T17:49:40+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Gil Marín: “Vamos a ayudar a Julián, le necesitamos para competir entre los grandes”",
+      "lead_fa": "El consejero delegado del Atlético insiste en que el delantero no saldrá de su equipo y pidió al entorno cuidar al argentino",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0f7cb249e6ad",
+      "source": "EL PAÍS",
+      "title": "La candidata de Guyana encabeza la segunda votación informal para liderar la ONU, seguida de la de Costa Rica",
+      "summary": "Carolyn Rodrigues-Birkett y Rebeca Grynspan se perfilan como favoritas para sustituir a Guterres a partir de 2027 aunque el proceso está aún muy abierto",
+      "url": "https://elpais.com/internacional/2026-08-21/la-candidata-de-guyana-encabeza-la-segunda-votacion-informal-para-liderar-la-onu-seguida-de-la-de-costa-rica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D7SBOFZBZZIBDDPYJEWDW3DYKM.jpg?auth=5c723c255d3eef034ab02f77e68c8d6bb133f448cc6a3514d1c6fcd252267337",
+      "published_at": "2026-08-21T17:46:03+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La candidata de Guyana encabeza la segunda votación informal para liderar la ONU, seguida de la de Costa Rica",
+      "lead_fa": "Carolyn Rodrigues-Birkett y Rebeca Grynspan se perfilan como favoritas para sustituir a Guterres a partir de 2027 aunque el proceso está aún muy abierto",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1280,28 +1387,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3fe61b28f775",
-      "source": "EL PAÍS",
-      "title": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
-      "summary": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
-      "url": "https://elpais.com/deportes/tenis/2026-08-21/sinner-no-jugara-el-us-open-por-una-lesion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HVMFKOSEONPX3A6ULZZ3CWDK4Y.jpg?auth=c41862fc806d56aa6fd3270e5730bc92a74706a828b34434a986d69cef480f85",
-      "published_at": "2026-08-21T14:44:50+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
-      "lead_fa": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c426c43cdbc2",
       "source": "La Vanguardia",
       "title": "Alimentación postozempic",
@@ -1327,6 +1412,28 @@
         "#اقتصاد_اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3fe61b28f775",
+      "source": "EL PAÍS",
+      "title": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
+      "summary": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
+      "url": "https://elpais.com/deportes/tenis/2026-08-21/sinner-no-jugara-el-us-open-por-una-lesion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HVMFKOSEONPX3A6ULZZ3CWDK4Y.jpg?auth=c41862fc806d56aa6fd3270e5730bc92a74706a828b34434a986d69cef480f85",
+      "published_at": "2026-08-21T14:44:50+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Sinner no jugará el US Open por una lesión en su rodilla derecha",
+      "lead_fa": "El número uno del mundo se ausentará del cuarto grande la temporada, donde sí ha anunciado su presencia Carlos Alcaraz",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1385,72 +1492,6 @@
       "priority": 69,
       "title_fa": "'La Odisea' se convierte en la película entre adultos más taquillera de la historia",
       "lead_fa": "La historia épica de Christopher Nolan acumula más de 1.340 millones de dólares a nivel mundial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ea93b41bef20",
-      "source": "EL PAÍS",
-      "title": "Alemania señala a Rusia como responsable de un arsenal de armas hallado en Berlín",
-      "summary": "Un detenido en Rumania reveló la localización de un arsenal y los servicios secretos creen que el objetivo podían ser intereses ucranios en territorio alemán",
-      "url": "https://elpais.com/internacional/2026-08-21/alemania-senala-a-rusia-como-responsable-de-un-arsenal-de-armas-hallado-en-berlin.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2IOH2FNKLRB2ROJVTVX7ASFMOQ.jpg?auth=eb310748cae363612a5dc835c86a4f93ea26670af834f4cb72848fe0dd58b761",
-      "published_at": "2026-08-21T14:14:27+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Alemania señala a Rusia como responsable de un arsenal de armas hallado en Berlín",
-      "lead_fa": "Un detenido en Rumania reveló la localización de un arsenal y los servicios secretos creen que el objetivo podían ser intereses ucranios en territorio alemán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ce7d307d7845",
-      "source": "EL PAÍS Economía",
-      "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
-      "summary": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
-      "url": "https://cincodias.elpais.com/economia/2026-08-21/la-industria-impulsa-el-crecimiento-de-la-actividad-privada-de-la-zona-euro-a-su-mejor-registro-de-2026.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MEQHG2ZILVP55BDQ4WUQH4XHBU.jpg?auth=773ae5554a3c3cc2b8a2e208b5aec40ea4aa1881cff6ce9e05b05a12a6cecc41",
-      "published_at": "2026-08-21T11:55:13+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
-      "lead_fa": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8f1c0701cb46",
-      "source": "EL PAÍS",
-      "title": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
-      "summary": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
-      "url": "https://elpais.com/internacional/2026-08-21/europa-exige-a-israel-que-renuncie-a-construir-un-asentamiento-que-hace-imposible-un-futuro-estado-palestino.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6SBGOT5G25KCRLBOZ54J2QOIBQ.jpg?auth=f05ee443da671a2f6d482624f9e9893c331ad6086788a4ce4d2d7326fadc7876",
-      "published_at": "2026-08-21T11:52:09+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
-      "lead_fa": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1572,6 +1613,50 @@
       "editorial_version": 2
     },
     {
+      "id": "ce7d307d7845",
+      "source": "EL PAÍS Economía",
+      "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
+      "summary": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
+      "url": "https://cincodias.elpais.com/economia/2026-08-21/la-industria-impulsa-el-crecimiento-de-la-actividad-privada-de-la-zona-euro-a-su-mejor-registro-de-2026.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MEQHG2ZILVP55BDQ4WUQH4XHBU.jpg?auth=773ae5554a3c3cc2b8a2e208b5aec40ea4aa1881cff6ce9e05b05a12a6cecc41",
+      "published_at": "2026-08-21T11:55:13+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
+      "lead_fa": "El índice PMI global preliminar se sitúa en agosto en 52,1 puntos, una décima más que en julio y se mantiene en el terreno de la expansión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8f1c0701cb46",
+      "source": "EL PAÍS",
+      "title": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
+      "summary": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
+      "url": "https://elpais.com/internacional/2026-08-21/europa-exige-a-israel-que-renuncie-a-construir-un-asentamiento-que-hace-imposible-un-futuro-estado-palestino.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6SBGOT5G25KCRLBOZ54J2QOIBQ.jpg?auth=f05ee443da671a2f6d482624f9e9893c331ad6086788a4ce4d2d7326fadc7876",
+      "published_at": "2026-08-21T11:52:09+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Europa exige a Israel que renuncie a construir un asentamiento que hace imposible un Estado palestino",
+      "lead_fa": "Las autoridades israelíes aprueban la primera licitación de la estratégica colonia E1, que parte en dos Cisjordania",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ccf55e491508",
       "source": "La Vanguardia",
       "title": "El impactante look con el que Melania Trump reaparece en plena ascensión de Natalie Harp: “Aquí estoy”",
@@ -1660,28 +1745,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b45fca1d3032",
-      "source": "EL PAÍS",
-      "title": "Tesla revisará casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "summary": "Las unidades llamadas a control por el supervisor chino fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
-      "url": "https://cincodias.elpais.com/companias/2026-08-21/tesla-retira-casi-millones-de-vehiculos-en-china-por-distintos-problemas-de-seguridad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5HXNIMQSQJLYXO5ANKPJJDENDY.jpg?auth=0ae543c24384aac6f52bf32ffb192425ab6ed81dcfcb6d80250b95393337becd",
-      "published_at": "2026-08-21T11:13:21+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Tesla revisará casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "lead_fa": "Las unidades llamadas a control por el supervisor chino fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "c7adf4c6df85",
       "source": "EL PAÍS",
       "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
@@ -1715,28 +1778,6 @@
       "priority": 68,
       "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
       "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3fa7136a1aa3",
-      "source": "EL PAÍS",
-      "title": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
-      "summary": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
-      "url": "https://elpais.com/deportes/futbol/2026-08-21/el-barcelona-no-se-da-por-vencido-y-se-da-hasta-el-lunes-para-resolver-el-futuro-de-julian-alvarez.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MTTAYHX2O5ALNG4OR4NNCKIYM4.jpg?auth=0306db2a1bf00b7f92fecde16ac77aecea6319daa45bc25fbca10b4a6cd9a836",
-      "published_at": "2026-08-21T09:43:32+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
-      "lead_fa": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2383,28 +2424,6 @@
       "editorial_version": 2
     },
     {
-      "id": "34d6ee6b3c27",
-      "source": "EL PAÍS Economía",
-      "title": "La marea de los pequeños inversores llega a los robots humanoides y catapulta a Unitree Robotics",
-      "summary": "El fabricante chino de robots humanoides cerró su primera sesión con una subida del 460% y registró una demanda equivalente a más de 5.500 veces las acciones ofertadas",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-20/la-marea-de-los-pequenos-inversores-llega-a-los-robots-humanoides-y-catapulta-a-unitree-robotics.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PKMJWMXWIZOFXDPN6JQPW7IMHA.jpg?auth=9e9b15af4889eb6e0f5dc4ca9727be51571888c90afd8b92bdc0bb7596a6cbeb",
-      "published_at": "2026-08-20T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 58,
-      "title_fa": "La marea de los pequeños inversores llega a los robots humanoides y catapulta a Unitree Robotics",
-      "lead_fa": "El fabricante chino de robots humanoides cerró su primera sesión con una subida del 460% y registró una demanda equivalente a más de 5.500 veces las acciones ofertadas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "76bb68a556c9",
       "source": "La Vanguardia",
       "title": "Margaret Qualley se atreve con las sandalias sin suela de Chanel en el estreno de 'La constelación del perro'",
@@ -2490,7 +2509,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
