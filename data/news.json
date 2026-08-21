@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-21T15:45:41.041907+00:00",
+  "generated_at": "2026-08-21T16:51:54.926841+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
+    "5800e9829d8c",
     "e93219f6d0fe",
     "e2600f504d93",
-    "fdf534682e4d",
-    "9c674691b7de"
+    "fdf534682e4d"
   ],
   "items": [
     {
       "id": "7a75b2481297",
       "source": "EL PAÍS",
-      "title": "Los vecinos de Gátova, en Valencia, confinados por el humo del incendio forestal de Segorbe",
+      "title": "Los vecinos de Gátova, en Valencia, son evacuados por el incendio forestal de Segorbe",
       "summary": "La Generalitat Valenciana solicita el apoyo de la Unidad Militar de Emergencias para las labores de extinción de un fuego que ha quemado 133 hectáreas",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206578_145752_video_1800.mp4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206597_160841_video_1800.mp4",
       "published_at": "2026-08-21T13:59:40+00:00",
       "category": "sociedad",
       "priority": 84,
@@ -33,6 +33,34 @@
         "#آتش_سوزی",
         "#والنسیا",
         "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "5800e9829d8c",
+      "source": "EL PAÍS",
+      "title": "El ministro Ángel Víctor Torres coordinará la gestión de todos los ministerios implicados en la crisis de Ceuta",
+      "summary": "Fuentes de Política Territorial afirman que es una decisión previsible porque el departamento ya atiende varios aspectos relacionados con la situación en la ciudad autónoma",
+      "url": "https://elpais.com/espana/2026-08-21/el-ministro-angel-victor-torres-coordinara-la-gestion-de-todos-los-ministerios-implicados-en-la-crisis-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EGGOIG55OJBILOPGYAYHISSPNA.jpg?auth=0068f050bb1a351987e0c21b819f0b188b26a76f6f1300a7c1765272e5ae26db",
+      "published_at": "2026-08-21T16:24:34+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "مدیریت بحران سبته به آنخل ویکتور تورس واگذار شد",
+      "lead_fa": "وزیر سیاست سرزمینی اسپانیا هماهنگی نهادهای درگیر در بحران سبته را بر عهده می‌گیرد. این تصمیم با توجه به سابقه این وزارتخانه در رسیدگی به مسائل شهر خودمختار پیش‌بینی می‌شد.",
+      "key_points_fa": [
+        "آنخل ویکتور تورس مسئولیت هماهنگی وزارتخانه‌های مرتبط با بحران سبته را عهده‌دار شد.",
+        "وزارت سیاست سرزمینی پیش از این نیز ابعاد مختلف وضعیت سبته را مدیریت کرده بود.",
+        "این اقدام از سوی منابع دولتی تصمیمی قابل پیش‌بینی توصیف شده است."
+      ],
+      "analysis_fa": "تمرکز مدیریت بحران در یک وزارتخانه نشان‌دهنده تلاش دولت برای انسجام بیشتر در تصمیم‌گیری‌ها و واکنش به چالش‌های مربوط به شهرهای خودمختار است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -125,7 +153,7 @@
     },
     {
       "id": "9c674691b7de",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "El Gobierno sondeó al Rey sobre la oportunidad de hacer una llamada a Mohamed VI por la crisis de Ceuta",
       "summary": "Felipe VI no descarta esa intervención o la visita a la ciudad si lo pide el presidente y cuando sea “útil y razonable”",
       "url": "https://elpais.com/espana/2026-08-21/el-gobierno-sondeo-al-rey-sobre-la-oportunidad-de-hacer-una-llamada-a-mohamed-vi-por-la-crisis-de-ceuta.html",
@@ -175,36 +203,6 @@
         "#سئوتا",
         "#اسپانیا",
         "#مهاجرت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9133cac4fd70",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
-      "summary": "La playa del Trampolín vuelve a llenarse de migrantes tras la limpieza realizada a primera hora",
-      "url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FDFPWIV7IFFLPIWUU4OE2EX7NY.jpg?auth=c188fed681e2f18846acab16a7617d2df7bc122bf09a58f359d5b31b4ac9a5c2",
-      "published_at": "2026-08-21T14:28:31+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "تحولات مهاجرت به سبته و تلاش برای انتقال کودکان",
-      "lead_fa": "وزارت کودکان اسپانیا ابراز امیدواری کرد که دختران مهاجر در هفته‌های آینده از سبته منتقل شوند. با این حال، هنوز پیشنهاد مشخصی به مقامات این شهر ارسال نشده است.",
-      "key_points_fa": [
-        "امیدواری وزارتخانه به انتقال دختران مهاجر از سبته در آینده نزدیک",
-        "عدم ارسال پیشنهاد مشخص به مقامات محلی سبته تاکنون",
-        "ازسرگیری عملیات نظافت در ساحل ال ترامپولین",
-        "تاکید بروکسل بر لزوم بازگرداندن تمامی مهاجرانی که به طور غیرقانونی وارد سبته شده‌اند"
-      ],
-      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های هماهنگی میان دولت مرکزی اسپانیا و نهادهای محلی سبته در مدیریت بحران‌های مهاجرتی و اسکان افراد آسیب‌پذیر است. تاخیر در ارائه راهکارهای عملی می‌تواند فشارهای سیاسی و اجتماعی را بر دولت افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -267,7 +265,7 @@
     },
     {
       "id": "6d0d51b0290e",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Por qué trasladar a 500 menores de Ceuta a la Península: atención básica inmediata y respuesta a la salud mental",
       "summary": "Tres mujeres y cinco menores de edad han sido atendidas en el centro de crisis 24 horas de la ciudad en este contexto humanitario",
       "url": "https://elpais.com/espana/2026-08-21/por-que-trasladar-a-500-menores-de-ceuta-a-la-peninsula-atencion-basica-inmediata-y-respuesta-a-la-salud-mental.html",
@@ -412,20 +410,28 @@
       "title": "La FIFA sanciona con diez partidos a Paredes y con uno a Gavi por los incidentes de la final del Mundial",
       "summary": "También hay castigo para Nahuel Molina (siete encuentros), Almada (uno), Ayala (tres) y una fuerte multa económica para la AFA por la pancarta “Malvinas argentinas” exhibida en las semifinales ante Inglaterra",
       "url": "https://elpais.com/deportes/futbol/2026-08-21/la-fifa-sanciona-con-diez-partidos-a-paredes-y-con-uno-a-gavi-por-los-incidentes-de-la-final-del-mundial.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260720/1197028_080337_video_1800.mp4",
+      "image": "https://imagenes.elpais.com/resizer/v2/NX7L37BPH5AK7L72NAR3HYZEEI.jpg?auth=149e541eef1624f311f87473e93f5737d7036e0e150e7babecc1c53b4bbfdd1e",
       "published_at": "2026-08-21T13:58:55+00:00",
-      "category": "politica",
+      "category": "deportes",
       "priority": 75,
-      "title_fa": "La FIFA sanciona con diez partidos a Paredes y con uno a Gavi por los incidentes de la final del Mundial",
-      "lead_fa": "También hay castigo para Nahuel Molina (siete encuentros), Almada (uno), Ayala (tres) y una fuerte multa económica para la AFA por la pancarta “Malvinas argentinas” exhibida en las semifinales ante Inglaterra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جریمه سنگین فیفا برای بازیکنان آرژانتین و اسپانیا پس از جام جهانی",
+      "lead_fa": "کمیته انضباطی فیفا آرژانتین و اسپانیا را جریمه کرد. این احکام پس از بررسی حوادث فینال جام جهانی صادر شد.",
+      "key_points_fa": [
+        "لئاندرو پاردس با محرومیت ۱۰ جلسه ای روبرو شد.",
+        "گاوی با محرومیت ۱ جلسه ای مواجه شد.",
+        "نهوئل مولینا ۷ جلسه و تیاگو آلمادا ۱ جلسه محروم شدند.",
+        "فدراسیون فوتبال آرژانتین به دلیل بنر جنجالی جزایر فالکلند جریمه نقدی شد."
+      ],
+      "analysis_fa": "این تصمیمات انضباطی در پی تنش های رخ داده در جریان مسابقات جام جهانی و حواشی دیدار فینال اتخاذ شده است. برخورد انضباطی با فدراسیون فوتبال آرژانتین نیز نشان دهنده حساسیت فیفا نسبت به مسائل سیاسی و حاشیه ای در میادین ورزشی است که می تواند رویه انضباطی مسابقات آینده را تحت تاثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#فیفا",
+        "#فوتبال",
+        "#اسپانیا",
+        "#آرژانتین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -600,35 +606,6 @@
       "editorial_version": 2
     },
     {
-      "id": "89909212cb7e",
-      "source": "EL PAÍS",
-      "title": "Medio año de guerra después, Estados Unidos sigue sin estrangular la economía de Irán",
-      "summary": "El cerco comercial y financiero que Trump quiere intensificar daña a Teherán, pero no hace descarrilar la matriz productiva del régimen. La población civil es la más golpeada",
-      "url": "https://elpais.com/internacional/2026-08-21/medio-ano-de-guerra-despues-estados-unidos-sigue-sin-estrangular-la-economia-de-iran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MQKAJRMVQJIY3HJ7H2AOEGCG34.jpg?auth=387e554084ccdb6e9a5fc3c35b279c05ac380289b952dd7eaab5d95915384a2c",
-      "published_at": "2026-08-21T03:45:01+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "اقتصاد ایران پس از نیم سال جنگ همچنان پابرجاست",
-      "lead_fa": "تحریم‌های تجاری و مالی آمریکا فشار شدیدی بر تهران وارد کرده است. با این حال، این اقدامات هنوز ساختار تولیدی حکومت را از کار نیانداخته است.",
-      "key_points_fa": [
-        "فشار تجاری و مالی ایالات متحده علیه ایران ادامه دارد.",
-        "ساختار تولیدی حکومت ایران تاکنون متوقف نشده است.",
-        "جمعیت غیرنظامی بیشترین آسیب را از این وضعیت متحمل شده است."
-      ],
-      "analysis_fa": "فشارهای اقتصادی شدیدی که از سوی ایالات متحده اعمال می‌شود، اقتصاد ایران را تضعیف کرده است اما نتوانسته فروپاشی کامل ساختار اقتصادی آن را به همراه داشته باشد. در این میان، غیرنظامیان بیش از دیگر بخش‌ها متحمل هزینه‌های این چالش‌های اقتصادی می‌شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ایران",
-        "#آمریکا",
-        "#اقتصاد",
-        "#تحریم"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "4301b894bf1c",
       "source": "EL PAÍS España",
       "title": "El Gobierno reubica a más de un millar de migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
@@ -742,84 +719,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d73a0f090060",
-      "source": "EL PAÍS Economía",
-      "title": "Comprar una casa se pone cada vez más difícil para quienes viven en la costa",
-      "summary": "El esfuerzo para adquirir vivienda en los municipios litorales exige un 40% de los ingresos medios de las familias, mientras los precios subieron un 13,5% en el arranque de año, según Tinsa",
-      "url": "https://elpais.com/economia/vivienda/2026-08-19/comprar-una-casa-se-pone-cada-vez-mas-dificil-para-quienes-viven-en-la-costa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HHM6YYZFMNG3RER52JEOYW43BA.jpg?auth=91fd7c77be1633b74d7397985ada1b8912095f0466e1bfdab0c651aa1299b26d",
-      "published_at": "2026-08-19T12:48:38+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "خرید مسکن در شهرهای ساحلی اسپانیا دشوارتر شد",
-      "lead_fa": "خرید مسکن در مناطق ساحلی اسپانیا اکنون به طور متوسط به ۴۰ درصد از درآمد خانواده‌ها نیاز دارد. این در حالی است که قیمت‌ها در ابتدای سال جاری میلادی ۱۳.۵ درصد افزایش یافته است.",
-      "key_points_fa": [
-        "اختصاص ۴۰ درصد از درآمد متوسط خانوارها به خرید مسکن در مناطق ساحلی",
-        "افزایش ۱۳.۵ درصدی قیمت مسکن در آغاز سال",
-        "استناد به داده‌های شرکت ارزیابی املاک تینسا"
-      ],
-      "analysis_fa": "رشد قیمت مسکن در نواحی ساحلی اسپانیا نشان‌دهنده ت تداوم فشار بازار مسکن بر خانوارهای محلی است. این روند ناشی از تقاضای بالا و محدودیت عرضه در این مناطق پرطرفدار است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مسکن_اسپانیا",
-        "#اقتصاد_اسپانیا",
-        "#بازار_مسکن"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0cb79fc6a863",
-      "source": "La Vanguardia",
-      "title": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
-      "summary": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617599/vuelven-desalojar-mas-mil-migrantes-playa-trampolin-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882bc6bfd93.jpeg",
-      "published_at": "2026-08-21T11:55:02+02:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
-      "lead_fa": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d4a48ed0f5d1",
-      "source": "EL PAÍS",
-      "title": "Ocasio-Cortez narra el proceso para congelar sus óvulos mientras se especula sobre su posible candidatura presidencial en 2028",
-      "summary": "La congresista demócrata se distancia de los postulados ‘woke’, lo que se interpreta como un intento de limar asperezas de cara a aspiraciones como el Senado o la Casa Blanca",
-      "url": "https://elpais.com/us/2026-08-21/ocasio-cortez-narra-el-proceso-para-congelar-sus-ovulos-mientras-se-especula-sobre-su-posible-candidatura-presidencial-en-2028.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6RNVTC3OEJKWPIXS45KTTIF6FE.jpg?auth=93ba49fab021287d2bc3691a6b4fa296ff389f894ce16a00d80fc1157330cbb5",
-      "published_at": "2026-08-21T04:00:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "روند فریز تخمک توسط اوکاسیو-کورتز و گمانه‌زنی درباره آینده سیاسی‌اش",
-      "lead_fa": "الکساندرا اوکاسیو-کورتز، نماینده دموکرات، روند پزشکی فریز کردن تخمک‌های خود را رسانه‌ای کرد. این اقدام همزمان با گمانه‌زنی‌ها درباره تلاش او برای کاهش اختلافات و آمادگی جهت نامزدی‌های احتمالی آینده مطرح شده است.",
-      "key_points_fa": [
-        "اعلام روند فریز تخمک توسط اوکاسیو-کورتز در فضای عمومی.",
-        "فاصله‌گیری نسبی این نماینده از مواضع جریان‌های موسوم به واک.",
-        "گمانه‌زنی رسانه‌ای درباره تلاش او برای هموار کردن راه جهت ورود به سنا یا انتخابات ریاست‌جمهوری ۲۰۲۸."
-      ],
-      "analysis_fa": "پرداختن به مسائل شخصی در میان سیاستمداران آمریکایی اغلب ابزاری برای ارتباط بهتر با بدنه رای‌دهندگان و کاستن از تنش‌های سیاسی محسوب می‌شود. فاصله گرفتن اوکاسیو-کورتز از مواضع تند حزبی نیز می‌تواند بخشی از استراتژی او برای جلب آرای طیف وسیع‌تری از شهروندان در انتخابات آتی باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آمریکا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7de7e3258a53",
       "source": "EL PAÍS Economía",
       "title": "Los turistas extranjeros dispararon el gasto en las provincias donde mejor se vio el eclipse",
@@ -843,6 +742,34 @@
         "#اسپانیا",
         "#گردشگری",
         "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0cb79fc6a863",
+      "source": "La Vanguardia",
+      "title": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
+      "summary": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617599/vuelven-desalojar-mas-mil-migrantes-playa-trampolin-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882bc6bfd93.jpeg",
+      "published_at": "2026-08-21T11:55:02+02:00",
+      "category": "migracion",
+      "priority": 73,
+      "title_fa": "بازگشت مهاجران به ساحل ال ترامپولین پس از تخلیه برای نظافت",
+      "lead_fa": "مهاجران پس از پایان عملیات پاکسازی دوباره به ساحل ال ترامپولین بازگشتند. گروه‌هایی از مهاجران اهل مغرب و کشورهای جنوب صحرای آفریقا در این منطقه حضور دارند.",
+      "key_points_fa": [
+        "ساحل ال ترامپولین پیش‌تر به منظور نظافت تخلیه شده بود.",
+        "مهاجران مغربی شب را در محل گذرانده بودند.",
+        "گروه‌های جدیدی از مهاجران با کیسه‌های غذای اهدایی سازمان‌های غیردولتی به منطقه اضافه شدند."
+      ],
+      "analysis_fa": "حضور مجدد مهاجران در این ساحل نشان‌دهنده تداوم چالش‌های مربوط به اسکان موقت و وضعیت گروه‌های آسیب‌پذیر در مناطق ساحلی است. این موضوع توجه نهادهای مدنی و سازمان‌های امدادی را برای ارائه کمک‌های بشردوستانه به خود جلب کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مهاجران",
+        "#اسپانیا",
+        "#بارسلونا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -902,28 +829,6 @@
         "#سیاست"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e45da92ee5ac",
-      "source": "EL PAÍS",
-      "title": "Las mil y una calamidades de los bomberos de Castilla y León tras el incendio más grave de la historia de España: “Es inhumano”",
-      "summary": "Los brigadistas denuncian que el récord de hectáreas quemadas en Ávila revela que el dispositivo sigue sin mejorar pese a años de desgracias",
-      "url": "https://elpais.com/espana/2026-08-21/las-mil-y-una-calamidades-de-los-bomberos-de-castilla-y-leon-tras-el-incendio-mas-grave-de-la-historia-de-espana-es-inhumano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UJUNZ3WQAFC6JD7C7KXIFP3BSQ.jpg?auth=6437b73606b05faa635fd2f665b9603c723f8848ef9c7f5ca8dc59a468f4e066",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 73,
-      "title_fa": "Las mil y una calamidades de los bomberos de Castilla y León tras el incendio más grave de la historia de España: “Es inhumano”",
-      "lead_fa": "Los brigadistas denuncian que el récord de hectáreas quemadas en Ávila revela que el dispositivo sigue sin mejorar pese a años de desgracias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1221,17 +1126,83 @@
       "editorial_version": 2
     },
     {
-      "id": "c2d3e311ecbb",
-      "source": "La Vanguardia",
-      "title": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
-      "summary": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617732/juez-ordena-principe-harry-otros-seis-demandantes-pagar-11-millones-euros-editor-daily-mail.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/23/697363342a0f7.r_d.2477-1652-0.jpeg",
-      "published_at": "2026-08-21T15:34:05+02:00",
+      "id": "0693ae61fed0",
+      "source": "EL PAÍS",
+      "title": "Aruberuto Makoto, el ‘streamer’ español que ha vuelto a convertir el acoso sexual a mujeres en contenido",
+      "summary": "El último vídeo viral del ‘youtuber’ Alberto Alonso le muestra junto a una mujer aparentemente borracha diciéndole a un colaborador: “¿Te la quieres follar? Esta es gratis”",
+      "url": "https://elpais.com/sociedad/2026-08-21/aruberuto-makoto-el-streamer-espanol-que-ha-vuelto-a-convertir-el-acoso-sexual-a-mujeres-en-contenido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VWE3HLFT5FBURC4JC4QZ4WMMEQ.jpg?auth=53665fa7cc56ec15134b65ce03dff1bb195fcc05e8868cdc346642a23baccd91",
+      "published_at": "2026-08-21T16:39:57+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
-      "lead_fa": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "title_fa": "Aruberuto Makoto, el ‘streamer’ español que ha vuelto a convertir el acoso sexual a mujeres en contenido",
+      "lead_fa": "El último vídeo viral del ‘youtuber’ Alberto Alonso le muestra junto a una mujer aparentemente borracha diciéndole a un colaborador: “¿Te la quieres follar? Esta es gratis”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b087fd31b155",
+      "source": "EL PAÍS",
+      "title": "El reventón térmico de Valencia que barrió Alzira: “Llegó un diluvio de agua y viento que no hemos conocido”",
+      "summary": "Los municipios valencianos afectados por el frente de tormentas del jueves evalúan los daños y tratan de recuperar la normalidad",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/el-reventon-termico-de-valencia-que-barrio-alzira-llego-un-diluvio-de-agua-y-viento-que-no-hemos-conocido.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2SN33B5QJZEDDCDG46ZRK4AW4U.jpg?auth=01109b3bbe9c558c32a2c41a2029b560b0dc2201922d3fc35aba11cd9a5aa416",
+      "published_at": "2026-08-21T16:22:59+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El reventón térmico de Valencia que barrió Alzira: “Llegó un diluvio de agua y viento que no hemos conocido”",
+      "lead_fa": "Los municipios valencianos afectados por el frente de tormentas del jueves evalúan los daños y tratan de recuperar la normalidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c5e0407ee679",
+      "source": "EL PAÍS",
+      "title": "El presidente de Irán pide terminar la guerra con Estados Unidos: “El mundo entero reconoce nuestra victoria”",
+      "summary": "Masud Pezeshkián asegura que su país está “en una posición de fuerza y dignidad” para concluir el conflicto, aunque afirma que no cederán “ante la intimidación” de Washington",
+      "url": "https://elpais.com/internacional/2026-08-21/el-presidente-de-iran-pide-terminar-la-guerra-con-estados-unidos-el-mundo-entero-reconoce-nuestra-victoria.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VTIP3ADJU5KRTCVBDJBS5BJYMM.jpg?auth=a6a01ced959f1e27673eb3cf7a416abbb35a7037d34fe073f123f98e145f8bca",
+      "published_at": "2026-08-21T16:07:04+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El presidente de Irán pide terminar la guerra con Estados Unidos: “El mundo entero reconoce nuestra victoria”",
+      "lead_fa": "Masud Pezeshkián asegura que su país está “en una posición de fuerza y dignidad” para concluir el conflicto, aunque afirma que no cederán “ante la intimidación” de Washington",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6e1b82dbfff3",
+      "source": "EL PAÍS",
+      "title": "Un hombre armado con una espada hiere a varias personas en un instituto de Suecia",
+      "summary": "Dos adolescentes presentan heridas graves y han sido trasladados al hospital. El sospechoso ha sido detenido por la policía",
+      "url": "https://elpais.com/internacional/2026-08-21/un-hombre-armado-con-una-espada-hiere-a-varias-personas-en-un-instituto-de-suecia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/L4LWBAFMQVEATPRAGKYQR2MPVU.jpg?auth=7385eff70deaefe2f421cbd03417d2e9d569981ad6eed710dac477b0dac5cde5",
+      "published_at": "2026-08-21T15:49:50+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un hombre armado con una espada hiere a varias personas en un instituto de Suecia",
+      "lead_fa": "Dos adolescentes presentan heridas graves y han sido trasladados al hospital. El sospechoso ha sido detenido por la policía",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1315,6 +1286,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c2d3e311ecbb",
+      "source": "La Vanguardia",
+      "title": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
+      "summary": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "url": "https://www.lavanguardia.com/gente/20260821/11617732/juez-ordena-principe-harry-otros-seis-demandantes-pagar-11-millones-euros-editor-daily-mail.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/23/697363342a0f7.r_d.2477-1652-0.jpeg",
+      "published_at": "2026-08-21T15:34:05+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
+      "lead_fa": "La sentencia de julio de la demanda contra contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b27d8cdc7ddc",
       "source": "La Vanguardia",
       "title": "El ejército de EE.UU. desmantela su batallón especializado en la guerra con drones",
@@ -1339,14 +1332,14 @@
     {
       "id": "a2380e2992d7",
       "source": "La Vanguardia",
-      "title": "Dos naufragos sobreviven cinco días a la deriva sobre una nevera",
+      "title": "Dos náufragos sobreviven cinco días a la deriva sobre una nevera",
       "summary": "La Armada de México localiza con vida a los náufragos a 240 kilómetros de la costa de Chiapas",
       "url": "https://www.lavanguardia.com/sucesos/20260821/11617693/rescate-nevera-mexico-pescadores.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a883dce1caae.jpeg",
       "published_at": "2026-08-21T14:18:24+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Dos naufragos sobreviven cinco días a la deriva sobre una nevera",
+      "title_fa": "Dos náufragos sobreviven cinco días a la deriva sobre una nevera",
       "lead_fa": "La Armada de México localiza con vida a los náufragos a 240 kilómetros de la costa de Chiapas",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1491,50 +1484,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ce88f7c9ed02",
-      "source": "La Vanguardia",
-      "title": "Una mujer, herida en un tiroteo de madrugada en Badalona",
-      "summary": "Los hechos han ocurrido en la calle Simancas de la ciudad",
-      "url": "https://www.lavanguardia.com/local/barcelones-nord/20260821/11617627/mujer-herida-bala-herida-tiroteo-madrugada-badalona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/19/66c334113cab1.jpeg",
-      "published_at": "2026-08-21T12:35:43+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Una mujer, herida en un tiroteo de madrugada en Badalona",
-      "lead_fa": "Los hechos han ocurrido en la calle Simancas de la ciudad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "52701ee13cfe",
-      "source": "La Vanguardia",
-      "title": "Cuatro menores se enfrentan a multas de hasta 3.000 euros por defecar en una piscina de Burgos",
-      "summary": "El ayuntamiento asegura que, durante este verano, se han contabilizado unos “seis episodios de este tipo” en las instalaciones",
-      "url": "https://www.lavanguardia.com/local/castilla-leon/20260821/11617608/cuatro-menores-enfrentan-multas-3-000-euros-defecar-piscina-burgos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/06/15/62a9d93ab067f.jpeg",
-      "published_at": "2026-08-21T12:08:45+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Cuatro menores se enfrentan a multas de hasta 3.000 euros por defecar en una piscina de Burgos",
-      "lead_fa": "El ayuntamiento asegura que, durante este verano, se han contabilizado unos “seis episodios de este tipo” en las instalaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ce7d307d7845",
       "source": "EL PAÍS Economía",
       "title": "La industria impulsa el crecimiento de la actividad de la zona euro a su mejor nivel de 2026",
@@ -1625,15 +1574,15 @@
     {
       "id": "b45fca1d3032",
       "source": "EL PAÍS",
-      "title": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "summary": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
+      "title": "Tesla revisará casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "summary": "Las unidades llamadas a control por el supervisor chino fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
       "url": "https://cincodias.elpais.com/companias/2026-08-21/tesla-retira-casi-millones-de-vehiculos-en-china-por-distintos-problemas-de-seguridad.html",
       "image": "https://imagenes.elpais.com/resizer/v2/5HXNIMQSQJLYXO5ANKPJJDENDY.jpg?auth=0ae543c24384aac6f52bf32ffb192425ab6ed81dcfcb6d80250b95393337becd",
       "published_at": "2026-08-21T11:13:21+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Tesla retira casi tres millones de vehículos en China por distintos problemas de seguridad",
-      "lead_fa": "Las unidades llamadas a revisión fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
+      "title_fa": "Tesla revisará casi tres millones de vehículos en China por distintos problemas de seguridad",
+      "lead_fa": "Las unidades llamadas a control por el supervisor chino fueron fabricadas entre el 2019 y el 2026 en el caso del Model 3, y entre 2020 y 2026, en el Model Y",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1667,17 +1616,39 @@
       "editorial_version": 2
     },
     {
-      "id": "5dbdd94eaf12",
-      "source": "EL PAÍS",
-      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
-      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
-      "published_at": "2026-08-21T10:32:15+00:00",
+      "id": "ce88f7c9ed02",
+      "source": "La Vanguardia",
+      "title": "Una mujer, herida en un tiroteo de madrugada en Badalona",
+      "summary": "Los hechos han ocurrido en la calle Simancas de la ciudad",
+      "url": "https://www.lavanguardia.com/local/barcelones-nord/20260821/11617627/mujer-herida-bala-herida-tiroteo-madrugada-badalona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/19/66c334113cab1.jpeg",
+      "published_at": "2026-08-21T12:35:43+02:00",
       "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
+      "priority": 68,
+      "title_fa": "Una mujer, herida en un tiroteo de madrugada en Badalona",
+      "lead_fa": "Los hechos han ocurrido en la calle Simancas de la ciudad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "52701ee13cfe",
+      "source": "La Vanguardia",
+      "title": "Cuatro menores se enfrentan a multas de hasta 3.000 euros por defecar en una piscina de Burgos",
+      "summary": "El ayuntamiento asegura que, durante este verano, se han contabilizado unos “seis episodios de este tipo” en las instalaciones",
+      "url": "https://www.lavanguardia.com/local/castilla-leon/20260821/11617608/cuatro-menores-enfrentan-multas-3-000-euros-defecar-piscina-burgos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/06/15/62a9d93ab067f.jpeg",
+      "published_at": "2026-08-21T12:08:45+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Cuatro menores se enfrentan a multas de hasta 3.000 euros por defecar en una piscina de Burgos",
+      "lead_fa": "El ayuntamiento asegura que, durante este verano, se han contabilizado unos “seis episodios de este tipo” en las instalaciones",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1711,17 +1682,17 @@
       "editorial_version": 2
     },
     {
-      "id": "89473e6e0524",
-      "source": "La Vanguardia",
-      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
-      "published_at": "2026-08-21T09:44:49+02:00",
+      "id": "5dbdd94eaf12",
+      "source": "EL PAÍS",
+      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
+      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
+      "published_at": "2026-08-21T10:32:15+00:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1755,6 +1726,28 @@
       "editorial_version": 2
     },
     {
+      "id": "89473e6e0524",
+      "source": "La Vanguardia",
+      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
+      "published_at": "2026-08-21T09:44:49+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "627a2b7c91f4",
       "source": "La Vanguardia",
       "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
@@ -1763,119 +1756,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87facad64e6.r_d.1603-864-0.jpeg",
       "published_at": "2026-08-21T09:30:34+02:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
       "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d64bc0965914",
-      "source": "La Vanguardia",
-      "title": "Ayuso, una inquilina polémica",
-      "summary": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a872cb5213b1.r_d.2529-1463-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Ayuso, una inquilina polémica",
-      "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aff3e0ff6bca",
-      "source": "La Vanguardia",
-      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "summary": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874a7a2a337.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 67,
-      "title_fa": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "lead_fa": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c6bffe615cdb",
-      "source": "La Vanguardia",
-      "title": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
-      "summary": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617311/julian-alvarez-ultima-espera-opciones-alternativas-barca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87d57581664.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
-      "lead_fa": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b8f166711dc1",
-      "source": "La Vanguardia",
-      "title": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
-      "summary": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
-      "url": "https://www.lavanguardia.com/natural/20260821/11617200/nueva-pista-sobre-denisovanos-hominidos-gigantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a870a1abf000.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
-      "lead_fa": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "adda565c887d",
-      "source": "La Vanguardia",
-      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1912,6 +1795,116 @@
         "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d64bc0965914",
+      "source": "La Vanguardia",
+      "title": "Ayuso, una inquilina polémica",
+      "summary": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a872cb5213b1.r_d.2529-1463-0.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Ayuso, una inquilina polémica",
+      "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aff3e0ff6bca",
+      "source": "La Vanguardia",
+      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
+      "summary": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874a7a2a337.r_d.2067-1378-0.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 66,
+      "title_fa": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
+      "lead_fa": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c6bffe615cdb",
+      "source": "La Vanguardia",
+      "title": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
+      "summary": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617311/julian-alvarez-ultima-espera-opciones-alternativas-barca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87d57581664.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
+      "lead_fa": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b8f166711dc1",
+      "source": "La Vanguardia",
+      "title": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
+      "summary": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
+      "url": "https://www.lavanguardia.com/natural/20260821/11617200/nueva-pista-sobre-denisovanos-hominidos-gigantes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a870a1abf000.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
+      "lead_fa": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "adda565c887d",
+      "source": "La Vanguardia",
+      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2080,6 +2073,28 @@
       "priority": 66,
       "title_fa": "Manifiesto a favor de la sobremesa: un gusto improductivo, irreductible y tremendamente español",
       "lead_fa": "Resulta asombroso que, en esta era de gentrificación de la intimidad, a la sobremesa se le permita ser, todavía, el acto sencillo que es",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5334e74de8c1",
+      "source": "EL PAÍS",
+      "title": "Moda agosteña de Flavita Banana: las sandalias",
+      "summary": "Viñeta del 21 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-21/moda-agostena-de-flavita-banana-las-sandalias.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/UB72LLUTPZHDLDJ3J6F7PKNWGY.jpg?auth=b8e1bc28022a155b183250f467d59927da3e10c7add01e9e4c589812bf7719e4",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Moda agosteña de Flavita Banana: las sandalias",
+      "lead_fa": "Viñeta del 21 de agosto de 2026",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2469,7 +2484,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 150
+      "count": 149
     },
     {
       "source": "EL PAÍS España",
@@ -2484,7 +2499,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 135
+      "count": 134
     }
   ]
 }
