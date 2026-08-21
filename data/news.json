@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T07:04:21.565953+00:00",
+  "generated_at": "2026-08-21T07:53:49.268529+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "fdf534682e4d",
     "9c674691b7de",
     "f976d6b916f2",
-    "7a75b2481297",
-    "0cb4b761e981"
+    "9af06cdcaa6e",
+    "7a75b2481297"
   ],
   "items": [
     {
@@ -95,10 +95,38 @@
       "editorial_version": 2
     },
     {
+      "id": "9af06cdcaa6e",
+      "source": "La Vanguardia",
+      "title": "Varios medios aéreos se incorporan para apagar el incendio iniciado en Segorbe por un rayo",
+      "summary": "Las llamas se iniciaron ayer por la tarde entre Gátova y Segorbe (Castellón)",
+      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617504/medios-aereos-incorporan-apagar-incendio-iniciado-segorbe-rayo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/02/68651eaf57456.jpeg",
+      "published_at": "2026-08-21T08:35:01+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "اعزام امکانات هوایی برای مهار آتش‌سوزی در کاستلیون",
+      "lead_fa": "آتش‌سوزی جنگلی که دیروز بعدازظهر بین گاتووا و سوربور آغاز شد، همچنان ادامه دارد. چندین وسیله نقلیه هوایی برای اطفای حریق به منطقه اعزام شده‌اند.",
+      "key_points_fa": [
+        "منشا آتش‌سوزی اصابت صاعقه گزارش شده است.",
+        "حریق دیروز بعدازظهر در منطقه کاستلیون شروع شد.",
+        "امکانات هوایی برای کمک به مهار شعله‌ها وارد عمل شده‌اند."
+      ],
+      "analysis_fa": "وقوع آتش‌سوزی‌های جنگلی ناشی از رعدوبرق در فصل گرم سال چالش مهمی برای نهادهای امدادی اسپانیا محسوب می‌شود و سرعت عمل در اعزام تجهیزات هوایی نقش کلیدی در کنترل گسترش حریق دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#کاستلیون"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "7a75b2481297",
       "source": "EL PAÍS",
       "title": "Las tormentas de Valencia y Castellón provocan un incendio forestal en Segorbe, en la Sierra de la Calderona",
-      "summary": "La caída de rayos desataron fuegos en distintos municipios de las provincias de Valencia y Castellón",
+      "summary": "Una persona ha fallecido tras adentrarse al mar la noche del jueves en el municipio castellonense de Benicarló",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/SL447X5L4BBNRITIWURMEQC2EQ.jpeg?auth=5280cd968f05be756ab1b8439c730a2ab441596a50c120f4c6a3ddd7fd41a864",
       "published_at": "2026-08-21T05:58:02+00:00",
@@ -243,7 +271,7 @@
       "title": "El Gobierno aplica por fin el primer plan para poner orden en Ceuta",
       "summary": "La Administración central abre dos centros temporales que no garantizan a nadie quedarse, solo camas y cuidados",
       "url": "https://www.lavanguardia.com/politica/20260821/11617318/gobierno-aplica-primer-plan-poner-orden-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a874e59c60ed.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ebdc53287.jpeg",
       "published_at": "2026-08-21T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
@@ -559,16 +587,22 @@
       "published_at": "2026-08-21T03:45:01+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "Mujer, de izquierdas y con padres turcos: la inesperada irrupción de Elif Eralp como favorita para gobernar Berlín",
-      "lead_fa": "La jurista muniquesa de Die Linke es una de las candidatas más fuertes para encabezar el Gobierno de la capital alemana desde septiembre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ظهور الیف ارپ به عنوان چهره محبوب برای حکومت بر برلین",
+      "lead_fa": "الیف ارپ، حقوقدان مونیخی از حزب چپ، به یکی از نامزدهای اصلی برای رهبری دولت پایتخت آلمان تبدیل شده است. رقابت برای تعیین دولت جدید برلین از ماه سپتامبر آینده دنبال می شود.",
+      "key_points_fa": [
+        "الیف ارپ عضوی از حزب چپ آلمان است.",
+        "او اصالتاً دارای والدین ترک است.",
+        "او به عنوان یکی از نامزدهای برجسته برای دولت برلین مطرح شده است."
+      ],
+      "analysis_fa": "برجستگی الیف ارپ در سپهر سیاسی برلین نشان دهنده تغییرات احتمالی در توازن قدرت سیاسی در پایتخت آلمان است. این تحولات در شرایطی رخ می دهد که احزاب سیاسی به دنبال جلب آرای اقشار مختلف جامعه هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#برلین",
+        "#آلمان",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -579,18 +613,24 @@
       "url": "https://elpais.com/economia/2026-08-21/los-turistas-extranjeros-dispararon-el-gasto-en-las-provincias-donde-mejor-se-vio-el-eclipse.html",
       "image": "https://imagenes.elpais.com/resizer/v2/XSHACUMADNPZXON6P7JGG4VEI4.jpg?auth=e9d3cbc78f1942acd574f01dac59823e0c3a07aa4ab4a880dd280a8f1afce526",
       "published_at": "2026-08-21T03:45:01+00:00",
-      "category": "migracion",
+      "category": "turismo",
       "priority": 74,
-      "title_fa": "Los turistas extranjeros dispararon el gasto en las provincias donde mejor se vio el eclipse",
-      "lead_fa": "El pago con tarjeta por parte de los foráneos creció hasta un 220% en Soria y un 106% en La Rioja durante la semana del fenómeno natural, según los datos de BBVA",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جهش هزینه‌کرد گردشگران خارجی در استان‌های میزبان خورشیدگرفتگی",
+      "lead_fa": "پرداخت با کارت گردشگران خارجی در مناطق محل مشاهده خورشیدگرفتگی به طور چشمگیری افزایش یافت. این آمار بر اساس داده‌های بانک BBVA در هفته وقوع پدیده طبیعی ثبت شده است.",
+      "key_points_fa": [
+        "افزایش تا ۲۲۰ درصدی پرداخت با کارت در استان سوریا",
+        "رشد ۱۰۶ درصدی هزینه‌کرد در لا ریوخا طی هفته پدیده طبیعی",
+        "استناد داده‌ها به گزارش رسمی بانک BBVA"
+      ],
+      "analysis_fa": "رویدادهای نجومی خاص می‌توانند محرک‌های قدرتمندی برای اقتصاد محلی و صنعت گردشگری مناطق کمتر شناخته‌شده باشند و جریان درآمدی کوتاه‌مدت اما قابل‌توجهی ایجاد کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#گردشگری",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -888,7 +928,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "published_at": "2026-08-21T00:05:00+02:00",
       "category": "economia",
-      "priority": 73,
+      "priority": 72,
       "title_fa": "Los pisos de los políticos",
       "lead_fa": "Cuando la vivienda de un gobernante es materia de escrutinio público siempre tiene las de perder",
       "key_points_fa": [],
@@ -910,7 +950,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8738c35b25e.r_d.2324-2314-0.jpeg",
       "published_at": "2026-08-21T00:05:00+02:00",
       "category": "politica",
-      "priority": 73,
+      "priority": 72,
       "title_fa": "“Los judíos seguimos esperando la llegada del verdadero Mesías”",
       "lead_fa": "Tengo 51 años. Nací en Buenos Aires, viví en México y la mitad de mi vida en Barcelona. Soy rabino. Estoy casado y tengo siete hijos (entre 9 y 26 años, tres viven hoy en Israel) y un nieto (2). ¿ Política? Apolítico. ¿Creencias? Creo en Yahvé y soy judío jasídico. Si vives en Israel, tienes que defenderlo. (Foto: Miquel Muñoz / Shooting)",
       "key_points_fa": [],
@@ -932,7 +972,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/OPCYOGVEOZHRLJYL2Y6L52ZTTQ.jpg?auth=1cb34e9c53afc1110e7ee037b36e7a0491139dc94d4971a968509be1d4bb9470",
       "published_at": "2026-08-20T22:30:00+00:00",
       "category": "politica",
-      "priority": 73,
+      "priority": 72,
       "title_fa": "Un estudio de la OMS rechaza que se obligue a los sanitarios a denunciar agresiones machistas cuando la paciente no quiere",
       "lead_fa": "En España, el sistema médico es un filtro clave para la prevención y detección de violencia de género y los médicos deben reportarlo por ley",
       "key_points_fa": [],
@@ -975,83 +1015,17 @@
       "editorial_version": 2
     },
     {
-      "id": "dd79a4802b65",
+      "id": "252565866e01",
       "source": "La Vanguardia",
-      "title": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
-      "summary": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
-      "url": "https://www.lavanguardia.com/television/20260821/11617258/jamie-lee-curtis-siempre-quise-jefa-perra-esta-cargo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8727731ffb0.r_d.1496-939-0.jpeg",
-      "published_at": "2026-08-21T06:37:05+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
-      "lead_fa": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "16e9a3c1fabd",
-      "source": "La Vanguardia",
-      "title": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
-      "summary": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
-      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260821/11616067/mundo-reves-tiktok-ensena-tejer-coser-bordar-abuelas-desconectar.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a846cc7674d8.r_d.2880-1920-0.jpeg",
-      "published_at": "2026-08-21T06:30:00+02:00",
+      "title": "PortAventura cierra varias piscinas por la presencia de excrementos en el agua",
+      "summary": "El parque pudo reabrir con normalidad el pasado miércoles después de lo que sería un nuevo incidente a raíz de un reto viral",
+      "url": "https://www.lavanguardia.com/local/tarragona/20260821/11617503/portaventura-cierra-piscinas-caribe-aquatic-park-presencia-excrementos-agua.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/02/66d5e50c366bb.r_d.450-253-0.jpeg",
+      "published_at": "2026-08-21T08:35:29+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
-      "lead_fa": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "90629eb139bb",
-      "source": "La Vanguardia",
-      "title": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
-      "summary": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
-      "published_at": "2026-08-21T06:30:00+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
-      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "294abb8f138d",
-      "source": "La Vanguardia",
-      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "summary": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
-      "published_at": "2026-08-21T06:05:00+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "lead_fa": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "title_fa": "PortAventura cierra varias piscinas por la presencia de excrementos en el agua",
+      "lead_fa": "El parque pudo reabrir con normalidad el pasado miércoles después de lo que sería un nuevo incidente a raíz de un reto viral",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1172,6 +1146,94 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "dd79a4802b65",
+      "source": "La Vanguardia",
+      "title": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
+      "summary": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
+      "url": "https://www.lavanguardia.com/television/20260821/11617258/jamie-lee-curtis-siempre-quise-jefa-perra-esta-cargo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8727731ffb0.r_d.1496-939-0.jpeg",
+      "published_at": "2026-08-21T06:37:05+02:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
+      "lead_fa": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "16e9a3c1fabd",
+      "source": "La Vanguardia",
+      "title": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
+      "summary": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
+      "url": "https://www.lavanguardia.com/magazine/lifestyle/20260821/11616067/mundo-reves-tiktok-ensena-tejer-coser-bordar-abuelas-desconectar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a846cc7674d8.r_d.2880-1920-0.jpeg",
+      "published_at": "2026-08-21T06:30:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
+      "lead_fa": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "90629eb139bb",
+      "source": "La Vanguardia",
+      "title": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "summary": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
+      "published_at": "2026-08-21T06:30:00+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "294abb8f138d",
+      "source": "La Vanguardia",
+      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
+      "summary": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "url": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
+      "published_at": "2026-08-21T06:05:00+02:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
+      "lead_fa": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1309,15 +1371,15 @@
     {
       "id": "b32edfad6490",
       "source": "La Vanguardia",
-      "title": "El largo camino de regreso al Renio Unido de los duques de Sussex",
-      "summary": "El príncipe Enrique y Meghan Markle volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "title": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "summary": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
       "url": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8732161fa2f.jpeg",
       "published_at": "2026-08-21T06:00:00+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El largo camino de regreso al Renio Unido de los duques de Sussex",
-      "lead_fa": "El príncipe Enrique y Meghan Markle volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "title_fa": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "lead_fa": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1384,50 +1446,6 @@
       "priority": 69,
       "title_fa": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
       "lead_fa": "La colocación de la cámara y el uso de las imágenes puede generar problemas legales para el usuario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d750cd1ddfcf",
-      "source": "La Vanguardia",
-      "title": "Inyección millonaria para preservar los monumentos de Barcelona",
-      "summary": "El Ayuntamiento destinará unos diez millones de euros los próximos cuatro años para conservar y mantener sus conjuntos escultóricos y edificios históricos",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11616968/inyeccion-millonaria-preservar-monumentos-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8711e3a8194.r_d.2865-1090-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Inyección millonaria para preservar los monumentos de Barcelona",
-      "lead_fa": "El Ayuntamiento destinará unos diez millones de euros los próximos cuatro años para conservar y mantener sus conjuntos escultóricos y edificios históricos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4b65f1f8ab34",
-      "source": "La Vanguardia",
-      "title": "Vecinos contra apartamentos turísticos en València: la lucha de David contra Goliat",
-      "summary": "El Ayuntamiento pide un informe jurídico para saber si puede parar las obras de 22 apartamentos turísticos en Benicalap después de que los residentes denuncien que contravienen los estatutos de la comunidad",
-      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617199/vecinos-apartamentos-turisticos-valencia-lucha-david-goliat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a871246bbafa.r_d.580-849-0.jpeg",
-      "published_at": "2026-08-21T05:30:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Vecinos contra apartamentos turísticos en València: la lucha de David contra Goliat",
-      "lead_fa": "El Ayuntamiento pide un informe jurídico para saber si puede parar las obras de 22 apartamentos turísticos en Benicalap después de que los residentes denuncien que contravienen los estatutos de la comunidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1554,7 +1572,7 @@
       "title": "Wafae Atid no es una emigrante económica y no quiere volver a Marruecos porque aborrece “la mentalidad” del país: “Hay otras razones”",
       "summary": "La mujer, de 28 años, que entró a nado a Ceuta, explica que vio una salida en la llegada masiva después de no lograr la visa tras trabajar en otros países como Emiratos Árabes y Qatar",
       "url": "https://elpais.com/espana/2026-08-21/wafae-atid-no-es-una-emigrante-economica-y-no-quiere-volver-a-marruecos-porque-aborrece-la-mentalidad-del-pais-hay-otras-razones.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206332_193020_video_1800.mp4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206441_074034_video_1800.mp4",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
       "priority": 69,
@@ -1985,28 +2003,6 @@
       "editorial_version": 2
     },
     {
-      "id": "864feb7a1f50",
-      "source": "La Vanguardia",
-      "title": "¿Farmeas aura o funas influencers?",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/opinion/20260821/11616043/farmeas-aura-funas-influencers.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85d5cd84079.jpeg",
-      "published_at": "2026-08-21T00:30:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "¿Farmeas aura o funas influencers?",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f64b7540335b",
       "source": "La Vanguardia",
       "title": "Tormentas con rachas de viento de 149 km/h derriban el techo de una iglesia en Alzira",
@@ -2362,7 +2358,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 144
+      "count": 145
     },
     {
       "source": "EL PAÍS España",
@@ -2377,7 +2373,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 125
+      "count": 126
     }
   ]
 }
