@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T22:37:57.856325+00:00",
+  "generated_at": "2026-08-21T22:57:33.273545+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
+    "4f67d0f45cd3",
     "5800e9829d8c",
-    "e2600f504d93",
     "fdf534682e4d",
     "9c674691b7de"
   ],
@@ -38,6 +38,34 @@
       "editorial_version": 2
     },
     {
+      "id": "4f67d0f45cd3",
+      "source": "La Vanguardia",
+      "title": "Ni expulsan ni acogen",
+      "summary": "Lo peor para el Gobierno es que no logra enviar un mensaje claro sobre la crisis migratoria",
+      "url": "https://www.lavanguardia.com/opinion/20260822/11617938/expulsan-acogen.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "published_at": "2026-08-22T00:05:00+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "ابهام دولت اسپانیا در بحران مهاجرت",
+      "lead_fa": "دولت اسپانیا در مدیریت بحران مهاجرت با چالش جدی روبروست. این وضعیت مانع از ارسال یک پیام روشن به جامعه شده است.",
+      "key_points_fa": [
+        "دولت در اتخاذ سیاستی قاطع میان اخراج و پذیرش مهاجران ناموفق بوده است.",
+        "نبود پیام شفاف، انتقادهای سیاستی را به دنبال داشته است.",
+        "بحران مهاجرت همچنان یکی از مسائل پیچیده پیش روی دولت است."
+      ],
+      "analysis_fa": "ناتوانی در ارائه یک راهبرد مشخص و واحد درباره مهاجرت، دولت را در موضع ضعف قرار داده و ارزیابی عملکرد آن را با دشواری مواجه کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجرت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "5800e9829d8c",
       "source": "EL PAÍS",
       "title": "Sánchez encarga al ministro Ángel Víctor Torres coordinar la gestión de los ministerios implicados en la crisis de Ceuta",
@@ -61,35 +89,6 @@
         "#اسپانیا",
         "#سبته",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e2600f504d93",
-      "source": "La Vanguardia",
-      "title": "El PSOE y el PD italiano unen fuerzas contra Frederiksen por apoyar a Meloni en la crisis de Ceuta",
-      "summary": "Las formaciones denuncian ante el Partido Socialista Europeo la falta de solidaridad con España de la primera ministra danesa",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617621/psoe-pd-italiano-unen-fuerzas-frederisken-apoyar-meloni-crisis-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8838998844d.r_d.1056-556-0.jpeg",
-      "published_at": "2026-08-21T12:29:55+02:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "انتقاد حزب سوسیالیست اسپانیا و حزب دموکرات ایتالیا از فردریکسن",
-      "lead_fa": "حزب سوسیالیست کارگران اسپانیا و حزب دموکرات ایتالیا به مواضع نخست‌وزیر دانمارک اعتراض کردند. آن‌ها این اقدام را در بحران مهاجرتی سبته فاقد همبستگی با اسپانیا دانستند.",
-      "key_points_fa": [
-        "شکایت احزاب سوسیالیست اسپانیا و ایتالیا به حزب سوسیالیست اروپایی",
-        "انتقاد از حمایت مته فردریکسن از جورجا ملونی",
-        "محور اعتراضات: عدم همبستگی با اسپانیا در بحران سبته"
-      ],
-      "analysis_fa": "این تنش درون‌حزبی در سطح نهادهای اروپایی نشان‌دهنده اختلاف‌نظر عمیق میان احزاب چپ میانه در قبال رویکردهای مهاجرتی دولت‌های راست‌گرا و سیاست‌های مرزی اتحادیه اروپا است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -943,6 +942,34 @@
       "editorial_version": 2
     },
     {
+      "id": "74623242f4c5",
+      "source": "La Vanguardia",
+      "title": "Cuando Prim salió de Ceuta como conde de Reus para convertirse en marqués de Castillejos",
+      "summary": "El inesperado héroe de la Guerra de África arremetió contra las cabilas que asediaban la ciudad española y abrió el camino a la toma de Tetuán, lo que forzó al sultán de Marruecos a firmar el Tratado de Wad Ras",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260822/11617866/prim-salio-ceuta-conde-reus-convertirse-marques-castillejos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/11/18/5f15f035a966a.jpeg",
+      "published_at": "2026-08-22T00:05:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "نقش ژنرال پریم در جنگ آفریقا و فتح تطوان",
+      "lead_fa": "ژنرال پریم با پیروزی بر قبایل محلی مهاجم به شهر سبته، مسیر فتح تطوان را هموار کرد. این پیروزی سلطان مراکش را ناچار به امضای معاهده واد راس ساخت.",
+      "key_points_fa": [
+        "ژنرال پریم به عنوان قهرمان غیرمنتظره جنگ آفریقا شناخته شد.",
+        "نیروهای اسپانیایی موفق شدند محاصره شهر سبته را بشکنند.",
+        "پیروزی در این نبرد، سلطان مراکش را وادار به امضای پیمان صلح کرد."
+      ],
+      "analysis_fa": "این رویداد تاریخی نشان‌دهنده نقش کلیدی فرماندهان نظامی اسپانیا در تحولات استعماری و نظامی قرن نوزدهم در شمال آفریقا است که بر موازنه قوا در منطقه تاثیر گذاشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#تاریخ_اسپانیا",
+        "#جنگ_آفریقا",
+        "#سبته"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "cfc15201d98d",
       "source": "EL PAÍS",
       "title": "TikTok acuerda pagar 400 millones de dólares en una demanda por violación de la privacidad de menores",
@@ -1547,18 +1574,25 @@
       "url": "https://www.lavanguardia.com/internacional/20260821/11617706/ejercito-ee-uu-desmantela-batallon-especializado-guerra-drones.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/13/689c1e9414341.r_d.2788-1766-0.jpeg",
       "published_at": "2026-08-21T14:21:54+02:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 67,
-      "title_fa": "El ejército de EE.UU. desmantela su batallón especializado en la guerra con drones",
-      "lead_fa": "La unidad, con sede en Europa, fue creada el año pasado para aprender las lecciones de Ucrania",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ارتش آمریکا گردان تخصصی جنگ پهپادی خود را در اروپا منحل کرد",
+      "lead_fa": "ارتش ایالات متحده این گردان ویژه را سال گذشته تأسیس کرده بود. هدف از تشکیل آن، بهره‌گیری از تجربیات جنگ اوکراین بود.",
+      "key_points_fa": [
+        "این واحد نظامی در اروپا مستقر بود.",
+        "گردان مذکور تنها یک سال پس از تأسیس منحلال شد.",
+        "هدف اولیه این واحد، یادگیری درس‌های نبرد با پهپادها در اوکراین بود."
+      ],
+      "analysis_fa": "انحلال این گردان تخصصی نشان‌دهنده تغییرات احتمالی در ارزیابی‌های راهبردی ارتش آمریکا و بازنگری در ساختارهای تازه ایجاد شده متناسب با تحولات میدان نبرد اوکراین است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمریکا",
+        "#ارتش",
+        "#پهپاد",
+        "#اروپا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1804,28 +1838,6 @@
       "editorial_version": 2
     },
     {
-      "id": "c7adf4c6df85",
-      "source": "EL PAÍS",
-      "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
-      "summary": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
-      "url": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
-      "published_at": "2026-08-21T10:50:47+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
-      "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "0e293e0779f2",
       "source": "La Vanguardia",
       "title": "Caen dos organizaciones de tráfico ilícito de migrantes desde Ceuta hasta la Península",
@@ -1848,17 +1860,17 @@
       "editorial_version": 2
     },
     {
-      "id": "5dbdd94eaf12",
+      "id": "c7adf4c6df85",
       "source": "EL PAÍS",
-      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
-      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
-      "published_at": "2026-08-21T10:32:15+00:00",
+      "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
+      "summary": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
+      "url": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
+      "published_at": "2026-08-21T10:50:47+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
+      "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
+      "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1870,17 +1882,17 @@
       "editorial_version": 2
     },
     {
-      "id": "89473e6e0524",
-      "source": "La Vanguardia",
-      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
-      "published_at": "2026-08-21T09:44:49+02:00",
+      "id": "5dbdd94eaf12",
+      "source": "EL PAÍS",
+      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
+      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
+      "published_at": "2026-08-21T10:32:15+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1921,6 +1933,28 @@
       "editorial_version": 2
     },
     {
+      "id": "89473e6e0524",
+      "source": "La Vanguardia",
+      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
+      "published_at": "2026-08-21T09:44:49+02:00",
+      "category": "sociedad",
+      "priority": 65,
+      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
+      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "627a2b7c91f4",
       "source": "La Vanguardia",
       "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
@@ -1954,28 +1988,6 @@
       "priority": 64,
       "title_fa": "Ayuso, una inquilina polémica",
       "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b8f166711dc1",
-      "source": "La Vanguardia",
-      "title": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
-      "summary": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
-      "url": "https://www.lavanguardia.com/natural/20260821/11617200/nueva-pista-sobre-denisovanos-hominidos-gigantes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a870a1abf000.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
-      "lead_fa": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2565,7 +2577,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 134
+      "count": 135
     }
   ]
 }
