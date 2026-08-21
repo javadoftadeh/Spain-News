@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T09:49:51.122546+00:00",
+  "generated_at": "2026-08-21T10:43:50.727525+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "fdf534682e4d",
     "9c674691b7de",
     "f976d6b916f2",
-    "d78df5add030",
-    "9133cac4fd70"
+    "9133cac4fd70",
+    "d78df5add030"
   ],
   "items": [
     {
@@ -95,6 +95,36 @@
       "editorial_version": 2
     },
     {
+      "id": "9133cac4fd70",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
+      "summary": "Se retoman las tareas de limpieza en la playa de El Trampolín | Bruselas espera que “todos los migrantes que entraron ilegalmente a Ceuta” sean devueltos",
+      "url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BU2WLZIMMBAI7BDBHUZORB7HVM.jpeg?auth=a2869d1010ec78217c6a554ecbd589f8e120fdc263a2b99f64cd6a60ba57e51b",
+      "published_at": "2026-08-21T10:38:49+00:00",
+      "category": "migracion",
+      "priority": 77,
+      "title_fa": "تحولات مهاجرت به سبته و تلاش برای انتقال کودکان",
+      "lead_fa": "وزارت کودکان اسپانیا ابراز امیدواری کرد که دختران مهاجر در هفته‌های آینده از سبته منتقل شوند. با این حال، هنوز پیشنهاد مشخصی به مقامات این شهر ارسال نشده است.",
+      "key_points_fa": [
+        "امیدواری وزارتخانه به انتقال دختران مهاجر از سبته در آینده نزدیک",
+        "عدم ارسال پیشنهاد مشخص به مقامات محلی سبته تاکنون",
+        "ازسرگیری عملیات نظافت در ساحل ال ترامپولین",
+        "تاکید بروکسل بر لزوم بازگرداندن تمامی مهاجرانی که به طور غیرقانونی وارد سبته شده‌اند"
+      ],
+      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های هماهنگی میان دولت مرکزی اسپانیا و نهادهای محلی سبته در مدیریت بحران‌های مهاجرتی و اسکان افراد آسیب‌پذیر است. تاخیر در ارائه راهکارهای عملی می‌تواند فشارهای سیاسی و اجتماعی را بر دولت افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#اتحادیه_اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "d78df5add030",
       "source": "La Vanguardia",
       "title": "Valencia recupera la normalidad tras dos días de reventones térmicos",
@@ -118,36 +148,6 @@
         "#والنسیا",
         "#اسپانیا",
         "#آب‌وهوا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9133cac4fd70",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
-      "summary": "Se retoman las tareas de limpieza en la playa de El Trampolín | Bruselas espera que “todos los migrantes que entraron ilegalmente a Ceuta” sean devueltos",
-      "url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BU2WLZIMMBAI7BDBHUZORB7HVM.jpeg?auth=a2869d1010ec78217c6a554ecbd589f8e120fdc263a2b99f64cd6a60ba57e51b",
-      "published_at": "2026-08-21T09:42:48+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "تحولات مهاجرت به سبته و تلاش برای انتقال کودکان",
-      "lead_fa": "وزارت کودکان اسپانیا ابراز امیدواری کرد که دختران مهاجر در هفته‌های آینده از سبته منتقل شوند. با این حال، هنوز پیشنهاد مشخصی به مقامات این شهر ارسال نشده است.",
-      "key_points_fa": [
-        "امیدواری وزارتخانه به انتقال دختران مهاجر از سبته در آینده نزدیک",
-        "عدم ارسال پیشنهاد مشخص به مقامات محلی سبته تاکنون",
-        "ازسرگیری عملیات نظافت در ساحل ال ترامپولین",
-        "تاکید بروکسل بر لزوم بازگرداندن تمامی مهاجرانی که به طور غیرقانونی وارد سبته شده‌اند"
-      ],
-      "analysis_fa": "این وضعیت نشان‌دهنده چالش‌های هماهنگی میان دولت مرکزی اسپانیا و نهادهای محلی سبته در مدیریت بحران‌های مهاجرتی و اسکان افراد آسیب‌پذیر است. تاخیر در ارائه راهکارهای عملی می‌تواند فشارهای سیاسی و اجتماعی را بر دولت افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -299,7 +299,7 @@
       "id": "e749edf15140",
       "source": "La Vanguardia",
       "title": "La confusión de estudios clínicos de Maradona con los de su padre hace tambalear el juicio",
-      "summary": "Acaba de saberse que la investigación de la junta médica usó informes de Diego Maradona Sr, muerto cinco años antes para su dictamen final: el tribunal debe averiguar si le fueron entregados por error o fue una manipulación",
+      "summary": "Acaba de saberse que la investigación de la junta médica manejó para su dictamen informes de Diego Maradona Sr, muerto cinco años antes: el tribunal debe averiguar si le fueron entregados por error o se trató de una manipulación",
       "url": "https://www.lavanguardia.com/gente/20260821/11617567/maradona-juicio-estudios-clinicos-error-manipulacion.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a88131786f88.r_d.771-497-0.jpeg",
       "published_at": "2026-08-21T11:00:00+02:00",
@@ -667,28 +667,6 @@
       "editorial_version": 2
     },
     {
-      "id": "65af3af0cc91",
-      "source": "La Vanguardia",
-      "title": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
-      "summary": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
-      "url": "https://www.lavanguardia.com/internacional/20260821/11617245/entra-vigor-sentencia-ordena-trump-detener-obras-salon-baile-casa-blanca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88109832309.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
-      "lead_fa": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d4a48ed0f5d1",
       "source": "EL PAÍS",
       "title": "Ocasio-Cortez narra el proceso para congelar sus óvulos mientras se especula sobre su posible candidatura presidencial en 2028",
@@ -773,6 +751,35 @@
       "editorial_version": 2
     },
     {
+      "id": "65af3af0cc91",
+      "source": "La Vanguardia",
+      "title": "Entra en vigor la sentencia que ordena a Trump detener las obras del salón de baile de la Casa Blanca",
+      "summary": "El proyecto está en manos del Tribunal Supremo, al que la Administración ha argumentado que es necesario para la seguridad nacional y ya está demasiado avanzado como para ser frenado",
+      "url": "https://www.lavanguardia.com/internacional/20260821/11617245/entra-vigor-sentencia-ordena-trump-detener-obras-salon-baile-casa-blanca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88109832309.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "اجرای حکم توقف ساخت سالن رقص کاخ سفید توسط ترامپ",
+      "lead_fa": "حکم دادگاه مبنی بر توقف ساخت‌وساز سالن رقص در کاخ سفید اجرایی شد. دولت ترامپ این پروژه را برای امنیت ملی ضروری می‌داند.",
+      "key_points_fa": [
+        "اجرای حکم دادگاه برای توقف پروژه ساخت سالن رقص در کاخ سفید.",
+        "استدلال دولت مبنی بر ضرورت این پروژه برای امنیت ملی.",
+        "پرونده در حال حاضر در دادگاه عالی بررسی می‌شود."
+      ],
+      "analysis_fa": "این پرونده چالش میان اختیارات اجرایی رئیس‌جمهور و تصمیمات قضایی را برجسته می‌کند و استدلال‌های امنیتی دولت در برابر قوانین حفاظتی بناهای تاریخی قرار گرفته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#کاخ_سفید",
+        "#ترامپ",
+        "#قضاوت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "1109d07a98cb",
       "source": "EL PAÍS Economía",
       "title": "La subida de 30.000 millones de Moderna da por hechos muchos éxitos en cáncer",
@@ -782,16 +789,23 @@
       "published_at": "2026-08-21T03:40:00+00:00",
       "category": "economia",
       "priority": 73,
-      "title_fa": "La subida de 30.000 millones de Moderna da por hechos muchos éxitos en cáncer",
-      "lead_fa": "El mercado descuenta que la vacuna personalizada funcionará también en el tratamiento de otros órganos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جهش ۳۰ میلیارد دلاری ارزش مدرنا با امید به درمان‌های جدید سرطان",
+      "lead_fa": "ارزش بازار شرکت داروسازی مدرنا پس از گمانه‌زنی درباره موفقیت واکسن‌های شخصی‌سازی‌شده سرطان افزایش یافت. بازار مالی به‌طور زودهنگام اثربخشی این واکسن‌ها را بر روی سایر ارگان‌های بدن پیش‌خور کرده است.",
+      "key_points_fa": [
+        "افزایش ۳۰ میلیارد دلاری ارزش بازار شرکت مدرنا",
+        "امیدواری سرمایه‌گذاران به کارایی واکسن‌های شخصی‌سازی‌شده سرطان",
+        "انتظار بازار برای تسری موفقیت این فناوری به درمان سایر اعضای بدن"
+      ],
+      "analysis_fa": "بازارهای مالی معمولاً نسبت به اخبار حوزه بیوتکنولوژی و داروهای نوین واکنشی سریع نشان می‌دهند. جهش اخیر ارزش مدرنا نشان‌دهنده انتظارات بالای سرمایه‌گذاران از آینده درمان‌های مبتنی بر mRNA در انکولوژی است، هرچند اثبات بالینی نهایی این داروها نیازمند گذراندن مراحل دقیق علمی و تاییدیه‌های رسمی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مدرنا",
+        "#اقتصاد_اسپانیا",
+        "#سرطان",
+        "#داروسازی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -927,28 +941,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7d0b1bb2dbab",
-      "source": "EL PAÍS",
-      "title": "Ceuta: se trata de niñas y niños",
-      "summary": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
-      "url": "https://elpais.com/espana/2026-08-21/ceuta-se-trata-de-ninas-y-ninos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2KMOIGROLVDUJFRITLR5LKPFHU.jpg?auth=5e33a56b031f2720ff039225deb4db8ff8d03468437e2cc57e13cc0e2a656220",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
-      "priority": 73,
-      "title_fa": "Ceuta: se trata de niñas y niños",
-      "lead_fa": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "011802ca1377",
       "source": "EL PAÍS España",
       "title": "La ley y la jurisprudencia amparan por igual a menores inmigrantes y españoles",
@@ -960,6 +952,28 @@
       "priority": 73,
       "title_fa": "La ley y la jurisprudencia amparan por igual a menores inmigrantes y españoles",
       "lead_fa": "Los niños pueden ser devueltos siempre que se den las circunstancias y el consentimiento. Mientras están en España, deben gozar de la misma protección que los nacionales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7d0b1bb2dbab",
+      "source": "EL PAÍS España",
+      "title": "Ceuta: se trata de niñas y niños",
+      "summary": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
+      "url": "https://elpais.com/espana/2026-08-21/ceuta-se-trata-de-ninas-y-ninos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2KMOIGROLVDUJFRITLR5LKPFHU.jpg?auth=5e33a56b031f2720ff039225deb4db8ff8d03468437e2cc57e13cc0e2a656220",
+      "published_at": "2026-08-21T03:30:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Ceuta: se trata de niñas y niños",
+      "lead_fa": "La situación de la ciudad autónoma solo puede tratarse con estricto respeto al marco legal vigente; así, la devolución de los menores a su entorno familiar o a las instituciones marroquíes debe seguir la ley",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1015,28 +1029,6 @@
       "editorial_version": 2
     },
     {
-      "id": "df138a5e27c2",
-      "source": "EL PAÍS",
-      "title": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
-      "summary": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
-      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-banco-propio-de-amancio-ortega-con-el-que-se-presta-2500-millones-para-compras-inmobiliarias.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7YDOTRLKCNAZRBNPX6GPV335ZA.jpg?auth=451a165c413128e2fed99a5ef7616dd1fa2d4bb130c1a39d6a869b806adcdefb",
-      "published_at": "2026-08-21T03:15:00+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
-      "lead_fa": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a0e0bb8eaf05",
       "source": "EL PAÍS",
       "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
@@ -1059,15 +1051,37 @@
       "editorial_version": 2
     },
     {
+      "id": "df138a5e27c2",
+      "source": "EL PAÍS Economía",
+      "title": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
+      "summary": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
+      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-banco-propio-de-amancio-ortega-con-el-que-se-presta-2500-millones-para-compras-inmobiliarias.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7YDOTRLKCNAZRBNPX6GPV335ZA.jpg?auth=451a165c413128e2fed99a5ef7616dd1fa2d4bb130c1a39d6a869b806adcdefb",
+      "published_at": "2026-08-21T03:15:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "El ‘banco’ propio de Amancio Ortega con el que se presta 2.500 millones para compras inmobiliarias",
+      "lead_fa": "El fundador de Inditex utiliza la empresa Esparelle 2016, que el pasado año perdió 47 millones, para financiar sus operaciones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fe2ea22a0611",
       "source": "La Vanguardia",
       "title": "Tenemos oficios/Viva España",
       "summary": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
       "url": "https://www.lavanguardia.com/opinion/20260821/11617096/oficios-viva-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8712b9a1bfb.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8712b9a1bfb.r_d.2518-2070-0.jpeg",
       "published_at": "2026-08-21T00:30:00+02:00",
       "category": "migracion",
-      "priority": 72,
+      "priority": 71,
       "title_fa": "Tenemos oficios/Viva España",
       "lead_fa": "Control de fronteras, inmigración ordenada, por supuesto; pero también empatía",
       "key_points_fa": [],
@@ -1089,7 +1103,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "published_at": "2026-08-21T00:05:00+02:00",
       "category": "economia",
-      "priority": 72,
+      "priority": 71,
       "title_fa": "Los pisos de los políticos",
       "lead_fa": "Cuando la vivienda de un gobernante es materia de escrutinio público siempre tiene las de perder",
       "key_points_fa": [],
@@ -1132,6 +1146,50 @@
       "editorial_version": 2
     },
     {
+      "id": "abd2c9f9c8db",
+      "source": "La Vanguardia",
+      "title": "El alcalde de Como prohíbe las bicicletas en el centro de la ciudad tras ser atropellado por una",
+      "summary": "La decisión ha levantado polémica entre los usuarios, quienes acusan al primer edil italiano de llevar a cabo una venganza personal",
+      "url": "https://www.lavanguardia.com/vida/20260821/11617577/alcalde-prohibe-bicicletas-centro-ciudad-atropellado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8814eb9acc5.jpeg",
+      "published_at": "2026-08-21T11:22:06+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El alcalde de Como prohíbe las bicicletas en el centro de la ciudad tras ser atropellado por una",
+      "lead_fa": "La decisión ha levantado polémica entre los usuarios, quienes acusan al primer edil italiano de llevar a cabo una venganza personal",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5dbdd94eaf12",
+      "source": "EL PAÍS",
+      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "summary": "El índice al que están referenciadas la mayoría de las hipotecas variables en España alcanza el nivel más alto en más de dos años",
+      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
+      "published_at": "2026-08-21T10:32:15+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "lead_fa": "El índice al que están referenciadas la mayoría de las hipotecas variables en España alcanza el nivel más alto en más de dos años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "6e88d371a8f9",
       "source": "La Vanguardia",
       "title": "Francia, Reino Unido, Alemania e Italia exigen a Netanyahu que cese su expansión en Cisjordania",
@@ -1159,7 +1217,7 @@
       "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
       "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
       "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88045544bfc.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
       "published_at": "2026-08-21T09:44:49+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1176,17 +1234,17 @@
       "editorial_version": 2
     },
     {
-      "id": "627a2b7c91f4",
-      "source": "La Vanguardia",
-      "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
-      "summary": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
-      "url": "https://www.lavanguardia.com/natural/20260821/11617525/aemet-activa-aviso-naranja-camp-tarragona-terres-l-ebre-viernes-lluvias-intensas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87facad64e6.r_d.1603-864-0.jpeg",
-      "published_at": "2026-08-21T09:30:34+02:00",
-      "category": "sociedad",
+      "id": "3fa7136a1aa3",
+      "source": "EL PAÍS",
+      "title": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
+      "summary": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
+      "url": "https://elpais.com/deportes/futbol/2026-08-21/el-barcelona-no-se-da-por-vencido-y-se-da-hasta-el-lunes-para-resolver-el-futuro-de-julian-alvarez.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MTTAYHX2O5ALNG4OR4NNCKIYM4.jpg?auth=0306db2a1bf00b7f92fecde16ac77aecea6319daa45bc25fbca10b4a6cd9a836",
+      "published_at": "2026-08-21T09:43:32+00:00",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
-      "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
+      "title_fa": "El Barcelona no se da por vencido y se da hasta el lunes para resolver el futuro de Julián Alvarez",
+      "lead_fa": "Fuentes del club aseguran que el Barcelona seguirá intentando el fichaje hasta después del fin de semana, plazo que se ha marcado para resolver la operación mientras ya trabaja en las alternativas por si el fichaje no llega",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1203,7 +1261,7 @@
       "title": "Mourinho, en su primera rueda de prensa: “Con cada título del Real Madrid, tenía una llamada del presi”",
       "summary": "El nuevo técnico blanco pide “ser un equipo y no intentar negociar cosas que son innegociables”, en referencia al compromiso",
       "url": "https://elpais.com/deportes/futbol/2026-08-21/mourinho-en-su-primera-rueda-de-prensa-con-cada-titulo-del-real-madrid-tenia-una-llamada-del-presi.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206464_090818_video_1800.mp4",
+      "image": "https://imagenes.elpais.com/resizer/v2/NE7POHOSRFMT5AQJ4SNSP66N5U.jpg?auth=7eed0977866362288360711827c1dfe88b2b3154020d690fc7a4135b07ebea10",
       "published_at": "2026-08-21T08:44:11+00:00",
       "category": "deportes",
       "priority": 70,
@@ -1275,35 +1333,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d772f728b9b6",
-      "source": "La Vanguardia",
-      "title": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
-      "summary": "Después de más de cuatro meses de baja, el número dos del mundo regresa en 10 días a la competición",
-      "url": "https://www.lavanguardia.com/deportes/tenis/20260820/11617282/carlos-alcaraz-anuncia-regresa-pistas-us-open-vuelta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a873906eab31.r_d.2244-968-0.jpeg",
-      "published_at": "2026-08-20T19:29:38+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "کارلوس آلکاراس از بازگشت به مسابقات در اوپن آمریکا خبر داد",
-      "lead_fa": "کارلوس آلکاراس، تنیسور شماره دو جهان، پس از بیش از پنج ماه دوری از میادین اعلام کرد که در ۱۰ روز آینده به رقابت‌ها بازمی‌گردد. او با انتشار پیامی کوتاه بازگشت خود را تایید کرد.",
-      "key_points_fa": [
-        "کارلوس آلکاراس پس از بیش از پنج ماه مصدومیت و دوری از رقابت‌ها به زمین مسابقه بازمی‌گردد.",
-        "او در مسابقات تنیس اوپن آمریکا شرکت خواهد کرد.",
-        "بازگشت این تنیسور شماره دو جهان قرار است ظرف ۱۰ روز آینده انجام شود."
-      ],
-      "analysis_fa": "بازگشت کارلوس آلکاراس پس از یک دوره غیبت طولانی‌مدت به دلیل مصدومیت، تحولی مهم در دنیای تنیس حرفه‌ای به شمار می‌رود. آمادگی جسمانی او پس از این وقفه طولانی یکی از موضوعات مورد توجه کارشناسان ورزشی خواهد بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کارلوس_آلکاراس",
-        "#تنیس",
-        "#اوپن_آمریکا",
-        "#ورزشی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "a78ccba3ce73",
       "source": "La Vanguardia",
       "title": "El rey Juan Carlos vuelve a Barcelona para dar el último adiós a su amigo Josep Cusí",
@@ -1332,281 +1361,17 @@
       "editorial_version": 2
     },
     {
-      "id": "dd79a4802b65",
+      "id": "627a2b7c91f4",
       "source": "La Vanguardia",
-      "title": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
-      "summary": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
-      "url": "https://www.lavanguardia.com/television/20260821/11617258/jamie-lee-curtis-siempre-quise-jefa-perra-esta-cargo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8727731ffb0.r_d.1496-939-0.jpeg",
-      "published_at": "2026-08-21T06:37:05+02:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Jamie Lee Curtis: “Siempre quise ser la jefa, soy la perra que está a cargo de todo”",
-      "lead_fa": "La actriz produce 'Newlyweds' (Recién casados,) una serie que trata de dar nueva vida al formato del sitcom",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "90629eb139bb",
-      "source": "La Vanguardia",
-      "title": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
-      "summary": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
-      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
-      "published_at": "2026-08-21T06:30:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
-      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "294abb8f138d",
-      "source": "La Vanguardia",
-      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "summary": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
-      "published_at": "2026-08-21T06:05:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
-      "lead_fa": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0b8a81f09d0c",
-      "source": "La Vanguardia",
-      "title": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
-      "summary": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
-      "url": "https://www.lavanguardia.com/economia/20260821/11617286/impacto-ia-expansion-encarece-financiacion-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a873847c817a.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
+      "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
+      "summary": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
+      "url": "https://www.lavanguardia.com/natural/20260821/11617525/aemet-activa-aviso-naranja-camp-tarragona-terres-l-ebre-viernes-lluvias-intensas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87facad64e6.r_d.1603-864-0.jpeg",
+      "published_at": "2026-08-21T09:30:34+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
-      "lead_fa": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d64bc0965914",
-      "source": "La Vanguardia",
-      "title": "Ayuso, una inquilina polémica",
-      "summary": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a872cb5213b1.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Ayuso, una inquilina polémica",
-      "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "adda565c887d",
-      "source": "La Vanguardia",
-      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aff3e0ff6bca",
-      "source": "La Vanguardia",
-      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "summary": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874a7a2a337.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "lead_fa": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c6bffe615cdb",
-      "source": "La Vanguardia",
-      "title": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
-      "summary": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617311/julian-alvarez-ultima-espera-opciones-alternativas-barca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87d57581664.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
-      "lead_fa": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e6a0f6582366",
-      "source": "La Vanguardia",
-      "title": "Bélgica reivindica la identidad de sus patatas fritas",
-      "summary": "Tan convencidos están los belgas de que sus patatas fritas son únicas en el planeta que incluso existe un museo específico dedicado a ellas",
-      "url": "https://www.lavanguardia.com/comer/20260821/11617233/belgixa-patata-museo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a871d33d66c0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Bélgica reivindica la identidad de sus patatas fritas",
-      "lead_fa": "Tan convencidos están los belgas de que sus patatas fritas son únicas en el planeta que incluso existe un museo específico dedicado a ellas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2aefa7ff77b7",
-      "source": "La Vanguardia",
-      "title": "La noche que los padres tomamos la pista",
-      "summary": "Hay canciones que sirven para comprobar que las generaciones cambian pero la manera de hacer el idiota sigue siendo exactamente la misma",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617127/noche-padres-tomamos-pista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86e6ea9dc62.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La noche que los padres tomamos la pista",
-      "lead_fa": "Hay canciones que sirven para comprobar que las generaciones cambian pero la manera de hacer el idiota sigue siendo exactamente la misma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b32edfad6490",
-      "source": "La Vanguardia",
-      "title": "El largo camino de regreso al Reino Unido de los duques de Sussex",
-      "summary": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8732161fa2f.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El largo camino de regreso al Reino Unido de los duques de Sussex",
-      "lead_fa": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "67ab3b71acf8",
-      "source": "La Vanguardia",
-      "title": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
-      "summary": "La colocación de la cámara y el uso de las imágenes puede generar problemas legales para el usuario",
-      "url": "https://www.lavanguardia.com/seguros/20260821/11615770/legal-llevar-camara-coche-sobre-dashcams.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84151b70941.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
-      "lead_fa": "La colocación de la cámara y el uso de las imágenes puede generar problemas legales para el usuario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4d3f33cf1289",
-      "source": "EL PAÍS",
-      "title": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
-      "summary": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
-      "url": "https://elpais.com/america/2026-08-21/la-vida-revolucionaria-en-nicaragua-del-hermano-de-natalie-harp-la-devota-secretaria-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346",
-      "published_at": "2026-08-21T04:00:00+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
-      "lead_fa": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
+      "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
+      "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1644,6 +1409,292 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "90629eb139bb",
+      "source": "La Vanguardia",
+      "title": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "summary": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
+      "published_at": "2026-08-21T06:30:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "294abb8f138d",
+      "source": "La Vanguardia",
+      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
+      "summary": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "url": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
+      "published_at": "2026-08-21T06:05:00+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
+      "lead_fa": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0b8a81f09d0c",
+      "source": "La Vanguardia",
+      "title": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
+      "summary": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
+      "url": "https://www.lavanguardia.com/economia/20260821/11617286/impacto-ia-expansion-encarece-financiacion-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a873847c817a.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
+      "lead_fa": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d64bc0965914",
+      "source": "La Vanguardia",
+      "title": "Ayuso, una inquilina polémica",
+      "summary": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
+      "url": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a872cb5213b1.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Ayuso, una inquilina polémica",
+      "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "adda565c887d",
+      "source": "La Vanguardia",
+      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aff3e0ff6bca",
+      "source": "La Vanguardia",
+      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
+      "summary": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874a7a2a337.r_d.2067-1378-0.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
+      "lead_fa": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c6bffe615cdb",
+      "source": "La Vanguardia",
+      "title": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
+      "summary": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617311/julian-alvarez-ultima-espera-opciones-alternativas-barca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a87d57581664.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
+      "lead_fa": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b8f166711dc1",
+      "source": "La Vanguardia",
+      "title": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
+      "summary": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
+      "url": "https://www.lavanguardia.com/natural/20260821/11617200/nueva-pista-sobre-denisovanos-hominidos-gigantes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a870a1abf000.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Nueva pista sobre los denisovanos, los homínidos 'gigantes'",
+      "lead_fa": "Un fémur y una tibia rescatados del fondo marino de Taiwán muestran que estos antepasados de hace 45.000 años pudieron alcanzar dimensiones más grandes de las que se pensaba",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e6a0f6582366",
+      "source": "La Vanguardia",
+      "title": "Bélgica reivindica la identidad de sus patatas fritas",
+      "summary": "Tan convencidos están los belgas de que sus patatas fritas son únicas en el planeta que incluso existe un museo específico dedicado a ellas",
+      "url": "https://www.lavanguardia.com/comer/20260821/11617233/belgixa-patata-museo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a871d33d66c0.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Bélgica reivindica la identidad de sus patatas fritas",
+      "lead_fa": "Tan convencidos están los belgas de que sus patatas fritas son únicas en el planeta que incluso existe un museo específico dedicado a ellas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2aefa7ff77b7",
+      "source": "La Vanguardia",
+      "title": "La noche que los padres tomamos la pista",
+      "summary": "Hay canciones que sirven para comprobar que las generaciones cambian pero la manera de hacer el idiota sigue siendo exactamente la misma",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617127/noche-padres-tomamos-pista.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86e6ea9dc62.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La noche que los padres tomamos la pista",
+      "lead_fa": "Hay canciones que sirven para comprobar que las generaciones cambian pero la manera de hacer el idiota sigue siendo exactamente la misma",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b32edfad6490",
+      "source": "La Vanguardia",
+      "title": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "summary": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "url": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8732161fa2f.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El largo camino de regreso al Reino Unido de los duques de Sussex",
+      "lead_fa": "Los duques de Sussex volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "67ab3b71acf8",
+      "source": "La Vanguardia",
+      "title": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
+      "summary": "La colocación de la cámara y el uso de las imágenes puede generar problemas legales para el usuario",
+      "url": "https://www.lavanguardia.com/seguros/20260821/11615770/legal-llevar-camara-coche-sobre-dashcams.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a84151b70941.jpeg",
+      "published_at": "2026-08-21T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "¿Es legal llevar una cámara en el coche? Todo sobre las dashcams",
+      "lead_fa": "La colocación de la cámara y el uso de las imágenes puede generar problemas legales para el usuario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4d3f33cf1289",
+      "source": "EL PAÍS",
+      "title": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
+      "summary": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
+      "url": "https://elpais.com/america/2026-08-21/la-vida-revolucionaria-en-nicaragua-del-hermano-de-natalie-harp-la-devota-secretaria-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CRVHX7LIJJFAXHWBB4N67PPFBU.jpg?auth=b4bd7135985ac4141c5c446a0938e720abda6a8f76875f2651380e16aaa62346",
+      "published_at": "2026-08-21T04:00:00+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "La vida “revolucionaria” en Nicaragua del hermano de Natalie Harp, la devota secretaria de Trump",
+      "lead_fa": "Preston Harp abraza al régimen de Ortega, publica fotos vestido de policía nicaragüense hechas con inteligencia artificial y escribe consignas oficialistas: “¡Viva el Frente Sandinista!”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1911,28 +1962,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4557536f1724",
-      "source": "EL PAÍS",
-      "title": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
-      "summary": "Los duques de Sussex planean establecerse fuera de Londres y seguirán sin ejercer tareas de representación. Los posibles encuentros o desencuentros con Guillermo de Inglaterra pasarán a ser el nuevo objetivo de los tabloides británicos",
-      "url": "https://elpais.com/gente/2026-08-21/el-regreso-del-principe-enrique-y-meghan-markle-al-reino-unido-enfrenta-de-nuevo-a-la-familia-real-a-futuros-baches.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XWSE5ZM6KJM7THZIECZF5QFS2I.jpg?auth=7f93d71f380b812fc7444e2403066781bc3fe0f20633495aada2c3cfcc3883cc",
-      "published_at": "2026-08-21T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
-      "lead_fa": "Los duques de Sussex planean establecerse fuera de Londres y seguirán sin ejercer tareas de representación. Los posibles encuentros o desencuentros con Guillermo de Inglaterra pasarán a ser el nuevo objetivo de los tabloides británicos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "78a9bb797838",
       "source": "EL PAÍS",
       "title": "Niños maleducados y padres que no saben criar: una afirmación que merece ser revisada",
@@ -1977,17 +2006,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a9d5969a442a",
+      "id": "4557536f1724",
       "source": "EL PAÍS",
-      "title": "El Egipto oculto en las profundidades: siete días buceando por el sur del mar Rojo",
-      "summary": "A decenas de kilómetros de los aclamados templos egipcios, en estas aguas cristalinas se esconden selvas marinas de corales milenarios que desafían al cambio climático y a las que solo se puede llegar en viajes especializados de buceo",
-      "url": "https://elpais.com/elviajero/2026-08-21/el-egipto-oculto-en-las-profundidades-siete-dias-buceando-por-el-sur-del-mar-rojo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OD3UZ4GYMVDMPDLFHZ3II2BYX4.jpg?auth=f789bc0a98a4e8a26497e5ade85f4749fc9dc88f290f3a3bf6477d2bb2368290",
+      "title": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
+      "summary": "Los duques de Sussex planean establecerse fuera de Londres y seguirán sin ejercer tareas de representación. Los posibles encuentros o desencuentros con Guillermo de Inglaterra pasarán a ser el nuevo objetivo de los tabloides británicos",
+      "url": "https://elpais.com/gente/2026-08-21/el-regreso-del-principe-enrique-y-meghan-markle-al-reino-unido-enfrenta-de-nuevo-a-la-familia-real-a-futuros-baches.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XWSE5ZM6KJM7THZIECZF5QFS2I.jpg?auth=7f93d71f380b812fc7444e2403066781bc3fe0f20633495aada2c3cfcc3883cc",
       "published_at": "2026-08-21T03:30:00+00:00",
-      "category": "turismo",
+      "category": "sociedad",
       "priority": 68,
-      "title_fa": "El Egipto oculto en las profundidades: siete días buceando por el sur del mar Rojo",
-      "lead_fa": "A decenas de kilómetros de los aclamados templos egipcios, en estas aguas cristalinas se esconden selvas marinas de corales milenarios que desafían al cambio climático y a las que solo se puede llegar en viajes especializados de buceo",
+      "title_fa": "El regreso del príncipe Enrique y Meghan Markle al Reino Unido enfrenta de nuevo a la familia real a futuros baches",
+      "lead_fa": "Los duques de Sussex planean establecerse fuera de Londres y seguirán sin ejercer tareas de representación. Los posibles encuentros o desencuentros con Guillermo de Inglaterra pasarán a ser el nuevo objetivo de los tabloides británicos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2338,6 +2367,34 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "54601965929d",
+      "source": "EL PAÍS",
+      "title": "Margaret Qualley reaparece tras su separación de Jack Antonoff luciendo los polémicos ‘zapatos desnudos’ de Chanel",
+      "summary": "La actriz asiste en a la presentación en Londres de su nueva película, ‘La constelación del perro’, dirigida por Ridley Scott y en la que comparte protagonismo con Jacob Elordi",
+      "url": "https://elpais.com/smoda/famosos/2026-08-21/margaret-qualley-reaparece-tras-su-separacion-de-jack-antonoff-luciendo-el-polemico-zapato-desnudo-de-chanel.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BVCWQ663FZHVLED6BJAXQEAEGI.jpg?auth=7305317893114c4ac6c71088633efe8999407695a83d945211a5b3ad9924a3d5",
+      "published_at": "2026-08-21T10:34:34+00:00",
+      "category": "cultura",
+      "priority": 40,
+      "title_fa": "حضور مارگرت کوالی در لندن پس از جدایی از جک آنتونوف",
+      "lead_fa": "مارگرت کوالی، بازیگر سرشناس، در مراسم معرفی فیلم جدید خود در لندن شرکت کرد. این نخستین حضور عمومی او پس از جدایی از جک آنتونوف است.",
+      "key_points_fa": [
+        "حضور در مراسم اکران فیلم جدید به کارگردانی ریدلی اسکات",
+        "همبازی بودن با جیک الوردی در فیلم «صورت فلکی سگ»",
+        "پوشیدن کفش‌های جنجالی شانل در این مراسم"
+      ],
+      "analysis_fa": "این رویداد بازتابی از توجه رسانه‌ها به زندگی شخصی و حرفه‌ای این بازیگر در حاشیه فعالیت‌های هنری‌اش است که همزمان با اکران فیلم جدیدش صورت گرفته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مارگرت_کوالی",
+        "#سینما",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2369,7 +2426,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 144
+      "count": 147
     },
     {
       "source": "EL PAÍS España",
@@ -2384,7 +2441,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 128
+      "count": 127
     }
   ]
 }
