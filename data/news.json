@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T16:37:19.389768+00:00",
+  "generated_at": "2026-08-22T16:57:12.250201+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
+    "615202d00364",
     "873669be5b5a",
     "cec326e3b9c6",
-    "14f9a9eb8fc7",
-    "961058b41867"
+    "14f9a9eb8fc7"
   ],
   "items": [
     {
@@ -34,6 +34,33 @@
         "#دیوان_عالی",
         "#سئوتا",
         "#سیاست_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "615202d00364",
+      "source": "EL PAÍS",
+      "title": "Crisis migratoria: la política española se instala en el marco propicio para la extrema derecha",
+      "summary": "Veinte años de investigaciones vinculan el protagonismo de la inmigración en el debate público, sobre todo ligada a problemas y conflictos, con el auge del populismo xenófobo en Europa",
+      "url": "https://elpais.com/espana/2026-08-22/crisis-migratoria-la-politica-espanola-se-instala-en-el-marco-propicio-para-la-extrema-derecha.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CIFJLBEOI5M7XADWCLNZ25ZAGY.jpg?auth=282d79c52513ea75b41619ce49d860ea1eeb1104a2129a411ceac847f2e83bb7",
+      "published_at": "2026-08-22T16:26:22+00:00",
+      "category": "migracion",
+      "priority": 82,
+      "title_fa": "بحران مهاجرت و رشد راست افراطی در اسپانیا",
+      "lead_fa": "پژوهش‌های دو دهه اخیر نشان می‌دهد برجسته شدن موضوع مهاجرت در فضای عمومی اروپا با قدرت گرفتن پوپولیسم بیگانه ستیز ارتباط دارد. این روند اکنون به بستر مناسبی برای فعالیت جریان‌های راست افراطی در سیاست اسپانیا تبدیل شده است.",
+      "key_points_fa": [
+        "تحقیقات بیست ساله ارتباط میان پررنگ شدن موضوع مهاجرت و اوج‌گیری پوپولیسم بیگانه ستیز را تایید می‌کنند.",
+        "موضوع مهاجرت در گفتمان عمومی اغلب با مشکلات و درگیری‌ها پیوند خورده است."
+      ],
+      "analysis_fa": "تمرکز بر چالش‌های مرتبط با مهاجرت در رسانه‌ها و گفتمان سیاسی می‌تواند به سود جریان‌های راست افراطی تمام شود. این وضعیت سیاست‌گذاران اسپانیایی را در مدیریت هم‌زمان حقوق بشر، امنیت و انتظارات اجتماعی با چالش‌های جدی روبه‌رو می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مهاجرت",
+        "#اسپانیا",
+        "#راست_افراطی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1061,6 +1088,34 @@
       "editorial_version": 2
     },
     {
+      "id": "d5791cff9f9e",
+      "source": "La Vanguardia",
+      "title": "Un padre abandona a su hijo de siete años en el monte Fuji para poder subir a la cima",
+      "summary": "El menor recibió instrucciones de esperar durante ocho horas en la montaña, con algunos aperitivos pero sin dinero",
+      "url": "https://www.lavanguardia.com/vida/20260822/11618235/padre-abandona-hijo-siete-anos-monte-fuji-subir-cima.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/03/6a46e733e5b66.jpeg",
+      "published_at": "2026-08-22T18:13:54+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "رها کردن کودک هفت‌ساله در کوه فوجی توسط پدر برای صعود به قله",
+      "lead_fa": "یک پدر فرزند هفت‌ساله خود را برای صعود به قله فوجی در کوهستان رها کرد. این کودک بدون پول و تنها با مقداری تنقلات به مدت هشت ساعت در کوه منتظر ماند.",
+      "key_points_fa": [
+        "پدر کودک را در کوه فوجی رها کرد تا به قله برسد.",
+        "به کودک دستور داده شده بود هشت ساعت در کوه منتظر بماند.",
+        "کودک مقداری تنقلات به همراه داشت اما بی‌پول بود."
+      ],
+      "analysis_fa": "این حادثه ایمنی کودکان و مسئولیت‌پذیری والدین در فعالیت‌های پرخطر کوهنوردی را به چالشی جدی تبدیل کرده است. مقامات و نهادهای مربوطه معمولاً نسبت به چنین رفتارهایی واکنش قانونی نشان می‌دهند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#کوه_فوجی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "5e30a527710e",
       "source": "La Vanguardia",
       "title": "El padre de Diana Quer, diez años después: “Su legado salvará vidas”",
@@ -1182,18 +1237,23 @@
       "url": "https://elpais.com/espana/2026-08-22/los-migrantes-de-ceuta-aceptan-los-espacios-de-acogida-pero-aun-recelan-de-que-sean-una-trampa.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EMVTYVRDZJOGNG4PA2Q4ZSQ6UE.jpg?auth=7b787e99b753c056ef26a45beddf7812f83fce6484e96ea553001e051f763299",
       "published_at": "2026-08-22T15:38:44+00:00",
-      "category": "ciencia",
+      "category": "migracion",
       "priority": 70,
-      "title_fa": "Los migrantes de Ceuta que recelan de los espacios de acogida: “Nos quieren ahí porque es más fácil expulsarnos”",
-      "lead_fa": "La mayoría de jóvenes comen y duermen en estos espacios, pero todavía muchos se niegan a ir por miedo a que se utilicen para expulsarlos de España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ترس مهاجران سئوتا از مراکز اسکان: هدف اخراج آسان‌تر ماست",
+      "lead_fa": "بسیاری از جوانان مهاجر در سئوتا از ورود به مراکز اسکان خودداری می‌کنند. آنان نگرانند که این مکان‌ها ابزاری برای تسهیل اخراجشان از اسپانیا باشد.",
+      "key_points_fa": [
+        "بیشتر جوانان مهاجر در این اماکن غذا می‌خورند و می‌خوابند",
+        "گروهی از مهاجران همچنان از ترس اخراج به این فضاها نمی‌روند"
+      ],
+      "analysis_fa": "مراکز اسکان موقت در شهرهای مرزی اسپانیا بارها با چالش بی‌اعتمادی میان مهاجران و نهادهای دولتی مواجه بوده‌اند. این عدم تمایل به حضور در مراکز، چالش‌های مدیریت مهاجرت و اسکان را برای مقام‌های محلی دوچندان می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجران",
+        "#سئوتا",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2049,28 +2109,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7233e741df55",
-      "source": "La Vanguardia",
-      "title": "Maca de Castro y los futuros posibles",
-      "summary": "La chef de Mallorca expresa la temporada en una propuesta en la que las personas siempre están en el centro",
-      "url": "https://www.lavanguardia.com/comer/sitios/20260822/11613217/maca-castro-futuros-posibles.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7d9d52089ad.r_d.433-325-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Maca de Castro y los futuros posibles",
-      "lead_fa": "La chef de Mallorca expresa la temporada en una propuesta en la que las personas siempre están en el centro",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "eddd3a54814a",
       "source": "EL PAÍS",
       "title": "Chloë Grace Moretz: “No tengo suficientes palabras para definir lo maravilloso que es vivir en España”",
@@ -2159,28 +2197,6 @@
       "editorial_version": 2
     },
     {
-      "id": "bbf94358616c",
-      "source": "EL PAÍS",
-      "title": "Wafae Atid y el inmenso placer de dormir en la calle",
-      "summary": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
-      "url": "https://elpais.com/opinion/2026-08-22/wafae-atid-y-el-inmenso-placer-de-dormir-en-la-calle.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206332_193020_video_1800.mp4",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Wafae Atid y el inmenso placer de dormir en la calle",
-      "lead_fa": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "04b14fd3ae10",
       "source": "EL PAÍS",
       "title": "Negacionistas del sentido",
@@ -2203,17 +2219,17 @@
       "editorial_version": 2
     },
     {
-      "id": "cc7bae6b244f",
+      "id": "bbf94358616c",
       "source": "EL PAÍS",
-      "title": "Contra “la complejidad de España” y otros tópicos",
-      "summary": "Nada como el inicio del nuevo curso político para refrescar también el arsenal retórico",
-      "url": "https://elpais.com/opinion/2026-08-22/contra-la-complejidad-de-espana-y-otros-topicos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K6MT7QSACFD6BCKXGDDPCOSJ5I.jpg?auth=15fb2e31023deab9076d091d9636c769895d535220c315b44b6eacf8f576a17c",
+      "title": "Wafae Atid y el inmenso placer de dormir en la calle",
+      "summary": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
+      "url": "https://elpais.com/opinion/2026-08-22/wafae-atid-y-el-inmenso-placer-de-dormir-en-la-calle.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206332_193020_video_1800.mp4",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Contra “la complejidad de España” y otros tópicos",
-      "lead_fa": "Nada como el inicio del nuevo curso político para refrescar también el arsenal retórico",
+      "title_fa": "Wafae Atid y el inmenso placer de dormir en la calle",
+      "lead_fa": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2379,8 +2395,30 @@
       "editorial_version": 2
     },
     {
-      "id": "44af5ca3569f",
+      "id": "cc7bae6b244f",
       "source": "EL PAÍS",
+      "title": "Contra “la complejidad de España” y otros tópicos",
+      "summary": "Nada como el inicio del nuevo curso político para refrescar también el arsenal retórico",
+      "url": "https://elpais.com/opinion/2026-08-22/contra-la-complejidad-de-espana-y-otros-topicos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K6MT7QSACFD6BCKXGDDPCOSJ5I.jpg?auth=15fb2e31023deab9076d091d9636c769895d535220c315b44b6eacf8f576a17c",
+      "published_at": "2026-08-22T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Contra “la complejidad de España” y otros tópicos",
+      "lead_fa": "Nada como el inicio del nuevo curso político para refrescar también el arsenal retórico",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "44af5ca3569f",
+      "source": "EL PAÍS España",
       "title": "¿Qué Estado queremos cuando todo arde?",
       "summary": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
       "url": "https://elpais.com/opinion/2026-08-22/que-estado-queremos-cuando-todo-arde.html",
@@ -2510,7 +2548,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
       "published_at": "2026-08-21T10:50:47+00:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
       "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
       "key_points_fa": [],
@@ -2645,28 +2683,6 @@
       "priority": 58,
       "title_fa": "La amortización de la deuda del sistema eléctrico en 2027 permitirá una rebaja del 6% en la factura",
       "lead_fa": "El próximo año los consumidores pagarán la última anualidad de 271,8 millones de un ‘agujero’ que llegó a los 30.000 millones y que han sufragado durante 15 años a un tipo de interés del 4,9%",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "889bcaa45fab",
-      "source": "EL PAÍS Economía",
-      "title": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
-      "summary": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
-      "url": "https://elpais.com/economia/2026-08-20/el-santander-cierra-la-compra-de-webster-en-un-tiempo-record-y-exhibe-musculo-en-estados-unidos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E426XPXEWJOS3N2H5Q3AMMFNSQ.jpg?auth=fb9e138aff7b4ac50b97d4d725bd5684725529b619a79f786eb0fa77173de1d6",
-      "published_at": "2026-08-20T06:42:05+00:00",
-      "category": "sociedad",
-      "priority": 51,
-      "title_fa": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
-      "lead_fa": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
