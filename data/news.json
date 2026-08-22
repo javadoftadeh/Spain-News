@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T22:35:37.165036+00:00",
+  "generated_at": "2026-08-22T22:57:57.777881+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
+    "3497a01034d3",
     "615202d00364",
     "873669be5b5a",
-    "cec326e3b9c6",
-    "14f9a9eb8fc7"
+    "cec326e3b9c6"
   ],
   "items": [
     {
@@ -34,6 +34,34 @@
         "#دیوان_عالی",
         "#سئوتا",
         "#سیاست_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3497a01034d3",
+      "source": "EL PAÍS",
+      "title": "Un terremoto de magnitud 5,9 sacude la región de Tokio",
+      "summary": "La Agencia Meteorológica de Japón confirma que no hay alerta de tsunami. Por el momento no hay noticias de daños personales",
+      "url": "https://elpais.com/internacional/2026-08-22/un-terremoto-de-magnitud-59-sacude-la-region-de-tokio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/32BMPBRJ25NFNKHQEVCEELKNP4.jpg?auth=1aebd0243348abc47cf4fb7561793a47158ac0e23e788f4211d8fc9b882c2676",
+      "published_at": "2026-08-22T22:40:29+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "زمین‌لرزه ۵.۹ ریشتری توکیو را لرزاند",
+      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۵.۹ توکیو، پایتخت ژاپن را لرزاند. آژانس هواشناسی ژاپن تأیید کرد که هیچ هشدار سونامی صادر نشده است.",
+      "key_points_fa": [
+        "بزرگی زمین‌لرزه ۵.۹ اعلام شد",
+        "هیچ هشدار سونامی صادر نشده است",
+        "تا کنون گزارشی درباره خسارات جانی منتشر نشده است"
+      ],
+      "analysis_fa": "وقوع زمین‌لرزه‌ها در ژاپن به دلیل موقعیت جغرافیایی این کشور امری رایج است و زیرساخت‌های آن برای مقابله با چنین حوادثی آماده شده‌اند. واکنش سریع نهادهای مربوطه و عدم صدور هشدار سونامی نشان‌دهنده کنترل شرایط است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#زمین_لرزه",
+        "#ژاپن",
+        "#توکیو"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -210,7 +238,7 @@
     },
     {
       "id": "7cb2880501c9",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "¿Están los edificios españoles preparados para un gran seísmo?",
       "summary": "Gran parte de las viviendas se levantaron antes de que hubiera criterios de construcción resistentes a los terremotos",
       "url": "https://elpais.com/economia/negocios/2026-08-22/estan-los-edificios-espanoles-preparados-para-un-gran-seismo.html",
@@ -516,34 +544,6 @@
         "#آمریکا",
         "#جنگ_تجاری",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "deb5957116de",
-      "source": "La Vanguardia",
-      "title": "Un tribunal federal anula la suspensión de visados ordenada por Trump para 75 países",
-      "summary": "La jueza dictamina que la orden contraviene la Ley de Inmigración y Nacionalidad de Estados Unidos",
-      "url": "https://www.lavanguardia.com/internacional/20260822/11618221/tribunal-federal-anula-suspension-visados-ordenada-trump-75-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8706ac8afff.r_d.3216-2232-0.jpeg",
-      "published_at": "2026-08-22T17:28:03+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "لغو تعلیق روادید ۷۵ کشور توسط دادگاه فدرال آمریکا",
-      "lead_fa": "یک دادگاه فدرال در ایالات متحده دستور تعلیق صدور روادید برای ۷۵ کشور را لغو کرد. قاضی پرونده تشخیص داد که این دستور مغایر با قانون مهاجرت و ملیت این کشور است.",
-      "key_points_fa": [
-        "لغو دستور تعلیق روادید برای ۷۵ کشور توسط دادگاه فدرال",
-        "تشخیص مغایرت این دستور با قانون مهاجرت و ملیت ایالات متحده توسط قاضی پرونده"
-      ],
-      "analysis_fa": "این تصمیم قضایی نشان‌دهنده چالش‌های حقوقی پیش روی دستورات اجرایی در حوزه مهاجرت است و می‌تواند روند رسیدگی به پرونده‌های مهاجرتی را تحت تاثیر قرار دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#مهاجرت",
-        "#روادید",
-        "#دادگاه_فدرال"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1174,6 +1174,60 @@
       "editorial_version": 2
     },
     {
+      "id": "547841e942b3",
+      "source": "La Vanguardia",
+      "title": "Lo que más nos debe alarmar",
+      "summary": "Con la IA se nos viene encima un mundo en que las máquinas deciden sin conciencia moral alguna",
+      "url": "https://www.lavanguardia.com/opinion/20260823/11618261/mas-debe-alarmar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89dcea84ee6.jpeg",
+      "published_at": "2026-08-23T00:30:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "هشدار درباره تصمیم‌گیری ماشین‌ها بدون اخلاق",
+      "lead_fa": "رشد هوش مصنوعی جهانی را رقم می‌زند که در آن ماشین‌ها بدون وجدان اخلاقی تصمیم می‌گیرند. کارشناسان نسبت به پیامدهای این روند ابراز نگرانی کرده‌اند.",
+      "key_points_fa": [
+        "توسعه سریع هوش مصنوعی و اتکای فزاینده به ماشین‌ها",
+        "فقدان آگاهی و وجدان اخلاقی در سیستم‌های خودکار تصمیم‌گیر",
+        "لزوم توجه جدی به خطرات احتمالی این فناوری بر آینده بشر"
+      ],
+      "analysis_fa": "گسترش ابزارهای هوش مصنوعی و واگذاری تصمیم‌گیری‌های کلیدی به سیستم‌های خودکار، چالش‌های اخلاقی و فلسفی جدی ایجاد کرده است. بدون حضور یک چهارچوب نظارتی و اخلاقی دقیق، اتکا به فناوری‌های فاقد درک انسانی می‌تواند پیامدهای غیرقابل پیش‌بینی داشته باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هوش_مصنوعی",
+        "#اخلاق_فناوری",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8e03c32e3d7f",
+      "source": "La Vanguardia",
+      "title": "Una selfie borrada",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/opinion/20260823/11618293/selfie-borrada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89fef6b2a49.jpeg",
+      "published_at": "2026-08-23T00:05:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "حذف یک سلفی در اسپانیا",
+      "lead_fa": "رسانه لا ونگاردیا مطلبی با عنوان یک سلفی پاک‌شده منتشر کرده است. جزئیات بیشتری درباره این رخداد در متن خبر ذکر نشده است.",
+      "key_points_fa": [
+        "انتشار مطلبی با عنوان سلفی پاک‌شده در لا ونگاردیا",
+        "عدم ارائه جزئیات دقیق درباره رویداد در منبع خبر"
+      ],
+      "analysis_fa": "این خبر به موضوعی اشاره دارد که جزئیات آن در منبع اولیه محدود است و نمی‌توان ارزیابی قطعی درباره ابعاد آن ارائه داد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#جامعه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e92a1ddfc312",
       "source": "La Vanguardia",
       "title": "Cruel minuto 90 para el Espanyol y feliz debut para Espí, que evita el primer fiasco del Madrid",
@@ -1594,35 +1648,6 @@
         "#سیل_اسپانیا",
         "#کاستادورادا",
         "#باران_شدید"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ff581c8ab773",
-      "source": "La Vanguardia",
-      "title": "Las negociaciones de EE.UU. con Canadá fracasan y entran en vigor los aranceles del 50 %",
-      "summary": "La medida implicará tarifas sobre 20.000 millones de dólares en productos canadienses",
-      "url": "https://www.lavanguardia.com/economia/20260822/11618095/fracasan-negociaciones-ee-uu-canada-entran-vigor-aranceles-50.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89363c86b97.jpeg",
-      "published_at": "2026-08-22T07:42:03+02:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "شکست مذاکرات آمریکا و کانادا و اعمال تعرفه ۵۰ درصدی",
-      "lead_fa": "مذاکرات ایالات متحده و کانادا بی‌نتیجه ماند. با شکست این گفتگوها، تعرفه‌های ۵۰ درصدی اجرایی شد.",
-      "key_points_fa": [
-        "شکست مذاکرات میان ایالات متحده و کانادا",
-        "اعمال تعرفه ۵۰ درصدی بر محصولات کانادایی",
-        "تأثیر این اقدام بر ۲۰ میلیارد دلار از کالاهای کانادایی"
-      ],
-      "analysis_fa": "اعمال تعرفه‌های سنگین تجاری ابزاری است که دولت‌ها معمولاً برای فشار اقتصادی یا حمایت از تولیدات داخلی به کار می‌برند. شکست این مذاکرات نشان‌دهنده تنش‌های رو به رشد در روابط تجاری دو کشور همسایه است و می‌تواند زنجیره تأمین و تبادل کالا را در آمریکای شمالی با چالش مواجه کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#کانادا",
-        "#اقتصاد",
-        "#تعرفه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2782,28 +2807,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "7f424f123429",
-      "source": "EL PAÍS Economía",
-      "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "summary": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "url": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
-      "published_at": "2026-08-20T05:30:00+00:00",
-      "category": "ciencia",
-      "priority": 49,
-      "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-      "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2835,7 +2838,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
@@ -2850,7 +2853,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 137
+      "count": 138
     }
   ]
 }
