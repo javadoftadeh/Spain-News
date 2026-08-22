@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:56:31.755568+00:00",
+  "generated_at": "2026-08-22T21:33:30.967760+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -497,7 +497,7 @@
       "title": "Canadá y Estados Unidos imponen aranceles recíprocos e intensifican su guerra comercial",
       "summary": "El primer ministro canadiense, Mark Carney, anuncia que los gravámenes a los productos de Estados Unidos entrarán en vigor a partir del 8 de septiembre y responderán “dólar por dólar” a los del país vecino",
       "url": "https://elpais.com/economia/2026-08-22/canada-y-estados-unidos-imponen-aranceles-reciprocos-e-intensifican-su-guerra-comercial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260822/1206859_210437_video_1800.mp4",
       "published_at": "2026-08-22T17:59:21+00:00",
       "category": "politica",
       "priority": 75,
@@ -1176,11 +1176,11 @@
     {
       "id": "bc2535188e22",
       "source": "EL PAÍS",
-      "title": "Espanyol - Real Madrid en directo | Comienza la segunda mitad",
+      "title": "Espanyol - Real Madrid en directo | Un gol de Carlos Espí en el 90 da la victoria al Madrid contra el Espanyol",
       "summary": "Bellingham adelantó al equipo de Mourinho con un cabezazo tras un centro de Arda Güler en una falta lateral, pero Calatrava igualó con un remate a placer en el área",
       "url": "https://elpais.com/deportes/futbol/2026-08-22/espanyol-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FABSI26DPVIM3BU55RGSGIKNAE.jpg?auth=7e7348918e686403b3fd01ec6ca1c640a90cbfc6493a33cd8a51696a54417c34",
-      "published_at": "2026-08-22T20:50:42+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z7TDTL2VCVBOTIARBUALE7EOFI.jpg?auth=2ec13187242b87fc645f5e486bd1804a9671f274973445e48b1ae23250caaea8",
+      "published_at": "2026-08-22T21:30:57+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "پخش زنده مسابقه اسپانیول و رئال مادرید در لالیگا",
@@ -1198,6 +1198,33 @@
         "#اسپانیول",
         "#لالیگا",
         "#فوتبال_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "09462b63a3df",
+      "source": "EL PAÍS",
+      "title": "Ceuta duplica esfuerzos para templar ánimos y ubicar a los migrantes",
+      "summary": "La proximidad del curso escolar obliga a acelerar la búsqueda de lugares de acogida, que causan recelo entre los vecinos. Sobrevuela el temor a que la tensión explote",
+      "url": "https://elpais.com/espana/2026-08-22/los-migrantes-de-ceuta-aceptan-los-espacios-de-acogida-pero-aun-recelan-de-que-sean-una-trampa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EMVTYVRDZJOGNG4PA2Q4ZSQ6UE.jpg?auth=7b787e99b753c056ef26a45beddf7812f83fce6484e96ea553001e051f763299",
+      "published_at": "2026-08-22T21:13:20+00:00",
+      "category": "migracion",
+      "priority": 70,
+      "title_fa": "ترس مهاجران سئوتا از مراکز اسکان: هدف اخراج آسان‌تر ماست",
+      "lead_fa": "بسیاری از جوانان مهاجر در سئوتا از ورود به مراکز اسکان خودداری می‌کنند. آنان نگرانند که این مکان‌ها ابزاری برای تسهیل اخراجشان از اسپانیا باشد.",
+      "key_points_fa": [
+        "بیشتر جوانان مهاجر در این اماکن غذا می‌خورند و می‌خوابند",
+        "گروهی از مهاجران همچنان از ترس اخراج به این فضاها نمی‌روند"
+      ],
+      "analysis_fa": "مراکز اسکان موقت در شهرهای مرزی اسپانیا بارها با چالش بی‌اعتمادی میان مهاجران و نهادهای دولتی مواجه بوده‌اند. این عدم تمایل به حضور در مراکز، چالش‌های مدیریت مهاجرت و اسکان را برای مقام‌های محلی دوچندان می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مهاجران",
+        "#سئوتا",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1339,33 +1366,6 @@
         "#سئوتا",
         "#واکسن",
         "#بهداشت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "09462b63a3df",
-      "source": "EL PAÍS",
-      "title": "Los migrantes de Ceuta que recelan de los espacios de acogida: “Nos quieren ahí porque es más fácil expulsarnos”",
-      "summary": "La mayoría de jóvenes comen y duermen en estos espacios, pero todavía muchos se niegan a ir por miedo a que se utilicen para expulsarlos de España",
-      "url": "https://elpais.com/espana/2026-08-22/los-migrantes-de-ceuta-aceptan-los-espacios-de-acogida-pero-aun-recelan-de-que-sean-una-trampa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EMVTYVRDZJOGNG4PA2Q4ZSQ6UE.jpg?auth=7b787e99b753c056ef26a45beddf7812f83fce6484e96ea553001e051f763299",
-      "published_at": "2026-08-22T15:38:44+00:00",
-      "category": "migracion",
-      "priority": 70,
-      "title_fa": "ترس مهاجران سئوتا از مراکز اسکان: هدف اخراج آسان‌تر ماست",
-      "lead_fa": "بسیاری از جوانان مهاجر در سئوتا از ورود به مراکز اسکان خودداری می‌کنند. آنان نگرانند که این مکان‌ها ابزاری برای تسهیل اخراجشان از اسپانیا باشد.",
-      "key_points_fa": [
-        "بیشتر جوانان مهاجر در این اماکن غذا می‌خورند و می‌خوابند",
-        "گروهی از مهاجران همچنان از ترس اخراج به این فضاها نمی‌روند"
-      ],
-      "analysis_fa": "مراکز اسکان موقت در شهرهای مرزی اسپانیا بارها با چالش بی‌اعتمادی میان مهاجران و نهادهای دولتی مواجه بوده‌اند. این عدم تمایل به حضور در مراکز، چالش‌های مدیریت مهاجرت و اسکان را برای مقام‌های محلی دوچندان می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مهاجران",
-        "#سئوتا",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2503,17 +2503,24 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BAHZRUTLEZBN5NN4ESL2GCMJLA.jpg?auth=3d475fa1cc6e9dcd4da7a8605b59ce5de6f27c8da4769a5dffbac708082bd731",
       "published_at": "2026-08-22T03:30:00+00:00",
       "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La personalidad Ozempic o cómo la delgadez extrema acaba con el placer: “Me arrebató mi habitual optimismo”",
-      "lead_fa": "Usuarios de medicamentos GLP-1 se sinceran en las redes sobre su anhedonia, un efecto secundario que les impide disfrutar o interesarse por las actividades que antes les resultaban gratificantes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "priority": 64,
+      "title_fa": "عوارض داروی لاغری اوزمپیک؛ وقتی کاهش وزن اشتیاق به زندگی را می‌گیرد",
+      "lead_fa": "برخی از مصرف‌کنندگان داروهای لاغری از بروز بی‌لذتی پس از کاهش وزن خبر می‌دهند. این عارضه جانبی توانایی لذت بردن از فعالیت‌های پیشین را کاهش می‌دهد.",
+      "key_points_fa": [
+        "گزارش‌های کاربران در شبکه‌های اجتماعی از بروز آنهدونیا یا بی‌لذتی حکایت دارد.",
+        "داروهای خانواده GLP-1 علاوه بر کاهش اشتها ممکن است بر مراکز پاداش مغز اثر بگذارند.",
+        "برخی مصرف‌کنندگان از دست رفتن خوش‌بینی و انگیزه روزمره خود را گزارش کرده‌اند."
+      ],
+      "analysis_fa": "استفاده گسترده از داروهای کاهنده اشتها فراتر از کنترل وزن، ابعاد جدیدی یافته است. عوارض جانبی مربوط به سلامت روان و سیستم پاداش مغز نیازمند بررسی‌های بالینی بیشتر از سوی نهادهای بهداشتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اوزمپیک",
+        "#سلامت_روان",
+        "#اسپانیا",
+        "#پزشکی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2525,39 +2532,23 @@
       "image": "https://imagenes.elpais.com/resizer/v2/ZHI7UZMNPRFWHPS2GYKZURBBZI.jpg?auth=1fd3d6b2d362861f21f9a1c697ce3034e6e5a2a0050d3c790383116632c209db",
       "published_at": "2026-08-22T03:30:00+00:00",
       "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La palabra pija",
-      "lead_fa": "El castellano ofrece estas delicias: decir, digamos, una cosa sabiendo que al mismo tiempo dices otra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "priority": 64,
+      "title_fa": "کالبدشکافی واژه «پیخا» در زبان اسپانیایی",
+      "lead_fa": "زبان اسپانیایی سرشار از ظرافت‌های معنایی است که معانی پنهانی را منتقل می‌کنند. واژه «پیخا» نمونه‌ای از این اصطلاحات است که لایه‌های مختلفی از معنا را در خود دارد.",
+      "key_points_fa": [
+        "زبان اسپانیایی امکان بیان همزمان چند مفهوم را فراهم می‌کند.",
+        "واژه «پیخا» نمونه‌ای از واژگان با کاربردهای ظریف زبانی است.",
+        "بررسی ریشه‌شناختی واژگان به درک بهتر فرهنگ کمک می‌کند."
+      ],
+      "analysis_fa": "بررسی واژگان عامیانه و اصطلاحات خاص در زبان اسپانیایی نشان‌دهنده پویایی و تحولات اجتماعی این زبان است که روزنامه ال‌پاییس به آن پرداخته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#زبان_اسپانیایی",
+        "#فرهنگ_اسپانیا",
+        "#ادبیات"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5176e180654a",
-      "source": "La Vanguardia",
-      "title": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
-      "summary": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
-      "url": "https://www.lavanguardia.com/lacontra/20260822/11617838/ignasi-stigman-importante-magia-pasa-mis-manos-cerebro.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8879852bbdd.r_d.3900-2286-0.jpeg",
-      "published_at": "2026-08-22T00:05:00+02:00",
-      "category": "deportes",
-      "priority": 63,
-      "title_fa": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
-      "lead_fa": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2635,7 +2626,7 @@
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206441_074034_video_1800.mp4",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Wafae Atid no es una emigrante económica y no quiere volver a Marruecos porque aborrece “la mentalidad” del país: “Hay otras razones”",
       "lead_fa": "La mujer, de 28 años, que entró a nado a Ceuta, explica que vio una salida en la llegada masiva después de no lograr la visa tras trabajar en otros países como Emiratos Árabes y Qatar",
       "key_points_fa": [],
@@ -2657,7 +2648,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7NX5RTRSMVAAJL6RNTSJZIBNKA.jpg?auth=d67058b3bebb806d77070b0cbead1bbd40407c8c08d6ac9a72c8fb687b726e34",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "Las hipotecas españolas son las terceras más baratas de la zona euro, pero Coface avisa: no durará mucho tiempo",
       "lead_fa": "La aseguradora de crédito advierte de que la banca está sacrificando márgenes y asumiendo más riesgo para mantener los tipos bajos",
       "key_points_fa": [],
@@ -2679,7 +2670,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/JPI3T3M6BBEZPG5XQND5BWCS2Q.jpg?auth=df9e81c4d08016d8d42fde8cc4930658e8482f3149aead64e0eac20ec68423e8",
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "El Santander gira hacia la banca tradicional en EE UU y añade 60.000 millones en depósitos con Webster",
       "lead_fa": "La entidad amplía su número de clientes en 3,5 millones y diversifica su negocio con banca comercial y minorista de alta calidad",
       "key_points_fa": [],
@@ -2701,7 +2692,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YJ32XUAEKNCX3HXZOTIVWAH6XE.jpg?auth=5f69f964a3306a306b9106b7f4d671d61ee0d81050ca6239f798873d8f722ef5",
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 57,
+      "priority": 56,
       "title_fa": "La amortización de la deuda del sistema eléctrico en 2027 permitirá una rebaja del 6% en la factura",
       "lead_fa": "El próximo año los consumidores pagarán la última anualidad de 271,8 millones de un ‘agujero’ que llegó a los 30.000 millones y que han sufragado durante 15 años a un tipo de interés del 4,9%",
       "key_points_fa": [],
@@ -2712,6 +2703,34 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5176e180654a",
+      "source": "La Vanguardia",
+      "title": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
+      "summary": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
+      "url": "https://www.lavanguardia.com/lacontra/20260822/11617838/ignasi-stigman-importante-magia-pasa-mis-manos-cerebro.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8879852bbdd.r_d.3900-2286-0.jpeg",
+      "published_at": "2026-08-22T00:05:00+02:00",
+      "category": "cultura",
+      "priority": 50,
+      "title_fa": "جادوی ذهن: نگاهی به هنر شعبده‌بازی و زندگی در بارسلون",
+      "lead_fa": "یک شعبده‌باز بارسلونی در مصاحبه‌ای از اهمیت آموزش و تفریح در هنر خود گفت. او همچنین از انتشار کتاب جدیدش با ترفندهای ساده خبر داد.",
+      "key_points_fa": [
+        "تاکید بر اینکه جادوی واقعی در ذهن مخاطب رخ می‌دهد نه در دستان شعبده‌باز.",
+        "انتقاد از از دست رفتن جادوی شهر بارسلون به دلیل موفقیت بیش از حد.",
+        "انتشار کتابی به نام «جادو برای هر روز» با همکاری کارمه اسکالس."
+      ],
+      "analysis_fa": "این گفتگو ابعاد جدیدی از نگاه یک هنرمند به حرفه خود و چالش‌های زندگی در کلان‌شهری مانند بارسلون را بازگو می‌کند که بین سرگرمی و آموزش تعادل برقرار کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#شعبده_بازی",
+        "#بارسلون",
+        "#فرهنگ_اسپانیا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
