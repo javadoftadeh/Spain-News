@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:45:54.378125+00:00",
+  "generated_at": "2026-08-22T05:38:49.124580+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
@@ -295,6 +295,34 @@
       "editorial_version": 2
     },
     {
+      "id": "3c4a182456ac",
+      "source": "La Vanguardia",
+      "title": "El incendio forestal de Segorbe obliga a desalojar un millar de personas",
+      "summary": "El fuego afecta ya a más de 400 hectáreas, parte de ellas en la Sierra Calderona",
+      "url": "https://www.lavanguardia.com/local/valencia/20260822/11618090/incendio-forestal-segorbe-obliga-desalojar-millar-personas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a887529abae7.r_d.2399-3071-0.jpeg",
+      "published_at": "2026-08-22T06:39:44+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تخلیه هزار نفر به دنبال آتش‌سوزی جنگلی در سگوربه",
+      "lead_fa": "آرش‌سوزی جنگلی در منطقه سگوربه اسپانیا باعث تخلیه حدود هزار نفر از ساکنان شد. این آتش‌سوزی تاکنون بیش از ۴۰۰ هکتار از اراضی را طعمه حریق کرده است.",
+      "key_points_fa": [
+        "دست‌کم یک هزار نفر مجبور به ترک محل زندگی خود شدند.",
+        "وسعت مناطق آسیب‌دیده از ۴۰۰ هکتار فراتر رفته است.",
+        "بخشی از آتش‌سوزی در منطقه حفاظت‌شده سیرا کالدرونا جریان دارد."
+      ],
+      "analysis_fa": "گسترش آتش‌سوزی‌های جنگلی در مناطق حفاظت‌شده اسپانیا چالش‌های جدی برای نهادهای امدادی ایجاد کرده است. شرایط جوی و پوشش گیاهی خشک می‌توانند مهار حریق را با دشواری بیشتری روبه‌رو کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش_سوزی",
+        "#اسپانیا",
+        "#سگوربه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "cd5896d3c5e1",
       "source": "EL PAÍS",
       "title": "Responsabilidad contra el fuego",
@@ -304,16 +332,22 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Responsabilidad contra el fuego",
-      "lead_fa": "La nueva normalidad de los incendios extraordinarios exige de las comunidades autónomas una preparación acorde con su riesgo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مسئولیت در برابر آتش‌سوزی‌های جنگلی در اسپانیا",
+      "lead_fa": "شرایط جدید آتش‌سوزی‌های گسترده در اسپانیا آمادگی متناسب با سطح خطر را از سوی جوامع خودمختار مطالبه می‌کند. این وضعیت نیازمند بازنگری در راهبردهای پیشگیری و مقابله است.",
+      "key_points_fa": [
+        "ظهور آتش‌سوزی‌های غیرمتعارف به عنوان یک هنجار جدید در اسپانیا",
+        "لزوم تطبیق سطح آمادگی جوامع خودمختار با میزان خطر واقعی",
+        "تأکید بر اهمیت مسئولیت‌پذیری نهادی در مدیریت بحران"
+      ],
+      "analysis_fa": "تغییرات اقلیمی و افزایش دما باعث شده است که آتش‌سوزی‌های طبیعی از الگوهای سنتی خارج شده و ابعاد فاجعه‌باری به خود بگیرند. این امر فشار مضاعفی بر نهادهای محلی و منطقه‌ای وارد کرده تا تجهیزات و بودجه‌های خود را متناسب با این تهدیدات بازسازی کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#آتشسوزی",
+        "#محیط_زیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -326,16 +360,22 @@
       "published_at": "2026-08-22T03:30:00+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Cuando el fenómeno fan se vuelve tóxico: de la agresión a Karol G a las críticas a Ariana Grande y el ‘review-bombing’",
-      "lead_fa": "Los comportamientos reprobables de unos pocos ensombrecen la figura del seguidor, más exigente que nunca en un tiempo en el que las redes sociales promueven una falsa sensación de cercanía a los ídolos a la vez que proporcionan cierto anonimato para lanzar ataques",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "وقتی فرهنگ هواداری سمی می‌شود: از حمله تا بمباران نظرات",
+      "lead_fa": "رفتارهای نابهنجار برخی هواداران در شبکه‌های اجتماعی چهره طرفداران موسیقی را مخدوش کرده است. این فضا حس کاذب نزدیکی به چهره‌های مشهور ایجاد می‌کند و زمینه حمله را فراهم می‌سازد.",
+      "key_points_fa": [
+        "رفتارهای ناپسند گروهی از هواداران، تصویر کلی جامعه هواداری را تیره کرده است.",
+        "شبکه‌های اجتماعی با ایجاد حس کاذب نزدیکی به ستاره‌ها، حریم‌ها را از بین برده‌اند.",
+        "ناشناس بودن در فضای مجازی امکان حملات سایبری و بمباران نظرات منفی را تسهیل کرده است."
+      ],
+      "analysis_fa": "رشد فرهنگ هواداری افراطی نشان‌دهنده تغییر پویایی میان هنرمندان و مخاطبان است. در حالی که ابزارهای دیجیتال ارتباط را بیشتر کرده‌اند، اما به دلیل نبود مسئولیت‌پذیری در فضای مجازی، به بستری برای پرخاشگری و انتقادهای مخرب تبدیل شده‌اند که مدیریت آن برای صنعت سرگرمی به یک چالش جدی تبدیل شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هواداران",
+        "#شبکه_اجتماعی",
+        "#فرهنگ_سایبری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -414,6 +454,50 @@
         "#آمریکا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "91f45fe77ac0",
+      "source": "La Vanguardia",
+      "title": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
+      "summary": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617934/bronca-traslado-valencia-cercanias-madrid-usados-23-anos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88a84a29f28.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
+      "lead_fa": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "23ae3b2b8c91",
+      "source": "La Vanguardia",
+      "title": "Ridley Scott mira al fin del mundo",
+      "summary": "El director firma la distopía ‘La constelación del perro’, con Jacob Elordi como protagonista",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617864/ridley-scott-mira-mundo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8886ac6f11e.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Ridley Scott mira al fin del mundo",
+      "lead_fa": "El director firma la distopía ‘La constelación del perro’, con Jacob Elordi como protagonista",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -549,28 +633,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d929c7c2ead3",
-      "source": "EL PAÍS",
-      "title": "Regular las redes sociales o prohibir su acceso a los menores: un debate mundial que se está resolviendo en los tribunales",
-      "summary": "El histórico juicio a Meta en Washington o la recientemente anulada ley francesa muestran dos formas de limitar los efectos perniciosos de las plataformas",
-      "url": "https://elpais.com/tecnologia/2026-08-22/regular-las-redes-sociales-o-prohibir-su-acceso-a-los-menores-un-debate-mundial-que-se-esta-resolviendo-en-los-tribunales.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XCBU6TIXQZFIXNQIIHPLQJM6OM.jpg?auth=08e8718a5c88d76adc463c13aa170fa8a31f7dfc1a92bd439fd0cb843c65123c",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Regular las redes sociales o prohibir su acceso a los menores: un debate mundial que se está resolviendo en los tribunales",
-      "lead_fa": "El histórico juicio a Meta en Washington o la recientemente anulada ley francesa muestran dos formas de limitar los efectos perniciosos de las plataformas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5a09d0ac4063",
       "source": "EL PAÍS",
       "title": "Benidorm, el perfecto escenario del crimen",
@@ -643,34 +705,6 @@
       "editorial_version": 2
     },
     {
-      "id": "35423d430802",
-      "source": "La Vanguardia",
-      "title": "El Barça inscribe a Rodri y Adeyemi y vende a Tommy Marqués al Braga por 11 millones",
-      "summary": "El curso pasado Marqués, de 19 años, estuvo en dinámica del primer equipo, con el que llegó a disputar dos partidos oficiales",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617798/barca-inscribe-rodri-adeyemi-vende-tommy-marques-braga-11-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a886bae85eed.jpeg",
-      "published_at": "2026-08-21T17:29:20+02:00",
-      "category": "deportes",
-      "priority": 75,
-      "title_fa": "ثبت نام رودری و آدیمی در بارسلونا و فروش تومی مارکز به براگا",
-      "lead_fa": "باشگاه بارسلونا قرارداد رودری و آدیمی را به ثبت رساند. همچنین تومی مارکز، مهاجم ۱۹ ساله، با قراردادی به ارزش ۱۱ میلیون یورو به براگا پیوست.",
-      "key_points_fa": [
-        "ثبت نام بازیکنان جدید یعنی رودری و آدیمی در بارسلونا",
-        "انتقال تومی مارکز به باشگاه براگا با مبلغ ۱۱ میلیون یورو",
-        "حضور مارکز در تمرینات تیم اول و انجام دو بازی رسمی در فصل گذشته"
-      ],
-      "analysis_fa": "این جابجایی‌ها بخشی از برنامه‌ریزی مدیریت ورزشی بارسلونا برای تنظیم ترکیب تیم و مدیریت مالی و ورزشی بازیکنان جوان محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#نقل_وانتقالات",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7290df384d17",
       "source": "La Vanguardia",
       "title": "El Gobierno sigue sin tomar el control total de las calles de Ceuta",
@@ -693,120 +727,6 @@
         "#سئوتا",
         "#اسپانیا",
         "#دولت_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ce418fab3125",
-      "source": "La Vanguardia",
-      "title": "Diez partidos de sanción a Paredes y uno a Gavi por los incidentes tras la final del Mundial",
-      "summary": "La FIFA castiga también a los argentinos Molina (siete), Ayala (tres) y Almada (uno)",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260821/11617771/diez-partidos-sancion-paredes-gavi-incidentes-final-mundial.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8860a5a174f.r_d.2568-1016-0.jpeg",
-      "published_at": "2026-08-21T16:32:51+02:00",
-      "category": "deportes",
-      "priority": 75,
-      "title_fa": "محرومیت‌های سنگین فیفا برای بازیکنان آرژانتین پس از فینال جام جهانی",
-      "lead_fa": "کمیته انضباطی فیفا آرژانتینی‌ها را به دلیل حوادث جنجالی پس از فینال جام جهانی جریمه کرد. در این میان، لئاندرو پارددس با ده جلسه محرومیت سنگین‌ترین تنبیه را دریافت کرد.",
-      "key_points_fa": [
-        "لئاندرو پارددس به مدت ۱۰ جلسه محروم شد.",
-        "گاوی، بازیکن اسپانیایی، یک جلسه محرومیت دریافت کرد.",
-        "بازیکنان دیگر آرژانتین از جمله مولینا، آیالا و آلمادا نیز با محرومیت‌های یک تا هفت جلسه‌ای مواجه شدند."
-      ],
-      "analysis_fa": "این احکام انضباطی پس از بررسی دقیق حوادث جنجالی و تنش‌های رخ داده پس از مسابقه فینال صادر شده است و نشان‌دهنده رویکرد سخت‌گیرانه فیفا در قبال رفتارهای جنجالی بازیکنان در تورنمنت‌های بزرگ است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فیفا",
-        "#جام_جهانی",
-        "#فوتبال_اسپانیا",
-        "#آرژانتین"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "e749edf15140",
-      "source": "La Vanguardia",
-      "title": "La confusión de estudios clínicos de Maradona con los de su padre hace tambalear el segundo juicio",
-      "summary": "Acaba de saberse que la investigación de la junta médica manejó para su dictamen informes de Diego Maradona Sr, muerto cinco años antes: el tribunal debe averiguar si le fueron entregados por error o se trató de una manipulación",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617567/maradona-juicio-estudios-clinicos-error-manipulacion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a88131786f88.r_d.771-497-0.jpeg",
-      "published_at": "2026-08-21T11:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "اشتباه در پرونده پزشکی مارادونا و پدرش دادگاه را به دردسر انداخت",
-      "lead_fa": "بررس‌ها نشان دادند هیئت پزشکی در تحقیقات مرگ دیگو مارادونا از گزارش‌های پزشکی پدر او استفاده کرده است. دادگاه اکنون باید بررسی کند که آیا این مدارک به اشتباه تحویل داده شده‌اند یا دستکاری رخ داده است.",
-      "key_points_fa": [
-        "استفاده از پرونده پزشکی پدر مارادونا که پنج سال پیش از او فوت کرده بود",
-        "لزوم بررسی دادگاه برای تشخیص خطای سهوی یا دستکاری عمدی مدارک",
-        "تاثیر این اشتباه بر روند دادگاه و اعتبار نظریه هیئت پزشکی"
-      ],
-      "analysis_fa": "این اشتباه فاحش در اسناد پزشکی می‌تواند اعتبار گزارش رسمی هیئت پزشکی را زیر سوال ببرد و روند دادرسی مربوط به پرونده مرگ دیگو مارادونا را طولانی‌تر کند. وکلا و دادگاه باید منشاء این اشتباه را به دقت ریشه‌یابی کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مارادونا",
-        "#اسپانیا",
-        "#دادگاه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9af06cdcaa6e",
-      "source": "La Vanguardia",
-      "title": "La Generalitat Valenciana ordena evacuar Gátova por el incendio de Segorbe y pide ayuda a la UME",
-      "summary": "Las llamas se iniciaron ayer por la tarde entre Gátova y Segorbe (Castellón) por la caída de un rayo en un paraje montañoso de difícil acceso",
-      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617504/medios-aereos-incorporan-apagar-incendio-iniciado-segorbe-rayo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/02/68651eaf57456.jpeg",
-      "published_at": "2026-08-21T08:35:01+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "اعزام امکانات هوایی برای مهار آتش‌سوزی جنگلی در سگوربه",
-      "lead_fa": "آتش‌سوزی جنگلی که روز گذشته بر اثر برخورد صاعقه میان گاتووا و سگوربه در استان کاستلون آغاز شده بود، با کمک تجهیزات هوایی در حال مهار است. این حریق از عصر دیروز گسترش یافته است.",
-      "key_points_fa": [
-        "آغاز آتش‌سوزی در پی برخورد صاعقه",
-        "منطقه وقوع آتش‌سوزی میان گاتووا و سگوربه در کاستلون",
-        "پیوستن چندین وسیله پروازی به عملیات اطفای حریق"
-      ],
-      "analysis_fa": "وقوع آتش‌سوزی‌های جنگلی ناشی از صاعقة تابستانی یکی از چالش‌های اصلی مدیریت بحران در مناطق مختلف اسپانیا است که واکنش سریع نهادهای امدادی و استفاده از ناوگان هوایی را برای جلوگیری از گسترش آتش ضروری می‌سازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش_سوزی",
-        "#کاستلون"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d8740f865f71",
-      "source": "La Vanguardia",
-      "title": "Collboni suelta el freno y proyecta 43 nuevos kilómetros de carril bici a cinco años vista",
-      "summary": "El gobierno municipal quiere revertir en el próximo mandato la parálisis en la construcción de infraestructura ciclista de estos últimos años",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617317/collboni-suelta-freno-proyecto-nuevos-kilometros-carril-bici-barcelona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874ffd0461d.r_d.688-235-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "طرح شهرداری بارسلونا برای ساخت ۴۳ کیلومتر مسیر دوچرخه‌سواری جدید",
-      "lead_fa": "شهرداری بارسلونا برنامه‌ای جدید برای توسعه زیرساخت‌های دوچرخه‌سواری تدوین کرده است. این طرح شامل احداث ۴۳ کیلومتر مسیر تازه طی پنج سال آینده می‌شود.",
-      "key_points_fa": [
-        "هدف از این پروژه جبران رکود چند سال اخیر در ساخت مسیرهای دوچرخه است.",
-        "اجرای این طرح برای دوره مدیریت شهری آینده برنامه‌ریزی شده است.",
-        "توسعه شبکه دوچرخه‌سواری بخشی از سیاست‌های حمل‌ونقل پایدار شهرداری است."
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده تغییر رویکرد مدیریت شهری بارسلونا به سمت تقویت حمل‌ونقل پاک و جبران تأخیرهای گذشته در توسعه شبکه دوچرخه است. با این حال، موفقیت این پروژه به تامین بودجه و همکاری نهادهای محلی بستگی دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#دوچرخه_سواری",
-        "#شهرداری",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -869,35 +789,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d78df5add030",
-      "source": "La Vanguardia",
-      "title": "Valencia recupera la normalidad tras dos días de reventones térmicos",
-      "summary": "Los vientos de casi 150 kilómetros por hora obligaron a los bomberos a realizar más de 120 actuaciones y las lluvias obligaron a decretar la preemergencia hidrológica nivel amarillo en la cuenca Albaida-Cañoles",
-      "url": "https://www.lavanguardia.com/local/valencia/20260821/11617528/valencia-recupera-normalidad-dos-dias-temperaturas-disparadas-reventones-termicos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8802c7b4769.r_d.1042-980-0.jpeg",
-      "published_at": "2026-08-21T09:53:57+02:00",
-      "category": "sociedad",
-      "priority": 74,
-      "title_fa": "بازگشت والنسیا به شرایط عادی پس از تندبادها و بارش‌های شدید",
-      "lead_fa": "والنسیا پس از دو روز وزش بادهای شدید و بارندگی به وضعیت عادی بازگشت. آتش‌نشانان بیش از ۱۲۰ مأموریت برای مقابله با خسارات انجام دادند.",
-      "key_points_fa": [
-        "وزش بادهایی با سرعت نزدیک به ۱۵۰ کیلومتر بر ساعت در منطقه",
-        "انجام بیش از ۱۲۰ عملیات توسط آتش‌نشانان برای مهار خسارات",
-        "اعلام وضعیت پیش‌هشداره هیدرولوژیکی سطح زرد در حوضه آبریز آلбаیدا-کانیولس به دلیل بارش‌ها"
-      ],
-      "analysis_fa": "پدیده‌های جوی موسوم به رخدادهای حرارتی و بادهای شدید در این منطقه از اسپانیا معمولاً با خسارات موقت به زیرساخت‌ها و خدمات شهری همراه است. واکنش سریع نهادهای امدادی مانع از بروز بحران گسترده شد، هرچند آمادگی در برابر حوادث غیرمترقبه همچنان یک چالش فصلی برای مدیریت شهری محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#اسپانیا",
-        "#آبوهوا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7de7e3258a53",
       "source": "EL PAÍS Economía",
       "title": "Los turistas extranjeros dispararon el gasto en las provincias donde mejor se vio el eclipse",
@@ -926,31 +817,355 @@
       "editorial_version": 2
     },
     {
-      "id": "0cb79fc6a863",
+      "id": "21ad656c8b8c",
       "source": "La Vanguardia",
-      "title": "Los inmigrantes vuelven a ocupar la playa de El Trampolín tras ser desalojada para la limpieza",
-      "summary": "A los magrebíes que pasaron la noche se han añadido grupos de subsaharianos con bolsas de comida entregadas por las distintas organizaciones no gubernamentales",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617599/vuelven-desalojar-mas-mil-migrantes-playa-trampolin-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a882bc6bfd93.jpeg",
-      "published_at": "2026-08-21T11:55:02+02:00",
-      "category": "migracion",
-      "priority": 73,
-      "title_fa": "بازگشت مهاجران به ساحل ال ترامپولین پس از تخلیه برای نظافت",
-      "lead_fa": "مهاجران پس از پایان عملیات پاکسازی دوباره به ساحل ال ترامپولین بازگشتند. گروه‌هایی از مهاجران اهل مغرب و کشورهای جنوب صحرای آفریقا در این منطقه حضور دارند.",
-      "key_points_fa": [
-        "ساحل ال ترامپولین پیش‌تر به منظور نظافت تخلیه شده بود.",
-        "مهاجران مغربی شب را در محل گذرانده بودند.",
-        "گروه‌های جدیدی از مهاجران با کیسه‌های غذای اهدایی سازمان‌های غیردولتی به منطقه اضافه شدند."
-      ],
-      "analysis_fa": "حضور مجدد مهاجران در این ساحل نشان‌دهنده تداوم چالش‌های مربوط به اسکان موقت و وضعیت گروه‌های آسیب‌پذیر در مناطق ساحلی است. این موضوع توجه نهادهای مدنی و سازمان‌های امدادی را برای ارائه کمک‌های بشردوستانه به خود جلب کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title": "La moda levanta el veto al pantalón pitillo",
+      "summary": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260822/11617510/moda-levanta-veto-pantalon-pitillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87fa8596271.r_d.498-339-0.jpeg",
+      "published_at": "2026-08-22T06:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La moda levanta el veto al pantalón pitillo",
+      "lead_fa": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#مهاجران",
-        "#اسپانیا",
-        "#بارسلونا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3ba0d4e6a90d",
+      "source": "La Vanguardia",
+      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8802c7b4769.r_d.1042-980-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a948d861df79",
+      "source": "La Vanguardia",
+      "title": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
+      "summary": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617894/mas-pelea-petanca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a889c8b19e4c.r_d.1990-1145-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
+      "lead_fa": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0202221eeb44",
+      "source": "La Vanguardia",
+      "title": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
+      "summary": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
+      "url": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e815d685b.r_d.438-497-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
+      "lead_fa": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2830dfb51152",
+      "source": "La Vanguardia",
+      "title": "Lo de Assumpta Serna",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83385a868e9.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Lo de Assumpta Serna",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d55bf3ca1af2",
+      "source": "La Vanguardia",
+      "title": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
+      "summary": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
+      "url": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260822/11599154/egoista-solitario-malcriado-ciencia-desmiente-estereotipos-sobre-hijos-unicos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/06/02/665c4af34afbf.r_d.1398-932-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
+      "lead_fa": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "adaa6e026ea4",
+      "source": "La Vanguardia",
+      "title": "Los robots irrumpen en el K-pop",
+      "summary": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
+      "url": "https://www.lavanguardia.com/tecnologia/20260822/11617850/robot.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a888366e4ade.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los robots irrumpen en el K-pop",
+      "lead_fa": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e84b70bf4d43",
+      "source": "La Vanguardia",
+      "title": "¿Casualidad o causalidad?",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617861/casualidad-causalidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8886e044a86.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Casualidad o causalidad?",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "63734871ad03",
+      "source": "La Vanguardia",
+      "title": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
+      "summary": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617890/arnold-schoenberg-genio-barcelona-encontro-clima-asma-bronquial.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8899b5223ed.r_d.1048-632-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
+      "lead_fa": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "216695897ff8",
+      "source": "La Vanguardia",
+      "title": "El santo que Nápoles no piensa enterrar",
+      "summary": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617807/santo-napoles-piensa-enterrar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a886b08e2447.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El santo que Nápoles no piensa enterrar",
+      "lead_fa": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4f983f3cfc61",
+      "source": "La Vanguardia",
+      "title": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
+      "summary": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260822/11604557/jose-luis-olmo-71-anos-incapaz-talento-excepcional-deportista-extraordinario-capacidad-esfuerzo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b5794522c9.r_d.962-445-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
+      "lead_fa": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "062eebbab6ae",
+      "source": "La Vanguardia",
+      "title": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
+      "summary": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617854/delta-ebro-revierte-caos-regulacion-aparcamiento.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8889f6d7e1c.r_d.1567-1159-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
+      "lead_fa": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6796ac23329",
+      "source": "La Vanguardia",
+      "title": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
+      "summary": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617903/teatro-josep-maria-miro-aterriza-nueva-york-cos-mes-bonic-off-broadway.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88a0635ff3a.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
+      "lead_fa": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "738cb57c13ab",
+      "source": "La Vanguardia",
+      "title": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
+      "summary": "Valderrama defiende el nuevo protocolo que permite integrar a los seis servicios de bomberos bajo un mismo mecanismo, pero no convence a la oposición",
+      "url": "https://www.lavanguardia.com/local/valencia/20260822/11617733/fuego-ceba-provincia-castellon-padece-99-4-todas-hectareas-quemadas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6dc8e79b6e5.r_d.4112-2359-0.jpeg",
+      "published_at": "2026-08-22T05:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
+      "lead_fa": "Valderrama defiende el nuevo protocolo que permite integrar a los seis servicios de bomberos bajo un mismo mecanismo, pero no convence a la oposición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "068ef48290f9",
+      "source": "La Vanguardia",
+      "title": "Ha muerto Tonet",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260822/11608288/muerto-tonet.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/11/6a7aeb70cbd90.jpeg",
+      "published_at": "2026-08-22T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ha muerto Tonet",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9b234b5db870",
+      "source": "EL PAÍS",
+      "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "summary": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+      "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
+      "published_at": "2026-08-22T04:43:22+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "lead_fa": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1262,6 +1477,28 @@
       "editorial_version": 2
     },
     {
+      "id": "95b6080ecb13",
+      "source": "EL PAÍS",
+      "title": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
+      "summary": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
+      "url": "https://elpais.com/espana/catalunya/2026-08-22/interior-se-prepara-para-el-relevo-clave-del-jefe-de-los-mossos-despues-de-las-tensiones-por-las-infiltraciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CEFSHSZPRBBFZGAGAV6I4KU7NE.jpg?auth=ccc5b8f35bee3d1d20b56326584063358fb8f5e002e8d47b259e6f545b3d8226",
+      "published_at": "2026-08-22T03:30:01+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
+      "lead_fa": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3f3f6f6e3190",
       "source": "EL PAÍS",
       "title": "Angélique Kidjo, la artista que cambió cómo el mundo escucha a África, tiene una estrella en Hollywood",
@@ -1284,17 +1521,17 @@
       "editorial_version": 2
     },
     {
-      "id": "95b6080ecb13",
+      "id": "3f5812f09076",
       "source": "EL PAÍS",
-      "title": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
-      "summary": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
-      "url": "https://elpais.com/espana/catalunya/2026-08-22/interior-se-prepara-para-el-relevo-clave-del-jefe-de-los-mossos-despues-de-las-tensiones-por-las-infiltraciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CEFSHSZPRBBFZGAGAV6I4KU7NE.jpg?auth=ccc5b8f35bee3d1d20b56326584063358fb8f5e002e8d47b259e6f545b3d8226",
+      "title": "Benjamin Moser: “Muchos países se opusieron al nazismo. ¿Quién se opone a Netanyahu? Solo Pedro Sánchez”",
+      "summary": "Tras publicar las biografías de las escritoras Clarice Lispector y Susan Sontag (esta última premiada con el Pulitzer), este historiador del arte recoge en ‘El mundo del revés’ las vidas, y los equívocos, de los pintores del Siglo de Oro holandés. El resultado le da la vuelta a parte de la historia",
+      "url": "https://elpais.com/eps/2026-08-22/benjamin-moser-muchos-paises-se-opusieron-al-nazismo-quien-se-opone-a-netanyahu-solo-pedro-sanchez.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/M5AV3WG7ERBJTH7ZNEST4VZFME.JPG?auth=ae462cbda06a21238465b1585f0ee2bffdbe5ce692f4dcd26b1ef65d31e45433",
       "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "deportes",
+      "category": "cultura",
       "priority": 70,
-      "title_fa": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
-      "lead_fa": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
+      "title_fa": "Benjamin Moser: “Muchos países se opusieron al nazismo. ¿Quién se opone a Netanyahu? Solo Pedro Sánchez”",
+      "lead_fa": "Tras publicar las biografías de las escritoras Clarice Lispector y Susan Sontag (esta última premiada con el Pulitzer), este historiador del arte recoge en ‘El mundo del revés’ las vidas, y los equívocos, de los pintores del Siglo de Oro holandés. El resultado le da la vuelta a parte de la historia",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1427,28 +1664,6 @@
       "priority": 70,
       "title_fa": "“Los únicos refugios climáticos son los bares y los comercios”, lamenta una lectora",
       "lead_fa": "Las cartas critican la proliferación de espacios privatizados, lamentan la falta de diálogo y reconocen la importancia de los agentes medioambientales y de los filósofos que trabajan en inteligencia artificial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "dbce5f8bc4a7",
-      "source": "EL PAÍS",
-      "title": "El fin de la infancia genera monstruos: el adolescente en la literatura",
-      "summary": "¿Y si el dios Pan hubiese poseído a un chaval de quince años? La primera novela de Michael Clune que llega a librerías sirve para recordar numerosas historias protagonizadas por preadultos convertidas en indomables clásicos instantáneos",
-      "url": "https://elpais.com/babelia/2026-08-22/el-fin-de-la-infancia-genera-monstruos-el-adolescente-en-la-literatura.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ALNV4TIDABHK5DVR477OMP4ONM.jpg?auth=7475279d91f9b3f1a3f4e2b920a2f9f28c185369b815f8df84309ef929b619d5",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El fin de la infancia genera monstruos: el adolescente en la literatura",
-      "lead_fa": "¿Y si el dios Pan hubiese poseído a un chaval de quince años? La primera novela de Michael Clune que llega a librerías sirve para recordar numerosas historias protagonizadas por preadultos convertidas en indomables clásicos instantáneos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1638,34 +1853,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0e99e6d8ccc5",
-      "source": "La Vanguardia",
-      "title": "Georgina Rodríguez adopta a los tres hijos de Cristiano Ronaldo y se convierte legalmente en su madre",
-      "summary": "La influencer ya era madre legal de Alana Martina y Bella, mientras que Cristiano Jr., Eva y Mateo figuraban hasta ahora únicamente como hijos del futbolista portugués",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617828/georgina-rodriguez-adopta-tres-hijos-cristiano-ronaldo-convierte-legalmente-madre.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a887d8614dc4.r_d.540-675-0.jpeg",
-      "published_at": "2026-08-21T18:10:18+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "جورجینا رودریگز مادر قانونی فرزندان کریستانو رونالدو شد",
-      "lead_fa": "جورجینا رودریگز رسماً سرپرستی سه فرزند دیگر کریستانو رونالدو را بر عهده گرفت. او پیش‌تر تنها مادر قانونی دو فرزند دیگر این فوتبالیست بود.",
-      "key_points_fa": [
-        "جورجینا رودریگز به صورت قانونی مادر سه فرزند دیگر کریستانو رونالدو شد.",
-        "او پیش از این فقط مادر قانونی آلانا مارتینا و بلا بود.",
-        "کریستیانو جونیور، اوا و ماتئو تا پیش از این تنها به عنوان فرزندان این بازیکن پرتغالی ثبت شده بودند."
-      ],
-      "analysis_fa": "این اقدام وضعیت حقوقی خانواده کریستیانو رونالدو و جورجینا رودریگز را رسمی‌تر می‌کند و نشان‌دهنده استحکام روابط خانوادگی آن‌ها در چارچوب‌های قانونی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#جورجینا_رودریگز",
-        "#کریستیانو_رونالدو",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "ad4a21aa6325",
       "source": "La Vanguardia",
       "title": "Una pelea con cuchillos y destornilladores en la rambla del Raval crispa a los comerciantes",
@@ -1717,34 +1904,6 @@
         "#اسپانیا",
         "#مراکش",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c426c43cdbc2",
-      "source": "La Vanguardia",
-      "title": "Alimentación postozempic",
-      "summary": "El creciente uso de los nuevos adelgazantes obliga a la industria alimentaria a reposicionarse",
-      "url": "https://www.lavanguardia.com/opinion/20260821/11617106/alimentacion-postozempic.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/11/68ea9a9f8977a.jpeg",
-      "published_at": "2026-08-21T00:30:00+02:00",
-      "category": "economia",
-      "priority": 70,
-      "title_fa": "تغییر رویکرد صنایع غذایی با افزایش مصرف داروهای لاغری",
-      "lead_fa": "افزایش روزافزون استفاده از داروهای جدید لاغری، صنایع غذایی را ناچار به بازنگری در محصولات و جایگاه خود کرده است. این روند جدید تغییری معنادار در الگوهای مصرفی ایجاد نموده است.",
-      "key_points_fa": [
-        "رشد مصرف داروهای جدید لاغری در بازار",
-        "لزوم تغییر استراتژی در صنایع غذایی",
-        "تغییر الگوهای تقاضا و مصرف مواد غذایی"
-      ],
-      "analysis_fa": "گسترش استفاده از داروهای کاهنده اشتها و وزن، بازار مصرف مواد غذایی را با چالش‌ها و فرصت‌های تازه‌ای روبرو کرده است. تولیدکنندگان صنایع غذایی مجبور هستند برای حفظ سهم بازار خود با این پدیده جدید سازگار شوند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#صنایع_غذایی",
-        "#داروی_لاغری",
-        "#اقتصاد_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1866,199 +2025,25 @@
       "editorial_version": 2
     },
     {
-      "id": "b27d8cdc7ddc",
+      "id": "5176e180654a",
       "source": "La Vanguardia",
-      "title": "El ejército de EE.UU. desmantela su batallón especializado en la guerra con drones",
-      "summary": "La unidad, con sede en Europa, fue creada el año pasado para aprender las lecciones de Ucrania",
-      "url": "https://www.lavanguardia.com/internacional/20260821/11617706/ejercito-ee-uu-desmantela-batallon-especializado-guerra-drones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/13/689c1e9414341.r_d.2788-1766-0.jpeg",
-      "published_at": "2026-08-21T14:21:54+02:00",
-      "category": "politica",
-      "priority": 67,
-      "title_fa": "ارتش آمریکا گردان تخصصی جنگ پهپادی خود را در اروپا منحل کرد",
-      "lead_fa": "ارتش ایالات متحده این گردان ویژه را سال گذشته تأسیس کرده بود. هدف از تشکیل آن، بهره‌گیری از تجربیات جنگ اوکراین بود.",
-      "key_points_fa": [
-        "این واحد نظامی در اروپا مستقر بود.",
-        "گردان مذکور تنها یک سال پس از تأسیس منحلال شد.",
-        "هدف اولیه این واحد، یادگیری درس‌های نبرد با پهپادها در اوکراین بود."
-      ],
-      "analysis_fa": "انحلال این گردان تخصصی نشان‌دهنده تغییرات احتمالی در ارزیابی‌های راهبردی ارتش آمریکا و بازنگری در ساختارهای تازه ایجاد شده متناسب با تحولات میدان نبرد اوکراین است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
+      "summary": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
+      "url": "https://www.lavanguardia.com/lacontra/20260822/11617838/ignasi-stigman-importante-magia-pasa-mis-manos-cerebro.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8879852bbdd.r_d.3900-2286-0.jpeg",
+      "published_at": "2026-08-22T00:05:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
+      "lead_fa": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#آمریکا",
-        "#ارتش",
-        "#پهپاد",
-        "#اروپا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a2380e2992d7",
-      "source": "La Vanguardia",
-      "title": "Dos náufragos sobreviven cinco días a la deriva sobre una nevera",
-      "summary": "La Armada de México localiza con vida a los náufragos a 240 kilómetros de la costa de Chiapas",
-      "url": "https://www.lavanguardia.com/sucesos/20260821/11617693/rescate-nevera-mexico-pescadores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a883dce1caae.jpeg",
-      "published_at": "2026-08-21T14:18:24+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "نجات دو نفر پس از پنج روز سرگردانی روی یخچال در دریا",
-      "lead_fa": "نیروی دریایی مکزیک دو فرد کشتی‌شکسته را در فاصله ۲۴۰ کیلومتری سواحل چیاپاس زنده پیدا کرد. این افراد پنج روز روی یک یخچال قابل حمل در دریا سرگردان بودند.",
-      "key_points_fa": [
-        "یافت شدن دو فرد زنده در دریا توسط نیروی دریایی مکزیک",
-        "مدت زمان سرگردانی ۵ روز اعلام شده است",
-        "موقعیت کشف در ۲۴۰ کیلومتری ساحل چیاپاس بوده است",
-        "وسیله نجات موقت آن‌ها یک یخچال بوده است"
-      ],
-      "analysis_fa": "این حادثه بار دیگر اهمیت تجهیزات اضطراری و سرعت عمل نیروهای امدادی در مناطق دریایی را برجسته می‌کند. بقا به مدت پنج روز در شرایط دریایی آزاد با ابزاری غیرمتعارف مانند یخچال، نشان‌دهنده پایداری در شرایط بحرانی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مکزیک",
-        "#امدادونجات",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "941704b209c3",
-      "source": "La Vanguardia",
-      "title": "'La Odisea' se convierte en la película entre adultos más taquillera de la historia",
-      "summary": "La historia épica de Christopher Nolan acumula más de 1.340 millones de dólares a nivel mundial",
-      "url": "https://www.lavanguardia.com/cultura/20260821/11617692/odisea-convierte-pelicula-adultos-mas-taquillera-historia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a62ae2b6ce6e.r_d.3120-2080-0.jpeg",
-      "published_at": "2026-08-21T14:16:42+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "«اودیسه» کریستوفر نولان پرفروش‌ترین فیلم بزرگسال تاریخ شد",
-      "lead_fa": "فیلم حماسی کریستوفر نولان با عبور از مرز ۱.۳۴۰ میلیارد دلار فروش جهانی، رکورد جدیدی ثبت کرد. این اثر توانست عنوان پرفروش‌ترین فیلم تاریخ سینما با رده‌بندی بزرگسالان را به خود اختصاص دهد.",
-      "key_points_fa": [
-        "فروش جهانی این فیلم از مرز ۱.۳۴۰ میلیارد دلار عبور کرد.",
-        "این اثر توسط کریستوفر نولان کارگردانی شده است.",
-        "رکوردی جدید برای فیلم‌های با رده‌بندی سنی بزرگسالان ثبت شد."
-      ],
-      "analysis_fa": "موفقیت مالی چشمگیر این اثر حماسی نشان‌دهنده تداوم محبوبیت آثار کریستوفر نولان در گیشه جهانی است و اهمیت فیلم‌های با بودجه کلان و رده‌بندی بزرگسالان را در بازار سینمای تجاری برجسته‌تر می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سینما",
-        "#کریستوفر_نولان",
-        "#گیشه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f65965179daf",
-      "source": "La Vanguardia",
-      "title": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
-      "summary": "OpenAI lanza un complemento para macOS que permite lee, escribir, resumir y enviar los mensajes de la aplicación de la manzana",
-      "url": "https://www.lavanguardia.com/vida/20260821/11617657/chatgpt-controlar-app-imessage-mac-abrir-nuevo-frente-apple.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8836a37528d.r_d.1868-973-0.jpeg",
-      "published_at": "2026-08-21T13:36:18+02:00",
-      "category": "ciencia",
-      "priority": 66,
-      "title_fa": "قابلیت جدید چت‌جی‌پی‌تی برای مدیریت پیام‌ها در مک",
-      "lead_fa": "شرکت اوپن‌ای‌آی ابزار جدیدی برای سیستم‌عامل مک‌اواس عرضه کرده است. این قابلیت به هوش مصنوعی اجازه می‌دهد پیام‌های اپلیکیشن اپل را بخواند و ارسال کند.",
-      "key_points_fa": [
-        "عرضه افزونه جدید اوپن‌ای‌آی برای کاربران مک‌اواس",
-        "امکان خواندن، نوشتن، خلاصه‌سازی و ارسال پیام در اپلیکیشن پیام‌رسان اپل"
-      ],
-      "analysis_fa": "این توسعه نشان‌دهنده تلاش شرکت‌های هوش مصنوعی برای integration عمیق‌تر با سیستم‌عامل‌های موجود است و می‌تواند روابط میان توسعه‌دهندگان هوش مصنوعی و غول‌های فناوری را وارد مرحله تازه‌ای از رقابت و تعامل کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هوش_مصنوعی",
-        "#اپل",
-        "#مک"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "cbf57cd4b914",
-      "source": "La Vanguardia",
-      "title": "La prensa británica, ante el regreso de los Sussex: “El respeto no se compra”",
-      "summary": "Los medios cuestionan la vuelta del príncipe Harry y Meghan Markle a un país que han criticado duramente en los últimos seis años",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617654/prensa-britanica-reacciona-inesperado-regreso-sussex-deben-comprender-respeto-compra.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/29/69530376624eb.r_d.1305-843-0.jpeg",
-      "published_at": "2026-08-21T13:17:00+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "واکنش رسانه‌های بریتانیایی به بازگشت ساسکس‌ها: احترام خریدنی نیست",
-      "lead_fa": "رسانه‌های بریتانیایی بازگشت شاهزاده هری و مگان مارکل را زیر سوال بردند. آن‌ها به کشوری بازمی‌گردند که در شش سال گذشته به شدت از آن انتقاد کرده‌اند.",
-      "key_points_fa": [
-        "زیر سوال رفتن بازگشت شاهزاده هری و مگان مارکل توسط رسانه‌های بریتانیا",
-        "انتقادات شدید این زوج از بریتانیا در طول شش سال گذشته"
-      ],
-      "analysis_fa": "این پوشش رسانه‌ای بازتاب‌دهنده تداوم تنش میان دو طرف و چالش‌های این زوج در جلب دوباره نظر مثبت افکار عمومی و مطبوعات بریتانیا پس از سال‌ها دوری و انتقاد متقابل است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#شاهزاده_هری",
-        "#مگان_مارکل",
-        "#بریتانیا",
-        "#رسانه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "32d3e2cbfdc8",
-      "source": "La Vanguardia",
-      "title": "Revelada otra razón por la que Meghan Markle querría volver al Reino Unido",
-      "summary": "La actriz estudia volver al mundo de la interpretación que abandonó cuando se convirtió en duquesa",
-      "url": "https://www.lavanguardia.com/gente/20260821/11617644/revelada-razon-meghan-markle-querria-volver-reino-unido.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/01/03/67779e170daee.r_d.1833-1559-0.jpeg",
-      "published_at": "2026-08-21T13:15:46+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "دلیل جدید مگان مارکل برای بازگشت به بریتانیا",
-      "lead_fa": "مگان مارکل در حال بررسی بازگشت به دنیای بازیگری است. او این حرفه را پس از دوشس شدن رها کرده بود.",
-      "key_points_fa": [
-        "مگان مارکل ممکن است به حرفه بازیگری بازگردد.",
-        "او پیش‌تر و پس از ورود به خاندان سلطنتی، بازیگری را کنار گذاشته بود."
-      ],
-      "analysis_fa": "تصمیم احتمالی برای بازگشت به بازیگری می‌تواند بخشی از تلاش‌های مگان مارکل برای باز تعریف فعالیت‌های حرفه‌ای و عمومی خود پس از جدایی از وظایف رسمی سلطنتی باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مگان_مارکل",
-        "#بریتانیا",
-        "#هالیوود"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0d2f032f9742",
-      "source": "La Vanguardia",
-      "title": "La presidenta del CGPJ se reunirá con el presidente Vivas a la menor brevedad posible",
-      "summary": "El mandatario ceutí reclamó el pasado lunes ser recibido por Perelló para informarle de que “Ceuta está en peligro”",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617650/presidenta-cgpj-reunira-presidente-vivas-menor-brevedad-posible.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/19/6a346b5b098e3.jpeg",
-      "published_at": "2026-08-21T13:00:53+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "دیدار قریب‌الوقوع رئیس شورای عالی قضایی اسپانیا با رئیس دولت سئوتا",
-      "lead_fa": "رئیس شورای عالی قضایی اسپانیا در کوتاهanین زمان ممکن با رئیس دولت محلی سئوتا دیدار خواهد کرد. این دیدار پس از هشدار مقام‌های سئوتا درباره وضعیت بحرانی این منطقه برگزار می‌شود.",
-      "key_points_fa": [
-        "درخواست ملاقات از سوی رئیس دولت سئوتا در روز دوشنبه مطرح شد.",
-        "مقام‌های سئوتا وضعیت این منطقه را خطیر توصیف کرده‌اند.",
-        "رئیس شورای عالی قضایی اسپانیا با این دیدار در سریع‌ترین زمان ممکن موافقت کرد."
-      ],
-      "analysis_fa": "این دیدار نشان‌دهنده حساسیت نهادهای عالی قضایی و سیاسی اسپانیا نسبت به چالش‌های امنیتی و مدیریتی در مناطق مرزی و حساس مانند سئوتا است. پرداختن به این مطالبات می‌تواند به کاهش تنش‌های نهادی کمک کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#اسپانیا",
-        "#قضایی"
-      ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2127,7 +2112,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
       "published_at": "2026-08-21T10:50:47+00:00",
       "category": "sociedad",
-      "priority": 65,
+      "priority": 64,
       "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
       "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
       "key_points_fa": [],
@@ -2163,105 +2148,17 @@
       "editorial_version": 2
     },
     {
-      "id": "89473e6e0524",
+      "id": "90629eb139bb",
       "source": "La Vanguardia",
-      "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "summary": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8810d1a541b.jpeg",
-      "published_at": "2026-08-21T09:44:49+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
-      "lead_fa": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "627a2b7c91f4",
-      "source": "La Vanguardia",
-      "title": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
-      "summary": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
-      "url": "https://www.lavanguardia.com/natural/20260821/11617525/aemet-activa-aviso-naranja-camp-tarragona-terres-l-ebre-viernes-lluvias-intensas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87facad64e6.r_d.1603-864-0.jpeg",
-      "published_at": "2026-08-21T09:30:34+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "La Aemet activa el aviso naranja en el Camp de Tarragona y las Terres de l'Ebre por lluvias intensas",
-      "lead_fa": "Protección Civil mantiene el plan Inuncat durante el fin de semana, en el que se espera un descenso de temperaturas generalizado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d64bc0965914",
-      "source": "La Vanguardia",
-      "title": "Ayuso, una inquilina polémica",
-      "summary": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "url": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a872cb5213b1.r_d.2529-1463-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Ayuso, una inquilina polémica",
-      "lead_fa": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "adda565c887d",
-      "source": "La Vanguardia",
-      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "summary": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a8756cccbf66.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
-      "lead_fa": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aff3e0ff6bca",
-      "source": "La Vanguardia",
-      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "summary": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a874a7a2a337.r_d.2067-1378-0.jpeg",
-      "published_at": "2026-08-21T06:00:00+02:00",
+      "title": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "summary": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
+      "published_at": "2026-08-21T06:30:00+02:00",
       "category": "deportes",
       "priority": 62,
-      "title_fa": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
-      "lead_fa": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
+      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2391,7 +2288,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
       "published_at": "2026-08-20T05:30:00+00:00",
       "category": "ciencia",
-      "priority": 55,
+      "priority": 54,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
@@ -2413,7 +2310,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86ef32f0d02.jpeg",
       "published_at": "2026-08-19T19:25:28+02:00",
       "category": "sociedad",
-      "priority": 51,
+      "priority": 50,
       "title_fa": "¿Quién es Natalie Harp, la joven asesora que siempre está junto a Trump?",
       "lead_fa": "La proximidad entre el presidente y esta mujer de 35 años provoca polémica una vez conocido que fue una de las pocas personas elegidas para ir en el avión de camuflaje en la salida del mandatario de Turquía tras la amenaza iraní",
       "key_points_fa": [],
@@ -2456,7 +2353,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 146
     },
     {
       "source": "EL PAÍS España",
@@ -2471,7 +2368,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 135
+      "count": 134
     }
   ]
 }
