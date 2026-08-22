@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:33:30.967760+00:00",
+  "generated_at": "2026-08-22T21:55:44.986484+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -2559,18 +2559,25 @@
       "url": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
       "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
       "published_at": "2026-08-21T10:50:47+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 59,
-      "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
-      "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تعرفه ۹ هزار یورویی باندهای قاچاق برای انتقال مهاجران از سبته به شبه‌جزیره",
+      "lead_fa": "پلیس اسپانیا پنج نفر را به اتهام قاچاق مهاجران دستگیر کرد. این افراد از طریق دو شبکه مختلف، مهاجران را با قایق‌های ناایمن جابجا می‌کردند.",
+      "key_points_fa": [
+        "دستگیری پنج مظنون وابسته به دو شبکه قاچاق انسان در اسپانیا",
+        "دریافت مبالغی تا ۹ هزار یورو از هر مهاجر برای انتقال از سبته به خاک اصلی",
+        "استفاده از قاچاقچیان از قنداق‌های فاقد ایمنی برای عبور دادن مهاجران"
+      ],
+      "analysis_fa": "فعالیت باندهای قاچاق انسان در مسیرهای دریایی اسپانیا نشان‌دهنده تداوم چالش‌های امنیتی و مهاجرتی در مرزهای جنوبی این کشور است. این شبکه‌ها با سوءاستفاده از وضعیت آسیب‌پذیر مهاجران تازه‌وارد، سودهای کلانی به دست می‌آورند که مقابله با آن‌ها نیازمند نظارت‌های امنیتی شدیدتر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مهاجرت",
+        "#اسپانیا",
+        "#سبته",
+        "#قاچاق_انسان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2581,18 +2588,24 @@
       "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
       "published_at": "2026-08-21T10:32:15+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 59,
-      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
-      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نرخ یوروربر در اسپانیا به ۳ درصد رسید",
+      "lead_fa": "شاخص اصلی وام‌های مسکن با نرخ متغیر در اسپانیا به بالاترین سطح خود در بیش از دو سال گذشته رسید. این روند صعودی فشار مالی بر دارندگان وام‌های متغیر را افزایش داده است.",
+      "key_points_fa": [
+        "رسیدن شاخص یوروربر به مرز ۳ درصد",
+        "تأثیر مستقیم بر افزایش هزینه وام‌های مسکن با نرخ متغیر",
+        "ثبت بالاترین سطح این شاخص در بیش از دو سال گذشته"
+      ],
+      "analysis_fa": "افزایش نرخ یوروربر بازتاب‌دهنده سیاست‌های پولی و شرایط اقتصادی کلان است که هزینه‌های تأمین مالی را برای خانوارهای دارای وام مسکن متغیر در اسپانیا سنگین‌تر می‌کند.",
+      "audience_impact_fa": "برای مهاجران و فارسی‌زبانان مقیم اسپانیا که دارای وام مسکن با نرخ متغیر هستند، این تغییر به معنای افزایش قسط ماهانه و فشار بیشتر بر بودجه خانوار است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#وام_مسکن"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2603,18 +2616,24 @@
       "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260821/11615878/ultimo-centenario-truculento-viaje-ildefons-cerda-autor-barcelona.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
       "published_at": "2026-08-21T06:30:00+02:00",
-      "category": "deportes",
+      "category": "cultura",
       "priority": 57,
-      "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
-      "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پایان ماجرای صدساله؛ بازگشت آرامگاه ایلدمونس سردار به کاتالونیا",
+      "lead_fa": "بقایای آرامگاه ایلدمونس سردار، طراح و مهندس مشهور بخش الحاقی بارسلونا (Eixample)، پس از یک قرن به زادگاهش بازگردانده شد. این مهندس برجسته در اواخر قرن نوزدهم در یک آبگرم در منطقه کانتابریا درگذشته بود.",
+      "key_points_fa": [
+        "ایلدمونس سردار طراح اصلی بافت مدرن و شطرنجی بارسلونا موسوم به Eixample بود.",
+        "او در اواخر عمر خود در یک مرکز درمانی و آبگرم در استان کانتابریا درگذشت.",
+        "انتقال بقایای او به کاتالونیا پس از گذشت یک قرن از مرگش انجام گرفت."
+      ],
+      "analysis_fa": "انتقال بقایای چهره‌های تاریخی و مفاخر شهرسازی معمولاً با هدف گرامیداشت میراث فرهنگی و بازخوانی نقش آنان در توسعه شهری انجام می‌شود. این رویداد فرصتی دوباره برای توجه عمومی و تخصصی به اندیشه‌های شهرسازی سردار فراهم کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#تاریخ_اسپانیا",
+        "#معماری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2742,7 +2761,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/E426XPXEWJOS3N2H5Q3AMMFNSQ.jpg?auth=fb9e138aff7b4ac50b97d4d725bd5684725529b619a79f786eb0fa77173de1d6",
       "published_at": "2026-08-20T06:42:05+00:00",
       "category": "sociedad",
-      "priority": 50,
+      "priority": 49,
       "title_fa": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
       "lead_fa": "El banco ha concluido la adquisición apenas siete meses después del anuncio. Se convierte en un gigante bancario en el país con un balance de más de 280.000 millones de euros y cerca de ocho millones de clientes",
       "key_points_fa": [],
@@ -2807,7 +2826,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
