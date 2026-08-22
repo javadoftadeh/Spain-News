@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:41:51.994620+00:00",
+  "generated_at": "2026-08-22T08:00:27.442539+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7a75b2481297",
@@ -522,7 +522,7 @@
     {
       "id": "7290df384d17",
       "source": "La Vanguardia",
-      "title": "El Gobierno sigue sin tomar el control total de las calles de Ceuta",
+      "title": "El Gobierno no consigue tomar el control total de las calles de Ceuta",
       "summary": "El presidente baraja nombrar a Ángel Victor Torres para coordinar los ministerios",
       "url": "https://www.lavanguardia.com/politica/20260821/11617789/gobierno-consigue-tomar-control-total-calles-ceuta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a8863d7e2609.jpeg",
@@ -696,16 +696,23 @@
       "published_at": "2026-08-22T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "La tormenta perfecta del KOSPI: apalancamiento, memoria y la batalla por la IA en el mercado coreano",
-      "lead_fa": "La corrección de más del 30% en la Bolsa de Seúl deja al descubierto la fragilidad de un índice en el que Samsung Electronics y SK Hynix valen más que todo el resto junto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ریزش بیش از ۳۰ درصدی بورس سئول و آسیب‌پذیری بازار کره جنوبی",
+      "lead_fa": "بازار بورس سئول با اصلاح بیش از ۳۰ درصدی مواجه شده است. این افت شدید، وابستگی شدید شاخص به سامسونگ و اس‌کی های‌پیکس را نمایان کرده است.",
+      "key_points_fa": [
+        "افت بیش از ۳۰ درصدی در بورس سئول",
+        "ارزش سهام سامسونگ و اس‌کی های‌پیکس بیشتر از کل بقیه بازار",
+        "نقش اهرم مالی، خاطره تاریخی و رقابت بر سر هوش مصنوعی در تحولات بازار کره"
+      ],
+      "analysis_fa": "کاهش ارزش سهام در بازار بورس سئول نشان‌دهنده تمرکز بالای سرمایه و وابستگی ساختاری این بازار به غول‌های فناوری است. این وضعیت آسیب‌پذیری شاخص کل در برابر نوسانات صنعت نیمه‌هادی و هوش مصنوعی را آشکار می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بورس_کره",
+        "#اقتصاد",
+        "#سامسونگ",
+        "#فناوری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -718,16 +725,23 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "¿Cuánto gasta cada pueblo en traer la orquesta? El precio de mantener vivas las fiestas",
-      "lead_fa": "De los 25.000€ de la orquesta Panorama a los 5.000€ de Marbella, detallamos qué proporción de sus recursos dedican más de 4.500 ayuntamientos a los festejos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "هزینه میلیونی شهرداری‌های اسپانیا برای جشن‌ها و ارکسترها",
+      "lead_fa": "بررسی‌ها نشان می‌دهد هزاران شهرداری در اسپانیا بخش قابل‌توجهی از بودجه خود را صرف برگزاری جشن‌های محلی و دعوت از ارکسترها می‌کنند. این هزینه‌ها از رقمی اندک تا ده‌ها هزار یورو برای گروه‌های معروف متغیر است.",
+      "key_points_fa": [
+        "بیش از ۴۵۰۰ شهرداری در اسپانیا بودجه مشخصی را به برگزاری جشن‌های محلی اختصاص می‌دهند.",
+        "هزینه گروه‌های موسیقی و ارکسترهای بزرگ مانند ارکستر پانوراما می‌تواند تا ۲۵ هزار یورو برسد.",
+        "میزان هزینه‌کرد شهرداری‌ها به تناسب منابع مالی و اندازه شهرها متفاوت است."
+      ],
+      "analysis_fa": "برگزاری جشن‌های محلی یکی از سنت‌های ریشه‌دار در اسپانیا است که علاوه بر اهمیت فرهنگی، بار مالی قابل‌توجهی بر دوش شهرداری‌ها می‌گذارد. در حالی که طرفداران این جشن‌ها آن را برای پویایی اجتماعی و اقتصادی مناطق ضروری می‌دانند، برخی منتقدان خواهان شفافیت بیشتر و بهینه‌سازی هزینه‌های عمومی در بخش فرهنگ و سرگرمی هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#شهرداری",
+        "#فرهنگ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -740,16 +754,23 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Así es Casa Cantal: 15.000 ladrillos, ventilación cruzada y un patio contra el calor en Málaga",
-      "lead_fa": "Levantada en La Cala del Moral y firmada por Endosdedos Arquitectura, ha recibido el Premio Málaga en la categoría de Vivienda Unifamiliar por su sostenibilidad y eficiencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کسب جایزه معماری مالاگا توسط خانه‌ای پایدار و مقاوم در برابر گرما",
+      "lead_fa": "خانه «کازا کانتال» در مالاگا با طراحی پایدار و سیستم تهویه طبیعی توانست جایزه معماری مسکونی را به خود اختصاص دهد. این بنا از ۱۵ هزار آجر و یک حیاط مرکزی برای مقابله با گرمای هوا بهره می‌برد.",
+      "key_points_fa": [
+        "طراحی شده توسط استودیوی معماری «اندوس‌ددوس» در منطقه لا کالا دل مورال.",
+        "برنده جایزه معماری مالاگا در بخش مسکن تک‌خانواری.",
+        "استفاده از ۱۵ هزار آجر، تهویه متقاطع و حیاط مرکزی برای بهره‌وری انرژی و کاهش گرما."
+      ],
+      "analysis_fa": "این پروژه نمونه‌ای از توجه فزاینده بهمعماری پایدار و اقلیمی در جنوب اسپانیا است که تلاش می‌کند با استفاده از مصالح سنتی و طراحی نوین، چالش‌های ناشی از افزایش دما را مدیریت کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#معماری",
+        "#مالاگا",
+        "#پایداری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -856,14 +877,14 @@
     {
       "id": "7caf25d77e22",
       "source": "La Vanguardia",
-      "title": "Cortes de trenes y afectaciones al tráfico por las lluvias torrenciales en la Costa Daurada",
+      "title": "Las lluvias torrenciales en la Costa Daurada dejan tres heridos y 400 evacuados de un camping",
       "summary": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
       "url": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89496db8e95.r_d.1000-750-0.jpeg",
       "published_at": "2026-08-22T08:02:10+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Cortes de trenes y afectaciones al tráfico por las lluvias torrenciales en la Costa Daurada",
+      "title_fa": "Las lluvias torrenciales en la Costa Daurada dejan tres heridos y 400 evacuados de un camping",
       "lead_fa": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -904,33 +925,11 @@
       "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca, y afectan también Creixell y Roda de Berà",
       "url": "https://elpais.com/espana/catalunya/2026-08-21/proteccion-civil-mantiene-la-alerta-del-plan-inuncat-y-avisa-de-lluvias-torrenciales-en-tarragona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/UWVN4YNQRNC43JVSJZ4NTJ5KXM.jpg?auth=c1968836c811e6e4986fdafac75236d8585f08e6400348a98fa3e22ab83adb0d",
-      "published_at": "2026-08-22T07:07:59+00:00",
+      "published_at": "2026-08-22T07:40:51+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "Las lluvias torrenciales provocan inundaciones en bajos y calles en Torredembarra y El Vendrell",
       "lead_fa": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca, y afectan también Creixell y Roda de Berà",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9b234b5db870",
-      "source": "EL PAÍS",
-      "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
-      "summary": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
-      "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
-      "published_at": "2026-08-22T04:43:22+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
-      "lead_fa": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1412,6 +1411,28 @@
       "editorial_version": 2
     },
     {
+      "id": "9b234b5db870",
+      "source": "EL PAÍS",
+      "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "summary": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+      "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
+      "published_at": "2026-08-22T04:43:22+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "lead_fa": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b7caa185e2c3",
       "source": "EL PAÍS",
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
@@ -1635,14 +1656,14 @@
       "id": "4d7aea389307",
       "source": "EL PAÍS",
       "title": "El verano del tanga: de las Kardashian al reguetón, así es como esta prenda ha conquistado las playas",
-      "summary": "Mientras retrocede el toples, los datos de ventas corroboran el triunfo en Europa de un tipo de bañador que supone un cambio cultural de viene de Latinoamérica",
+      "summary": "Mientras retrocede el toples, los datos de ventas corroboran el triunfo en Europa de un tipo de bañador que supone un cambio social y cultural que viene de Latinoamérica",
       "url": "https://elpais.com/sociedad/2026-08-22/el-verano-del-tanga-de-las-kardashian-al-regueton-asi-es-como-esta-prenda-ha-conquistado-las-playas.html",
       "image": "https://imagenes.elpais.com/resizer/v2/OQWDMXOQMVNV5HMPO55BNKY2DU.jpg?auth=1bb615f69203e369826785f4cc2ddf02d83fa2af649fd14f6d11d138e33e6253",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "cultura",
       "priority": 69,
       "title_fa": "El verano del tanga: de las Kardashian al reguetón, así es como esta prenda ha conquistado las playas",
-      "lead_fa": "Mientras retrocede el toples, los datos de ventas corroboran el triunfo en Europa de un tipo de bañador que supone un cambio cultural de viene de Latinoamérica",
+      "lead_fa": "Mientras retrocede el toples, los datos de ventas corroboran el triunfo en Europa de un tipo de bañador que supone un cambio social y cultural que viene de Latinoamérica",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2165,7 +2186,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
       "published_at": "2026-08-21T10:50:47+00:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
       "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
       "key_points_fa": [],
