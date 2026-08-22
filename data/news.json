@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:55:44.986484+00:00",
+  "generated_at": "2026-08-22T22:35:37.165036+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -1174,29 +1174,58 @@
       "editorial_version": 2
     },
     {
-      "id": "bc2535188e22",
-      "source": "EL PAÍS",
-      "title": "Espanyol - Real Madrid en directo | Un gol de Carlos Espí en el 90 da la victoria al Madrid contra el Espanyol",
-      "summary": "Bellingham adelantó al equipo de Mourinho con un cabezazo tras un centro de Arda Güler en una falta lateral, pero Calatrava igualó con un remate a placer en el área",
-      "url": "https://elpais.com/deportes/futbol/2026-08-22/espanyol-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z7TDTL2VCVBOTIARBUALE7EOFI.jpg?auth=2ec13187242b87fc645f5e486bd1804a9671f274973445e48b1ae23250caaea8",
-      "published_at": "2026-08-22T21:30:57+00:00",
+      "id": "e92a1ddfc312",
+      "source": "La Vanguardia",
+      "title": "Cruel minuto 90 para el Espanyol y feliz debut para Espí, que evita el primer fiasco del Madrid",
+      "summary": "Un gol del exdelantero del Levante da los tres puntos a los de Mourinho en Cornellà, donde coquetearon con el fiasco",
+      "url": "https://www.lavanguardia.com/deportes/rcde-espanyol/20260822/11618297/cruel-minuto-90-espanyol-feliz-debut-espi-evita-primer-fiasco-madrid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a8a177100cdf.r_d.1897-1131-0.jpeg",
+      "published_at": "2026-08-22T23:44:18+02:00",
       "category": "deportes",
       "priority": 70,
-      "title_fa": "پخش زنده مسابقه اسپانیول و رئال مادرید در لالیگا",
-      "lead_fa": "تیم مورینیو در برابر مجموعه مانولو گونزالس به میدان می‌رود. حریف در نخستین دیدار خود لوانته را شکست داده بود.",
+      "title_fa": "پیروزی دراماتیک رئال مادرید مقابل اسپانیول با گل دقیقه ۹۰",
+      "lead_fa": "تیم رئال مادرید موفق شد در دقیقه پایانی بازی به پیروزی دست پیدا کند. این گل توسط مهاجم جدید این تیم به ثمر رسید.",
       "key_points_fa": [
-        "مصاف تیم‌های اسپانیول و رئال مادرید",
-        "برناردو، دامفریز و کوناته در ترکیب اصلی",
-        "عملکرد موفق حریف در مسابقه قبلی برابر لوانته"
+        "گل دقیقه ۹۰ پیروزی را برای رئال مادرید به همراه داشت.",
+        "این مسابقه در ورزشگاه خانگی اسپانیول برگزار شد.",
+        "مهاجم تازه‌وارد رئال مادرید نقش کلیدی در این برد داشت."
       ],
-      "analysis_fa": "این مسابقه در چارچوب رقابت‌های فوتبال برگزار می‌شود و حضور بازیکنان کلیدی در ترکیب، اهمیت تاکتیکی بازی را برای هر دو تیم افزایش داده است.",
+      "analysis_fa": "این مسابقه نشان‌دهنده چالش‌های تیم در خط حمله و اهمیت بازیکنان تعویضی در لحظات سرنوشت‌ساز بود. کسب این پیروزی در دقایق پایانی می‌تواند فشارها را بر روی کادرفنی موقتاً کاهش دهد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#رئال_مادرید",
         "#اسپانیول",
         "#لالیگا",
+        "#فوتبال_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "1703945030aa",
+      "source": "EL PAÍS",
+      "title": "Carlos Espí evita en el 90 el gatillazo en el estreno del nuevo Real Madrid",
+      "summary": "Un gol al límite del joven delantero resuelve una noche de pocas luces de los blancos, de más a menos ante un Espanyol firme",
+      "url": "https://elpais.com/deportes/futbol/2026-08-22/carlos-espi-al-rescate-en-el-minuto-91-del-nuevo-real-madrid-de-mourinho.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z7TDTL2VCVBOTIARBUALE7EOFI.jpg?auth=2ec13187242b87fc645f5e486bd1804a9671f274973445e48b1ae23250caaea8",
+      "published_at": "2026-08-22T22:00:35+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "گل دقایق پایانی کارلوس اسپی، نجات‌بخش رئال مادرید در بازی نخست",
+      "lead_fa": "رئال مادرید در نخستین دیدار خود مقابل اسپانیول نمایشی کم‌فروغ داشت. کارلوس اسپی، مهاجم جوان، با گلی در دقیقه ۹۰ پیروزی را برای تیمش رقم زد.",
+      "key_points_fa": [
+        "گل دقیقه ۹۰ کارلوس اسپی مانع از توقف رئال مادرید شد.",
+        "رئال مادرید بازی را خوب آغاز کرد اما به مرور افت کرد.",
+        "اسپانیول دفاعی مستحکم و مقاومی در برابر حملات رئال به نمایش گذاشت."
+      ],
+      "analysis_fa": "این دیدار نشان داد که خط حمله رئال مادرید در غیاب هماهنگی کامل نیازمند کار بیشتر است. در حالی که تیم در نیمه دوم دچار افت شد، درخشش بازیکنان جوان می‌تواند گره‌گشای روزهای سخت باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#رئال_مادرید",
+        "#لالیگا",
+        "#اسپانیول",
         "#فوتبال_اسپانیا"
       ],
       "ai_translated": true,
@@ -1764,33 +1793,6 @@
         "#اسپانیا",
         "#کالفل",
         "#جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "2830dfb51152",
-      "source": "La Vanguardia",
-      "title": "Lo de Assumpta Serna",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83385a868e9.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "درباره آسومپتا سرنا",
-      "lead_fa": "آسومپتا سرنا، بازیگر شناخته‌شده اسپانیایی، موضوع بحث جدیدی در رسانه‌ها شده است. جزئیات این موضوع بازتاب‌هایی در محافل فرهنگی و هنری داشته است.",
-      "key_points_fa": [
-        "پرداختن رسانه‌ها به فعالیت‌ها و وضعیت آسومپتا سرنا",
-        "بازتاب نظرات و رویکردهای این هنرمند در فضای عمومی اسپانیا"
-      ],
-      "analysis_fa": "این موضوع بازتابی از توجه رسانه‌ای به چهره‌های سرشناس فرهنگی در اسپانیا است و ابعاد مختلف فعالیت‌های حرفه‌ای آنان را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آسومپتا_سرنا",
-        "#سینمای_اسپانیا",
-        "#فرهنگ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2646,16 +2648,23 @@
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
       "priority": 56,
-      "title_fa": "Wafae Atid no es una emigrante económica y no quiere volver a Marruecos porque aborrece “la mentalidad” del país: “Hay otras razones”",
-      "lead_fa": "La mujer, de 28 años, que entró a nado a Ceuta, explica que vio una salida en la llegada masiva después de no lograr la visa tras trabajar en otros países como Emiratos Árabes y Qatar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "داستان وفاء عطید؛ چرا او بازگشت به مراکش را رد می‌کند؟",
+      "lead_fa": "وفاء عطید، زن ۲۸ ساله‌ای که با شنا وارد سبته شد، خود را یک مهاجر اقتصادی نمی‌داند. او پس از ناکامی در دریافت ویزای کار از کشورهای دیگر، بحران مهاجرت عمده را راهی برای خروج دانست.",
+      "key_points_fa": [
+        "وفاء عطید ۲۸ سال سن دارد و از طریق شنا کردن وارد قلمرو سبته شده است.",
+        "او پیش‌تر در امارات متحده عربی و قطر کار کرده اما موفق به دریافت ویزای قانونی نشده است.",
+        "او به دلیل بیزاری از ذهنیت حاکم، تمایلی به بازگشت به مراکش ندارد."
+      ],
+      "analysis_fa": "این پرونده ابعاد فردی و پیچیده انگیزه‌های مهاجرت غیرقانونی را فراتر از صرفاً مسائل اقتصادی نشان می‌دهد. روایت افرادی که از مسیرهای خطرناک مانند شنا به سوی اروپا می‌روند، بازتاب‌دهنده ناامیدی عمیق از مجاری قانونی و تمایلات فرهنگی برای تغییر سبک زندگی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مراکش",
+        "#سبته",
+        "#مهاجرت",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2826,7 +2835,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 148
+      "count": 149
     },
     {
       "source": "EL PAÍS España",
