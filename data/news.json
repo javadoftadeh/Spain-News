@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:56:21.482698+00:00",
+  "generated_at": "2026-08-22T11:32:41.645962+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -1005,11 +1005,11 @@
     {
       "id": "070881cb6692",
       "source": "EL PAÍS",
-      "title": "Las lluvias torrenciales provocan inundaciones en Torredembarra y El Vendrell y dejan un herido crítico",
+      "title": "Las lluvias torrenciales provocan inundaciones en Torredembarra y El Vendrell y dejan una herida crítica",
       "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca. Tres personas de una familia han resultado heridas al caer un muro",
       "url": "https://elpais.com/espana/catalunya/2026-08-21/proteccion-civil-mantiene-la-alerta-del-plan-inuncat-y-avisa-de-lluvias-torrenciales-en-tarragona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QOCS6V52WFDSRB3BCULEX63DH4.jpeg?auth=9fe104862ab000ed958517951697f9b531e2a1e3ee488ca21143ac0654144137",
-      "published_at": "2026-08-22T10:45:49+00:00",
+      "published_at": "2026-08-22T11:06:24+00:00",
       "category": "sociedad",
       "priority": 70,
       "title_fa": "سیل و آب‌گرفتگی شدید در توردیمبارا و ال وندرل اسپانیا",
@@ -1381,16 +1381,23 @@
       "published_at": "2026-08-22T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "قوی‌ترین «ال‌نینو» در یک قرن؛ پاییزی پر از طوفان در اسپانیا",
+      "lead_fa": "شدیدترین پدیده «ال‌نینو» در قرن اخیر شرایط جوی اسپانیا را تحت تأثیر قرار می‌دهد. این وضعیت باعث افزایش بارندگی و طوفان‌های شدید در فصل پاییز خواهد شد.",
+      "key_points_fa": [
+        "ثبت قوی‌ترین ال‌نینو در یک قرن گذشته",
+        "افزایش احتمال طوفان‌های پاییزی در اسپانیا",
+        "تغییرات الگوهای جوی و بارندگی در مناطق مختلف"
+      ],
+      "analysis_fa": "پدیده ال‌نینو تأثیرات قابل توجهی بر الگوهای آب‌وهوایی جهانی و منطقه‌ای دارد. کارشناسان هواشناسی با بررسی این پدیده در قرن اخیر، بر احتمال بالای وقوع رویدادهای حدی جوی در فصل پیش رو تأکید می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ال_نینو",
+        "#هواشناسی",
+        "#اسپانیا",
+        "#پاییز"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1401,18 +1408,24 @@
       "url": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e815d685b.r_d.438-497-0.jpeg",
       "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "deportes",
+      "category": "sociedad",
       "priority": 68,
-      "title_fa": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
-      "lead_fa": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فشار شدید بر پزشکان کوبایی در بحران کمبود امکانات",
+      "lead_fa": "کمبود شدید داروها، تجهیزات و نیروی انسانی، کادر درمان کوبا را در شرایط بسیار دشواری قرار داده است. پزشکان این کشور ناچارند برای نجات جان بیماران به روش‌های ابداعی متوسل شوند.",
+      "key_points_fa": [
+        "بحران کمبود دارو و تجهیزات پزشکی در کوبا به اوج رسیده است.",
+        "کادر درمان مجبور به کار در شرایطی فراتر از حد استاندارد هستند.",
+        "پزشکان برای نجات جان بیماران ناچار به ابداع روش‌های جایگزین شده‌اند."
+      ],
+      "analysis_fa": "وضعیت دشوار کادر درمان در کوبا بازتابی از بحران عمیق اقتصادی و ساختاری در این کشور است. کمبودهای مزمن نه تنها کیفیت خدمات درمانی را تحت تاثیر قرار داده، بلکه فشار روانی سنگینی بر دوش پزشکان گذاشته است که روزانه با تصمیمات حیاتی مواجه هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کوبا",
+        "#پزشکان",
+        "#بحران_درمان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1425,16 +1438,22 @@
       "published_at": "2026-08-22T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
-      "lead_fa": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درگیری بر سر سر و صدای پتانکا در کالفل",
+      "lead_fa": "اختلاف میان یک باشگاه پتانکای بازنشستگان و اهالی منطقه در کالفل بالا گرفت. همسایگان از سر و صدای مداوم بازی‌ها ابراز نارضایتی کرده‌اند.",
+      "key_points_fa": [
+        "اعتراض ساکنان محلی به سر و صدای باشگاه پتانکای بازنشستگان در کالفل",
+        "بالا گرفتن تنش و تبادل اتهامات میان دو طرف در منطقه",
+        "نارضایتی همسایگان از شرایط پیوندخورده با برگزاری مسابقات"
+      ],
+      "analysis_fa": "این رخداد بازتاب‌دهنده چالش‌های رایج میان فضاهای تفریحی سالمندان و آرامش مناطق مسکونی در شهرهای اسپانیا است که گاه به تنش‌های محلی می‌انجامد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#کالفل",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2449,7 +2468,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
       "published_at": "2026-08-20T05:30:00+00:00",
       "category": "ciencia",
-      "priority": 53,
+      "priority": 52,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
@@ -2492,7 +2511,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 149
+      "count": 150
     },
     {
       "source": "EL PAÍS España",
@@ -2507,7 +2526,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 132
+      "count": 131
     }
   ]
 }
