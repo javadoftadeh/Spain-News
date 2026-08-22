@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:36:19.057084+00:00",
+  "generated_at": "2026-08-22T20:56:31.755568+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -1176,11 +1176,11 @@
     {
       "id": "bc2535188e22",
       "source": "EL PAÍS",
-      "title": "Espanyol - Real Madrid en directo | El partido se va al descanso con empate",
+      "title": "Espanyol - Real Madrid en directo | Comienza la segunda mitad",
       "summary": "Bellingham adelantó al equipo de Mourinho con un cabezazo tras un centro de Arda Güler en una falta lateral, pero Calatrava igualó con un remate a placer en el área",
       "url": "https://elpais.com/deportes/futbol/2026-08-22/espanyol-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/FABSI26DPVIM3BU55RGSGIKNAE.jpg?auth=7e7348918e686403b3fd01ec6ca1c640a90cbfc6493a33cd8a51696a54417c34",
-      "published_at": "2026-08-22T20:33:05+00:00",
+      "published_at": "2026-08-22T20:50:42+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "پخش زنده مسابقه اسپانیول و رئال مادرید در لالیگا",
@@ -2421,16 +2421,22 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Contra “la complejidad de España” y otros tópicos",
-      "lead_fa": "Nada como el inicio del nuevo curso político para refrescar también el arsenal retórico",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "آغاز فصل سیاسی جدید و تکرار کلیشه‌های رتوریک در اسپانیا",
+      "lead_fa": "با آغاز فصل جدید سیاسی در اسپانیا، بار دیگر ابزارها و لحن خطابی سیاستمداران مرور شده است. این روند بازتابی از رویکردهای سنتی احزاب در مواجهه با چالش‌های پیش‌رو است.",
+      "key_points_fa": [
+        "شروع دور جدید فعالیت‌های سیاسی و پارلمانی",
+        "استفاده از ادبیات و استعاره‌های مرسوم سیاسی",
+        "بازخوانی مواضع احزاب در قبال مسائل کلان کشور"
+      ],
+      "analysis_fa": "آغاز دوره‌های سیاسی جدید در اسپانیا معمولاً با داغ شدن مباحثات و بازگشت به الگوهای سنتی سخنرانی از سوی چهره‌های سیاسی همراه است که هدف آن بازتعریف خطوط سیاسی و جلب توجه اذهان عمومی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سیاست",
+        "#ال‌پاییس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2443,16 +2449,21 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Peridis: solidaridad nacional",
-      "lead_fa": "Viñeta del 22 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "طنز روزانه پردیس درباره همبستگی ملی",
+      "lead_fa": "روزنامه ال پائیس کاریکاتور جدید پردیس را منتشر کرد. این اثر به موضوع همبستگی ملی می‌پردازد.",
+      "key_points_fa": [
+        "انتشار کاریکاتور پردیس در تاریخ ۲۲ اوت ۲۰۲۶",
+        "تمرکز اثر بر مفهوم همبستگی ملی در جامعه"
+      ],
+      "analysis_fa": "این کاریکاتور بازتاب‌دهنده نگاه انتقادی و هنری به تحولات اجتماعی جاری در اسپانیا است و تلاش می‌کند از طریق طنز، توجه مخاطب را به مسایل بنیادین جامعه جلب کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#پردیس",
+        "#ال‌پائیس",
+        "#همبستگی_ملی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2465,16 +2476,22 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "¿Qué Estado queremos cuando todo arde?",
-      "lead_fa": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "وقتی همه‌چیز در آتش می‌سوزد، چه نوع حکومتی می‌خواهیم؟",
+      "lead_fa": "برخی خطرات به دلیل ابعاد و نامشخص بودن، تنها به صورت جمعی قابل مدیریت هستند. این چالش‌ها نیازمند مسئولیت‌پذیری نهادهای دولتی است.",
+      "key_points_fa": [
+        "وجود خطرات بزرگ با ابعاد نامشخص",
+        "ناتوانی بخش خصوصی در تقبل برخی ریسک‌ها به دلیل عدم سودآوری",
+        "لزوم پذیرش مسئولیت‌ها به صورت جمعی و دولتی"
+      ],
+      "analysis_fa": "این بحث به نقش دولت در مدیریت بحران‌های کلان و حوادث پیش‌بینی‌نشده می‌پردازد که از عهده بخش خصوصی خارج است و بر لزوم آمادگی نهادهای عمومی تأکید دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مدیریت_بحران",
+        "#جامعه"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
