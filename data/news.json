@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:53:10.296380+00:00",
+  "generated_at": "2026-08-22T20:36:19.057084+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -290,6 +290,35 @@
         "#سبته",
         "#مراکش",
         "#سلطنت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8a677fe14786",
+      "source": "La Vanguardia",
+      "title": "La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones",
+      "summary": "Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11618278/lluvia-desborda-costa-daurada-govern-defiende-previsiones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89ec988026a.r_d.1992-1328-0.jpeg",
+      "published_at": "2026-08-22T21:12:06+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "باران شدید در کاستا دورادا و دفاع دولت از پیش‌بینی‌ها",
+      "lead_fa": "بارندگی شدید موجب طغیان آب و تخلیه اضطراری صدها نفر در کاستا دورادا شد. با این حال، هیچ هشدار پیامکی به گوشی شهروندان ارسال نشد.",
+      "key_points_fa": [
+        "وقتیل بارندگی شدید باعث طغیان آب در منطقه کاستا دورادا شد.",
+        "صدها نفر از ساکنان و افراد حاضر در منطقه ناچار به تخلیه شدند.",
+        "هیچ‌گونه هشدار اضطراری روی تلفن‌های همراه مردم دریافت نشد.",
+        "دولت منطقه‌ای از نحوه پیش‌بینی‌ها و عملکرد خود دفاع کرد."
+      ],
+      "analysis_fa": "وقوع این حادثه و عدم ارسال هشدارهای پیامکی به‌موقع، بار دیگر بحث درباره کارایی سیستم‌های هشدار اولیه و آمادگی نهادهای دولتی در مواجهه با حوادث جوی ناگهانی را در اسپانیا برانگیخته است. دولت در حالی از پیش‌بینی‌های خود دفاع می‌کند که انتقادات درباره اطلاع‌رسانی به شهروندان افزایش یافته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#کاستادورادا",
+        "#سیل"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1147,11 +1176,11 @@
     {
       "id": "bc2535188e22",
       "source": "EL PAÍS",
-      "title": "Espanyol - Real Madrid en directo | Bellingham adelanta al Madrid con un cabezazo",
-      "summary": "Bernardo, Dumfries y Konaté entran en el once | El equipo de Mourinho se estrena ante el conjunto de Manolo González, que goleó por 3-0 al Levante en su primer encuentro",
+      "title": "Espanyol - Real Madrid en directo | El partido se va al descanso con empate",
+      "summary": "Bellingham adelantó al equipo de Mourinho con un cabezazo tras un centro de Arda Güler en una falta lateral, pero Calatrava igualó con un remate a placer en el área",
       "url": "https://elpais.com/deportes/futbol/2026-08-22/espanyol-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AJU3V2VLD5P6NEZ4LMMB5CXSPQ.jpg?auth=aa8265467d1ad47ff8bf96bdbb563292f03527def9fd8d777ea7d65f11b5c4c3",
-      "published_at": "2026-08-22T19:48:36+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/FABSI26DPVIM3BU55RGSGIKNAE.jpg?auth=7e7348918e686403b3fd01ec6ca1c640a90cbfc6493a33cd8a51696a54417c34",
+      "published_at": "2026-08-22T20:33:05+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "پخش زنده مسابقه اسپانیول و رئال مادرید در لالیگا",
@@ -1514,7 +1543,7 @@
     {
       "id": "7caf25d77e22",
       "source": "La Vanguardia",
-      "title": "Las lluvias torrenciales en la Costa Daurada dejan once heridos, uno crítico, y unos 400 evacuados",
+      "title": "Las lluvias torrenciales en la Costa Daurada dejan 11 heridos, uno crítico, y unos 400 evacuados",
       "summary": "En el litoral del Baix Penedès se han acumulado cerca de 200 litros por metro cuadrado en pocas horas y más de 110 litros en el litoral norte del Tarragonès; el Govern defiende que no había base para enviar un Es-Alert",
       "url": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896da54b893.jpeg",
@@ -2050,35 +2079,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5d85048ed9db",
-      "source": "La Vanguardia",
-      "title": "YouTube, de plataforma de vídeos a convertirse en la nueva televisión global",
-      "summary": "El servicio de vídeo de Google ya disputa audiencia a las cadenas y al streaming",
-      "url": "https://www.lavanguardia.com/television/20260822/11600260/youtube-plataforma-videos-convertirse-nueva-television-global.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a6343a43324e.r_d.2841-1552-0.jpeg",
-      "published_at": "2026-08-22T07:00:00+02:00",
-      "category": "cultura",
-      "priority": 66,
-      "title_fa": "یوتیوب از پلتفرم ویدیو به تلویزیون جهانی تبدیل می‌شود",
-      "lead_fa": "سرویس ویدیویی گوگل اکنون با شبکه‌های تلویزیونی سنتی و پلتفرم‌های استریم رقابت می‌کند. این پلتفرم توانسته است سهم قابل توجهی از مخاطبان را به خود اختصاص دهد.",
-      "key_points_fa": [
-        "یوتیوب رقابت جدی را با شبکه‌های تلویزیونی آغاز کرده است.",
-        "این پلتفرم به عنوان یک تلویزیون جهانی جدید شناخته می‌شود.",
-        "محبوبیت خدمات استریم گوگل در حال افزایش است."
-      ],
-      "analysis_fa": "تحول یوتیوب از یک وب‌سایت اشتراک‌گذاری ویدیوی ساده به یک رقیب جدی برای تلویزیون‌های سنتی، نشان‌دهنده تغییر الگوهای مصرف رسانه‌ای در جهان است. این روند ناشی از تغییر تمایل مخاطبان به سمت محتوای دیجیتال و تعاملی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#یوتیوب",
-        "#تلویزیون",
-        "#گوگل",
-        "#رسانه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "eddd3a54814a",
       "source": "EL PAÍS",
       "title": "Chloë Grace Moretz: “No tengo suficientes palabras para definir lo maravilloso que es vivir en España”",
@@ -2366,16 +2366,21 @@
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 65,
-      "title_fa": "Riki Blanco: con una sola orden",
-      "lead_fa": "Viñeta del 22 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کاریکاتور روز ریکی بلانکو در ال پائیس",
+      "lead_fa": "روزنامه ال پائیس اثر گرافیکی جدیدی از ریکی بلانکو منتشر کرد. این اثر به تاریخ بیست و دوم اوت دو هزار و بیست و شش اختصاص دارد.",
+      "key_points_fa": [
+        "انتشار کاریکاتور اثر ریکی بلانکو در روزنامه ال پائیس.",
+        "این اثر متعلق به تاریخ بیست و دوم اوت دو هزار و بیست و شش است."
+      ],
+      "analysis_fa": "انتشار کاریکاتورهای مطبوعاتی بخشی از روایت‌های هنری و انتقادی روزانه‌اند که به موضوعات روز جامعه از منظر طنز تصویری می‌پردازند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#ریکی_بلانکو",
+        "#ال_پائیس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2386,18 +2391,24 @@
       "url": "https://elpais.com/opinion/2026-08-22/la-ruta-de-la-seda-artica-de-china-ya-es-una-realidad.html",
       "image": "https://imagenes.elpais.com/resizer/v2/LQFWD5ZMHJEZZD6AAYAT5BHN6M.jpg?auth=0bff6237d3d527fbad09510fee5b75b6572c19c5fde4405ceb340813d8f3a864",
       "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 65,
-      "title_fa": "La ruta de la seda ártica de China ya es una realidad",
-      "lead_fa": "El avance global de Pekín no es principalmente militar ni diplomático; es sobre todo industrial",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "مسیر ابریشم قطبی چین به واقعیت تبدیل شد",
+      "lead_fa": "گسترش جهانی پکن بیش از آنکه نظامی یا دیپلماتیک باشد، ابعاد صنعتی دارد. این روند اکنون به حوزه مسیرهای دریایی قطب شمال نیز رسیده است.",
+      "key_points_fa": [
+        "پیشروی جهانی پکن تمرکز صنعتی دارد.",
+        "مسیر ابریشم قطبی چین عملیاتی شده است."
+      ],
+      "analysis_fa": "تمرکز چین بر مسیرهای قطبی نشان‌دهنده راهبرد بلندمدت این کشور برای تسلط بر زنجیره‌های تامین جهانی و کاهش وابستگی به مسیرهای سنتی ترابری دریایی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#چین",
+        "#اقتصاد",
+        "#قطب_شمال",
+        "#ترابری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2717,7 +2728,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084",
       "published_at": "2026-08-20T05:30:00+00:00",
       "category": "ciencia",
-      "priority": 50,
+      "priority": 49,
       "title_fa": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "lead_fa": "La brecha de género en el uso de la IA es cada vez menor, pero ellas siguen siendo minoría entre quienes desarrollan una tecnología que condiciona aspectos como la educación y el empleo",
       "key_points_fa": [],
@@ -2775,7 +2786,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 136
+      "count": 137
     }
   ]
 }
