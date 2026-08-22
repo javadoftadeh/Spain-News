@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:37:08.449284+00:00",
+  "generated_at": "2026-08-22T10:56:21.482698+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -1003,6 +1003,34 @@
       "editorial_version": 2
     },
     {
+      "id": "070881cb6692",
+      "source": "EL PAÍS",
+      "title": "Las lluvias torrenciales provocan inundaciones en Torredembarra y El Vendrell y dejan un herido crítico",
+      "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca. Tres personas de una familia han resultado heridas al caer un muro",
+      "url": "https://elpais.com/espana/catalunya/2026-08-21/proteccion-civil-mantiene-la-alerta-del-plan-inuncat-y-avisa-de-lluvias-torrenciales-en-tarragona.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QOCS6V52WFDSRB3BCULEX63DH4.jpeg?auth=9fe104862ab000ed958517951697f9b531e2a1e3ee488ca21143ac0654144137",
+      "published_at": "2026-08-22T10:45:49+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "سیل و آب‌گرفتگی شدید در توردیمبارا و ال وندرل اسپانیا",
+      "lead_fa": "بارندگی‌های شدید تا ۲۰۰ لیتر بر متر مربع در کاتالونیا باعث آب‌گرفتگی معابر و تخلیه یک کمپینگ شد. ریزش یک دیوار سه زخمی بر جای گذاشت که حال یکی از آن‌ها وخیم است.",
+      "key_points_fa": [
+        "ثبت بارش‌های شدید تا ۲۰۰ لیتر بر متر مربع در منطقه",
+        "تخلیه اضطراری یک کمپینگ و یک کلوپ شبانه",
+        "مصدوم شدن سه نفر از یک خانواده بر اثر ریزش دیوار و وخامت حال یک تن"
+      ],
+      "analysis_fa": "این حادثه ناشی از سامانه‌های بارشی شدید اخیر در شرق اسپانیا است که بخش‌های وسیعی از زیرساخت‌ها را با چالش مواجه کرده و خدمات امدادی را به حالت آماده‌باش درآورده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سیل",
+        "#اسپانیا",
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "2faafef107cc",
       "source": "EL PAÍS",
       "title": "Detenidas diez personas tras disparar a la Guardia Civil durante la persecución de una narcolancha en la costa de Huelva",
@@ -1027,34 +1055,6 @@
         "#مبارزه_با_مخدر",
         "#گارد_مدنی",
         "#اوئلوا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "070881cb6692",
-      "source": "EL PAÍS",
-      "title": "Las lluvias torrenciales provocan inundaciones en Torredembarra y El Vendrell y dejan un herido crítico",
-      "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca. Tres personas de una familia han resultado heridas al caer un muro",
-      "url": "https://elpais.com/espana/catalunya/2026-08-21/proteccion-civil-mantiene-la-alerta-del-plan-inuncat-y-avisa-de-lluvias-torrenciales-en-tarragona.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QOCS6V52WFDSRB3BCULEX63DH4.jpeg?auth=9fe104862ab000ed958517951697f9b531e2a1e3ee488ca21143ac0654144137",
-      "published_at": "2026-08-22T07:40:51+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "سیل و آب‌گرفتگی شدید در توردیمبارا و ال وندرل اسپانیا",
-      "lead_fa": "بارندگی‌های شدید تا ۲۰۰ لیتر بر متر مربع در کاتالونیا باعث آب‌گرفتگی معابر و تخلیه یک کمپینگ شد. ریزش یک دیوار سه زخمی بر جای گذاشت که حال یکی از آن‌ها وخیم است.",
-      "key_points_fa": [
-        "ثبت بارش‌های شدید تا ۲۰۰ لیتر بر متر مربع در منطقه",
-        "تخلیه اضطراری یک کمپینگ و یک کلوپ شبانه",
-        "مصدوم شدن سه نفر از یک خانواده بر اثر ریزش دیوار و وخامت حال یک تن"
-      ],
-      "analysis_fa": "این حادثه ناشی از سامانه‌های بارشی شدید اخیر در شرق اسپانیا است که بخش‌های وسیعی از زیرساخت‌ها را با چالش مواجه کرده و خدمات امدادی را به حالت آماده‌باش درآورده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سیل",
-        "#اسپانیا",
-        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1121,7 +1121,7 @@
       "title": "Indignación contra el 'streamer' Aruberuto Makoto por acosar sexualmente a una joven",
       "summary": "La chica, en claro estado de embriaguez, tuvo que pedir ayuda a un transeúnte para que pararan de grabarla",
       "url": "https://www.lavanguardia.com/vida/20260821/11617891/indignacion-redes-streamer-espanol-aruberuto-makoto-acosar-sexualmente-directo-joven.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a889ca245928.r_d.750-422-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a897a51ae478.jpeg",
       "published_at": "2026-08-21T20:59:07+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1177,7 +1177,7 @@
       "title": "Las lluvias torrenciales en la Costa Daurada dejan siete heridos, uno crítico, y unos 400 evacuados",
       "summary": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
       "url": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89630f6d29e.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896da54b893.jpeg",
       "published_at": "2026-08-22T08:02:10+02:00",
       "category": "sociedad",
       "priority": 69,
@@ -1208,18 +1208,25 @@
       "url": "https://www.lavanguardia.com/economia/20260822/11618095/fracasan-negociaciones-ee-uu-canada-entran-vigor-aranceles-50.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89363c86b97.jpeg",
       "published_at": "2026-08-22T07:42:03+02:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 69,
-      "title_fa": "Las negociaciones de EE.UU. con Canadá fracasan y entran en vigor los aranceles del 50 %",
-      "lead_fa": "La medida implicará tarifas sobre 20.000 millones de dólares en productos canadienses",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "شکست مذاکرات آمریکا و کانادا و اعمال تعرفه ۵۰ درصدی",
+      "lead_fa": "مذاکرات ایالات متحده و کانادا بی‌نتیجه ماند. با شکست این گفتگوها، تعرفه‌های ۵۰ درصدی اجرایی شد.",
+      "key_points_fa": [
+        "شکست مذاکرات میان ایالات متحده و کانادا",
+        "اعمال تعرفه ۵۰ درصدی بر محصولات کانادایی",
+        "تأثیر این اقدام بر ۲۰ میلیارد دلار از کالاهای کانادایی"
       ],
-      "ai_translated": false,
+      "analysis_fa": "اعمال تعرفه‌های سنگین تجاری ابزاری است که دولت‌ها معمولاً برای فشار اقتصادی یا حمایت از تولیدات داخلی به کار می‌برند. شکست این مذاکرات نشان‌دهنده تنش‌های رو به رشد در روابط تجاری دو کشور همسایه است و می‌تواند زنجیره تأمین و تبادل کالا را در آمریکای شمالی با چالش مواجه کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#کانادا",
+        "#اقتصاد",
+        "#تعرفه"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1232,38 +1239,21 @@
       "published_at": "2026-08-22T06:32:38+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Las 18 tumbas de Ceuta",
-      "lead_fa": "La ciudad entierra por el rito musulmán a los primeros ahogados, pero no logra aplacar el enfado de la Ciudad Autónoma",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دفن نخستین غرق‌شدگان در سئوتا؛ ادامه تنش و نارضایتی مقام‌های محلی",
+      "lead_fa": "شهر سئوتا نخستین گروه از مهاجران غرق‌شده را بر اساس آیین اسلامی به خاک سپرد. این اقدام نتوانسته است خشم و نارضایتی مقامات شهر خودمختار سئوتا را کاهش دهد.",
+      "key_points_fa": [
+        "مراسم تدفین مهاجران غرق‌شده با رعایت آیین اسلامی در سئوتا برگزار شد.",
+        "مقام‌های شهر خودمختار سئوتا همچنان نسبت به وضعیت موجود ابراز نارضایتی می‌کنند."
+      ],
+      "analysis_fa": "این رویداد نشان‌دهنده چالش‌های مدیریتی و انسانی در مناطق مرزی اسپانیا است که علاوه بر ابعاد بشردوستانه، تنش‌های سیاسی و اداری میان دولت محلی و مرکزی را نیز برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سئوتا",
+        "#مهاجران",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9b234b5db870",
-      "source": "EL PAÍS",
-      "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
-      "summary": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
-      "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
-      "published_at": "2026-08-22T04:43:22+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
-      "lead_fa": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1363,16 +1353,22 @@
       "published_at": "2026-08-22T06:30:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "La moda levanta el veto al pantalón pitillo",
-      "lead_fa": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت شلوارهای جذب به دنیای مد با حمایت برندهای بزرگ",
+      "lead_fa": "برندهای مطرح مد مانند پرادا، دیور و گوچی بار دیگر شلوارهای جذب را وارد مجموعه‌های خود کرده‌اند. این در حالی است که بسیاری از مردان هیچ‌گاه این مدل را از رده خارج ندانسته بودند.",
+      "key_points_fa": [
+        "بازگشت شلوارهای جذب به باندهای مد توسط برندهای سرشناس",
+        "احیای سبکی که میان بخشی از مردان همچنان محبوب بود",
+        "تغییر دوباره روندهای پوشاک مردانه در بازارهای جهانی"
+      ],
+      "analysis_fa": "صنعت مد به‌طور مداوم در حال بازتعریف سبک‌های گذشته است. بازگشت شلوارهای جذب نشان می‌دهد که ترندها چرخشی هستند و سلیقه مصرف‌کنندگان نقش مهمی در احیای دوباره آن‌ها دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مد",
+        "#پوشاک",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1673,6 +1669,28 @@
       "priority": 68,
       "title_fa": "Ha muerto Tonet",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9b234b5db870",
+      "source": "EL PAÍS",
+      "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "summary": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+      "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/IWGOIODPSFLV5ABHTJITUHLILE.jpg?auth=c2fe43a2b4441efc2c79950b18e5741b7a63cf90f224e232c6fd0fe490a480b6",
+      "published_at": "2026-08-22T04:43:22+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+      "lead_fa": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2255,7 +2273,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91",
       "published_at": "2026-08-21T10:50:47+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
       "lead_fa": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
       "key_points_fa": [],
