@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:37:48.483690+00:00",
+  "generated_at": "2026-08-22T14:55:33.049817+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -1831,18 +1831,24 @@
       "url": "https://elpais.com/espana/2026-08-22/mujeres-y-menores-migrantes-algunas-enfermas-en-colchones-mojados-en-ceuta-esto-es-una-verguenza-son-personas-vulnerables.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206529_112928_video_1800.mp4",
       "published_at": "2026-08-22T03:45:01+00:00",
-      "category": "sociedad",
+      "category": "migracion",
       "priority": 67,
-      "title_fa": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
-      "lead_fa": "La lluvia inutiliza el precario campamento en el que los vecinos del barrio de El Príncipe protegen a unas 400 personas, muchas menores, y los vecinos critican que se haya atendido antes a hombres que a ellas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "وضعیت بحرانی زنان و کودکان مهاجر در سئوته پس از بارش باران",
+      "lead_fa": "بارش شدید باران کمپ موقت نگهداری از حدود ۴۰۰ مهاجر، از جمله کودکان و زنان بیمار را در سئوته غیرقابل استفاده کرد. ساکنان محلی از عدم رسیدگی سریع به این افراد آسیب‌پذیر انتقاد کردند.",
+      "key_points_fa": [
+        "باران شدید کمپ موقت در محله ال‌پرینسیپ را غیرقابل استفاده کرد.",
+        "حدود ۴۰۰ نفر، که بسیاری از آن‌ها کودک و زن هستند، در این کمپ حضور دارند.",
+        "ساکنان محلی نسبت به وضعیت روی تشک‌های خیس و اولویت‌بندی کمک‌ها اعتراض کردند."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این رویداد، آسیب‌پذیری زیرساخت‌های اضطراری برای اسکان مهاجران در شهرهای مرزی اسپانیا مانند سئوته را در شرایط نامساعد جوی برجسته می‌کند و فشارهای اجتماعی بر نهادهای دولتی را افزایش می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سئوته",
+        "#مهاجران",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1855,16 +1861,22 @@
       "published_at": "2026-08-22T03:45:01+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "En sentido contrario y en zigzag: las carreras ilegales de coches, un fenómeno al alza en España",
-      "lead_fa": "La Guardia Civil de Tráfico ha desmantelado en el primer semestre del año 147 competiciones ilícitas, pese al grave riesgo para los participantes y el resto de los usuarios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "افزایش مسابقات اتومبیل‌رانی غیرقانونی در جاده‌های اسپانیا",
+      "lead_fa": "گارد ملی اسپانیا از انهدام ۱۴۷ مسابقه غیرقانونی خودرویی در نیمه نخست سال جاری خبر داد. این پدیده خطرناک با وجود تهدید جدی برای رانندگان و سایر کاربران جاده در حال رشد است.",
+      "key_points_fa": [
+        "انهدام ۱۴۷ مسابقه غیرقانونی توسط گارد ملی ترافیک در نیمه اول سال",
+        "وجود خطرات جدی برای شرکت‌کنندگان و سایر شهروندان در جاده‌ها",
+        "روند رو به رشد پدیده خودروهای مسابقه‌ای غیرقانونی در اسپانیا"
+      ],
+      "analysis_fa": "افزایش مسابقات خیابانی غیرقانونی نشان‌دهنده چالش‌های نظارتی جدید برای پلیس راهنمایی و رانندگی اسپانیا است. این پدیده نیازمند بازنگری در جریمه‌ها و افزایش کنترل‌های جاده‌ای برای پیشگیری از حوادث مرگبار است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث_رانندگی",
+        "#پلیس_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1877,16 +1889,22 @@
       "published_at": "2026-08-22T03:45:01+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Cuando Cádiz era la puerta de entrada de Estados Unidos",
-      "lead_fa": "El Archivo Histórico Provincial reconstruye 250 años de relaciones del país americano con la ciudad, donde abrió uno de los primeros consulados en España",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "روایت تاریخی روابط کادیس با ایالات متحده در آرشیو استانی",
+      "lead_fa": "آرشیو تاریخی استانی کادیس نمایشگاهی از ۲۵۰ سال روابط این شهر با ایالات متحده برپا کرده است. این شهر میزبان یکی از نخستین کنسولگری‌های آمریکا در اسپانیا بوده است.",
+      "key_points_fa": [
+        "برپایی نمایشگاهی درباره روابط تاریخی کادیس و آمریکا",
+        "بازسازی ۲۵۰ سال مراودات دو طرف توسط آرشیو تاریخی استانی",
+        "کادیس به عنوان یکی از نخستین پایگاه‌های کنسولی آمریکا در اسپانیا"
+      ],
+      "analysis_fa": "این مستندات تاریخی نشان‌دهنده اهمیت استراتژیک و تجاری کادیس در مراودات بین‌المللی قرن‌های گذشته است و ابعاد تازه‌ای از دیپلماسی تاریخی اسپانیا و آمریکا را روشن می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کادیس",
+        "#تاریخ_اسپانیا",
+        "#آمریکا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
