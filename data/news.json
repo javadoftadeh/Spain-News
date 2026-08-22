@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T09:56:51.300790+00:00",
+  "generated_at": "2026-08-22T10:37:08.449284+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
-    "7a75b2481297",
     "cec326e3b9c6",
     "873669be5b5a",
-    "14f9a9eb8fc7"
+    "14f9a9eb8fc7",
+    "961058b41867"
   ],
   "items": [
     {
@@ -16,7 +16,7 @@
       "summary": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición de los populares sin escuchar antes las alegaciones del Gobierno. Y da 10 días al Ejecutivo para presentarlas",
       "url": "https://elpais.com/espana/2026-08-22/el-supremo-descarta-la-medida-urgente-del-pp-para-forzar-en-agosto-las-comparecencias-ministeriales-por-ceuta.html",
       "image": "https://imagenes.elpais.com/resizer/v2/FZ5RPB5XBROIBGESFL4ZKVTLZ4.jpg?auth=b7e8c33fe60bcd248d2d048db8c0236df11d2e7bb1a31003064686d6319c1fc0",
-      "published_at": "2026-08-22T08:42:55+00:00",
+      "published_at": "2026-08-22T10:33:14+00:00",
       "category": "politica",
       "priority": 89,
       "title_fa": "دیوان عالی اسپانیا درخواست حزب مردمی درباره بحران سئوتا را رد کرد",
@@ -34,34 +34,6 @@
         "#دیوان_عالی",
         "#سئوتا",
         "#سیاست_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7a75b2481297",
-      "source": "EL PAÍS España",
-      "title": "Los vecinos de Gátova, en Valencia, son evacuados por el incendio forestal de Segorbe",
-      "summary": "La Generalitat Valenciana solicita el apoyo de la UME para las labores de extinción de un fuego que ha quemado 423 hectáreas",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206631_174516_video_1800.mp4",
-      "published_at": "2026-08-21T13:59:40+00:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "قرنطینه اهالی گاتوا در والنسیا به دلیل دود آتش‌سوزی جنگلی",
-      "lead_fa": "دولت محلی والنسیا خواستار کمک واحد ارتش برای مهار آتش‌سوزی شد. این حریق تاکنون ۱۳۳ هکتار از اراضی را سوزانده است.",
-      "key_points_fa": [
-        "قرنطینه اهالی منطقه گاتوا به دلیل دود غلیظ آتش‌سوزی سگوربه",
-        "درخواست کمک دولت والنسیا از واحد نظامی اضطراری (UME)",
-        "وسعت اراضی سوخته‌شده به ۱۳۳ هکتار رسیده است"
-      ],
-      "analysis_fa": "آتش‌سوزی‌های جنگلی در مناطق مختلف اسپانیا به ویژه در فصل گرم سال، مقامات محلی را با چالش جدی مواجه می‌کند و استفاده از امکانات نظامی برای مهار آن‌ها به رویه‌ای رایج تبدیل شده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#آتش_سوزی",
-        "#والنسیا",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -319,6 +291,34 @@
         "#سبته",
         "#مراکش",
         "#سلطنت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "d8245bf4a4e4",
+      "source": "EL PAÍS",
+      "title": "Drones ucranios atacan por primera vez un almacén del gigante ruso del comercio electrónico Ozon",
+      "summary": "Al menos seis civiles mueren en bombardeos registrados en diversos puntos de Rusia desde el viernes por la noche",
+      "url": "https://elpais.com/internacional/2026-08-22/drones-ucranios-atacan-por-primera-vez-un-almacen-del-gigante-ruso-del-comercio-electronico-ozon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QQDRPBZXZJIR5EQQDU4VRF234U.jpg?auth=891a1dcb7b64763b6afe7dfc8462c5a3f9cb5a1337028f1954089ec337641856",
+      "published_at": "2026-08-22T10:10:06+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "حمله پهپادی اوکراین به انبار شرکت روسی",
+      "lead_fa": "برای نخستین بار یک انبار متعلق به غول تجارت الکترونیک روسیه هدف پهپادهای اوکراینی قرار گرفت. همزمان، حملات پراکنده در نقاط مختلف روسیه از جمعه شب دست‌کم شش کشته غیرنظامی بر جای گذاشت.",
+      "key_points_fa": [
+        "حمله پهپادی اوکراین به انبار شرکت تجارت الکترونیک روس اوزون",
+        "کشته شدن دست‌کم شش غیرنظامی در بمباران‌های مناطق مختلف روسیه از جمعه شب",
+        "گسترش دامنه حملات پهپادی به زیرساخت‌های تجاری و اقتصادی داخل روسیه"
+      ],
+      "analysis_fa": "این حملات نشان‌دهنده تغییر یا گسترش اهداف پهپادی در داخل خاک روسیه است که علاوه بر تأسیسات نظامی، زیرساخت‌های تجاری و لجستیکی را نیز در بر می‌گیرد و می‌تواند بر زنجیره تأمین داخلی روسیه تأثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اوکراین",
+        "#روسیه",
+        "#پهپاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1003,10 +1003,39 @@
       "editorial_version": 2
     },
     {
+      "id": "2faafef107cc",
+      "source": "EL PAÍS",
+      "title": "Detenidas diez personas tras disparar a la Guardia Civil durante la persecución de una narcolancha en la costa de Huelva",
+      "summary": "Es el enésimo episodio donde los delincuentes utilizan armas de fuego contra las fuerzas de seguridad que luchan contra el tráfico de drogas en Andalucía",
+      "url": "https://elpais.com/espana/2026-08-22/detenidas-diez-personas-tras-disparar-a-la-guardia-civil-durante-la-persecucion-de-una-narcolancha-en-la-costa-de-huelva.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZL7WKNTWENDLPELW55M3SMYKQY.jpg?auth=bf25d9517635ac107dc12359ca47f1ba5fefa7ad2cf2d6892c2e250f2a2decb3",
+      "published_at": "2026-08-22T10:08:33+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "بازداشت ده نفر پس از تیراندازی به گارد مدنی در سواحل اوئلوا",
+      "lead_fa": "نیروهای امنیتی اسپانیا طی تعقیب و گریز یک قاچاق‌بر مواد مخدر در سواحل اوئلوا بازداشت شدند. این حادثه در پی تیراندازی مجرمان به سمت ماموران گارد مدنی رخ داده است.",
+      "key_points_fa": [
+        "ده نفر در ارتباط با تیراندازی به گارد مدنی دستگیر شدند.",
+        "این رویداد در جریان تعقیب یک قایق حامل مواد مخدر (نارکلانچا) به وقوع پیوست.",
+        "استفاده از سلاح گرم علیه نیروهای امنیتی در منطقه آندلس بارها گزارش شده است."
+      ],
+      "analysis_fa": "افزایش درگیری‌های مسلحانه میان قاچاقچیان مواد مخدر و نیروهای امنیتی در سواحل جنوبی اسپانیا، به‌ویژه در آندلس، چالشی جدی برای نهادهای انتظامی ایجاد کرده است و نشان‌دهنده خشونت فزاینده در فعالیت‌های باندهای قاچاق است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مبارزه_با_مخدر",
+        "#گارد_مدنی",
+        "#اوئلوا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "070881cb6692",
       "source": "EL PAÍS",
-      "title": "Las lluvias torrenciales provocan inundaciones en bajos y calles en Torredembarra y El Vendrell",
-      "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca. Tres personas de una familia han resultado heridas, una crítica, al caer un muro",
+      "title": "Las lluvias torrenciales provocan inundaciones en Torredembarra y El Vendrell y dejan un herido crítico",
+      "summary": "Las fuertes precipitaciones, de hasta 200 litros por metro cuadrado, han obligado a evacuar un camping y una discoteca. Tres personas de una familia han resultado heridas al caer un muro",
       "url": "https://elpais.com/espana/catalunya/2026-08-21/proteccion-civil-mantiene-la-alerta-del-plan-inuncat-y-avisa-de-lluvias-torrenciales-en-tarragona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QOCS6V52WFDSRB3BCULEX63DH4.jpeg?auth=9fe104862ab000ed958517951697f9b531e2a1e3ee488ca21143ac0654144137",
       "published_at": "2026-08-22T07:40:51+00:00",
@@ -1143,53 +1172,32 @@
       "editorial_version": 2
     },
     {
-      "id": "f9ac27589d0d",
-      "source": "EL PAÍS España",
-      "title": "Mohamed VI y Felipe VI, una relación fraternal menos directa que la entretejida por sus padres",
-      "summary": "Frente a la monarquía de perfil más ejecutivo de Rabat, el rey de España se ve supeditado a la primacía constitucional del Gobierno. Ambos soberanos se conocen desde la infancia",
-      "url": "https://elpais.com/espana/2026-08-21/mohamed-vi-y-felipe-vi-una-relacion-fraternal-menos-directa-que-la-entretejida-por-sus-padres.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WVBN3VGENJC5VO5QW7FQOXUA6A.jpg?auth=30e961614bc9308488f2d35951a5ffb8a852e7621ac0727d08f323ee909c00f2",
-      "published_at": "2026-08-21T03:30:01+00:00",
-      "category": "politica",
-      "priority": 70,
-      "title_fa": "روابط پادشاهان اسپانیا و مراکش در سایه نهادهای سیاسی",
-      "lead_fa": "پادشاهان اسپانیا و مراکش از دوران کودکی یکدیگر را می‌شناسند. با این حال، روابط آن‌ها به اندازه ارتباط پدرانشان مستقیم و نزدیک نیست.",
-      "key_points_fa": [
-        "پادشاه مراکش رویکردی اجرایی‌تر در قدرت دارد.",
-        "پادشاه اسپانیا تحت لوای اولویت‌های قانون اساسی دولت فعالیت می‌کند.",
-        "دو پادشاه از کودکی با یکدیگر آشنایی دارند."
-      ],
-      "analysis_fa": "تفاوت در ساختارهای سیاسی دو کشور نقش مهمی در نحوه تعامل پادشاهان آن‌ها ایفا می‌کند. نظام پادشاهی در مراکش اختیارات اجرایی برجسته‌تری به پادشاه می‌دهد، در حالی که پادشاه اسپانیا به عنوان رئیس کشور تابع تصمیمات دولت و چارچوب قانون اساسی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مراکش",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7caf25d77e22",
       "source": "La Vanguardia",
       "title": "Las lluvias torrenciales en la Costa Daurada dejan siete heridos, uno crítico, y unos 400 evacuados",
       "summary": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
       "url": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896da54b893.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89630f6d29e.jpeg",
       "published_at": "2026-08-22T08:02:10+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Las lluvias torrenciales en la Costa Daurada dejan siete heridos, uno crítico, y unos 400 evacuados",
-      "lead_fa": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "باران‌های سیل‌آسا در کاستا دورادا؛ ۷ زخمی و ۴۰۰ تخلیه",
+      "lead_fa": "باران‌های شدید در نواحی ساحلی کاتالونیا خسارت به بار آورد. این حادثه هفت مجروح و حدود چهارصد تخلیه برجای گذاشت.",
+      "key_points_fa": [
+        "ثبت بیش از ۲۰۰ لیتر باران بر متر مربع در بایش پندس طی چند ساعت",
+        "ثبت بیش از ۱۱۰ لیتر باران بر متر مربع در شمال تاراگونس",
+        "هفت مصدوم که حال یکی از آن‌ها وخیم گزارش شده است",
+        "تخلیه اضطرابی حدود ۴۰۰ نفر از ساکنان منطقه"
       ],
-      "ai_translated": false,
+      "analysis_fa": "بارش‌های ناگهانی و سیل‌آسا در مناطق ساحلی اسپانیا بار دیگر آسیب‌پذیری زیرساخت‌ها در برابر پدیده‌های جوی شدید را برجسته کرده است. انباشت حجم بالایی از آب در زمان کوتاه، سیستم‌های زهکشی محلی را با چالش جدی مواجه ساخته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سیل_اسپانیا",
+        "#کاستادورادا",
+        "#باران_شدید"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1215,281 +1223,17 @@
       "editorial_version": 2
     },
     {
-      "id": "21ad656c8b8c",
-      "source": "La Vanguardia",
-      "title": "La moda levanta el veto al pantalón pitillo",
-      "summary": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
-      "url": "https://www.lavanguardia.com/magazine/moda/20260822/11617510/moda-levanta-veto-pantalon-pitillo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87fa8596271.r_d.498-339-0.jpeg",
-      "published_at": "2026-08-22T06:30:00+02:00",
+      "id": "b0976b480b1d",
+      "source": "EL PAÍS España",
+      "title": "Las 18 tumbas de Ceuta",
+      "summary": "La ciudad entierra por el rito musulmán a los primeros ahogados, pero no logra aplacar el enfado de la Ciudad Autónoma",
+      "url": "https://elpais.com/espana/2026-08-22/las-18-tumbas-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NQMA45MU6FOVNMNQICJ2UO34SQ.jpg?auth=9238fe9c3e625123c8062eeff632fa69e9e42f860827dc77d9bd0f28b44c92d6",
+      "published_at": "2026-08-22T06:32:38+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La moda levanta el veto al pantalón pitillo",
-      "lead_fa": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3ba0d4e6a90d",
-      "source": "La Vanguardia",
-      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8802c7b4769.r_d.1042-980-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0202221eeb44",
-      "source": "La Vanguardia",
-      "title": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
-      "summary": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
-      "url": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e815d685b.r_d.438-497-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
-      "lead_fa": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a948d861df79",
-      "source": "La Vanguardia",
-      "title": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
-      "summary": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617894/mas-pelea-petanca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a889c8b19e4c.r_d.1990-1145-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
-      "lead_fa": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2830dfb51152",
-      "source": "La Vanguardia",
-      "title": "Lo de Assumpta Serna",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83385a868e9.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Lo de Assumpta Serna",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d55bf3ca1af2",
-      "source": "La Vanguardia",
-      "title": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
-      "summary": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
-      "url": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260822/11599154/egoista-solitario-malcriado-ciencia-desmiente-estereotipos-sobre-hijos-unicos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/06/02/665c4af34afbf.r_d.1398-932-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
-      "lead_fa": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "adaa6e026ea4",
-      "source": "La Vanguardia",
-      "title": "Los robots irrumpen en el K-pop",
-      "summary": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
-      "url": "https://www.lavanguardia.com/tecnologia/20260822/11617850/robot.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a888366e4ade.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Los robots irrumpen en el K-pop",
-      "lead_fa": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e84b70bf4d43",
-      "source": "La Vanguardia",
-      "title": "¿Casualidad o causalidad?",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/cultura/20260822/11617861/casualidad-causalidad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8886e044a86.r_d.2880-1920-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "¿Casualidad o causalidad?",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "63734871ad03",
-      "source": "La Vanguardia",
-      "title": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
-      "summary": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
-      "url": "https://www.lavanguardia.com/cultura/20260822/11617890/arnold-schoenberg-genio-barcelona-encontro-clima-asma-bronquial.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8899b5223ed.r_d.1048-632-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
-      "lead_fa": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "216695897ff8",
-      "source": "La Vanguardia",
-      "title": "El santo que Nápoles no piensa enterrar",
-      "summary": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617807/santo-napoles-piensa-enterrar.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a886b08e2447.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El santo que Nápoles no piensa enterrar",
-      "lead_fa": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4f983f3cfc61",
-      "source": "La Vanguardia",
-      "title": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
-      "summary": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260822/11604557/jose-luis-olmo-71-anos-incapaz-talento-excepcional-deportista-extraordinario-capacidad-esfuerzo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b5794522c9.r_d.962-445-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
-      "lead_fa": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "062eebbab6ae",
-      "source": "La Vanguardia",
-      "title": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
-      "summary": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617854/delta-ebro-revierte-caos-regulacion-aparcamiento.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8889f6d7e1c.r_d.1567-1159-0.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
-      "lead_fa": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6796ac23329",
-      "source": "La Vanguardia",
-      "title": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
-      "summary": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
-      "url": "https://www.lavanguardia.com/cultura/20260822/11617903/teatro-josep-maria-miro-aterriza-nueva-york-cos-mes-bonic-off-broadway.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88a0635ff3a.jpeg",
-      "published_at": "2026-08-22T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
-      "lead_fa": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
+      "title_fa": "Las 18 tumbas de Ceuta",
+      "lead_fa": "La ciudad entierra por el rito musulmán a los primeros ahogados, pero no logra aplacar el enfado de la Ciudad Autónoma",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1520,35 +1264,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b087fd31b155",
-      "source": "EL PAÍS España",
-      "title": "El reventón térmico de Valencia que barrió Alzira: “Llegó un diluvio de agua y viento que no hemos conocido”",
-      "summary": "Los municipios valencianos afectados por el frente de tormentas del jueves evalúan los daños y tratan de recuperar la normalidad",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/el-reventon-termico-de-valencia-que-barrio-alzira-llego-un-diluvio-de-agua-y-viento-que-no-hemos-conocido.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2SN33B5QJZEDDCDG46ZRK4AW4U.jpg?auth=01109b3bbe9c558c32a2c41a2029b560b0dc2201922d3fc35aba11cd9a5aa416",
-      "published_at": "2026-08-21T16:22:59+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "طوفان شدید و پدیده گرمایی در والنسیا؛ خسارت‌سنجی در شهرها",
-      "lead_fa": "شهرداری‌های والنسیا پس از طوفان شدید روز پنج‌شنبه در حال ارزیابی خسارت‌ها هستند. ساکنان مناطق آسیب‌دیده می‌گویند شرایط جوی بی‌سابقه‌ای را تجربه کرده‌اند.",
-      "key_points_fa": [
-        "بروز پدیده گرمایی و طوفان شدید در مناطق والنسیا",
-        "آغاز ارزیابی خسارت‌های ناشی از باران و باد شدید در شهرهای آسیب‌دیده",
-        "تلاش نهادهای محلی برای بازگرداندن شرایط به حالت عادی"
-      ],
-      "analysis_fa": "وقوع پدیده‌های جوی شدید مانند طوفان‌های ناگهانی در مناطق مختلف اسپانیا چالش‌های جدی برای زیرساخت‌ها و مدیریت بحران محلی ایجاد می‌کند. مقامات در تلاش هستند تا ضمن برآورد خسارت‌ها، آمادگی بیشتری برای مقابله با چنین حوادث آب‌وهوایی پیدا کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#والنسیا",
-        "#طوفان",
-        "#حوادث"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1639,6 +1354,292 @@
       "editorial_version": 2
     },
     {
+      "id": "21ad656c8b8c",
+      "source": "La Vanguardia",
+      "title": "La moda levanta el veto al pantalón pitillo",
+      "summary": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
+      "url": "https://www.lavanguardia.com/magazine/moda/20260822/11617510/moda-levanta-veto-pantalon-pitillo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a87fa8596271.r_d.498-339-0.jpeg",
+      "published_at": "2026-08-22T06:30:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La moda levanta el veto al pantalón pitillo",
+      "lead_fa": "Prada, Dior o Gucci recuperan una silueta que muchos hombres nunca consideraron pasada de moda",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3ba0d4e6a90d",
+      "source": "La Vanguardia",
+      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8802c7b4769.r_d.1042-980-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0202221eeb44",
+      "source": "La Vanguardia",
+      "title": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
+      "summary": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
+      "url": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a86e815d685b.r_d.438-497-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
+      "lead_fa": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a948d861df79",
+      "source": "La Vanguardia",
+      "title": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
+      "summary": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617894/mas-pelea-petanca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a889c8b19e4c.r_d.1990-1145-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
+      "lead_fa": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2830dfb51152",
+      "source": "La Vanguardia",
+      "title": "Lo de Assumpta Serna",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a83385a868e9.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Lo de Assumpta Serna",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d55bf3ca1af2",
+      "source": "La Vanguardia",
+      "title": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
+      "summary": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
+      "url": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260822/11599154/egoista-solitario-malcriado-ciencia-desmiente-estereotipos-sobre-hijos-unicos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/06/02/665c4af34afbf.r_d.1398-932-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
+      "lead_fa": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "adaa6e026ea4",
+      "source": "La Vanguardia",
+      "title": "Los robots irrumpen en el K-pop",
+      "summary": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
+      "url": "https://www.lavanguardia.com/tecnologia/20260822/11617850/robot.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a888366e4ade.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Los robots irrumpen en el K-pop",
+      "lead_fa": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e84b70bf4d43",
+      "source": "La Vanguardia",
+      "title": "¿Casualidad o causalidad?",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617861/casualidad-causalidad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8886e044a86.r_d.2880-1920-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "¿Casualidad o causalidad?",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "63734871ad03",
+      "source": "La Vanguardia",
+      "title": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
+      "summary": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617890/arnold-schoenberg-genio-barcelona-encontro-clima-asma-bronquial.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8899b5223ed.r_d.1048-632-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "Schönberg, el genio que encontró en Barcelona algo más que un clima benigno para su asma",
+      "lead_fa": "Llega de Berlín para pasar el invierno de 1931: juega al tenis, compone ‘Moses und Aron’ y nace su hija, Núria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "216695897ff8",
+      "source": "La Vanguardia",
+      "title": "El santo que Nápoles no piensa enterrar",
+      "summary": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617807/santo-napoles-piensa-enterrar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a886b08e2447.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El santo que Nápoles no piensa enterrar",
+      "lead_fa": "Hay ciudades que levantan estatuas a sus héroes. Nápoles hizo algo más extraordinario: decidió que uno de ellos nunca moriría: Diego Armando Maradona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4f983f3cfc61",
+      "source": "La Vanguardia",
+      "title": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
+      "summary": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260822/11604557/jose-luis-olmo-71-anos-incapaz-talento-excepcional-deportista-extraordinario-capacidad-esfuerzo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b5794522c9.r_d.962-445-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "José Luis del Olmo, 71 años: “Soy incapaz de estar sin hacer nada; no tengo un talento excepcional ni soy un deportista extraordinario, pero tengo capacidad de esfuerzo”",
+      "lead_fa": "Profesor emérito y doctor en Comunicación especializado en moda, Del Olmo ha compaginado durante toda su vida la docencia y la investigación con una curiosidad inagotable que le ha llevado a correr maratones, cantar en coros, pintar, escribir libros y seguir embarcándose en nuevos retos pasados los 70",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "062eebbab6ae",
+      "source": "La Vanguardia",
+      "title": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
+      "summary": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11617854/delta-ebro-revierte-caos-regulacion-aparcamiento.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8889f6d7e1c.r_d.1567-1159-0.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "El delta del Ebro revierte el caos con la regulación del aparcamiento",
+      "lead_fa": "Stop a la ocupación sin control del espacio natural con coches y autocaravanas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6796ac23329",
+      "source": "La Vanguardia",
+      "title": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
+      "summary": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
+      "url": "https://www.lavanguardia.com/cultura/20260822/11617903/teatro-josep-maria-miro-aterriza-nueva-york-cos-mes-bonic-off-broadway.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88a0635ff3a.jpeg",
+      "published_at": "2026-08-22T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El teatro de Josep Maria Miró aterriza en inglés en Nueva York",
+      "lead_fa": "Rachel Crowl dará vida en octubre en un teatro del Off-Broadway a la adaptación de ‘El cos més bonic que s'haurà trobat mai en aquest lloc’",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "738cb57c13ab",
       "source": "La Vanguardia",
       "title": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
@@ -1688,7 +1689,7 @@
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
       "summary": "La lluvia inutiliza el precario campamento en el que los vecinos del barrio de El Príncipe protegen a unas 400 personas, muchas menores, y los vecinos critican que se haya atendido antes a hombres que a ellas",
       "url": "https://elpais.com/espana/2026-08-22/mujeres-y-menores-migrantes-algunas-enfermas-en-colchones-mojados-en-ceuta-esto-es-una-verguenza-son-personas-vulnerables.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HWWQZWPDSVFMDAUTDQHNZB7FJE.jpg?auth=60e5c8f465f8c2308d897f68b1c82ec4f3990bbd09a99eda8a231eafe4190fe9",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206529_112928_video_1800.mp4",
       "published_at": "2026-08-22T03:45:01+00:00",
       "category": "sociedad",
       "priority": 68,
@@ -1842,7 +1843,7 @@
       "title": "Wafae Atid y el inmenso placer de dormir en la calle",
       "summary": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
       "url": "https://elpais.com/opinion/2026-08-22/wafae-atid-y-el-inmenso-placer-de-dormir-en-la-calle.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5YFJ2ELSEVEAROM6ZA65E2CVRY.jpg?auth=5a070537e509de133ea62b51b936aa55e7d94c7eb22059bb3d379beddc997fcf",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206332_193020_video_1800.mp4",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
       "priority": 68,
@@ -1991,50 +1992,6 @@
       "editorial_version": 2
     },
     {
-      "id": "95b6080ecb13",
-      "source": "EL PAÍS",
-      "title": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
-      "summary": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
-      "url": "https://elpais.com/espana/catalunya/2026-08-22/interior-se-prepara-para-el-relevo-clave-del-jefe-de-los-mossos-despues-de-las-tensiones-por-las-infiltraciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CEFSHSZPRBBFZGAGAV6I4KU7NE.jpg?auth=ccc5b8f35bee3d1d20b56326584063358fb8f5e002e8d47b259e6f545b3d8226",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
-      "lead_fa": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3f3f6f6e3190",
-      "source": "EL PAÍS",
-      "title": "Angélique Kidjo, la artista que cambió cómo el mundo escucha a África, tiene una estrella en Hollywood",
-      "summary": "La primera artista africana negra en ser reconocida en el Paseo de la Fama lleva más de cuatro décadas demostrando que la música del continente nunca necesitó adaptarse para ser universal",
-      "url": "https://elpais.com/planeta-futuro/2026-08-22/angelique-kidjo-la-artista-que-cambio-como-el-mundo-escucha-a-africa-tiene-una-estrella-en-hollywood.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T3TXNCDDRBFVFDOXQS3XWM2GGY.jpg?auth=8d6d7bf5c5e22343e2609509d720922a893acbb5136fc48b7aada7ec9a9f94a3",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 68,
-      "title_fa": "Angélique Kidjo, la artista que cambió cómo el mundo escucha a África, tiene una estrella en Hollywood",
-      "lead_fa": "La primera artista africana negra en ser reconocida en el Paseo de la Fama lleva más de cuatro décadas demostrando que la música del continente nunca necesitó adaptarse para ser universal",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3f5812f09076",
       "source": "EL PAÍS",
       "title": "Benjamin Moser: “Muchos países se opusieron al nazismo. ¿Quién se opone a Netanyahu? Solo Pedro Sánchez”",
@@ -2046,6 +2003,28 @@
       "priority": 68,
       "title_fa": "Benjamin Moser: “Muchos países se opusieron al nazismo. ¿Quién se opone a Netanyahu? Solo Pedro Sánchez”",
       "lead_fa": "Tras publicar las biografías de las escritoras Clarice Lispector y Susan Sontag (esta última premiada con el Pulitzer), este historiador del arte recoge en ‘El mundo del revés’ las vidas, y los equívocos, de los pintores del Siglo de Oro holandés. El resultado le da la vuelta a parte de la historia",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "95b6080ecb13",
+      "source": "EL PAÍS",
+      "title": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
+      "summary": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
+      "url": "https://elpais.com/espana/catalunya/2026-08-22/interior-se-prepara-para-el-relevo-clave-del-jefe-de-los-mossos-despues-de-las-tensiones-por-las-infiltraciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CEFSHSZPRBBFZGAGAV6I4KU7NE.jpg?auth=ccc5b8f35bee3d1d20b56326584063358fb8f5e002e8d47b259e6f545b3d8226",
+      "published_at": "2026-08-22T03:30:01+00:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "Interior se prepara para el relevo clave del jefe de los Mossos después de las tensiones por las infiltraciones",
+      "lead_fa": "La jubilación del actual comisario, que se retira en octubre, obliga a una reestructuración de la cúpula de la policía catalana",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2189,28 +2168,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1fbc09b4180d",
-      "source": "EL PAÍS",
-      "title": "La palabra pija",
-      "summary": "El castellano ofrece estas delicias: decir, digamos, una cosa sabiendo que al mismo tiempo dices otra",
-      "url": "https://elpais.com/eps/2026-08-22/la-palabra-pija.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZHI7UZMNPRFWHPS2GYKZURBBZI.jpg?auth=1fd3d6b2d362861f21f9a1c697ce3034e6e5a2a0050d3c790383116632c209db",
-      "published_at": "2026-08-22T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La palabra pija",
-      "lead_fa": "El castellano ofrece estas delicias: decir, digamos, una cosa sabiendo que al mismo tiempo dices otra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5176e180654a",
       "source": "La Vanguardia",
       "title": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
@@ -2219,7 +2176,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8879852bbdd.r_d.3900-2286-0.jpeg",
       "published_at": "2026-08-22T00:05:00+02:00",
       "category": "deportes",
-      "priority": 67,
+      "priority": 66,
       "title_fa": "“Lo importante en magia no pasa en mis manos sino en su cerebro”",
       "lead_fa": "Tengo 41 años y ya me interesa tanto entretener como aprender y educar. Nací en Barcelona, ciudad que está perdiendo magia por el exceso de éxito: vivo junto al Park Güell. Quiero irme a vivir a un pueblo, pero hago un programa semanal en Betevé. Publico con Carme Escales ‘Màgia per a cada dia’ con trucos sencillos. (Foto: Àlex Garcia)",
       "key_points_fa": [],
@@ -2320,7 +2277,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
       "published_at": "2026-08-21T10:32:15+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
       "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
@@ -2342,7 +2299,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/02/05/65c0eadab09f8.r_d.265-153-0.jpeg",
       "published_at": "2026-08-21T06:30:00+02:00",
       "category": "deportes",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "El último, centenario y truculento viaje de Ildefons Cerdà, el autor de Barcelona",
       "lead_fa": "El ingeniero que ideó el Eixample murió en un balneario de Cantabria",
       "key_points_fa": [],
@@ -2517,7 +2474,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 148
+      "count": 149
     },
     {
       "source": "EL PAÍS España",
