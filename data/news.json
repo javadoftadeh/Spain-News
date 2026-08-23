@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:59:23.083413+00:00",
+  "generated_at": "2026-08-23T13:42:08.600452+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -438,7 +438,7 @@
     {
       "id": "2a79c4d1eea2",
       "source": "EL PAÍS",
-      "title": "Estabilizado el incendio forestal de Segorbe tras calcinar 630 hectáreas de la Sierra Calderona: “Se nos ha quemado nuestro pulmón verde”, lamenta el alcalde de Gátova",
+      "title": "Estabilizado el incendio forestal de Segorbe tras calcinar 630 hectáreas: “Se nos ha quemado nuestro pulmón verde”, lamenta el alcalde de Gátova",
       "summary": "El millar de vecinos desalojados el pasado viernes de la localidad valenciana pueden regresar a sus casas desde este domingo pero deberán de permanecer confinados",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-23/estabilizado-el-incendio-forestal-de-segorbe-tras-calcinar-630-hectareas-en-la-sierra-calderona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/5EURV55TUZFPRM2UWF422YTGBI.jpg?auth=12454b09ab5ab098068a2c64e774848fe4417b7461328bd48078d12784219edc",
@@ -663,6 +663,34 @@
       "editorial_version": 2
     },
     {
+      "id": "b4c171b661e1",
+      "source": "EL PAÍS",
+      "title": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
+      "summary": "El presidente andaluz justifica la petición en “escalada de inseguridad” por las mafias que operan en la comunidad tras los recientes asesinatos en ajustes de cuentas",
+      "url": "https://elpais.com/espana/2026-08-23/moreno-pide-al-gobierno-que-reactive-la-unidad-de-la-guardia-civil-contra-el-narcotrafico.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EUB3PUKNOROFJFVV5OVDUSDHTE.jpg?auth=e3c2e84f388f67b6c35dd664b05bacb278d228f5d8ea67e0d5272c7ee35af4f4",
+      "published_at": "2026-08-23T13:17:26+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "درخواست رئیس منطقه اندلس برای احیای واحد مبارزه با مواد مخدر",
+      "lead_fa": "رئیس دولت محلی اندلس از دولت مرکزی خواست واحد ویژه گارد ملی را دوباره فعال کند. او این درخواست را به دلیل افزایش ناامنی ناشی از فعالیت باندهای قاچاق مطرح کرده است.",
+      "key_points_fa": [
+        "درخواست مشخص رئیس اندلس از دولت مرکزی اسپانیا",
+        "اشاره به تشدید ناامنی و فعالیت مافیای مواد مخدر در بخش‌های مختلف",
+        "تاکید بر لزوم تقویت واحدهای تخصصی گارد ملی"
+      ],
+      "analysis_fa": "این درخواست در واکنش به چالش‌های امنیتی مرتبط با قاچاق مواد مخدر در مناطق جنوبی اسپانیا مطرح شده است. احیای واحدهای تخصصی بار دیگر بحث درباره تخصیص منابع و کارآمدی سیاست‌های امنیتی دولت مرکزی در مناطق مرزی و بندری را برجسته کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اندلس",
+        "#موادمخدر"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "aa54c543fa17",
       "source": "La Vanguardia",
       "title": "Buscan a un empresario español que cayó de su barco entre Sicilia y Grecia",
@@ -686,34 +714,6 @@
         "#اسپانیا",
         "#حوادث",
         "#مدیترانه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b4c171b661e1",
-      "source": "EL PAÍS",
-      "title": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
-      "summary": "El presidente andaluz justifica la petición en “escalada de inseguridad” por las mafias que operan en la comunidad tras los recientes asesinatos en ajustes de cuentas",
-      "url": "https://elpais.com/espana/2026-08-23/moreno-pide-al-gobierno-que-reactive-la-unidad-de-la-guardia-civil-contra-el-narcotrafico.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EUB3PUKNOROFJFVV5OVDUSDHTE.jpg?auth=e3c2e84f388f67b6c35dd664b05bacb278d228f5d8ea67e0d5272c7ee35af4f4",
-      "published_at": "2026-08-23T09:47:57+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "درخواست رئیس منطقه اندلس برای احیای واحد مبارزه با مواد مخدر",
-      "lead_fa": "رئیس دولت محلی اندلس از دولت مرکزی خواست واحد ویژه گارد ملی را دوباره فعال کند. او این درخواست را به دلیل افزایش ناامنی ناشی از فعالیت باندهای قاچاق مطرح کرده است.",
-      "key_points_fa": [
-        "درخواست مشخص رئیس اندلس از دولت مرکزی اسپانیا",
-        "اشاره به تشدید ناامنی و فعالیت مافیای مواد مخدر در بخش‌های مختلف",
-        "تاکید بر لزوم تقویت واحدهای تخصصی گارد ملی"
-      ],
-      "analysis_fa": "این درخواست در واکنش به چالش‌های امنیتی مرتبط با قاچاق مواد مخدر در مناطق جنوبی اسپانیا مطرح شده است. احیای واحدهای تخصصی بار دیگر بحث درباره تخصیص منابع و کارآمدی سیاست‌های امنیتی دولت مرکزی در مناطق مرزی و بندری را برجسته کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اندلس",
-        "#موادمخدر"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1283,6 +1283,34 @@
       "editorial_version": 2
     },
     {
+      "id": "824c29017718",
+      "source": "La Vanguardia",
+      "title": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok sin que nadie sepa cómo",
+      "summary": "Ja joven inglesa de 16 años sumó más de 800.000 seguidores en TikTok en apenas dos semanas",
+      "url": "https://www.lavanguardia.com/vida/20260823/11618558/ellie-ellis-adolescente-conquistado-algoritmo-tiktok-nadie-como.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8ae98ecf160.r_d.2856-2142-0.jpeg",
+      "published_at": "2026-08-23T14:47:47+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "دختر نوجوان بریتانیایی؛ رکوردشکنی مرموز در تیک‌تاک",
+      "lead_fa": "یک نوجوان ۱۶ ساله اهل بریتانیا موفق شد در مدت زمان کوتاه دو هفته بیش از ۸۰۰ هزار دنبال‌کننده در شبکه اجتماعی تیک‌تاک جذب کند. این رشد سریع بدون هیچ توضیح مشخصی درباره نحوه کارکرد الگوریتم توجه کاربران را جلب کرده است.",
+      "key_points_fa": [
+        "افزایش بیش از ۸۰۰ هزار دنبال‌کننده در دو هفته",
+        "سن این کاربر جوان ۱۶ سال است",
+        "ابهام در نحوه فعالیت و موفقیت ناگهانی در الگوریتم تیک‌تاک"
+      ],
+      "analysis_fa": "رشد ناگهانی حساب‌های کاربری در شبکه‌های اجتماعی مانند تیک‌تاک بار دیگر توجه کارشناسان را به سوی الگوریتم‌های توزیع محتوا جلب کرده است. این پدیده‌ها نشان می‌دهند که چگونه فعالیت افراد بدون برنامه‌ریزی قبلی یا استراتژی‌های پیچیده بازاریابی می‌تواند به شکلی ویروسی در سطح جهانی دیده شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#تیک‌تاک",
+        "#مشبک_اجتماعی",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "66d855261fd9",
       "source": "La Vanguardia",
       "title": "Un grupo de intelectuales piden la liberación del periodista argelino Ayoub Aïssiou",
@@ -1313,11 +1341,11 @@
     {
       "id": "bb34f0957e7f",
       "source": "EL PAÍS",
-      "title": "GP de Países Bajos en directo, la carrera de Fórmula 1 en vivo",
-      "summary": "Lando Norris tratará de defender la ‘pole’ conseguida el sábado ante el empuje de los Mercedes de Russell y Antonelli, el líder del Mundial",
+      "title": "GP de Países Bajos en directo | Se reanuda la carrera tras la bandera roja provocada por un accidente de Verstappen",
+      "summary": "El piloto holandés perdió el control del monoplaza en la última curva del circuito tras la primera vuelta y se fue contra el muro | Lando Norris tratará de defender la ‘pole’ conseguida el sábado ante el empuje de los Mercedes de Russell y Antonelli, el líder del Mundial",
       "url": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/YGYGANVM7RI43IM5I4GSJKPTQM.jpg?auth=956c9c602ade5bd49f70417512ffef8123f782fa92d3fbca0a05f61744060440",
-      "published_at": "2026-08-23T12:55:06+00:00",
+      "published_at": "2026-08-23T13:36:46+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "گراند پری هلند؛ لندو نوریس در خط نخست مسابقه فرمول یک",
@@ -1443,34 +1471,6 @@
       "hashtags_fa": [
         "#اسپانیا",
         "#جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "2965d7f1c214",
-      "source": "La Vanguardia",
-      "title": "Buffalo Bill, Stendhal, Einstein, Chopin…",
-      "summary": "El hotel Cuatro Naciones, en la Rambla, conserva el salón y la escalera que acogieron a decenas de ilustres huéspedes en sus 300 años de historia, en los que pasó del lujo y el esplendor a la sobriedad actual de un dos estrellas",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11617603/buffalo-bill-stendhal-einstein-chopin.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8820f212a17.r_d.1648-1377-0.jpeg",
-      "published_at": "2026-08-23T00:05:00+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "تاریخ ۳۰۰ ساله هتلی در بارسلونا که میزبان چهره‌های نامدار بود",
-      "lead_fa": "هتل کواترو ناسیونس در لا رمبلا بارسلونا ۳۰۰ سال تاریخ را پشت سر گذاشته است. این مکان در گذشته میزبان شخصیت‌های برجسته و مشهوری بوده است.",
-      "key_points_fa": [
-        "این هتل در طول سه قرن فعالیت خود میزبان چهره‌هایی مانند بوفالو بیل، استاندال، اینشتین و شوپن بوده است.",
-        "ساختمان این هتل هنوز سالن و راه‌پله تاریخی خود را حفظ کرده است.",
-        "این هتل از دوران لوکس و پرشکوه خود به وضعیت ساده کنونی به عنوان یک هتل دو ستاره رسیده است."
-      ],
-      "analysis_fa": "حفظ بناهای تاریخی با پیشینه طولانی در شهرهای گردشگری مانند بارسلونا، بخشی از هویت شهری و فرهنگی محسوب می‌شود. تغییر کاربری یا افت کیفیت خدمات این اماکن در طول زمان، بازتابی از تحولات اقتصادی و گردشگری شهرهاست.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#گردشگری",
-        "#تاریخ_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1844,28 +1844,6 @@
       "editorial_version": 2
     },
     {
-      "id": "41efa9cff9a1",
-      "source": "La Vanguardia",
-      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
-      "summary": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
-      "url": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89ab2eabd3f.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
-      "lead_fa": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "1f7c5fb24ac1",
       "source": "La Vanguardia",
       "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
@@ -1895,6 +1873,35 @@
       "editorial_version": 2
     },
     {
+      "id": "41efa9cff9a1",
+      "source": "La Vanguardia",
+      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
+      "summary": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
+      "url": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89ab2eabd3f.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "جنجال بزرگترین استخر موج اروپا در مادرید بر سر مصرف آب",
+      "lead_fa": "گروه‌های محیط‌زیستی در مادرید به ساخت بزرگترین استخر موج اروپا اعتراض کردند. آن‌ها نسبت به مصرف بالای آب آشامیدنی توسط این پروژه هشدار دادند.",
+      "key_points_fa": [
+        "اعتراض گروه‌های محیط‌زیستی به پروژه استخر موج در مادرید",
+        "نگرانی از میزان بالای مصرف آب آشامیدنی توسط این تأسیسات",
+        "انتقاد به اولویت‌بندی مصرف منابع آبی در شرایط خشکسالی"
+      ],
+      "analysis_fa": "این پروژه بار دیگر بحث میان توسعه تفریحات شهری و مدیریت بحران آب را در اسپانیا برجسته کرده است. در حالی که سرمایه‌گذاران به دنبال جذب گردشگر و رونق اقتصادی هستند، فعالان مدنی بر لزوم حفاظت از منابع طبیعی تأکید می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مادرید",
+        "#محیط_زیست",
+        "#اسپانیا",
+        "#کم_آبی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "7839553c3c77",
       "source": "La Vanguardia",
       "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
@@ -1903,9 +1910,37 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882e3d9b0cc.r_d.3366-2320-0.jpeg",
       "published_at": "2026-08-23T06:00:00+02:00",
       "category": "ciencia",
-      "priority": 68,
-      "title_fa": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
-      "lead_fa": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
+      "priority": 67,
+      "title_fa": "زمان و نحوه تماشای ماه‌گرفتگی کامل و «ماه خونین» در اسپانیا",
+      "lead_fa": "جمعه آینده پدیده ماه گرفتگی در سراسر اسپانیا قابل رؤیت خواهد بود. زمین در این پدیده ۹۳ درصد از قطر ماه را خواهد پوشاند.",
+      "key_points_fa": [
+        "این رویداد نجومی در ساعت ۶:۱۲ صبح رخ خواهد داد.",
+        "ماه گرفتگی در سراسر کشور قابل مشاهده است.",
+        "در مناطق مرکزی، شرقی، جزایر بالئار، سبته و ملیلیه، ماه پیش از پایان گرفتگی غروب خواهد کرد."
+      ],
+      "analysis_fa": "این پدیده نجومی فرصتی مناسب برای رصدگران و علاقه‌مندان به نجوم در سراسر اسپانیا فراهم می‌کند تا یکی از رویدادهای جذاب منظومه شمسی را مشاهده کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#نجوم",
+        "#ماه‌گرفتگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "993dda004166",
+      "source": "La Vanguardia",
+      "title": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
+      "summary": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
+      "url": "https://www.lavanguardia.com/vida/20260823/11618219/japon-crea-nevera-humana-combatir-calor-extremo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89b8d32f9dc.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
+      "lead_fa": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1925,31 +1960,9 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a8981f90f3f3.jpeg",
       "published_at": "2026-08-23T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "El ballenero vasco que nunca regresó a casa",
       "lead_fa": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "993dda004166",
-      "source": "La Vanguardia",
-      "title": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
-      "summary": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618219/japon-crea-nevera-humana-combatir-calor-extremo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89b8d32f9dc.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
-      "lead_fa": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1969,7 +1982,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d8294c1fb.r_d.624-324-0.jpeg",
       "published_at": "2026-08-23T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
       "lead_fa": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
       "key_points_fa": [],
@@ -1991,7 +2004,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89acef62a57.r_d.583-428-0.jpeg",
       "published_at": "2026-08-23T06:00:00+02:00",
       "category": "deportes",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "Helados para perros en El Geladet",
       "lead_fa": "El negocio tiene dos locales en el Vallès Oriental y Barcelona y aspira a consolidarse como marca el año que viene",
       "key_points_fa": [],
@@ -2291,38 +2304,16 @@
       "editorial_version": 2
     },
     {
-      "id": "687a04424159",
+      "id": "3fd22474403d",
       "source": "EL PAÍS",
-      "title": "‘La Odisea’ es nuestra historia",
-      "summary": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
-      "url": "https://elpais.com/opinion/2026-08-23/la-odisea-es-nuestra-historia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BFMP7PE7PJH5HLY5LR7D5SBKHI.jpg?auth=a4de62e24d761fbe14e2a4aa9e09050437daeeccff14b722dd12113e0d1aac18",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "‘La Odisea’ es nuestra historia",
-      "lead_fa": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "61c8290180d4",
-      "source": "EL PAÍS",
-      "title": "Moda agosteña de Flavita Banana: la corbata",
+      "title": "Riki Blanco: mente colmena",
       "summary": "Viñeta del 23 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-23/moda-agostena-de-flavita-banana-la-corbata.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/64LWKIMVN5E3JCKSB3OOFXITDI.jpg?auth=013c4c8d5971d95b009f3494916be6dc6186bdddeaaba9874bbaaecd0fc44d98",
+      "url": "https://elpais.com/opinion/2026-08-23/riki-blanco-mente-colmena.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XH5YBMMRF5BNTOTYTMGWIWIFKU.jpg?auth=722770c5a8de94cdd761fc27073b2c8fe2750410759c3fde50108342fb82ebe2",
       "published_at": "2026-08-23T03:30:01+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Moda agosteña de Flavita Banana: la corbata",
+      "title_fa": "Riki Blanco: mente colmena",
       "lead_fa": "Viñeta del 23 de agosto de 2026",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -2412,6 +2403,28 @@
       "priority": 67,
       "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
       "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ed3bd0a2ce84",
+      "source": "EL PAÍS",
+      "title": "Suavidad y firmeza",
+      "summary": "Suavidad y firmeza",
+      "url": "https://elpais.com/eps/2026-08-23/suavidad-y-firmeza.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VRF22XMOHFDUDD6UUIZC373WW4.JPG?auth=5a06d2eb2cb9033d3bca846ea98a1726a1b054d9a183eca1827b0dccb76ec6fe",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Suavidad y firmeza",
+      "lead_fa": "Suavidad y firmeza",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2537,7 +2550,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a897eefb85a3.r_d.2006-1427-0.jpeg",
       "published_at": "2026-08-23T00:00:00+02:00",
       "category": "sociedad",
-      "priority": 66,
+      "priority": 65,
       "title_fa": "Peligro: gente sociable anda suelta",
       "lead_fa": "",
       "key_points_fa": [],
