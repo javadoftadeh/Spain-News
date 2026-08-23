@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T14:56:56.181646+00:00",
+  "generated_at": "2026-08-23T15:34:03.933429+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
     "1201a8fa4464",
-    "eb9bbd60e316",
     "3497a01034d3",
+    "eb9bbd60e316",
     "14a5ebbf72f1"
   ],
   "items": [
@@ -67,6 +67,34 @@
       "editorial_version": 2
     },
     {
+      "id": "3497a01034d3",
+      "source": "EL PAÍS",
+      "title": "Un terremoto de magnitud 5,9 sacude la región de Tokio y causa una treintena de heridos",
+      "summary": "La Agencia Meteorológica de Japón confirma que no hay alerta de tsunami. Otro seísmo se registra este domingo en Hokkaido, al norte del país",
+      "url": "https://elpais.com/internacional/2026-08-22/un-terremoto-de-magnitud-59-sacude-la-region-de-tokio.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/32BMPBRJ25NFNKHQEVCEELKNP4.jpg?auth=1aebd0243348abc47cf4fb7561793a47158ac0e23e788f4211d8fc9b882c2676",
+      "published_at": "2026-08-23T14:56:29+00:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "زمین‌لرزه ۵.۹ ریشتری توکیو را لرزاند",
+      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۵.۹ توکیو، پایتخت ژاپن را لرزاند. آژانس هواشناسی ژاپن تأیید کرد که هیچ هشدار سونامی صادر نشده است.",
+      "key_points_fa": [
+        "بزرگی زمین‌لرزه ۵.۹ اعلام شد",
+        "هیچ هشدار سونامی صادر نشده است",
+        "تا کنون گزارشی درباره خسارات جانی منتشر نشده است"
+      ],
+      "analysis_fa": "وقوع زمین‌لرزه‌ها در ژاپن به دلیل موقعیت جغرافیایی این کشور امری رایج است و زیرساخت‌های آن برای مقابله با چنین حوادثی آماده شده‌اند. واکنش سریع نهادهای مربوطه و عدم صدور هشدار سونامی نشان‌دهنده کنترل شرایط است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#زمین_لرزه",
+        "#ژاپن",
+        "#توکیو"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "eb9bbd60e316",
       "source": "La Vanguardia",
       "title": "Estabilizado el incendio de Segorbe tras calcinar 630 hectáreas y obligar a desalojar Gátova",
@@ -92,34 +120,6 @@
         "#اسپانیا",
         "#والنسیا",
         "#محیط‌زیست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "3497a01034d3",
-      "source": "EL PAÍS",
-      "title": "Un terremoto de magnitud 5,9 sacude la región de Tokio y causa una treintena de heridos",
-      "summary": "La Agencia Meteorológica de Japón confirma que no hay alerta de tsunami",
-      "url": "https://elpais.com/internacional/2026-08-22/un-terremoto-de-magnitud-59-sacude-la-region-de-tokio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/32BMPBRJ25NFNKHQEVCEELKNP4.jpg?auth=1aebd0243348abc47cf4fb7561793a47158ac0e23e788f4211d8fc9b882c2676",
-      "published_at": "2026-08-23T05:35:51+00:00",
-      "category": "sociedad",
-      "priority": 84,
-      "title_fa": "زمین‌لرزه ۵.۹ ریشتری توکیو را لرزاند",
-      "lead_fa": "زمین‌لرزه‌ای با بزرگی ۵.۹ توکیو، پایتخت ژاپن را لرزاند. آژانس هواشناسی ژاپن تأیید کرد که هیچ هشدار سونامی صادر نشده است.",
-      "key_points_fa": [
-        "بزرگی زمین‌لرزه ۵.۹ اعلام شد",
-        "هیچ هشدار سونامی صادر نشده است",
-        "تا کنون گزارشی درباره خسارات جانی منتشر نشده است"
-      ],
-      "analysis_fa": "وقوع زمین‌لرزه‌ها در ژاپن به دلیل موقعیت جغرافیایی این کشور امری رایج است و زیرساخت‌های آن برای مقابله با چنین حوادثی آماده شده‌اند. واکنش سریع نهادهای مربوطه و عدم صدور هشدار سونامی نشان‌دهنده کنترل شرایط است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#زمین_لرزه",
-        "#ژاپن",
-        "#توکیو"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -382,6 +382,35 @@
       "editorial_version": 2
     },
     {
+      "id": "bf035d1ef257",
+      "source": "La Vanguardia",
+      "title": "Duelo de humanidad en la valla ceutí y combate robótico en Pekín, entre las imágenes del día.",
+      "summary": "Ceuta despide a un migrante fallecido en la frontera, los robots humanoides compiten con fuerza en China, Kiev limpia los daños provocados por ataques rusos y el festival Otamatsuri celebra la cultura anime en Nairobi durante una jornada global de intensos contrastes.",
+      "url": "https://www.lavanguardia.com/fotos/20260823/11618539/duelo-humanidad-valla-ceuti-combate-robotico-pekin-imagenes-dia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8ad2214fb45.jpeg",
+      "published_at": "2026-08-23T16:50:52+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تصاویر منتخب روز: از وداع با یک مهاجر در سبته تا رقابت ربات‌ها در پکن",
+      "lead_fa": "مراسم وداع با یک مهاجر جان‌باخته در مرز سبته و مسابقه ربات‌های انسان‌نما در چین از تصاویر شاخص خبری امروز بود. این رویدادها در کنار تحولات اوکراین و جشنواره‌های فرهنگی، روزی پر از تضاد را در جهان رقم زدند.",
+      "key_points_fa": [
+        "مراسم بدرقه و وداع با یک مهاجر در منطقه مرزی سبته برگزار شد.",
+        "ربات‌های انسان‌نما در چین رقابت فشرده‌ای را به نمایش گذاشتند.",
+        "شهر کی‌یف پس از حملات اخیر شاهد عملیات پاکسازی و بازسازی بود."
+      ],
+      "analysis_fa": "این تصاویر بازتاب‌دهنده تضادهای همزمان جهانی از جمله بحران‌های انسانی مهاجرت، پیشرفت‌های فناوری و اثرات درگیری‌های ژئوپلیتیک است که توجه رسانه‌ها را به خود جلب کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#مهاجرت",
+        "#فناوری",
+        "#جهان"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "1ad7047742f1",
       "source": "La Vanguardia",
       "title": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
@@ -578,63 +607,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8a677fe14786",
-      "source": "La Vanguardia",
-      "title": "La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones",
-      "summary": "Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260822/11618278/lluvia-desborda-costa-daurada-govern-defiende-previsiones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89ec988026a.r_d.1992-1328-0.jpeg",
-      "published_at": "2026-08-22T21:12:06+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "باران شدید در کاستا دورادا و دفاع دولت از پیش‌بینی‌ها",
-      "lead_fa": "بارندگی شدید موجب طغیان آب و تخلیه اضطراری صدها نفر در کاستا دورادا شد. با این حال، هیچ هشدار پیامکی به گوشی شهروندان ارسال نشد.",
-      "key_points_fa": [
-        "وقتیل بارندگی شدید باعث طغیان آب در منطقه کاستا دورادا شد.",
-        "صدها نفر از ساکنان و افراد حاضر در منطقه ناچار به تخلیه شدند.",
-        "هیچ‌گونه هشدار اضطراری روی تلفن‌های همراه مردم دریافت نشد.",
-        "دولت منطقه‌ای از نحوه پیش‌بینی‌ها و عملکرد خود دفاع کرد."
-      ],
-      "analysis_fa": "وقوع این حادثه و عدم ارسال هشدارهای پیامکی به‌موقع، بار دیگر بحث درباره کارایی سیستم‌های هشدار اولیه و آمادگی نهادهای دولتی در مواجهه با حوادث جوی ناگهانی را در اسپانیا برانگیخته است. دولت در حالی از پیش‌بینی‌های خود دفاع می‌کند که انتقادات درباره اطلاع‌رسانی به شهروندان افزایش یافته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#کاستادورادا",
-        "#سیل"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "1d85705e427b",
-      "source": "La Vanguardia",
-      "title": "Una familia que salió por la ventana de su coche atrapado por las lluvias: “Si hubiéramos recibido la alerta, no habríamos ido a ninguna parte”",
-      "summary": "Las lluvias torrenciales en el litoral del Baix Penedès y el Tarragonès han dejado escenas de tensión entre personas atrapadas por inundaciones",
-      "url": "https://www.lavanguardia.com/vida/20260822/11618273/testimonio-vecino-atrapado-lluvias-torrenciales-hubieramos-recibido-alerta-habriamos-ido-ninguna-parte.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d091ea111.r_d.2501-2321-0.jpeg",
-      "published_at": "2026-08-22T20:26:13+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "نجات یک خانواده از خودروی محاصره شده در سیلاب کاتالونیا",
-      "lead_fa": "بارش‌های سیل‌آسا در مناطق ساحلی تارagona و بایش پنِدِس باعث ایجاد شرایط بحرانی شد. یک خانواده ناچار شد برای نجات از سیلاب از پنجره خودروی خود خارج شود.",
-      "key_points_fa": [
-        "بارش‌های شدید در نواحی ساحلی بایش پنِدِس و تاراگوناس خسارت و آبگرفتگی ایجاد کرد.",
-        "یک خانواده در خودروی گرفتار خود محاصره شده و از طریق پنجره نجات یافتند.",
-        "خانواده نجات‌یافته از عدم دریافت هشدار پیش از وقوع حادثه انتقاد کردند."
-      ],
-      "analysis_fa": "این حادثه بار دیگر کارایی و سرعت سیستم‌های هشدار اولیه در مواجهه با پدیده‌های جوی شدید را زیر سوال برده است. انتقاد شهروندان به نبود هشدار به موقع، نهادهای امدادی و مدیریتی را تحت فشار برای بهبود سامانه‌های اطلاع‌رسانی قرار می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سیل_اسپانیا",
-        "#کاتالونیا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f09d13ab0ea4",
       "source": "EL PAÍS Economía",
       "title": "Funko Pop no se rinde: sus muñecos cabezones esquivan la crisis cuando todo el mundo los daba por muertos",
@@ -658,35 +630,6 @@
         "#فانکومپاپ",
         "#اقتصاداسپانیا",
         "#بازار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "672ab6432eb9",
-      "source": "La Vanguardia",
-      "title": "Irán descubre un nuevo yacimiento de 21.000 millones de metros cúbicos de gas",
-      "summary": "El ministro del Petróleo, Mohsen Paknejad, dice que de la cantidad total es recuperable un 73%",
-      "url": "https://www.lavanguardia.com/economia/20260823/11618565/iran-anuncia-nuevo-yacimiento-21-000-millones-metros-cubicos-gas-south-pars.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/06/69d3a87478a29.r_d.2337-1452-0.jpeg",
-      "published_at": "2026-08-23T16:02:40+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "کشف میدان جدید گازی در ایران با ظرفیت ۲۱ میلیارد متر مکعب",
-      "lead_fa": "وزیر نفت ایران از کشف یک میدان جدید گازی با حجم کل ۲۱ میلیارد متر مکعب خبر داد. به گفته محسن پاک‌نژاد، ۷۳ درصد از این میزان قابل برداشت است.",
-      "key_points_fa": [
-        "کشف میدان گازی جدید توسط وزارت نفت ایران",
-        "حجم کل گاز این میدان ۲۱ میلیارد متر مکعب اعلام شد",
-        "برآورد می‌شود ۷۳ درصد از این حجم قابل استخراج باشد"
-      ],
-      "analysis_fa": "این اکتشاف جدید در حالی صورت می‌گیرد که بخش انرژی ایران با چالش‌های زیرساختی و سرمایه‌گذاری روبه‌رو است. افزایش ذخایر قابل برداشت می‌تواند در برنامه‌ریزی‌های بلندمدت انرژی کشور اهمیت داشته باشد، اما تحقق پتانسیل آن به توسعه و تجهیزات مناسب وابسته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ایران",
-        "#گاز",
-        "#اقتصاد",
-        "#انرژی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -748,34 +691,6 @@
       "editorial_version": 2
     },
     {
-      "id": "aa54c543fa17",
-      "source": "La Vanguardia",
-      "title": "Buscan a un empresario español que cayó de su barco entre Sicilia y Grecia",
-      "summary": "Juan José Mutilba Obregón , burgalés de 66 años, desapareció tras resbalar mientras pescaba un atún, según relata la familia; su mujer permaneció tres días a la deriva hasta poder pedir ayuda",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20260823/11618537/buscan-empresario-espanol-cayo-barco-sicilia-grecia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/12/19/639fa63d9bf06.r_d.1090-784-0.jpeg",
-      "published_at": "2026-08-23T12:44:29+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "جستجو برای یافتن کارآفرین اسپانیایی مفقودشده در مدیترانه",
-      "lead_fa": "یک کارآفرین ۶۶ ساله اهل بورگوس پس از سقوط از قایق خود در مسیر بین سیسیل و یونان ناپدید شد. همسر او سه روز در دریا سرگردان بود تا اینکه توانست درخواست کمک کند.",
-      "key_points_fa": [
-        "فرد مفقودشده خوان خوسه موتیلبا اوبرگون نام دارد.",
-        "حادثه هنگام ماهیگیری تن‌ماهی و پس از لیز خوردن وی رخ داده است.",
-        "همسر وی سه روز پس از حادثه موفق به درخواست کمک شد."
-      ],
-      "analysis_fa": "این حادثه دریایی در آب‌های بین‌المللی رخ داده و تلاش‌های امدادونجات با همکاری مقامات مربوطه برای یافتن فرد مفقودشده در جریان است، در حالی که همسر وی نجات یافته است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#مدیترانه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "2cbb35a8b2a8",
       "source": "La Vanguardia",
       "title": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
@@ -828,34 +743,6 @@
         "#اتحادیه_اروپا",
         "#تغییرات_اقلیمی",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "629bd70b1bbe",
-      "source": "La Vanguardia",
-      "title": "La complicada agenda de Sánchez para lo que queda de legislatura",
-      "summary": "El primer Consejo de Ministros se celebrará pasado mañana, martes, con una larga y compleja lista de tareas para la recta final antes de las elecciones",
-      "url": "https://www.lavanguardia.com/politica/20260823/11618237/complicada-agenda-sanchez-queda-legislatura.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89cf3095164.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "دولت سانچز با برنامه‌ای فشرده و پیچیده به کار بازمی‌گردد",
-      "lead_fa": "نخستین جلسه هیئت دولت پس از تعطیلات، سه‌شنبه آینده برگزار می‌شود. این نشست آغازگر دوره‌ای پر از چالش و وظایف دشوار تا پایان دوره قانون‌گذاری است.",
-      "key_points_fa": [
-        "برگزاری نخستین شورای وزیران در روز سه‌شنبه آینده",
-        "وجود فهرستی طولانی و پیچیده از وظایف در مرحله پایانی دولت",
-        "تمرکز بر برنامه‌کاری دولت پیش از برگزاری انتخابات آینده"
-      ],
-      "analysis_fa": "بازگشت دولت به فعالیت‌های اجرایی با چالش‌های متعددی در زمینه تصمیم‌گیری و پیشبرد قوانین باقی‌مانده روبه‌روست. این وضعیت نشان‌دهنده تلاش دولت برای به سرانجام رساندن برنامه‌های کلیدی خود در فرصت محدود باقیمانده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#پدروسانچز"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1312,13 +1199,41 @@
       "editorial_version": 2
     },
     {
+      "id": "ad1ae1b81545",
+      "source": "La Vanguardia",
+      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
+      "published_at": "2026-08-23T16:50:45+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "پایان جشنواره روتوتوم با ۱۶۹ هزار شرکت‌کننده",
+      "lead_fa": "سی‌ویکمین دوره جشنواره روتوتوم در بنیکاسیم با حضور ۱۶۹ هزار نفر از نزدیک به صد کشور به کار خود پایان داد. این رویداد جایگاه خود را حفظ کرد و بر تفکر انتقادی، پایداری و نوآوری موسیقی تمرکز داشت.",
+      "key_points_fa": [
+        "جذب ۱۶۹ هزار مخاطب از حدود یک صد کشور مختلف",
+        "تکرار سطح استقبال سال گذشته در بنیکاسیم",
+        "تاکید بر تفکر انتقادی و پایداری محیط‌زیستی"
+      ],
+      "analysis_fa": "این جشنواره توانسته‌ است با تلفیق موسیقی و مباحث اجتماعی و فرهنگی، مخاطبان بین‌المللی چشمگیری را جذب کند و پایداری حضور مخاطبان را در سال‌های اخیر حفظ نماید.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#جشنواره_موسیقی",
+        "#فرهنگی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "bb34f0957e7f",
       "source": "EL PAÍS",
-      "title": "GP de Países Bajos en directo | Se reanuda la carrera tras la bandera roja provocada por un accidente de Verstappen",
-      "summary": "El piloto holandés perdió el control del monoplaza en la última curva del circuito tras la primera vuelta y se fue contra el muro | Lando Norris tratará de defender la ‘pole’ conseguida el sábado ante el empuje de los Mercedes de Russell y Antonelli, el líder del Mundial",
+      "title": "GP de Países Bajos en directo | Norris vence en Zandvoort y logra su segunda victoria consecutiva",
+      "summary": "Antonelli fue segundo y el podio lo completó Russell tras una preciosa lucha con Hamilton y Leclerc | Fernando Alonso volvió a puntuar tras acabar noveno después de salir 18º | La carrera comenzó con una bandera roja provocada por un accidente de Verstappen",
       "url": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/YGYGANVM7RI43IM5I4GSJKPTQM.jpg?auth=956c9c602ade5bd49f70417512ffef8123f782fa92d3fbca0a05f61744060440",
-      "published_at": "2026-08-23T14:55:05+00:00",
+      "published_at": "2026-08-23T15:17:59+00:00",
       "category": "deportes",
       "priority": 70,
       "title_fa": "گراند پری هلند؛ لندو نوریس در خط نخست مسابقه فرمول یک",
@@ -1474,32 +1389,6 @@
         "#هوش_مصنوعی",
         "#اخلاق_فناوری",
         "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8e03c32e3d7f",
-      "source": "La Vanguardia",
-      "title": "Una selfie borrada",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/opinion/20260823/11618293/selfie-borrada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89fef6b2a49.jpeg",
-      "published_at": "2026-08-23T00:05:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "حذف یک سلفی در اسپانیا",
-      "lead_fa": "رسانه لا ونگاردیا مطلبی با عنوان یک سلفی پاک‌شده منتشر کرده است. جزئیات بیشتری درباره این رخداد در متن خبر ذکر نشده است.",
-      "key_points_fa": [
-        "انتشار مطلبی با عنوان سلفی پاک‌شده در لا ونگاردیا",
-        "عدم ارائه جزئیات دقیق درباره رویداد در منبع خبر"
-      ],
-      "analysis_fa": "این خبر به موضوعی اشاره دارد که جزئیات آن در منبع اولیه محدود است و نمی‌توان ارزیابی قطعی درباره ابعاد آن ارائه داد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#جامعه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1732,6 +1621,62 @@
       "editorial_version": 2
     },
     {
+      "id": "6a6b84159c47",
+      "source": "La Vanguardia",
+      "title": "El Ebro contra el Mediterráneo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a859b8a5e24b.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "جدال بر سر انتقال آب رودخانه ابرو به مدیترانه",
+      "lead_fa": "طرح‌های جدید انتقال آب از حوضه رودخانه ابرو به مناطق کم‌آب مدیترانه‌ای در اسپانیا بحث‌برانگیز شده است. این مناقشه میان جوامع محلی و نهادهای دولتی بر سر مدیریت منابع آبی بالا گرفته است.",
+      "key_points_fa": [
+        "مخالفت شدید جوامع محلی و فعالان محیط زیست با طرح‌های انتقال آب",
+        "فشار خشکسالی بر مناطق مدیترانه‌ای اسپانیا و نیاز به منابع جدید",
+        "چالش‌های قانونی و زیست‌محیطی پیش روی دولت در مدیریت منابع آب"
+      ],
+      "analysis_fa": "مسئله مدیریت آب و انتقال آن بین حوضه‌های آبریز در اسپانیا همواره یکی از پیچیده‌ترین مسائل سیاسی و زیست‌محیطی بوده است. از یک سو مناطق خشک مدیترانه نیازمند تامین آب برای کشاورزی و جمعیت رو به رشد هستند و از سوی دیگر، حوضه‌های مبدأ نگران اکوسیستم و حقوق خود هستند که این امر تصمیم‌گیری را برای دولت دشوار می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#بحران_آب",
+        "#محیط_زیست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "104246f06120",
+      "source": "La Vanguardia",
+      "title": "Natalie Harp, a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
+      "summary": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente al presidente",
+      "url": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d52ae7e09.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "politica",
+      "priority": 68,
+      "title_fa": "انتشار نامه‌های پرشور ناتالی هارپ به دونالد ترامپ",
+      "lead_fa": "نامه‌هایی که منتسب به دستیار دونالد ترامپ هستند، افشا شد. این نامه‌ها شامل اظهاراتی درباره قدردانی و وفاداری به ترامپ است.",
+      "key_points_fa": [
+        "انتشار نامه‌های منتسب به ناتالی هارپ، دستیار دونالد ترامپ.",
+        "در این نامه‌ها ابراز وفاداری شدید به ترامپ دیده می‌شود.",
+        "این اسناد بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است."
+      ],
+      "analysis_fa": "افشای مکاتبات شخصی منتسب به چهره‌های نزدیک به سیاستمداران برجسته معمولاً ابعاد سیاسی و رسانه‌ای پیدا می‌کند و بازتاب‌دهنده پویایی‌های درون‌گروهی ستادهای سیاسی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ترامپ",
+        "#ناتالی_هارپ",
+        "#سیاست_آمریکا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "0b50d38c40a6",
       "source": "La Vanguardia",
       "title": "El corralito de Trump",
@@ -1788,57 +1733,29 @@
       "editorial_version": 2
     },
     {
-      "id": "104246f06120",
+      "id": "1f7c5fb24ac1",
       "source": "La Vanguardia",
-      "title": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
-      "summary": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente al presidente",
-      "url": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d52ae7e09.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "انتشار نامه‌های پرشور ناتالی هارپ به دونالد ترامپ",
-      "lead_fa": "نامه‌هایی که منتسب به دستیار دونالد ترامپ هستند، افشا شد. این نامه‌ها شامل اظهاراتی درباره قدردانی و وفاداری به ترامپ است.",
-      "key_points_fa": [
-        "انتشار نامه‌های منتسب به ناتالی هارپ، دستیار دونالد ترامپ.",
-        "در این نامه‌ها ابراز وفاداری شدید به ترامپ دیده می‌شود.",
-        "این اسناد بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است."
-      ],
-      "analysis_fa": "افشای مکاتبات شخصی منتسب به چهره‌های نزدیک به سیاستمداران برجسته معمولاً ابعاد سیاسی و رسانه‌ای پیدا می‌کند و بازتاب‌دهنده پویایی‌های درون‌گروهی ستادهای سیاسی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#ناتالی_هارپ",
-        "#سیاست_آمریکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "6a6b84159c47",
-      "source": "La Vanguardia",
-      "title": "El Ebro contra el Mediterráneo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a859b8a5e24b.jpeg",
+      "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
+      "summary": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
+      "url": "https://www.lavanguardia.com/economia/20260823/11618246/auge-vehiculo-usado-dispara-importacion-coches-viejos-europeos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d545ec672.jpeg",
       "published_at": "2026-08-23T06:00:00+02:00",
       "category": "sociedad",
-      "priority": 68,
-      "title_fa": "جدال بر سر انتقال آب رودخانه ابرو به مدیترانه",
-      "lead_fa": "طرح‌های جدید انتقال آب از حوضه رودخانه ابرو به مناطق کم‌آب مدیترانه‌ای در اسپانیا بحث‌برانگیز شده است. این مناقشه میان جوامع محلی و نهادهای دولتی بر سر مدیریت منابع آبی بالا گرفته است.",
+      "priority": 67,
+      "title_fa": "افزایش واردات خودروهای فرسوده اروپایی به اسپانیا",
+      "lead_fa": "رونق بازار خودروهای کارکرده در اسپانیا باعث افزایش واردات خودروهای قدیمی از دیگر کشورهای اروپایی شده است. پرفروش‌ترین مدل در اسپانیا خودروی فولکس‌واگن گلف با میانگین قدمت نزدیک به ۱۷ سال است.",
       "key_points_fa": [
-        "مخالفت شدید جوامع محلی و فعالان محیط زیست با طرح‌های انتقال آب",
-        "فشار خشکسالی بر مناطق مدیترانه‌ای اسپانیا و نیاز به منابع جدید",
-        "چالش‌های قانونی و زیست‌محیطی پیش روی دولت در مدیریت منابع آب"
+        "رشد تقاضا برای خودروهای کارکرده در بازار اسپانیا",
+        "افزایش واردات خودروهای فرسوده و قدیمی از اروپا",
+        "قرار گرفتن فولکس‌واگن گلف با قدمت حدود ۱۷ سال به عنوان مدل پرفروش"
       ],
-      "analysis_fa": "مسئله مدیریت آب و انتقال آن بین حوضه‌های آبریز در اسپانیا همواره یکی از پیچیده‌ترین مسائل سیاسی و زیست‌محیطی بوده است. از یک سو مناطق خشک مدیترانه نیازمند تامین آب برای کشاورزی و جمعیت رو به رشد هستند و از سوی دیگر، حوضه‌های مبدأ نگران اکوسیستم و حقوق خود هستند که این امر تصمیم‌گیری را برای دولت دشوار می‌کند.",
+      "analysis_fa": "افزایش واردات خودروهای قدیمی و فرسوده نشان‌دهنده چالش‌های قدرت خرید مصرف‌کنندگان و تغییر الگوهای تقاضا در بازار خودروی اسپانیا است. این روند می‌تواند بر اهداف زیست‌محیطی و استانداردهای ایمنی جاده‌ای تأثیرگذار باشد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
         "#اسپانیا",
-        "#بحران_آب",
-        "#محیط_زیست"
+        "#خودرو",
+        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1868,6 +1785,34 @@
         "#محیط_زیست",
         "#اسپانیا",
         "#کم_آبی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "aee93ab65ba8",
+      "source": "La Vanguardia",
+      "title": "20 libros de grandes autores internacionales para entender mejor el mundo y a uno mismo",
+      "summary": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
+      "url": "https://www.lavanguardia.com/cultura/20260823/11618234/rentree-internacional-veinte-voces-entender-mejor-mundo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d8294c1fb.r_d.624-324-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 67,
+      "title_fa": "آغاز فصل جدید ادبیات بین‌الملل با حضور نویسندگان برجسته",
+      "lead_fa": "رویداد بین‌المللی «رنتری» با حضور بیست نویسنده برجسته جهان کار خود را آغاز کرد. این برنامه به شناخت بهتر جهان و جوامع از طریق ادبیات می‌پردازد.",
+      "key_points_fa": [
+        "حضور چهره‌های برجسته ادبی جهان مانند پیتر هاندکه و یون فوسه در میان تازه‌های نشر.",
+        "معرفی آثار جدید برای درک عمیق‌تر تحولات جهانی و هویت انسانی.",
+        "تاکید بر نقش ترجمه و ادبیات بین‌المللی در فرهنگ معاصر اسپانیا."
+      ],
+      "analysis_fa": "برگزاری این رویداد فرهنگی نشان‌دهنده اهمیت جایگاه ادبیات ترجمه و حضور نویسندگان مطرح جهانی در بازار نشر اسپانیا است. این برنامه‌ها به تقویت تبادل فرهنگی و بازتاب مسائل جهانی در فضای ادبی این کشور کمک می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ادبیات_جهان",
+        "#اسپانیا",
+        "#فرهنگ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1924,62 +1869,6 @@
         "#تکنولوژی",
         "#سلامت_کار",
         "#گرمای_شدید"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8688371545f1",
-      "source": "La Vanguardia",
-      "title": "El ballenero vasco que nunca regresó a casa",
-      "summary": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618172/ballenero-vasco-nunca-regreso-casa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a8981f90f3f3.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "کشتی نهنگ‌بر باسکی که هرگز به خانه بازنگشت",
-      "lead_fa": "کشتی تاریخی «سن خوان» در سال ۱۵۶۵ میلادی در آب‌های لابرادور کانادا غرق شد. این شناور حامل هزار بشکه روغن نهنگ بود.",
-      "key_points_fa": [
-        "کشتی «سن خوان» متعلق به دریانوردان باسکی بود.",
-        "این ناو در سال ۱۵۶۵ در سواحل رد بی در شبه‌جزیره لابرادور غرق شد.",
-        "در زمان غرق شدن، این کشتی هزار بشکه روغن نهنگ حمل می‌کرد."
-      ],
-      "analysis_fa": "کشف و مطالعه بقایای کشتی‌های تاریخی مانند «سن خوان» اطلاعات ارزشمندی درباره تاریخ دریانوردی، تجارت بین‌المللی و شیوه زندگی در قرن شانزدهم میلادی در اختیار باستان‌شناسان قرار می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#تاریخ",
-        "#باستان‌شناسی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "aee93ab65ba8",
-      "source": "La Vanguardia",
-      "title": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
-      "summary": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618234/rentree-internacional-veinte-voces-entender-mejor-mundo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d8294c1fb.r_d.624-324-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "آغاز فصل جدید ادبیات بین‌الملل با حضور نویسندگان برجسته",
-      "lead_fa": "رویداد بین‌المللی «رنتری» با حضور بیست نویسنده برجسته جهان کار خود را آغاز کرد. این برنامه به شناخت بهتر جهان و جوامع از طریق ادبیات می‌پردازد.",
-      "key_points_fa": [
-        "حضور چهره‌های برجسته ادبی جهان مانند پیتر هاندکه و یون فوسه در میان تازه‌های نشر.",
-        "معرفی آثار جدید برای درک عمیق‌تر تحولات جهانی و هویت انسانی.",
-        "تاکید بر نقش ترجمه و ادبیات بین‌المللی در فرهنگ معاصر اسپانیا."
-      ],
-      "analysis_fa": "برگزاری این رویداد فرهنگی نشان‌دهنده اهمیت جایگاه ادبیات ترجمه و حضور نویسندگان مطرح جهانی در بازار نشر اسپانیا است. این برنامه‌ها به تقویت تبادل فرهنگی و بازتاب مسائل جهانی در فضای ادبی این کشور کمک می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ادبیات_جهان",
-        "#اسپانیا",
-        "#فرهنگ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2141,358 +2030,6 @@
       "editorial_version": 2
     },
     {
-      "id": "38a158c74b0c",
-      "source": "EL PAÍS",
-      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "summary": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
-      "url": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "lead_fa": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "61875cbc4dbc",
-      "source": "EL PAÍS",
-      "title": "Príncipe de la pasión, princesa de los paralelogramos",
-      "summary": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
-      "url": "https://elpais.com/opinion/2026-08-23/principe-de-la-pasion-princesa-de-los-paralelogramos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6G7KVZDX4RFOVHGPODBX2W4FXQ.jpg?auth=29349506d71427c8a627275d0f415ea98557ba811b6f3c38d41bcb2c538f92b0",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Príncipe de la pasión, princesa de los paralelogramos",
-      "lead_fa": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fef787f5e271",
-      "source": "EL PAÍS",
-      "title": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
-      "summary": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
-      "url": "https://elpais.com/deportes/el-montanista/2026-08-23/miriam-garcia-pascual-el-mito-de-la-alpinista-que-murio-joven-y-dejo-por-testamento-un-libro-devorado-por-varias-generaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3HX6KHJ45FB2NPZWTXVGNUFFHQ.jpg?auth=18f58df7735b97cc464252864141b75262b62d924a50f818c06624d0bce12f77",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
-      "lead_fa": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "dc186dc53d7e",
-      "source": "EL PAÍS",
-      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
-      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b58c718d917c",
-      "source": "EL PAÍS",
-      "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
-      "summary": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
-      "url": "https://elpais.com/sociedad/2026-08-23/cuando-la-asesina-es-tambien-victima-el-juicio-a-la-mujer-con-un-trastorno-mental-que-mato-a-sus-tres-hijos-aviva-la-guerra-cultural-en-ee-uu.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TULTAIAHRZNFPCJAP5S56PS57A.jpg?auth=3844155fc3f956dd35dfcabc8a67d76ed34868aa411fe0e199fa466b5a490f4c",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
-      "lead_fa": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c5f671bf895b",
-      "source": "EL PAÍS",
-      "title": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
-      "summary": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "url": "https://elpais.com/ciencia/2026-08-23/no-habra-una-vacuna-contra-el-cancer-sino-una-distinta-para-cada-paciente-y-tumor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
-      "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "982939e3a43c",
-      "source": "EL PAÍS",
-      "title": "Seis meses de fracaso en Irán",
-      "summary": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
-      "url": "https://elpais.com/opinion/2026-08-23/seis-meses-de-fracaso-en-iran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5UJP54YXB5BJ7MJYP77VOFTNWM.jpg?auth=3a7efae1e44b0bf1d951726b9edbb1e88d8976e00d8a186aa9bd020fb3121690",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Seis meses de fracaso en Irán",
-      "lead_fa": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "41632a10d53f",
-      "source": "EL PAÍS",
-      "title": "Al querer huir lo llaman viajar",
-      "summary": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
-      "url": "https://elpais.com/opinion/2026-08-23/al-querer-huir-lo-llaman-viajar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3XUJ7GODIZI4XC2EXO6FZDZI44.jpg?auth=8d50c99e1a2936b63be6b8104d17491da090816ba977eaaf6920c5fe4eae13ea",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 67,
-      "title_fa": "Al querer huir lo llaman viajar",
-      "lead_fa": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "3fd22474403d",
-      "source": "EL PAÍS",
-      "title": "Riki Blanco: mente colmena",
-      "summary": "Viñeta del 23 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-23/riki-blanco-mente-colmena.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XH5YBMMRF5BNTOTYTMGWIWIFKU.jpg?auth=722770c5a8de94cdd761fc27073b2c8fe2750410759c3fde50108342fb82ebe2",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Riki Blanco: mente colmena",
-      "lead_fa": "Viñeta del 23 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "97220709a705",
-      "source": "EL PAÍS España",
-      "title": "El renacer en tiempo récord del monasterio budista que devoró el fuego en 2024",
-      "summary": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
-      "url": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "El renacer en tiempo récord del monasterio budista que devoró el fuego en 2024",
-      "lead_fa": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "894ea6c5deab",
-      "source": "EL PAÍS",
-      "title": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
-      "summary": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
-      "url": "https://elpais.com/ideas/2026-08-23/julian-casanova-historiador-goebbels-necesitaba-ocupar-paises-para-introducir-propaganda-elon-musk-necesita-tres-minutos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MA7CLORI2FDW3FCH26SS7TBXZY.jpg?auth=3e4b498e27f8f930aa9e0d7b2e6cb0690ab06262ac7488c154c416338200b1f2",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
-      "lead_fa": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e76173115fed",
-      "source": "EL PAÍS",
-      "title": "Diez recetas rápidas para terminar agosto sin esfuerzo",
-      "summary": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-23/diez-recetas-rapidas-para-terminar-agosto-sin-esfuerzo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R2NS55N2UVDVVNYKE23KTCNQCA.jpg?auth=2a0e855d3a7763df7ecb767d2d0c0f0114a4370e692a763f41ee358aba20a4bd",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Diez recetas rápidas para terminar agosto sin esfuerzo",
-      "lead_fa": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d4e977a3e798",
-      "source": "EL PAÍS",
-      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ed3bd0a2ce84",
-      "source": "EL PAÍS",
-      "title": "Suavidad y firmeza",
-      "summary": "Suavidad y firmeza",
-      "url": "https://elpais.com/eps/2026-08-23/suavidad-y-firmeza.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VRF22XMOHFDUDD6UUIZC373WW4.JPG?auth=5a06d2eb2cb9033d3bca846ea98a1726a1b054d9a183eca1827b0dccb76ec6fe",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Suavidad y firmeza",
-      "lead_fa": "Suavidad y firmeza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "800175639e1e",
-      "source": "EL PAÍS",
-      "title": "Esta columna peca de ingenua",
-      "summary": "La poesía suscita tanto respeto que mucha gente piensa que no la va a entender y habla de ella como de una lengua muerta",
-      "url": "https://elpais.com/eps/2026-08-23/esta-columna-peca-de-ingenua.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/PEFVFMU5LVD3VI6IFD4DFLZXZU.jpg?auth=5ed95ae5ac6a5efc3b1e2ffd1ad975cb7aca1fbade96740856d2011b6dcfe9f2",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Esta columna peca de ingenua",
-      "lead_fa": "La poesía suscita tanto respeto que mucha gente piensa que no la va a entender y habla de ella como de una lengua muerta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "19f1a67e4269",
-      "source": "EL PAÍS Economía",
-      "title": "La era de la inteligencia exponencial",
-      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "La era de la inteligencia exponencial",
-      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b7caa185e2c3",
       "source": "EL PAÍS España",
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
@@ -2574,6 +2111,380 @@
         "#آمریکا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "b70885538010",
+      "source": "La Vanguardia",
+      "title": "Los trenes de Madrid",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618104/trenes-madrid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896a2c473d0.jpeg",
+      "published_at": "2026-08-23T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Los trenes de Madrid",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "38a158c74b0c",
+      "source": "EL PAÍS",
+      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
+      "summary": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
+      "url": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
+      "lead_fa": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "61875cbc4dbc",
+      "source": "EL PAÍS",
+      "title": "Príncipe de la pasión, princesa de los paralelogramos",
+      "summary": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
+      "url": "https://elpais.com/opinion/2026-08-23/principe-de-la-pasion-princesa-de-los-paralelogramos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6G7KVZDX4RFOVHGPODBX2W4FXQ.jpg?auth=29349506d71427c8a627275d0f415ea98557ba811b6f3c38d41bcb2c538f92b0",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Príncipe de la pasión, princesa de los paralelogramos",
+      "lead_fa": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fef787f5e271",
+      "source": "EL PAÍS",
+      "title": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
+      "summary": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
+      "url": "https://elpais.com/deportes/el-montanista/2026-08-23/miriam-garcia-pascual-el-mito-de-la-alpinista-que-murio-joven-y-dejo-por-testamento-un-libro-devorado-por-varias-generaciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3HX6KHJ45FB2NPZWTXVGNUFFHQ.jpg?auth=18f58df7735b97cc464252864141b75262b62d924a50f818c06624d0bce12f77",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 66,
+      "title_fa": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
+      "lead_fa": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "dc186dc53d7e",
+      "source": "EL PAÍS",
+      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b58c718d917c",
+      "source": "EL PAÍS",
+      "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
+      "summary": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
+      "url": "https://elpais.com/sociedad/2026-08-23/cuando-la-asesina-es-tambien-victima-el-juicio-a-la-mujer-con-un-trastorno-mental-que-mato-a-sus-tres-hijos-aviva-la-guerra-cultural-en-ee-uu.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260822/1206734_045635_video_1800.mp4",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 66,
+      "title_fa": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
+      "lead_fa": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c5f671bf895b",
+      "source": "EL PAÍS",
+      "title": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
+      "summary": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
+      "url": "https://elpais.com/ciencia/2026-08-23/no-habra-una-vacuna-contra-el-cancer-sino-una-distinta-para-cada-paciente-y-tumor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
+      "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "982939e3a43c",
+      "source": "EL PAÍS",
+      "title": "Seis meses de fracaso en Irán",
+      "summary": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
+      "url": "https://elpais.com/opinion/2026-08-23/seis-meses-de-fracaso-en-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5UJP54YXB5BJ7MJYP77VOFTNWM.jpg?auth=3a7efae1e44b0bf1d951726b9edbb1e88d8976e00d8a186aa9bd020fb3121690",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Seis meses de fracaso en Irán",
+      "lead_fa": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "41632a10d53f",
+      "source": "EL PAÍS",
+      "title": "Al querer huir lo llaman viajar",
+      "summary": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
+      "url": "https://elpais.com/opinion/2026-08-23/al-querer-huir-lo-llaman-viajar.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3XUJ7GODIZI4XC2EXO6FZDZI44.jpg?auth=8d50c99e1a2936b63be6b8104d17491da090816ba977eaaf6920c5fe4eae13ea",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "turismo",
+      "priority": 66,
+      "title_fa": "Al querer huir lo llaman viajar",
+      "lead_fa": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "3fd22474403d",
+      "source": "EL PAÍS",
+      "title": "Riki Blanco: mente colmena",
+      "summary": "Viñeta del 23 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-23/riki-blanco-mente-colmena.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/XH5YBMMRF5BNTOTYTMGWIWIFKU.jpg?auth=722770c5a8de94cdd761fc27073b2c8fe2750410759c3fde50108342fb82ebe2",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Riki Blanco: mente colmena",
+      "lead_fa": "Viñeta del 23 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "97220709a705",
+      "source": "EL PAÍS España",
+      "title": "El renacer en tiempo récord del monasterio budista que devoró el fuego en 2024",
+      "summary": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
+      "url": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "El renacer en tiempo récord del monasterio budista que devoró el fuego en 2024",
+      "lead_fa": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "894ea6c5deab",
+      "source": "EL PAÍS",
+      "title": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
+      "summary": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
+      "url": "https://elpais.com/ideas/2026-08-23/julian-casanova-historiador-goebbels-necesitaba-ocupar-paises-para-introducir-propaganda-elon-musk-necesita-tres-minutos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MA7CLORI2FDW3FCH26SS7TBXZY.jpg?auth=3e4b498e27f8f930aa9e0d7b2e6cb0690ab06262ac7488c154c416338200b1f2",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
+      "lead_fa": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e76173115fed",
+      "source": "EL PAÍS",
+      "title": "Diez recetas rápidas para terminar agosto sin esfuerzo",
+      "summary": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-23/diez-recetas-rapidas-para-terminar-agosto-sin-esfuerzo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R2NS55N2UVDVVNYKE23KTCNQCA.jpg?auth=2a0e855d3a7763df7ecb767d2d0c0f0114a4370e692a763f41ee358aba20a4bd",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Diez recetas rápidas para terminar agosto sin esfuerzo",
+      "lead_fa": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d4e977a3e798",
+      "source": "EL PAÍS",
+      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ed3bd0a2ce84",
+      "source": "EL PAÍS",
+      "title": "Suavidad y firmeza",
+      "summary": "Suavidad y firmeza",
+      "url": "https://elpais.com/eps/2026-08-23/suavidad-y-firmeza.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VRF22XMOHFDUDD6UUIZC373WW4.JPG?auth=5a06d2eb2cb9033d3bca846ea98a1726a1b054d9a183eca1827b0dccb76ec6fe",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Suavidad y firmeza",
+      "lead_fa": "Suavidad y firmeza",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "800175639e1e",
+      "source": "EL PAÍS",
+      "title": "Esta columna peca de ingenua",
+      "summary": "La poesía suscita tanto respeto que mucha gente piensa que no la va a entender y habla de ella como de una lengua muerta",
+      "url": "https://elpais.com/eps/2026-08-23/esta-columna-peca-de-ingenua.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PEFVFMU5LVD3VI6IFD4DFLZXZU.jpg?auth=5ed95ae5ac6a5efc3b1e2ffd1ad975cb7aca1fbade96740856d2011b6dcfe9f2",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Esta columna peca de ingenua",
+      "lead_fa": "La poesía suscita tanto respeto que mucha gente piensa que no la va a entender y habla de ella como de una lengua muerta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "19f1a67e4269",
+      "source": "EL PAÍS Economía",
+      "title": "La era de la inteligencia exponencial",
+      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "La era de la inteligencia exponencial",
+      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2683,6 +2594,28 @@
       "editorial_version": 2
     },
     {
+      "id": "23132efc0726",
+      "source": "La Vanguardia",
+      "title": "Pequeñas fugas de energía en casa: aparatos que consumen aunque parezca que están apagados",
+      "summary": "Televisores en espera, cargadores enchufados, consolas en reposo o microondas con reloj mantienen un gasto pequeño pero constante. Revisarlos puede ayudar a reducir consumos innecesarios, aunque el impacto final depende de cada vivienda y de sus hábitos",
+      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260822/11581057/pequenas-fugas-energia-casa-aparatos-consumen-parezca-apagados-pca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/23/6859246df0f1a.jpeg",
+      "published_at": "2026-08-22T05:00:00+02:00",
+      "category": "economia",
+      "priority": 63,
+      "title_fa": "Pequeñas fugas de energía en casa: aparatos que consumen aunque parezca que están apagados",
+      "lead_fa": "Televisores en espera, cargadores enchufados, consolas en reposo o microondas con reloj mantienen un gasto pequeño pero constante. Revisarlos puede ayudar a reducir consumos innecesarios, aunque el impacto final depende de cada vivienda y de sus hábitos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f548669ba8c1",
       "source": "EL PAÍS",
       "title": "¿Cómo de ‘rico’ eres? Consulta tu posición por sueldo, renta y patrimonio",
@@ -2691,9 +2624,53 @@
       "image": "",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 59,
+      "priority": 58,
       "title_fa": "¿Cómo de ‘rico’ eres? Consulta tu posición por sueldo, renta y patrimonio",
       "lead_fa": "Analizo las tres cifras: salarios, ingresos y riqueza acumulada. La desigualdad crece de una a otra. Entras en el 10% con 52.000 de sueldo, 58.000 de ingresos y 380.000 de riqueza",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a0e0bb8eaf05",
+      "source": "EL PAÍS Economía",
+      "title": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
+      "summary": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
+      "url": "https://cincodias.elpais.com/companias/2026-08-21/el-gran-proveedor-de-atun-en-lata-de-mercadona-bate-record-de-ventas-y-dispara-beneficios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/47AKIXNPYVDDNAP3MPFX5CG7WM.jpg?auth=53cde1279200c5a886c746ca41573be7bda6914fbb21e0260cc21fae9d3bad0a",
+      "published_at": "2026-08-21T03:15:00+00:00",
+      "category": "economia",
+      "priority": 55,
+      "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
+      "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5dbdd94eaf12",
+      "source": "EL PAÍS Economía",
+      "title": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "summary": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
+      "url": "https://elpais.com/economia/2026-08-21/el-euribor-alcanza-el-3-y-aumenta-la-presion-sobre-las-hipotecas-variables.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
+      "published_at": "2026-08-21T10:32:15+00:00",
+      "category": "sociedad",
+      "priority": 53,
+      "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
+      "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2749,7 +2726,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 143
+      "count": 141
     }
   ]
 }
