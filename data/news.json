@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:39:16.424308+00:00",
+  "generated_at": "2026-08-23T16:59:34.744280+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -417,7 +417,7 @@
       "summary": "Sanidad responde que aislar a los migrantes llegados a Ceuta sería “injustificado y totalmente desmesurado”",
       "url": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
-      "published_at": "2026-08-23T15:55:50+00:00",
+      "published_at": "2026-08-23T16:39:53+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "درخواست قرنطینه در سئوتا توسط فیخو به دلیل ریسک بهداشتی",
@@ -1321,18 +1321,53 @@
       "url": "https://www.lavanguardia.com/cultura/20260823/11618497/todos-caminos-llevan-romance-hay-perderse-septiembre.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8aae8abeb9e.r_d.758-113-0.jpeg",
       "published_at": "2026-08-23T17:12:54+02:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 70,
-      "title_fa": "Todos los caminos llevan al romance: lo que no hay que perderse este septiembre",
-      "lead_fa": "La aclamada saga Zodiac Academy, el regreso de Sarah J. Maas, el cierre de la trilogía de la catalana Mar Picó o el regreso a sus orígenes de Inma Rubiales, algunas de las propuestas para un público cada vez más amplio",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کتاب‌های عاشقانه جدید برای پاییز در اسپانیا",
+      "lead_fa": "بازار کتاب اسپانیا میزبان آثار جدیدی در ژانر عاشقانه است. این فهرست شامل نویسندگان سرشناس و مجموعه‌های پرطرفدار می‌شود.",
+      "key_points_fa": [
+        "انتشار آثار جدید در حوزه رمان‌های عاشقانه و پرمخاطب",
+        "بازگشت نویسندگان شناخته‌شده با آثار جدید به بازار کتاب",
+        "ارائه پیشنهادهای مطالعاتی متنوع برای طیف وسیعی از خوانندگان"
+      ],
+      "analysis_fa": "بازار نشر اسپانیا همزمان با آغاز ماه سپتامبر شاهد معرفی عناوین جدید در ژانر عاشقانه و جوان‌پسند است که نشان‌دهنده استمرار محبوبیت این گونه ادبی در میان مخاطبان عام است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کتاب",
+        "#ادبیات",
+        "#اسپانیا",
+        "#رمان"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f4eaf93767a2",
+      "source": "EL PAÍS",
+      "title": "Brennan culmina la jugada maestra del Visma en la Vuelta a España",
+      "summary": "El equipo amarillo desmonta el ‘sprint’ final y Pogacar retiene el ‘maillot’ rojo",
+      "url": "https://elpais.com/deportes/ciclismo/2026-08-23/brennan-culmina-la-jugada-maestra-del-visma-en-la-vuelta-a-espana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/DHWVM7TYCRP3ZHBHKR2TVPPVBU.jpg?auth=8fac868aff92317551f467dbf53c528b1fcde4ab8a24ebe1002c01f89768c42f",
+      "published_at": "2026-08-23T16:36:31+00:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "پیروزی برنان در مرحله کلیدی و حفظ پیراهن قرمز توسط پوگاچار در ووئلتا",
+      "lead_fa": "تیم ویسما با عملکردی تاکتیکی در رقابت‌های دوچرخه‌سواری ووئلتا اسپانیا به موفقیت دست یافت. تادئی پوگاچار همچنان پیراهن قرمز پیشتاز را بر تن نگه داشت.",
+      "key_points_fa": [
+        "موفقیت تیم ویسما در کنترل مراحل پایانی مسابقه",
+        "حفاظت تادئی پوگاچار از پیراهن قرمز پیشتازی",
+        "شکستن برنامه تیم‌های رقیب در اسپرینت نهایی"
+      ],
+      "analysis_fa": "این مرحله از رقابت‌ها نشان‌دهنده اهمیت کار تیمی و تاکتیک‌های پیچیده در حفظ جایگاه پیشتازان در مسابقات چندمرحله‌ای است. تیم ویسما با برنامه‌ریزی دقیق توانست کنترلی کامل بر جریان مسابقه اعمال کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ووئلتا",
+        "#دوچرخه‌سواری",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1343,18 +1378,24 @@
       "url": "https://elpais.com/deportes/formula-1/2026-08-23/norris-le-hace-un-nudo-a-mercedes-en-el-gp-de-paises-bajos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/QD2YK5MCTVJABKN76AUZCWWOUY.jpg?auth=035d246152aee4eb490fbd7cbfe6340306628c90c738bce62d95ab5699655881",
       "published_at": "2026-08-23T16:21:36+00:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "Norris le hace un nudo a Mercedes en el GP de Países Bajos",
-      "lead_fa": "El actual campeón logra en Zandvoort su segundo triunfo consecutivo y confirma la revitalización de McLaren desde Hungría",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پیروزی لاندو نوریس در گرندپری هلند و ادامه اوج‌گیری مک‌لارن",
+      "lead_fa": "لاندو نوریس با نمایشی قدرتمند توانست در گرندپری هلند به پیروزی برسد. این دومین برد متوالی او و نشانه‌ای از آمادگی بالای تیم مک‌لارن است.",
+      "key_points_fa": [
+        "پیروزی نوریس در پیست زاندوورت هلند",
+        "کسب دومین پیروزی متوالی توسط این راننده",
+        "تایید روند رو به رشد تیم مک‌لارن از مسابقات مجارستان به بعد"
+      ],
+      "analysis_fa": "عملکرد اخیر تیم مک‌لارن و راننده آن نشان می‌دهد که رقابت در فرمول یک فشرده‌تر شده است و تیم‌های دیگر برای حفظ جایگاه خود با چالش جدی روبه‌رو هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#فرمول_یک",
+        "#مکلارن",
+        "#ورزش"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1578,35 +1619,6 @@
         "#فناوری",
         "#رباتیک",
         "#هوش_مصنوعی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b93ac63eaf76",
-      "source": "EL PAÍS",
-      "title": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
-      "summary": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
-      "url": "https://elpais.com/tecnologia/2026-08-23/un-robot-chino-bate-el-record-mundial-de-usain-bolt-en-100-metros.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206924_082626_video_1800.mp4",
-      "published_at": "2026-08-23T07:47:43+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "ربات چینی رکورد سرعت یوسین بولت را شکست",
-      "lead_fa": "دومین دوره بازی‌های جهانی ربات‌های انسان‌نما در چین برگزار شد. در این رقابت‌ها یک ربات ساخت چین موفق شد رکورد جهانی دوی صد متر یوسین بولت را جابجا کند.",
-      "key_points_fa": [
-        "برگزاری دومین دوره بازی‌های جهانی ربات‌های انسان‌نما در چین",
-        "ثبت رکورد جدید در دوی صد متر توسط یک ربات چینی",
-        "پیشرفت چشمگیر فناوری رباتیک و هوش مصنوعی در حوزه سرعت و تحرک"
-      ],
-      "analysis_fa": "این دستاورد نشان‌دهنده پیشرفت سریع فناوری ربات‌های انسان‌نما در مهندسی مکانیک و الگوریتم‌های حرکتی است. اگرچه این رکوردشکنی در یک محیط کنترل‌شده آزمایشگاهی یا مسابقه‌ای رخ داده، اما پتانسیل کاربرد این فناوری‌ها را در صنایع مختلف برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#فن‌آوری",
-        "#رباتیک",
-        "#چین"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2716,7 +2728,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 142
+      "count": 141
     },
     {
       "source": "EL PAÍS España",
