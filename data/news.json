@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:36:32.720299+00:00",
+  "generated_at": "2026-08-23T10:56:40.030816+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -638,8 +638,8 @@
     {
       "id": "b4c171b661e1",
       "source": "EL PAÍS",
-      "title": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico que desmanteló en 2022",
-      "summary": "El presidente andaluz justifica la petición ante “escalada de inseguridad” por las mafias que operan en diferentes zonas de la comunidad",
+      "title": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
+      "summary": "El presidente andaluz justifica la petición en “escalada de inseguridad” por las mafias que operan en la comunidad tras los recientes asesinatos en ajustes de cuentas",
       "url": "https://elpais.com/espana/2026-08-23/moreno-pide-al-gobierno-que-reactive-la-unidad-de-la-guardia-civil-contra-el-narcotrafico.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EUB3PUKNOROFJFVV5OVDUSDHTE.jpg?auth=e3c2e84f388f67b6c35dd664b05bacb278d228f5d8ea67e0d5272c7ee35af4f4",
       "published_at": "2026-08-23T09:47:57+00:00",
@@ -1228,6 +1228,34 @@
       "editorial_version": 2
     },
     {
+      "id": "aaf194536e15",
+      "source": "La Vanguardia",
+      "title": "El drástico cambio de look de Haaland: se rapa el pelo y sorprende con su nueva imagen",
+      "summary": "El delantero del Manchester City ha dicho adiós a su característica melena rubia justo antes de comenzar una nueva temporada en la Premier League",
+      "url": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8aca639af21.jpeg",
+      "published_at": "2026-08-23T12:35:09+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "تغییر چهره ناگهانی ارلینگ هالند",
+      "lead_fa": "ارلینگ هالند، مهاجم منچسترسیتی، پیش از شروع فصل جدید لیگ برتر موهای بلند خود را کوتاه کرد. این تغییر ظاهری بازتاب زیادی در میان هواداران فوتبال داشته است.",
+      "key_points_fa": [
+        "هالند موهای بلند بلوند خود را تراشید.",
+        "این تغییر چهره در آستانه آغاز فصل جدید لیگ برتر انگلیس انجام شد.",
+        "تصاویر ظاهر جدید او با استقبال و تعجب کاربران در شبکه‌های اجتماعی روبرو شد."
+      ],
+      "analysis_fa": "تغییر ظاهری بازیکنان سرشناس پیش از آغاز فصل‌های مسابقات اغلب بازتاب رسانه‌ای گسترده‌ای دارد و توجه هواداران را به خود جلب می‌کند. این اقدام هالند نیز نشان‌دهنده شروع یک دوره جدید برای او در میادین ورزشی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هالند",
+        "#منچسترسیتی",
+        "#فوتبال"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "efdb5d072147",
       "source": "La Vanguardia",
       "title": "Feijóo pide a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario”",
@@ -1253,28 +1281,6 @@
         "#بهداشت"
       ],
       "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b93ac63eaf76",
-      "source": "EL PAÍS",
-      "title": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
-      "summary": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
-      "url": "https://elpais.com/tecnologia/2026-08-23/un-robot-chino-bate-el-record-mundial-de-usain-bolt-en-100-metros.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206924_082626_video_1800.mp4",
-      "published_at": "2026-08-23T07:47:43+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
-      "lead_fa": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1511,40 +1517,52 @@
       "url": "https://www.lavanguardia.com/vida/20260823/11618486/robot-supera-record-mundial-usain-bolt-100-metros.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8abb5868980.jpeg",
       "published_at": "2026-08-23T08:40:14+02:00",
-      "category": "sociedad",
+      "category": "ciencia",
       "priority": 69,
-      "title_fa": "Un robot supera el récord mundial de Usain Bolt en los 100 metros",
-      "lead_fa": "Durante una carrera en los Juegos Mundiales de Robots Humanoides en Pekín",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رکوردشکنی ربات انسان‌نما در دو صد متر",
+      "lead_fa": "یک ربات انسان‌نما توانست رکورد جهانی دو صد متر یوسین بولت را در مسابقاتی در پکن بشکند. این دستاورد در جریان بازی‌های جهانی ربات‌های انسان‌نما به ثبت رسید.",
+      "key_points_fa": [
+        "ثبت رکورد جدید در مسابقات ربات‌های انسان‌نما در پکن",
+        "عبور عملکرد ربات از رکورد جهانی یوسین بولت در دوی صد متر"
+      ],
+      "analysis_fa": "پیشرفت سریع فناوری رباتیک و هوش مصنوعی در سال‌های اخیر امکان دستیابی به عملکردهای حرکتی پیشرفته‌ای را فراهم کرده است که پیشتر تنها در توان انسان‌ها بود. این رویداد نشان‌دهنده گام‌های جدید در توسعه ربات‌های انسان‌نماست، هرچند مقایسه مستقیم عملکرد ورزشی انسان و ماشین همچنان نیازمند بررسی دقیق است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#فناوری",
+        "#رباتیک",
+        "#هوش_مصنوعی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
-      "id": "450912097e6a",
-      "source": "La Vanguardia",
-      "title": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
-      "summary": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
-      "url": "https://www.lavanguardia.com/magazine/belleza/20260823/11616726/tres-jovenes-talentos-amaia-aberasturi-candela-saitta-zoe-arnao.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85e76468e88.jpeg",
-      "published_at": "2026-08-23T06:55:00+02:00",
+      "id": "b93ac63eaf76",
+      "source": "EL PAÍS",
+      "title": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
+      "summary": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
+      "url": "https://elpais.com/tecnologia/2026-08-23/un-robot-chino-bate-el-record-mundial-de-usain-bolt-en-100-metros.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206924_082626_video_1800.mp4",
+      "published_at": "2026-08-23T07:47:43+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
-      "lead_fa": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "ربات چینی رکورد سرعت یوسین بولت را شکست",
+      "lead_fa": "دومین دوره بازی‌های جهانی ربات‌های انسان‌نما در چین برگزار شد. در این رقابت‌ها یک ربات ساخت چین موفق شد رکورد جهانی دوی صد متر یوسین بولت را جابجا کند.",
+      "key_points_fa": [
+        "برگزاری دومین دوره بازی‌های جهانی ربات‌های انسان‌نما در چین",
+        "ثبت رکورد جدید در دوی صد متر توسط یک ربات چینی",
+        "پیشرفت چشمگیر فناوری رباتیک و هوش مصنوعی در حوزه سرعت و تحرک"
+      ],
+      "analysis_fa": "این دستاورد نشان‌دهنده پیشرفت سریع فناوری ربات‌های انسان‌نما در مهندسی مکانیک و الگوریتم‌های حرکتی است. اگرچه این رکوردشکنی در یک محیط کنترل‌شده آزمایشگاهی یا مسابقه‌ای رخ داده، اما پتانسیل کاربرد این فناوری‌ها را در صنایع مختلف برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#فن‌آوری",
+        "#رباتیک",
+        "#چین"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1630,6 +1648,28 @@
         "#املاک"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "450912097e6a",
+      "source": "La Vanguardia",
+      "title": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
+      "summary": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
+      "url": "https://www.lavanguardia.com/magazine/belleza/20260823/11616726/tres-jovenes-talentos-amaia-aberasturi-candela-saitta-zoe-arnao.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85e76468e88.jpeg",
+      "published_at": "2026-08-23T06:55:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
+      "lead_fa": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1820,28 +1860,6 @@
       "priority": 68,
       "title_fa": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
       "lead_fa": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1c75c499aa96",
-      "source": "La Vanguardia",
-      "title": "Caminar entre muertos para darles las gracias",
-      "summary": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11617639/caminar-muertos-darles-gracias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882be39f022.r_d.628-340-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 68,
-      "title_fa": "Caminar entre muertos para darles las gracias",
-      "lead_fa": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
