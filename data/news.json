@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:54:52.861032+00:00",
+  "generated_at": "2026-08-23T16:39:16.424308+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -417,7 +417,7 @@
       "summary": "Sanidad responde que aislar a los migrantes llegados a Ceuta sería “injustificado y totalmente desmesurado”",
       "url": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
-      "published_at": "2026-08-23T15:47:04+00:00",
+      "published_at": "2026-08-23T15:55:50+00:00",
       "category": "migracion",
       "priority": 77,
       "title_fa": "درخواست قرنطینه در سئوتا توسط فیخو به دلیل ریسک بهداشتی",
@@ -632,6 +632,34 @@
         "#بورس_آمریکا",
         "#اقتصاد",
         "#سرمایه_گذاری"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "0826cc5d9956",
+      "source": "EL PAÍS",
+      "title": "Feijóo, sobre el ático de Ayuso: “Patrimonio de Madrid deberá explicar por qué compró un local que no se puede destinar a oficina”",
+      "summary": "El líder del PP asegura en una entrevista que sabía desde abril que el Gobierno de la Comunidad de Madrid buscaba “un lugar” por las obras en Sol",
+      "url": "https://elpais.com/espana/madrid/2026-08-23/feijoo-sobre-el-atico-de-ayuso-patrimonio-de-madrid-debera-explicar-por-que-compro-un-local-que-no-se-puede-destinar-a-oficina.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206992_152709_video_1800.mp4",
+      "published_at": "2026-08-23T16:01:34+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "واکنش فئیخو به پرونده ملکی آیوسو",
+      "lead_fa": "رهبر حزب مردمی (PP) اعلام کرد از ماه آوریل در جریان جستجوی دولت مادرید برای یافتن محل جدید بوده است. او تأکید کرد که نهادهای مربوطه باید درباره خرید ملکی که کاربری اداری ندارد، توضیح دهند.",
+      "key_points_fa": [
+        "آلبرتو نونیس فئیخو در یک مصاحبه درباره جنجال ملکی مرتبط با ایزابل دیاز آیوسو صحبت کرد.",
+        "او تایید کرد که از بهار گذشته از تلاش دولت منطقه ای مادرید برای جابجایی به دلیل بازسازی ها اطلاع داشته است.",
+        "فئیخو خواستار شفافیت اداره دارایی مادرید در خصوص خرید این ملک شد."
+      ],
+      "analysis_fa": "این اظهارات در حالی مطرح می شود که پرونده مربوط به املاک و مستغلات دولت مادرید همچنان در کانون توجه سیاسی اسپانیا قرار دارد و رهبر حزب مردمی تلاش می کند با درخواست شفافیت، از هزینه های سیاسی این موضوع برای حزب جلوگیری کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سیاست",
+        "#مادرید"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1238,16 +1266,22 @@
       "published_at": "2026-08-23T17:20:36+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Investigan la muerte violenta de un hombre en La Ràpita (Montsià)",
-      "lead_fa": "El apuñalamiento tuvo lugar a las tres y media de la pasada madrugada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تحقیقات درباره مرگ خشونت‌بار یک مرد در کاتالونیا",
+      "lead_fa": "پلیس اسپانیا تحقیقات درباره مرگ خشونت‌آمیز یک مرد را آغاز کرد. این حادثه بامداد امروز در منطقه مونتسیا رخ داد.",
+      "key_points_fa": [
+        "حادثه مرگبار در ساعات اولیه بامداد رخ داده است.",
+        "فرد قربانی بر اثر ضربات چاقو جان خود را از دست داده است.",
+        "مقام‌های انتظامی و قضایی تحقیقات را برای روشن شدن ابعاد ماجرا دنبال می‌کنند."
+      ],
+      "analysis_fa": "وقوع حوادث خشونت‌آمیز با سلاح سرد همواره یکی از نگرانی‌های امنیتی در مناطق مختلف اسپانیاست که واکنش نهادهای انتظامی و پلیس را به دنبال دارد. بررسی دقیق شواهد و مدارک توسط کارآگاهان برای شناسایی عامل یا عاملان این جنایت در جریان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#حوادث",
+        "#پلیس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1258,18 +1292,25 @@
       "url": "https://www.lavanguardia.com/deportes/20260823/11618570/f1-formula-1-zandvoort-gp-paises-bajos-carrera-ganador-victoria-resumen-norris-russell-antonelli-alonso-sainz-verstappen.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b0dd107873.jpeg",
       "published_at": "2026-08-23T17:19:03+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "Soberbio triunfo de Norris ante Antonelli y Hamilton en Zandvoort; Alonso, gran 9.º puesto",
-      "lead_fa": "El inglés de McLaren fue mejor por ritmo con sus gomas duras gracias a la buena estrategia de los de Woking",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پیروزی درخشان لندو نوریس در گرندپری زاندوورت؛ فرناندو آلونسو نهم شد",
+      "lead_fa": "لندو نوریس، راننده مک‌لارن، با نمایشی برتر و استراتژی عالی در زاندوورت به پیروزی رسید. فرناندو آلونسو نیز توانست مقام نهم را از آن خود کند.",
+      "key_points_fa": [
+        "پیروزی لندو نوریس با عملکرد عالی تیم مک‌لارن و استفاده بهینه از لاستیک‌های سخت",
+        "عملکرد خوب کیمی آنتونلی و لوئیس همیلتون در مسابقه",
+        "کسب جایگاه نهمی ارزشمند توسط فرناندو آلونسو"
+      ],
+      "analysis_fa": "این مسابقه بار دیگر اهمیت استراتژی تیمی و مدیریت لاستیک را در رقابت‌های فرمول یک نشان داد. تیم مک‌لارن با انتخاب‌های تاکتیکی درست توانست برتری خود را حفظ کند و نوریس را به یک برد قاطع برساند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#فرمول_یک",
+        "#لندو_نوریس",
+        "#اسپانیا",
+        "#مسابقات"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1295,30 +1336,25 @@
       "editorial_version": 2
     },
     {
-      "id": "bb34f0957e7f",
+      "id": "c0489cbae9f0",
       "source": "EL PAÍS",
-      "title": "GP de Países Bajos en directo | Norris vence en Zandvoort y logra su segunda victoria consecutiva",
-      "summary": "Antonelli fue segundo y el podio lo completó Russell tras una preciosa lucha con Hamilton y Leclerc | Fernando Alonso volvió a puntuar tras acabar noveno después de salir 18º | La carrera comenzó con una bandera roja provocada por un accidente de Verstappen",
-      "url": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YGYGANVM7RI43IM5I4GSJKPTQM.jpg?auth=956c9c602ade5bd49f70417512ffef8123f782fa92d3fbca0a05f61744060440",
-      "published_at": "2026-08-23T15:17:59+00:00",
-      "category": "deportes",
+      "title": "Norris le hace un nudo a Mercedes en el GP de Países Bajos",
+      "summary": "El actual campeón logra en Zandvoort su segundo triunfo consecutivo y confirma la revitalización de McLaren desde Hungría",
+      "url": "https://elpais.com/deportes/formula-1/2026-08-23/norris-le-hace-un-nudo-a-mercedes-en-el-gp-de-paises-bajos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QD2YK5MCTVJABKN76AUZCWWOUY.jpg?auth=035d246152aee4eb490fbd7cbfe6340306628c90c738bce62d95ab5699655881",
+      "published_at": "2026-08-23T16:21:36+00:00",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "گراند پری هلند؛ لندو نوریس در خط نخست مسابقه فرمول یک",
-      "lead_fa": "لندو نوریس در مسابقه امروز فرمول یک هلند از پل‌پوزیشن آغاز می‌کند. او برای دفاع از جایگاه خود باید با رقبای قدرتمندی رقابت کند.",
-      "key_points_fa": [
-        "لندو نوریس روز شنبه موفق به کسب پل‌پوزیشن شد.",
-        "رانندگان تیم مرسدس، راسل و آنتونلی، فشار زیادی بر نوریس وارد خواهند کرد."
-      ],
-      "analysis_fa": "مسابقات فرمول یک همواره جذابیت بالایی دارد و استراتژی تیم‌ها در خط استارت نقش تعیین‌کننده‌ای در نتیجه نهایی ایفا می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Norris le hace un nudo a Mercedes en el GP de Países Bajos",
+      "lead_fa": "El actual campeón logra en Zandvoort su segundo triunfo consecutivo y confirma la revitalización de McLaren desde Hungría",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#فرمول_یک",
-        "#گراند_پری_هلند",
-        "#لندو_نوریس"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1993,34 +2029,6 @@
       "editorial_version": 2
     },
     {
-      "id": "34108fee7248",
-      "source": "EL PAÍS",
-      "title": "Los gráficos para entender el despegue de la inteligencia artificial",
-      "summary": "Los modelos mejoran sin pausa, las tecnológicas se multiplican en bolsa y cientos de millones de personas usan una tecnología recién llegada",
-      "url": "https://elpais.com/ciencia/2026-08-23/los-graficos-para-entender-el-despegue-de-la-inteligencia-artificial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DYZSAQ6IPZJWLIHPMZYZUO4BHQ.jpg?auth=b10c7b29f59d061906714273bda1489a4f9fa780b7a448379a5697cdc0534ba1",
-      "published_at": "2026-08-23T03:40:00+00:00",
-      "category": "ciencia",
-      "priority": 67,
-      "title_fa": "نمودارهایی برای درک اوج‌گیری هوش مصنوعی",
-      "lead_fa": "مدل‌های هوش مصنوعی بدون وقفه در حال پیشرفت هستند. شرکت‌های فناوری در بورس رشد کرده و صدها میلیون نفر از این فناوری جدید استفاده می‌کنند.",
-      "key_points_fa": [
-        "بهبود مستمر و بدون توقف مدل‌های هوش مصنوعی",
-        "رزش فزاینده شرکت‌های فناوری در بازارهای بورس",
-        "استفاده صدها میلیون نفر از ابزارهای هوش مصنوعی نوظهور"
-      ],
-      "analysis_fa": "رشد سریع و گسترش ابزارهای هوش مصنوعی نشان‌دهنده تغییر بنیادین در صنعت فناوری و الگوهای مصرف عمومی است. سرمایه‌گذاری کلان شرکت‌ها و استقبال گسترده کاربران، جایگاه این فناوری را به عنوان یک محور کلیدی در اقتصاد جهانی تثبیت کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هوش_مصنوعی",
-        "#فناوری",
-        "#اقتصاد_دیجیتال"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "b7caa185e2c3",
       "source": "EL PAÍS España",
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
@@ -2501,28 +2509,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f19b67991521",
-      "source": "La Vanguardia",
-      "title": "Peligro: gente sociable anda suelta",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618170/petanca-calafell-musica-gracia-incivismo-expats.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a897eefb85a3.r_d.2006-1427-0.jpeg",
-      "published_at": "2026-08-23T00:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Peligro: gente sociable anda suelta",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "44af5ca3569f",
       "source": "EL PAÍS España",
       "title": "¿Qué Estado queremos cuando todo arde?",
@@ -2604,6 +2590,28 @@
         "#ال‌پاییس"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f19b67991521",
+      "source": "La Vanguardia",
+      "title": "Peligro: gente sociable anda suelta",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/cultura/20260823/11618170/petanca-calafell-musica-gracia-incivismo-expats.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a897eefb85a3.r_d.2006-1427-0.jpeg",
+      "published_at": "2026-08-23T00:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Peligro: gente sociable anda suelta",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
