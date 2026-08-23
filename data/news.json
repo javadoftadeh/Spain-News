@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:59:34.744280+00:00",
+  "generated_at": "2026-08-23T17:32:17.189830+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -382,6 +382,33 @@
       "editorial_version": 2
     },
     {
+      "id": "ddfea144bd36",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
+      "summary": "Sanidad responde que aislar a los migrantes llegados a Ceuta sería “injustificado y totalmente desmesurado”",
+      "url": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
+      "published_at": "2026-08-23T17:10:00+00:00",
+      "category": "migracion",
+      "priority": 77,
+      "title_fa": "درخواست قرنطینه در سئوتا توسط فیخو به دلیل ریسک بهداشتی",
+      "lead_fa": "رهبر حزب مردمی اسپانیا خواستار قرنطینه سئوتا شد. این درخواست به دنبال ورود هزاران مهاجر و نگرانی‌های بهداشتی مطرح شده است.",
+      "key_points_fa": [
+        "هزاران مهاجر سه هفته پس از ورود انبوه همچنان در خیابان‌های سئوتا حضور دارند.",
+        "آلبرتو نونِز فیخو به دلیل آنچه ریسک بهداشتی ساس و سل خوانده، خواستار اقدام فوری شد."
+      ],
+      "analysis_fa": "این درخواست در واکنش به بحران انسانی و مدیریتی در شهر خودمختار سئوتا مطرح شده است. حضور طولانی‌مدت مهاجران در خیابان‌ها فشار مضاعفی بر زیرساخت‌های محلی وارد کرده و بحث درباره نحوه مدیریت مرزها و حمایت از مناطق مرزی را در سطح ملی تشدید کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#مهاجران",
+        "#اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "bf035d1ef257",
       "source": "La Vanguardia",
       "title": "Duelo de humanidad en la valla ceutí y combate robótico en Pekín, entre las imágenes del día.",
@@ -406,33 +433,6 @@
         "#مهاجرت",
         "#فناوری",
         "#جهان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ddfea144bd36",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
-      "summary": "Sanidad responde que aislar a los migrantes llegados a Ceuta sería “injustificado y totalmente desmesurado”",
-      "url": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
-      "published_at": "2026-08-23T16:39:53+00:00",
-      "category": "migracion",
-      "priority": 77,
-      "title_fa": "درخواست قرنطینه در سئوتا توسط فیخو به دلیل ریسک بهداشتی",
-      "lead_fa": "رهبر حزب مردمی اسپانیا خواستار قرنطینه سئوتا شد. این درخواست به دنبال ورود هزاران مهاجر و نگرانی‌های بهداشتی مطرح شده است.",
-      "key_points_fa": [
-        "هزاران مهاجر سه هفته پس از ورود انبوه همچنان در خیابان‌های سئوتا حضور دارند.",
-        "آلبرتو نونِز فیخو به دلیل آنچه ریسک بهداشتی ساس و سل خوانده، خواستار اقدام فوری شد."
-      ],
-      "analysis_fa": "این درخواست در واکنش به بحران انسانی و مدیریتی در شهر خودمختار سئوتا مطرح شده است. حضور طولانی‌مدت مهاجران در خیابان‌ها فشار مضاعفی بر زیرساخت‌های محلی وارد کرده و بحث درباره نحوه مدیریت مرزها و حمایت از مناطق مرزی را در سطح ملی تشدید کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سئوتا",
-        "#مهاجران",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1716,18 +1716,24 @@
       "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618517/balde-fuera-lista-viajar-elche-decision-flick.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8abe3c9f43c.r_d.956-673-0.jpeg",
       "published_at": "2026-08-23T11:34:25+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 68,
-      "title_fa": "Balde, fuera de la lista para Elche, abre nuevas alternativas en defensa",
-      "lead_fa": "Si el lateral acaba saliendo, el club podría apostar por una alternativa defensiva joven y de proyección ya que Flick está satisfecho con los centrales que tiene en la plantilla",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "غیبت بالده در فهرست الچه و گزینه‌های جدید دفاعی بارسلونا",
+      "lead_fa": "خط خوردن بالده از فهرست بازی با الچه گمانه‌زنی‌ها درباره آینده خط دفاعی بارسلونا را افزایش داده است. باشگاه ممکن است روی گزینه‌های جوان سرمایه‌گذاری کند.",
+      "key_points_fa": [
+        "غیبت بالده در فهرست بازی الچه",
+        "رضایت هانسی فلیک از مدافعان فعلی تیم",
+        "احتمال جذب گزینه دفاعی جوان و آینده‌دار در صورت جدایی بازیکن"
+      ],
+      "analysis_fa": "این تصمیم نشان‌دهنده انعطاف‌پذیری کادر فنی بارسلونا در مدیریت نفرات دفاعی و توجه به استعدادهای جوان در صورت ایجاد تغییرات در ترکیب است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#فوتبال_اسپانیا",
+        "#لالیگا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2132,18 +2138,25 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-23/tatyana-kim-la-mujer-mas-rica-de-rusia-con-un-imperio-en-llamas.html",
       "image": "https://imagenes.elpais.com/resizer/v2/RS4V4EPAOVEWLEKH6BIPT2DDDE.jpg?auth=020015478aae8ad380211159bcb79da695439abfb5282e88783b9bb1a726dd74",
       "published_at": "2026-08-23T03:40:00+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 66,
-      "title_fa": "Tatyana Kim, la mujer más rica de Rusia con un imperio en llamas",
-      "lead_fa": "Ucrania lleva un mes atacando las instalaciones de Wildberries, el mayor minorista en línea ruso, que acumula pérdidas de miles de millones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "تاتیانا کیم، ثروتمندترین زن روسیه و بحران در امپراتوری تجاری‌اش",
+      "lead_fa": "اوکراین طی یک ماه گذشته تأسیسات شرکت وایلدبریز، بزرگترین خرده‌فروش آنلاین روسیه را هدف حملات پهپادی قرار داده است. این حملات خسارات مالی سنگینی به این امپراتوری تجاری وارد کرده است.",
+      "key_points_fa": [
+        "تاتیانا کیم ثروتمندترین زن روسیه و مالک شرکت وایلدبریز است.",
+        "تأسیسات این خرده‌فروش آنلاین طی یک ماه گذشته هدف حملات اوکراین قرار گرفته است.",
+        "میزان خسارات وارده به هزاران میلیارد روبل می‌رسد."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این حملات نشان‌دهنده استراتژی جدید در جنگ برای ضربه زدن به زیرساخت‌های اقتصادی کلیدی و بخش خرده‌فروشی آنلاین روسیه است که می‌تواند بر ثبات مالی چهره‌های شاخص اقتصادی این کشور تأثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#روسیه",
+        "#اوکراین",
+        "#اقتصاد",
+        "#وایلدبریز"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2154,18 +2167,24 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-23/el-mar-de-fondo-de-wall-street-parece-inquietar-en-washington.html",
       "image": "https://imagenes.elpais.com/resizer/v2/WEIVFR4KVZP2VC3XZMVGJFUNRQ.jpg?auth=b8a0a20b207591a555641e22ae0d8c41fec3d4f772b966c472da90bc731ba74d",
       "published_at": "2026-08-23T03:40:00+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 66,
-      "title_fa": "El mar de fondo de Wall Street parece inquietar en Washington",
-      "lead_fa": "El Tesoro estadounidense mueve ficha para frenar el encarecimiento de la financiación a largo plazo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نگرانی وال استریت در واشنگتن و اقدام وزارت خزانه داری آمریکا",
+      "lead_fa": "وزارت خزانه داری ایالات متحده آمریکا برای مهار افزایش هزینه های تامین مالی بلندمدت وارد عمل شده است. این تحولات نشان دهنده نگرانی مقام های واشنگتن از وضعیت بازار مالی است.",
+      "key_points_fa": [
+        "واکنش وزارت خزانه داری آمریکا به شرایط بازار مالی",
+        "تلاش برای مهار روند صعودی هزینه های تامین مالی بلندمدت",
+        "تأثیر تحولات وال استریت بر تصمیم گیری های اقتصادی واشنگتن"
+      ],
+      "analysis_fa": "تحولات اخیر در بازارهای مالی و مداخلات وزارت خزانه داری آمریکا نشان دهنده تلاش دولت برای کنترل نرخ بهره بلندمدت و حفظ ثبات اقتصادی است. این دست اقدامات معمولاً برای جلوگیری از فشارهای تورمی و تامین مالی پایدار دولت صورت می گیرد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد_آمریکا",
+        "#وال_استریت",
+        "#خزانه_داری_آمریکا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2323,17 +2342,17 @@
       "editorial_version": 2
     },
     {
-      "id": "41632a10d53f",
+      "id": "c28f0bc14f19",
       "source": "EL PAÍS",
-      "title": "Al querer huir lo llaman viajar",
-      "summary": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
-      "url": "https://elpais.com/opinion/2026-08-23/al-querer-huir-lo-llaman-viajar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3XUJ7GODIZI4XC2EXO6FZDZI44.jpg?auth=8d50c99e1a2936b63be6b8104d17491da090816ba977eaaf6920c5fe4eae13ea",
+      "title": "Santiago y los desproporcionados",
+      "summary": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
+      "url": "https://elpais.com/opinion/2026-08-23/santiago-y-los-desproporcionados.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KZJTHIAOEFO7VNVLX5VF7B75HI.jpg?auth=f7524be65effb2eb169709b138e91a424fa9a836377113293d21064a74e37bf1",
       "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "turismo",
+      "category": "sociedad",
       "priority": 66,
-      "title_fa": "Al querer huir lo llaman viajar",
-      "lead_fa": "Intuyo que hay mucha voluntad de huida en los viajes en troquel de hoy en día. Sin embargo, la guadaña de todos los septiembres espera tras la esquina",
+      "title_fa": "Santiago y los desproporcionados",
+      "lead_fa": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2728,7 +2747,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 141
+      "count": 140
     },
     {
       "source": "EL PAÍS España",
@@ -2743,7 +2762,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 140
+      "count": 141
     }
   ]
 }
