@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:58:48.701633+00:00",
+  "generated_at": "2026-08-23T07:44:16.569555+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -347,6 +347,34 @@
         "#اسپانیا",
         "#سبته",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2a79c4d1eea2",
+      "source": "EL PAÍS",
+      "title": "Estabilizado el incendio forestal de Segorbe tras calcinar 630 hectáreas en la Sierra Calderona",
+      "summary": "El millar de vecinos de Gátova siguen desalojados desde el viernes",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-23/estabilizado-el-incendio-forestal-de-segorbe-tras-calcinar-630-hectareas-en-la-sierra-calderona.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CPQ4WEJYFRPH7MWJI2BRDIZITU.jpg?auth=eea75013ed4f87dd332c0a6e81cc4e367b294c9576f52ac6e12d801eefb61b86",
+      "published_at": "2026-08-23T06:42:49+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "مهار آتش‌سوزی جنگلی سگوربه پس از سوختن ۶۳۰ هکتار",
+      "lead_fa": "آرش‌سوزی جنگلی در منطقه سگوربه واقع در سیرا کالدرونا تثبیت و مهار شد. با این حال، هزار نفر از ساکنان گاتوا از روز جمعه همچنان در وضعیت تخلیه به سر می‌برند.",
+      "key_points_fa": [
+        "حریق ۶۳۰ هکتار از اراضی منطقه را خاکستر کرد.",
+        "هزار نفر از اهالی گاتوا از روز جمعه تخلیه شده‌اند.",
+        "عملیات مهار آتش در منطقه سیرا کالدرونا انجام شد."
+      ],
+      "analysis_fa": "تثبیت آتش‌سوزی نشان‌دهنده فروکش کردن بخش عمده‌ای از خطر اولیه است، اما تداوم تخلیه ساکنان گاتوا نشان می‌دهد شرایط امنیتی هنوز به حالت عادی بازنگشته و ارزیابی خسارات ادامه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#آتش‌سوزی",
+        "#اسپانیا",
+        "#سیراکالدرونا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -750,29 +778,30 @@
       "editorial_version": 2
     },
     {
-      "id": "b0fe8a89b529",
-      "source": "La Vanguardia",
-      "title": "Récords térmicos en el Cantábrico y tensión geopolítica en Kiev, entre las imágenes del día.",
-      "summary": "Récords térmicos en el Cantábrico, tensión geopolítica en Kiev, comicios en Brasil, luto sísmico en Colombia, comercio ganadero mexicano y fervor religioso con tradición taurina e hípica en España.",
-      "url": "https://www.lavanguardia.com/fotos/20260822/11618163/records-termicos-cantabrico-tension-geopolitica-kiev-imagenes-dia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a899bd88bae8.jpeg",
-      "published_at": "2026-08-22T16:56:26+02:00",
-      "category": "sociedad",
-      "priority": 75,
-      "title_fa": "رکوردشکنی دما در دریای کانتابریک و تحولات جهانی در تصاویر روز",
-      "lead_fa": "تصاویر منتخب روز شامل رکوردشکنی دما در شمال اسپانیا و تنش‌های ژئوپلیتیک در کی‌یف است. این مجموعه همچنین رویدادهای مختلفی از جمله انتخابات در برزیل و سنت‌های فرهنگی را پوشش می‌دهد.",
+      "id": "97b90c99ff1e",
+      "source": "EL PAÍS",
+      "title": "Los casos de silicosis crecen y Trabajo multiplica por cinco las multas a empresas: “Me falta el aire”",
+      "summary": "Las infracciones sancionadas por la Inspección de Trabajo, a las que ha tenido acceso EL PAÍS mediante Transparencia, se disparan a la vez que crecen los partes de enfermedad profesional por exposición a sílice cristalina",
+      "url": "https://elpais.com/economia/2026-08-23/la-silicosis-renace-en-espana-con-25-millones-de-euros-en-multas-a-empresas-desde-2019-me-falta-el-aire.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NREKASQ7X5H35MRFD4FS6POABQ.JPG?auth=c2d3e0ee0fddd0a0c73610872bf779a01476717aeb8a776e1daba1b86017f8f6",
+      "published_at": "2026-08-23T03:45:01+00:00",
+      "category": "economia",
+      "priority": 74,
+      "title_fa": "افزایش بیماری سیلیکوسیس و تشدید جریمه کارفرمایان متخلف در اسپانیا",
+      "lead_fa": "بازرسان کار اسپانیا جریمه شرکت‌های متخلف در زمینه ایمنی محیط کار را تا پنج برابر افزایش داده‌اند. این اقدام همزمان با رشد موارد ابتلا به بیماری سیلیکوسیس ناشی از قرار گرفتن در معرض سیلیس کریستالی صورت گرفته است.",
       "key_points_fa": [
-        "ثبت رکوردهای جدید دمایی در منطقه کانتابریک اسپانیا.",
-        "تداوم تنش‌های ژئوپلیتیک در کی‌یف پایتخت اوکراین.",
-        "بازتاب برگزاری انتخابات در برزیل و سوگواری پس از زمین‌لرزه در کلمبیا."
+        "افزایش چشمگیر جریمه‌ها توسط بازرسی کار اسپانیا برای شرکت‌های ناقض قوانین ایمنی",
+        "رشد آمار ابتلا به بیماری حرفه‌ای سیلیکوسیس در میان کارگران",
+        "ارتباط مستقیم این بیماری با قرار گرفتن در معرض ذرات سیلیس کریستالی"
       ],
-      "analysis_fa": "این گزیده تصویری بازتاب‌دهنده طیف متنوعی از رویدادهای مهم بین‌المللی و محلی است که از تغییرات اقلیمی تا تحولات سیاسی و فرهنگی را در بر می‌گیرد.",
+      "analysis_fa": "افزایش جریمه‌ها نشان‌دهنده تلاش نهادهای نظارتی اسپانیا برای مقابله با خطرات شغلی در صنایع مرتبط با سنگ و ساخت‌وساز است. با این حال، اثربخشی این جریمه‌ها در کاهش آمار بیماری نیازمند استمرار نظارت‌ها و پایبندی بیشتر کارفرمایان به استانداردهای ایمنی خواهد بود.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
+        "#سیلیکوسیس",
         "#اسپانیا",
-        "#اخبار_روز",
-        "#تغییرات_اقلیمی"
+        "#اقتصاد",
+        "#قوانین_کار"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -807,28 +836,6 @@
       "editorial_version": 2
     },
     {
-      "id": "97b90c99ff1e",
-      "source": "EL PAÍS",
-      "title": "Los casos de silicosis crecen y Trabajo multiplica por cinco las multas a empresas: “Me falta el aire”",
-      "summary": "Las infracciones sancionadas por la Inspección de Trabajo, a las que ha tenido acceso EL PAÍS mediante Transparencia, se disparan a la vez que crecen los partes de enfermedad profesional por exposición a sílice cristalina",
-      "url": "https://elpais.com/economia/2026-08-23/la-silicosis-renace-en-espana-con-25-millones-de-euros-en-multas-a-empresas-desde-2019-me-falta-el-aire.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NREKASQ7X5H35MRFD4FS6POABQ.JPG?auth=c2d3e0ee0fddd0a0c73610872bf779a01476717aeb8a776e1daba1b86017f8f6",
-      "published_at": "2026-08-23T03:45:01+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "Los casos de silicosis crecen y Trabajo multiplica por cinco las multas a empresas: “Me falta el aire”",
-      "lead_fa": "Las infracciones sancionadas por la Inspección de Trabajo, a las que ha tenido acceso EL PAÍS mediante Transparencia, se disparan a la vez que crecen los partes de enfermedad profesional por exposición a sílice cristalina",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b4706238e50b",
       "source": "EL PAÍS Economía",
       "title": "Las claves: dos colosos de la IA se miden en una carrera que se recordará mucho tiempo",
@@ -838,16 +845,21 @@
       "published_at": "2026-08-23T03:40:00+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "Las claves: dos colosos de la IA se miden en una carrera que se recordará mucho tiempo",
-      "lead_fa": "OpenAI y Anthropic preparan su salida a Bolsa, en la que parte con ventaja la empresa detrás de Claude",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "رقابت غول‌های هوش مصنوعی برای عرضه اولیه سهام در بورس",
+      "lead_fa": "شرکت‌های اوپن‌آی‌سی و انتروپیک در تدارک عرضه اولیه سهام خود در بورس هستند. در این میان، شرکت سازنده کلود از مزیت رقابتی اولیه برخوردار است.",
+      "key_points_fa": [
+        "آماده‌سازی اوپن‌آی و انتروپیک برای عرضه اولیه سهام",
+        "برتری نسبی شرکت انتروپیک، سازنده مدل هوش مصنوعی کلود، در این رقابت"
+      ],
+      "analysis_fa": "عرضه اولیه سهام این دو شرکت پیشتاز در حوزه هوش مصنوعی نشان‌دهنده ورود بازار فناوری به مرحله‌ای جدید از تجاری‌سازی و تامین مالی است. موفقیت هر یک از آن‌ها می‌تواند استانداردهای مالی و سرمایه‌گذاری را در صنعت هوش مصنوعی دگرگون کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#هوش_مصنوعی",
+        "#بورس",
+        "#اقتصاد_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1068,6 +1080,28 @@
       "editorial_version": 2
     },
     {
+      "id": "0e41d8744039",
+      "source": "La Vanguardia",
+      "title": "Un robot supera el récord mundial de Usain Bolt en los 100 metros",
+      "summary": "Durante una carrera en los Juegos Mundiales de Robots Humanoides en Pekín",
+      "url": "https://www.lavanguardia.com/vida/20260823/11618486/robot-supera-record-mundial-usain-bolt-100-metros.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a950295f6c.r_d.2803-1869-0.jpeg",
+      "published_at": "2026-08-23T08:40:14+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Un robot supera el récord mundial de Usain Bolt en los 100 metros",
+      "lead_fa": "Durante una carrera en los Juegos Mundiales de Robots Humanoides en Pekín",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "450912097e6a",
       "source": "La Vanguardia",
       "title": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
@@ -1079,292 +1113,6 @@
       "priority": 70,
       "title_fa": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
       "lead_fa": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2cbb35a8b2a8",
-      "source": "La Vanguardia",
-      "title": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
-      "summary": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
-      "url": "https://www.lavanguardia.com/elllobregat/sociedad/20260823/11617892/martorell-sera-pieza-clave-futuro-gran-eje-ferroviario-conectara-lleida-sagrera.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990cfbad5433.r_d.1978-1496-0.jpeg",
-      "published_at": "2026-08-23T06:10:00+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
-      "lead_fa": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0b50d38c40a6",
-      "source": "La Vanguardia",
-      "title": "El corralito de Trump",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/economia/20260823/11618257/corralito-trump.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89daab92604.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El corralito de Trump",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "43051f8011ef",
-      "source": "La Vanguardia",
-      "title": "A Trump se le escapa el mundo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/internacional/20260823/11617846/eeuu-trump-oriente-medio-iran-europa-america-asia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a887d8255d2b.r_d.271-386-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "A Trump se le escapa el mundo",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "104246f06120",
-      "source": "La Vanguardia",
-      "title": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
-      "summary": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente Natalie Harp a Donald Trump",
-      "url": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d52ae7e09.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
-      "lead_fa": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente Natalie Harp a Donald Trump",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "7839553c3c77",
-      "source": "La Vanguardia",
-      "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
-      "summary": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
-      "url": "https://www.lavanguardia.com/vida/20260823/11617640/donde-cuando-ver-luna-sangre-eclipse-lunar-proximo-viernes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882e3d9b0cc.r_d.3366-2320-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
-      "lead_fa": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1f7c5fb24ac1",
-      "source": "La Vanguardia",
-      "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
-      "summary": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
-      "url": "https://www.lavanguardia.com/economia/20260823/11618246/auge-vehiculo-usado-dispara-importacion-coches-viejos-europeos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d545ec672.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El auge del vehículo usado dispara la importación de coches viejos europeos",
-      "lead_fa": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6a6b84159c47",
-      "source": "La Vanguardia",
-      "title": "El Ebro contra el Mediterráneo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a859b8a5e24b.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El Ebro contra el Mediterráneo",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "41efa9cff9a1",
-      "source": "La Vanguardia",
-      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
-      "summary": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
-      "url": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89ab2eabd3f.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
-      "lead_fa": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8688371545f1",
-      "source": "La Vanguardia",
-      "title": "El ballenero vasco que nunca regresó a casa",
-      "summary": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618172/ballenero-vasco-nunca-regreso-casa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a8981f90f3f3.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El ballenero vasco que nunca regresó a casa",
-      "lead_fa": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "993dda004166",
-      "source": "La Vanguardia",
-      "title": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
-      "summary": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618219/japon-crea-nevera-humana-combatir-calor-extremo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89b8d32f9dc.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
-      "lead_fa": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1c75c499aa96",
-      "source": "La Vanguardia",
-      "title": "Caminar entre muertos para darles las gracias",
-      "summary": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11617639/caminar-muertos-darles-gracias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882be39f022.r_d.628-340-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Caminar entre muertos para darles las gracias",
-      "lead_fa": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "aee93ab65ba8",
-      "source": "La Vanguardia",
-      "title": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
-      "summary": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618234/rentree-internacional-veinte-voces-entender-mejor-mundo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d8294c1fb.r_d.624-324-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
-      "lead_fa": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "29ab2c9de6c2",
-      "source": "La Vanguardia",
-      "title": "Helados para perros en El Geladet",
-      "summary": "El negocio tiene dos locales en el Vallès Oriental y Barcelona y aspira a consolidarse como marca el año que viene",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618206/helados-perros-geladet.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89acef62a57.r_d.583-428-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "Helados para perros en El Geladet",
-      "lead_fa": "El negocio tiene dos locales en el Vallès Oriental y Barcelona y aspira a consolidarse como marca el año que viene",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1657,6 +1405,292 @@
       "editorial_version": 2
     },
     {
+      "id": "2cbb35a8b2a8",
+      "source": "La Vanguardia",
+      "title": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
+      "summary": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
+      "url": "https://www.lavanguardia.com/elllobregat/sociedad/20260823/11617892/martorell-sera-pieza-clave-futuro-gran-eje-ferroviario-conectara-lleida-sagrera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990cfbad5433.r_d.1978-1496-0.jpeg",
+      "published_at": "2026-08-23T06:10:00+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
+      "lead_fa": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0b50d38c40a6",
+      "source": "La Vanguardia",
+      "title": "El corralito de Trump",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/economia/20260823/11618257/corralito-trump.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89daab92604.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El corralito de Trump",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "43051f8011ef",
+      "source": "La Vanguardia",
+      "title": "A Trump se le escapa el mundo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/internacional/20260823/11617846/eeuu-trump-oriente-medio-iran-europa-america-asia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a887d8255d2b.r_d.271-386-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "A Trump se le escapa el mundo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "104246f06120",
+      "source": "La Vanguardia",
+      "title": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
+      "summary": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente al presidente",
+      "url": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d52ae7e09.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
+      "lead_fa": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente al presidente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7839553c3c77",
+      "source": "La Vanguardia",
+      "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
+      "summary": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
+      "url": "https://www.lavanguardia.com/vida/20260823/11617640/donde-cuando-ver-luna-sangre-eclipse-lunar-proximo-viernes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882e3d9b0cc.r_d.3366-2320-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
+      "lead_fa": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1f7c5fb24ac1",
+      "source": "La Vanguardia",
+      "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
+      "summary": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
+      "url": "https://www.lavanguardia.com/economia/20260823/11618246/auge-vehiculo-usado-dispara-importacion-coches-viejos-europeos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d545ec672.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El auge del vehículo usado dispara la importación de coches viejos europeos",
+      "lead_fa": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6a6b84159c47",
+      "source": "La Vanguardia",
+      "title": "El Ebro contra el Mediterráneo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a859b8a5e24b.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El Ebro contra el Mediterráneo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "41efa9cff9a1",
+      "source": "La Vanguardia",
+      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
+      "summary": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
+      "url": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89ab2eabd3f.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
+      "lead_fa": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8688371545f1",
+      "source": "La Vanguardia",
+      "title": "El ballenero vasco que nunca regresó a casa",
+      "summary": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
+      "url": "https://www.lavanguardia.com/cultura/20260823/11618172/ballenero-vasco-nunca-regreso-casa.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a8981f90f3f3.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El ballenero vasco que nunca regresó a casa",
+      "lead_fa": "La nao ‘San Juan’ se hundió en 1565 frente a Red Bay, en la península de Labrador, con mil barricas de aceite en la panza",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "993dda004166",
+      "source": "La Vanguardia",
+      "title": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
+      "summary": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
+      "url": "https://www.lavanguardia.com/vida/20260823/11618219/japon-crea-nevera-humana-combatir-calor-extremo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89b8d32f9dc.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
+      "lead_fa": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1c75c499aa96",
+      "source": "La Vanguardia",
+      "title": "Caminar entre muertos para darles las gracias",
+      "summary": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11617639/caminar-muertos-darles-gracias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882be39f022.r_d.628-340-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Caminar entre muertos para darles las gracias",
+      "lead_fa": "Este escenario, declarado Patrimonio Mundial este año, es un viaje único para conectar con la memoria histórica de Europa, pero conviene vigilar el riesgo de caer en la frivolidad del puro turismo épico de guerra",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "aee93ab65ba8",
+      "source": "La Vanguardia",
+      "title": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
+      "summary": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
+      "url": "https://www.lavanguardia.com/cultura/20260823/11618234/rentree-internacional-veinte-voces-entender-mejor-mundo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89d8294c1fb.r_d.624-324-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "'Rentrée internacional': veinte voces para entender mejor el mundo y a nosotros mismos",
+      "lead_fa": "Peter Handke, Tatiana Tîbuleac, Theodor Kallifatides, Éric Vuillard, Ali Smith o Jon Fosse, entre las novedades",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "29ab2c9de6c2",
+      "source": "La Vanguardia",
+      "title": "Helados para perros en El Geladet",
+      "summary": "El negocio tiene dos locales en el Vallès Oriental y Barcelona y aspira a consolidarse como marca el año que viene",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618206/helados-perros-geladet.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89acef62a57.r_d.583-428-0.jpeg",
+      "published_at": "2026-08-23T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 69,
+      "title_fa": "Helados para perros en El Geladet",
+      "lead_fa": "El negocio tiene dos locales en el Vallès Oriental y Barcelona y aspira a consolidarse como marca el año que viene",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b70885538010",
       "source": "La Vanguardia",
       "title": "Los trenes de Madrid",
@@ -1855,6 +1889,28 @@
       "editorial_version": 2
     },
     {
+      "id": "dc186dc53d7e",
+      "source": "EL PAÍS",
+      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b58c718d917c",
       "source": "EL PAÍS",
       "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
@@ -1888,28 +1944,6 @@
       "priority": 69,
       "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
       "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "dc186dc53d7e",
-      "source": "EL PAÍS",
-      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
-      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2042,28 +2076,6 @@
       "priority": 69,
       "title_fa": "‘La Odisea’ es nuestra historia",
       "lead_fa": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "475defe86553",
-      "source": "EL PAÍS",
-      "title": "Un verano con Homero",
-      "summary": "Hay algo odiseico en regresar a lugares que ya no existen exactamente como los dejamos y comprobar, quizá con un poco de miedo, que nosotros tampoco",
-      "url": "https://elpais.com/opinion/2026-08-23/un-verano-con-homero.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NH3BTPOMWJDBXFJQ3WADERHJMA.jpg?auth=92958eeaac948ca20329868653a6fb14c10fe5229299dc26460ad679f00b9f98",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Un verano con Homero",
-      "lead_fa": "Hay algo odiseico en regresar a lugares que ya no existen exactamente como los dejamos y comprobar, quizá con un poco de miedo, que nosotros tampoco",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2329,7 +2341,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a897eefb85a3.r_d.2006-1427-0.jpeg",
       "published_at": "2026-08-23T00:00:00+02:00",
       "category": "sociedad",
-      "priority": 68,
+      "priority": 67,
       "title_fa": "Peligro: gente sociable anda suelta",
       "lead_fa": "",
       "key_points_fa": [],
@@ -2562,7 +2574,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 139
+      "count": 140
     },
     {
       "source": "EL PAÍS España",
