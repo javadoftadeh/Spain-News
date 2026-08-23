@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T07:44:16.569555+00:00",
+  "generated_at": "2026-08-23T08:45:34.120735+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
     "1201a8fa4464",
+    "eb9bbd60e316",
     "3497a01034d3",
-    "14a5ebbf72f1",
-    "d77b80900aa6"
+    "14a5ebbf72f1"
   ],
   "items": [
     {
@@ -62,6 +62,36 @@
         "#دیوان_عالی",
         "#سئوتا",
         "#سیاست_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "eb9bbd60e316",
+      "source": "La Vanguardia",
+      "title": "Estabilizado el incendio de Segorbe tras calcinar 630 hectáreas y obligar a desalojar Gátova",
+      "summary": "Los bomberos dan por estabilizado a las 7.30 horas el fuego originado por un rayo en la Sierra Calderona, desmovilizan a la UME y rebajan la alerta del plan de incendios de nivel 2 a 1.",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618492/estabilizado-incendio-segorbe-calcinar-630-hectareas-obligar-desalojar-gatova.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a9ea01634b.r_d.2858-1905-0.jpeg",
+      "published_at": "2026-08-23T09:18:43+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "مهار آتش‌سوزی در جنگل‌های والنسیا پس از سوختن ۶۳۰ هکتار",
+      "lead_fa": "آتش‌سوزی گسترده در منطقه سیرا کالدرونا که بر اثر برخورد صاعقه آغاز شده بود، تثبیت شد. این حادثه به تخلیه اضطراری منطقه گاتُوا انجامید.",
+      "key_points_fa": [
+        "آتش‌سوزی در ساعت ۷:۳۰ صبح تثبیت و مهار شد.",
+        "حدود ۶۳۰ هکتار اراضی در این حریق طعمه حریق شد.",
+        "واحد نظامی اضطراری (UME) از منطقه خارج شد.",
+        "سطح هشدار بحران آتش‌سوزی از سطح ۲ به سطح ۱ کاهش یافت."
+      ],
+      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری مناطق جنگلی اسپانیا را در برابر آتش‌سوزی‌های ناشی از عوامل طبیعی مانند صاعقه نشان می‌دهد. اقدام سریع آتش‌نشانی و کاهش سطح هشدار حاکی از بهبود وضعیت است، اما خسارات وارده به محیط زیست قابل توجه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آتش‌سوزی_جنگل",
+        "#اسپانیا",
+        "#والنسیا",
+        "#محیط‌زیست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -355,7 +385,7 @@
       "id": "2a79c4d1eea2",
       "source": "EL PAÍS",
       "title": "Estabilizado el incendio forestal de Segorbe tras calcinar 630 hectáreas en la Sierra Calderona",
-      "summary": "El millar de vecinos de Gátova siguen desalojados desde el viernes",
+      "summary": "El millar de vecinos de Gátova sigue desalojado desde el viernes",
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-23/estabilizado-el-incendio-forestal-de-segorbe-tras-calcinar-630-hectareas-en-la-sierra-calderona.html",
       "image": "https://imagenes.elpais.com/resizer/v2/CPQ4WEJYFRPH7MWJI2BRDIZITU.jpg?auth=eea75013ed4f87dd332c0a6e81cc4e367b294c9576f52ac6e12d801eefb61b86",
       "published_at": "2026-08-23T06:42:49+00:00",
@@ -375,35 +405,6 @@
         "#آتش‌سوزی",
         "#اسپانیا",
         "#سیراکالدرونا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fba3156b7851",
-      "source": "La Vanguardia",
-      "title": "Los bomberos trabajan de madrugada para estabilizar el incendio de Segorbe",
-      "summary": "El fuego, que sigue activo, ya ha quemado 630 hectáreas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618481/bomberos-trabajan-madrugada-estabilizar-incendio-segorbe.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8875261e588.r_d.1416-1415-0.jpeg",
-      "published_at": "2026-08-23T06:42:40+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "تلاش آتش‌نشانان برای مهار آتش‌سوزی در سوگوربه",
-      "lead_fa": "آتش‌نشانان اسپانیایی در ساعات اولیه بامداد برای مهار آتش‌سوزی جنگلی در منطقه سوگوربه تلاش کردند. این حریق همچنان فعال است و تاکنون ۶۳۰ هکتار از اراضی را طعمه حریق کرده است.",
-      "key_points_fa": [
-        "عملیات اطفای حریق در طول شب گذشته ادامه داشت.",
-        "آتش‌سوزی هنوز مهار نشده و فعال است.",
-        "وسعت اراضی آسیب‌دیده به ۶۳۰ هکتار رسیده است."
-      ],
-      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری مناطق طبیعی اسپانیا را در برابر آتش‌سوزی‌های گسترده نشان می‌دهد. تلاش‌های تیم‌های امدادی بر تثبیت وضعیت و جلوگیری از پیشروی آتش متمرکز است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آتش‌سوزی",
-        "#سوگوربه",
-        "#اسپانیا",
-        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -603,6 +604,35 @@
         "#فانکومپاپ",
         "#اقتصاداسپانیا",
         "#بازار"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2cbb35a8b2a8",
+      "source": "La Vanguardia",
+      "title": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
+      "summary": "La Generalitat de Cataluña impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
+      "url": "https://www.lavanguardia.com/elllobregat/sociedad/20260823/11617892/martorell-sera-pieza-clave-futuro-gran-eje-ferroviario-conectara-lleida-sagrera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990cfbad5433.r_d.1978-1496-0.jpeg",
+      "published_at": "2026-08-23T09:10:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "نقش کلیدی مارتورل در محور جدید ریلی کاتالونیا",
+      "lead_fa": "دولت محلی کاتالونیا مطالعه‌ای برای راه‌اندازی محور ریلی جدید آغاز کرده است. شهر مارتورل به عنوان یکی از گره‌های اصلی این شبکه ارتباطی تعیین شده است.",
+      "key_points_fa": [
+        "تخصیص بودجه ۱.۱ میلیون یورویی توسط دولت کاتالونیا برای فاز نخست طرح",
+        "اتصال شهر لیدا به ایستگاه لا ساگررا در بارسلونا از طریق این خط ریلی",
+        "تبدیل مارتورل به نقطه اتصال کلیدی به سمت وایس و شمال بارسلونا"
+      ],
+      "analysis_fa": "این پروژه بخشی از تلاش‌های دولت کاتالونیا برای توسعه زیرساخت‌های حمل‌ونقل و بهبود اتصال میان مناطق مختلف این ایالت است. مطالعه امکان‌سنجی این طرح گام نخست در فرآیند طولانی ساخت این محور ریلی به شمار می‌رود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#کاتالونیا",
+        "#قطار",
+        "#بارسلونا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -808,7 +838,7 @@
     },
     {
       "id": "e0b42fcb3dd8",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "Veranos más calurosos, helados más caros: cómo la inflación ha impactado en el cucurucho",
       "summary": "El precio medio de este producto ha subido un 4,1% en un año, impulsado por el encarecimiento de la energía y de algunos ingredientes",
       "url": "https://elpais.com/economia/2026-08-23/veranos-mas-calurosos-helados-mas-caros-como-la-inflacion-ha-impactado-en-el-cucurucho.html",
@@ -872,16 +902,22 @@
       "published_at": "2026-08-23T03:30:01+00:00",
       "category": "politica",
       "priority": 74,
-      "title_fa": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
-      "lead_fa": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتقاد وزیر مهاجرت اسپانیا از نگاه ابزاری به مهاجران",
+      "lead_fa": "الما سایث، وزیر اینکلوژیون اسپانیا، برخی جریان‌ها را به تلاش برای پذیرش مهاجر بدون اعطای حقوق متهم کرد. وی تأکید کرد که جامعه سبتا نیازی به آشوبگران بیرونی ندارد.",
+      "key_points_fa": [
+        "انتقاد شدید وزیر از ایجاد شهروندان درجه یک و درجه دو",
+        "اشاره به نگاه ابزاری برخی گروه‌ها به مسئله مهاجرت",
+        "تمجید از پختگی و بلوغ اجتماعی شهر سبتا"
+      ],
+      "analysis_fa": "این اظهارات نشان‌دهنده چالش‌های عمیق سیاسی و اجتماعی در اسپانیا پیرامون حقوق مهاجران و مدیریت تنوع فرهنگی است. دولت تلاش می‌کند ضمن حفظ امنیت، رویکردی مبتنی بر حقوق انسانی را برجسته کند، در حالی که مخالفان دیدگاه‌های متفاوتی درباره کنترل مرزها دارند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مهاجران",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1102,17 +1138,17 @@
       "editorial_version": 2
     },
     {
-      "id": "450912097e6a",
-      "source": "La Vanguardia",
-      "title": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
-      "summary": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
-      "url": "https://www.lavanguardia.com/magazine/belleza/20260823/11616726/tres-jovenes-talentos-amaia-aberasturi-candela-saitta-zoe-arnao.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85e76468e88.jpeg",
-      "published_at": "2026-08-23T06:55:00+02:00",
+      "id": "b93ac63eaf76",
+      "source": "EL PAÍS",
+      "title": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
+      "summary": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
+      "url": "https://elpais.com/tecnologia/2026-08-23/un-robot-chino-bate-el-record-mundial-de-usain-bolt-en-100-metros.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206924_082626_video_1800.mp4",
+      "published_at": "2026-08-23T07:47:43+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
-      "lead_fa": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
+      "title_fa": "Un robot chino bate el récord mundial de Usain Bolt en 100 metros",
+      "lead_fa": "China celebra la segunda edición de los Juegos Mundiales de Robots Humanoides",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1405,17 +1441,17 @@
       "editorial_version": 2
     },
     {
-      "id": "2cbb35a8b2a8",
+      "id": "450912097e6a",
       "source": "La Vanguardia",
-      "title": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
-      "summary": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
-      "url": "https://www.lavanguardia.com/elllobregat/sociedad/20260823/11617892/martorell-sera-pieza-clave-futuro-gran-eje-ferroviario-conectara-lleida-sagrera.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990cfbad5433.r_d.1978-1496-0.jpeg",
-      "published_at": "2026-08-23T06:10:00+02:00",
-      "category": "deportes",
+      "title": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
+      "summary": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
+      "url": "https://www.lavanguardia.com/magazine/belleza/20260823/11616726/tres-jovenes-talentos-amaia-aberasturi-candela-saitta-zoe-arnao.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85e76468e88.jpeg",
+      "published_at": "2026-08-23T06:55:00+02:00",
+      "category": "sociedad",
       "priority": 69,
-      "title_fa": "Martorell será una pieza clave en el futuro gran eje ferroviario que conectará Lleida con La Sagrera",
-      "lead_fa": "La Generalitat de Catalunya impulsa un estudio de 1,1 millones de euros para definir la primera fase del Eix Transversal Ferroviari, que tendrá un nodo principal en la capital del Baix Llobregat Nord camino del Vallès y la estación del norte de Barcelona",
+      "title_fa": "Tres jóvenes talentos: Amaia Aberasturi, Candela Saitta y Zoé Arnao",
+      "lead_fa": "Tres actrices que hablan de carácter, oficio y ambición arropadas por el maquillaje de Dior",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1691,28 +1727,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b70885538010",
-      "source": "La Vanguardia",
-      "title": "Los trenes de Madrid",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618104/trenes-madrid.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896a2c473d0.jpeg",
-      "published_at": "2026-08-23T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Los trenes de Madrid",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d003b059c77a",
       "source": "EL PAÍS",
       "title": "La sombra de Estados Unidos se alarga sobre el sur de Groenlandia: “Vamos a perder nuestras casas”",
@@ -1955,28 +1969,6 @@
       "editorial_version": 2
     },
     {
-      "id": "aba52d5ababa",
-      "source": "EL PAÍS",
-      "title": "Elena Laguía, la joven que sabía escuchar",
-      "summary": "La Fundación Colisée confió en ella y le encomendó amparar a ancianos y ancianas que viven solos",
-      "url": "https://elpais.com/opinion/2026-08-23/elena-laguia-la-joven-que-sabia-escuchar.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZAXJTWKU2BB7VIOWWAODSMKLWE.jpg?auth=fa9763ea91e7944c50ef55cf150e4f0367a0ed193247486d23a05b8ee409c86f",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Elena Laguía, la joven que sabía escuchar",
-      "lead_fa": "La Fundación Colisée confió en ella y le encomendó amparar a ancianos y ancianas que viven solos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "982939e3a43c",
       "source": "EL PAÍS",
       "title": "Seis meses de fracaso en Irán",
@@ -2175,17 +2167,17 @@
       "editorial_version": 2
     },
     {
-      "id": "19f1a67e4269",
-      "source": "EL PAÍS Economía",
-      "title": "La era de la inteligencia exponencial",
-      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
+      "id": "d4e977a3e798",
+      "source": "EL PAÍS",
+      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
       "published_at": "2026-08-23T03:30:00+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La era de la inteligencia exponencial",
-      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2197,17 +2189,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d4e977a3e798",
+      "id": "19f1a67e4269",
       "source": "EL PAÍS Economía",
-      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
+      "title": "La era de la inteligencia exponencial",
+      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
       "published_at": "2026-08-23T03:30:00+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "title_fa": "La era de la inteligencia exponencial",
+      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2523,6 +2515,28 @@
       "editorial_version": 2
     },
     {
+      "id": "738cb57c13ab",
+      "source": "La Vanguardia",
+      "title": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
+      "summary": "Valderrama defiende el nuevo protocolo que permite integrar a los seis servicios de bomberos bajo un mismo mecanismo, pero no convence a la oposición",
+      "url": "https://www.lavanguardia.com/local/valencia/20260822/11617733/fuego-ceba-provincia-castellon-padece-99-4-todas-hectareas-quemadas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6dc8e79b6e5.r_d.4112-2359-0.jpeg",
+      "published_at": "2026-08-22T05:30:00+02:00",
+      "category": "sociedad",
+      "priority": 61,
+      "title_fa": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
+      "lead_fa": "Valderrama defiende el nuevo protocolo que permite integrar a los seis servicios de bomberos bajo un mismo mecanismo, pero no convence a la oposición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f548669ba8c1",
       "source": "EL PAÍS",
       "title": "¿Cómo de ‘rico’ eres? Consulta tu posición por sueldo, renta y patrimonio",
@@ -2574,7 +2588,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 140
+      "count": 141
     },
     {
       "source": "EL PAÍS España",
