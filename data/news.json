@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:36:10.184185+00:00",
+  "generated_at": "2026-08-23T20:56:31.452187+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -553,6 +553,34 @@
       "editorial_version": 2
     },
     {
+      "id": "9b29cde76abc",
+      "source": "EL PAÍS",
+      "title": "Elche - Barcelona en directo | Comienza la segunda mitad en el Martínez Valero",
+      "summary": "Raphinha adelantó a los de Flick con un tanto de penalti que él mismo provocó y Adeyemi marcó el segundo | Gavi se marchó lesionado y entró Pedri",
+      "url": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/V5LZX446IJOTFASP4O7ZRFZ4WY.jpg?auth=7a4d68cfd3c3a09f5cbbdbbff3dfb246bb94fc79363644afc197dc783141957f",
+      "published_at": "2026-08-23T20:47:49+00:00",
+      "category": "deportes",
+      "priority": 75,
+      "title_fa": "آغاز بازی بارسلونا و الچه در استادیوم مارتینز والرو",
+      "lead_fa": "دیدار تیم‌های الچه و بارسلونا در چارچوب مسابقات این فصل آغاز شد. هانسی فیلک تیم خود را با ترکیب جدید به میدان فرستاده است.",
+      "key_points_fa": [
+        "آدیمی در خط حمله بارسلونا به میدان رفته است.",
+        "کریستنسن در خط دفاعی تیم بارسلونا حضور دارد.",
+        "الچه در نخستین بازی خود برابر لاکرونیا به نتیجه مساوی دست یافته بود."
+      ],
+      "analysis_fa": "این مسابقه نخستین محک جدی برای تیم بارسلونا تحت هدایت کادر فنی جدید در فصل جاری به شمار می‌رود. حریف آن‌ها یعنی الچه نیز تلاش می‌کند با تکیه بر نتیجه بازی قبل خود امتیاز بگیرد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#الچه",
+        "#لالیگا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "1d2c53ee01bd",
       "source": "La Vanguardia",
       "title": "Tailandia deporta a cinco instructores de buceo españoles",
@@ -577,34 +605,6 @@
         "#اسپانیا",
         "#مهاجرت",
         "#اخراج"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "9b29cde76abc",
-      "source": "EL PAÍS",
-      "title": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
-      "summary": "Raphinha adelantó a los de Flick con un tanto de penalti que él mismo provocó | Gavi se marchó lesionado y entró Pedri",
-      "url": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/V5LZX446IJOTFASP4O7ZRFZ4WY.jpg?auth=7a4d68cfd3c3a09f5cbbdbbff3dfb246bb94fc79363644afc197dc783141957f",
-      "published_at": "2026-08-23T20:24:20+00:00",
-      "category": "deportes",
-      "priority": 75,
-      "title_fa": "آغاز بازی بارسلونا و الچه در استادیوم مارتینز والرو",
-      "lead_fa": "دیدار تیم‌های الچه و بارسلونا در چارچوب مسابقات این فصل آغاز شد. هانسی فیلک تیم خود را با ترکیب جدید به میدان فرستاده است.",
-      "key_points_fa": [
-        "آدیمی در خط حمله بارسلونا به میدان رفته است.",
-        "کریستنسن در خط دفاعی تیم بارسلونا حضور دارد.",
-        "الچه در نخستین بازی خود برابر لاکرونیا به نتیجه مساوی دست یافته بود."
-      ],
-      "analysis_fa": "این مسابقه نخستین محک جدی برای تیم بارسلونا تحت هدایت کادر فنی جدید در فصل جاری به شمار می‌رود. حریف آن‌ها یعنی الچه نیز تلاش می‌کند با تکیه بر نتیجه بازی قبل خود امتیاز بگیرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#الچه",
-        "#لالیگا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1352,18 +1352,24 @@
       "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618658/flick-duro-balde-esta-100.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b4349d21d8.r_d.2023-1295-0.jpeg",
       "published_at": "2026-08-23T21:01:54+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "Flick, muy duro con Balde: “No está aquí al 100%”",
-      "lead_fa": "El técnico del Barça explica la ausencia del defensa de la convocatoria: “Le he dicho que lo mejor es que se aclare las ideas”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتقاد شدید فلیک از بالده: او صد در صد آماده نیست",
+      "lead_fa": "سرمربی بارسلونا دلیل غیبت مدافع تیمش در فهرست مسابقات را توضیح داد. هانسی فلیک اعلام کرد که این بازیکن باید ذهن خود را متمرکز کند.",
+      "key_points_fa": [
+        "الخاندرو بالده از فهرست بازیکنان بارسلونا برای مسابقه کنار گذاشته شد.",
+        "هانسی فلیک صریحاً اعلام کرد که این مدافع در شرایط صد در صد قرار ندارد.",
+        "سرمربی بارسلونا به او توصیه کرده است تا افکار خود را مرتب کند."
+      ],
+      "analysis_fa": "تصمیم هانسی فلیک نشان‌دهنده رویکرد انضباطی سخت‌گیرانه او در بارسلونا است که در آن آمادگی کامل ذهنی و بدنی ملاک اصلی حضور در ترکیب تیم محسوب می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بارسلونا",
+        "#هانسی_فلیک",
+        "#لالیگا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1376,16 +1382,22 @@
       "published_at": "2026-08-23T20:23:01+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Taxistas denuncian que los crucerista pierden barcos y aviones por culpa del caos del puerto",
-      "lead_fa": "Élite Taxi asegura que algunos domingos tardan hasta tres horas en entrar y salir de las terminales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "اعتراض تاکسی‌ها به ترافیک بندر",
+      "lead_fa": "انجمن الیت تاکسی از تاخیرهای طولانی در پایانه‌های بندری خبر داد. مسافران کشتی‌های تفریحی به دلیل این وضعیت از پروازها و سفرهای دریایی خود جا می‌مانند.",
+      "key_points_fa": [
+        "ترافیک شدید در روزهای یکشنبه در پایانه‌های بندر ایجاد می‌شود.",
+        "زمان ورود و خروج تاکسی‌ها گاهی تا سه ساعت طول می‌کشد.",
+        "رانندگان تاکسی خواستار رسیدگی فوری به وضعیت نابسامان ترافیکی هستند."
+      ],
+      "analysis_fa": "اختلال در دسترسی به پایانه‌های بندری نه تنها بر خدمات حمل‌ونقل شهری تأثیر منفی می‌گذارد، بلکه می‌تواند اعتبار گردشگری منطقه را نیز تحت‌الشعاع قرار دهد. حل این مشکل نیازمند همکاری مدیریت بندر و نهادهای نظارتی برای بهبود جریان ترافیک است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#تاکسی",
+        "#گردشگری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1398,29 +1410,35 @@
       "published_at": "2026-08-23T20:12:51+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Trump clausura el 250 aniversario de EE. UU. con una carrera de Indycar en las calles de Washington",
-      "lead_fa": "El presidente cierra con el banderazo de salida unas conmemoraciones que han incluido un combate de lucha libre, un espectáculo de fuegos artificiales y una feria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پایان جشن‌های سالگرد آمریکا با مسابقه ایندی‌کار در واشنگتن",
+      "lead_fa": "رئیس‌جمهور آمریکا با پرچم‌داری یک مسابقه اتومبیل‌رانی، به مراسم دویست‌وپنجاهمین سالگرد کشور پایان داد. این رویدادها شامل برنامه‌های مختلفی از جمله کشتی حرفه‌ای و نمایش آتش‌بازی بود.",
+      "key_points_fa": [
+        "برگزاری مسابقه ایندی‌کار در خیابان‌های واشنگتن",
+        "اختتام رسمی جشن‌های دویست‌وپنجاهمین سالگرد تاسیس ایالات متحده",
+        "شامل شدن برنامه‌های متنوع مانند کشتی حرفه‌ای و نمایش آتش‌بازی در طول مراسم"
+      ],
+      "analysis_fa": "استفاده از رویدادهای سرگرمی و ورزشی برای مناسبت‌های ملی کلیدی، بخشی از رویکرد بزرگداشت مناسبت‌های تاریخی در ایالات متحده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آمریکا",
+        "#واشنگتن",
+        "#رویداد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
       "id": "f5a985ea0016",
       "source": "La Vanguardia",
-      "title": "¡Gol de Raphinha de penalti! (0-1) | El Barça debuta en Liga frente al Elche",
+      "title": "¡Descaso! (0-2) | El Barça debuta en Liga visitando al Elche",
       "summary": "",
       "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618626/elche-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b516d7500b.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b51bc7e6ab.jpeg",
       "published_at": "2026-08-23T20:00:16+02:00",
       "category": "deportes",
       "priority": 70,
-      "title_fa": "¡Gol de Raphinha de penalti! (0-1) | El Barça debuta en Liga frente al Elche",
+      "title_fa": "¡Descaso! (0-2) | El Barça debuta en Liga visitando al Elche",
       "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
