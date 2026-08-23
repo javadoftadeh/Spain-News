@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:33:13.489081+00:00",
+  "generated_at": "2026-08-23T21:54:38.559062+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -530,7 +530,7 @@
       "summary": "Un doblete de Raphinha, otro de Fermín y un tanto de Adeyemi dieron los primeros tres puntos ligueros a los de Flick | Gavi se marchó lesionado y entró Pedri",
       "url": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/V5LZX446IJOTFASP4O7ZRFZ4WY.jpg?auth=7a4d68cfd3c3a09f5cbbdbbff3dfb246bb94fc79363644afc197dc783141957f",
-      "published_at": "2026-08-23T21:27:51+00:00",
+      "published_at": "2026-08-23T21:40:30+00:00",
       "category": "deportes",
       "priority": 75,
       "title_fa": "آغاز بازی بارسلونا و الچه در استادیوم مارتینز والرو",
@@ -1742,10 +1742,10 @@
     {
       "id": "f5a985ea0016",
       "source": "La Vanguardia",
-      "title": "¡El cuarto, de Fermín! (0-4) | El Barça debuta en Liga visitando al Elche",
+      "title": "¡Final! (0-5) | El Barça debuta en la Liga goleando al Elche",
       "summary": "",
       "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618626/elche-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b5ab6d607e.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b633cbf3ab.jpeg",
       "published_at": "2026-08-23T20:00:16+02:00",
       "category": "deportes",
       "priority": 69,
@@ -2368,16 +2368,22 @@
       "published_at": "2026-08-23T03:30:01+00:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
-      "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "درمان‌های شخصی‌سازی‌شده ضد سرطان جایگزین واکسن واحد می‌شوند",
+      "lead_fa": "پس از دهه‌ها شکست در ساخت واکسن واحد برای سرطان، درمان‌های اختصاصی بر اساس نوع تومور هر بیمار به تایید نزدیک شده‌اند. این پیشرفت علمی گامی مهم در جهت تحول درمان ملانوما به شمار می‌رود.",
+      "key_points_fa": [
+        "شکست‌های دهه‌های گذشته در ساخت واکسن همگانی سرطان",
+        "توسعه درمان‌های منحصربه‌فرد برای هر بیمار و تومور خاص",
+        "نزدیکی به مرحله تایید رسمی درمان جدید برای ملانوما"
+      ],
+      "analysis_fa": "تمرکز پژوهش‌های پزشکی از ساخت یک واکسن عمومی به سمت درمان‌های شخصی‌سازی‌شده تغییر یافته است. این رویکرد جدید بر اساس ویژگی‌های ژنتیکی تومور هر فرد طراحی می‌شود که می‌تواند چشم‌انداز مقابله با سرطان‌های سخت مانند ملانوما را دگرگون کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#پزشکی",
+        "#سرطان",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2388,18 +2394,24 @@
       "url": "https://elpais.com/opinion/2026-08-23/seis-meses-de-fracaso-en-iran.html",
       "image": "https://imagenes.elpais.com/resizer/v2/5UJP54YXB5BJ7MJYP77VOFTNWM.jpg?auth=3a7efae1e44b0bf1d951726b9edbb1e88d8976e00d8a186aa9bd020fb3121690",
       "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "politica",
       "priority": 64,
-      "title_fa": "Seis meses de fracaso en Irán",
-      "lead_fa": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بن‌بست شش‌ماهه ترامپ در مواجهه با ایران",
+      "lead_fa": "نشریه ال‌پاییس در گزارشی ارزیابی کرد که دولت دونالد ترامپ پس از شش ماه نتوانسته به پیروزی نظامی دست یابد یا راه خروج آبرمندانه‌ای توافق کند. او اکنون در یک جنگ اقتصادی نامطمئن گرفتار شده است.",
+      "key_points_fa": [
+        "ناتوانی در کسب پیروزی نظامی در مواجهه با ایران",
+        "شکست در توافق برای خروج آبرمندانه از بحران",
+        "گرفتار شدن در یک جنگ اقتصادی پرابهام و فرساینده"
+      ],
+      "analysis_fa": "این گزارش تحلیلی به چالش‌های راهبردی دولت آمریکا در قبال ایران اشاره دارد و نشان می‌دهد که سیاست فشار حداکثری و جنگ اقتصادی تاکنون به اهداف تعیین‌شده نرسیده و وضعیت را پیچیده‌تر کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#ایران",
+        "#آمریکا",
+        "#الپاییس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2412,16 +2424,22 @@
       "published_at": "2026-08-23T03:30:01+00:00",
       "category": "sociedad",
       "priority": 64,
-      "title_fa": "Santiago y los desproporcionados",
-      "lead_fa": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دگرگونی عضلانی و تناسب اندام در قرن بیست و یکم",
+      "lead_fa": "بدن‌های قوی همیشه وجود داشته‌اند اما در قرن بیست و یکم افراد دارای عدم تقارن فیزیکی افزایش یافته‌اند. این تغییرات جسمانی بازتابی از روندهای جدید در جامعه است.",
+      "key_points_fa": [
+        "وجود تاریخی بدن‌های قدرتمند در جوامع مختلف",
+        "افزایش افراد با فیزیک بدنی نامتقارن در عصر حاضر",
+        "تغییر الگوهای تناسب اندام و ظاهر فیزیکی"
+      ],
+      "analysis_fa": "این پدیده نشان‌دهنده تحول در نگرش افراد نسبت به ظاهر فیزیکی و استانداردهای رو به رشد تناسب اندام در دنیای مدرن است که ابعاد فرهنگی و اجتماعی مختلفی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#جامعه",
+        "#اسپانیا",
+        "#تناسب_اندام"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
