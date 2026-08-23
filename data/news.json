@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:45:34.120735+00:00",
+  "generated_at": "2026-08-23T09:38:46.512921+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -377,6 +377,33 @@
         "#اسپانیا",
         "#سبته",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ddfea144bd36",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
+      "summary": "Miles de migrantes continúan en las calles de Ceuta tres semanas después de la entrada masiva del 30 de julio",
+      "url": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/O2ULBQ5L4ZJZVEGAQGSQHDMFVE.jpg?auth=3c0c728e43fcffe182b2ba4d394d7a885818c1dcad4027c8a430c6baf31ef080",
+      "published_at": "2026-08-23T09:15:23+00:00",
+      "category": "migracion",
+      "priority": 77,
+      "title_fa": "درخواست قرنطینه در سئوتا توسط فیخو به دلیل ریسک بهداشتی",
+      "lead_fa": "رهبر حزب مردمی اسپانیا خواستار قرنطینه سئوتا شد. این درخواست به دنبال ورود هزاران مهاجر و نگرانی‌های بهداشتی مطرح شده است.",
+      "key_points_fa": [
+        "هزاران مهاجر سه هفته پس از ورود انبوه همچنان در خیابان‌های سئوتا حضور دارند.",
+        "آلبرتو نونِز فیخو به دلیل آنچه ریسک بهداشتی ساس و سل خوانده، خواستار اقدام فوری شد."
+      ],
+      "analysis_fa": "این درخواست در واکنش به بحران انسانی و مدیریتی در شهر خودمختار سئوتا مطرح شده است. حضور طولانی‌مدت مهاجران در خیابان‌ها فشار مضاعفی بر زیرساخت‌های محلی وارد کرده و بحث درباره نحوه مدیریت مرزها و حمایت از مناطق مرزی را در سطح ملی تشدید کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#سئوتا",
+        "#مهاجران",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -921,116 +948,6 @@
       "editorial_version": 2
     },
     {
-      "id": "56b36497607d",
-      "source": "EL PAÍS",
-      "title": "Europa, atrapada en sus muros",
-      "summary": "España y la UE han tejido una relación de dependencia con Marruecos al subcontratar el control de su frontera",
-      "url": "https://elpais.com/opinion/2026-08-23/europa-atrapada-en-sus-muros.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CP6CEEPFF5GALB4JJT3VQQHKP4.jpg?auth=61a2305ed6b2c2951196d94aa3e314e34de49b472d5cf04044830f48a41e1f89",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "migracion",
-      "priority": 74,
-      "title_fa": "Europa, atrapada en sus muros",
-      "lead_fa": "España y la UE han tejido una relación de dependencia con Marruecos al subcontratar el control de su frontera",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "48892a37f2eb",
-      "source": "EL PAÍS",
-      "title": "Todo se transforma menos la política",
-      "summary": "Los políticos no tienen los incentivos necesarios para destinar recursos a inversiones cuyos resultados carecen de auténtica visibilidad electoral",
-      "url": "https://elpais.com/opinion/2026-08-23/todo-se-transforma-menos-la-politica.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7JSMUV7PA5JUNI6DV4FQNESFNY.jpg?auth=4a1b70602e528c8ebee66906e174853aa36b9783a11de17c356b6597370fbe21",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Todo se transforma menos la política",
-      "lead_fa": "Los políticos no tienen los incentivos necesarios para destinar recursos a inversiones cuyos resultados carecen de auténtica visibilidad electoral",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e22aac799110",
-      "source": "EL PAÍS",
-      "title": "De Cicerón a Marina d’Or, auge y caída de la cultura de la segunda residencia",
-      "summary": "España tiene un parque de 7,72 millones de segundas viviendas y cada vez menos personas que puedan permitirse una. Esta es la historia de por qué el sueño de tener una casa de vacaciones nos obsesiona desde hace más de dos mil años",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-23/de-ciceron-a-marina-dor-auge-y-caida-de-la-cultura-de-la-segunda-residencia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VG2NIG2SFJDTBAIWZGUU6X4NKE.jpg?auth=a0cd08dbc15d6c2bf0ce4ed51877a7a6e979da3117d259c6c023788fce6b2103",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "De Cicerón a Marina d’Or, auge y caída de la cultura de la segunda residencia",
-      "lead_fa": "España tiene un parque de 7,72 millones de segundas viviendas y cada vez menos personas que puedan permitirse una. Esta es la historia de por qué el sueño de tener una casa de vacaciones nos obsesiona desde hace más de dos mil años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b5b81eca81e5",
-      "source": "EL PAÍS Economía",
-      "title": "Vivencias de una política monetaria zombi",
-      "summary": "Kevin Warsh tiene razón al reducir la verborrea. La Reserva Federal debería hablar menos y el Congreso preguntar más",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/vivencias-de-una-politica-monetaria-zombi.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4HBXKMTK5RG6TFVKCV2VT324GE.jpg?auth=e860b80b546ae6dc75fbdd44f3bcbd67148ed0709974f32090c882ca1952715b",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Vivencias de una política monetaria zombi",
-      "lead_fa": "Kevin Warsh tiene razón al reducir la verborrea. La Reserva Federal debería hablar menos y el Congreso preguntar más",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "460097eda128",
-      "source": "EL PAÍS Economía",
-      "title": "Política industrial: ¿protegerse sin proteccionismo?",
-      "summary": "La reticencia a compartir soberanía a escala europea ha sido onerosa",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/politica-industrial-protegerse-sin-proteccionismo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7ZSYCAKUINJDPGIGRVJYAGFYNI.jpg?auth=83d8d38ea412b9519a54c5f801b3c81c3f54e59878178c685e1fe4ce10bcbcb9",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Política industrial: ¿protegerse sin proteccionismo?",
-      "lead_fa": "La reticencia a compartir soberanía a escala europea ha sido onerosa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "89b629f0b7b3",
       "source": "EL PAÍS Economía",
       "title": "Las sanciones por no pagar horas extra se triplican pero siguen sin frenar a las empresas incumplidoras",
@@ -1087,6 +1004,128 @@
       "editorial_version": 2
     },
     {
+      "id": "56b36497607d",
+      "source": "EL PAÍS",
+      "title": "Europa, atrapada en sus muros",
+      "summary": "España y la UE han tejido una relación de dependencia con Marruecos al subcontratar el control de su frontera",
+      "url": "https://elpais.com/opinion/2026-08-23/europa-atrapada-en-sus-muros.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CP6CEEPFF5GALB4JJT3VQQHKP4.jpg?auth=61a2305ed6b2c2951196d94aa3e314e34de49b472d5cf04044830f48a41e1f89",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "migracion",
+      "priority": 73,
+      "title_fa": "اروپا و چالش وابستگی به مراکش در کنترل مرزها",
+      "lead_fa": "اسپانیا و اتحادیه اروپا برای کنترل مرزهای خود وابستگی عمیقی به مراکش پیدا کرده‌اند. این وضعیت روابط دوجانبه را تحت تأثیر سیاست‌های مهاجرتی قرار داده است.",
+      "key_points_fa": [
+        "شکل‌گیری رابطه وابستگی میان اسپانیا، اتحادیه اروپا و مراکش",
+        "برون‌سپاری کنترل مرزهای اروپایی به دولت مراکش"
+      ],
+      "analysis_fa": "این گزارش به بررسی سیاست‌های مهاجرتی اتحادیه اروپا و اسپانیا می‌پردازد که در چارچوب آن، مهار جریان‌های مهاجرتی به کشورهای ثالث از جمله مراکش واگذار شده است. این رویکرد ابزارهای تازه‌ای در دیپلماسی مرزی ایجاد کرده اما چالش‌های حقوقی و انسانی نیز به همراه داشته است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مهاجرت",
+        "#اسپانیا",
+        "#اتحادیه_اروپا",
+        "#مراکش"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "48892a37f2eb",
+      "source": "EL PAÍS",
+      "title": "Todo se transforma menos la política",
+      "summary": "Los políticos no tienen los incentivos necesarios para destinar recursos a inversiones cuyos resultados carecen de auténtica visibilidad electoral",
+      "url": "https://elpais.com/opinion/2026-08-23/todo-se-transforma-menos-la-politica.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7JSMUV7PA5JUNI6DV4FQNESFNY.jpg?auth=4a1b70602e528c8ebee66906e174853aa36b9783a11de17c356b6597370fbe21",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "سیاستمداران و سرمایه‌گذاری‌های نامرئی",
+      "lead_fa": "سیاستمداران اسپانیایی انگیزه‌ای برای تخصیص منابع به پروژه‌های فاقد دیدگاه انتخاباتی ندارند. این مسئله روند سرمایه‌گذاری‌های بلندمدت را با چالش روبرو کرده است.",
+      "key_points_fa": [
+        "نبود انگیزه‌های سیاسی برای سرمایه‌گذاری‌های بدون دستاورد انتخاباتی سریع",
+        "چالش تخصیص منابع عمومی به پروژه‌های بلندمدت و زیرساختی",
+        "تأثیر ترجیح سود سیاسی کوتاه‌مدت بر توسعه پایدار"
+      ],
+      "analysis_fa": "ساختار رقابت‌های سیاسی اغلب به گونه‌ای است که بازیگران ترجیح می‌دهند منابع را صرف طرح‌هایی کنند که بازخورد سریع در انتخابات داشته باشد. این رویکرد به معنای غفلت از سرمایه‌گذاری‌های بنیادینی است که نتایج آن‌ها در بلندمدت آشکار می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سیاست",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e22aac799110",
+      "source": "EL PAÍS",
+      "title": "De Cicerón a Marina d’Or, auge y caída de la cultura de la segunda residencia",
+      "summary": "España tiene un parque de 7,72 millones de segundas viviendas y cada vez menos personas que puedan permitirse una. Esta es la historia de por qué el sueño de tener una casa de vacaciones nos obsesiona desde hace más de dos mil años",
+      "url": "https://elpais.com/estilo-de-vida/2026-08-23/de-ciceron-a-marina-dor-auge-y-caida-de-la-cultura-de-la-segunda-residencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VG2NIG2SFJDTBAIWZGUU6X4NKE.jpg?auth=a0cd08dbc15d6c2bf0ce4ed51877a7a6e979da3117d259c6c023788fce6b2103",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "De Cicerón a Marina d’Or, auge y caída de la cultura de la segunda residencia",
+      "lead_fa": "España tiene un parque de 7,72 millones de segundas viviendas y cada vez menos personas que puedan permitirse una. Esta es la historia de por qué el sueño de tener una casa de vacaciones nos obsesiona desde hace más de dos mil años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b5b81eca81e5",
+      "source": "EL PAÍS Economía",
+      "title": "Vivencias de una política monetaria zombi",
+      "summary": "Kevin Warsh tiene razón al reducir la verborrea. La Reserva Federal debería hablar menos y el Congreso preguntar más",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/vivencias-de-una-politica-monetaria-zombi.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4HBXKMTK5RG6TFVKCV2VT324GE.jpg?auth=e860b80b546ae6dc75fbdd44f3bcbd67148ed0709974f32090c882ca1952715b",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Vivencias de una política monetaria zombi",
+      "lead_fa": "Kevin Warsh tiene razón al reducir la verborrea. La Reserva Federal debería hablar menos y el Congreso preguntar más",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "460097eda128",
+      "source": "EL PAÍS Economía",
+      "title": "Política industrial: ¿protegerse sin proteccionismo?",
+      "summary": "La reticencia a compartir soberanía a escala europea ha sido onerosa",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/politica-industrial-protegerse-sin-proteccionismo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7ZSYCAKUINJDPGIGRVJYAGFYNI.jpg?auth=83d8d38ea412b9519a54c5f801b3c81c3f54e59878178c685e1fe4ce10bcbcb9",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Política industrial: ¿protegerse sin proteccionismo?",
+      "lead_fa": "La reticencia a compartir soberanía a escala europea ha sido onerosa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "4a3ca2252add",
       "source": "EL PAÍS Economía",
       "title": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
@@ -1121,7 +1160,7 @@
       "title": "Un robot supera el récord mundial de Usain Bolt en los 100 metros",
       "summary": "Durante una carrera en los Juegos Mundiales de Robots Humanoides en Pekín",
       "url": "https://www.lavanguardia.com/vida/20260823/11618486/robot-supera-record-mundial-usain-bolt-100-metros.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a950295f6c.r_d.2803-1869-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a950295f6c.r_d.2644-988-0.jpeg",
       "published_at": "2026-08-23T08:40:14+02:00",
       "category": "sociedad",
       "priority": 70,
@@ -1295,33 +1334,6 @@
         "#لالیگا",
         "#اسپانیول",
         "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "09462b63a3df",
-      "source": "EL PAÍS",
-      "title": "Ceuta duplica esfuerzos para templar ánimos y ubicar a los migrantes",
-      "summary": "La proximidad del curso escolar obliga a acelerar la búsqueda de lugares de acogida, que causan recelo entre los vecinos. Sobrevuela el temor a que la tensión explote",
-      "url": "https://elpais.com/espana/2026-08-22/los-migrantes-de-ceuta-aceptan-los-espacios-de-acogida-pero-aun-recelan-de-que-sean-una-trampa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EMVTYVRDZJOGNG4PA2Q4ZSQ6UE.jpg?auth=7b787e99b753c056ef26a45beddf7812f83fce6484e96ea553001e051f763299",
-      "published_at": "2026-08-22T21:13:20+00:00",
-      "category": "migracion",
-      "priority": 70,
-      "title_fa": "ترس مهاجران سئوتا از مراکز اسکان: هدف اخراج آسان‌تر ماست",
-      "lead_fa": "بسیاری از جوانان مهاجر در سئوتا از ورود به مراکز اسکان خودداری می‌کنند. آنان نگرانند که این مکان‌ها ابزاری برای تسهیل اخراجشان از اسپانیا باشد.",
-      "key_points_fa": [
-        "بیشتر جوانان مهاجر در این اماکن غذا می‌خورند و می‌خوابند",
-        "گروهی از مهاجران همچنان از ترس اخراج به این فضاها نمی‌روند"
-      ],
-      "analysis_fa": "مراکز اسکان موقت در شهرهای مرزی اسپانیا بارها با چالش بی‌اعتمادی میان مهاجران و نهادهای دولتی مواجه بوده‌اند. این عدم تمایل به حضور در مراکز، چالش‌های مدیریت مهاجرت و اسکان را برای مقام‌های محلی دوچندان می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مهاجران",
-        "#سئوتا",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1859,358 +1871,6 @@
       "editorial_version": 2
     },
     {
-      "id": "38a158c74b0c",
-      "source": "EL PAÍS",
-      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "summary": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
-      "url": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "lead_fa": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fef787f5e271",
-      "source": "EL PAÍS",
-      "title": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
-      "summary": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
-      "url": "https://elpais.com/deportes/el-montanista/2026-08-23/miriam-garcia-pascual-el-mito-de-la-alpinista-que-murio-joven-y-dejo-por-testamento-un-libro-devorado-por-varias-generaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3HX6KHJ45FB2NPZWTXVGNUFFHQ.jpg?auth=18f58df7735b97cc464252864141b75262b62d924a50f818c06624d0bce12f77",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
-      "lead_fa": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "dc186dc53d7e",
-      "source": "EL PAÍS",
-      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
-      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
-      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b58c718d917c",
-      "source": "EL PAÍS",
-      "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
-      "summary": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
-      "url": "https://elpais.com/sociedad/2026-08-23/cuando-la-asesina-es-tambien-victima-el-juicio-a-la-mujer-con-un-trastorno-mental-que-mato-a-sus-tres-hijos-aviva-la-guerra-cultural-en-ee-uu.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TULTAIAHRZNFPCJAP5S56PS57A.jpg?auth=3844155fc3f956dd35dfcabc8a67d76ed34868aa411fe0e199fa466b5a490f4c",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
-      "lead_fa": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c5f671bf895b",
-      "source": "EL PAÍS",
-      "title": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
-      "summary": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "url": "https://elpais.com/ciencia/2026-08-23/no-habra-una-vacuna-contra-el-cancer-sino-una-distinta-para-cada-paciente-y-tumor.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
-      "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "982939e3a43c",
-      "source": "EL PAÍS",
-      "title": "Seis meses de fracaso en Irán",
-      "summary": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
-      "url": "https://elpais.com/opinion/2026-08-23/seis-meses-de-fracaso-en-iran.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5UJP54YXB5BJ7MJYP77VOFTNWM.jpg?auth=3a7efae1e44b0bf1d951726b9edbb1e88d8976e00d8a186aa9bd020fb3121690",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Seis meses de fracaso en Irán",
-      "lead_fa": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "61875cbc4dbc",
-      "source": "EL PAÍS",
-      "title": "Príncipe de la pasión, princesa de los paralelogramos",
-      "summary": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
-      "url": "https://elpais.com/opinion/2026-08-23/principe-de-la-pasion-princesa-de-los-paralelogramos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6G7KVZDX4RFOVHGPODBX2W4FXQ.jpg?auth=29349506d71427c8a627275d0f415ea98557ba811b6f3c38d41bcb2c538f92b0",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Príncipe de la pasión, princesa de los paralelogramos",
-      "lead_fa": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c28f0bc14f19",
-      "source": "EL PAÍS",
-      "title": "Santiago y los desproporcionados",
-      "summary": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
-      "url": "https://elpais.com/opinion/2026-08-23/santiago-y-los-desproporcionados.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/KZJTHIAOEFO7VNVLX5VF7B75HI.jpg?auth=f7524be65effb2eb169709b138e91a424fa9a836377113293d21064a74e37bf1",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Santiago y los desproporcionados",
-      "lead_fa": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "61c8290180d4",
-      "source": "EL PAÍS",
-      "title": "Moda agosteña de Flavita Banana: la corbata",
-      "summary": "Viñeta del 23 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-23/moda-agostena-de-flavita-banana-la-corbata.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/64LWKIMVN5E3JCKSB3OOFXITDI.jpg?auth=013c4c8d5971d95b009f3494916be6dc6186bdddeaaba9874bbaaecd0fc44d98",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Moda agosteña de Flavita Banana: la corbata",
-      "lead_fa": "Viñeta del 23 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "687a04424159",
-      "source": "EL PAÍS",
-      "title": "‘La Odisea’ es nuestra historia",
-      "summary": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
-      "url": "https://elpais.com/opinion/2026-08-23/la-odisea-es-nuestra-historia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BFMP7PE7PJH5HLY5LR7D5SBKHI.jpg?auth=a4de62e24d761fbe14e2a4aa9e09050437daeeccff14b722dd12113e0d1aac18",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "‘La Odisea’ es nuestra historia",
-      "lead_fa": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "97220709a705",
-      "source": "EL PAÍS España",
-      "title": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
-      "summary": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
-      "url": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
-      "lead_fa": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "894ea6c5deab",
-      "source": "EL PAÍS",
-      "title": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
-      "summary": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
-      "url": "https://elpais.com/ideas/2026-08-23/julian-casanova-historiador-goebbels-necesitaba-ocupar-paises-para-introducir-propaganda-elon-musk-necesita-tres-minutos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MA7CLORI2FDW3FCH26SS7TBXZY.jpg?auth=3e4b498e27f8f930aa9e0d7b2e6cb0690ab06262ac7488c154c416338200b1f2",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
-      "lead_fa": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e76173115fed",
-      "source": "EL PAÍS",
-      "title": "Diez recetas rápidas para terminar agosto sin esfuerzo",
-      "summary": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
-      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-23/diez-recetas-rapidas-para-terminar-agosto-sin-esfuerzo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/R2NS55N2UVDVVNYKE23KTCNQCA.jpg?auth=2a0e855d3a7763df7ecb767d2d0c0f0114a4370e692a763f41ee358aba20a4bd",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Diez recetas rápidas para terminar agosto sin esfuerzo",
-      "lead_fa": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "96587443ca09",
-      "source": "EL PAÍS",
-      "title": "‘Succession’ a la italiana: la batalla por el legado de Del Vecchio sacude el imperio de Luxottica y a una de las grandes dinastías europeas",
-      "summary": "Los ocho herederos del fundador del fabricante de gafas y monturas libran una guerra interna digna de la ficción de HBO, con hermanos y hermanastros enfrentados, acuerdos frustrados y demandas cruzadas",
-      "url": "https://elpais.com/gente/2026-08-23/succession-a-la-italiana-la-batalla-por-el-legado-de-del-vecchio-sacude-el-imperio-de-luxottica-y-a-una-de-las-grandes-dinastias-europeas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MELJCQUBNZAVPOWTZIDAE7GQHU.jpg?auth=9dbed2d19b0728075d6bb242f7c056d63575d43d124416928ceb3bca66cf25c9",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "‘Succession’ a la italiana: la batalla por el legado de Del Vecchio sacude el imperio de Luxottica y a una de las grandes dinastías europeas",
-      "lead_fa": "Los ocho herederos del fundador del fabricante de gafas y monturas libran una guerra interna digna de la ficción de HBO, con hermanos y hermanastros enfrentados, acuerdos frustrados y demandas cruzadas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d4e977a3e798",
-      "source": "EL PAÍS",
-      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
-      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "19f1a67e4269",
-      "source": "EL PAÍS Economía",
-      "title": "La era de la inteligencia exponencial",
-      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
-      "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La era de la inteligencia exponencial",
-      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b0976b480b1d",
       "source": "EL PAÍS España",
       "title": "Las 18 tumbas de Ceuta",
@@ -2322,6 +1982,358 @@
         "#تن_ماهی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "38a158c74b0c",
+      "source": "EL PAÍS",
+      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
+      "summary": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
+      "url": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
+      "lead_fa": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fef787f5e271",
+      "source": "EL PAÍS",
+      "title": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
+      "summary": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
+      "url": "https://elpais.com/deportes/el-montanista/2026-08-23/miriam-garcia-pascual-el-mito-de-la-alpinista-que-murio-joven-y-dejo-por-testamento-un-libro-devorado-por-varias-generaciones.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3HX6KHJ45FB2NPZWTXVGNUFFHQ.jpg?auth=18f58df7735b97cc464252864141b75262b62d924a50f818c06624d0bce12f77",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Miriam García Pascual, el mito de la alpinista que murió joven y dejó por testamento un libro devorado por varias generaciones",
+      "lead_fa": "‘Bájame una estrella’, escrito por la escaladora y publicado en 1991, fue el primer libro de la editorial Desnivel y con más de 35.000 ejemplares vendidos sigue siendo el libro de referencia de su catálogo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "dc186dc53d7e",
+      "source": "EL PAÍS",
+      "title": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "summary": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "url": "https://elpais.com/espana/madrid/2026-08-23/el-traductor-que-cobra-miles-de-euros-por-acompanar-a-pacientes-chinos-a-consulta-en-la-fundacion-jimenez-diaz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CGMDBD4PMJHVXIJZNH62ONEOEA.jpg?auth=a52a6da85715c2ca1402df2e85a39cbf1181144db6c7c4c28acd795b87ec7af5",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El traductor que cobra miles de euros por acompañar a pacientes chinos a consulta en la Fundación Jiménez Díaz",
+      "lead_fa": "El intérprete acompaña desde hace 20 años a más de una docena diaria de pacientes asiáticos para garantizar que entienden sus tratamientos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b58c718d917c",
+      "source": "EL PAÍS",
+      "title": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
+      "summary": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
+      "url": "https://elpais.com/sociedad/2026-08-23/cuando-la-asesina-es-tambien-victima-el-juicio-a-la-mujer-con-un-trastorno-mental-que-mato-a-sus-tres-hijos-aviva-la-guerra-cultural-en-ee-uu.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TULTAIAHRZNFPCJAP5S56PS57A.jpg?auth=3844155fc3f956dd35dfcabc8a67d76ed34868aa411fe0e199fa466b5a490f4c",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Cuando la asesina es también víctima: el juicio a la mujer con un trastorno mental que mató a sus tres hijos aviva la guerra cultural en EE UU",
+      "lead_fa": "El proceso contra Lindsay Clancy revela cómo buscó ayuda desesperadamente tras dar a luz y aviva el choque entre los que creen que sufría psicosis posparto y fue abandonada por el sistema y los que exigen un duro castigo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c5f671bf895b",
+      "source": "EL PAÍS",
+      "title": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
+      "summary": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
+      "url": "https://elpais.com/ciencia/2026-08-23/no-habra-una-vacuna-contra-el-cancer-sino-una-distinta-para-cada-paciente-y-tumor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "No habrá una vacuna contra el cáncer, sino una distinta para cada paciente y tumor",
+      "lead_fa": "Tras décadas de fracasos, un tratamiento frente al melanoma está muy cerca de aprobarse",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "982939e3a43c",
+      "source": "EL PAÍS",
+      "title": "Seis meses de fracaso en Irán",
+      "summary": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
+      "url": "https://elpais.com/opinion/2026-08-23/seis-meses-de-fracaso-en-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5UJP54YXB5BJ7MJYP77VOFTNWM.jpg?auth=3a7efae1e44b0bf1d951726b9edbb1e88d8976e00d8a186aa9bd020fb3121690",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Seis meses de fracaso en Irán",
+      "lead_fa": "Incapaz de lograr una victoria militar o de pactar una salida honrosa, Trump está empantanado en una incierta guerra económica",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "61875cbc4dbc",
+      "source": "EL PAÍS",
+      "title": "Príncipe de la pasión, princesa de los paralelogramos",
+      "summary": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
+      "url": "https://elpais.com/opinion/2026-08-23/principe-de-la-pasion-princesa-de-los-paralelogramos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6G7KVZDX4RFOVHGPODBX2W4FXQ.jpg?auth=29349506d71427c8a627275d0f415ea98557ba811b6f3c38d41bcb2c538f92b0",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Príncipe de la pasión, princesa de los paralelogramos",
+      "lead_fa": "Seguimos atrapados por la vieja dualidad: aún defendemos que ser racional depende de mantener la cabeza fría y las pasiones embridadas, no en la colaboración de ambas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c28f0bc14f19",
+      "source": "EL PAÍS",
+      "title": "Santiago y los desproporcionados",
+      "summary": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
+      "url": "https://elpais.com/opinion/2026-08-23/santiago-y-los-desproporcionados.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KZJTHIAOEFO7VNVLX5VF7B75HI.jpg?auth=f7524be65effb2eb169709b138e91a424fa9a836377113293d21064a74e37bf1",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Santiago y los desproporcionados",
+      "lead_fa": "Siempre existieron los cuerpos fuertes pero, en el siglo XXI proliferan personas físicamente asimétricas con el cuerpo hecho un cruasán",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "61c8290180d4",
+      "source": "EL PAÍS",
+      "title": "Moda agosteña de Flavita Banana: la corbata",
+      "summary": "Viñeta del 23 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-23/moda-agostena-de-flavita-banana-la-corbata.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/64LWKIMVN5E3JCKSB3OOFXITDI.jpg?auth=013c4c8d5971d95b009f3494916be6dc6186bdddeaaba9874bbaaecd0fc44d98",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Moda agosteña de Flavita Banana: la corbata",
+      "lead_fa": "Viñeta del 23 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "687a04424159",
+      "source": "EL PAÍS",
+      "title": "‘La Odisea’ es nuestra historia",
+      "summary": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
+      "url": "https://elpais.com/opinion/2026-08-23/la-odisea-es-nuestra-historia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/BFMP7PE7PJH5HLY5LR7D5SBKHI.jpg?auth=a4de62e24d761fbe14e2a4aa9e09050437daeeccff14b722dd12113e0d1aac18",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "‘La Odisea’ es nuestra historia",
+      "lead_fa": "La historia de nuestra civilización es la de esa forja de un individuo libre, abandonado por los dioses, desnudo sobre una playa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "97220709a705",
+      "source": "EL PAÍS España",
+      "title": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
+      "summary": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
+      "url": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
+      "lead_fa": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "894ea6c5deab",
+      "source": "EL PAÍS",
+      "title": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
+      "summary": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
+      "url": "https://elpais.com/ideas/2026-08-23/julian-casanova-historiador-goebbels-necesitaba-ocupar-paises-para-introducir-propaganda-elon-musk-necesita-tres-minutos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MA7CLORI2FDW3FCH26SS7TBXZY.jpg?auth=3e4b498e27f8f930aa9e0d7b2e6cb0690ab06262ac7488c154c416338200b1f2",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Julián Casanova, historiador: “Goebbels necesitaba ocupar países para introducir propaganda. Elon Musk necesita tres minutos”",
+      "lead_fa": "Uno de los grandes historiadores españoles se jubila. Julián Casanova deja las clases tras una vida dedicada a investigar y escribir sobre Franco, la Guerra Civil y la violencia del siglo XX. Avisa de que se están quebrando los valores que se consolidaron tras el rechazo a la atrocidad de la Segunda Guerra Mundial. El peligro no viene solo del fascismo, sino también de una oligarquía tecnológica que puede acabar con la posibilidad de llegar a acuerdos sobre la verdad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e76173115fed",
+      "source": "EL PAÍS",
+      "title": "Diez recetas rápidas para terminar agosto sin esfuerzo",
+      "summary": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
+      "url": "https://elpais.com/gastronomia/el-comidista/2026-08-23/diez-recetas-rapidas-para-terminar-agosto-sin-esfuerzo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R2NS55N2UVDVVNYKE23KTCNQCA.jpg?auth=2a0e855d3a7763df7ecb767d2d0c0f0114a4370e692a763f41ee358aba20a4bd",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Diez recetas rápidas para terminar agosto sin esfuerzo",
+      "lead_fa": "En pocos minutos puedes preparar platos resultones que van desde distintas ensaladas y pastas hasta un bocadillo o un pescado muy fácil",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "96587443ca09",
+      "source": "EL PAÍS",
+      "title": "‘Succession’ a la italiana: la batalla por el legado de Del Vecchio sacude el imperio de Luxottica y a una de las grandes dinastías europeas",
+      "summary": "Los ocho herederos del fundador del fabricante de gafas y monturas libran una guerra interna digna de la ficción de HBO, con hermanos y hermanastros enfrentados, acuerdos frustrados y demandas cruzadas",
+      "url": "https://elpais.com/gente/2026-08-23/succession-a-la-italiana-la-batalla-por-el-legado-de-del-vecchio-sacude-el-imperio-de-luxottica-y-a-una-de-las-grandes-dinastias-europeas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MELJCQUBNZAVPOWTZIDAE7GQHU.jpg?auth=9dbed2d19b0728075d6bb242f7c056d63575d43d124416928ceb3bca66cf25c9",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "‘Succession’ a la italiana: la batalla por el legado de Del Vecchio sacude el imperio de Luxottica y a una de las grandes dinastías europeas",
+      "lead_fa": "Los ocho herederos del fundador del fabricante de gafas y monturas libran una guerra interna digna de la ficción de HBO, con hermanos y hermanastros enfrentados, acuerdos frustrados y demandas cruzadas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d4e977a3e798",
+      "source": "EL PAÍS",
+      "title": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "summary": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-formula-de-la-casa-nido-para-los-divorcios-se-resquebraja.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NQUBAXCKORGUNC6MS7PO4H7E2M.jpg?auth=c031b94274fd100059b085c85f8c5c30b7c0b8652f853f7ba91d93ad8ebe5520",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La fórmula de la ‘casa nido’ para los divorcios se resquebraja",
+      "lead_fa": "Lo que fue una alternativa innovadora puede convertirse en fuente de problemas económicos y emocionales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "19f1a67e4269",
+      "source": "EL PAÍS Economía",
+      "title": "La era de la inteligencia exponencial",
+      "summary": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
+      "published_at": "2026-08-23T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La era de la inteligencia exponencial",
+      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2523,7 +2535,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6dc8e79b6e5.r_d.4112-2359-0.jpeg",
       "published_at": "2026-08-22T05:30:00+02:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "El fuego se ceba con la provincia de Castellón que padece el 99,4% de todas las hectáreas quemadas",
       "lead_fa": "Valderrama defiende el nuevo protocolo que permite integrar a los seis servicios de bomberos bajo un mismo mecanismo, pero no convence a la oposición",
       "key_points_fa": [],
@@ -2545,7 +2557,7 @@
       "image": "",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 61,
+      "priority": 60,
       "title_fa": "¿Cómo de ‘rico’ eres? Consulta tu posición por sueldo, renta y patrimonio",
       "lead_fa": "Analizo las tres cifras: salarios, ingresos y riqueza acumulada. La desigualdad crece de una a otra. Entras en el 10% con 52.000 de sueldo, 58.000 de ingresos y 380.000 de riqueza",
       "key_points_fa": [],
@@ -2603,7 +2615,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 141
+      "count": 142
     }
   ]
 }
