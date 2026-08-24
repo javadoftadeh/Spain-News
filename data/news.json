@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-08-24T14:01:22.858125+00:00",
+  "generated_at": "2026-08-24T14:56:31.906375+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "92f78c73bdba",
     "83c6d2128e60",
     "a0238eccdbec",
     "69944dcaf100",
-    "961058b41867",
-    "7cb2880501c9"
+    "961058b41867"
   ],
   "items": [
+    {
+      "id": "92f78c73bdba",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia un mando único para gestionar la crisis de Ceuta",
+      "summary": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del inicio de la entrada masiva de migrantes | Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas",
+      "url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AOTDI4DSKRHDLK7MVNTPS6GTKM.jpg?auth=cd5f4252c4ae82a2802c795ea7ea82c44299fa5f3a835665651236e18d72ace9",
+      "published_at": "2026-08-24T14:54:58+00:00",
+      "category": "migracion",
+      "priority": 89,
+      "title_fa": "اعلام فرماندهی واحد در اسپانیا برای مدیریت بحران مهاجرت سبتا",
+      "lead_fa": "دولت اسپانیا برای مدیریت بحران ورود مهاجران به سبتا فرماندهی واحد تشکیل داد. نخست‌وزیر همچنین شورای امنیت ملی را پس از ۲۶ روز از آغاز این بحران فراخواند.",
+      "key_points_fa": [
+        "تشکیل فرماندهی واحد برای مدیریت بحران مهاجرت در سبتا",
+        "فراخوانی شورای امنیت ملی اسپانیا توسط نخست‌وزیر پس از ۲۶ روز",
+        "اختصاص ۲۵ هزار دوز واکسن به سبتا برای پیشگیری از بیماری‌های عفونی"
+      ],
+      "analysis_fa": "تصمیم دولت برای ایجاد فرماندهی واحد و تشکیل شورای امنیت ملی نشان‌دهنده تلاش مادرید برای کنترل و هماهنگی بیشتر میان نهادهای مختلف در مواجهه با فشار مهاجرتی در مرزهای جنوبی است. این اقدامات پس از هفته‌ها تنش و چالش‌های مدیریتی در سبتا صورت می‌گیرد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبتا",
+        "#مهاجرت",
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "83c6d2128e60",
       "source": "EL PAÍS",
@@ -16,7 +45,7 @@
       "summary": "La reunión, que se celebrará horas antes del Consejo de Ministros de este martes, contará con la presencia del presidente de la ciudad, Juan Jesús Vivas",
       "url": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html",
       "image": "https://imagenes.elpais.com/resizer/v2/RRETXGAZAZCCNOJU3SI3RDJRN4.jpg?auth=90922dc4f491fef5ad9326f4ceddfbfb8d007a093bc980696908c7681bb44ede",
-      "published_at": "2026-08-24T13:30:08+00:00",
+      "published_at": "2026-08-24T14:08:55+00:00",
       "category": "politica",
       "priority": 82,
       "title_fa": "فراخوان شورای امنیت ملی اسپانیا توسط سانچز پس از بحران سبته",
@@ -38,7 +67,7 @@
     },
     {
       "id": "a0238eccdbec",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "La frontera interior de Ceuta",
       "summary": "La crisis migratoria se percibe de manera muy distinta en los diferentes barrios de la ciudad autónoma",
       "url": "https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html",
@@ -173,6 +202,63 @@
         "#اسپانیا",
         "#مدیریت_بحران",
         "#شبکه‌های_اجتماعی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "612b2d507c16",
+      "source": "La Vanguardia",
+      "title": "Levantan el confinamiento de los vecinos de Gátova afectados por el incendio de Segorbe",
+      "summary": "El levantamiento de las restricciones permite recuperar la actividad habitual, aunque siguen cerrados los accesos al monte y los vecinos deberán consumir agua embotellada hasta conocer las nuevas analíticas",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11619225/levantan-confinamiento-vecinos-gatova-afectados-incendio-segorbe.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c52a000448.jpeg",
+      "published_at": "2026-08-24T16:19:24+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "پایان قرنطینه اهالی گاتوا در پی کنترل آتش‌سوزی سگوربه",
+      "lead_fa": "محدودیت‌های تردد برای ساکنان منطقه گاتوا در پی آتش‌سوزی سگوربه لغو شد. با این حال، دسترسی به مناطق جنگلی همچنان مسدود است.",
+      "key_points_fa": [
+        "لغو محدودیت‌ها به ساکنان اجازه داد به فعالیت‌های عادی خود بازگردند.",
+        "مسیرهای ورودی به مناطق جنگلی همچنان بسته هستند.",
+        "اهالی باید تا زمان اعلام نتایج آزمایش‌های جدید، از آب معدنی استفاده کنند."
+      ],
+      "analysis_fa": "مهار آتش‌سوزی در سگوربه به مقامات اجازه داده است تا محدودیت‌های خروج و اقامت اجباری را برای ساکنان گاتوا بردارند. با وجود بازگشت شرایط به حالت عادی، تدابیر احتیاطی در خصوص منابع آب و دسترسی به طبیعت همچنان پابرجا است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش_سوزی",
+        "#اخبار_اسپانیا",
+        "#مهاجران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "be8b9af27766",
+      "source": "La Vanguardia",
+      "title": "El mundo en fotografías, las imágenes del día",
+      "summary": "De la situación migratoria en Ceuta y el aniversario de la independencia de Ucrania a los robots humanoides de Pekín, los incendios en Colombia y las escenas más curiosas de la jornada.",
+      "url": "https://www.lavanguardia.com/fotos/20260824/11619031/mundo-fotografias-imagenes-dia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c28a7cf4dc.r_d.2383-3097-0.jpeg",
+      "published_at": "2026-08-24T15:25:23+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تصاویر منتخب روز در جهان: از سئوته تا پکن",
+      "lead_fa": "رسانه اسپانیایی لا وانگواردیا مجموعه‌ای از تصاویر مهم خبری روز را منتشر کرد. این تصاویر شامل رویدادهای گوناگون سیاسی، اجتماعی و طبیعی در نقاط مختلف جهان است.",
+      "key_points_fa": [
+        "وضعیت مهاجرتی در سئوته",
+        "سالگرد استقلال اوکراین",
+        "ربات‌های انسان‌نما در پکن و آتش‌سوزی‌ها در کلمبیا"
+      ],
+      "analysis_fa": "انتشار تصاویر روزانه رویدادهای جهانی راهکاری رسانه‌ای برای بازتاب سریع و همزمان بحران‌ها و پیشرفت‌های تکنولوژیک است که توجه مخاطبان را به تنوع تحولات بین‌المللی جلب می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#تصاویر_روز",
+        "#اخبار_جهان",
+        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -375,6 +461,72 @@
         "#امنیت_ملی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3355bb651172",
+      "source": "EL PAÍS Economía",
+      "title": "Draghi lanza un grupo de trabajo para materializar su agenda de reformas europeas",
+      "summary": "La fundación estará dirigida por el economista español Luis Garicano y tiene miembros del mundo empresarial como Carlos Torres (BBVA) y académico, como el Nobel Philippe Aghion",
+      "url": "https://elpais.com/economia/2026-08-24/draghi-lanza-un-grupo-de-trabajo-para-materializar-su-agenda-de-reformas-europeas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5F37B3CRTVPY3LAURQAC3XAB2Q.jpg?auth=3252657e149637416e38bdb5f915f0b97626e1f839e393535a441064966c5eee",
+      "published_at": "2026-08-24T14:32:05+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Draghi lanza un grupo de trabajo para materializar su agenda de reformas europeas",
+      "lead_fa": "La fundación estará dirigida por el economista español Luis Garicano y tiene miembros del mundo empresarial como Carlos Torres (BBVA) y académico, como el Nobel Philippe Aghion",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f229ea5a67e3",
+      "source": "EL PAÍS",
+      "title": "Juan José Mutilba, el empresario burgalés de bidones de agua al que buscan en el Mediterráneo",
+      "summary": "El hombre desaparecido tras caer al mar hace días entre Italia y Grecia suele navegar y pescar",
+      "url": "https://elpais.com/espana/2026-08-24/juan-jose-mutilba-el-empresario-burgales-de-bidones-de-agua-al-que-buscan-en-el-mediterraneo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JOGR2BFAB5ESDET7YWBGTEAL3A.jpg?auth=47e17c1aa07a6b2429d41e4d3d1fed41b71e7b52f39f980ca00c1dc23c1b0c77",
+      "published_at": "2026-08-24T14:20:08+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Juan José Mutilba, el empresario burgalés de bidones de agua al que buscan en el Mediterráneo",
+      "lead_fa": "El hombre desaparecido tras caer al mar hace días entre Italia y Grecia suele navegar y pescar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ddeb3f1c31d9",
+      "source": "EL PAÍS Economía",
+      "title": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
+      "summary": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellos en la hostelería",
+      "url": "https://elpais.com/economia/2026-08-24/los-empleos-vinculados-al-turismo-marcan-un-nuevo-record-en-julio-con-31-millones-de-trabajadores.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6JBOJSSJDFFFXNFTO5ED55NAHA.jpg?auth=6a8eb233e06c9c0eed95fbc23214c225232911b8057e9f9e7ba4dc479e682df6",
+      "published_at": "2026-08-24T13:58:48+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
+      "lead_fa": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellos en la hostelería",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -623,7 +775,7 @@
     },
     {
       "id": "28e195ede6fd",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Desaparecido un empresario español tras caer de su barco entre Italia y Grecia",
       "summary": "Salvamento Marítimo busca al hombre de 66 años desde el pasado viernes",
       "url": "https://elpais.com/espana/2026-08-23/desaparecido-un-empresario-espanol-tras-caer-de-su-barco-entre-italia-y-grecia.html",
@@ -926,62 +1078,6 @@
       "editorial_version": 2
     },
     {
-      "id": "89b629f0b7b3",
-      "source": "EL PAÍS Economía",
-      "title": "Las sanciones por no pagar horas extra se triplican pero siguen sin frenar a las empresas incumplidoras",
-      "summary": "Las multas de la Inspección pasan de 5,3 millones en 2018 a 15,7 en 2025 mientras volumen de tiempo no compensado se mantiene estable. Los sindicatos calculan un ahorro empresarial de 3.378 millones",
-      "url": "https://elpais.com/economia/2026-08-22/las-sanciones-por-no-pagar-horas-extra-se-triplican-pero-siguen-sin-frenar-a-las-empresas-incumplidoras.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/MAXE57BZJFCUDJ335ZRRQHQMTY.jpg?auth=ed18e2362bcfa8530fb86080664c2d5fcad23445db4d1249be906ccde6446b9c",
-      "published_at": "2026-08-22T03:45:01+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "افزایش سه‌برابری جریمه‌های عدم پرداخت اضافه‌کاری در اسپانیا",
-      "lead_fa": "جریمه‌های بازرسی کار برای عدم پرداخت اضافه‌کاری در اسپانیا از ۵.۳ میلیون یورو در سال ۲۰۱۸ به ۱۵.۷ میلیون یورو در سال ۲۰۲۵ رسیده است. با وجود این افزایش، حجم ساعات کاری جبران‌نشده ثابت مانده و اتحادیه‌ها از پس‌انداز میلیاردی شرکت‌ها خبر می‌دهند.",
-      "key_points_fa": [
-        "افزایش جریمه‌های بازرسی کار از ۵.۳ میلیون یورو به ۱۵.۷ میلیون یورو",
-        "ثابت ماندن حجم ساعات کاری جبران‌نشده با وجود جرایم سنگین‌تر",
-        "برآورد اتحادیه‌ها از پس‌انداز ۳ میلیارد و ۳۷۸ میلیون یورویی برای شرکت‌های متخلف"
-      ],
-      "analysis_fa": "رشد جریمه‌های مالی نشان‌دهنده تشدید نظارت‌هاست، اما تداوم تخلفات شرکت‌ها بیانگر ناکافی بودن بازدارندگی قوانین کنونی یا عدم تناسب جرایم با سود حاصل از عدم پرداخت دستمزد اضافه‌کاری است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#قوانین_کار"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d900f68eb8ce",
-      "source": "EL PAÍS",
-      "title": "¿Nos encaminamos a un Hiroshima de la IA?",
-      "summary": "A diferencia de la carrera por el arma nuclear, ahora es como si hubiera diez ‘proyectos Manhattan’ distintos dirigidos por empresas que compiten ferozmente entre sí",
-      "url": "https://elpais.com/opinion/2026-08-24/nos-encaminamos-a-un-hiroshima-de-la-ia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ENGSFSY5PZBPBHPQQXEZN6GP3Y.jpg?auth=8c6885425bd03afff79173f74cfa390805fb43ad8615442e2448888f714afbc8",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "آیا جهان به سمت هیروشیمای هوش مصنوعی حرکت می‌کند؟",
-      "lead_fa": "کارشناسان رقابت شرکت‌های فناوری در حوزه هوش مصنوعی را به پروژه منهتن تشبیه می‌کنند. این رقابت شدید میان شرکت‌های مختلف در جریان است.",
-      "key_points_fa": [
-        "مقایسه توسعه هوش مصنوعی با رقابت تسلیحات هسته‌ای",
-        "وجود چندین پروژه مشابه منهتن به طور همزمان توسط شرکت‌های مختلف",
-        "رقابت فشرده و بی‌رحمانه میان شرکت‌های پیشرو در فناوری"
-      ],
-      "analysis_fa": "رشد سریع و رقابتی هوش مصنوعی نگرانی‌های جدی درباره خطرات احتمالی و کنترل‌نشده این فناوری ایجاد کرده است. برخلاف پروژه تسلیحات هسته‌ای که توسط دولت‌ها مدیریت می‌شد، این بار شرکت‌های تجاری پیشران این رقابت هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هوش_مصنوعی",
-        "#فناوری",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "2f2313566f2f",
       "source": "EL PAÍS Economía",
       "title": "¿Se acabarán las vacaciones baratas en Japón?",
@@ -1152,6 +1248,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ebd48e6331f6",
+      "source": "La Vanguardia",
+      "title": "Investigan el hallazgo del cadáver de una mujer de 64 años en la playa de Puçol (Valencia)",
+      "summary": "Apareció sin aparentes signos de violencia y llevaba la ropa puesta y otras pertenencias como su bolso",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11619208/investigan-hallazgo-cadaver-mujer-64-anos-playa-pucol-valencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c4d666f04b.jpeg",
+      "published_at": "2026-08-24T15:56:45+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Investigan el hallazgo del cadáver de una mujer de 64 años en la playa de Puçol (Valencia)",
+      "lead_fa": "Apareció sin aparentes signos de violencia y llevaba la ropa puesta y otras pertenencias como su bolso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3ac1dcb41e6d",
       "source": "La Vanguardia",
       "title": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
@@ -1229,72 +1347,6 @@
       "priority": 70,
       "title_fa": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
       "lead_fa": "Kiev ya había golpeado una docena de centros logísticos del grupo minorista Wildberries en las últimas semanas, provocando pérdidas de unos 10.000 millones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "888b5ae62704",
-      "source": "La Vanguardia",
-      "title": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
-      "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
-      "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
-      "published_at": "2026-08-24T13:38:02+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
-      "lead_fa": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "128684a111df",
-      "source": "La Vanguardia",
-      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
-      "published_at": "2026-08-24T13:06:05+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "a685ec1e577a",
-      "source": "EL PAÍS",
-      "title": "Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas tras la llegada de miles de inmigrantes",
-      "summary": "El mecanismo de solidaridad de las comunidades y el Ministerio de Sanidad aportará dosis de triple vírica, difteria, tétanos, varicela y polio",
-      "url": "https://elpais.com/sociedad/2026-08-24/ceuta-recibira-25000-dosis-de-vacunas-para-prevenir-enfermedades-infecciosas-tras-la-llegada-de-miles-de-inmigrantes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HMWFM25OEBBL7HYXG3JN7CQW2U.jpg?auth=ddb325c70b4c83fb8e74c4fbcc9851a65fdebae9a346afbd8c231451fe94bb2e",
-      "published_at": "2026-08-24T12:55:58+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas tras la llegada de miles de inmigrantes",
-      "lead_fa": "El mecanismo de solidaridad de las comunidades y el Ministerio de Sanidad aportará dosis de triple vírica, difteria, tétanos, varicela y polio",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1384,17 +1436,39 @@
       "editorial_version": 2
     },
     {
-      "id": "25c3f4c73caf",
+      "id": "888b5ae62704",
       "source": "La Vanguardia",
-      "title": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
-      "summary": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
-      "url": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c200fe6c02.jpeg",
-      "published_at": "2026-08-24T12:53:09+02:00",
+      "title": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
+      "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
+      "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
+      "published_at": "2026-08-24T13:38:02+02:00",
+      "category": "cultura",
+      "priority": 69,
+      "title_fa": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
+      "lead_fa": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "128684a111df",
+      "source": "La Vanguardia",
+      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
+      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
+      "published_at": "2026-08-24T13:06:05+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
-      "lead_fa": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
+      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1496,14 +1570,14 @@
     {
       "id": "a803e26c6cba",
       "source": "La Vanguardia",
-      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados al tráfico de drogas",
+      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
       "summary": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
       "url": "https://www.lavanguardia.com/local/valencia/20260824/11618916/detienen-alicante-dos-fugitivos-reclamados-alemania-vinculados-red-trafico-estupefacientes.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
       "published_at": "2026-08-24T11:03:01+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados al tráfico de drogas",
+      "title_fa": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
       "lead_fa": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1560,28 +1634,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cbc2b3e13677",
-      "source": "La Vanguardia",
-      "title": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
-      "summary": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
-      "url": "https://www.lavanguardia.com/sucesos/20260824/11618910/detenido-hombre-aeropuerto-barcelona-31-kilos-cocaina-dos-maletas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c005b5b7fb.jpeg",
-      "published_at": "2026-08-24T10:53:03+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
-      "lead_fa": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4f3d889a5428",
       "source": "EL PAÍS",
       "title": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
@@ -1626,38 +1678,16 @@
       "editorial_version": 2
     },
     {
-      "id": "85a8b7f3bab0",
-      "source": "La Vanguardia",
-      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
-      "published_at": "2026-08-24T10:10:37+02:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5f4ed1194801",
       "source": "EL PAÍS",
-      "title": "La borrasca y la vaguada dejarán lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
       "summary": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
       "url": "https://elpais.com/el-tiempo/2026-08-24/una-potente-borrasca-dejara-lluvias-y-tormentas-fuertes-en-el-oeste-noreste-y-area-mediterranea.html",
       "image": "https://imagenes.elpais.com/resizer/v2/URWVW7PCGBMGPBNREFUNQXLVZQ.jpg?auth=91d6522120d410efff9d91ae21e74b938c26011515f29e53c38c7ce17f3dc265",
       "published_at": "2026-08-24T09:01:50+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "La borrasca y la vaguada dejarán lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "title_fa": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
       "lead_fa": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1670,17 +1700,39 @@
       "editorial_version": 2
     },
     {
-      "id": "fd8843c431d7",
+      "id": "cbc2b3e13677",
       "source": "La Vanguardia",
-      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
-      "published_at": "2026-08-24T07:52:02+02:00",
-      "category": "sociedad",
+      "title": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
+      "summary": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
+      "url": "https://www.lavanguardia.com/sucesos/20260824/11618910/detenido-hombre-aeropuerto-barcelona-31-kilos-cocaina-dos-maletas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c005b5b7fb.jpeg",
+      "published_at": "2026-08-24T10:53:03+02:00",
+      "category": "deportes",
       "priority": 68,
-      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "title_fa": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
+      "lead_fa": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "85a8b7f3bab0",
+      "source": "La Vanguardia",
+      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
+      "published_at": "2026-08-24T10:10:37+02:00",
+      "category": "deportes",
+      "priority": 68,
+      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1736,17 +1788,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
-      "published_at": "2026-08-24T05:27:05+00:00",
+      "id": "fd8843c431d7",
+      "source": "La Vanguardia",
+      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
+      "published_at": "2026-08-24T07:52:02+02:00",
       "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "priority": 67,
+      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1890,17 +1942,17 @@
       "editorial_version": 2
     },
     {
-      "id": "292912e53f7d",
-      "source": "La Vanguardia",
-      "title": "¿Podría la IA llegar a tener conciencia?",
-      "summary": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
-      "url": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8824d600bdf.r_d.1777-684-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "ciencia",
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
       "priority": 67,
-      "title_fa": "¿Podría la IA llegar a tener conciencia?",
-      "lead_fa": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2088,16 +2140,60 @@
       "editorial_version": 2
     },
     {
-      "id": "caca9b4af863",
+      "id": "fddad049b53a",
       "source": "EL PAÍS",
-      "title": "Riki Blanco: masificación",
+      "title": "Moda agosteña de Flavita: el sujetador",
       "summary": "Viñeta del 24 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-24/riki-blanco-masificacion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GMU2J5EGVFFRJIMLGNLMBBADQI.jpg?auth=c7ccbff8b41355d97242b8f88725aae5f3b17f3a1bca98c6a5ddaf6c802d008a",
+      "url": "https://elpais.com/opinion/2026-08-24/moda-agostena-de-flavita-el-sujetador.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/D36KUPVTS5BS7CFPS3FHGQ2TBE.jpg?auth=b4c320a6f3fccf2e8a2dd63028e04523ab250f1ab9ff5c473b23095805d5e9ac",
       "published_at": "2026-08-24T03:30:01+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Riki Blanco: masificación",
+      "title_fa": "Moda agosteña de Flavita: el sujetador",
+      "lead_fa": "Viñeta del 24 de agosto de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7ce02e7fc07b",
+      "source": "EL PAÍS",
+      "title": "“Pedir ayuda no debería dar miedo”, escribe una lectora",
+      "summary": "La atención en salud mental, la erosión de las democracias, los inmigrantes juzgados y las llamadas comerciales son los temas de las cartas al director",
+      "url": "https://elpais.com/opinion/2026-08-24/pedir-ayuda-no-deberia-dar-miedo-escribe-una-lectora.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RV3JJJBL5JGYFMHBW63PBV2W4U.jpg?auth=cc4537bbf13151f8e864a3fc9feb18223eaab6361ef7942376efe2e5dc9086c9",
+      "published_at": "2026-08-24T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "“Pedir ayuda no debería dar miedo”, escribe una lectora",
+      "lead_fa": "La atención en salud mental, la erosión de las democracias, los inmigrantes juzgados y las llamadas comerciales son los temas de las cartas al director",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bb741ada3d1f",
+      "source": "EL PAÍS",
+      "title": "Peridis: desembarco",
+      "summary": "Viñeta del 24 de agosto de 2026",
+      "url": "https://elpais.com/opinion/2026-08-24/peridis-desembarco.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ICESC3ZNZ5AERNJMVCGGCDUIDQ.jpg?auth=0405efba7da7ddcc34ce4514c5036ef5ca8e42829e339c1e516d953061abfc21",
+      "published_at": "2026-08-24T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Peridis: desembarco",
       "lead_fa": "Viñeta del 24 de agosto de 2026",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -2115,7 +2211,7 @@
       "title": "El fenómeno Inde Navarrette, la actriz que dando miedo ha conquistado a público, crítica y a los directivos de Marvel Studios",
       "summary": "Hasta su debut cinematográfico en la exitosa ‘Obsession’, compaginaba sus papeles secundarios en series con retransmisiones en Twitch. Ahora todos quieren a la nueva Pícara de X-Men en sus proyectos e incluso suena como candidata al Oscar",
       "url": "https://elpais.com/gente/2026-08-24/el-fenomeno-inde-navarrette-la-actriz-que-dando-miedo-ha-conquistado-a-publico-critica-y-a-los-directivos-de-marvel-studios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UV2IN7OLA5CXVAAM5AYYI526BE.jpg?auth=aa766a7c71c2c3af16d9af522c5a6e804541c44f35d94f32357127763143fb78",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207281_143745_video_1800.mp4",
       "published_at": "2026-08-24T03:30:00+00:00",
       "category": "cultura",
       "priority": 67,
@@ -2337,34 +2433,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ccdbd5f382e8",
-      "source": "EL PAÍS Economía",
-      "title": "El mar de fondo de Wall Street parece inquietar en Washington",
-      "summary": "El Tesoro estadounidense mueve ficha para frenar el encarecimiento de la financiación a largo plazo",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-23/el-mar-de-fondo-de-wall-street-parece-inquietar-en-washington.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WEIVFR4KVZP2VC3XZMVGJFUNRQ.jpg?auth=b8a0a20b207591a555641e22ae0d8c41fec3d4f772b966c472da90bc731ba74d",
-      "published_at": "2026-08-23T03:40:00+00:00",
-      "category": "economia",
-      "priority": 66,
-      "title_fa": "نگرانی وال استریت در واشنگتن و اقدام وزارت خزانه داری آمریکا",
-      "lead_fa": "وزارت خزانه داری ایالات متحده آمریکا برای مهار افزایش هزینه های تامین مالی بلندمدت وارد عمل شده است. این تحولات نشان دهنده نگرانی مقام های واشنگتن از وضعیت بازار مالی است.",
-      "key_points_fa": [
-        "واکنش وزارت خزانه داری آمریکا به شرایط بازار مالی",
-        "تلاش برای مهار روند صعودی هزینه های تامین مالی بلندمدت",
-        "تأثیر تحولات وال استریت بر تصمیم گیری های اقتصادی واشنگتن"
-      ],
-      "analysis_fa": "تحولات اخیر در بازارهای مالی و مداخلات وزارت خزانه داری آمریکا نشان دهنده تلاش دولت برای کنترل نرخ بهره بلندمدت و حفظ ثبات اقتصادی است. این دست اقدامات معمولاً برای جلوگیری از فشارهای تورمی و تامین مالی پایدار دولت صورت می گیرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اقتصاد_آمریکا",
-        "#وال_استریت",
-        "#خزانه_داری_آمریکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "c7091e0b59fb",
       "source": "EL PAÍS España",
       "title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
@@ -2407,72 +2475,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "ad1ae1b81545",
-      "source": "La Vanguardia",
-      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
-      "published_at": "2026-08-23T16:50:45+02:00",
-      "category": "cultura",
-      "priority": 63,
-      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a3ca2252add",
-      "source": "EL PAÍS Economía",
-      "title": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
-      "summary": "Entre el 33% y el 42% de los arenales del país son de pago. El Gobierno de Meloni, presionado por Bruselas, abrirá a concurso su gestión",
-      "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-08-22/italia-quiere-poner-orden-en-el-caos-de-sus-12000-playas-privadas-mas-transparencia-y-nuevas-tasas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6EJRBZND75CORMF62M2NRIH3QI.jpg?auth=ff9bc3f4a0f010577e0200b181d94dd9334428cd06577bc9f2589c3eeeb8d6f9",
-      "published_at": "2026-08-22T03:30:00+00:00",
-      "category": "politica",
-      "priority": 56,
-      "title_fa": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
-      "lead_fa": "Entre el 33% y el 42% de los arenales del país son de pago. El Gobierno de Meloni, presionado por Bruselas, abrirá a concurso su gestión",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2dfcea13d20a",
-      "source": "EL PAÍS Economía",
-      "title": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
-      "summary": "El camino hacia el éxito está cimentado en fallos (a veces estrepitosos). La IA promete agilizar y abaratar la forma en que se testan miles de productos cada año",
-      "url": "https://elpais.com/economia/negocios/2026-08-22/errores-empresariales-de-los-que-aprender-del-ketchup-morado-al-refresco-de-cola-que-nadie-compro.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QRWXLCC3ZREIHHOW3U7EW7CU7I.jpg?auth=928e5125d9fdfedcf533544bb5d65f0a8f7162f4e5c021866fe5b28bff9d4cfa",
-      "published_at": "2026-08-22T15:30:00+00:00",
-      "category": "sociedad",
-      "priority": 55,
-      "title_fa": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
-      "lead_fa": "El camino hacia el éxito está cimentado en fallos (a veces estrepitosos). La IA promete agilizar y abaratar la forma en que se testan miles de productos cada año",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2504,7 +2506,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
@@ -2514,12 +2516,12 @@
     {
       "source": "EL PAÍS Economía",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 128
     }
   ]
 }
