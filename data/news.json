@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:23:19.422139+00:00",
+  "generated_at": "2026-08-24T06:07:21.606480+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -44,7 +44,7 @@
       "title": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
       "summary": "Siete ministros ofrecerán el primer relato ordenado con los datos disponibles y el PP denunciará que el Ejecutivo elude el Senado y prefiere la Cámara Baja porque la tiene controlada",
       "url": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/E3TOIERTPZB73M7BPFSKIY4UIA.jpg?auth=2d10bbe1a010eb2f1dcf7a04aee0f41f7fe76b6783a2f29fba3114283bd1b390",
+      "image": "https://imagenes.elpais.com/resizer/v2/EPF2G3VXSVAMBCVQLLMAEYLP4E.jpg?auth=4b8bcaeb989ce254b3624e30809c7c9395b55b10fc0cb8b482feb4cfaa1c13c5",
       "published_at": "2026-08-24T03:45:01+00:00",
       "category": "politica",
       "priority": 82,
@@ -447,16 +447,22 @@
       "published_at": "2026-08-24T06:00:00+02:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
-      "lead_fa": "El precio de la vivienda expulsa a los ciudadanos de las Baleares: uno de cada cuatro compradores busca casa fuera de las islas, con el Principado como lugar preferido",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بحران مسکن در جزایر بالئار؛ مهاجرت خریداران به آستوریاس",
+      "lead_fa": "افزایش شدید قیمت مسکن در جزایر بالئار ساکنان این منطقه را ناچار به جستجوی خانه در دیگر نقاط اسپانیا کرده است. در این میان، یک چهارم خریداران مناطق دیگری مانند آستوریاس را ترجیح می‌دهند.",
+      "key_points_fa": [
+        "بالا بودن قیمت مسکن در جزایر بالئار عامل اصلی کوچ خریداران است.",
+        "یک چهارم متقاضیان خرید مسکن در این مجمع‌الج الجزایر، به دنبال ملک در خارج از جزایر هستند.",
+        "منطقه آستوریاس به عنوان مقصد اصلی خریداران مسکن خارج از جزایر انتخاب شده است."
+      ],
+      "analysis_fa": "رشد بی‌رویه قیمت مسکن در مناطق گردشگری و جزیره‌ای اسپانیا، توان مالی ساکنان محلی را تحت تأثیر قرار داده و پدیده کوچ خریداران به مناطق ارزان‌تر در شبه‌جزیره را تشدید کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مسکن_اسپانیا",
+        "#جزایر_بالئار",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -469,16 +475,23 @@
       "published_at": "2026-08-24T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Puigdemont cita a su círculo de confianza para preparar el curso de su retorno",
-      "lead_fa": "El núcleo de Junts abordará la estrategia del partido en un contexto complejo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نشست محرمانه پوجدمون برای بررسی استراتژی بازگشت",
+      "lead_fa": "هسته مرکزی حزب ژونتس نشستی را برای تعیین راهبرد سیاسی خود برگزار می‌کند. این تصمیم در فضایی پیچیده و حساس اتخاذ شده است.",
+      "key_points_fa": [
+        "برگزاری جلسه مشورتی پوجدمون با حلقه نزدیکان",
+        "بررسی استراتژی حزب ژونتس در شرایط سیاسی پیچیده",
+        "تمرکز بر روند و چگونگی بازگشت رهبر کاتالان"
+      ],
+      "analysis_fa": "این نشست نشان‌دهنده تلاش رهبران کاتالان برای حفظ انسجام حزبی و مدیریت چالش‌های حقوقی و سیاسی پیش روست. تصمیمات اتخاذ شده در این جلسه می‌تواند بر معادلات سیاسی کاتالونیا و دولت مرکزی تاثیرگذار باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#پوجدمون",
+        "#کاتالونیا",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -487,20 +500,25 @@
       "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
       "summary": "Los importes llevan 48 trimestres de aumento desde que tocaron suelo en 2014 y han superado el pico de la burbuja en 16 comunidades autónomas",
       "url": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OL72TTQHTFMVPMYLRXJXBAOVKI.jpg?auth=e7242ba572df121959f4bd17ebb78355e9734dca16f99449da8921e9d0fd2e63",
+      "image": "https://imagenes.elpais.com/resizer/v2/H2V5NFBV5NBBHJ5A6CRRLYHYYQ.JPG?auth=7a03c5fe46d8362eedd7661e889f28a29db60c9bb4a9b3d86f3f8509726b2caf",
       "published_at": "2026-08-24T03:45:01+00:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
-      "lead_fa": "Los importes llevan 48 trimestres de aumento desde que tocaron suelo en 2014 y han superado el pico de la burbuja en 16 comunidades autónomas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "افزایش مداوم قیمت مسکن در اسپانیا و عبور از حباب گذشته",
+      "lead_fa": "بهای مسکن در اسپانیا طی دوازده سال متوالی و به مدت ۴۸ فصل متوالی افزایش یافته است. این رشد قیمت در شانزده منطقه خودمختار از اوج دوران حباب مسکن نیز فراتر رفته است.",
+      "key_points_fa": [
+        "قیمت مسکن از سال ۲۰۱۴ به طور مداوم و بدون وقفه صعود کرده است.",
+        "در ۱۶ منطقه خودمختار اسپانیا، بهای خانه‌ها از اوج قیمت‌های دوران حباب نیز عبور کرده است."
+      ],
+      "analysis_fa": "استمرار رشد قیمت مسکن طی دوازده سال نشان‌دهنده عدم تعادل ساختاری میان عرضه و تقاضا در بازار مسکن اسپانیا است. این روند صعودی طولانی‌مدت، فشار زیادی بر قدرت خرید شهروندان وارد کرده و دسترسی به مسکن مناسب را به یکی از چالش‌های اصلی اقتصادی تبدیل نموده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#مسکن_اسپانیا",
+        "#اقتصاد_اسپانیا",
+        "#بازار_مسکن"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -721,34 +739,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "939928cbf82e",
-      "source": "La Vanguardia",
-      "title": "Raphinha: “Me siento cómodo jugando de nueve”",
-      "summary": "El brasileño, autor de dos goles, firma un gran partido ante el Elche actuando de delantero centro",
-      "url": "https://www.lavanguardia.com/deportes/20260824/11618677/raphinha-me-siento-comodo-jugando-nueve.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8b70b158125.jpeg",
-      "published_at": "2026-08-24T00:14:43+02:00",
-      "category": "deportes",
-      "priority": 75,
-      "title_fa": "راپینها: در پست مهاجم نوک احساس راحتی می‌کنم",
-      "lead_fa": "بازیکن برزیلی بارسلونا در دیدار مقابل الچه توانست دو گل به ثمر برساند. او در این مسابقه در نقش مهاجم مرکزی عملکرد درخشانی داشت.",
-      "key_points_fa": [
-        "راپینها در دیدار برابر الچه دو بار گلزنی کرد.",
-        "او به عنوان مهاجم نوک و مرکز خط حمله به میدان رفت."
-      ],
-      "analysis_fa": "درخشش بازیکنان در پست‌های غیرتخصصی یا جدید، گزینه‌های تاکتیکی سرمربیان را برای ادامه فصل افزایش می‌دهد و رقابت را در خط حمله بیشتر می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#راپینها",
-        "#فوتبال_اسپانیا",
-        "#لالیگا"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1180,7 +1170,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/08/07/62ef71f50fbe0.r_d.1500-1000-0.jpeg",
       "published_at": "2026-08-23T13:50:29+02:00",
       "category": "sociedad",
-      "priority": 72,
+      "priority": 71,
       "title_fa": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
       "lead_fa": "Se trata del mismo lugar en el que se declaró un incendio forestal el pasado 20 de agosto",
       "key_points_fa": [],
@@ -1502,6 +1492,28 @@
       "editorial_version": 2
     },
     {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KHPQCILOCRDLRJUEWG4YZPSHA4.png?auth=5751bda45d512a1f0b29c1f0ea816150a5da6eaa944cbb4e3e515d936eaaefd0",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "42758f47c178",
       "source": "EL PAÍS",
       "title": "Washington no se acostumbra a la Guardia Nacional un año después de que Trump enviara las tropas",
@@ -1634,6 +1646,28 @@
       "editorial_version": 2
     },
     {
+      "id": "47bf6b9ed607",
+      "source": "EL PAÍS",
+      "title": "El quiero y no puedo de los refugios climáticos en Madrid",
+      "summary": "Los expertos argumentan que están demasiado localizados en el centro de la ciudad y que su apertura no cubre los peores periodos de calor",
+      "url": "https://elpais.com/espana/madrid/2026-08-24/el-quiero-y-no-puedo-de-los-refugios-climaticos-en-madrid.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/4FF4RCLK3BGRHDB3R4LJXQGR6I.JPG?auth=1b9074e124fca404a1cde542e2ee30396104e04beb47d7f735092b713f182ed6",
+      "published_at": "2026-08-24T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El quiero y no puedo de los refugios climáticos en Madrid",
+      "lead_fa": "Los expertos argumentan que están demasiado localizados en el centro de la ciudad y que su apertura no cubre los peores periodos de calor",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "0d9c57b15e3b",
       "source": "EL PAÍS",
       "title": "‘Patoman’, el joven malagueño que persigue el oro en el Mundial de Pokémon",
@@ -1645,50 +1679,6 @@
       "priority": 70,
       "title_fa": "‘Patoman’, el joven malagueño que persigue el oro en el Mundial de Pokémon",
       "lead_fa": "El español disputará en EE UU su segunda final del mundo en la categoría ‘Pokémon GO’",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f5c0c0b9af0b",
-      "source": "EL PAÍS",
-      "title": "Más allá de romper el récord de Usain Bolt: China pone a prueba los robots humanoides del futuro",
-      "summary": "Las olimpiadas en las que un robot bípedo batió el récord mundial en 100 metros lisos miden el salto de las exhibiciones a las aplicaciones reales de un sector estratégico para Xi Jinping",
-      "url": "https://elpais.com/tecnologia/2026-08-24/mas-alla-de-romper-el-record-de-usain-bolt-china-pone-a-prueba-los-robots-humanoides-del-futuro.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/DI3U2FVBNVNYJG7EWCRYEYUFAI.jpg?auth=034474c2cb4f7993eca96f43e85a8cbbda2c0e80da885ea7312e64cc70eb890b",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Más allá de romper el récord de Usain Bolt: China pone a prueba los robots humanoides del futuro",
-      "lead_fa": "Las olimpiadas en las que un robot bípedo batió el récord mundial en 100 metros lisos miden el salto de las exhibiciones a las aplicaciones reales de un sector estratégico para Xi Jinping",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b292e7130330",
-      "source": "EL PAÍS",
-      "title": "Snapchat ha vuelto: el inesperado regreso de la red social efímera",
-      "summary": "Cansada de las métricas de Instagram y del algoritmo de TikTok, la generación Z redescubre la aplicación del mensaje que se autodestruye",
-      "url": "https://elpais.com/eps/2026-08-24/snapchat-ha-vuelto-el-inesperado-regreso-de-la-red-social-efimera.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/U6IDQQ7OVJGDPBIOSD5T3X44FM.JPG?auth=cb854a5b3b2be0fbab7565e0388be2c22f7298948c53796ec47e44ff80b2d3f7",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Snapchat ha vuelto: el inesperado regreso de la red social efímera",
-      "lead_fa": "Cansada de las métricas de Instagram y del algoritmo de TikTok, la generación Z redescubre la aplicación del mensaje que se autodestruye",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1843,6 +1833,28 @@
       "priority": 70,
       "title_fa": "El fenómeno Inde Navarrette, la actriz que dando miedo ha conquistado a público, crítica y a los directivos de Marvel Studios",
       "lead_fa": "Hasta su debut cinematográfico en la exitosa ‘Obsession’, compaginaba sus papeles secundarios en series con retransmisiones en Twitch. Ahora todos quieren a la nueva Pícara de X-Men en sus proyectos e incluso suena como candidata al Oscar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "608f75149394",
+      "source": "EL PAÍS",
+      "title": "Sarina Castagnoli, pastelera: “Me gusta traer de vuelta esas tartas que ya no se ven, las que comía cuando era niña en los noventa”",
+      "summary": "Esta argentina afincada en Madrid empezó a hacer tartas por una casualidad y desde entonces se ha convertido en una de las ‘cake artists’ más demandadas de España y en parte de la propuesta anual de talento joven de ICON",
+      "url": "https://elpais.com/icon/2026-08-24/sarina-castagnoli-pastelera-me-gusta-traer-de-vuelta-esas-tartas-que-ya-no-se-ven-las-que-comia-cuando-era-nina-en-los-noventa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ASIYFMB3NNHBHOIG6INRPV5YVQ.jpg?auth=5ec95b04dd16c082966fb573ad29bc8ae163fae243d9013a9b53cf6691950aac",
+      "published_at": "2026-08-24T03:30:00+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Sarina Castagnoli, pastelera: “Me gusta traer de vuelta esas tartas que ya no se ven, las que comía cuando era niña en los noventa”",
+      "lead_fa": "Esta argentina afincada en Madrid empezó a hacer tartas por una casualidad y desde entonces se ha convertido en una de las ‘cake artists’ más demandadas de España y en parte de la propuesta anual de talento joven de ICON",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2227,17 +2239,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a18e97796fa1",
+      "id": "3811afcaf39b",
       "source": "La Vanguardia",
-      "title": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
-      "summary": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b2c048de08.jpeg",
-      "published_at": "2026-08-23T19:29:54+02:00",
-      "category": "turismo",
+      "title": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
+      "summary": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5d538a9ed.r_d.1149-661-0.jpeg",
+      "published_at": "2026-08-23T22:54:56+02:00",
+      "category": "sociedad",
       "priority": 67,
-      "title_fa": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
-      "lead_fa": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
+      "title_fa": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
+      "lead_fa": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2277,17 +2289,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ad1ae1b81545",
+      "id": "a18e97796fa1",
       "source": "La Vanguardia",
-      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
-      "published_at": "2026-08-23T16:50:45+02:00",
-      "category": "cultura",
+      "title": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
+      "summary": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b2c048de08.jpeg",
+      "published_at": "2026-08-23T19:29:54+02:00",
+      "category": "turismo",
       "priority": 66,
-      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "title_fa": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
+      "lead_fa": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2356,32 +2368,25 @@
       "editorial_version": 2
     },
     {
-      "id": "aa4ef0c595f8",
-      "source": "EL PAÍS",
-      "title": "Video | Siga en vivo el concierto de Gustavo Dudamel para apoyar a las víctimas del terremoto en Venezuela",
-      "summary": "El “Concierto para Venezuela” será el último concierto del director de la Filarmónica de Los Ángeles. Este 23 de agosto, le acompañarán artistas como Beck, Eduardo Betancourt, Meme del Real de Café Tacvba y Natalia Lafourcade",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-22/video-siga-en-vivo-el-concierto-de-gustavo-dudamel-para-apoyar-a-las-victimas-del-terremoto-en-venezuela.html",
-      "image": "https://www.youtube.com/watch?v=y7Qowwvmqw8",
-      "published_at": "2026-08-22T16:30:00+00:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "کنسرت گوستاوو دودامل برای حمایت از زلزله‌زدگان ونزوئلا",
-      "lead_fa": "گوستاوو دودامل، رهبر ارکستر فیلارمونیک لس‌آنجلس، کنسرتی را برای کمک به آسیب‌دیدگان زمین‌لرزه ونزوئلا برگزار می‌کند. این رویداد موسیقی در تاریخ ۲۳ اوت با حضور هنرمندان سرشناس اجرا می‌شود.",
-      "key_points_fa": [
-        "این رویداد با عنوان «کنسرت برای ونزوئلا» برگزار می‌شود.",
-        "هنرمندانی مانند بک، ادواردو بتانکور، ممه دل رئال و ناتالیا لافورکاد در این اجرا حضور دارند.",
-        "این اجرا آخرین کنسرت دودامل در جایگاه رهبر ارکستر فیلارمونیک لس‌آنجلس خواهد بود."
-      ],
-      "analysis_fa": "برگزاری رویدادهای هنری توسط چهره‌های برجسته بین‌المللی بار دیگر توجه افکار عمومی را به بحران‌های انسانی و طبیعی جلب می‌کند. این اقدام نه تنها به تأمین بخشی از کمک‌های مالی برای آسیب‌دیدگان کمک می‌کند، بلکه همبستگی فرهنگی را در سطح جهانی تقویت می‌نماید.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "id": "ad1ae1b81545",
+      "source": "La Vanguardia",
+      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
+      "published_at": "2026-08-23T16:50:45+02:00",
+      "category": "cultura",
+      "priority": 65,
+      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#گوستاوو_دودامل",
-        "#ونزوئلا",
-        "#موسیقی",
-        "#زلزله"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
