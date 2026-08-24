@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T16:52:41.402622+00:00",
+  "generated_at": "2026-08-24T17:42:18.795093+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e53560f78408",
-    "f229ea5a67e3",
     "83c6d2128e60",
+    "f229ea5a67e3",
     "a0238eccdbec",
     "69944dcaf100"
   ],
@@ -38,6 +38,33 @@
       "editorial_version": 2
     },
     {
+      "id": "83c6d2128e60",
+      "source": "EL PAÍS",
+      "title": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
+      "summary": "La reunión, que se celebrará horas antes del Consejo de Ministros de este martes, contará con la presencia del presidente de la ciudad, Juan Jesús Vivas",
+      "url": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RRETXGAZAZCCNOJU3SI3RDJRN4.jpg?auth=90922dc4f491fef5ad9326f4ceddfbfb8d007a093bc980696908c7681bb44ede",
+      "published_at": "2026-08-24T17:06:37+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "فراخوان شورای امنیت ملی اسپانیا توسط سانچز پس از بحران سبته",
+      "lead_fa": "نخست‌وزیر اسپانیا شورای امنیت ملی را تشکیل می‌دهد. این نشست پیش از جلسه هیئت دولت برگزار خواهد شد.",
+      "key_points_fa": [
+        "نشست شورای امنیت ملی ۲۶ روز پس از آغاز بحران سبته برگزار می‌شود.",
+        "خوان خسوس ویواس، رئیس شهر سبته، در این جلسه حضور خواهد داشت."
+      ],
+      "analysis_fa": "تشکیل شورای امنیت ملی نشان‌دهنده اهمیت و ابعاد سیاسی بحران اخیر در سبته است و دولت تلاش می‌کند با همگرایی نهادهای مختلف، مدیریت این چالش را تقویت کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#امنیت_ملی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "f229ea5a67e3",
       "source": "EL PAÍS",
       "title": "La búsqueda del empresario burgalés que cayó al mar desde su barco mientras pescaba con su mujer en el Mediterráneo",
@@ -61,33 +88,6 @@
         "#اسپانیا",
         "#حوادث",
         "#مدیترانه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "83c6d2128e60",
-      "source": "EL PAÍS",
-      "title": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
-      "summary": "La reunión, que se celebrará horas antes del Consejo de Ministros de este martes, contará con la presencia del presidente de la ciudad, Juan Jesús Vivas",
-      "url": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RRETXGAZAZCCNOJU3SI3RDJRN4.jpg?auth=90922dc4f491fef5ad9326f4ceddfbfb8d007a093bc980696908c7681bb44ede",
-      "published_at": "2026-08-24T14:08:55+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "فراخوان شورای امنیت ملی اسپانیا توسط سانچز پس از بحران سبته",
-      "lead_fa": "نخست‌وزیر اسپانیا شورای امنیت ملی را تشکیل می‌دهد. این نشست پیش از جلسه هیئت دولت برگزار خواهد شد.",
-      "key_points_fa": [
-        "نشست شورای امنیت ملی ۲۶ روز پس از آغاز بحران سبته برگزار می‌شود.",
-        "خوان خسوس ویواس، رئیس شهر سبته، در این جلسه حضور خواهد داشت."
-      ],
-      "analysis_fa": "تشکیل شورای امنیت ملی نشان‌دهنده اهمیت و ابعاد سیاسی بحران اخیر در سبته است و دولت تلاش می‌کند با همگرایی نهادهای مختلف، مدیریت این چالش را تقویت کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#امنیت_ملی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -145,34 +145,6 @@
         "#سیاست",
         "#سبتا",
         "#کنگره"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "961058b41867",
-      "source": "EL PAÍS Economía",
-      "title": "El transporte marítimo mundial se atasca entre conflictos y crisis climáticas",
-      "summary": "El precio disparado de los fletes, que suben el 140% desde febrero, refleja la acumulación de bloqueos en el tráfico, desde el estrecho de Ormuz hasta el Canal de Panamá",
-      "url": "https://elpais.com/economia/2026-08-22/el-transporte-maritimo-mundial-se-atasca-entre-conflictos-y-crisis-climaticas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OUSMQ26D6NOPTOSJNM4DYAUCRU.jpg?auth=9c60f365c521ab42dabec60c44259322e40ae4ff1b58f07df10febe9d46d0b49",
-      "published_at": "2026-08-22T03:45:01+00:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "بحران در حمل‌ونقل دریایی جهان؛ افزایش ۱۴۰ درصدی هزینه باربری",
-      "lead_fa": "هزینه حمل‌ونقل دریایی در جهان از ماه فوریه تاکنون ۱۴۰ درصد افزایش یافته است. این وضعیت ناشی از انباشت مسدودیت‌ها در مسیرهای کلیدی از تنگه هرمز تا کانال پاناما است.",
-      "key_points_fa": [
-        "افزایش شدید قیمت باربری دریایی از ماه فوریه",
-        "تأثیر درگیری‌های منطقه‌ای و بحران‌های اقلیمی بر تجارت دریایی",
-        "اختلال در مسیرهای حیاتی مانند تنگه هرمز و کانال پاناما"
-      ],
-      "analysis_fa": "تجمع بحران‌های ژئوپلیتیکی و زیست‌محیطی در مسیرهای حیاتی ترابری دریایی، زنجیره تأمین جهانی را به شدت تحت تأثیر قرار داده و هزینه‌های تجاری را به طور بی‌سابقه‌ای بالا برده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اقتصاد_جهانی",
-        "#حمل_ونقل_دریایی",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -300,16 +272,23 @@
       "published_at": "2026-08-24T15:48:13+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
-      "lead_fa": "Cuerpo pacta con Vivas una nueva gestión de la crisis y prepara una lluvia de millones para intentar aplacar las críticas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پدرو سانچز موافقت با ایجاد فرماندهی واحد برای بحران سبته را پذیرفت",
+      "lead_fa": "نخست‌وزیر اسپانیا حدود یک ماه پس از آغاز بحران سبته با ایجاد یک فرماندهی واحد موافقت کرد. این مسئولیت به آنخل ویکتور تورس واگذار شده است.",
+      "key_points_fa": [
+        "موافقت با ایجاد فرماندهی واحد برای مدیریت بحران سبته پس از حدود یک ماه",
+        "انتصاب آنخل ویکتور تورس به عنوان مسئول این ستاد فرماندهی",
+        "توافق با خوان ویواس برای تغییر در نحوه مدیریت بحران و اختصاص بودجه مالی"
+      ],
+      "analysis_fa": "این تصمیم پس از انتقادات گسترده و نیاز به هماهنگی بیشتر میان دولت مرکزی و مقامات محلی اتخاذ شده است. تغییر رویکرد دولت نشان‌دهنده تلاش برای کاهش فشار سیاسی از طریق تزریق منابع مالی و تمرکز مدیریتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سبته",
+        "#پدرو_سانچز",
+        "#مهاجرت"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -455,6 +434,35 @@
       "editorial_version": 2
     },
     {
+      "id": "612b2d507c16",
+      "source": "La Vanguardia",
+      "title": "Levantan el confinamiento de los vecinos de Gátova afectados por el incendio de Segorbe",
+      "summary": "El levantamiento de las restricciones permite recuperar la actividad habitual, aunque siguen cerrados los accesos al monte y los vecinos deberán consumir agua embotellada hasta conocer las nuevas analíticas",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11619225/levantan-confinamiento-vecinos-gatova-afectados-incendio-segorbe.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c52a000448.jpeg",
+      "published_at": "2026-08-24T16:19:24+02:00",
+      "category": "sociedad",
+      "priority": 76,
+      "title_fa": "پایان قرنطینه اهالی گاتوا در پی کنترل آتش‌سوزی سگوربه",
+      "lead_fa": "محدودیت‌های تردد در منطقه گاتوا پس از مهار آتش‌سوزی برداشته شد. با این حال، دسترسی به مناطق جنگلی همچنان ممنوع است.",
+      "key_points_fa": [
+        "لغو محدودیت‌ها به ساکنان اجازه بازگشت به فعالیت‌های عادی را داد.",
+        "ورود به مناطق کوهستانی و جنگلی همچنان مسدود است.",
+        "اهالی باید تا زمان انتشار نتایج آزمایش‌های جدید، از آب بسته‌بندی استفاده کنند."
+      ],
+      "analysis_fa": "مهار این آتش‌سوزی به بحران محلی پایان داد، اما ادامه محدودیت دسترسی به کوهستان و پایش کیفیت آب نشان می‌دهد که بازگشت کامل به شرایط عادی نیازمند زمان و بررسی‌های بیشتر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#آتش‌سوزی",
+        "#گاتوا",
+        "#اخبار_جامعه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "99a26ae00b9c",
       "source": "La Vanguardia",
       "title": "Trump amenaza con aranceles del 50% a coches y acero de Canadá en pleno conflicto comercial",
@@ -464,16 +472,23 @@
       "published_at": "2026-08-24T17:51:48+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Trump amenaza con aranceles del 50% a coches y acero de Canadá en pleno conflicto comercial",
-      "lead_fa": "El primer ministro Mark Carney sostuvo que no podía negociar términos “antieconómicos e injustos” y avisó que no cederán: “Cuando te atacan, estás en guerra, y nosotros hemos sido atacados”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "تهدید ترامپ به وضع تعرفه ۵۰ درصدی علیه کانادا",
+      "lead_fa": "دونالد ترامپ کانادا را به اعمال تعرفه ۵۰ درصدی بر خودرو و فولاد تهدید کرد. نخست‌وزیر کانادا در واکنش اعلام کرد که کشورش تسلیم شرایط ناعادلانه نخواهد شد.",
+      "key_points_fa": [
+        "تهدید ترامپ به وضع تعرفه ۵۰ درصدی بر خودرو و فولاد کانادا",
+        "تنش‌های تجاری میان ایالات متحده و کانادا به اوج رسیده است",
+        "نخست‌وزیر مارک کارنی اعلام کرد که در جنگ تجاری تسلیم نخواهند شد"
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تنش‌های تجاری نشان‌دهنده رویکرد تهاجمی دولت آمریکا در روابط اقتصادی با شرکای تجاری کلیدی خود است. پافشاری طرفین بر مواضع خود می‌تواند به تشدید درگیری‌های اقتصادی و اختلال در زنجیره‌های تأمین در آمریکای شمالی منجر شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#آمریکا",
+        "#کانادا"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -606,28 +621,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ddeb3f1c31d9",
-      "source": "EL PAÍS Economía",
-      "title": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
-      "summary": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellas en la hostelería",
-      "url": "https://elpais.com/economia/2026-08-24/los-empleos-vinculados-al-turismo-marcan-un-nuevo-record-en-julio-con-31-millones-de-trabajadores.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6JBOJSSJDFFFXNFTO5ED55NAHA.jpg?auth=6a8eb233e06c9c0eed95fbc23214c225232911b8057e9f9e7ba4dc479e682df6",
-      "published_at": "2026-08-24T13:58:48+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
-      "lead_fa": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellas en la hostelería",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "a968ddca2351",
       "source": "EL PAÍS España",
       "title": "El PP reclama turnos “mañana, tarde y noche” de los servicios de extranjería en Ceuta para acelerar los retornos de migrantes",
@@ -651,34 +644,6 @@
         "#اسپانیا",
         "#مهاجرت",
         "#سئوتا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "c900c8171d48",
-      "source": "La Vanguardia",
-      "title": "Junts y ERC reclaman una investigación por las cargas de la Policía contra aficionados del Barça en Elche",
-      "summary": "Los republicanos registran una petición de comparecencia del ministro del Interior y Puigdemont denuncia que la Policía “supura odio a la catalanidad de forma estructural”",
-      "url": "https://www.lavanguardia.com/politica/20260824/11619004/junts-erc-reclaman-investigacion-cargas-policia-aficionados-barca-elche.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/21/68f7bef199aa6.jpeg",
-      "published_at": "2026-08-24T12:47:16+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "درخواست تحقیق احزاب کاتالان درباره برخورد پلیس با هواداران بارسا",
-      "lead_fa": "احزاب مستقل‌طلب جونتس و ERC خواستار تحقیق درباره برخورد پلیس با هواداران بارسلونا در الچه شدند. کارلس پویگدمونت وزیر کشور را به پاسخگویی فراخواند.",
-      "key_points_fa": [
-        "درخواست ثبت‌شده برای حضور وزیر کشور در پارلمان",
-        "انتقاد شدید پویگدمونت از عملکرد پلیس",
-        "تاکید بر لزوم بررسی رفتار ماموران با هواداران کاتالان"
-      ],
-      "analysis_fa": "این رویداد بار دیگر تنش‌ها میان رهبران سیاسی کاتالونیا و نهادهای امنیتی مرکزی اسپانیا را برجسته کرده است. واکنش‌های سیاسی به این گونه حوادث معمولاً به بحث‌های گسترده‌تری درباره حقوق شهروندی و عملکرد نهادهای دولتی در مناطق خودمختار منجر می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#بارسلونا",
-        "#پلیس"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -875,6 +840,28 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ddeb3f1c31d9",
+      "source": "EL PAÍS Economía",
+      "title": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
+      "summary": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellas en la hostelería",
+      "url": "https://elpais.com/economia/2026-08-24/los-empleos-vinculados-al-turismo-marcan-un-nuevo-record-en-julio-con-31-millones-de-trabajadores.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6JBOJSSJDFFFXNFTO5ED55NAHA.jpg?auth=6a8eb233e06c9c0eed95fbc23214c225232911b8057e9f9e7ba4dc479e682df6",
+      "published_at": "2026-08-24T13:58:48+00:00",
+      "category": "economia",
+      "priority": 74,
+      "title_fa": "Los empleos vinculados al turismo marcan un nuevo récord en julio con 3,1 millones de trabajadores",
+      "lead_fa": "En el último año, más de 100.000 personas se han incorporado a esta rama laboral, la mayoría de ellas en la hostelería",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1283,17 +1270,39 @@
       "editorial_version": 2
     },
     {
-      "id": "1cbafab175cc",
+      "id": "3ffdb5367bb6",
       "source": "La Vanguardia",
-      "title": "Casquero denuncia ”637 amenazas de muerte” tras su rifirrafe con un periodista durante el Getafe-Racing",
-      "summary": "El exfutbolista asegura haber recibido cientos de amenazas en apenas 24 horas, además de mensajes vejatorios dirigidos a su familia, después de que volviera a salir a escena una polémica que se remonta a las semifinales de la Copa del Rey de 2008",
-      "url": "https://www.lavanguardia.com/clic/20260824/11619291/casquero-denuncia-637-amenazas-muerte-rifirrafe-periodista-getafe-racing-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2010/01/31/5f9af22b06e01.r_d.311-193-0.jpeg",
-      "published_at": "2026-08-24T18:03:21+02:00",
+      "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
+      "summary": "Los núcleos de tormentas se desplazan hacia el Penedès",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c7bf15bbc8.jpeg",
+      "published_at": "2026-08-24T19:06:28+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Casquero denuncia ”637 amenazas de muerte” tras su rifirrafe con un periodista durante el Getafe-Racing",
-      "lead_fa": "El exfutbolista asegura haber recibido cientos de amenazas en apenas 24 horas, además de mensajes vejatorios dirigidos a su familia, después de que volviera a salir a escena una polémica que se remonta a las semifinales de la Copa del Rey de 2008",
+      "title_fa": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
+      "lead_fa": "Los núcleos de tormentas se desplazan hacia el Penedès",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c9c9362859a4",
+      "source": "La Vanguardia",
+      "title": "Tania Llasera se aleja temporalmente de las redes sociales tras sus polémicas palabras sobre el caso de Lindsay Clancy",
+      "summary": "La presentadora reconoce sentirse “sobrepasada” por las críticas recibidas después de asegurar que podía “empatizar” con la enfermera estadounidense acusada de acabar con la vida de sus tres hijos",
+      "url": "https://www.lavanguardia.com/gente/20260824/11619313/tania-llasera-aleja-temporalmente-redes-sociales-polemicas-palabras-sobre-caso-lindsay-clancy.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/07/27/62e1b3024979d.jpeg",
+      "published_at": "2026-08-24T18:51:13+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Tania Llasera se aleja temporalmente de las redes sociales tras sus polémicas palabras sobre el caso de Lindsay Clancy",
+      "lead_fa": "La presentadora reconoce sentirse “sobrepasada” por las críticas recibidas después de asegurar que podía “empatizar” con la enfermera estadounidense acusada de acabar con la vida de sus tres hijos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1373,15 +1382,15 @@
     {
       "id": "f65bce062a04",
       "source": "EL PAÍS",
-      "title": "La etapa 3 de La Vuelta se cancela por una fuerte granizada a falta de 15 kilómetros para la meta",
-      "summary": "Los ciclistas se vieron obligados a detenerse en plena carrera por la tormenta y los jueces han decidido concluir la jornada",
+      "title": "Una granizada obliga a la Vuelta a cancelar la etapa",
+      "summary": "Ante el manto de hielo en la carretera, la organización suspende la jornada antes de la ascensión final",
       "url": "https://elpais.com/deportes/ciclismo/2026-08-24/la-etapa-3-de-la-vuelta-se-cancela-por-una-fuerte-granizada.html",
       "image": "https://imagenes.elpais.com/resizer/v2/VVSEEVCQ2ZAN3NGTTV2XTWY44U.jpg?auth=5718dd2ff3f6bf40673118c9f11ceeee9ac4e37bebac54ebb35045fb67b15fc0",
       "published_at": "2026-08-24T15:50:30+00:00",
       "category": "deportes",
       "priority": 70,
-      "title_fa": "La etapa 3 de La Vuelta se cancela por una fuerte granizada a falta de 15 kilómetros para la meta",
-      "lead_fa": "Los ciclistas se vieron obligados a detenerse en plena carrera por la tormenta y los jueces han decidido concluir la jornada",
+      "title_fa": "Una granizada obliga a la Vuelta a cancelar la etapa",
+      "lead_fa": "Ante el manto de hielo en la carretera, la organización suspende la jornada antes de la ascensión final",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1603,50 +1612,6 @@
       "editorial_version": 2
     },
     {
-      "id": "888b5ae62704",
-      "source": "La Vanguardia",
-      "title": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
-      "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
-      "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
-      "published_at": "2026-08-24T13:38:02+02:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
-      "lead_fa": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "128684a111df",
-      "source": "La Vanguardia",
-      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
-      "published_at": "2026-08-24T13:06:05+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "202e3fc42394",
       "source": "EL PAÍS",
       "title": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
@@ -1669,17 +1634,39 @@
       "editorial_version": 2
     },
     {
-      "id": "fbeefc47db5b",
+      "id": "888b5ae62704",
       "source": "La Vanguardia",
-      "title": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
-      "summary": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
-      "url": "https://www.lavanguardia.com/deportes/20260824/11619007/barcelona-barca-sale-defensa-socio-aficionado-detenido-aporreado-golpeado-elche-requisada-bandera-independentista-estelada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/12/13/5fa2d5d1d251c.jpeg",
-      "published_at": "2026-08-24T12:51:49+02:00",
+      "title": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
+      "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
+      "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
+      "published_at": "2026-08-24T13:38:02+02:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
+      "lead_fa": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "128684a111df",
+      "source": "La Vanguardia",
+      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
+      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
+      "published_at": "2026-08-24T13:06:05+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
-      "lead_fa": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
+      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1823,28 +1810,6 @@
       "editorial_version": 2
     },
     {
-      "id": "85a8b7f3bab0",
-      "source": "La Vanguardia",
-      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
-      "published_at": "2026-08-24T10:10:37+02:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5f4ed1194801",
       "source": "EL PAÍS",
       "title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
@@ -1889,6 +1854,28 @@
       "editorial_version": 2
     },
     {
+      "id": "85a8b7f3bab0",
+      "source": "La Vanguardia",
+      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
+      "published_at": "2026-08-24T10:10:37+02:00",
+      "category": "deportes",
+      "priority": 67,
+      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fd8843c431d7",
       "source": "La Vanguardia",
       "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
@@ -1922,28 +1909,6 @@
       "priority": 67,
       "title_fa": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
       "lead_fa": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
-      "published_at": "2026-08-24T05:27:05+00:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2032,6 +1997,28 @@
       "priority": 66,
       "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
       "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2466,6 +2453,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "44af5ca3569f",
+      "source": "EL PAÍS España",
+      "title": "¿Qué Estado queremos cuando todo arde?",
+      "summary": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
+      "url": "https://elpais.com/opinion/2026-08-22/que-estado-queremos-cuando-todo-arde.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/K52ESQFP5FHWHH67HHC5BKDADA.jpg?auth=04317783fe135a2a3a63416cf9d211e8d13af612a56dea20f4bc8ec11cba6f71",
+      "published_at": "2026-08-22T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 50,
+      "title_fa": "¿Qué Estado queremos cuando todo arde?",
+      "lead_fa": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2512,7 +2521,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 132
+      "count": 130
     }
   ]
 }
