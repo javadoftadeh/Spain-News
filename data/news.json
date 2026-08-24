@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:05:32.756003+00:00",
+  "generated_at": "2026-08-24T11:40:25.743230+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
@@ -242,9 +242,9 @@
       "id": "4668f3cd66ad",
       "source": "EL PAÍS",
       "title": "Ayuso evita el choque con Feijóo y se niega a hablar de la polémica del ático: “Está a la venta, chao ‘pescao”",
-      "summary": "La presidenta de la Comunidad visita el pantano de San Juan para hablar de los daños ocasionados por los incendios y no hace referencia a las palabras del líder del PP, que apuntó a Patrimonio de la Comunidad de Madrid para que diera explicaciones",
+      "summary": "La presidenta autonómica visita el pantano de San Juan, afectado por los incendios de la Sierra Oeste, y evita comentar las palabras del líder del PP, que pidió explicaciones a Patrimonio de la Comunidad de Madrid sobre la adquisición",
       "url": "https://elpais.com/espana/madrid/2026-08-24/ayuso-evita-el-choque-con-feijoo-y-se-niega-a-hablar-de-la-polemica-del-atico-esta-a-la-venta-chao-pescao.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OAILS5KAWRFEDJ5LVNYNCCTVDM.jpg?auth=336b6aac4414a0fa8eda8f2a7e151a5acadcd661ebba08e2609bc5bec63b4f0f",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207223_110152_video_1800.mp4",
       "published_at": "2026-08-24T10:13:56+00:00",
       "category": "sociedad",
       "priority": 77,
@@ -353,6 +353,62 @@
       "editorial_version": 2
     },
     {
+      "id": "c900c8171d48",
+      "source": "La Vanguardia",
+      "title": "Junts y ERC reclaman una investigación por las cargas de la Policía contra aficionados del Barça en Elche",
+      "summary": "Los republicanos registran una petición de comparecencia del ministro del Interior y Puigdemont denuncia que la Policía “supura odio a la catalanidad de forma estructural”",
+      "url": "https://www.lavanguardia.com/politica/20260824/11619004/junts-erc-reclaman-investigacion-cargas-policia-aficionados-barca-elche.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/21/68f7bef199aa6.jpeg",
+      "published_at": "2026-08-24T12:47:16+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "درخواست تحقیق احزاب کاتالان درباره برخورد پلیس با هواداران بارسا",
+      "lead_fa": "احزاب مستقل‌طلب جونتس و ERC خواستار تحقیق درباره برخورد پلیس با هواداران بارسلونا در الچه شدند. کارلس پویگدمونت وزیر کشور را به پاسخگویی فراخواند.",
+      "key_points_fa": [
+        "درخواست ثبت‌شده برای حضور وزیر کشور در پارلمان",
+        "انتقاد شدید پویگدمونت از عملکرد پلیس",
+        "تاکید بر لزوم بررسی رفتار ماموران با هواداران کاتالان"
+      ],
+      "analysis_fa": "این رویداد بار دیگر تنش‌ها میان رهبران سیاسی کاتالونیا و نهادهای امنیتی مرکزی اسپانیا را برجسته کرده است. واکنش‌های سیاسی به این گونه حوادث معمولاً به بحث‌های گسترده‌تری درباره حقوق شهروندی و عملکرد نهادهای دولتی در مناطق خودمختار منجر می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#بارسلونا",
+        "#پلیس"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4cecf8073515",
+      "source": "La Vanguardia",
+      "title": "La familia del empresario español que cayó de su barco entre Sicilia y Grecia pide ayuda para localizarlo",
+      "summary": "Juan José Mutilba, empresario burgalés de 66 años, desapareció el pasado martes en aguas de Italia cuando cayó de su barco en el que viajaba junto a su mujer",
+      "url": "https://www.lavanguardia.com/vida/20260824/11618978/familia-empresario-cayo-barco-sicilia-grecia-pide-ayuda-localizarlo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/12/19/639fa63d9bf06.r_d.1090-784-0.jpeg",
+      "published_at": "2026-08-24T12:26:29+02:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "جستجو برای یافتن کارآفرین اسپانیایی ناپدیدشده در آب‌های ایتالیا",
+      "lead_fa": "خوان خوزه موتیلبا، کارآفرین ۶۶ ساله اسپانیایی، روز سه‌شنبه پس از سقوط از قایق خود در آب‌های بین سیسیل و یونان ناپدید شد. خانواده او درخواست کمک فوری برای یافتن وی کرده‌اند.",
+      "key_points_fa": [
+        "ناپدید شدن در روز سه‌شنبه در آب‌های ایتالیا رخ داده است.",
+        "این فرد به همراه همسر خود در قایق حضور داشته است.",
+        "خانواده او خواستار کمک برای جستجو و یافتن او شده‌اند."
+      ],
+      "analysis_fa": "این حادثه در جریان یک سفر دریایی رخ داده و عملیات جستجو و نجات در منطقه برای یافتن این تبعه اسپانیایی در جریان است، در حالی که مقامات محلی در حال بررسی دقیق ابعاد این رویداد هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#مهاجران"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "e387baa824d9",
       "source": "EL PAÍS",
       "title": "El Gobierno urge al Poder Judicial a tramitar los refuerzos para Ceuta: “El Ministerio tiene todo preparado”",
@@ -385,7 +441,7 @@
       "title": "Burnham reafirma el apoyo británico a Ucrania en su primer viaje como primer ministro",
       "summary": "El exalcalde de Manchester se suma a Costa y a otros líderes europeos para arropar a Kyiv el día de la independencia tras un verano de duros bombardeos rusos",
       "url": "https://www.lavanguardia.com/internacional/20260824/11618856/reino-unido-proporcionara-ucrania-planos-fabricar-misiles-alcance.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8bf5107238d.r_d.3724-2320-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1e62013c1.jpeg",
       "published_at": "2026-08-24T09:48:46+02:00",
       "category": "politica",
       "priority": 75,
@@ -520,35 +576,6 @@
       "editorial_version": 2
     },
     {
-      "id": "029742645d4a",
-      "source": "La Vanguardia",
-      "title": "Raphinha, nueve y capitán, lidera la goleada del Barça ante el Elche",
-      "summary": "El brasieño marca dos goles y los de Flick sentencian el partido con otro gol de Adeyemi y un doblete de Fermín",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618674/raphinha-nueve-capitan-lidera-goleada-barca-elche.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5025ab34b.r_d.3792-2624-0.jpeg",
-      "published_at": "2026-08-23T23:38:03+02:00",
-      "category": "deportes",
-      "priority": 75,
-      "title_fa": "درخشش رافینیا در پیروزی پرگل بارسلونا مقابل الچه",
-      "lead_fa": "بارسلونا در دیدار مقابل الچه به پیروزی پرگل دست یافت. رافینیا با به ثمر رساندن دو گل نقش اصلی را در این برد ایفا کرد.",
-      "key_points_fa": [
-        "رافینیا با دو گل و عملکردی درخشان تیم را رهبری کرد.",
-        "آدیمی یکی از گل‌های بارسلونا را به ثمر رساند.",
-        "فرمین نیز با ثبت یک دبل در پیروزی تیم سهیم بود."
-      ],
-      "analysis_fa": "این مسابقه نشان‌دهنده آمادگی بالای خط حمله بارسلونا و تاثیرگذاری بازیکنان کلیدی همچون رافینیا در دیدارهای خارج از خانه بود. هماهنگی بازیکنان جدید و قدیمی تیم در این بازی مشهود بود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#فوتبال_اسپانیا",
-        "#رافینیا",
-        "#لالیگا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "525d78bd8e65",
       "source": "La Vanguardia",
       "title": "Australia pausa los visados para jóvenes de 23 países, incluida España",
@@ -573,35 +600,6 @@
         "#اسپانیا",
         "#ویزا",
         "#مهاجرت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "1d2c53ee01bd",
-      "source": "La Vanguardia",
-      "title": "Tailandia deporta a cinco instructores de buceo españoles",
-      "summary": "Bangkok aumenta la presión sobre los extranjeros sin permiso de trabajo y las empresas con testaferros",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618625/tailandia-deporta-cinco-instructores-buceo-espanoles.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2014/02/19/5f9c098165166.jpeg",
-      "published_at": "2026-08-23T20:46:05+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "تایلند پنج مربی غواصی اسپانیایی را دیپورت کرد",
-      "lead_fa": "دولت تایلند فشارها بر اتباع خارجی بدون مجوز کار و شرکت‌های صوری را افزایش داده است. در این راستا، پنج مربی غواصی اهل اسپانیا از این کشور اخراج شدند.",
-      "key_points_fa": [
-        "افزایش نظارت و فشار دولت تایلند بر خارجی‌های شاغل بدون مجوز",
-        "دیپورت شدن پنج مربی غواصی اسپانیایی از تایلند",
-        "هدف قرار گرفتن شرکت‌های دارای مالکان صوری در تایلند"
-      ],
-      "analysis_fa": "این اقدام در راستای اجرای سخت‌گیرانه‌تر قوانین مهاجرتی و بازار کار در تایلند صورت گرفته است و می‌تواند پیگردهای مشابهی را برای شاغلان خارجی غیرمجاز در سایر حوزه‌ها نیز به دنبال داشته باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تایلند",
-        "#اسپانیا",
-        "#مهاجرت",
-        "#اخراج"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -974,6 +972,34 @@
       "editorial_version": 2
     },
     {
+      "id": "d900f68eb8ce",
+      "source": "EL PAÍS",
+      "title": "¿Nos encaminamos a un Hiroshima de la IA?",
+      "summary": "A diferencia de la carrera por el arma nuclear, ahora es como si hubiera diez ‘proyectos Manhattan’ distintos dirigidos por empresas que compiten ferozmente entre sí",
+      "url": "https://elpais.com/opinion/2026-08-24/nos-encaminamos-a-un-hiroshima-de-la-ia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ENGSFSY5PZBPBHPQQXEZN6GP3Y.jpg?auth=8c6885425bd03afff79173f74cfa390805fb43ad8615442e2448888f714afbc8",
+      "published_at": "2026-08-24T03:30:01+00:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "آیا جهان به سمت هیروشیمای هوش مصنوعی حرکت می‌کند؟",
+      "lead_fa": "کارشناسان رقابت شرکت‌های فناوری در حوزه هوش مصنوعی را به پروژه منهتن تشبیه می‌کنند. این رقابت شدید میان شرکت‌های مختلف در جریان است.",
+      "key_points_fa": [
+        "مقایسه توسعه هوش مصنوعی با رقابت تسلیحات هسته‌ای",
+        "وجود چندین پروژه مشابه منهتن به طور همزمان توسط شرکت‌های مختلف",
+        "رقابت فشرده و بی‌رحمانه میان شرکت‌های پیشرو در فناوری"
+      ],
+      "analysis_fa": "رشد سریع و رقابتی هوش مصنوعی نگرانی‌های جدی درباره خطرات احتمالی و کنترل‌نشده این فناوری ایجاد کرده است. برخلاف پروژه تسلیحات هسته‌ای که توسط دولت‌ها مدیریت می‌شد، این بار شرکت‌های تجاری پیشران این رقابت هستند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هوش_مصنوعی",
+        "#فناوری",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "2f2313566f2f",
       "source": "EL PAÍS Economía",
       "title": "¿Se acabarán las vacaciones baratas en Japón?",
@@ -1160,17 +1186,127 @@
       "editorial_version": 2
     },
     {
-      "id": "a4188fba9a87",
+      "id": "128684a111df",
       "source": "La Vanguardia",
-      "title": "Brad Pitt visitará el festival de San Sebastián para presentar 'En el corazón de la bestia'",
-      "summary": "El actor estadounidense acudirá con el director David Ayer, 17 años después de venir al certamen con Tarantino para promocionar 'Malditos bastardos'",
-      "url": "https://www.lavanguardia.com/cultura/20260824/11618949/brad-pitt-visitara-festival-san-sebastian-presentar-corazon-bestia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7b9be820ecc.jpeg",
-      "published_at": "2026-08-24T11:58:00+02:00",
-      "category": "cultura",
+      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
+      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
+      "published_at": "2026-08-24T13:06:05+02:00",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "Brad Pitt visitará el festival de San Sebastián para presentar 'En el corazón de la bestia'",
-      "lead_fa": "El actor estadounidense acudirá con el director David Ayer, 17 años después de venir al certamen con Tarantino para promocionar 'Malditos bastardos'",
+      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "25c3f4c73caf",
+      "source": "La Vanguardia",
+      "title": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
+      "summary": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
+      "url": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c200fe6c02.jpeg",
+      "published_at": "2026-08-24T12:53:09+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
+      "lead_fa": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fbeefc47db5b",
+      "source": "La Vanguardia",
+      "title": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
+      "summary": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
+      "url": "https://www.lavanguardia.com/deportes/20260824/11619007/barcelona-barca-sale-defensa-socio-aficionado-detenido-aporreado-golpeado-elche-requisada-bandera-independentista-estelada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/12/13/5fa2d5d1d251c.jpeg",
+      "published_at": "2026-08-24T12:51:49+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
+      "lead_fa": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "eaffb5d9ae6d",
+      "source": "La Vanguardia",
+      "title": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
+      "summary": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
+      "url": "https://www.lavanguardia.com/vida/20260824/11619001/reto-viral-tiktok-conducir-direccion-contraria-muertos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c20052c966.r_d.3351-2649-0.jpeg",
+      "published_at": "2026-08-24T12:47:39+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
+      "lead_fa": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "90a8726e1001",
+      "source": "La Vanguardia",
+      "title": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
+      "summary": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
+      "url": "https://www.lavanguardia.com/local/baleares/20260824/11618932/residente-mallorca-reclama-fabulosa-herencia-incluye-castillo-monaco.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/18/6762c1f027987.r_d.1920-1280-0.jpeg",
+      "published_at": "2026-08-24T12:35:34+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
+      "lead_fa": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6410f16409c",
+      "source": "La Vanguardia",
+      "title": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues chao pescao”",
+      "summary": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
+      "url": "https://www.lavanguardia.com/politica/20260824/11618971/ayuso-justifica-operacion-chamberi-apartamento-esta-venta-pues-chao-pescao.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82fd36f3a5c.jpeg",
+      "published_at": "2026-08-24T12:16:41+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues chao pescao”",
+      "lead_fa": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1237,6 +1373,28 @@
       "priority": 70,
       "title_fa": "La casa real noruega comunica que empeora la salud del rey Harald V por una infección bacteriana",
       "lead_fa": "El príncipe Haakon asume la representación de la monarquía del país mientras su padre continúa ingresado en el Hospital del Reino de Oslo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cbc2b3e13677",
+      "source": "La Vanguardia",
+      "title": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
+      "summary": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
+      "url": "https://www.lavanguardia.com/sucesos/20260824/11618910/detenido-hombre-aeropuerto-barcelona-31-kilos-cocaina-dos-maletas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c005b5b7fb.jpeg",
+      "published_at": "2026-08-24T10:53:03+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Detenido un hombre en el aeropuerto de Barcelona con 31 kilos de cocaína en dos maletas",
+      "lead_fa": "El pasajero, que llegaba en un vuelo procedente de Ciudad de México, mostraba una actitud nerviosa durante los controles",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1392,90 +1550,6 @@
       "editorial_version": 2
     },
     {
-      "id": "943c65538ef6",
-      "source": "EL PAÍS",
-      "title": "La marca Flick se impone en el Barça, que tritura al Elche en su estreno en Liga",
-      "summary": "Los azulgrana golean después de un excelente ejercicio de puntería liderado por la versatilidad de Raphinha y la generosidad de Gordon con Lamine Yamal de espectador",
-      "url": "https://elpais.com/deportes/futbol/2026-08-23/la-marca-flick-se-impone-en-el-barca-que-tritura-al-elche-en-su-estreno-en-liga.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207136_065354_video_1800.mp4",
-      "published_at": "2026-08-23T22:06:00+00:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "درخشش بارسلونا با هانسی فلیک در نخستین بازی لیگ",
-      "lead_fa": "تیم فوتبال بارسلونا توانست در نخستین مسابقه خود در رقابت‌های لالیگا پیروزی قاطعی کسب کند. این دیدار با نمایش هجومی بازیکنان و گلزنی‌های متوالی به پایان رسید.",
-      "key_points_fa": [
-        "بارسلونا در گام نخست رقابت‌های لیگ به پیروزی پرگل رسید.",
-        "راپیدیا و گوردون نقش مهمی در پیروزی تیم ایفا کردند.",
-        "لامین یامال در این مسابقه از روی سکوها نظاره‌گر بازی هم‌تیمی‌هایش بود."
-      ],
-      "analysis_fa": "پیروزی پرگل در هفته نخست نشان‌دهنده تاثیرگذاری تفکرات هانسی فلیک بر روند حرکتی بارسلونا است. این عملکرد موفق می‌تواند نویدبخش روزهای بهتری برای آبی‌واناری‌پوشان در طول فصل جاری باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#لالیگا",
-        "#فوتبال_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4c540091fa16",
-      "source": "La Vanguardia",
-      "title": "Flick, muy duro con Balde: “No está aquí al 100%”",
-      "summary": "El técnico del Barça explica la ausencia del defensa de la convocatoria: “Le he dicho que lo mejor es que se aclare las ideas”",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618658/flick-duro-balde-esta-100.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b4349d21d8.r_d.2023-1295-0.jpeg",
-      "published_at": "2026-08-23T21:01:54+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "انتقاد شدید فلیک از بالده: او صد در صد آماده نیست",
-      "lead_fa": "سرمربی بارسلونا دلیل غیبت مدافع تیمش در فهرست مسابقات را توضیح داد. هانسی فلیک اعلام کرد که این بازیکن باید ذهن خود را متمرکز کند.",
-      "key_points_fa": [
-        "الخاندرو بالده از فهرست بازیکنان بارسلونا برای مسابقه کنار گذاشته شد.",
-        "هانسی فلیک صریحاً اعلام کرد که این مدافع در شرایط صد در صد قرار ندارد.",
-        "سرمربی بارسلونا به او توصیه کرده است تا افکار خود را مرتب کند."
-      ],
-      "analysis_fa": "تصمیم هانسی فلیک نشان‌دهنده رویکرد انضباطی سخت‌گیرانه او در بارسلونا است که در آن آمادگی کامل ذهنی و بدنی ملاک اصلی حضور در ترکیب تیم محسوب می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#هانسی_فلیک",
-        "#لالیگا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "824c29017718",
-      "source": "La Vanguardia",
-      "title": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok y nadie sabe cómo",
-      "summary": "Ja joven inglesa de 16 años sumó más de 800.000 seguidores en TikTok en apenas dos semanas",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618558/ellie-ellis-adolescente-conquistado-algoritmo-tiktok-nadie-como.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8ae98ecf160.r_d.2856-2142-0.jpeg",
-      "published_at": "2026-08-23T14:47:47+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "دختر نوجوان بریتانیایی؛ رکوردشکنی مرموز در تیک‌تاک",
-      "lead_fa": "یک نوجوان ۱۶ ساله اهل بریتانیا موفق شد در مدت زمان کوتاه دو هفته بیش از ۸۰۰ هزار دنبال‌کننده در شبکه اجتماعی تیک‌تاک جذب کند. این رشد سریع بدون هیچ توضیح مشخصی درباره نحوه کارکرد الگوریتم توجه کاربران را جلب کرده است.",
-      "key_points_fa": [
-        "افزایش بیش از ۸۰۰ هزار دنبال‌کننده در دو هفته",
-        "سن این کاربر جوان ۱۶ سال است",
-        "ابهام در نحوه فعالیت و موفقیت ناگهانی در الگوریتم تیک‌تاک"
-      ],
-      "analysis_fa": "رشد ناگهانی حساب‌های کاربری در شبکه‌های اجتماعی مانند تیک‌تاک بار دیگر توجه کارشناسان را به سوی الگوریتم‌های توزیع محتوا جلب کرده است. این پدیده‌ها نشان می‌دهند که چگونه فعالیت افراد بدون برنامه‌ریزی قبلی یا استراتژی‌های پیچیده بازاریابی می‌تواند به شکلی ویروسی در سطح جهانی دیده شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تیک‌تاک",
-        "#مشبک_اجتماعی",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "2dfcea13d20a",
       "source": "EL PAÍS Economía",
       "title": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
@@ -1505,17 +1579,17 @@
       "editorial_version": 2
     },
     {
-      "id": "4b36225d6d1f",
+      "id": "85a8b7f3bab0",
       "source": "La Vanguardia",
-      "title": "La semana empieza con inestabilidad en buena parte de la Península y Baleares",
-      "summary": "En Catalunya, a partir de las 12.00 y hasta final del día, se activa el nivel naranja por lluvias, pues podrán acumularse en una hora cerca de 30 litros por metro cuadrado en algunas zonas",
-      "url": "https://www.lavanguardia.com/vida/20260824/11618832/semana-empieza-inestabilidad-buena-parte-peninsula-baleares.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/16/6a81ba0861c80.r_d.3038-2060-0.jpeg",
-      "published_at": "2026-08-24T08:40:56+02:00",
-      "category": "cultura",
+      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
+      "published_at": "2026-08-24T10:10:37+02:00",
+      "category": "deportes",
       "priority": 69,
-      "title_fa": "La semana empieza con inestabilidad en buena parte de la Península y Baleares",
-      "lead_fa": "En Catalunya, a partir de las 12.00 y hasta final del día, se activa el nivel naranja por lluvias, pues podrán acumularse en una hora cerca de 30 litros por metro cuadrado en algunas zonas",
+      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1582,28 +1656,6 @@
       "priority": 69,
       "title_fa": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
       "lead_fa": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
-      "published_at": "2026-08-24T05:27:05+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1703,28 +1755,6 @@
       "editorial_version": 2
     },
     {
-      "id": "b475e14ee99f",
-      "source": "La Vanguardia",
-      "title": "El Estado eleva a 2.000 millones sus dividendos gracias a Aena y CaixaBank",
-      "summary": "El auge del turismo, la banca y la defensa mejora la rentabilidad de las inversiones",
-      "url": "https://www.lavanguardia.com/economia/20260824/11618635/eleva-2-000-millones-dividendos-gracias-aena-caixabank.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b30dc0624a.r_d.1984-1835-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "turismo",
-      "priority": 68,
-      "title_fa": "El Estado eleva a 2.000 millones sus dividendos gracias a Aena y CaixaBank",
-      "lead_fa": "El auge del turismo, la banca y la defensa mejora la rentabilidad de las inversiones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d420a0072f47",
       "source": "La Vanguardia",
       "title": "Lo que haces antes de apagar la luz influye en cómo duermes",
@@ -1747,28 +1777,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d6b19c3acb12",
-      "source": "La Vanguardia",
-      "title": "Así son las carreras de caracoles de Tricio: seis minutos para arrastrar una lata de 230 gramos",
-      "summary": "El molusco Papapoya, de apenas 6 gramos, recorrió 82 milímetros y se impuso entre los 76 participantes de esta singular competición riojana",
-      "url": "https://www.lavanguardia.com/vida/20260824/11618583/asi-son-carreras-caracoles-tricio-seis-minutos-arrastrar-lata-230-gramos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b07a283d6a.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Así son las carreras de caracoles de Tricio: seis minutos para arrastrar una lata de 230 gramos",
-      "lead_fa": "El molusco Papapoya, de apenas 6 gramos, recorrió 82 milímetros y se impuso entre los 76 participantes de esta singular competición riojana",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "defb7944d109",
       "source": "La Vanguardia",
       "title": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
@@ -1780,28 +1788,6 @@
       "priority": 68,
       "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
       "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5e5e27984925",
-      "source": "La Vanguardia",
-      "title": "Mataró afianza el modelo de ciudad cuidadora con una estrategia transversal",
-      "summary": "El Mataró Care City Lab se consolida como el centro neurálgico del programa",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260824/11618587/mataro-afianza-modelo-ciudad-cuidadora-estrategia-transversal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b0ca079f09.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Mataró afianza el modelo de ciudad cuidadora con una estrategia transversal",
-      "lead_fa": "El Mataró Care City Lab se consolida como el centro neurálgico del programa",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1868,6 +1854,28 @@
       "priority": 68,
       "title_fa": "¿Ternera o vaca vieja? La edad también se nota en el plato",
       "lead_fa": "Una buena vaca adulta ofrece ese gusto profundo y persistente que buscan los aficionados a los chuletones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2391,28 +2399,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3811afcaf39b",
-      "source": "La Vanguardia",
-      "title": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
-      "summary": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5d538a9ed.r_d.1149-661-0.jpeg",
-      "published_at": "2026-08-23T22:54:56+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
-      "lead_fa": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "dd552bdc4916",
       "source": "EL PAÍS Economía",
       "title": "Tatyana Kim, la mujer más rica de Rusia con un imperio en llamas",
@@ -2558,7 +2544,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 122
+      "count": 124
     }
   ]
 }
