@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:01:01.085917+00:00",
+  "generated_at": "2026-08-24T23:32:07.574412+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e53560f78408",
@@ -1875,28 +1875,6 @@
       "editorial_version": 2
     },
     {
-      "id": "128684a111df",
-      "source": "La Vanguardia",
-      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
-      "published_at": "2026-08-24T13:06:05+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "lead_fa": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "202e3fc42394",
       "source": "EL PAÍS",
       "title": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
@@ -1906,16 +1884,51 @@
       "published_at": "2026-08-24T12:52:36+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
-      "lead_fa": "Pese a la generosidad de los incentivos, persisten las dudas sobre hasta qué punto cambiarán las decisiones de los jóvenes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پاداش بیش از ۴۷ هزار یورویی سنگاپور برای افزایش زادآوری",
+      "lead_fa": "دولت سنگاپور برای تشویق خانواده‌ها به فرزندآوری کمک‌های مالی سنگینی ارائه می‌دهد. با وجود این حمایت‌ها، کارشناسان درباره تاثیر قطعی آن‌ها بر تصمیم جوانان تردید دارند.",
+      "key_points_fa": [
+        "پرداخت مبلغی بیش از ۴۷ هزار یورو به ازای هر فرزند در سنگاپور",
+        "هدف دولت مقابله با بحران کاهش نرخ زادآوری",
+        "وجود تردید درباره کارایی این سیاست‌های تشویقی بر تصمیم جوانان"
+      ],
+      "analysis_fa": "بسیاری از کشورهای توسعه‌یافته با بحران کاهش جمعیت مواجه هستند و سیاست‌های مالی را برای ترغیب خانواده‌ها به فرزندآوری آزمایش می‌کنند. تجربه سنگاپور نشان می‌دهد که صرفا اختصاص بودجه‌های سنگین ممکن است تمام چالش‌های اجتماعی و اقتصادی جوانان را برای تشکیل خانواده حل نکند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سنگاپور",
+        "#جمعیت",
+        "#فرزندآوری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "128684a111df",
+      "source": "La Vanguardia",
+      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
+      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
+      "published_at": "2026-08-24T13:06:05+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "دیدار پاپ فرانسیس با نوازنده گروه بلوز برادرز",
+      "lead_fa": "رهبر کاتولیک‌های جهان با «بلو لو» مارینی، نوازنده ساکسفون گروه معروف بلوز برادرز دیدار کرد. این هنرمند در جریان دیدار، یک عینک دودی مشابه اعضای این گروه به پاپ هدیه داد.",
+      "key_points_fa": [
+        "دیدار پاپ فرانسیس با 'بلو لو' مارینی نوازنده ساکسفون",
+        "گروه بلوز برادرز از اسطوره‌های دوران جوانی پاپ محسوب می‌شود",
+        "مارینی یک عینک دودی نمادین به رهبر واتیکان هدیه داد"
+      ],
+      "analysis_fa": "این دیدار در راستای تعاملات فرهنگی و هنری رهبر کاتولیک‌ها با چهره‌های شناخته‌شده عرصه موسیقی انجام شده است و نشان‌دهنده علاقه شخصی او به موسیقی دوران جوانی‌اش است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#پاپ_فرانسیس",
+        "#موسیقی",
+        "#اسپانیا",
+        "#واتیکان"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1928,16 +1941,22 @@
       "published_at": "2026-08-24T12:47:39+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
-      "lead_fa": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تحقیق بریتانیا درباره نقش یک چالش وایرال در تصادف مرگبار",
+      "lead_fa": "مقام‌های بریتانیایی در حال بررسی این موضوع هستند که آیا یک چالش خطرناک در شبکه‌های اجتماعی عامل تصادف مرگبار اخیر بوده است. در هفته‌های گذشته حوادث مشابه دیگری نیز رخ داده است.",
+      "key_points_fa": [
+        "تحقیقات درباره ارتباط یک چالش وایرال با تصادفات مرگبار جاده‌ای در بریتانیا",
+        "ثبت چند تصادف مرگبار مشابه در هفته‌های اخیر، از جمله یک مورد در ایرلند",
+        "بررسی‌های پلیس برای کشف ابعاد دقیق این حوادث شبکه‌های اجتماعی"
+      ],
+      "analysis_fa": "رشد پدیده‌های خطرناک در شبکه‌های اجتماعی و تأثیر آن بر رفتارهای پرخطر رانندگان، به یکی از چالش‌های جدی برای نهادهای امنیتی و پلیس در اروپا تبدیل شده است. این روند نیازمند نظارت بیشتر بر محتوای آنلاین و افزایش آگاهی‌بخشی به جوانان است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بریتانیا",
+        "#حادثه",
+        "#شبکه‌های_اجتماعی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2051,28 +2070,6 @@
       "editorial_version": 2
     },
     {
-      "id": "85a8b7f3bab0",
-      "source": "La Vanguardia",
-      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
-      "published_at": "2026-08-24T10:10:37+02:00",
-      "category": "deportes",
-      "priority": 66,
-      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5f4ed1194801",
       "source": "EL PAÍS",
       "title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
@@ -2146,6 +2143,28 @@
       "editorial_version": 2
     },
     {
+      "id": "85a8b7f3bab0",
+      "source": "La Vanguardia",
+      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
+      "published_at": "2026-08-24T10:10:37+02:00",
+      "category": "deportes",
+      "priority": 65,
+      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
+      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "fd8843c431d7",
       "source": "La Vanguardia",
       "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
@@ -2190,28 +2209,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
-      "published_at": "2026-08-24T05:27:05+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "fea4148f9675",
       "source": "La Vanguardia",
       "title": "Harry Potter, bajo sospecha",
@@ -2245,6 +2242,28 @@
       "priority": 64,
       "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
       "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
