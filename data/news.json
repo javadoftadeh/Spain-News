@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:54:17.470864+00:00",
+  "generated_at": "2026-08-24T01:55:09.110161+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "7693bad5a3b8",
@@ -527,7 +527,7 @@
       "id": "029742645d4a",
       "source": "La Vanguardia",
       "title": "Raphinha, nueve y capitán, lidera la goleada del Barça ante el Elche",
-      "summary": "Raphinha lidera el estreno del Barça en Elche con dos goles y el Barça sentencia el partido con otro gol de Adeyemi y un doblete de Fermín",
+      "summary": "El brasieño marca dos goles y los de Flick sentencian el partido con otro gol de Adeyemi y un doblete de Fermín",
       "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618674/raphinha-nueve-capitan-lidera-goleada-barca-elche.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5025ab34b.r_d.3792-2624-0.jpeg",
       "published_at": "2026-08-23T23:38:03+02:00",
@@ -1491,7 +1491,7 @@
       "title": "Trump clausura el 250 aniversario de EE UU con una carrera de Indycar en las calles de Washington",
       "summary": "El presidente cierra con el banderazo de salida unas conmemoraciones que han incluido un combate de lucha libre, un espectáculo de fuegos artificiales y una feria",
       "url": "https://elpais.com/us/2026-08-23/trump-clausura-el-250-aniversario-de-ee-uu-con-una-carrera-de-indycar-en-las-calles-de-washington.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EKPZESHDW5N6NJVSBVJ7AY3KTM.jpg?auth=5e82b75440f3c504852cc7f88e2de4de04a1c3b7be928d42bf4b98a9a2822bbf",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207101_002308_video_1800.mp4",
       "published_at": "2026-08-23T20:12:51+00:00",
       "category": "sociedad",
       "priority": 70,
@@ -2619,18 +2619,23 @@
       "url": "https://elpais.com/economia/negocios/2026-08-23/la-era-de-la-inteligencia-exponencial.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EQUWL5NIZFGQRBIMXMFSKX7NDI.jpg?auth=3de975e30427bcd6ea8346e54b81fc557d0a29b6b419b41b430ae9b7bb7b0c22",
       "published_at": "2026-08-23T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "La era de la inteligencia exponencial",
-      "lead_fa": "Cada revolución industrial ha generado oportunidades, pero ninguna ha evitado cierta destrucción creativa",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "category": "economia",
+      "priority": 63,
+      "title_fa": "عصر هوش نمایی و تحولات صنعتی",
+      "lead_fa": "انقلاب‌های صنعتی همواره فرصت‌های جدیدی ایجاد کرده‌اند. با این حال، هیچ‌کدام بدون تخریب خلاقانه نبوده‌اند.",
+      "key_points_fa": [
+        "هر انقلاب صنعتی فرصت‌ها و چالش‌های خاص خود را به همراه دارد.",
+        "پدیده تخریب خلاقانه جزئی جداکارناپذیر از تحولات صنعتی است."
+      ],
+      "analysis_fa": "بررسی روند انقلاب‌های صنعتی نشان می‌دهد که تغییرات فناورانه همواره ساختارهای اقتصادی را دگرگون کرده و در کنار خلق فرصت، الگوهای سنتی را از بین می‌برند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد",
+        "#فناوری",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2642,17 +2647,24 @@
       "image": "",
       "published_at": "2026-08-22T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 56,
-      "title_fa": "¿Cómo de ‘rico’ eres? Consulta tu posición por sueldo, renta y patrimonio",
-      "lead_fa": "Analizo las tres cifras: salarios, ingresos y riqueza acumulada. La desigualdad crece de una a otra. Entras en el 10% con 52.000 de sueldo, 58.000 de ingresos y 380.000 de riqueza",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "priority": 55,
+      "title_fa": "بررسی جایگاه ثروت در اسپانیا بر اساس دستمزد و دارایی",
+      "lead_fa": "ابزار جدیدی برای سنجش جایگاه اقتصادی افراد بر اساس حقوق، درآمد و دارایی انباشته در اسپانیا منتشر شد. این داده‌ها نشان‌دهنده روند افزایشی نابرابری در شاخص‌های مختلف اقتصادی است.",
+      "key_points_fa": [
+        "ورود به دهک نخست درآمدی با دستمزد ۵۲ هزار یورو",
+        "نیاز به ۵۸ هزار یورو درآمد برای قرارگیری در ۱۰ درصد بالای درآمدی",
+        "ثروت ۳۸۰ هزار یورویی به عنوان آستانه ورود به دهک بالای دارایی"
+      ],
+      "analysis_fa": "مقایسه میان دستمزدها، درآمدهای کل و ثروت انباشته نشان می‌دهد که شکاف طبقاتی با گذر از دستمزد به سمت سرمایه و دارایی بیشتر می‌شود. این آمار تصویری روشن‌تر از توزیع ثروت و نابرابری‌های ساختاری در جامعه اسپانیا ارائه می‌دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#ثروت",
+        "#نابرابری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2664,17 +2676,23 @@
       "image": "https://imagenes.elpais.com/resizer/v2/47AKIXNPYVDDNAP3MPFX5CG7WM.jpg?auth=53cde1279200c5a886c746ca41573be7bda6914fbb21e0260cc21fae9d3bad0a",
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "economia",
-      "priority": 53,
-      "title_fa": "El gran proveedor de atún en lata de Mercadona bate récord de ventas y dispara beneficios",
-      "lead_fa": "Jealsa alcanzó una facturación de 824 millones en 2025, el 55% procedente de Mercadona",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "priority": 52,
+      "title_fa": "رکوردشکنی فروش و سودآوری تأمین‌کننده اصلی تن‌ماهی مرکاندونا",
+      "lead_fa": "شرکت ژالسا در سال ۲۰۲۵ به گردش مالی ۸۲۴ میلیون یورو دست یافت. بیش از نیمی از این فروش متعلق به زنجیره سوپرمارکت‌های مرکاندونا است.",
+      "key_points_fa": [
+        "ثبت درآمد ۸۲۴ میلیون یورویی توسط شرکت ژالسا در سال ۲۰۲۵",
+        "اختصاص ۵۵ درصد از کل فروش این شرکت به تأمین محصولات برای مرکاندونا",
+        "رشد چشمگیر سودآوری همزمان با افزایش تقاضای بازار"
+      ],
+      "analysis_fa": "این موفقیت مالی نشان‌دهنده پایداری و قدرت همکاری‌های تجاری بلندمدت میان بزرگترین عرضه‌کنندگان مواد غذایی و زنجیره‌های توزیع بزرگ در اسپانیا است. تمرکز بر تأمین انحصاری یا عمده برای فروشگاه‌های زنجیره‌ای نقش کلیدی در تضمین رشد درآمد شرکت‌های تولیدی دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#مرکاندونا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2686,7 +2704,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
       "published_at": "2026-08-21T10:32:15+00:00",
       "category": "sociedad",
-      "priority": 50,
+      "priority": 49,
       "title_fa": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
       "lead_fa": "El índice al que están referenciadas la mayoría de préstamos de interés variable en España alcanza el nivel más alto en más de dos años",
       "key_points_fa": [],
@@ -2708,7 +2726,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7NX5RTRSMVAAJL6RNTSJZIBNKA.jpg?auth=d67058b3bebb806d77070b0cbead1bbd40407c8c08d6ac9a72c8fb687b726e34",
       "published_at": "2026-08-21T03:30:01+00:00",
       "category": "sociedad",
-      "priority": 48,
+      "priority": 47,
       "title_fa": "Las hipotecas españolas son las terceras más baratas de la zona euro, pero Coface avisa: no durará mucho tiempo",
       "lead_fa": "La aseguradora de crédito advierte de que la banca está sacrificando márgenes y asumiendo más riesgo para mantener los tipos bajos",
       "key_points_fa": [],
@@ -2730,7 +2748,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/JPI3T3M6BBEZPG5XQND5BWCS2Q.jpg?auth=df9e81c4d08016d8d42fde8cc4930658e8482f3149aead64e0eac20ec68423e8",
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 48,
+      "priority": 47,
       "title_fa": "El Santander gira hacia la banca tradicional en EE UU y añade 60.000 millones en depósitos con Webster",
       "lead_fa": "La entidad amplía su número de clientes en 3,5 millones y diversifica su negocio con banca comercial y minorista de alta calidad",
       "key_points_fa": [],
@@ -2752,7 +2770,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/YJ32XUAEKNCX3HXZOTIVWAH6XE.jpg?auth=5f69f964a3306a306b9106b7f4d671d61ee0d81050ca6239f798873d8f722ef5",
       "published_at": "2026-08-21T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 48,
+      "priority": 47,
       "title_fa": "La amortización de la deuda del sistema eléctrico en 2027 permitirá una rebaja del 6% en la factura",
       "lead_fa": "El próximo año los consumidores pagarán la última anualidad de 271,8 millones de un ‘agujero’ que llegó a los 30.000 millones y que han sufragado durante 15 años a un tipo de interés del 4,9%",
       "key_points_fa": [],
