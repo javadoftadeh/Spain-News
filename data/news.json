@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T08:24:32.253293+00:00",
+  "generated_at": "2026-08-24T09:28:33.928870+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
+    "4bfded48f113",
     "a0238eccdbec",
     "69944dcaf100",
-    "7a4cae79a2cf",
     "14f9a9eb8fc7"
   ],
   "items": [
@@ -34,6 +34,34 @@
         "#دیوان_عالی",
         "#سئوتا",
         "#سیاست_اسپانیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4bfded48f113",
+      "source": "La Vanguardia",
+      "title": "Mueren al menos 3 niños al caer partes de un dron ucraniano en un centro infantil del sur de Rusia",
+      "summary": "Ucrania amplía sus ataques a la logística rusa atacando almacenes de Ozón, el segundo gigante del comercio electrónico ruso después de Wildberries",
+      "url": "https://www.lavanguardia.com/internacional/20260824/11618906/mueren-al-menos-3-ninos-al-caer-partes-de-un-dron-ucraniano-en-un-centro-infantil-del-sur-de-rusia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c065079519.r_d.2796-2216-0.jpeg",
+      "published_at": "2026-08-24T10:59:26+02:00",
+      "category": "politica",
+      "priority": 84,
+      "title_fa": "کشته شدن سه کودک در جنوب روسیه پس از سقوط قطعات پهپاد",
+      "lead_fa": "اصابت قطعات یک پهپاد اوکراینی به یک مرکز کودکان در جنوب روسیه باعث جان باختن حداقل سه کودک شد. اوکراین در همین حال حملات خود را به زیرساخت‌های لجستیکی روسیه گسترش داده است.",
+      "key_points_fa": [
+        "جان باختن دست‌کم سه کودک در یک مرکز کودکان در جنوب روسیه",
+        "سقوط قطعات یک فروند پهپاد اوکراینی عامل این حادثه بوده است",
+        "گسترش حملات اوکراین به مراکز لجستیکی و انبارهای شرکت‌های تجاری بزرگ روسیه"
+      ],
+      "analysis_fa": "این حادثه نشان‌دهنده تشدید و گسترش جغرافیایی درگیری‌ها و حملات هوایی در مناطق نزدیک به مرز یا درون روسیه است، در حالی که اوکراین تلاش می‌کند با هدف قرار دادن تأسیسات لجستیکی و اقتصادی، پشتیبانی نظامی مسکو را تضعیف کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اوکراین",
+        "#روسیه",
+        "#پهپاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -91,34 +119,6 @@
         "#سیاست",
         "#سبتا",
         "#کنگره"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7a4cae79a2cf",
-      "source": "EL PAÍS",
-      "title": "Las siete crisis del verano europeo",
-      "summary": "Los efectos del cambio climático, las guerras y la migración se suman a problemas estructurales y someten a la UE a un test de estrés de la máxima dificultad",
-      "url": "https://elpais.com/internacional/2026-08-24/las-siete-crisis-del-verano-europeo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TE4AI5IOONAI7KAVLZ2ERCYJN4.jpg?auth=b40927661f804a584760cb1f363234e8d584cb8d19b03a366e19ae5311023337",
-      "published_at": "2026-08-24T03:45:01+00:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "هفت بحران هم‌زمان در تابستان اروپا",
-      "lead_fa": "اتاق فکر اتحادیه اروپا با چالش‌های پیچیده‌ای روبه‌رو است. تغییرات اقلیمی، جنگ‌ها و بحران مهاجرت به مشکلات ساختاری این منطقه افزوده شده‌اند.",
-      "key_points_fa": [
-        "تأثیرات منفی تغییرات اقلیمی بر تابستان اروپا",
-        "فشار جنگ‌ها و جریان‌های مهاجرتی بر اتحادیه اروپا",
-        "افزوده شدن بحران‌های جدید به مشکلات ساختاری موجود"
-      ],
-      "analysis_fa": "تلاقی بحران‌های محیط‌زیستی، ژئوپلیتیکی و ساختاری نشان‌دهنده شکنندگی فزاینده سیاست‌های کلان در اتحادیه اروپا است و مدیریت هم‌زمان آن‌ها نیازمند هماهنگی عمیق‌تر میان کشورهای عضو است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اتحادیه_اروپا",
-        "#مهاجرت",
-        "#بحران_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -245,7 +245,7 @@
       "summary": "Sanidad reúne este lunes a las comunidades autónomas para la donación de vacunas a Ceuta",
       "url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/J73YWGPLPBEOZBZMHYXJWEJ6LI.jpg?auth=39b83ba2c5d5cd52c1ae2383c0ed39f8a9a7cf989b69ef6d0df0a45c3edaf10a",
-      "published_at": "2026-08-24T08:07:10+00:00",
+      "published_at": "2026-08-24T09:05:01+00:00",
       "category": "sociedad",
       "priority": 77,
       "title_fa": "واکنش تند دولت اسپانیا به اظهارات فئیخو درباره سبته",
@@ -320,34 +320,6 @@
         "#سبته",
         "#مهاجران",
         "#بهداشت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "eb9bbd60e316",
-      "source": "La Vanguardia",
-      "title": "Estabilizado el incendio de Segorbe tras calcinar 630 hectáreas y obligar a desalojar Gátova",
-      "summary": "Los bomberos dan por estabilizado a las 7.30 horas el fuego originado por un rayo en la Sierra Calderona, desmovilizan a la UME y rebajan la alerta del plan de incendios de nivel 2 a 1.",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618492/estabilizado-incendio-segorbe-calcinar-630-hectareas-obligar-desalojar-gatova.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a9ea01634b.r_d.2858-1905-0.jpeg",
-      "published_at": "2026-08-23T09:18:43+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "مهار آتش‌سوزی در سگوربه پس از سوختن ۶۳۰ هکتار",
-      "lead_fa": "آتش‌سوزی جنگلی در منطقه سیرا کالدرونا که ناشی از برخورد صاعقه بود، پس از سوزاندن ۶۳۰ هکتار زمین تثبیت شد. واحدهای امدادی نظامی از منطقه خارج شدند و سطح هشدار کاهش یافت.",
-      "key_points_fa": [
-        "آتش‌سوزی در ساعت ۷:۳۰ صبح تثبیت شد.",
-        "منشا آتش برخورد صاعقه در سیرا کالدرونا اعلام شد.",
-        "سطح هشدار طرح آتش‌سوزی از ۲ به ۱ کاهش یافت."
-      ],
-      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری مناطق جنگلی اسپانیا در برابر حوادث طبیعی مانند صاعقه در فصل خشک را نشان می‌دهد. اقدام سریع آتش‌نشانان مانع از گسترش بیشتر آتش شد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش‌سوزی",
-        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -433,6 +405,34 @@
         "#فانکومپاپ",
         "#اقتصاداسپانیا",
         "#بازار"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4577d8f2d047",
+      "source": "EL PAÍS",
+      "title": "La Policía Nacional investiga la muerte de un hombre en Marbella con dos heridas de bala",
+      "summary": "La víctima, de 33 años, es hallada sin vida en plena calle después de que varias personas alertaran al 112 de que se estaba produciendo una pelea y se escuchaban disparos",
+      "url": "https://elpais.com/espana/andalucia/2026-08-24/la-policia-nacional-investiga-la-muerte-de-un-hombre-en-marbella-con-dos-heridas-de-bala.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WKR7V6NXDBEBXECL7LUOLOK26Q.jpg?auth=dcfbc348fe66986c3770ad8a02531ffa4a434f7dfdd7cacc4aafe1589ff675ab",
+      "published_at": "2026-08-24T08:47:38+00:00",
+      "category": "sociedad",
+      "priority": 75,
+      "title_fa": "پلیس ملی اسپانیا درباره مرگ یک مرد در ماربلا تحقیق می‌کند",
+      "lead_fa": "پلیس ملی اسپانیا تحقیقات خود را درباره مرگ یک مرد ۳۳ ساله در ماربلا آغاز کرد. این فرد با دو زخم گلوله در خیابان پیدا شد.",
+      "key_points_fa": [
+        "مرد ۳۳ ساله با دو زخم گلوله بی‌جان در خیابان پیدا شد.",
+        "تماس‌های متعدد با شماره اضطراری ۱۱۲ گزارش درگیری و تیراندازی دادند.",
+        "پلیس ملی اسپانیا پرونده‌ای برای روشن شدن ابعاد این واقعه گشوده است."
+      ],
+      "analysis_fa": "این رویداد به عنوان یک پرونده جنایی توسط پلیس ملی در حال بررسی است و جزئیات بیشتری درباره انگیزه یا عاملان آن هنوز از سوی مقامات رسمی اعلام نشده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#ماربلا",
+        "#حوادث"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -610,11 +610,11 @@
     },
     {
       "id": "28e195ede6fd",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "Desaparecido un empresario español tras caer de su barco entre Italia y Grecia",
       "summary": "Salvamento Marítimo busca al hombre de 66 años desde el pasado viernes",
       "url": "https://elpais.com/espana/2026-08-23/desaparecido-un-empresario-espanol-tras-caer-de-su-barco-entre-italia-y-grecia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6ZKC73JSKRIP7MRBOXPYNVCZ3I.jpg?auth=b7a59dadfd3da8d59f75d9396435438f67fcace1f30947fc50de3b09a5885dc9",
+      "image": "https://imagenes.elpais.com/resizer/v2/JOGR2BFAB5ESDET7YWBGTEAL3A.jpg?auth=47e17c1aa07a6b2429d41e4d3d1fed41b71e7b52f39f980ca00c1dc23c1b0c77",
       "published_at": "2026-08-23T18:51:09+00:00",
       "category": "economia",
       "priority": 75,
@@ -843,16 +843,23 @@
       "published_at": "2026-08-24T03:30:01+00:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "España se queda sin geólogos: “Sin ellos no podemos salvar vidas ni ahorrar dinero público”",
-      "lead_fa": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen sido otros si se les escuchase",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کمبود شدید زمین‌شناس در اسپانیا؛ خطری برای ایمنی و بودجه عمومی",
+      "lead_fa": "تعداد فارغ‌التحصیلان رشته زمین‌شناسی در اسپانیا طی ۹ سال گذشته ۳۷ درصد کاهش یافته است. شرکت‌های بخش خصوصی با کمبود شدید نیروی کار روبرو هستند و دانشگاه‌ها پاسخگوی تقاضای بازار نیستند.",
+      "key_points_fa": [
+        "کاهش ۳۷ درصدی فارغ‌التحصیلان زمین‌شناسی در بازه زمانی ۹ ساله",
+        "ناتوانی دانشگاه‌ها در تأمین نیروی کار مورد نیاز شرکت‌های جویای استخدامی",
+        "نقش کلیدی زمین‌شناسان در کاهش هزینه‌های بحران‌هایی مانند فوران آشفته لا پالما و سیلاب‌های دانا"
+      ],
+      "analysis_fa": "بحران کمبود زمین‌شناسان در اسپانیا نشان‌دهنده شکاف عمیق میان نیازهای بازار کار و سیستم آموزشی این کشور است. کارشناسان هشدار می‌دهند که نادیده گرفتن این تخصص در پروژه‌های پیشگیری از بلایای طبیعی، می‌تواند هزینه‌های جانی و مالی سنگینی به بخش عمومی تحمیل کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#زمین_شناسی",
+        "#اسپانیا",
+        "#بازار_کار",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1192,17 +1199,105 @@
       "editorial_version": 2
     },
     {
-      "id": "1ad7047742f1",
+      "id": "a803e26c6cba",
       "source": "La Vanguardia",
-      "title": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
-      "summary": "Se trata del mismo lugar en el que se declaró un incendio forestal el pasado 20 de agosto",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618548/inicia-nuevo-incendio-vall-d-uixo-castellon.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/08/07/62ef71f50fbe0.r_d.1500-1000-0.jpeg",
-      "published_at": "2026-08-23T13:50:29+02:00",
+      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados al tráfico de drogas",
+      "summary": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618916/detienen-alicante-dos-fugitivos-reclamados-alemania-vinculados-red-trafico-estupefacientes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
+      "published_at": "2026-08-24T11:03:01+02:00",
       "category": "sociedad",
-      "priority": 71,
-      "title_fa": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
-      "lead_fa": "Se trata del mismo lugar en el que se declaró un incendio forestal el pasado 20 de agosto",
+      "priority": 70,
+      "title_fa": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados al tráfico de drogas",
+      "lead_fa": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fd80147ec333",
+      "source": "La Vanguardia",
+      "title": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
+      "summary": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618921/calor-extremo-deja-96-muertes-valencia-semana-segunda-cifra-mas-alta-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f82ca186e5.r_d.476-663-0.jpeg",
+      "published_at": "2026-08-24T11:01:49+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
+      "lead_fa": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a659c15c46c4",
+      "source": "La Vanguardia",
+      "title": "La casa real noruega comunica que empeora la salud del rey Harald V por una infección bacteriana",
+      "summary": "El príncipe Haakon asume la representación de la monarquía del país mientras su padre continúa ingresado en el Hospital del Reino de Oslo",
+      "url": "https://www.lavanguardia.com/gente/20260824/11618914/casa-real-noruega-comunica-empeora-salud-rey-harald-v-infeccion-bacteriana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/24/699e14b9805a1.r_d.684-656-0.jpeg",
+      "published_at": "2026-08-24T10:59:07+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La casa real noruega comunica que empeora la salud del rey Harald V por una infección bacteriana",
+      "lead_fa": "El príncipe Haakon asume la representación de la monarquía del país mientras su padre continúa ingresado en el Hospital del Reino de Oslo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5f4ed1194801",
+      "source": "EL PAÍS",
+      "title": "Una borrasca dejará lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "summary": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
+      "url": "https://elpais.com/el-tiempo/2026-08-24/una-potente-borrasca-dejara-lluvias-y-tormentas-fuertes-en-el-oeste-noreste-y-area-mediterranea.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/URWVW7PCGBMGPBNREFUNQXLVZQ.jpg?auth=91d6522120d410efff9d91ae21e74b938c26011515f29e53c38c7ce17f3dc265",
+      "published_at": "2026-08-24T09:01:50+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Una borrasca dejará lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "lead_fa": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b6a02d906d41",
+      "source": "EL PAÍS",
+      "title": "Hallados dos cadáveres en la calle de un pueblo de León sin signos de violencia",
+      "summary": "Las primeras pesquisas apuntan a una sobredosis de droga en dos personas que eran amigas y frecuentes consumidoras",
+      "url": "https://elpais.com/espana/2026-08-24/hallados-dos-cadaveres-en-la-calle-de-un-pueblo-de-leon-sin-signos-de-violencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZK7QDH6MWFDTTFWQAHEATTT4M4.jpg?auth=564ce3d0c9ae4b573a76ed2de5a9b92e0b3047d96a8f8d00da58736f3db7d0ae",
+      "published_at": "2026-08-24T08:54:25+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Hallados dos cadáveres en la calle de un pueblo de León sin signos de violencia",
+      "lead_fa": "Las primeras pesquisas apuntan a una sobredosis de droga en dos personas que eran amigas y frecuentes consumidoras",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1225,28 +1320,6 @@
       "priority": 70,
       "title_fa": "La semana empieza con inestabilidad en buena parte de la Península y Baleares",
       "lead_fa": "En Catalunya, a partir de las 12.00 y hasta final del día, se activa el nivel naranja por lluvias, pues podrán acumularse en una hora cerca de 30 litros por metro cuadrado en algunas zonas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd8843c431d7",
-      "source": "La Vanguardia",
-      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
-      "published_at": "2026-08-24T07:52:02+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1291,28 +1364,6 @@
       "priority": 70,
       "title_fa": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
       "lead_fa": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://www.youtube.com/watch?v=y7Qowwvmqw8",
-      "published_at": "2026-08-24T05:27:05+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1493,17 +1544,17 @@
       "editorial_version": 2
     },
     {
-      "id": "d9cc98e92c58",
+      "id": "fd8843c431d7",
       "source": "La Vanguardia",
-      "title": "El verano que escribo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260824/11616965/verano-escribo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86b668e62a0.jpeg",
-      "published_at": "2026-08-24T06:24:42+02:00",
+      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
+      "published_at": "2026-08-24T07:52:02+02:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "El verano que escribo",
-      "lead_fa": "",
+      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1542,34 +1593,12 @@
       "title": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
       "summary": "Una investigación logra crear 16 patógenos capaces de atacar con éxito una bacteria",
       "url": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8adba6f2a9f.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8bfacc8f341.jpeg",
       "published_at": "2026-08-24T06:00:00+02:00",
       "category": "ciencia",
       "priority": 69,
       "title_fa": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
       "lead_fa": "Una investigación logra crear 16 patógenos capaces de atacar con éxito una bacteria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "292912e53f7d",
-      "source": "La Vanguardia",
-      "title": "¿Podría la IA llegar a tener conciencia?",
-      "summary": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
-      "url": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8824d600bdf.r_d.1777-684-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "¿Podría la IA llegar a tener conciencia?",
-      "lead_fa": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1757,17 +1786,17 @@
       "editorial_version": 2
     },
     {
-      "id": "465b5ea1722a",
+      "id": "292912e53f7d",
       "source": "La Vanguardia",
-      "title": "Sísifo y su piedra terca en la Amazonia",
-      "summary": "Werner Herzog se adentró en la selva peruana para el rodaje de 'Fitzcarraldo', el más delirante de la historia del cine",
-      "url": "https://www.lavanguardia.com/cultura/20260824/11618296/sisifo-piedra-terca-amazonia-werner-herzog-fitzcarraldo-selva-peruana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a8a0d10dec3b.r_d.748-549-0.jpeg",
+      "title": "¿Podría la IA llegar a tener conciencia?",
+      "summary": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
+      "url": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8824d600bdf.r_d.1777-684-0.jpeg",
       "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "cultura",
+      "category": "ciencia",
       "priority": 69,
-      "title_fa": "Sísifo y su piedra terca en la Amazonia",
-      "lead_fa": "Werner Herzog se adentró en la selva peruana para el rodaje de 'Fitzcarraldo', el más delirante de la historia del cine",
+      "title_fa": "¿Podría la IA llegar a tener conciencia?",
+      "lead_fa": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1790,6 +1819,50 @@
       "priority": 69,
       "title_fa": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
       "lead_fa": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5fa0d3833949",
+      "source": "La Vanguardia",
+      "title": "¿Ternera o vaca vieja? La edad también se nota en el plato",
+      "summary": "Una buena vaca adulta ofrece ese gusto profundo y persistente que buscan los aficionados a los chuletones",
+      "url": "https://www.lavanguardia.com/comer/materia-prima/20260824/11617546/ternera-vaca-vieja-edad-nota-plato.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a72303f12511.r_d.1034-1312-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "¿Ternera o vaca vieja? La edad también se nota en el plato",
+      "lead_fa": "Una buena vaca adulta ofrece ese gusto profundo y persistente que buscan los aficionados a los chuletones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://www.youtube.com/watch?v=y7Qowwvmqw8",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2043,72 +2116,6 @@
       "editorial_version": 2
     },
     {
-      "id": "587a73bb1be9",
-      "source": "EL PAÍS",
-      "title": "‘Tutto passa’",
-      "summary": "Nada duele más, nada puede tanto como aquello que dejó de ser hace apenas un instante",
-      "url": "https://elpais.com/opinion/2026-08-24/tutto-passa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QQA5NKPYFRHNDBDJJBU462P4EE.jpg?auth=9c874a9a138358339722952a93875a8873b4e8a246b133242962b16d1b10c9da",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "‘Tutto passa’",
-      "lead_fa": "Nada duele más, nada puede tanto como aquello que dejó de ser hace apenas un instante",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bb741ada3d1f",
-      "source": "EL PAÍS",
-      "title": "Peridis: desembarco",
-      "summary": "Viñeta del 24 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-24/peridis-desembarco.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ICESC3ZNZ5AERNJMVCGGCDUIDQ.jpg?auth=0405efba7da7ddcc34ce4514c5036ef5ca8e42829e339c1e516d953061abfc21",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Peridis: desembarco",
-      "lead_fa": "Viñeta del 24 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b5888480160a",
-      "source": "EL PAÍS",
-      "title": "El memorable ‘tour’ por la España del siglo XIX de un grupo de pintoras americanas",
-      "summary": "‘Viajeras bostonianas’ rescata el diario de las aventuras que Anna Parker Dixwell emprendió con un grupo de amigas en 1880",
-      "url": "https://elpais.com/cultura/2026-08-24/el-memorable-tour-por-la-espana-del-xix-de-un-grupo-de-pintoras-americanas.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/BRT76EGNSFCXRKSYFK5LWA2L4M.tif?auth=2ffbea0978269c36abde157a8c0ca0080726a46647d57da10c7f940f27aceb3f",
-      "published_at": "2026-08-24T03:30:01+00:00",
-      "category": "turismo",
-      "priority": 69,
-      "title_fa": "El memorable ‘tour’ por la España del siglo XIX de un grupo de pintoras americanas",
-      "lead_fa": "‘Viajeras bostonianas’ rescata el diario de las aventuras que Anna Parker Dixwell emprendió con un grupo de amigas en 1880",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "243aaba77fac",
       "source": "EL PAÍS",
       "title": "El fenómeno Inde Navarrette, la actriz que dando miedo ha conquistado a público, crítica y a los directivos de Marvel Studios",
@@ -2205,7 +2212,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/C7XJA2QMCWKX4ONXGGTHYMCVJE.jpg?auth=fd335a3a2cd8246c8293f73bfddd03e4309428e8c24dd0a9f17ba17f745a4d61",
       "published_at": "2026-08-24T03:25:00+00:00",
       "category": "ciencia",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "El Pesero: el primer chiringuito playero de la historia emergió de un naufragio en Cádiz en 1752",
       "lead_fa": "El Ayuntamiento de Chiclana y el Centro de Arqueología Subacuática señalizan la ubicación de ese primer establecimiento, descubierto en una investigación académica",
       "key_points_fa": [],
@@ -2227,7 +2234,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/BXT77BQHIZOQZLWG66FBTOBGXQ.jpg?auth=34f40267effb41804522d3c2c4a25d2ffa8094f15a7d200387791cfbdee95b7f",
       "published_at": "2026-08-24T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "La justicia de Nueva York tumba el recurso de Gotham que buscaba una protección legal como periodista en el caso Grifols",
       "lead_fa": "El fondo bajista quiso acogerse a una norma especial de protección para no entregar a la farmacéutica el material con el que la acusó en enero de 2024 de maquillar las cuentas",
       "key_points_fa": [],
@@ -2249,7 +2256,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NXKRHD3FRZHWTETLPV7U32N5NU.jpg?auth=10f741eaf50ff607b44e5b1ce4c7c171c992d58e9b314c24913b332e370440d5",
       "published_at": "2026-08-24T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "La italiana Coricelli toma ventaja para cerrar la compra de Deoleo en septiembre",
       "lead_fa": "Las ofertas de los grupos españoles Dcoop y Acesur podrían encontrar mayores escollos en los organismos de competencia de EE UU y España",
       "key_points_fa": [],
@@ -2271,7 +2278,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/X6WPAHXBDVDR5IB2WQ5QLRRDKA.png?auth=cae83913ef0846968ccb80b60ba655a2fd67ee95ba103d3f0ba2579877cd9371",
       "published_at": "2026-08-24T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "Telefónica Tech aflora unas pérdidas de 420 millones por el deterioro de sus filiales exteriores",
       "lead_fa": "Los ‘numeros rojos’ de 2025, pese a la fortaleza del negocio, responden al ajuste contable del valor de sus operaciones en el Reino Unido",
       "key_points_fa": [],
@@ -2293,7 +2300,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/3RKCP5EXK5HCFOWNT4TGI3SLCQ.jpg?auth=bded8ad267fe89340025acda83b84bd5f66fb9f2617bbfac0b4e593d1936b1cc",
       "published_at": "2026-08-24T03:15:00+00:00",
       "category": "cultura",
-      "priority": 69,
+      "priority": 68,
       "title_fa": "La familia Botín se reparte 40 millones en dividendos gracias a su capital en Bankinter y Línea Directa",
       "lead_fa": "La saga recibe 129 millones por sus participaciones financieras",
       "key_points_fa": [],
@@ -2351,28 +2358,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3811afcaf39b",
-      "source": "La Vanguardia",
-      "title": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
-      "summary": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5d538a9ed.r_d.1149-661-0.jpeg",
-      "published_at": "2026-08-23T22:54:56+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
-      "lead_fa": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b7caa185e2c3",
       "source": "EL PAÍS España",
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
@@ -2398,6 +2383,28 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "3811afcaf39b",
+      "source": "La Vanguardia",
+      "title": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
+      "summary": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b5d538a9ed.r_d.1149-661-0.jpeg",
+      "published_at": "2026-08-23T22:54:56+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
+      "lead_fa": "El delantero valenciano igualó en la segunda mitad el 2-0 con el que el Rennes ganaba en el descanso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2458,28 +2465,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ad1ae1b81545",
-      "source": "La Vanguardia",
-      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
-      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
-      "published_at": "2026-08-23T16:50:45+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
-      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "44af5ca3569f",
       "source": "EL PAÍS España",
       "title": "¿Qué Estado queremos cuando todo arde?",
@@ -2505,6 +2490,28 @@
         "#جامعه"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ad1ae1b81545",
+      "source": "La Vanguardia",
+      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
+      "published_at": "2026-08-23T16:50:45+02:00",
+      "category": "cultura",
+      "priority": 64,
+      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     }
   ],
@@ -2537,7 +2544,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 139
+      "count": 142
     },
     {
       "source": "EL PAÍS España",
@@ -2552,7 +2559,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 123
+      "count": 122
     }
   ]
 }
