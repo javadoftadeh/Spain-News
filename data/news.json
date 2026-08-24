@@ -1,39 +1,37 @@
 {
-  "generated_at": "2026-08-24T13:10:45.024599+00:00",
+  "generated_at": "2026-08-24T14:01:22.858125+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "1201a8fa4464",
+    "83c6d2128e60",
     "a0238eccdbec",
     "69944dcaf100",
-    "14f9a9eb8fc7",
-    "cec326e3b9c6"
+    "961058b41867",
+    "7cb2880501c9"
   ],
   "items": [
     {
-      "id": "1201a8fa4464",
-      "source": "EL PAÍS España",
-      "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP",
-      "summary": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición sin escuchar antes al Gobierno, que tendrá diez días para presentar alegaciones",
-      "url": "https://elpais.com/espana/2026-08-22/el-supremo-descarta-la-medida-urgente-del-pp-para-forzar-en-agosto-las-comparecencias-ministeriales-por-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FZ5RPB5XBROIBGESFL4ZKVTLZ4.jpg?auth=b7e8c33fe60bcd248d2d048db8c0236df11d2e7bb1a31003064686d6319c1fc0",
-      "published_at": "2026-08-22T12:40:24+00:00",
+      "id": "83c6d2128e60",
+      "source": "EL PAÍS",
+      "title": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
+      "summary": "La reunión, que se celebrará horas antes del Consejo de Ministros de este martes, contará con la presencia del presidente de la ciudad, Juan Jesús Vivas",
+      "url": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RRETXGAZAZCCNOJU3SI3RDJRN4.jpg?auth=90922dc4f491fef5ad9326f4ceddfbfb8d007a093bc980696908c7681bb44ede",
+      "published_at": "2026-08-24T13:30:08+00:00",
       "category": "politica",
-      "priority": 89,
-      "title_fa": "دیوان عالی اسپانیا درخواست حزب مردمی درباره بحران سئوتا را رد کرد",
-      "lead_fa": "دیوان عالی درخواست فوری حزب مردمی برای اجبار به حضور وزیران در ماه اوت را رد کرد. دادگاه اعلام کرد که فوریت ویژه قانونی برای این اقدام اثبات نشده است.",
+      "priority": 82,
+      "title_fa": "فراخوان شورای امنیت ملی اسپانیا توسط سانچز پس از بحران سبته",
+      "lead_fa": "نخست‌وزیر اسپانیا شورای امنیت ملی را تشکیل می‌دهد. این نشست پیش از جلسه هیئت دولت برگزار خواهد شد.",
       "key_points_fa": [
-        "حزب مردمی خواستار حضور فوری وزیران در ماه اوت به دلیل بحران سئوتا شده بود.",
-        "دیوان عالی پیش از شنیدن دفاعیه دولت، این درخواست فوری را رد کرد.",
-        "دادگاه بر عدم احراز شرایط قانونی لازم برای اقدام اضطراری تأکید کرد."
+        "نشست شورای امنیت ملی ۲۶ روز پس از آغاز بحران سبته برگزار می‌شود.",
+        "خوان خسوس ویواس، رئیس شهر سبته، در این جلسه حضور خواهد داشت."
       ],
-      "analysis_fa": "این تصمیم دیوان عالی نشان‌دهنده پایبندی نهادهای قضایی به رویه‌های قانونی و استماع نظرات دولت پیش از اتخاذ تصمیمات اضطراری است. رد این درخواست مانع از بررسی‌های آتی نمی‌شود، اما تلاش حزب مخالف برای سرعت‌بخشیدن به روند نظارت پارلمانی و دولتی را در ماه اوت متوقف کرد.",
+      "analysis_fa": "تشکیل شورای امنیت ملی نشان‌دهنده اهمیت و ابعاد سیاسی بحران اخیر در سبته است و دولت تلاش می‌کند با همگرایی نهادهای مختلف، مدیریت این چالش را تقویت کند.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
+      "urgency": "important",
       "hashtags_fa": [
         "#اسپانیا",
-        "#دیوان_عالی",
-        "#سئوتا",
-        "#سیاست_اسپانیا"
+        "#سبته",
+        "#امنیت_ملی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -91,64 +89,6 @@
         "#سیاست",
         "#سبتا",
         "#کنگره"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "14f9a9eb8fc7",
-      "source": "EL PAÍS España",
-      "title": "La crisis de Ceuta tensiona una ciudad ya castigada por la exclusión y la desigualdad",
-      "summary": "Con los datos de pobreza, empleo y educación mostrando graves déficits con respecto a la media española, la ciudad encara ahora un desafío a su cohesión social y a la resistencia de sus barrios más desfavorecidos",
-      "url": "https://elpais.com/espana/2026-08-22/la-crisis-de-ceuta-tensiona-una-ciudad-ya-castigada-por-la-exclusion-y-la-desigualdad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/2WD2XC2ZF5FPTEO7D2GQSVQW5Y.jpg?auth=3925a7512c6754e9b8f286a85ec488823e4b081f08ec180055e1cd0c4a2dece0",
-      "published_at": "2026-08-22T03:45:01+00:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "بحران سبته؛ چالش جدید برای همبستگی اجتماعی و محلات حاشیه‌ای",
-      "lead_fa": "شهر سبته با آمار نگران‌کننده فقر، بیکاری و مشکلات آموزشی مواجه است. این بحران جدید، انسجام اجتماعی و مقاومت محلات محروم این شهر را به شدت تحت فشار قرار داده است.",
-      "key_points_fa": [
-        "شاخص‌های فقر، اشتغال و آموزش در سبته پایین‌تر از میانگین کل اسپانیا است.",
-        "این بحران ساختاری، همبستگی اجتماعی در این منطقه را با چالش جدی مواجه کرده است.",
-        "محلات کم‌برخوردار سبته بیشترین آسیب را از وضعیت کنونی متحمل شده‌اند."
-      ],
-      "analysis_fa": "وضعیت کنونی سبته بازتاب‌دهنده شکاف‌های عمیق اقتصادی و اجتماعی انباشته‌شده در این منطقه است. تداوم این شرایط می‌تواند فشار مضاعفی بر زیرساخت‌های محلی و ثبات اجتماعی این شهر مرزی وارد کند، بدون اینکه در حال حاضر پیامد قطعی دیگری برای آن متصور باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سبته",
-        "#اقتصاد_اسپانیا",
-        "#فقر",
-        "#مهاجرت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "cec326e3b9c6",
-      "source": "EL PAÍS España",
-      "title": "El Gobierno prepara un plan económico para revitalizar Ceuta tras la crisis migratoria",
-      "summary": "Cuerpo viajará a reunirse con distintos sectores para ver sus necesidades. El Consejo de Ministros aprobará este martes 25 millones para atender a los menores, pero habrá goteo de más dinero en las próximas citas",
-      "url": "https://elpais.com/espana/2026-08-22/el-gobierno-prepara-un-plan-economico-para-revitalizar-ceuta-tras-la-crisis-migratoria.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JWEK3TMSNVFRVBO2RDXHHSRAL4.jpg?auth=90cc68b944969ece3557d6de22e4d8e0affdba684c31dd5cd768239952ea12f7",
-      "published_at": "2026-08-22T03:45:01+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "دولت اسپانیا طرح اقتصادی ویژه‌ای برای احیای سئوتا تدوین می‌کند",
-      "lead_fa": "دولت اسپانیا برنامه‌ای اقتصادی برای احیای سئوتا پس از بحران مهاجرتی آماده کرده است. وزیر مربوطه برای بررسی نیازهای بخش‌های مختلف به این منطقه سفر می‌کند.",
-      "key_points_fa": [
-        "تصویب بودجه ۲۵ میلیون یورویی در شورای وزیران برای رسیدگی به امور کودکان.",
-        "تزریق بودجه‌های بیشتر به صورت تدریجی در نشست‌های آینده هیئت دولت.",
-        "سفر مقامات دولتی به سئوتا جهت دیدار با بخش‌های مختلف و شناسایی نیازها."
-      ],
-      "analysis_fa": "این طرح نشان‌دهنده تلاش دولت برای مدیریت پیامدهای بلندمدت بحران‌های مهاجرتی و بازگرداندن ثبات اقتصادی و اجتماعی به شهرهای خودمختار سئوتا و ملیلیا است. تمرکز بر تأمین منابع مالی برای کودکان و زیرساخت‌ها، گامی در جهت کاهش فشارهای ساختاری بر این مناطق به شمار می‌رود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سئوتا",
-        "#اقتصاد",
-        "#مهاجرت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -238,34 +178,6 @@
       "editorial_version": 2
     },
     {
-      "id": "92f78c73bdba",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Seguridad Nacional 26 días después del inicio de la crisis migratoria de Ceuta",
-      "summary": "El PP pide que los funcionarios trabajen “mañana, tarde y noche” para expulsar a los migrantes que siguen en la ciudad autónoma | Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas",
-      "url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QIWFKAICFNHBLIMXLRDMQPH4UQ.jpg?auth=ff271c0687b924300e5d9327841491788e8493c6200e371d048a26a20cc21403",
-      "published_at": "2026-08-24T13:07:42+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "واکنش تند دولت اسپانیا به اظهارات فئیخو درباره سبته",
-      "lead_fa": "وزیر بهداشت اسپانیا نشست فوق‌العاده‌ای را با جوامع خودمختار برای اهدای واکسن به سبته برگزار می‌کند. دولت این کشور اظهارات رهبر حزب مردمی درباره قرنطینه سبته را بی‌مسئولیتی بزرگ خواند.",
-      "key_points_fa": [
-        "برگزاری نشست وزارت بهداشت اسپانیا برای بررسی وضعیت سبته و اهدای واکسن.",
-        "انتقاد شدید الما سایث از سخنان آلبرتو نونیس فئیخو درباره قرنطینه این شهر."
-      ],
-      "analysis_fa": "این تنش سیاسی نشان‌دهنده اختلاف نظر عمیق میان دولت مرکزی و حزب مخالف بر سر نحوه مدیریت بحران‌های مهاجرتی و بهداشتی در شهرهای خودمختار سبته و ملیلیه است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f08b4f416015",
       "source": "EL PAÍS",
       "title": "Un incendio provoca el confinamiento de la localidad zamorana de Ricobayo y el corte de dos carreteras",
@@ -296,7 +208,7 @@
     {
       "id": "fb57c68f7777",
       "source": "EL PAÍS",
-      "title": "Los océanos del planeta registran la temperatura más alta desde que hay datos",
+      "title": "Los océanos del planeta registran la temperatura diaria más alta desde que hay datos",
       "summary": "Copernicus advierte del aumento de riesgos por el calentamiento récord de la superficie marina, causado por la crisis climática y El Niño",
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-24/los-oceanos-del-planeta-registran-la-temperatura-mas-alta-desde-que-hay-datos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/35GVINCQWZCWTFVZC5NVYKLQXY.JPG?auth=42f72dc04c9bbdd45331e2359c911f7064e22d19640b0b7bdb5c18012ce3310a",
@@ -432,6 +344,63 @@
         "#سبتا",
         "#مهاجرت",
         "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "6e29f4532d06",
+      "source": "La Vanguardia",
+      "title": "Sánchez convoca un Consejo de Seguridad Nacional para analizar la situación de Ceuta",
+      "summary": "El presidente del Gobierno convoca este máximo órgano en materia de seguridad nacional 26 días después de la avalancha de migrantes que llegaron a la ciudad autónoma",
+      "url": "https://www.lavanguardia.com/politica/20260824/11619175/sanchez-convoca-manana-consejo-seguridad-nacional-analizar-situacion-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6db23d4a490.r_d.2044-1074-0.jpeg",
+      "published_at": "2026-08-24T14:43:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "فراخوان شورای امنیت ملی اسپانیا توسط سانچز برای بررسی وضعیت سبته",
+      "lead_fa": "نخست‌وزیر اسپانیا بالاترین نهاد امنیت ملی این کشور را تشکیل می‌دهد. این نشست ۲۶ روز پس از هجوم مهاجران به این شهر خودمختار برگزار می‌شود.",
+      "key_points_fa": [
+        "تشکیل شورای امنیت ملی به ریاست پدرو سانچز",
+        "بررسی وضعیت امنیتی سبته پس از موج اخیر ورود مهاجران",
+        "فاصه زمانی ۲۶ روزه میان بحران مهاجران و تشکیل این شورا"
+      ],
+      "analysis_fa": "برگزاری این نشست پس از گذشت نزدیک به یک ماه از ورود مهاجران نشان‌دهنده تلاش دولت برای ارزیابی دقیق‌تر و اتخاذ راهبردهای بلندمدت در مدیترانه و مرزهای جنوبی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سبته",
+        "#اسپانیا",
+        "#مهاجران",
+        "#امنیت_ملی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a968ddca2351",
+      "source": "EL PAÍS España",
+      "title": "El PP reclama turnos “mañana, tarde y noche” de los servicios de extranjería en Ceuta para acelerar los retornos de migrantes",
+      "summary": "Génova insiste en la propuesta de confinar a los extranjeros contagiados de enfermedades pese a que las sociedades científicas desaconsejan la medida",
+      "url": "https://elpais.com/espana/2026-08-24/el-pp-reclama-turnos-manana-tarde-y-noche-de-los-servicios-de-extranjeria-en-ceuta-para-acelerar-los-retornos-de-migrantes.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207259_135346_video_1800.mp4",
+      "published_at": "2026-08-24T13:30:28+00:00",
+      "category": "migracion",
+      "priority": 75,
+      "title_fa": "درخواست حزب مردمی اسپانیا برای تسریع در اخراج مهاجران سئوتا",
+      "lead_fa": "حزب مردمی اسپانیا خواستار فعالیت شبانه‌روزی خدمات مهاجرت در سئوتا شد. این حزب همچنین بر ایده قرنطینه مهاجران بیمار پافشاری می‌کند.",
+      "key_points_fa": [
+        "درخواست فعالیت در شیفت‌های صبح، عصر و شب برای تسریع بازگشت مهاجران",
+        "پافشاری بر قرنطینه مهاجران مبتلا به بیماری",
+        "مخالفت جوامع علمی با طرح قرنطینه مهاجران بیمار"
+      ],
+      "analysis_fa": "این طرح در چارچوب سیاست‌های سخت‌گیرانه حزب مردمی در قبال مهاجرت مطرح شده و با چالش‌های حقوقی و پزشکی مواجه است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#مهاجرت",
+        "#سئوتا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -594,35 +563,6 @@
         "#مسکن_اسپانیا",
         "#جزایر_بالئار",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "887441011607",
-      "source": "La Vanguardia",
-      "title": "Puigdemont cita a su círculo de confianza para preparar el curso de su retorno",
-      "summary": "El núcleo de Junts abordará la estrategia del partido en un contexto complejo",
-      "url": "https://www.lavanguardia.com/politica/20260824/11618622/puigdemont-cita-circulo-confianza-preparar-curso-retorno.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c14cb0863d.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "نشست محرمانه پوجدمون برای بررسی استراتژی بازگشت",
-      "lead_fa": "هسته مرکزی حزب ژونتس نشستی را برای تعیین راهبرد سیاسی خود برگزار می‌کند. این تصمیم در فضایی پیچیده و حساس اتخاذ شده است.",
-      "key_points_fa": [
-        "برگزاری جلسه مشورتی پوجدمون با حلقه نزدیکان",
-        "بررسی استراتژی حزب ژونتس در شرایط سیاسی پیچیده",
-        "تمرکز بر روند و چگونگی بازگشت رهبر کاتالان"
-      ],
-      "analysis_fa": "این نشست نشان‌دهنده تلاش رهبران کاتالان برای حفظ انسجام حزبی و مدیریت چالش‌های حقوقی و سیاسی پیش روست. تصمیمات اتخاذ شده در این جلسه می‌تواند بر معادلات سیاسی کاتالونیا و دولت مرکزی تاثیرگذار باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#پوجدمون",
-        "#کاتالونیا",
-        "#سیاست"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -986,34 +926,6 @@
       "editorial_version": 2
     },
     {
-      "id": "1b24d3c28270",
-      "source": "EL PAÍS España",
-      "title": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
-      "summary": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
-      "url": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FHEAO5V4MRE75EABCY46ZNRFDA.jpg?auth=0bf6f185e4bbb9cc3b5fb0ab08d7fce4aa63886f1ee6491a2ff9886c51ba84a2",
-      "published_at": "2026-08-23T03:30:01+00:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "انتقاد وزیر مهاجرت اسپانیا از نگاه ابزاری به مهاجران",
-      "lead_fa": "الما سایث، وزیر اینکلوژیون اسپانیا، برخی جریان‌ها را به تلاش برای پذیرش مهاجر بدون اعطای حقوق متهم کرد. وی تأکید کرد که جامعه سبتا نیازی به آشوبگران بیرونی ندارد.",
-      "key_points_fa": [
-        "انتقاد شدید وزیر از ایجاد شهروندان درجه یک و درجه دو",
-        "اشاره به نگاه ابزاری برخی گروه‌ها به مسئله مهاجرت",
-        "تمجید از پختگی و بلوغ اجتماعی شهر سبتا"
-      ],
-      "analysis_fa": "این اظهارات نشان‌دهنده چالش‌های عمیق سیاسی و اجتماعی در اسپانیا پیرامون حقوق مهاجران و مدیریت تنوع فرهنگی است. دولت تلاش می‌کند ضمن حفظ امنیت، رویکردی مبتنی بر حقوق انسانی را برجسته کند، در حالی که مخالفان دیدگاه‌های متفاوتی درباره کنترل مرزها دارند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجران",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "89b629f0b7b3",
       "source": "EL PAÍS Economía",
       "title": "Las sanciones por no pagar horas extra se triplican pero siguen sin frenar a las empresas incumplidoras",
@@ -1240,6 +1152,94 @@
       "editorial_version": 2
     },
     {
+      "id": "3ac1dcb41e6d",
+      "source": "La Vanguardia",
+      "title": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
+      "summary": "El mecanismo de solidaridad se activa para que la ciudad autónoma perciba 15.000 dosis de vacunas de triple vírica y otras 10.000 de difteria-tétanos, varicela y polio",
+      "url": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82ce50c2da4.jpeg",
+      "published_at": "2026-08-24T15:14:43+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
+      "lead_fa": "El mecanismo de solidaridad se activa para que la ciudad autónoma perciba 15.000 dosis de vacunas de triple vírica y otras 10.000 de difteria-tétanos, varicela y polio",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "519e687cf3ab",
+      "source": "La Vanguardia",
+      "title": "La Generalitat pide prudencia por lluvias que podrían dejar 40 litros en media hora esta tarde",
+      "summary": "El peligro será alto en las comarcas de Alt Urgell, Noguera, Pallars Jussà, Pla d'Urgell, Segarra, Segrià, Solsonès y Urgell, con chubascos acompañados de tormenta y fenómenos violentos",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260824/11619167/generalitat-pide-prudencia-lluvias-dejar-40-litros-media-hora-tarde.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a896da54b893.jpeg",
+      "published_at": "2026-08-24T14:46:58+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La Generalitat pide prudencia por lluvias que podrían dejar 40 litros en media hora esta tarde",
+      "lead_fa": "El peligro será alto en las comarcas de Alt Urgell, Noguera, Pallars Jussà, Pla d'Urgell, Segarra, Segrià, Solsonès y Urgell, con chubascos acompañados de tormenta y fenómenos violentos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1bd891c1510d",
+      "source": "La Vanguardia",
+      "title": "El PP exige el retorno de todos los migrantes en Ceuta: “Hablamos de devolución, no de reparto”",
+      "summary": "Los populares exigen movilizar al personal de extranjería “mañana, tarde y noche” ante la inacción de Moncloa: “¿Dónde está el Estado?”",
+      "url": "https://www.lavanguardia.com/politica/20260824/11619174/pp-exige-retorno-todos-migrantes-ceuta-hablamos-devolucion-reparto.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c37c087f36.r_d.801-476-0.jpeg",
+      "published_at": "2026-08-24T14:43:11+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El PP exige el retorno de todos los migrantes en Ceuta: “Hablamos de devolución, no de reparto”",
+      "lead_fa": "Los populares exigen movilizar al personal de extranjería “mañana, tarde y noche” ante la inacción de Moncloa: “¿Dónde está el Estado?”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "37f6cd6e2008",
+      "source": "EL PAÍS",
+      "title": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+      "summary": "Kiev ya había golpeado una docena de centros logísticos del grupo minorista Wildberries en las últimas semanas, provocando pérdidas de unos 10.000 millones",
+      "url": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
+      "published_at": "2026-08-24T13:44:10+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+      "lead_fa": "Kiev ya había golpeado una docena de centros logísticos del grupo minorista Wildberries en las últimas semanas, provocando pérdidas de unos 10.000 millones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "888b5ae62704",
       "source": "La Vanguardia",
       "title": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
@@ -1306,28 +1306,6 @@
       "editorial_version": 2
     },
     {
-      "id": "25c3f4c73caf",
-      "source": "La Vanguardia",
-      "title": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
-      "summary": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
-      "url": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c200fe6c02.jpeg",
-      "published_at": "2026-08-24T12:53:09+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
-      "lead_fa": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "202e3fc42394",
       "source": "EL PAÍS",
       "title": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
@@ -1339,160 +1317,6 @@
       "priority": 70,
       "title_fa": "Singapur ofrece a las familias más de 47.000 euros por hijo en su batalla por impulsar la natalidad",
       "lead_fa": "Pese a la generosidad de los incentivos, persisten las dudas sobre hasta qué punto cambiarán las decisiones de los jóvenes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fbeefc47db5b",
-      "source": "La Vanguardia",
-      "title": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
-      "summary": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
-      "url": "https://www.lavanguardia.com/deportes/20260824/11619007/barcelona-barca-sale-defensa-socio-aficionado-detenido-aporreado-golpeado-elche-requisada-bandera-independentista-estelada.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/12/13/5fa2d5d1d251c.jpeg",
-      "published_at": "2026-08-24T12:51:49+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
-      "lead_fa": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "eaffb5d9ae6d",
-      "source": "La Vanguardia",
-      "title": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
-      "summary": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
-      "url": "https://www.lavanguardia.com/vida/20260824/11619001/reto-viral-tiktok-conducir-direccion-contraria-muertos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c20052c966.r_d.3351-2649-0.jpeg",
-      "published_at": "2026-08-24T12:47:39+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
-      "lead_fa": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "90a8726e1001",
-      "source": "La Vanguardia",
-      "title": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
-      "summary": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
-      "url": "https://www.lavanguardia.com/local/baleares/20260824/11618932/residente-mallorca-reclama-fabulosa-herencia-incluye-castillo-monaco.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/18/6762c1f027987.r_d.1920-1280-0.jpeg",
-      "published_at": "2026-08-24T12:35:34+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
-      "lead_fa": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "d6410f16409c",
-      "source": "La Vanguardia",
-      "title": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues 'chao pescao'”",
-      "summary": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
-      "url": "https://www.lavanguardia.com/politica/20260824/11618971/ayuso-justifica-operacion-chamberi-apartamento-esta-venta-pues-chao-pescao.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c2d333739a.jpeg",
-      "published_at": "2026-08-24T12:16:41+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues 'chao pescao'”",
-      "lead_fa": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4f3d889a5428",
-      "source": "EL PAÍS",
-      "title": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
-      "summary": "El exlíder de Los Ronaldos ha revelado en su Instagram haber pasado 15 días “muy complicados y angustiosos” y ha agradecido al equipo que los ha “atendido y mimado”",
-      "url": "https://elpais.com/gente/2026-08-24/coque-malla-defiende-a-los-sanitarios-tras-la-hospitalizacion-de-su-hijo-a-partir-de-ahora-quiero-sobre-todo-una-sanidad-publica-sana-fuerte-y-justa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RIMQRJPXPBC73GN76TCAPMA6JA.jpg?auth=957fe09a1e399082c3cf9d89a16fbe52c3c8d2b55a2381862ef630ce9e4d2679",
-      "published_at": "2026-08-24T10:26:33+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
-      "lead_fa": "El exlíder de Los Ronaldos ha revelado en su Instagram haber pasado 15 días “muy complicados y angustiosos” y ha agradecido al equipo que los ha “atendido y mimado”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "37f6cd6e2008",
-      "source": "EL PAÍS",
-      "title": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
-      "summary": "Kiev ya había golpeado una docena de centros logísticos del grupo minorista Wildberries en las últimas semanas, provocando pérdidas de unos 10.000 millones",
-      "url": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
-      "published_at": "2026-08-24T10:23:21+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
-      "lead_fa": "Kiev ya había golpeado una docena de centros logísticos del grupo minorista Wildberries en las últimas semanas, provocando pérdidas de unos 10.000 millones",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b6ae89e2bac5",
-      "source": "EL PAÍS",
-      "title": "La Vuelta limita a Erola Jons y reacciona a la polémica: “Son bromas y entretenimiento, hay que entender el contexto”",
-      "summary": "La ‘influencer’ contratada por la organización no podrá hablar con los corredores sin permiso de los equipos tras dos interacciones desafortunadas con ciclistas",
-      "url": "https://elpais.com/deportes/ciclismo/2026-08-24/la-vuelta-limita-a-erola-jons-y-reacciona-a-la-polemica-son-bromas-y-entretenimiento-hay-que-entender-el-contexto.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207186_094414_video_1800.mp4",
-      "published_at": "2026-08-24T10:12:27+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "La Vuelta limita a Erola Jons y reacciona a la polémica: “Son bromas y entretenimiento, hay que entender el contexto”",
-      "lead_fa": "La ‘influencer’ contratada por la organización no podrá hablar con los corredores sin permiso de los equipos tras dos interacciones desafortunadas con ciclistas",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1557,6 +1381,116 @@
         "#برابری_جنسیتی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "25c3f4c73caf",
+      "source": "La Vanguardia",
+      "title": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
+      "summary": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
+      "url": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c200fe6c02.jpeg",
+      "published_at": "2026-08-24T12:53:09+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
+      "lead_fa": "La icónica pieza de coleccionista, utilizada en los cuartos de final del Mundial de 1986 entre Argentina e Inglaterra, se ha quedado lejos de la previsión inicial de 8,5 millones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fbeefc47db5b",
+      "source": "La Vanguardia",
+      "title": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
+      "summary": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
+      "url": "https://www.lavanguardia.com/deportes/20260824/11619007/barcelona-barca-sale-defensa-socio-aficionado-detenido-aporreado-golpeado-elche-requisada-bandera-independentista-estelada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/12/13/5fa2d5d1d251c.jpeg",
+      "published_at": "2026-08-24T12:51:49+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
+      "lead_fa": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "eaffb5d9ae6d",
+      "source": "La Vanguardia",
+      "title": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
+      "summary": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
+      "url": "https://www.lavanguardia.com/vida/20260824/11619001/reto-viral-tiktok-conducir-direccion-contraria-muertos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c20052c966.r_d.3351-2649-0.jpeg",
+      "published_at": "2026-08-24T12:47:39+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
+      "lead_fa": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "90a8726e1001",
+      "source": "La Vanguardia",
+      "title": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
+      "summary": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
+      "url": "https://www.lavanguardia.com/local/baleares/20260824/11618932/residente-mallorca-reclama-fabulosa-herencia-incluye-castillo-monaco.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/18/6762c1f027987.r_d.1920-1280-0.jpeg",
+      "published_at": "2026-08-24T12:35:34+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Una residente en Mallorca reclama una fabulosa herencia que incluye un castillo en Mónaco",
+      "lead_fa": "Dos hermanas suizas llevan años tratando de demostrar que son las herederas de un legado millonario",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6410f16409c",
+      "source": "La Vanguardia",
+      "title": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues 'chao pescao'”",
+      "summary": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
+      "url": "https://www.lavanguardia.com/politica/20260824/11618971/ayuso-justifica-operacion-chamberi-apartamento-esta-venta-pues-chao-pescao.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c2d333739a.jpeg",
+      "published_at": "2026-08-24T12:16:41+02:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Ayuso justifica la operación Chamberí: “El apartamento está en venta, pues 'chao pescao'”",
+      "lead_fa": "La presidenta de la Comunidad considera irrelevante la opinión de su jefe de filas y lamenta que la prensa vaya preguntando sobre el caso a “todos los políticos que vuelven de vacaciones”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1648,6 +1582,50 @@
       "editorial_version": 2
     },
     {
+      "id": "4f3d889a5428",
+      "source": "EL PAÍS",
+      "title": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
+      "summary": "El exlíder de Los Ronaldos ha revelado en su Instagram haber pasado 15 días “muy complicados y angustiosos” y ha agradecido al equipo que los ha “atendido y mimado”",
+      "url": "https://elpais.com/gente/2026-08-24/coque-malla-defiende-a-los-sanitarios-tras-la-hospitalizacion-de-su-hijo-a-partir-de-ahora-quiero-sobre-todo-una-sanidad-publica-sana-fuerte-y-justa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RIMQRJPXPBC73GN76TCAPMA6JA.jpg?auth=957fe09a1e399082c3cf9d89a16fbe52c3c8d2b55a2381862ef630ce9e4d2679",
+      "published_at": "2026-08-24T10:26:33+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
+      "lead_fa": "El exlíder de Los Ronaldos ha revelado en su Instagram haber pasado 15 días “muy complicados y angustiosos” y ha agradecido al equipo que los ha “atendido y mimado”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b6ae89e2bac5",
+      "source": "EL PAÍS",
+      "title": "La Vuelta limita a Erola Jons y reacciona a la polémica: “Son bromas y entretenimiento, hay que entender el contexto”",
+      "summary": "La ‘influencer’ contratada por la organización no podrá hablar con los corredores sin permiso de los equipos tras dos interacciones desafortunadas con ciclistas",
+      "url": "https://elpais.com/deportes/ciclismo/2026-08-24/la-vuelta-limita-a-erola-jons-y-reacciona-a-la-polemica-son-bromas-y-entretenimiento-hay-que-entender-el-contexto.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207186_094414_video_1800.mp4",
+      "published_at": "2026-08-24T10:12:27+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "La Vuelta limita a Erola Jons y reacciona a la polémica: “Son bromas y entretenimiento, hay que entender el contexto”",
+      "lead_fa": "La ‘influencer’ contratada por la organización no podrá hablar con los corredores sin permiso de los equipos tras dos interacciones desafortunadas con ciclistas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "85a8b7f3bab0",
       "source": "La Vanguardia",
       "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
@@ -1692,50 +1670,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d8962fb5238f",
-      "source": "EL PAÍS",
-      "title": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
-      "summary": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
-      "url": "https://elpais.com/espana/2026-08-24/la-presencia-de-un-dron-cerca-del-aeropuerto-de-malaga-obliga-a-su-cierre-durante-30-minutos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HTQFRFFKJZFXFIPAJ4PSMI5FSA.jpg?auth=8906fd6ec8d73f9f4603ef8b5fba449ca8e2dc1fae414e8f35c58d1a59b7fa7d",
-      "published_at": "2026-08-24T07:44:23+00:00",
-      "category": "deportes",
-      "priority": 69,
-      "title_fa": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
-      "lead_fa": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "975696fe4be1",
-      "source": "EL PAÍS",
-      "title": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
-      "summary": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
-      "url": "https://elpais.com/gente/2026-08-24/empeora-el-estado-de-salud-del-rey-harald-de-noruega-que-esta-siendo-tratado-por-una-infeccion-bacteriana.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207222_105708_video_1800.mp4",
-      "published_at": "2026-08-24T07:10:46+00:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
-      "lead_fa": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "fd8843c431d7",
       "source": "La Vanguardia",
       "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
@@ -1758,17 +1692,39 @@
       "editorial_version": 2
     },
     {
-      "id": "fea4148f9675",
-      "source": "La Vanguardia",
-      "title": "Harry Potter, bajo sospecha",
-      "summary": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
-      "url": "https://www.lavanguardia.com/series/20260824/11617049/harry-potter-sospecha.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/26/69c56acd88e89.jpeg",
-      "published_at": "2026-08-24T06:22:44+02:00",
-      "category": "cultura",
+      "id": "d8962fb5238f",
+      "source": "EL PAÍS",
+      "title": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
+      "summary": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
+      "url": "https://elpais.com/espana/2026-08-24/la-presencia-de-un-dron-cerca-del-aeropuerto-de-malaga-obliga-a-su-cierre-durante-30-minutos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HTQFRFFKJZFXFIPAJ4PSMI5FSA.jpg?auth=8906fd6ec8d73f9f4603ef8b5fba449ca8e2dc1fae414e8f35c58d1a59b7fa7d",
+      "published_at": "2026-08-24T07:44:23+00:00",
+      "category": "deportes",
       "priority": 68,
-      "title_fa": "Harry Potter, bajo sospecha",
-      "lead_fa": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
+      "title_fa": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
+      "lead_fa": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "975696fe4be1",
+      "source": "EL PAÍS",
+      "title": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
+      "summary": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
+      "url": "https://elpais.com/gente/2026-08-24/empeora-el-estado-de-salud-del-rey-harald-de-noruega-que-esta-siendo-tratado-por-una-infeccion-bacteriana.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207222_105708_video_1800.mp4",
+      "published_at": "2026-08-24T07:10:46+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Empeora el estado de salud del rey Harald de Noruega, que está siendo tratado por una infección bacteriana",
+      "lead_fa": "Según el comunicado de la casa real, el monarca, que fue ingresado la semana pasada, responde al tratamiento y su situación es estable",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1791,6 +1747,28 @@
       "priority": 68,
       "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
       "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fea4148f9675",
+      "source": "La Vanguardia",
+      "title": "Harry Potter, bajo sospecha",
+      "summary": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
+      "url": "https://www.lavanguardia.com/series/20260824/11617049/harry-potter-sospecha.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/26/69c56acd88e89.jpeg",
+      "published_at": "2026-08-24T06:22:44+02:00",
+      "category": "cultura",
+      "priority": 67,
+      "title_fa": "Harry Potter, bajo sospecha",
+      "lead_fa": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1923,50 +1901,6 @@
       "priority": 67,
       "title_fa": "¿Podría la IA llegar a tener conciencia?",
       "lead_fa": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4504cccf9c90",
-      "source": "La Vanguardia",
-      "title": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
-      "summary": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260824/11598704/francisco-jose-tarazona-geriatra-miedo-excesivo-caerse-lleva-caminar-forma-mas-rigida-reducir-actividad-fisica-perder-fuerza-muscular.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/22/6a60d4d3ea6a2.r_d.360-256-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
-      "lead_fa": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5fa0d3833949",
-      "source": "La Vanguardia",
-      "title": "¿Ternera o vaca vieja? La edad también se nota en el plato",
-      "summary": "Una buena vaca adulta ofrece ese gusto profundo y persistente que buscan los aficionados a los chuletones",
-      "url": "https://www.lavanguardia.com/comer/materia-prima/20260824/11617546/ternera-vaca-vieja-edad-nota-plato.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a72303f12511.r_d.1034-1312-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "¿Ternera o vaca vieja? La edad también se nota en el plato",
-      "lead_fa": "Una buena vaca adulta ofrece ese gusto profundo y persistente que buscan los aficionados a los chuletones",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2431,6 +2365,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c7091e0b59fb",
+      "source": "EL PAÍS España",
+      "title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
+      "summary": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven con sus objetivos y afrontan constantes tiroteos con armas largas",
+      "url": "https://elpais.com/espana/2026-08-23/vivir-y-luchar-con-el-narco-la-guerra-invisible-de-los-policias-del-sur-es-cuestion-de-tiempo-que-nos-maten.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GF4D3F7NCJG3ZE4RZTO3SOCXMQ.jpg?auth=8f47ae31fb286c3decc15808b2099757702415fa81fbf6b631510cfc684a9366",
+      "published_at": "2026-08-23T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
+      "lead_fa": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven con sus objetivos y afrontan constantes tiroteos con armas largas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "b7a6a4f47b1a",
       "source": "La Vanguardia",
       "title": "“El caminante elige fijarse en los pájaros o en las cacas del camino”",
@@ -2453,28 +2409,6 @@
       "editorial_version": 2
     },
     {
-      "id": "cd7a88f6c78d",
-      "source": "La Vanguardia",
-      "title": "Cursar bioterrorismo online",
-      "summary": "Supervisar la IA para contener su potencial apocalíptico debería ser la prioridad",
-      "url": "https://www.lavanguardia.com/opinion/20260824/11618546/cursar-bioterrorismo-online.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8adba6f2a9f.jpeg",
-      "published_at": "2026-08-24T00:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Cursar bioterrorismo online",
-      "lead_fa": "Supervisar la IA para contener su potencial apocalíptico debería ser la prioridad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "ad1ae1b81545",
       "source": "La Vanguardia",
       "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
@@ -2486,6 +2420,50 @@
       "priority": 63,
       "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
       "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a3ca2252add",
+      "source": "EL PAÍS Economía",
+      "title": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
+      "summary": "Entre el 33% y el 42% de los arenales del país son de pago. El Gobierno de Meloni, presionado por Bruselas, abrirá a concurso su gestión",
+      "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-08-22/italia-quiere-poner-orden-en-el-caos-de-sus-12000-playas-privadas-mas-transparencia-y-nuevas-tasas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6EJRBZND75CORMF62M2NRIH3QI.jpg?auth=ff9bc3f4a0f010577e0200b181d94dd9334428cd06577bc9f2589c3eeeb8d6f9",
+      "published_at": "2026-08-22T03:30:00+00:00",
+      "category": "politica",
+      "priority": 56,
+      "title_fa": "Italia quiere poner orden en el caos de sus 12.000 playas privadas: más transparencia y nuevas tasas",
+      "lead_fa": "Entre el 33% y el 42% de los arenales del país son de pago. El Gobierno de Meloni, presionado por Bruselas, abrirá a concurso su gestión",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2dfcea13d20a",
+      "source": "EL PAÍS Economía",
+      "title": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
+      "summary": "El camino hacia el éxito está cimentado en fallos (a veces estrepitosos). La IA promete agilizar y abaratar la forma en que se testan miles de productos cada año",
+      "url": "https://elpais.com/economia/negocios/2026-08-22/errores-empresariales-de-los-que-aprender-del-ketchup-morado-al-refresco-de-cola-que-nadie-compro.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QRWXLCC3ZREIHHOW3U7EW7CU7I.jpg?auth=928e5125d9fdfedcf533544bb5d65f0a8f7162f4e5c021866fe5b28bff9d4cfa",
+      "published_at": "2026-08-22T15:30:00+00:00",
+      "category": "sociedad",
+      "priority": 55,
+      "title_fa": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
+      "lead_fa": "El camino hacia el éxito está cimentado en fallos (a veces estrepitosos). La IA promete agilizar y abaratar la forma en que se testan miles de productos cada año",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2526,7 +2504,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 144
+      "count": 145
     },
     {
       "source": "EL PAÍS España",
@@ -2541,7 +2519,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 124
+      "count": 127
     }
   ]
 }
