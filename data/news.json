@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T04:26:27.791534+00:00",
+  "generated_at": "2026-08-24T05:23:19.422139+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "1201a8fa4464",
     "69944dcaf100",
     "a0238eccdbec",
     "7a4cae79a2cf",
-    "d77b80900aa6"
+    "14f9a9eb8fc7"
   ],
   "items": [
     {
@@ -119,35 +119,6 @@
         "#اتحادیه_اروپا",
         "#مهاجرت",
         "#بحران_اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d77b80900aa6",
-      "source": "La Vanguardia",
-      "title": "La crisis de Ceuta abre otra brecha: la política migratoria y de vecindad",
-      "summary": "El Gobierno asume que la respuesta de acogida, que vigila Bruselas, llevará meses",
-      "url": "https://www.lavanguardia.com/politica/20260823/11618238/crisis-ceuta-abre-brecha-politica-migratoria-vecindad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d0c1043ca.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "migracion",
-      "priority": 82,
-      "title_fa": "بحران سبته و چالش‌های سیاست مهاجرتی دولت اسپانیا",
-      "lead_fa": "دولت اسپانیا اعتراف کرد که روند رسیدگی به وضعیت مهاجران در سبته ماه‌ها طول خواهد کشید. بروکسل به‌دقت نحوه پاسخگویی و پذیرش مهاجران را زیر نظر دارد.",
-      "key_points_fa": [
-        "اذعان دولت به طولانی شدن روند پذیرش مهاجران در سبته",
-        "نظارت مستقیم بروکسل بر نحوه مدیریت بحران مهاجرت",
-        "ایجاد شکاف در سیاست‌های مهاجرتی و حسن همجواری"
-      ],
-      "analysis_fa": "این بحران بار دیگر فشارها بر دولت اسپانیا را برای مدیریت مرزهای جنوبی و تعامل با نهادهای اتحادیه اروپا افزایش داده است. روند کند پذیرش مهاجران نشان‌دهنده چالش‌های ساختاری در سیاست‌های مهاجرتی و دیپلماتیک این کشور است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#اسپانیا",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -275,18 +246,25 @@
       "url": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
       "image": "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73",
       "published_at": "2026-08-24T03:45:01+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 77,
-      "title_fa": "El ‘lobby’ petrolero proTrump se hace de oro con la guerra contra Irán",
-      "lead_fa": "El sector fósil estadounidense, gran donante del republicano, multiplica sus beneficios con el cierre de Ormuz y la crisis global de refino",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "سود سرشار لابی نفتی حامی ترامپ از تنش‌ها با ایران",
+      "lead_fa": "بخش سوخت‌های فسیلی ایالات متحده سودهای کلانی به دست آورده است. این رشد مالی همزمان با بحران جهانی پالایش و بسته‌شدن تنگه هرمز رخ داده است.",
+      "key_points_fa": [
+        "افزایش چشمگیر سود بخش سوخت‌های فسیلی آمریکا",
+        "ارتباط نزدیک این بخش با تامین مالی حزب جمهوری‌خواه",
+        "تاثیرپذیری بازار از بحران پالایش و تحولات تنگه هرمز"
       ],
-      "ai_translated": false,
+      "analysis_fa": "تنش‌های ژئوپلیتیک و بحران‌های منطقه‌ای اغلب اثرات فوری بر بازارهای جهانی انرژی می‌گذارند و به سود شرکت‌های بزرگ نفتی تمام می‌شوند. این پدیده نشان‌دهنده هم‌پوشانی منافع اقتصادی بخش انرژی با تحولات سیاست خارجی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#نفت",
+        "#آمریکا",
+        "#اقتصاد",
+        "#ترامپ"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -299,16 +277,22 @@
       "published_at": "2026-08-24T03:30:01+00:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "Los dos mayores incendios de Andalucía se cebaron con el mismo territorio de Huelva en solo dos décadas",
-      "lead_fa": "El devastador fuego recién controlado en Niebla ha calcinado gran parte de los montes que ya sufrieron en 2004 las llamas de Riotinto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دو آتش‌سوزی بزرگ در اندلس؛ خاکستر شدن دوباره یک منطقه پس از دو دهه",
+      "lead_fa": "آتش‌سوزی اخیر و ویرانگر در شهر نیبلبا در جنوب اسپانیا مهار شد. این حادثه بخش بزرگی از جنگل‌هایی را خاکستر کرد که در سال ۲۰۰۴ نیز طعمه حریق شده بودند.",
+      "key_points_fa": [
+        "آتش‌سوزی اخیر در منطقه نیبلبا در استان اوئلوا رخ داد.",
+        "بخش عمده‌ای از جنگل‌های این منطقه پیش‌تر در سال ۲۰۰۴ نیز در آتش‌سوزی ریو تینتو سوخته بودند.",
+        "این دومین حادثه بزرگ آتش‌سوزی در این محدوده طی دو دهه گذشته است."
+      ],
+      "analysis_fa": "تکرار آتش‌سوزی‌های گسترده در یک منطقه جغرافیایی مشخص طی بازه زمانی کوتاه، چالش‌های مربوط به اثربخشی برنامه‌های احیای جنگل و مدیریت بحران را در مناطق مستعد حریق برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#آتش_سوزی_جنگل",
+        "#اندلس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -341,30 +325,29 @@
       "editorial_version": 2
     },
     {
-      "id": "bf035d1ef257",
+      "id": "eb9bbd60e316",
       "source": "La Vanguardia",
-      "title": "Duelo de humanidad en la valla ceutí y combate robótico en Pekín, entre las imágenes del día.",
-      "summary": "Ceuta despide a un migrante fallecido en la frontera, los robots humanoides compiten con fuerza en China, Kiev limpia los daños provocados por ataques rusos y el festival Otamatsuri celebra la cultura anime en Nairobi durante una jornada global de intensos contrastes.",
-      "url": "https://www.lavanguardia.com/fotos/20260823/11618539/duelo-humanidad-valla-ceuti-combate-robotico-pekin-imagenes-dia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8ad2214fb45.jpeg",
-      "published_at": "2026-08-23T16:50:52+02:00",
+      "title": "Estabilizado el incendio de Segorbe tras calcinar 630 hectáreas y obligar a desalojar Gátova",
+      "summary": "Los bomberos dan por estabilizado a las 7.30 horas el fuego originado por un rayo en la Sierra Calderona, desmovilizan a la UME y rebajan la alerta del plan de incendios de nivel 2 a 1.",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618492/estabilizado-incendio-segorbe-calcinar-630-hectareas-obligar-desalojar-gatova.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8a9ea01634b.r_d.2858-1905-0.jpeg",
+      "published_at": "2026-08-23T09:18:43+02:00",
       "category": "sociedad",
       "priority": 77,
-      "title_fa": "تصاویر منتخب روز: از وداع با یک مهاجر در سبته تا رقابت ربات‌ها در پکن",
-      "lead_fa": "مراسم وداع با یک مهاجر جان‌باخته در مرز سبته و مسابقه ربات‌های انسان‌نما در چین از تصاویر شاخص خبری امروز بود. این رویدادها در کنار تحولات اوکراین و جشنواره‌های فرهنگی، روزی پر از تضاد را در جهان رقم زدند.",
+      "title_fa": "مهار آتش‌سوزی در سگوربه پس از سوختن ۶۳۰ هکتار",
+      "lead_fa": "آتش‌سوزی جنگلی در منطقه سیرا کالدرونا که ناشی از برخورد صاعقه بود، پس از سوزاندن ۶۳۰ هکتار زمین تثبیت شد. واحدهای امدادی نظامی از منطقه خارج شدند و سطح هشدار کاهش یافت.",
       "key_points_fa": [
-        "مراسم بدرقه و وداع با یک مهاجر در منطقه مرزی سبته برگزار شد.",
-        "ربات‌های انسان‌نما در چین رقابت فشرده‌ای را به نمایش گذاشتند.",
-        "شهر کی‌یف پس از حملات اخیر شاهد عملیات پاکسازی و بازسازی بود."
+        "آتش‌سوزی در ساعت ۷:۳۰ صبح تثبیت شد.",
+        "منشا آتش برخورد صاعقه در سیرا کالدرونا اعلام شد.",
+        "سطح هشدار طرح آتش‌سوزی از ۲ به ۱ کاهش یافت."
       ],
-      "analysis_fa": "این تصاویر بازتاب‌دهنده تضادهای همزمان جهانی از جمله بحران‌های انسانی مهاجرت، پیشرفت‌های فناوری و اثرات درگیری‌های ژئوپلیتیک است که توجه رسانه‌ها را به خود جلب کرده است.",
+      "analysis_fa": "این حادثه بار دیگر آسیب‌پذیری مناطق جنگلی اسپانیا در برابر حوادث طبیعی مانند صاعقه در فصل خشک را نشان می‌دهد. اقدام سریع آتش‌نشانان مانع از گسترش بیشتر آتش شد.",
       "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#سبته",
-        "#مهاجرت",
-        "#فناوری",
-        "#جهان"
+        "#اسپانیا",
+        "#آتش‌سوزی",
+        "#اخبار_اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -452,6 +435,50 @@
         "#بازار"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4a7e6c1fe248",
+      "source": "La Vanguardia",
+      "title": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
+      "summary": "El precio de la vivienda expulsa a los ciudadanos de las Baleares: uno de cada cuatro compradores busca casa fuera de las islas, con el Principado como lugar preferido",
+      "url": "https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b26dbea87b.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
+      "lead_fa": "El precio de la vivienda expulsa a los ciudadanos de las Baleares: uno de cada cuatro compradores busca casa fuera de las islas, con el Principado como lugar preferido",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "887441011607",
+      "source": "La Vanguardia",
+      "title": "Puigdemont cita a su círculo de confianza para preparar el curso de su retorno",
+      "summary": "El núcleo de Junts abordará la estrategia del partido en un contexto complejo",
+      "url": "https://www.lavanguardia.com/politica/20260824/11618622/puigdemont-cita-circulo-confianza-preparar-curso-retorno.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b1b58014d4.r_d.1658-1066-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Puigdemont cita a su círculo de confianza para preparar el curso de su retorno",
+      "lead_fa": "El núcleo de Junts abordará la estrategia del partido en un contexto complejo",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -840,35 +867,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ad9e8db2b06f",
-      "source": "La Vanguardia",
-      "title": "Trump sigue invirtiendo en bolsa: más de 1.000 operaciones solo en el mes de junio",
-      "summary": "El magnate ha tomado participaciones en Visa, Mastercard, Palantir o la financiera de Warren Buffett, entre otras firmas",
-      "url": "https://www.lavanguardia.com/economia/20260823/11618581/trump-sigue-invirtiendo-bolsa-mas-1-000-operaciones-mes-junio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a899bb1722a6.jpeg",
-      "published_at": "2026-08-23T17:14:55+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "سرمایه‌گذاری‌های بورسی دونالد ترامپ در ماه ژوئن",
-      "lead_fa": "دونالد ترامپ در ماه ژوئن بیش از هزار معامله بورسی انجام داده است. سهام شرکت‌های بزرگی مانند ویزا، مسترکارت و پالانتیر در میان خریدهای او دیده می‌شوند.",
-      "key_points_fa": [
-        "انجام بیش از ۱۰۰۰ معامله بورسی در ماه ژوئن",
-        "خرید سهام شرکت‌های واسطه‌گری مالی و فناوری",
-        "سرمایه‌گذاری در شرکت‌های معتبری مانند ویزا، مسترکارت و پالانتیر"
-      ],
-      "analysis_fa": "این حجم از فعالیت‌های بورسی نشان‌دهنده تداوم مدیریت دارایی‌های مالی توسط ترامپ در حوزه‌های فناوری و مالی است. رصد این معاملات معمولاً رویکرد سرمایه‌گذاران کلان را در بازار آمریکا بازتاب می‌دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#بورس_آمریکا",
-        "#اقتصاد",
-        "#سرمایه_گذاری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "89132334220f",
       "source": "EL PAÍS Economía",
       "title": "España y otros cinco países europeos insisten en fijar un impuesto extraordinario a los beneficios de las petroleras",
@@ -892,91 +890,6 @@
         "#اسپانیا",
         "#اتحادیه_اروپا",
         "#مالیات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "91d7f32a86ae",
-      "source": "La Vanguardia",
-      "title": "La pugna PSOE-PP en el Congreso y el Senado: dos cámaras, dos mayorías, una batalla",
-      "summary": "El reparto desigual de mayorías convierte el bicameralismo en un pulso institucional",
-      "url": "https://www.lavanguardia.com/politica/20260823/11618227/pugna-psoe-pp-congreso-senado-dos-camaras-dos-mayorias-batalla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89c0f0873e1.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "نبرد نهادی میان حزب کارگر و حزب مردمی در کنگره و سنا",
-      "lead_fa": "تفاوت ترکیب اکثریت‌ها در کنگره و سنای اسپانیا به تنش‌های نهادی میان دو مجلس دامن زده است. این وضعیت ساختار دو مجلسی کشور را به میدان رقابت سیاسی تبدیل کرده است.",
-      "key_points_fa": [
-        "توزیع نابرابر کرسی‌ها و اکثریت‌ها در دو مجلس کنگره و سنا",
-        "تبدیل شدن ساختار دو مجلسی به ابزاری برای کشمکش‌های سیاسی",
-        "افزایش چالش‌های قانون‌گذاری به دلیل اختلاف دیدگاه‌ها در دو نهاد"
-      ],
-      "analysis_fa": "اختلاف اکثریت‌ها در دو مجلس اسپانیا ابزاری است که حزب PSOE و PP از آن برای پیشبرد اهداف سیاسی و به چالش کشیدن مصوبات یکدیگر استفاده می‌کنند. این پویایی روند تصویب قوانین و توافق‌های سیاسی را پیچیده‌تر می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#کنگره",
-        "#سنا",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d3205b75a80c",
-      "source": "La Vanguardia",
-      "title": "El eclipse solar de 2027 dispara los precios: hasta 12.500 euros por una noche en Tarifa",
-      "summary": "Apenas unos días después del último eclipse, las reservas de casas, apartamentos y habitaciones ya se disparan en Cádiz, Málaga, Granada y Almería para no perderse el del año que viene",
-      "url": "https://www.lavanguardia.com/vida/20260823/11617001/eclipse-solar-2027-dispara-precios-12-500-euros-noche-tarifa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a871a0d80927.r_d.1992-1190-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "جهش قیمت هتل‌های اسپانیا برای خورشیدگرفتگی ۲۰۲۷",
-      "lead_fa": "رزرو اقامتگاه‌ها در مناطق جنوبی اسپانیا برای خورشیدگرفتگی سال آینده به شدت افزایش یافته است. قیمت‌ها در برخی نقاط برای یک شب به ۱۲۵۰۰ یورو رسیده است.",
-      "key_points_fa": [
-        "افزایش چشمگیر رزرو خانه‌ها و آپارتمان‌ها در کادیس، مالاگا، گرانادا و آلمریا",
-        "ثبت قیمت‌های نجومی تا ۱۲۵۰۰ یورو برای یک شب اقامت در منطقه طریفا",
-        "توجه زودهنگام گردشگران برای تماشای رویداد نجومی سال آینده در اسپانیا"
-      ],
-      "analysis_fa": "پدیده خورشیدگرفتگی سال ۲۰۲۷ میلادی تقاضای گردشگری را در جنوب اسپانیا به شدت تحریک کرده است. این افزایش ناگهانی تقاضا نشان‌دهنده پتانسیل بالای رویدادهای نجومی برای جذب گردشگر و تأثیر مستقیم آن‌ها بر بازار مسکن موقت و قیمت‌گذاری در بخش گردشگری است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#گردشگری",
-        "#اقتصاد",
-        "#خورشیدگرفتگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "63b0fc1ee357",
-      "source": "La Vanguardia",
-      "title": "Joan Puigcercós: “Hoy en día, la valentía es votar algo a favor de otro partido”",
-      "summary": "El exconseller de Governació, diputado y presidente de ERC trabaja en el sector privado",
-      "url": "https://www.lavanguardia.com/politica/20260823/11618287/joan-pigcercos-hoy-dia-valentia-votar-favor-partido.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a89f35fad12c.r_d.506-448-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "ژوان پویچکرکوس: شجاعت امروز رای دادن به پیشنهاد حزب دیگر است",
-      "lead_fa": "وزیر پیشین و سیاستمدار سابق کاتالان اخیراً درباره تغییر فضای سیاسی سخ گفت. او اکنون در بخش خصوصی فعالیت می‌کند.",
-      "key_points_fa": [
-        "اشاره ژوان پویچکرکوس به کم رنگ شدن شجاعت سیاسی در میان احزاب",
-        "تغییر مسیر فعالیت او از سیاست به بخش خصوصی"
-      ],
-      "analysis_fa": "این اظهارات بازتاب‌دهنده نگاه یکی از چهره‌های باسابقه سیاست کاتالونیا درباره لزوم انعطاف و همکاری بین احزاب مختلف در فضایی است که معمولاً با قطبی‌گری همراه است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیاست",
-        "#کاتالونیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1006,34 +919,6 @@
         "#آمریکا",
         "#جنگ_تجاری",
         "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "aa54c543fa17",
-      "source": "La Vanguardia",
-      "title": "Buscan a un empresario español que cayó de su barco entre Sicilia y Grecia",
-      "summary": "Juan José Mutilba Obregón , burgalés de 66 años, desapareció tras resbalar mientras pescaba un atún, según relata la familia; su mujer permaneció tres días a la deriva hasta poder pedir ayuda",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20260823/11618537/buscan-empresario-espanol-cayo-barco-sicilia-grecia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/12/19/639fa63d9bf06.r_d.1090-784-0.jpeg",
-      "published_at": "2026-08-23T12:44:29+02:00",
-      "category": "sociedad",
-      "priority": 74,
-      "title_fa": "جستجو برای یافتن تاجر اسپانیایی مفقود شده در دریا",
-      "lead_fa": "خوان خوسه موتیلبا اوبرگون، تاجر ۶۶ ساله اهل بورگوس، پس از سقوط از قایق خود در مسیر بین سیسیل و یونان مفقود شد. همسر او پس از این حادثه، سه روز را سرگردان در دریا گذراند تا توانست درخواست کمک کند.",
-      "key_points_fa": [
-        "مفقودی این فرد ۶۶ ساله هنگام ماهیگیری تن‌ماهی رخ داده است.",
-        "همسر این تاجر اسپانیایی سه روز پس از حادثه توانست درخواست کمک ثبت کند.",
-        "عملیات جستجو در آب‌های بین سیسیل و یونان جریان دارد."
-      ],
-      "analysis_fa": "این حادثه دریایی توجه مقامات امدادی را به خود جلب کرده و تلاش‌ها برای یافتن این تبعه اسپانیایی در میان آب‌های مدیترانه ادامه دارد، در حالی که جزئیات دقیق چگونگی وقوع حادثه همچنان توسط خانواده و نهادهای مربوطه پیگیری می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#مدیترانه"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1287,6 +1172,72 @@
       "editorial_version": 2
     },
     {
+      "id": "1ad7047742f1",
+      "source": "La Vanguardia",
+      "title": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
+      "summary": "Se trata del mismo lugar en el que se declaró un incendio forestal el pasado 20 de agosto",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618548/inicia-nuevo-incendio-vall-d-uixo-castellon.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/08/07/62ef71f50fbe0.r_d.1500-1000-0.jpeg",
+      "published_at": "2026-08-23T13:50:29+02:00",
+      "category": "sociedad",
+      "priority": 72,
+      "title_fa": "Se inicia un nuevo incendio en la Vall d'Uixó, Castellón",
+      "lead_fa": "Se trata del mismo lugar en el que se declaró un incendio forestal el pasado 20 de agosto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d9cc98e92c58",
+      "source": "La Vanguardia",
+      "title": "El verano que escribo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260824/11616965/verano-escribo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/20/6a86b668e62a0.jpeg",
+      "published_at": "2026-08-24T06:24:42+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El verano que escribo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fea4148f9675",
+      "source": "La Vanguardia",
+      "title": "Harry Potter, bajo sospecha",
+      "summary": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
+      "url": "https://www.lavanguardia.com/series/20260824/11617049/harry-potter-sospecha.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/26/69c56acd88e89.jpeg",
+      "published_at": "2026-08-24T06:22:44+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Harry Potter, bajo sospecha",
+      "lead_fa": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "ffbd3a06bfb1",
       "source": "La Vanguardia",
       "title": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
@@ -1364,6 +1315,182 @@
       "priority": 70,
       "title_fa": "El efecto Genovés",
       "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b475e14ee99f",
+      "source": "La Vanguardia",
+      "title": "El Estado eleva a 2.000 millones sus dividendos gracias a Aena y CaixaBank",
+      "summary": "El auge del turismo, la banca y la defensa mejora la rentabilidad de las inversiones",
+      "url": "https://www.lavanguardia.com/economia/20260824/11618635/eleva-2-000-millones-dividendos-gracias-aena-caixabank.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b30dc0624a.r_d.1984-1835-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "El Estado eleva a 2.000 millones sus dividendos gracias a Aena y CaixaBank",
+      "lead_fa": "El auge del turismo, la banca y la defensa mejora la rentabilidad de las inversiones",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d420a0072f47",
+      "source": "La Vanguardia",
+      "title": "Lo que haces antes de apagar la luz influye en cómo duermes",
+      "summary": "Cenar tarde y copioso, o beber alcohol antes de dormir, empeora el descanso nocturno, advierten los neurólogos del sueño del Hospital Clínic Barcelona",
+      "url": "https://www.lavanguardia.com/vida/salud/20260824/11618181/apagar-luz-influye-como-duermes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/04/04/624ab613ee91d.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "Lo que haces antes de apagar la luz influye en cómo duermes",
+      "lead_fa": "Cenar tarde y copioso, o beber alcohol antes de dormir, empeora el descanso nocturno, advierten los neurólogos del sueño del Hospital Clínic Barcelona",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "d6b19c3acb12",
+      "source": "La Vanguardia",
+      "title": "Así son las carreras de caracoles de Tricio: seis minutos para arrastrar una lata de 230 gramos",
+      "summary": "El molusco Papapoya, de apenas 6 gramos, recorrió 82 milímetros y se impuso entre los 76 participantes de esta singular competición riojana",
+      "url": "https://www.lavanguardia.com/vida/20260824/11618583/asi-son-carreras-caracoles-tricio-seis-minutos-arrastrar-lata-230-gramos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b07a283d6a.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Así son las carreras de caracoles de Tricio: seis minutos para arrastrar una lata de 230 gramos",
+      "lead_fa": "El molusco Papapoya, de apenas 6 gramos, recorrió 82 milímetros y se impuso entre los 76 participantes de esta singular competición riojana",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "635808d7cd32",
+      "source": "La Vanguardia",
+      "title": "¿Por qué el numero de bulos relacionados con la nutrición supera a los que tienen que ver con el cambio climático y las vacunas?",
+      "summary": "El último bulo que circula este agosto es que durante el próximo eclipse del 12 de agosto bajaremos de peso",
+      "url": "https://www.lavanguardia.com/comer/tendencias/20260824/11598489/numero-bulos-relacionados-nutricion-supera-ver-cambio-climatico-vacunas.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/22/6a60a1c4b0524.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "¿Por qué el numero de bulos relacionados con la nutrición supera a los que tienen que ver con el cambio climático y las vacunas?",
+      "lead_fa": "El último bulo que circula este agosto es que durante el próximo eclipse del 12 de agosto bajaremos de peso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "defb7944d109",
+      "source": "La Vanguardia",
+      "title": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
+      "summary": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260824/11618576/nuevo-convenio-mossos-guardia-urbana-sigue-firmarse.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b03f6cc8b2.r_d.459-306-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
+      "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5e5e27984925",
+      "source": "La Vanguardia",
+      "title": "Mataró afianza el modelo de ciudad cuidadora con una estrategia transversal",
+      "summary": "El Mataró Care City Lab se consolida como el centro neurálgico del programa",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260824/11618587/mataro-afianza-modelo-ciudad-cuidadora-estrategia-transversal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b0ca079f09.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Mataró afianza el modelo de ciudad cuidadora con una estrategia transversal",
+      "lead_fa": "El Mataró Care City Lab se consolida como el centro neurálgico del programa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "465b5ea1722a",
+      "source": "La Vanguardia",
+      "title": "Sísifo y su piedra terca en la Amazonia",
+      "summary": "Werner Herzog se adentró en la selva peruana para el rodaje de 'Fitzcarraldo', el más delirante de la historia del cine",
+      "url": "https://www.lavanguardia.com/cultura/20260824/11618296/sisifo-piedra-terca-amazonia-werner-herzog-fitzcarraldo-selva-peruana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/22/6a8a0d10dec3b.r_d.748-549-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Sísifo y su piedra terca en la Amazonia",
+      "lead_fa": "Werner Herzog se adentró en la selva peruana para el rodaje de 'Fitzcarraldo', el más delirante de la historia del cine",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4504cccf9c90",
+      "source": "La Vanguardia",
+      "title": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
+      "summary": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260824/11598704/francisco-jose-tarazona-geriatra-miedo-excesivo-caerse-lleva-caminar-forma-mas-rigida-reducir-actividad-fisica-perder-fuerza-muscular.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/22/6a60d4d3ea6a2.r_d.360-256-0.jpeg",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
+      "lead_fa": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1943,35 +2070,6 @@
       "editorial_version": 2
     },
     {
-      "id": "d63c5d8f84f7",
-      "source": "La Vanguardia",
-      "title": "Alonso se ilusiona tras puntuar en Zandvoort: “Me encanta este coche... más por llegar”",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/deportes/20260823/11618649/ilusionante-mensaje-alonso-puntuar-zandvoort-me-encanta-coche-mas-llegar-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b3eaf36e8b.jpeg",
-      "published_at": "2026-08-23T21:03:40+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "امیدواری فرناندو آلونسو پس از کسب امتیاز در مسابقه زاندوورت",
-      "lead_fa": "فرناندو آلونسو، راننده اسپانیایی فرمول یک، پس از کسب امتیاز در گراندپری هلند ابراز رضایت کرد. او عملکرد خودروی خود را مثبت ارزیابی کرد و به مسابقات پیش رو امیدوار است.",
-      "key_points_fa": [
-        "کسب امتیاز توسط فرناندو آلونسو در پیست زاندوورت هلند",
-        "ابراز علاقه و رضایت آلونسو از عملکرد خودروی خود",
-        "نگاه مثبت این راننده به مسابقات باقی‌مانده فصل"
-      ],
-      "analysis_fa": "این اظهارات نشان‌دهنده بهبود نسبی عملکرد تیم و رضایت راننده باتجربه اسپانیایی از ارتقاهای فنی اخیر است که می‌تواند روحیه تیم را در ادامه رقابت‌های فصل تقویت کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فرناندو_آلونسو",
-        "#فرمول_یک",
-        "#اسپانیا",
-        "#ورزش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "4c540091fa16",
       "source": "La Vanguardia",
       "title": "Flick, muy duro con Balde: “No está aquí al 100%”",
@@ -2000,123 +2098,9 @@
       "editorial_version": 2
     },
     {
-      "id": "d417c0bf4bd4",
-      "source": "La Vanguardia",
-      "title": "Taxistas denuncian que los crucerista pierden barcos y aviones por culpa del caos del puerto",
-      "summary": "Élite Taxi asegura que algunos domingos tardan hasta tres horas en entrar y salir de las terminales",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618641/taxistas-denuncian-crucerista-pierden-barcos-aviones-culpa-caos-puerto.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b389a70db8.r_d.2110-2779-0.jpeg",
-      "published_at": "2026-08-23T20:23:01+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "اعتراض تاکسی‌ها به ترافیک بندر",
-      "lead_fa": "انجمن الیت تاکسی از تاخیرهای طولانی در پایانه‌های بندری خبر داد. مسافران کشتی‌های تفریحی به دلیل این وضعیت از پروازها و سفرهای دریایی خود جا می‌مانند.",
-      "key_points_fa": [
-        "ترافیک شدید در روزهای یکشنبه در پایانه‌های بندر ایجاد می‌شود.",
-        "زمان ورود و خروج تاکسی‌ها گاهی تا سه ساعت طول می‌کشد.",
-        "رانندگان تاکسی خواستار رسیدگی فوری به وضعیت نابسامان ترافیکی هستند."
-      ],
-      "analysis_fa": "اختلال در دسترسی به پایانه‌های بندری نه تنها بر خدمات حمل‌ونقل شهری تأثیر منفی می‌گذارد، بلکه می‌تواند اعتبار گردشگری منطقه را نیز تحت‌الشعاع قرار دهد. حل این مشکل نیازمند همکاری مدیریت بندر و نهادهای نظارتی برای بهبود جریان ترافیک است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#تاکسی",
-        "#گردشگری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "5adcea5ec312",
-      "source": "La Vanguardia",
-      "title": "Investigan la muerte violenta de un hombre en La Ràpita (Montsià)",
-      "summary": "El apuñalamiento tuvo lugar a las tres y media de la pasada madrugada",
-      "url": "https://www.lavanguardia.com/sucesos/20260823/11618593/investigan-muerte-violenta-hombre-rapita-montsia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/11/698cb25673899.r_d.1065-409-0.jpeg",
-      "published_at": "2026-08-23T17:20:36+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "تحقیقات درباره مرگ خشونت‌بار یک مرد در کاتالونیا",
-      "lead_fa": "پلیس اسپانیا تحقیقات درباره مرگ خشونت‌آمیز یک مرد را آغاز کرد. این حادثه بامداد امروز در منطقه مونتسیا رخ داد.",
-      "key_points_fa": [
-        "حادثه مرگبار در ساعات اولیه بامداد رخ داده است.",
-        "فرد قربانی بر اثر ضربات چاقو جان خود را از دست داده است.",
-        "مقام‌های انتظامی و قضایی تحقیقات را برای روشن شدن ابعاد ماجرا دنبال می‌کنند."
-      ],
-      "analysis_fa": "وقوع حوادث خشونت‌آمیز با سلاح سرد همواره یکی از نگرانی‌های امنیتی در مناطق مختلف اسپانیاست که واکنش نهادهای انتظامی و پلیس را به دنبال دارد. بررسی دقیق شواهد و مدارک توسط کارآگاهان برای شناسایی عامل یا عاملان این جنایت در جریان است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#حوادث",
-        "#پلیس"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8b6276b15b20",
-      "source": "La Vanguardia",
-      "title": "Soberbio triunfo de Norris ante Antonelli y Hamilton en Zandvoort; Alonso, gran 9.º puesto",
-      "summary": "El inglés de McLaren fue mejor por ritmo con sus gomas duras gracias a la buena estrategia de los de Woking",
-      "url": "https://www.lavanguardia.com/deportes/20260823/11618570/f1-formula-1-zandvoort-gp-paises-bajos-carrera-ganador-victoria-resumen-norris-russell-antonelli-alonso-sainz-verstappen.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b0dd107873.jpeg",
-      "published_at": "2026-08-23T17:19:03+02:00",
-      "category": "deportes",
-      "priority": 70,
-      "title_fa": "پیروزی درخشان لندو نوریس در گرندپری زاندوورت؛ فرناندو آلونسو نهم شد",
-      "lead_fa": "لندو نوریس، راننده مک‌لارن، با نمایشی برتر و استراتژی عالی در زاندوورت به پیروزی رسید. فرناندو آلونسو نیز توانست مقام نهم را از آن خود کند.",
-      "key_points_fa": [
-        "پیروزی لندو نوریس با عملکرد عالی تیم مک‌لارن و استفاده بهینه از لاستیک‌های سخت",
-        "عملکرد خوب کیمی آنتونلی و لوئیس همیلتون در مسابقه",
-        "کسب جایگاه نهمی ارزشمند توسط فرناندو آلونسو"
-      ],
-      "analysis_fa": "این مسابقه بار دیگر اهمیت استراتژی تیمی و مدیریت لاستیک را در رقابت‌های فرمول یک نشان داد. تیم مک‌لارن با انتخاب‌های تاکتیکی درست توانست برتری خود را حفظ کند و نوریس را به یک برد قاطع برساند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#فرمول_یک",
-        "#لندو_نوریس",
-        "#اسپانیا",
-        "#مسابقات"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f543ef6f4166",
-      "source": "La Vanguardia",
-      "title": "Todos los caminos llevan al romance: lo que no hay que perderse este septiembre",
-      "summary": "La aclamada saga Zodiac Academy, el regreso de Sarah J. Maas, el cierre de la trilogía de la catalana Mar Picó o el regreso a sus orígenes de Inma Rubiales, algunas de las propuestas para un público cada vez más amplio",
-      "url": "https://www.lavanguardia.com/cultura/20260823/11618497/todos-caminos-llevan-romance-hay-perderse-septiembre.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8aae8abeb9e.r_d.758-113-0.jpeg",
-      "published_at": "2026-08-23T17:12:54+02:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "کتاب‌های عاشقانه جدید برای پاییز در اسپانیا",
-      "lead_fa": "بازار کتاب اسپانیا میزبان آثار جدیدی در ژانر عاشقانه است. این فهرست شامل نویسندگان سرشناس و مجموعه‌های پرطرفدار می‌شود.",
-      "key_points_fa": [
-        "انتشار آثار جدید در حوزه رمان‌های عاشقانه و پرمخاطب",
-        "بازگشت نویسندگان شناخته‌شده با آثار جدید به بازار کتاب",
-        "ارائه پیشنهادهای مطالعاتی متنوع برای طیف وسیعی از خوانندگان"
-      ],
-      "analysis_fa": "بازار نشر اسپانیا همزمان با آغاز ماه سپتامبر شاهد معرفی عناوین جدید در ژانر عاشقانه و جوان‌پسند است که نشان‌دهنده استمرار محبوبیت این گونه ادبی در میان مخاطبان عام است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#کتاب",
-        "#ادبیات",
-        "#اسپانیا",
-        "#رمان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "824c29017718",
       "source": "La Vanguardia",
-      "title": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok sin que nadie sepa cómo",
+      "title": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok y nadie sabe cómo",
       "summary": "Ja joven inglesa de 16 años sumó más de 800.000 seguidores en TikTok en apenas dos semanas",
       "url": "https://www.lavanguardia.com/vida/20260823/11618558/ellie-ellis-adolescente-conquistado-algoritmo-tiktok-nadie-como.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8ae98ecf160.r_d.2856-2142-0.jpeg",
@@ -2199,6 +2183,28 @@
       "editorial_version": 2
     },
     {
+      "id": "b7a6a4f47b1a",
+      "source": "La Vanguardia",
+      "title": "“El caminante elige fijarse en los pájaros o en las cacas del camino”",
+      "summary": "Tengo 45 años. Nací en París y vivo en México. Soy músico, compositor y cantante (tres Grammy), cineasta y psicoterapeuta chamánico. Tengo un hijo, Alión (8). ¿ Política? Misterioso. ¿ Creencias? Creo en el vacío, conciencia indefinida. Cada milisegundo hay una muerte . El arte es la humanidad. (Foto: Mané Espinosa)",
+      "url": "https://www.lavanguardia.com/lacontra/20260824/11618642/adanowsky-adan-jodorowsky-caminante-elige-fijarse-pajaros-cacas-camino.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b383ed65fa.r_d.2142-1635-0.jpeg",
+      "published_at": "2026-08-24T00:05:00+02:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "“El caminante elige fijarse en los pájaros o en las cacas del camino”",
+      "lead_fa": "Tengo 45 años. Nací en París y vivo en México. Soy músico, compositor y cantante (tres Grammy), cineasta y psicoterapeuta chamánico. Tengo un hijo, Alión (8). ¿ Política? Misterioso. ¿ Creencias? Creo en el vacío, conciencia indefinida. Cada milisegundo hay una muerte . El arte es la humanidad. (Foto: Mané Espinosa)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "cd7a88f6c78d",
       "source": "La Vanguardia",
       "title": "Cursar bioterrorismo online",
@@ -2221,143 +2227,25 @@
       "editorial_version": 2
     },
     {
-      "id": "104246f06120",
+      "id": "a18e97796fa1",
       "source": "La Vanguardia",
-      "title": "Natalie Harp, a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
-      "summary": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente al presidente",
-      "url": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89d52ae7e09.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "انتشار نامه‌های پرشور ناتالی هارپ به دونالد ترامپ",
-      "lead_fa": "نامه‌هایی که منتسب به دستیار دونالد ترامپ هستند، افشا شد. این نامه‌ها شامل اظهاراتی درباره قدردانی و وفاداری به ترامپ است.",
-      "key_points_fa": [
-        "انتشار نامه‌های منتسب به ناتالی هارپ، دستیار دونالد ترامپ.",
-        "در این نامه‌ها ابراز وفاداری شدید به ترامپ دیده می‌شود.",
-        "این اسناد بازتاب گسترده‌ای در رسانه‌های اسپانیایی داشته است."
-      ],
-      "analysis_fa": "افشای مکاتبات شخصی منتسب به چهره‌های نزدیک به سیاستمداران برجسته معمولاً ابعاد سیاسی و رسانه‌ای پیدا می‌کند و بازتاب‌دهنده پویایی‌های درون‌گروهی ستادهای سیاسی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#ناتالی_هارپ",
-        "#سیاست_آمریکا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "0b50d38c40a6",
-      "source": "La Vanguardia",
-      "title": "El corralito de Trump",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/economia/20260823/11618257/corralito-trump.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89daab92604.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "economia",
-      "priority": 68,
-      "title_fa": "محدودیت‌های مالی دونالد ترامپ و نگرانی‌های جدید",
-      "lead_fa": "برخی سیاست‌های اقتصادی منتسب به دونالد ترامپ چالش‌های جدیدی ایجاد کرده است. تحلیلگران پیامدهای این اقدامات را در سطح بین‌المللی بررسی می‌کنند.",
-      "key_points_fa": [
-        "بررسی تاثیر سیاست‌های مالی ترامپ بر بازارهای جهانی",
-        "واکنش کارشناسان اقتصادی به محدودیت‌های جدید",
-        "نگرانی از ثبات سرمایه‌گذاری‌ها"
-      ],
-      "analysis_fa": "این موضوع بازتاب‌دهنده نگرانی‌های گسترده درباره رویکردهای اقتصادی و مالی است که می‌تواند بر روندهای کلان اقتصادی تاثیر بگذارد بدون اینکه مسیر قطعی آن قابل پیش‌بینی باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#اقتصاد",
-        "#بازار_جهانی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "43051f8011ef",
-      "source": "La Vanguardia",
-      "title": "A Trump se le escapa el mundo",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/internacional/20260823/11617846/eeuu-trump-oriente-medio-iran-europa-america-asia.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a887d8255d2b.r_d.271-386-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "نگاهی به رویکرد بین‌المللی دونالد ترامپ",
-      "lead_fa": "تحلیل‌های اخیر به بررسی رویکرد سیاست خارجی دونالد ترامپ پرداخته‌اند. این گزارش ابعاد مختلف تاثیرات بین‌المللی تصمیمات وی را زیر ذره‌بین قرار می‌دهد.",
-      "key_points_fa": [
-        "بررسی مواضع سیاست خارجی دونالد ترامپ",
-        "بازتاب دیدگاه‌های بین‌المللی درباره رویکردهای او",
-        "تحلیل پیامدهای تصمیمات کلان بر معادلات جهانی"
-      ],
-      "analysis_fa": "این مطلب به بررسی تحولات پیرامون مواضع سیاسی دونالد ترامپ و بازتاب آن در عرصه بین‌الملل می‌پردازد، بدون اینکه گمانه‌زنی قطعی درباره آینده مطرح کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ترامپ",
-        "#سیاست_خارجی",
-        "#اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "7839553c3c77",
-      "source": "La Vanguardia",
-      "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
-      "summary": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
-      "url": "https://www.lavanguardia.com/vida/20260823/11617640/donde-cuando-ver-luna-sangre-eclipse-lunar-proximo-viernes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a882e3d9b0cc.r_d.3366-2320-0.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "ciencia",
+      "title": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
+      "summary": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b2c048de08.jpeg",
+      "published_at": "2026-08-23T19:29:54+02:00",
+      "category": "turismo",
       "priority": 67,
-      "title_fa": "زمان و نحوه تماشای ماه‌گرفتگی کامل و «ماه خونین» در اسپانیا",
-      "lead_fa": "جمعه آینده پدیده ماه گرفتگی در سراسر اسپانیا قابل رؤیت خواهد بود. زمین در این پدیده ۹۳ درصد از قطر ماه را خواهد پوشاند.",
-      "key_points_fa": [
-        "این رویداد نجومی در ساعت ۶:۱۲ صبح رخ خواهد داد.",
-        "ماه گرفتگی در سراسر کشور قابل مشاهده است.",
-        "در مناطق مرکزی، شرقی، جزایر بالئار، سبته و ملیلیه، ماه پیش از پایان گرفتگی غروب خواهد کرد."
-      ],
-      "analysis_fa": "این پدیده نجومی فرصتی مناسب برای رصدگران و علاقه‌مندان به نجوم در سراسر اسپانیا فراهم می‌کند تا یکی از رویدادهای جذاب منظومه شمسی را مشاهده کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
+      "lead_fa": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اسپانیا",
-        "#نجوم",
-        "#ماه‌گرفتگی"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "993dda004166",
-      "source": "La Vanguardia",
-      "title": "Japón crea una ‘nevera humana’ para combatir el calor extremo",
-      "summary": "La cabina permite a los trabajadores refugiarse del calor y recibir aire a 5 grados sobre las zonas del cuerpo donde más se acumula el calor",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618219/japon-crea-nevera-humana-combatir-calor-extremo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/22/6a89b8d32f9dc.jpeg",
-      "published_at": "2026-08-23T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 67,
-      "title_fa": "اختراع یخچال انسانی در ژاپن برای مقابله با گرمای شدید",
-      "lead_fa": "ژاپن کابین جدیدی موسوم به یخچال انسانی برای محافظت از کارگران در برابر گرمای شدید ساخته است. این دستگاه هوا را با دمای ۵ درجه سانتی‌گراد به نقاطی از بدن که گرما را بیشتر انباشته می‌کنند، می‌دمد.",
-      "key_points_fa": [
-        "طراحی کابین ویژه برای پناه دادن به کارگران در برابر گرمای شدید",
-        "دمیدن هوای ۵ درجه سانتی‌گراد به نواحی بحرانی بدن"
-      ],
-      "analysis_fa": "این فناوری جدید نشان‌دهنده تلاش صنایع برای یافتن راه‌حل‌های فناورانه جهت مقابله با چالش‌های ناشی از افزایش دما در محیط‌های کاری است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#ژاپن",
-        "#تکنولوژی",
-        "#سلامت_کار",
-        "#گرمای_شدید"
-      ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2386,6 +2274,28 @@
         "#اسپانیا"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "ad1ae1b81545",
+      "source": "La Vanguardia",
+      "title": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "summary": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "url": "https://www.lavanguardia.com/local/valencia/20260823/11618584/rototom-cierra-31-edicion-169-000-asistentes-centenar-paises.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b082b97eca.jpeg",
+      "published_at": "2026-08-23T16:50:45+02:00",
+      "category": "cultura",
+      "priority": 66,
+      "title_fa": "El Rototom cierra su 31ª edición con 169.000 asistentes de casi un centenar de países",
+      "lead_fa": "El festival de Benicàssim mantiene la afluencia de 2025 y refuerza su apuesta por el pensamiento crítico, la sostenibilidad y la renovación musical",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2603,7 +2513,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 133
+      "count": 123
     }
   ]
 }
