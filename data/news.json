@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:42:18.795093+00:00",
+  "generated_at": "2026-08-24T18:04:35.443968+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e53560f78408",
@@ -492,6 +492,35 @@
       "editorial_version": 2
     },
     {
+      "id": "26a603059396",
+      "source": "EL PAÍS",
+      "title": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
+      "summary": "El secretario del Tesoro, Scott Bessent, no anuncia sanciones ni plazos concretos sino que opta por “un disparo de advertencia”, a los socios económicos de Teherán",
+      "url": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5472EVLXJZIYTDJ2Z5KKJZKDBI.jpg?auth=6f242706672af5796212440a4af6d9397f88f2df507afaad7b47d82926ffa67e",
+      "published_at": "2026-08-24T17:34:21+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "هشدار خزانه داری آمریکا به کشورهای همکار با ایران",
+      "lead_fa": "اسکات بسنت، وزیر خزانه‌داری آمریکا، به کشورهای طرف معامله با ایران هشدار داد. این موضع‌گیری در قالب یک اخطار سیاستی بدون اعلام تحریم‌های مشخص مطرح شد.",
+      "key_points_fa": [
+        "هشدار وزیر خزانه‌داری آمریکا به شرکای اقتصادی تهران",
+        "عدم اعلام تحریم‌های جدید یا مهلت زمانی مشخص در این مرحله",
+        "توصیف این موضع‌گیری به عنوان یک شلیک هشداردهنده"
+      ],
+      "analysis_fa": "این موضع‌گیری نشان‌دهنده تداوم سیاست فشار اقتصادی بر تهران و هشدار به بازیگران بین‌المللی برای کاهش روابط تجاری با ایران است، بدون اینکه تاکنون اقدام عملی تازه‌ای مانند وضع تحریم‌های جدید رونمایی شده باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آمریکا",
+        "#ایران",
+        "#اقتصاد",
+        "#تحریم"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "3780c31ea9c7",
       "source": "La Vanguardia",
       "title": "Este no es un vídeo de un caso de acoso en Ceuta, es un fragmento de una película argelina",
@@ -501,16 +530,22 @@
       "published_at": "2026-08-24T17:12:14+02:00",
       "category": "migracion",
       "priority": 75,
-      "title_fa": "Este no es un vídeo de un caso de acoso en Ceuta, es un fragmento de una película argelina",
-      "lead_fa": "Las imágenes son un fragmento del largometraje de ficción 'Papicha' y se han difundido de manera engañosa para reforzar una falsa vinculación entre inmigración y delincuencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "تصاویر منتشر شده از آزار و اذیت در سبته ساختگی و سکانسی از یک فیلم است",
+      "lead_fa": "تصاویری که اخیراً درباره آزار و اذیت در سبته در شبکه‌های اجتماعی منتشر شده‌اند، صحت ندارند. این ویدیو در واقع سکانسی از یک فیلم سینمایی الجزایری است که به شکل گمراه کننده‌ای بازنشر شده است.",
+      "key_points_fa": [
+        "تصاویر جنجالی منتسب به سبته، سکانسی از فیلم داستانی «پاپیشا» هستند.",
+        "این ویدیوها با هدف ایجاد ارتباط نادرست میان مهاجرت و جرم و جنایت منتشر شده‌اند."
+      ],
+      "analysis_fa": "انتشار این‌گونه محتوای نادرست بخشی از تلاش‌ها برای بازنمایی منفی از پدیده مهاجرت است که از طریق ترکیب تصاویر سینمایی با رویدادهای واقعی انجام می‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#سبته",
+        "#مهاجرت",
+        "#اخبار_جعلی",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -523,16 +558,22 @@
       "published_at": "2026-08-24T16:42:56+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Enrique de Inglaterra deja su puesto en el consejo de una controvertida ONG africana",
-      "lead_fa": "El duque de Sussex ocupó el cargo de presidente entre 2017 y 2023 de African Parks, una organización dedicada a la protección de la fauna salvaje acusada por el Gobierno del Chad de no frenar la caza furtiva y también de cometer abusos contra comunidades locales en el Congo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کناره‌گیری شاهزاده هری از هیئت مدیره یک سازمان جنجالی در آفریقا",
+      "lead_fa": "شاهزاده هری از سمت خود در سازمان حفاظت از حیات وحش «پارک‌های آفریقا» کناره‌گیری کرد. این سازمان با اتهسامات جدی درباره حقوق بشر و شکار غیرمجاز مواجه است.",
+      "key_points_fa": [
+        "شاهزاده هری از سال ۲۰۱۷ تا ۲۰۲۳ ریاست این سازمان را بر عهده داشت.",
+        "دولت چاد این سازمان را به عدم جلوگیری از شکار غیرمجاز متهم کرده است.",
+        "گزارش‌هایی از بروز سوءاستفاده علیه جوامع محلی در کنگو مطرح شده است."
+      ],
+      "analysis_fa": "این استعفا در شرایطی صورت می‌گیرد که سازمان‌های غیردولتی بین‌المللی زیر ذره‌بین شدید فعالیت‌های حقوق بشری قرار دارند. اتهامات مطرح‌شده علیه این نهاد می‌تواند بر اعتبار حامیان سرشناس آن تأثیر بگذارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#شاهزاده_هری",
+        "#آفریقا",
+        "#محیط_زیست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -733,7 +774,7 @@
     },
     {
       "id": "9c7a3481d291",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
       "summary": "Los importes llevan 48 trimestres de aumento desde que tocaron suelo en 2014 y han superado el pico de la burbuja en 16 comunidades autónomas",
       "url": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
@@ -1273,14 +1314,14 @@
       "id": "3ffdb5367bb6",
       "source": "La Vanguardia",
       "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
-      "summary": "Los núcleos de tormentas se desplazan hacia el Penedès",
+      "summary": "El núcleo del temporal se desplaza hacia el área metropolitana de Barcelona",
       "url": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c7bf15bbc8.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c7d9082476.jpeg",
       "published_at": "2026-08-24T19:06:28+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
       "title_fa": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
-      "lead_fa": "Los núcleos de tormentas se desplazan hacia el Penedès",
+      "lead_fa": "El núcleo del temporal se desplaza hacia el área metropolitana de Barcelona",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1358,28 +1399,6 @@
       "editorial_version": 2
     },
     {
-      "id": "175170833d43",
-      "source": "La Vanguardia",
-      "title": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
-      "summary": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'",
-      "url": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c350509388.jpeg",
-      "published_at": "2026-08-24T16:46:31+02:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
-      "lead_fa": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f65bce062a04",
       "source": "EL PAÍS",
       "title": "Una granizada obliga a la Vuelta a cancelar la etapa",
@@ -1435,28 +1454,6 @@
       "priority": 70,
       "title_fa": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
       "lead_fa": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "01f03c888331",
-      "source": "EL PAÍS",
-      "title": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
-      "summary": "El presidente de Estados Unidos escala la guerra comercial con el país vecino",
-      "url": "https://elpais.com/economia/2026-08-24/trump-anuncia-aranceles-del-50-para-vehiculos-y-acero-de-canada-desde-el-1-de-enero-de-2027.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ESOWLMEHHJJOHFYFFGZWYD6IMQ.jpg?auth=870fefae2f7a7a121802a52c1079f22eb3dfbd029c364529526ad41a1d4151f3",
-      "published_at": "2026-08-24T14:52:28+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
-      "lead_fa": "El presidente de Estados Unidos escala la guerra comercial con el país vecino",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1524,6 +1521,28 @@
       "editorial_version": 2
     },
     {
+      "id": "175170833d43",
+      "source": "La Vanguardia",
+      "title": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
+      "summary": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'",
+      "url": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c350509388.jpeg",
+      "published_at": "2026-08-24T16:46:31+02:00",
+      "category": "ciencia",
+      "priority": 69,
+      "title_fa": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
+      "lead_fa": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "3ac1dcb41e6d",
       "source": "La Vanguardia",
       "title": "Sanidad y comunidades acuerdan enviar 45.000 vacunas a Ceuta",
@@ -1535,6 +1554,28 @@
       "priority": 69,
       "title_fa": "Sanidad y comunidades acuerdan enviar 45.000 vacunas a Ceuta",
       "lead_fa": "El mecanismo de solidaridad se activa para que la ciudad autónoma perciba 15.000 de triple vírica, 10.000 de difteria-tétanos, 10.000 de varicela y 10.000 de polio.",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "01f03c888331",
+      "source": "EL PAÍS",
+      "title": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
+      "summary": "El presidente de Estados Unidos escala la guerra comercial con el país vecino",
+      "url": "https://elpais.com/economia/2026-08-24/trump-anuncia-aranceles-del-50-para-vehiculos-y-acero-de-canada-desde-el-1-de-enero-de-2027.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ESOWLMEHHJJOHFYFFGZWYD6IMQ.jpg?auth=870fefae2f7a7a121802a52c1079f22eb3dfbd029c364529526ad41a1d4151f3",
+      "published_at": "2026-08-24T14:52:28+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Trump anuncia aranceles del 50% para vehículos y acero de Canadá desde el 1 de enero de 2027",
+      "lead_fa": "El presidente de Estados Unidos escala la guerra comercial con el país vecino",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1636,14 +1677,14 @@
     {
       "id": "888b5ae62704",
       "source": "La Vanguardia",
-      "title": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
+      "title": "Erola Jons, la influencer apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
       "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
       "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
       "published_at": "2026-08-24T13:38:02+02:00",
       "category": "cultura",
       "priority": 68,
-      "title_fa": "Erola Jons, la influencer a apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
+      "title_fa": "Erola Jons, la influencer apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
       "lead_fa": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
       "key_points_fa": [],
       "analysis_fa": "",
@@ -1722,50 +1763,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a803e26c6cba",
-      "source": "La Vanguardia",
-      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
-      "summary": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
-      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618916/detienen-alicante-dos-fugitivos-reclamados-alemania-vinculados-red-trafico-estupefacientes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
-      "published_at": "2026-08-24T11:03:01+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
-      "lead_fa": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd80147ec333",
-      "source": "La Vanguardia",
-      "title": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
-      "summary": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
-      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618921/calor-extremo-deja-96-muertes-valencia-semana-segunda-cifra-mas-alta-verano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f82ca186e5.r_d.476-663-0.jpeg",
-      "published_at": "2026-08-24T11:01:49+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
-      "lead_fa": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4f3d889a5428",
       "source": "EL PAÍS",
       "title": "Coque Malla defiende a los sanitarios tras la hospitalización de su hijo: “A partir de ahora, quiero, sobre todo, una sanidad pública sana, fuerte y justa”",
@@ -1810,28 +1807,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5f4ed1194801",
-      "source": "EL PAÍS",
-      "title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
-      "summary": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
-      "url": "https://elpais.com/el-tiempo/2026-08-24/una-potente-borrasca-dejara-lluvias-y-tormentas-fuertes-en-el-oeste-noreste-y-area-mediterranea.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/URWVW7PCGBMGPBNREFUNQXLVZQ.jpg?auth=91d6522120d410efff9d91ae21e74b938c26011515f29e53c38c7ce17f3dc265",
-      "published_at": "2026-08-24T09:01:50+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
-      "lead_fa": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "525d78bd8e65",
       "source": "La Vanguardia",
       "title": "Australia pausa los visados para jóvenes de 23 países, incluida España",
@@ -1843,6 +1818,50 @@
       "priority": 68,
       "title_fa": "Australia pausa los visados para jóvenes de 23 países, incluida España",
       "lead_fa": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a803e26c6cba",
+      "source": "La Vanguardia",
+      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
+      "summary": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618916/detienen-alicante-dos-fugitivos-reclamados-alemania-vinculados-red-trafico-estupefacientes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
+      "published_at": "2026-08-24T11:03:01+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
+      "lead_fa": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fd80147ec333",
+      "source": "La Vanguardia",
+      "title": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
+      "summary": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
+      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618921/calor-extremo-deja-96-muertes-valencia-semana-segunda-cifra-mas-alta-verano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f82ca186e5.r_d.476-663-0.jpeg",
+      "published_at": "2026-08-24T11:01:49+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
+      "lead_fa": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1876,17 +1895,17 @@
       "editorial_version": 2
     },
     {
-      "id": "fd8843c431d7",
-      "source": "La Vanguardia",
-      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
-      "published_at": "2026-08-24T07:52:02+02:00",
+      "id": "5f4ed1194801",
+      "source": "EL PAÍS",
+      "title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "summary": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
+      "url": "https://elpais.com/el-tiempo/2026-08-24/una-potente-borrasca-dejara-lluvias-y-tormentas-fuertes-en-el-oeste-noreste-y-area-mediterranea.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/URWVW7PCGBMGPBNREFUNQXLVZQ.jpg?auth=91d6522120d410efff9d91ae21e74b938c26011515f29e53c38c7ce17f3dc265",
+      "published_at": "2026-08-24T09:01:50+00:00",
       "category": "sociedad",
       "priority": 67,
-      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "title_fa": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+      "lead_fa": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1909,6 +1928,28 @@
       "priority": 67,
       "title_fa": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
       "lead_fa": "El incidente sucedió el domingo por la noche, afectó a las operaciones aéreas y obligó a desviar varios vuelos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "fd8843c431d7",
+      "source": "La Vanguardia",
+      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
+      "published_at": "2026-08-24T07:52:02+02:00",
+      "category": "sociedad",
+      "priority": 66,
+      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2444,28 +2485,6 @@
       "priority": 54,
       "title_fa": "Errores comerciales de los que aprender: del kétchup morado al refresco de cola que nadie compró",
       "lead_fa": "El camino hacia el éxito está cimentado en fallos (a veces estrepitosos). La IA promete agilizar y abaratar la forma en que se testan miles de productos cada año",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "44af5ca3569f",
-      "source": "EL PAÍS España",
-      "title": "¿Qué Estado queremos cuando todo arde?",
-      "summary": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
-      "url": "https://elpais.com/opinion/2026-08-22/que-estado-queremos-cuando-todo-arde.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/K52ESQFP5FHWHH67HHC5BKDADA.jpg?auth=04317783fe135a2a3a63416cf9d211e8d13af612a56dea20f4bc8ec11cba6f71",
-      "published_at": "2026-08-22T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 50,
-      "title_fa": "¿Qué Estado queremos cuando todo arde?",
-      "lead_fa": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
