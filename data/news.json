@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:34:48.351995+00:00",
+  "generated_at": "2026-08-25T23:56:36.494567+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b683f3cf6fec",
@@ -1560,18 +1560,24 @@
       "url": "https://elpais.com/economia/2026-08-25/garamendi-no-tendra-rival-en-las-elecciones-de-ceoe-y-sera-proclamado-presidente-por-tercera-vez.html",
       "image": "https://imagenes.elpais.com/resizer/v2/66AJEJMXXBNY3NHC3KCWCFC6GY.jpg?auth=0dab214206f20e5e47cb59464e693da0eb2095fcf9320654d40f0d56d33591a9",
       "published_at": "2026-08-25T03:30:01+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 69,
-      "title_fa": "Garamendi no tendrá rival en las elecciones de CEOE y será proclamado presidente por tercera vez",
-      "lead_fa": "El plazo para presentarse a las elecciones del 1 de octubre termina sin candidaturas alternativas a las del actual presidente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "انتخاب مجدد آنتونیو گارامندی به ریاست کنفدراسیون کارفرمایان اسپانیا",
+      "lead_fa": "آنتونیو گارامندی بدون رقیب برای سومین دوره متوالی به عنوان رئیس CEOE انتخاب می‌شود. مهلت ثبت‌نام بدون ارائه هیچ‌گونه نامزدی جایگزین به پایان رسید.",
+      "key_points_fa": [
+        "مهلت ثبت‌نام برای انتخابات اول اکتبر به پایان رسید",
+        "هیچ نامزد جایگزینی در برابر رئیس فعلی معرفی نشد",
+        "گارامندی برای سومین بار به ریاست بزرگ‌ترین تشکل کارفرمایی اسپانیا می‌رسد"
+      ],
+      "analysis_fa": "عدم حضور نامزدهای رقیب نشان‌دهنده ثبات موقعیت آنتونیو گارامندی در رأس نهاد کارفرمایی CEOE و حمایت بدنه از رویکردهای او در سال‌های اخیر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#گارامندی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1584,16 +1590,23 @@
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "La Administración de Trump encara en el mercado de deuda su gran batalla financiera",
-      "lead_fa": "El Tesoro busca vías poco convencionales para contener un alza de tipos con efectos tanto en Wall Street como a pie de calle, mientras el mercado aguarda el cónclave de Jackson Hole este viernes",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "نبرد مالی دولت ترامپ در بازار بدهی",
+      "lead_fa": "وزارت خزانه‌داری آمریکا به دنبال راه‌های غیرمعمول برای مهار افزایش نرخ بهره است. بازارها هم‌زمان منتظر نشست جکسون هول در روز جمعه هستند.",
+      "key_points_fa": [
+        "تلاش خزانه‌داری برای مهار رشد نرخ بهره",
+        "تأثیر تحولات بر وال‌استریت و زندگی روزمره",
+        "انتظار فعالان بازار برای نشست جکسون هول در روز جمعه"
+      ],
+      "analysis_fa": "سیاست‌های مالی دولت آمریکا و تحولات بازار بدهی می‌توانند بر روندهای کلان اقتصادی تأثیرگذار باشند، اما این تحولات هنوز پیامدهای قطعی خود را نشان نداده‌اند و باید واکنش فدرال رزرو را در نشست پیش رو زیر نظر داشت.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد",
+        "#آمریکا",
+        "#بازار_بدهی",
+        "#تورم"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1606,16 +1619,23 @@
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "Más de 100 bancos y brókeres deberán probar que compran y venden al mejor precio en Bolsa y deuda",
-      "lead_fa": "El sector deberá justificar con datos cada elección de mercado para lograr el mejor resultado posible para el cliente. La UE vuelve a legislar para elevar la confianza del inversor",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "الزام بیش از ۱۰۰ بانک و کارگزاری به اثبات بهترین قیمت در بورس",
+      "lead_fa": "اتحاد اروپا قوانین جدیدی را برای افزایش اعتماد سرمایه‌گذاران تصویب کرد. بر اساس این مقررات، بانک‌ها و کارگزاری‌های اسپانیا باید داده‌های دقیق هر معامله را ارائه دهند.",
+      "key_points_fa": [
+        "بیش از ۱۰۰ بانک و کارگزاری در بورس و بدهی تحت تأثیر قرار می‌گیرند.",
+        "فعالان مالی باید با داده‌های مستند ثابت کنند که بهترین قیمت را برای مشتریان انتخاب کرده‌اند.",
+        "هدف اصلی این مصوبه اتحادیه اروپا، شفافیت بیشتر و افزایش اعتماد سرمایه‌گذار است."
+      ],
+      "analysis_fa": "این مقررات جدید نشان‌دهنده تلاش نهادهای نظارتی اروپا برای سخت‌گیری بیشتر بر بازارهای مالی و حمایت از حقوق مشتریان است. با الزام شرکت‌های کارگزاری به توجیه آماری هر تصمیم معاملاتی، هزینه‌های انطباق با قوانین برای مؤسسات مالی افزایش می‌یابد اما شفافیت بازار بهبود می‌یابد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اقتصاد_اسپانیا",
+        "#بانک",
+        "#بورس",
+        "#اتحادیه_اروپا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
