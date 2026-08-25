@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:49:36.409447+00:00",
+  "generated_at": "2026-08-25T03:09:56.423037+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "e53560f78408",
@@ -2131,6 +2131,35 @@
       "editorial_version": 2
     },
     {
+      "id": "525d78bd8e65",
+      "source": "La Vanguardia",
+      "title": "Australia pausa los visados para jóvenes de 23 países, incluida España",
+      "summary": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior",
+      "url": "https://www.lavanguardia.com/vida/20260823/11618648/australia-pausa-visados-jovenes-23-paises-incluido-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2011/06/23/5f9af498e44c2.r_d.491-238-0.jpeg",
+      "published_at": "2026-08-23T20:55:36+02:00",
+      "category": "migracion",
+      "priority": 65,
+      "title_fa": "استرالیا صدور ویزا برای جوانان ۲۳ کشور از جمله اسپانیا را متوقف کرد",
+      "lead_fa": "دولت استرالیا صدور ویزا برای جوانان ۲۳ کشور مختلف را به طور موقت متوقف کرد. اسپانیا یکی از کشورهایی است که مشمول این تصمیم شده است.",
+      "key_points_fa": [
+        "توقف موقت صدور ویزا شامل جوانان ۲۳ کشور می‌شود.",
+        "اسپانیا نیز در فهرست کشورهای تحت تاثیر این تصمیم قرار دارد.",
+        "وزارت کشور استرالیا هنوز دلایل این تصمیم را اعلام نکرده است."
+      ],
+      "analysis_fa": "دولت استرالیا بدون ارائه توضیحات رسمی، برنامه صدور ویزا برای جوانان این گروه از کشورها را متوقف کرده است. عدم شفافیت درباره دلایل این تصمیم، گمانه‌زنی‌ها درباره تغییرات احتمالی در سیاست‌های مهاجرتی این کشور را افزایش داده است.",
+      "audience_impact_fa": "برای متقاضیان اسپانیایی این ویزاها در استرالیا، اثر مستقیم مشخصی گزارش نشده است، اما برنامه‌ریزی مهاجرتی جوانان جویای کار یا تحصیل موقت با تاخیر مواجه خواهد شد.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#استرالیا",
+        "#اسپانیا",
+        "#ویزا",
+        "#مهاجرت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "85a8b7f3bab0",
       "source": "La Vanguardia",
       "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
@@ -2138,18 +2167,24 @@
       "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
       "published_at": "2026-08-24T10:10:37+02:00",
-      "category": "deportes",
-      "priority": 65,
-      "title_fa": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "lead_fa": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "درگیری و ناآرامی در جشن بزرگ سیتخس",
+      "lead_fa": "شورای شهر سیتخس با انتشار بیانیه‌ای خشونت‌ها و ناآرامی‌های اخیر در جریان جشنواره محلی را به شدت محکوم کرد. این حوادث باعث توقف چند ساعته برنامه‌های جشن شد.",
+      "key_points_fa": [
+        "صدور بیانیه رسمی محکومیت خشونت توسط شهرداری سیتخس",
+        "وقوع درگیری و ناآرامی در جریان برگزاری جشن بزرگ شهر",
+        "وقفه چند ساعته در اجرای برنامه‌های جشنواره به دلیل حوادث"
+      ],
+      "analysis_fa": "بروز ناآرامی در جریان رویدادهای عمومی و جشن‌های محلی چالش‌های امنیتی و مدیریتی تازه‌ای را برای نهادهای محلی ایجاد می‌کند و واکنش سریع مقامات را به دنبال دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
+        "#اسپانیا",
+        "#سیتخس",
         "#اخبار_اسپانیا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2161,61 +2196,23 @@
       "image": "https://imagenes.elpais.com/resizer/v2/URWVW7PCGBMGPBNREFUNQXLVZQ.jpg?auth=91d6522120d410efff9d91ae21e74b938c26011515f29e53c38c7ce17f3dc265",
       "published_at": "2026-08-24T09:01:50+00:00",
       "category": "sociedad",
-      "priority": 65,
-      "title_fa": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
-      "lead_fa": "También azotarán rachas de viento muy intensas en el oeste y norte de la Península y bajarán las temperaturas de forma generalizada",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "525d78bd8e65",
-      "source": "La Vanguardia",
-      "title": "Australia pausa los visados para jóvenes de 23 países, incluida España",
-      "summary": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618648/australia-pausa-visados-jovenes-23-paises-incluido-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2011/06/23/5f9af498e44c2.r_d.491-238-0.jpeg",
-      "published_at": "2026-08-23T20:55:36+02:00",
-      "category": "politica",
-      "priority": 65,
-      "title_fa": "Australia pausa los visados para jóvenes de 23 países, incluida España",
-      "lead_fa": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd8843c431d7",
-      "source": "La Vanguardia",
-      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
-      "published_at": "2026-08-24T07:52:02+02:00",
-      "category": "sociedad",
       "priority": 64,
-      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "طوفان و بارندگی شدید در نقاطی از اسپانیا",
+      "lead_fa": "سامانه جوی جدیدی با بارندگی‌های شدید، رعد و برق و وزش باد در بخش‌هایی از اسپانیا آغاز شده است. این وضعیت با کاهش عمومی دما در سراسر شبه‌جزیره همراه خواهد بود.",
+      "key_points_fa": [
+        "بارش‌ها و طوفان‌های شدید در مناطق غربی، شمال شرقی و حوزه مدیترانه گزارش شده است.",
+        "وزش بادهای بسیار شدید مناطق غربی و شمالی شبه‌جزیره را در بر می‌گیرد.",
+        "دما هوا در مناطق مختلف به طور محسوسی کاهش می‌یابد."
+      ],
+      "analysis_fa": "این ناپایداری‌های جوی ناشی از سامانه‌های فصلی بارش‌زا هستند که با ورود به شبه‌جزیره ایبری، افت دما و وزش باد را به دنبال دارند. چنین الگوهای جوی در این فصل از سال معمولاً بخش‌های وسیعی از کشور را تحت تأثیر قرار می‌دهند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آب_وهوا",
+        "#اسپانیا",
+        "#بارندگی"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2241,17 +2238,17 @@
       "editorial_version": 2
     },
     {
-      "id": "ff131292432a",
-      "source": "EL PAÍS",
-      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
-      "published_at": "2026-08-24T05:27:05+00:00",
+      "id": "fd8843c431d7",
+      "source": "La Vanguardia",
+      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
+      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
+      "published_at": "2026-08-24T07:52:02+02:00",
       "category": "sociedad",
-      "priority": 64,
-      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
-      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "priority": 63,
+      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
+      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2296,6 +2293,28 @@
       "priority": 63,
       "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
       "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "ff131292432a",
+      "source": "EL PAÍS",
+      "title": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "summary": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-24/gustavo-dudamel-se-despide-de-la-filarmonica-de-los-angeles-con-un-concierto-por-venezuela.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207184_094039_video_1800.mp4",
+      "published_at": "2026-08-24T05:27:05+00:00",
+      "category": "sociedad",
+      "priority": 63,
+      "title_fa": "Gustavo Dudamel se despide de la Filarmónica de Los Ángeles con un concierto por Venezuela",
+      "lead_fa": "El director de orquesta venezolano suma a Chris Martin a su última presentación, antes de asumir la dirección artística y musical de la Filarmónica de Nueva York",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
