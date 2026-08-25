@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:02:40.376710+00:00",
+  "generated_at": "2026-08-25T23:34:48.351995+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b683f3cf6fec",
@@ -1469,28 +1469,6 @@
       "editorial_version": 2
     },
     {
-      "id": "5ab9c3142a51",
-      "source": "EL PAÍS Economía",
-      "title": "El encarecimiento de la energía provoca el primer déficit comercial de la UE desde 2023",
-      "summary": "Las importaciones del bloque superaron en casi 22.000 millones de euros a las exportaciones entre abril y junio, el primer saldo negativo trimestral en tres años",
-      "url": "https://elpais.com/economia/2026-08-25/el-encarecimiento-de-la-energia-provoca-el-primer-deficit-comercial-de-la-ue-desde-2023.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/URN2VFFTYZO3XIUC7G4N7YBX6E.jpg?auth=f11a683ad56d1a252db2b54107448e485622b89cfa61297b74869fdcc2603eda",
-      "published_at": "2026-08-25T17:21:02+00:00",
-      "category": "ciencia",
-      "priority": 69,
-      "title_fa": "El encarecimiento de la energía provoca el primer déficit comercial de la UE desde 2023",
-      "lead_fa": "Las importaciones del bloque superaron en casi 22.000 millones de euros a las exportaciones entre abril y junio, el primer saldo negativo trimestral en tres años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "8d86c2c42a37",
       "source": "La Vanguardia",
       "title": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
@@ -1500,16 +1478,22 @@
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
-      "lead_fa": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "احیای بازار بیت‌کوین همزمان با نگرانی‌های مالی در آمریکا",
+      "lead_fa": "بازار ارزهای دیجیتال پس از یک دوره رکود، شاهد رشد چشمگیر قیمت‌ها بوده است. این افزایش قیمت در پی ابهامات مالی ایالات متحده و بازگشت سرمایه‌گذاران رخ داده است.",
+      "key_points_fa": [
+        "خروج بازار رمزارزها از رکود و سکون گذشته",
+        "ثبت رشد تا سقف ۵۰ درصدی در عرض چند روز",
+        "نقش عوامل مرتبط با وضعیت مالی ایالات متحده در این تغییر روند"
+      ],
+      "analysis_fa": "بازگشت تقاضا و رشد قیمت بیت‌کوین نشان‌دهنده واکنش سرمایه‌گذاران به شرایط کلان اقتصادی و مسائل مالی ایالات متحده است. این نوسانات بار دیگر پویایی و حساسیت بازار رمزارزها را نسبت به تحولات اقتصادی جهان برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#بیت‌کوین",
+        "#ارزدیجیتال",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1522,16 +1506,21 @@
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "Fábulas de verano",
-      "lead_fa": "Necesitamos relatos que nos vuelvan a explicar que la desigualdad no es inevitable, sino el fruto de las dinámicas del mercado",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "افسانه‌های تابستانی و نابرابری اقتصادی",
+      "lead_fa": "روزنامه ال‌پائیس در مطلبی بر لزوم بازخوانی روایت‌ها درباره نابرابری تاکید کرد. این گزارش یادآور می‌شود که شکاف طبقاتی نتیجه محتوم پویایی‌های بازار است.",
+      "key_points_fa": [
+        "نیاز به روایت‌های جدید برای توضیح نابرابری",
+        "بررسی تاثیر پویایی‌های بازار بر عدالت اجتماعی"
+      ],
+      "analysis_fa": "این مقاله دیدگاهی انتقادی نسبت به ساختارهای اقتصادی موجود ارائه می‌دهد و استدلال می‌کند که شرایط نابرابر اقتصادی پدیده‌ای تغییرپذیر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#نابرابری",
+        "#اقتصاد",
+        "#ال‌پائیس"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1544,16 +1533,23 @@
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "economia",
       "priority": 69,
-      "title_fa": "Canadá rompe con Estados Unidos",
-      "lead_fa": "El desprecio de Trump a su histórico aliado deriva en una guerra comercial que sufrirán los ciudadanos en el bolsillo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "پایان اتحاد کانادا و آمریکا با بالا گرفتن تنش‌های تجاری",
+      "lead_fa": "روابط تجاری میان کانادا و ایالات متحده در پی رویکردهای دولت دونالد ترامپ دچار تنش جدی شده است. این وضعیت جدید نگرانی‌هایی را درباره هزینه‌های مالی برای شهروندان ایجاد کرده است.",
+      "key_points_fa": [
+        "آغاز تنش‌های تجاری میان کانادا و ایالات متحده",
+        "تأثیر منفی اختلافات بر اقتصاد شهروندان دو کشور",
+        "تغییر در روابط تاریخی دو همسایه شمالی"
+      ],
+      "analysis_fa": "افزایش تنش‌های تجاری میان کانادا و ایالات متحده نشان‌دهنده تغییرات ساختاری در مناسبات سنتی این دو متحد است. اعمال فشارها و سیاست‌های اقتصادی جدید می‌تواند ثبات بازار آمریکای شمالی را تحت تأثیر قرار دهد و پویایی‌های تجاری منطقه را دگرگون سازد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کانادا",
+        "#آمریکا",
+        "#اقتصاد",
+        "#جنگ_تجاری"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1733,6 +1729,28 @@
       "editorial_version": 2
     },
     {
+      "id": "5ab9c3142a51",
+      "source": "EL PAÍS Economía",
+      "title": "El encarecimiento de la energía provoca el primer déficit comercial de la UE desde 2023",
+      "summary": "Las importaciones del bloque superaron en casi 22.000 millones de euros a las exportaciones entre abril y junio, el primer saldo negativo trimestral en tres años",
+      "url": "https://elpais.com/economia/2026-08-25/el-encarecimiento-de-la-energia-provoca-el-primer-deficit-comercial-de-la-ue-desde-2023.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/URN2VFFTYZO3XIUC7G4N7YBX6E.jpg?auth=f11a683ad56d1a252db2b54107448e485622b89cfa61297b74869fdcc2603eda",
+      "published_at": "2026-08-25T17:21:02+00:00",
+      "category": "ciencia",
+      "priority": 68,
+      "title_fa": "El encarecimiento de la energía provoca el primer déficit comercial de la UE desde 2023",
+      "lead_fa": "Las importaciones del bloque superaron en casi 22.000 millones de euros a las exportaciones entre abril y junio, el primer saldo negativo trimestral en tres años",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "de429d5bcad7",
       "source": "EL PAÍS",
       "title": "¿Quién comercia con Irán? Los países en la diana de Trump",
@@ -1760,7 +1778,7 @@
       "title": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
       "summary": "Los nuevos gravámenes, que se dirigen a productos por un valor de unos 20.000 millones de dólares, entrarán en vigor el 8 de septiembre",
       "url": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207710_184253_video_1800.mp4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207764_224845_video_1800.mp4",
       "published_at": "2026-08-25T16:34:35+00:00",
       "category": "sociedad",
       "priority": 68,
@@ -1865,28 +1883,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6b15f2587621",
-      "source": "La Vanguardia",
-      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
-      "published_at": "2026-08-25T13:06:43+02:00",
-      "category": "turismo",
-      "priority": 67,
-      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4f5a0806e1bd",
       "source": "EL PAÍS",
       "title": "Una nueva borrasca afectará a España el miércoles y el jueves con lluvias, tormentas y vientos fuertes en el noroeste",
@@ -1920,6 +1916,28 @@
       "priority": 67,
       "title_fa": "United Airlines anuncia vuelo directo de Valencia a Nueva York con tres frecuencias semanales a partir de junio de 2027",
       "lead_fa": "El aeropuerto valenciano recupera la conexión con la ciudad norteamericana quince años después",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6b15f2587621",
+      "source": "La Vanguardia",
+      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
+      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
+      "published_at": "2026-08-25T13:06:43+02:00",
+      "category": "turismo",
+      "priority": 66,
+      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
