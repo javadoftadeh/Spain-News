@@ -1,43 +1,14 @@
 {
-  "generated_at": "2026-08-25T20:42:26.487817+00:00",
+  "generated_at": "2026-08-25T21:03:23.386827+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "02197f47c53b",
     "16b9f24f455c",
     "b683f3cf6fec",
+    "4bb7b827e8fe",
     "8005ece8bb1a",
     "623f7313c712"
   ],
   "items": [
-    {
-      "id": "02197f47c53b",
-      "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Delegación del Gobierno en Ceuta contradice a Robles y niega haber recibido información que anticipara la crisis",
-      "summary": "El PP pide la dimisión de la ministra por no impedir “la peor crisis de soberanía y de integridad territorial” | La Policía disuelve con gases lacrimógenos el reparto de alimentos en Ceuta y acordona la zona",
-      "url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AWUW75WC55EDDNXOXFQXW776VA.jpg?auth=1c31a6d74430662cf300d986812a7c286dc2a8c21ab57b73b3362f9ceb73c85e",
-      "published_at": "2026-08-25T20:09:42+00:00",
-      "category": "politica",
-      "priority": 89,
-      "title_fa": "اختلاف در دولت اسپانیا درباره بحران مهاجرت در سبته",
-      "lead_fa": "نمایندگی دولت در سبته سخنان وزیر دفاع را رد کرد و از عدم دریافت اطلاعات پیشگیرانه درباره بحران اخیر خبر داد. در همین حال، حزب مردمی خواستار استعفای وزیر شد.",
-      "key_points_fa": [
-        "نمایندگی دولت در سبته دریافت هرگونه هشدار پیشین درباره بحران را تکذیب کرد.",
-        "حزب مردمی (PP) خواستار استعفای وزیر دفاع به دلیل عدم جلوگیری از بحران حاکمیتی شد.",
-        "پلیس برای متفرق کردن تجمع توزیع غذا در سبته از گاز اشک‌آور استفاده کرد و منطقه را بست."
-      ],
-      "analysis_fa": "این تنش سیاسی نشان‌دهنده چالش‌های جدی در هماهنگی نهادهای دولتی و امنیتی اسپانیا در مدیریت مرزهای جنوبی است و فشارها بر دولت را افزایش داده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "16b9f24f455c",
       "source": "La Vanguardia",
@@ -97,6 +68,35 @@
       "editorial_version": 2
     },
     {
+      "id": "4bb7b827e8fe",
+      "source": "EL PAÍS",
+      "title": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
+      "summary": "La titular de Defensa dice en el Congreso que los servicios de Inteligencia avisaron al Gobierno, pero el ministro de Interior cierra tajante: “No hubo ningún informe ni del CNI ni de ningún centro de un país amigo”",
+      "url": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4",
+      "published_at": "2026-08-25T20:53:41+00:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "اختلاف روایت مارلاسکا و روبلس درباره گزارش‌های اطلاعاتی بحران سبته",
+      "lead_fa": "وزیر دفاع اسپانیا در کنگره اعلام کرد که سرویس‌های اطلاعاتی به دولت هشدار داده بودند. با این حال، وزیر کشور هرگونه وجود گزارش از سوی CNI یا کشورهای دوست را قاطعانه رد کرد.",
+      "key_points_fa": [
+        "مارگریتا روبلس از هشدار سرویس‌های اطلاعاتی پیش از بحران سبته خبر داد.",
+        "فرناندو گراند مارلاسکا وجود هرگونه گزارش مکتوب در این زمینه را انکار کرد.",
+        "این تناقض گویی در اظهارات دو وزیر دولت اسپانیا بازتاب گسترده‌ای داشته است."
+      ],
+      "analysis_fa": "این اختلاف نظر علنی میان وزرای دفاع و کشور اسپانیا نشان‌دهنده شکاف در روایت‌های درون‌دولتی پیرامون مدیریت بحران‌های امنیتی و مرزی است. این موضوع می‌تواند فشارهای سیاسی بر کابینه را افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#دولت_اسپانیا",
+        "#اخبار_سیاسی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "8005ece8bb1a",
       "source": "EL PAÍS",
       "title": "Dolly Parton, la leyenda de la música country, fallece a los 80 años",
@@ -126,7 +126,7 @@
     },
     {
       "id": "623f7313c712",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "Robles pide disculpas en el Congreso y reconoce que el Gobierno actuó mal y llegó tarde a Ceuta",
       "summary": "La ministra de Defensa no aclara la autoría de la crisis ni ofrece datos del balance como exige la oposición y los aliados",
       "url": "https://elpais.com/espana/2026-08-25/robles-pide-disculpas-en-el-congreso-y-reconoce-que-el-gobierno-actuo-mal-y-llego-tarde-a-ceuta.html",
@@ -177,35 +177,6 @@
         "#سبته",
         "#مهاجرت",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4bb7b827e8fe",
-      "source": "EL PAÍS",
-      "title": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
-      "summary": "La titular de Defensa dice en el Congreso que los servicios de Inteligencia avisaron al Gobierno, pero el ministro de Interior cierra tajante: “No hubo ningún informe ni del CNI ni de ningún centro de un país amigo”",
-      "url": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4",
-      "published_at": "2026-08-25T14:25:42+00:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "اختلاف روایت مارلاسکا و روبلس درباره گزارش‌های اطلاعاتی بحران سبته",
-      "lead_fa": "وزیر دفاع اسپانیا در کنگره اعلام کرد که سرویس‌های اطلاعاتی به دولت هشدار داده بودند. با این حال، وزیر کشور هرگونه وجود گزارش از سوی CNI یا کشورهای دوست را قاطعانه رد کرد.",
-      "key_points_fa": [
-        "مارگریتا روبلس از هشدار سرویس‌های اطلاعاتی پیش از بحران سبته خبر داد.",
-        "فرناندو گراند مارلاسکا وجود هرگونه گزارش مکتوب در این زمینه را انکار کرد.",
-        "این تناقض گویی در اظهارات دو وزیر دولت اسپانیا بازتاب گسترده‌ای داشته است."
-      ],
-      "analysis_fa": "این اختلاف نظر علنی میان وزرای دفاع و کشور اسپانیا نشان‌دهنده شکاف در روایت‌های درون‌دولتی پیرامون مدیریت بحران‌های امنیتی و مرزی است. این موضوع می‌تواند فشارهای سیاسی بر کابینه را افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#دولت_اسپانیا",
-        "#اخبار_سیاسی"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1250,6 +1221,33 @@
       "editorial_version": 2
     },
     {
+      "id": "5221454f211d",
+      "source": "La Vanguardia",
+      "title": "Xavi sale, habla y disfruta en la universidad del fútbol: “Hemos hecho un reset tras salir del Barça”",
+      "summary": "El seleccionador de Países Bajos se sienta con 'La Vanguardia' tras su presentación en Ámsterdam",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260825/11620016/xavi-entrevista-la-vanguardia-seleccionador-amsterdam-sale-habla-disfruta-universidad-futbol-hemos-hecho-reset-salir-barca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8deeea91f23.r_d.3000-2201-0.jpeg",
+      "published_at": "2026-08-25T22:30:00+02:00",
+      "category": "deportes",
+      "priority": 70,
+      "title_fa": "ژاوی: پس از جدایی از بارسلونا، ریست کرده‌ایم",
+      "lead_fa": "ژاوی، سرمربی تیم ملی فوتبال هلند، در گفت‌وگو با روزنامه لا وانگواردیا درباره دوران جدید کاری خود صحبت کرد. او از تجربه تازه خود ابراز رضایت کرد.",
+      "key_points_fa": [
+        "ژاوی پس از جدایی از بارسلونا وارد مرحله جدیدی از حرفه خود شده است.",
+        "او این اظهارات را پس از معرفی رسمی در آمستردام مطرح کرد."
+      ],
+      "analysis_fa": "این مصاحبه نشان‌دهنده تغییر فضای کاری ژاوی پس از ماه‌های پرفشار در بارسلونا و تمرکز او بر چالش جدید در عرصه ملی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#ژاوی",
+        "#بارسلونا",
+        "#فوتبال_هلند"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "7d786a2f22ff",
       "source": "La Vanguardia",
       "title": "Alcaraz vuelve a sonreír 133 días después junto a Serena Williams al más puro estilo NBA",
@@ -1257,40 +1255,25 @@
       "url": "https://www.lavanguardia.com/deportes/tenis/20260825/11620000/alcaraz-vuelve-sonreir-133-dias-serena-williams-mas-puro-estilo-nba.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8defad5d5de.jpeg",
       "published_at": "2026-08-25T21:52:41+02:00",
-      "category": "sociedad",
+      "category": "deportes",
       "priority": 70,
-      "title_fa": "Alcaraz vuelve a sonreír 133 días después junto a Serena Williams al más puro estilo NBA",
-      "lead_fa": "El murciano, debido a unas molestias que se agravaron en una muñeca, abandonó el Conde de Godó hace más de cuatro meses y fue baja en Wimbledon y Roland Garros: ahora vuelve en el US Open",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازگشت کارلوس آلکاراس به میادین تنیس پس از ۱۳۳ روز دوری",
+      "lead_fa": "کارلوس آلکاراس پس از ماه‌ها دوری به دلیل مصدومیت مچ دست، در اوپن آمریکا به میادین بازمی‌گردد. او پیش از مسابقات رسمی، در رویدادی در کنار سرینا ویلیامز حضور یافت.",
+      "key_points_fa": [
+        "آلکاراس به دلیل تشدید ناراحتی در مچ دست از مسابقات کونده دو گودو انصراف داده بود.",
+        "این تنیس‌باز اهل مورسیا مسابقات ویمبلدون و رولان گاروس را از دست داده بود.",
+        "او پس از ۱۳۳ روز دوری، اکنون در اوپن آمریکا آماده بازگشت به رقابت‌ها است."
+      ],
+      "analysis_fa": "مصدومیت‌های طولانی‌مدت همواره چالشی جدی برای ورزشکاران حرفه‌ای در سطح تنیس جهان محسوب می‌شوند. بازگشت آلکاراس پس از بیش از چهار ماه دوری می‌تواند پویایی تازه‌ای به مسابقات اوپن آمریکا ببخشد، هرچند میزان آمادگی کامل بدنی او پس از این وقفه طولانی هنوز در هاله‌ای از ابهام است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#آلکاراس",
+        "#تنیس",
+        "#اوپن_آمریکا",
+        "#اسپانیا"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "20fb6beb78b4",
-      "source": "EL PAÍS",
-      "title": "El juicio a Lindsay Clancy se acerca a su fin: psicólogos de la acusación y la defensa chocan sobre qué llevó a la madre a matar a sus hijos",
-      "summary": "Un experto atribuye el crimen a una fuerte depresión de la madre y a su deseo de que los niños no sufrieran si ella se suicidaba. Tras los alegatos finales, el jurado se retirará para decidir el veredicto",
-      "url": "https://elpais.com/sociedad/2026-08-25/el-juicio-a-lindsay-clancy-se-acerca-a-su-fin-psicologos-de-la-acusacion-y-la-defensa-chocan-sobre-que-llevo-a-la-madre-a-matar-a-sus-hijos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5YVN5NOI7RP7TNWVEMIJNVRU2U.jpg?auth=0932bedc7fc5a4d7fdccfd564f282176126084444e2f9b309f6d1ccd1860bcce",
-      "published_at": "2026-08-25T17:51:04+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "El juicio a Lindsay Clancy se acerca a su fin: psicólogos de la acusación y la defensa chocan sobre qué llevó a la madre a matar a sus hijos",
-      "lead_fa": "Un experto atribuye el crimen a una fuerte depresión de la madre y a su deseo de que los niños no sufrieran si ella se suicidaba. Tras los alegatos finales, el jurado se retirará para decidir el veredicto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1301,18 +1284,24 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-25/almaraz-cuando-el-relato-mata-al-dato.html",
       "image": "https://imagenes.elpais.com/resizer/v2/G2QQ7HL2KJGITEI6YZ6XRH4QMI.jpeg?auth=1bdf3d87a75a78765d8bde17c80417a3003bb379f76c8ea1f2951ed401686444",
       "published_at": "2026-08-25T03:40:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 70,
-      "title_fa": "Almaraz: cuando el relato mata al dato",
-      "lead_fa": "La prórroga de la central nuclear es una decisión política que el Ejecutivo no ha querido sostener con cifras ni con transparencia",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "الماراز: وقتی روایت بر داده غلبه می‌کند",
+      "lead_fa": "تمدید فعالیت نیروگاه هسته‌ای الماراز تصمیمی سیاسی است. دولت از پشتیبانی این تصمیم با آمار و شفافیت خودداری کرده است.",
+      "key_points_fa": [
+        "تصمیم درباره نیروگاه هسته‌ای الماراز ابعاد سیاسی دارد.",
+        "دولت از ارائه ارقام دقیق و شفافیت در این زمینه طه‌خالی کرده است."
+      ],
+      "analysis_fa": "این پرونده نشان‌دهنده چالش‌های میان تصمیم‌گیری‌های کلان سیاسی و نیاز به شفافیت اقتصادی و فنی در حوزه انرژی است. بحث بر سر نیروگاه‌های هسته‌ای همواره میان حفظ امنیت تأمین انرژی و ملاحظات زیست‌محیطی و سیاسی تقسیم شده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#الماراز",
+        "#انرژی_هسته‌ای",
+        "#اسپانیا",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1558,17 +1547,17 @@
       "editorial_version": 2
     },
     {
-      "id": "2a7aa9ca8e55",
-      "source": "La Vanguardia",
-      "title": "Xavi presentado como seleccionador de Países Bajos: “He aprendido de mi etapa en el Barça”",
-      "summary": "El entrenador de Terrassa firma hasta el 2030 y presenta su filosofía cruyffista: “Quiero que salgan, disfruten y compitan”",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260825/11619921/xavi-presentacion-seleccionador-paises-bajos-he-aprendido-mi-etapa-barca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8ddfedaf2e5.jpeg",
-      "published_at": "2026-08-25T18:15:28+02:00",
+      "id": "20fb6beb78b4",
+      "source": "EL PAÍS",
+      "title": "El juicio a Lindsay Clancy se acerca a su fin: psicólogos de la acusación y la defensa chocan sobre qué llevó a la madre a matar a sus hijos",
+      "summary": "Un experto atribuye el crimen a una fuerte depresión de la madre y a su deseo de que los niños no sufrieran si ella se suicidaba. Tras los alegatos finales, el jurado se retirará para decidir el veredicto",
+      "url": "https://elpais.com/sociedad/2026-08-25/el-juicio-a-lindsay-clancy-se-acerca-a-su-fin-psicologos-de-la-acusacion-y-la-defensa-chocan-sobre-que-llevo-a-la-madre-a-matar-a-sus-hijos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5YVN5NOI7RP7TNWVEMIJNVRU2U.jpg?auth=0932bedc7fc5a4d7fdccfd564f282176126084444e2f9b309f6d1ccd1860bcce",
+      "published_at": "2026-08-25T17:51:04+00:00",
       "category": "sociedad",
       "priority": 69,
-      "title_fa": "Xavi presentado como seleccionador de Países Bajos: “He aprendido de mi etapa en el Barça”",
-      "lead_fa": "El entrenador de Terrassa firma hasta el 2030 y presenta su filosofía cruyffista: “Quiero que salgan, disfruten y compitan”",
+      "title_fa": "El juicio a Lindsay Clancy se acerca a su fin: psicólogos de la acusación y la defensa chocan sobre qué llevó a la madre a matar a sus hijos",
+      "lead_fa": "Un experto atribuye el crimen a una fuerte depresión de la madre y a su deseo de que los niños no sufrieran si ella se suicidaba. Tras los alegatos finales, el jurado se retirará para decidir el veredicto",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2064,28 +2053,6 @@
       "editorial_version": 2
     },
     {
-      "id": "0be0e1319429",
-      "source": "La Vanguardia",
-      "title": "Cuanto el Estado falla",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
-      "published_at": "2026-08-25T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Cuanto el Estado falla",
-      "lead_fa": "",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "b46ce0ed00cc",
       "source": "EL PAÍS España",
       "title": "La familia del pequeño Siraj lleva 26 días en un polígono fantasma de Ceuta: “Nadie ha venido a preguntarnos nada”",
@@ -2460,6 +2427,28 @@
       "editorial_version": 2
     },
     {
+      "id": "0be0e1319429",
+      "source": "La Vanguardia",
+      "title": "Cuanto el Estado falla",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
+      "published_at": "2026-08-25T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Cuanto el Estado falla",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9341bdc5f237",
       "source": "La Vanguardia",
       "title": "“Con algoritmos pasé de predecir taquillas de cine a enfermedades”",
@@ -2471,6 +2460,28 @@
       "priority": 63,
       "title_fa": "“Con algoritmos pasé de predecir taquillas de cine a enfermedades”",
       "lead_fa": "Tengo 62 años: cada vez disfruto más investigando. Nací en Turquía. Me doctoré en EE.UU. e investigo con IA para mejorar su medicina y su sistema de salud. Casado: tenemos un hijo ingeniero de datos y mi hija estudia Medicina. (Foto: Arkansas U.)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f95d846ddba9",
+      "source": "EL PAÍS España",
+      "title": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
+      "summary": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
+      "url": "https://elpais.com/espana/2026-08-24/cae-un-clan-de-lancheros-gallegos-tras-alijar-1410-kilos-de-coca-para-el-cartel-de-los-balcanes.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207309_160844_video_1800.mp4",
+      "published_at": "2026-08-24T15:26:47+00:00",
+      "category": "sociedad",
+      "priority": 61,
+      "title_fa": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
+      "lead_fa": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
