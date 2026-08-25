@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-25T10:46:22.095786+00:00",
+  "generated_at": "2026-08-25T11:38:50.112572+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "02197f47c53b",
     "175162ba9729",
-    "3f3e9abd9cfa",
     "0843711b5aa4",
-    "3554430d042f"
+    "3554430d042f",
+    "f2ad7968d8ed"
   ],
   "items": [
     {
       "id": "02197f47c53b",
       "source": "EL PAÍS",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles ya comparece en el Congreso para hablar de la emergencia migratoria",
-      "summary": "El Gobierno crea un mando único y pone a Ángel Víctor Torres al frente | Sánchez ha reunido hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
+      "summary": "La ministra advierte que Ceuta y Melilla “son españolas y son intocables” | El PP pide la dimisión de la titular de Defensa y asegura que lo ocurrido “se podía haber evitado” | El Gobierno crea un mando único y pone a Ángel Víctor Torres al frente",
       "url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3VROJJZ7JFEGZGO6YXD7ZXRJPE.jpg?auth=efd85044a82af76dcee0417aa6a606f67730c805fa753ff907b8aafc2c1d47dc",
-      "published_at": "2026-08-25T10:44:08+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/2BUNIIJDAJB7BDWP7JS5ZMLEAU.jpg?auth=6c5d03ed752dd1268675984aeb3af7179be3b24a637188503e8311933541c46b",
+      "published_at": "2026-08-25T11:35:46+00:00",
       "category": "migracion",
       "priority": 89,
       "title_fa": "تشکیل جلسه شورای امنیت ملی اسپانیا بحران سبته",
@@ -41,10 +41,10 @@
     {
       "id": "175162ba9729",
       "source": "La Vanguardia",
-      "title": "Robles abre las comparecencias del Gobierno en el Congreso sobre la gestión de la crisis en Ceuta",
+      "title": "Robles comparece en el Congreso sobre la gestión de la crisis en Ceuta",
       "summary": "La ministra de Defensa deberá responder si el CNI tenía información sobre la avalancha de migrantes que entraron en la ciudad autónoma a finales de julio y qué papel jugó Marruecos",
       "url": "https://www.lavanguardia.com/politica/20260825/11619571/robles-abre-comparecencias-gobierno-congreso-sobre-gestion-crisis-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/11/69b159f30432d.r_d.1150-1119-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d6e9036593.jpeg",
       "published_at": "2026-08-25T08:55:59+02:00",
       "category": "politica",
       "priority": 82,
@@ -63,35 +63,6 @@
         "#سبته",
         "#مهاجرت",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "3f3e9abd9cfa",
-      "source": "La Vanguardia",
-      "title": "La caída del consumo de vino y los bajos precios de la uva amenazan el futuro del viticultor",
-      "summary": "Alerta por una vendimia con producción sin salida por el stock que acumula el sector del cava",
-      "url": "https://www.lavanguardia.com/local/catalunya/20260825/11617858/caida-consumo-vino-bajos-precios-uva-amenazan-futuro-viticultor.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8883dc67f81.r_d.1913-1276-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "economia",
-      "priority": 82,
-      "title_fa": "کاهش مصرف شراب و افت قیمت انگور آینده کشاورزان اسپانیایی را تهدید می‌کند",
-      "lead_fa": "بخش تولید شراب و انگور در اسپانیا با بحران انباشت محصول و کاهش تقاضا مواجه شده است. این وضعیت معیشت تولیدکنندگان را به خطر انداخته و زنگ خطر را برای صنعت کاوا به صدا درآورده است.",
-      "key_points_fa": [
-        "افت چشمگیر مصرف شراب در بازارهای داخلی و خارجی",
-        "کاهش قیمت خرید انگور از کشاورزان و تولیدکنندگان",
-        "انباشت مازاد محصول و مشکلات فروش در بخش تولید کاوا"
-      ],
-      "analysis_fa": "بحران کنونی در بخش کشاورزی و تولید شراب اسپانیا ناشی از ترکیب کاهش تقاضای عمومی و مازاد انبار شده است. تداوم این روند می‌تواند به تغییرات ساختاری در بازار و کاهش سطح زیرکشت انگور منجر شود، بدون اینکه در حال حاضر بتوان زمان مشخصی برای خروج از این رکود پیش‌بینی کرد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#کشاورزی",
-        "#شراب"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -325,10 +296,10 @@
     {
       "id": "fcbc2e1253b9",
       "source": "La Vanguardia",
-      "title": "Última hora sobre Ceuta, en directo | Últimas noticias del Consejo de Seguridad Nacional y el Consejo de Ministros por la crisis migratoria",
-      "summary": "Pedro Sánchez ha convocado una reunión extraordinaria del Consejo de Seguridad Nacional 26 días después de la entrada masiva de casi 80.000 migrantes a la ciudad autónoma",
+      "title": "Robles pide disculpas en el Congreso a los que se han sentido “abandonados”: “Estamos con ellos”",
+      "summary": "La ministra de Defensa, Margarita Robles, comparece ahora en el Congreso sobre la situación en Ceuta",
       "url": "https://www.lavanguardia.com/politica/20260825/11619548/consejo-seguridad-nacional-consejo-de-ministros-crisis-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d71a83ccbd.jpeg",
       "published_at": "2026-08-25T08:00:02+02:00",
       "category": "migracion",
       "priority": 77,
@@ -492,6 +463,113 @@
         "#سیاست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "25454fc75a40",
+      "source": "La Vanguardia",
+      "title": "Barcelona espera reabrir la Escocesa en 2029 tras invertir casi 52 millones",
+      "summary": "El antiguo recinto fabril potenciará la economía social, la vivienda asistida, el sector agroalimentario y la creación artística",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260825/11619700/barcelona-espera-reabrir-escocesa-2029-invertir-52-millones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/28/6929939d2a065.jpeg",
+      "published_at": "2026-08-25T12:35:20+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "بازگشایی کارخانه تاریخی «لا اسکوسا» در بارسلونا تا سال ۲۰۲۹",
+      "lead_fa": "شهردای بارسلونا قصد دارد مجموعه صنعتی قدیمی «لا اسکوسا» را پس از سرمایه‌گذاری حدود ۵۲ میلیون یورویی بازسازی کند. این پروژه با هدف تقویت اقتصاد اجتماعی، مسکن حمایتی و آفرینش هنری تا سال ۲۰۲۹ به بهره‌برداری می‌رسد.",
+      "key_points_fa": [
+        "حجم سرمایه‌گذاری برای این پروژه نزدیک به ۵۲ میلیون یورو برآورد شده است.",
+        "این محوطه قدیمی برای توسعه اقتصاد اجتماعی، مسکن حمایتی و بخش کشاورزی-غذایی استفاده خواهد شد.",
+        "ایجاد فضاهایی برای آفرینش هنری از دیگر محورهای اصلی این طرح شهری است."
+      ],
+      "analysis_fa": "بازسازی مجموعه‌های صنعتی قدیمی و تغییر کاربری آن‌ها به فضاهای ترکیبی مسکونی و فرهنگی، سیاستی رایج در کلان‌شهرهای اروپایی برای احیای بافت‌های فرسوده و توسعه پایدار شهری است. این طرح علاوه بر رونق بخشی به اقتصاد محلی بارسلونا، می‌تواند الگویی برای مدیریت بهینه فضاهای ناکارآمد شهری باشد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#بارسلونا",
+        "#اسپانیا",
+        "#اقتصاد_شهری",
+        "#مسکن"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "429c55aef05f",
+      "source": "EL PAÍS Economía",
+      "title": "La economía alemana crece más de lo previsto en el segundo trimestre pero sigue pendiente de la sequía",
+      "summary": "La oficina estadística federal reporta un avance del PIB del 0,3%, una décima más de lo estimado inicialmente, aunque el banco central advierte de que el bajo caudal del Rin puede estar frenando la recuperación",
+      "url": "https://elpais.com/economia/2026-08-25/la-economia-alemana-crece-mas-de-lo-previsto-en-el-segundo-trimestre-pero-sigue-pendiente-de-la-sequia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YSSQDNAEJFJN3J24KKBVDRDCQ4.jpg?auth=137796d0d3ee4fbfe0e0ea859bc7d2229f46bb4eca6590ef4741127f71fa7881",
+      "published_at": "2026-08-25T11:16:47+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "رشد اقتصادی آلمان بیش از پیش‌بینی‌ها در سه ماهه دوم",
+      "lead_fa": "اداره آمار فدرال آلمان از رشد ۰.۳ درصدی تولید ناخالص داخلی در سه ماهه دوم خبر داد. با این حال، بانک مرکزی هشدار داد که کاهش سطح آب رودخانه راین ممکن است مانع بهبود کامل اقتصادی شود.",
+      "key_points_fa": [
+        "تولید ناخالص داخلی آلمان یک دهم درصد بیشتر از برآوردهای اولیه رشد کرد.",
+        "بانک مرکزی آلمان درباره تاثیر منفی خشکسالی و کاهش سطح آب رودخانه راین هشدار داد."
+      ],
+      "analysis_fa": "رشد اقتصادی آلمان فراتر از انتظارات اولیه بوده است، اما چالش‌های زیست‌محیطی و زیرساختی مانند وضعیت رودخانه راین نشان‌دهنده شکنندگی روند احیای اقتصادی این کشور در برابر عوامل طبیعی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اقتصاد_آلمان",
+        "#رشد_اقتصادی",
+        "#اروپا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "11483ce71ba7",
+      "source": "EL PAÍS",
+      "title": "Mohamed VI preside una ceremonia religiosa en la que se alude a las ciudades autónomas españolas como “ocupadas”",
+      "summary": "El rey de Marruecos regresa a Rabat tras varias semanas de vacaciones cerca de la frontera ceutí mientras los partidos del Gobierno marcan posiciones",
+      "url": "https://elpais.com/espana/2026-08-25/mohamed-vi-preside-una-ceremonia-religiosa-en-la-que-se-alude-a-las-ciudades-autonomas-espanolas-como-ocupadas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NC5JAZCWFZBFJBQZZYANIKUGRE.jfif?auth=393958b5561f30a92b756a1d80ebe6af8c5dae7476bc2dabe27d215fba6e7bef",
+      "published_at": "2026-08-25T11:15:08+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "مراسم مذهبی در مراکش و ادعای مالکیت بر شهرهای خودمختار اسپانیا",
+      "lead_fa": "پادشاه مراکش در یک مراسم مذهبی حضور یافت که در آن شهرهای خودمختار سبته و ملیلیه اشغالی خوانده شدند. این رویداد همزمان با بازگشت وی به رباط پس از تعطیلات در نزدیکی مرز سبته رخ داد.",
+      "key_points_fa": [
+        "حضور پادشاه مراکش در مراسمی با ادبیات چالش‌برانگیز علیه حاکمیت اسپانیا",
+        "بازگشت پادشاه به رباط پس از چندین هفته تعطیلات در نزدیکی مرز سبته",
+        "موضع‌گیری احزاب سیاسی مراکش همزمان با تحولات اخیر مرزی"
+      ],
+      "analysis_fa": "این سخنان در چارچوب لحن همیشگی مقامات مراکشی درباره شهرهای سبته و ملیلیه مطرح شده است. با وجود تعطیلات پادشاه در مناطق مرزی و موضع‌گیری احزاب، روابط دیپلماتیک دو کشور همچنان تحت تأثیر مسائل راهبردی قرار دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مراکش",
+        "#اسپانیا",
+        "#سبته",
+        "#ملیلیه"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "f10586cfae99",
+      "source": "EL PAÍS",
+      "title": "Irán amenaza con represalias tras la tibia ampliación de las sanciones de Estados Unidos",
+      "summary": "El régimen asegura estar preparado para afrontar las medidas con las que Washington busca aislar aún más su economía",
+      "url": "https://elpais.com/internacional/2026-08-25/iran-amenaza-con-represalias-tras-la-tibia-ampliacion-de-las-sanciones-de-estados-unidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OGFPQP2525EHBP7BZ47YZNYKHI.jpg?auth=cf8ea8dd043922c900ca1d7c9f17e9c07218e4a75b370a9dfc6418b45e660369",
+      "published_at": "2026-08-25T10:51:21+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Irán amenaza con represalias tras la tibia ampliación de las sanciones de Estados Unidos",
+      "lead_fa": "El régimen asegura estar preparado para afrontar las medidas con las que Washington busca aislar aún más su economía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -661,35 +739,6 @@
       "editorial_version": 2
     },
     {
-      "id": "26a603059396",
-      "source": "EL PAÍS",
-      "title": "Operación ‘Paria Económico’: Estados Unidos apuesta por aislar a Irán de los países aliados que sostienen sus finanzas",
-      "summary": "El secretario del Tesoro, Scott Bessent, ha lanzado “un disparo de advertencia” a los socios de Teherán, a los que amenaza con sanciones, pero sin concretar el anunciado “día D económico”",
-      "url": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207432_214531_video_1800.mp4",
-      "published_at": "2026-08-24T17:34:21+00:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "هشدار خزانه داری آمریکا به کشورهای همکار با ایران",
-      "lead_fa": "اسکات بسنت، وزیر خزانه‌داری آمریکا، به کشورهای طرف معامله با ایران هشدار داد. این موضع‌گیری در قالب یک اخطار سیاستی بدون اعلام تحریم‌های مشخص مطرح شد.",
-      "key_points_fa": [
-        "هشدار وزیر خزانه‌داری آمریکا به شرکای اقتصادی تهران",
-        "عدم اعلام تحریم‌های جدید یا مهلت زمانی مشخص در این مرحله",
-        "توصیف این موضع‌گیری به عنوان یک شلیک هشداردهنده"
-      ],
-      "analysis_fa": "این موضع‌گیری نشان‌دهنده تداوم سیاست فشار اقتصادی بر تهران و هشدار به بازیگران بین‌المللی برای کاهش روابط تجاری با ایران است، بدون اینکه تاکنون اقدام عملی تازه‌ای مانند وضع تحریم‌های جدید رونمایی شده باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#آمریکا",
-        "#ایران",
-        "#اقتصاد",
-        "#تحریم"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "3355bb651172",
       "source": "EL PAÍS Economía",
       "title": "Draghi lanza un grupo de trabajo para materializar su agenda de reformas europeas",
@@ -801,34 +850,6 @@
       "editorial_version": 2
     },
     {
-      "id": "3df75562a653",
-      "source": "La Vanguardia",
-      "title": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
-      "summary": "La dirección de Génova insiste en incluir a menores y enfermos en el retorno",
-      "url": "https://www.lavanguardia.com/politica/20260825/11619335/pp-exige-repatriaciones-politica-social-marruecos-debe-hacerla-rabat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c631224841.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "درخواست حزب مردمی اسپانیا برای بازگشت مهاجران از جمله بیماران و افراد زیرسن",
-      "lead_fa": "رهبری حزب مردمی اسپانیا بر لزوم اخراج و بازگرداندن مهاجران تأکید کرد. این حزب معتقد است مسئولیت سیاست‌های اجتماعی مراکش بر عهده رباط است.",
-      "key_points_fa": [
-        "حزب مردمی اسپانیا خواستار گنجاندن افراد زیرسن و بیماران در روند بازگشت مهاجران شد.",
-        "این موضع‌گیری بر لزوم پذیرش مسئولیت‌های اجتماعی مهاجران توسط دولت مراکش تأکید دارد."
-      ],
-      "analysis_fa": "طرح این موضوع از سوی حزب مردمی بازتاب‌دهنده رویکرد سخت‌گیرانه‌تر جریان‌های سیاسی مخالف در قبال مدیریت مهاجرت و روابط دوجانبه با مراکش است. این رویکرد می‌تواند فشارهای سیاسی بر دولت مرکزی اسپانیا را در حوزه سیاست خارجی و مهاجرتی افزایش دهد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مراکش",
-        "#مهاجرت",
-        "#حزب_مردمی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9ff1deb1c851",
       "source": "La Vanguardia",
       "title": "Ulrich Siegmund, el nuevo rostro de la ultraderecha alemana",
@@ -915,34 +936,6 @@
       "editorial_version": 2
     },
     {
-      "id": "676c6b345906",
-      "source": "EL PAÍS Economía",
-      "title": "No solo la obra pública: los servicios esenciales piden revisar precios para contratar con la Administración",
-      "summary": "El sector se queja de que la ley de desindexación impide revisar los contratos públicos y asfixia económicamente actividades intensivas en mano de obra, como los cuidados o la asistencia domiciliaria",
-      "url": "https://elpais.com/economia/2026-08-24/no-solo-la-obra-publica-los-servicios-esenciales-piden-revisar-precios-para-contratar-con-la-administracion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QUXU5D3FYBEFVHU3KJM6A4YLDI.jpg?auth=b3125c14eb4354a9957f83512208cbc957059e2bfdc6b5f4a53fe9a3bf3dc501",
-      "published_at": "2026-08-24T03:45:01+00:00",
-      "category": "economia",
-      "priority": 74,
-      "title_fa": "درخواست بخش خدمات عمومی اسپانیا برای بازبینی قیمت قراردادهای دولتی",
-      "lead_fa": "بخش خدمات عمومی و مراقبت در اسپانیا خواستار بازبینی قیمت قراردادهای دولتی شدند. آن‌ها قانون عدم‌تطبیق را مانع اصلی پایداری اقتصادی این فعالیت‌ها می‌دانند.",
-      "key_points_fa": [
-        "شکایت بخش خدمات عمومی از قانون عدم‌تطبیق در قراردادهای دولتی",
-        "تأثیر منفی قوانین فعلی بر فعالیت‌های کاربرمانند مانند مراقبت و assistência",
-        "فشار اقتصادی بر شرکت‌های طرف قرارداد با دولت"
-      ],
-      "analysis_fa": "این مطالبه نشان‌دهنده چالش‌های ساختاری در قراردادهای عمومی اسپانیا است، جایی که تورم و افزایش هزینه‌های دستمزد با قوانین سفت‌وسخت فعلی همخوانی ندارد. عدم اصلاح این رویه می‌تواند به افت کیفیت خدمات منجر شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اقتصاد",
-        "#خدمات_عمومی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f1c4f92ca64d",
       "source": "La Vanguardia",
       "title": "La leyenda de los Pérez de las Shetland",
@@ -968,6 +961,28 @@
         "#تاریخ"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "8d86c2c42a37",
+      "source": "La Vanguardia",
+      "title": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
+      "summary": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
+      "url": "https://www.lavanguardia.com/economia/20260825/11619311/bitcoin-cotizacion-eeuu-comprar-etf-inversores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c71a4bbc1c.r_d.457-270-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "economia",
+      "priority": 73,
+      "title_fa": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
+      "lead_fa": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1180,28 +1195,6 @@
       "priority": 73,
       "title_fa": "“Busco donde tener una familia y encuentro pisos turísticos”",
       "lead_fa": "Los lectores critican la escasa oferta de vivienda nueva, se suman a los debates sobre la recuperación de la mili y la baja natalidad, y agradecen un gesto humano",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9951bc791d48",
-      "source": "EL PAÍS",
-      "title": "Fábulas de verano",
-      "summary": "Necesitamos relatos que nos vuelvan a explicar que la desigualdad no es inevitable, sino el fruto de las dinámicas del mercado",
-      "url": "https://elpais.com/opinion/2026-08-25/fabulas-de-verano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CC4PWEQ7HFGTDCRIHTRL2D3OEA.jpg?auth=a91a63063495802ed3a95a570ee498950a188d488477cd4c6863e396d05793bf",
-      "published_at": "2026-08-25T03:30:01+00:00",
-      "category": "economia",
-      "priority": 73,
-      "title_fa": "Fábulas de verano",
-      "lead_fa": "Necesitamos relatos que nos vuelvan a explicar que la desigualdad no es inevitable, sino el fruto de las dinámicas del mercado",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1453,6 +1446,28 @@
       "editorial_version": 2
     },
     {
+      "id": "dbb09118aa31",
+      "source": "La Vanguardia",
+      "title": "Detenido en Mallorca un entrenador de voleibol por violar a una menor y dejarla embarazada",
+      "summary": "La juez le ha dejado en libertad con una orden de alejamiento de la víctima",
+      "url": "https://www.lavanguardia.com/sucesos/20260825/11619652/detenido-mallorca-entrenador-voleibol-violar-menor-dejarla-embarazada.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925b00577eb8.jpeg",
+      "published_at": "2026-08-25T12:12:02+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Detenido en Mallorca un entrenador de voleibol por violar a una menor y dejarla embarazada",
+      "lead_fa": "La juez le ha dejado en libertad con una orden de alejamiento de la víctima",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "a7aa9064f423",
       "source": "La Vanguardia",
       "title": "La nómina de las pensiones crece un 6,2% y alcanza el récord de los 14.470 millones",
@@ -1527,7 +1542,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/7T3S2PBW6RGGBJW2CB5V4WUA6E.jpg?auth=293cef8c174b0d2888623b9304597bffea18e2ba2d2be8636fa15c55a0c541de",
       "published_at": "2026-08-25T07:58:00+00:00",
       "category": "sociedad",
-      "priority": 70,
+      "priority": 69,
       "title_fa": "Detenido un entrenador por violar y dejar embarazada a una menor en Palma",
       "lead_fa": "El joven invitó a comer a su casa a la víctima y a otra niña, y allí la agredió sexualmente",
       "key_points_fa": [],
@@ -1673,28 +1688,6 @@
       "editorial_version": 2
     },
     {
-      "id": "f54ed7b74993",
-      "source": "La Vanguardia",
-      "title": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
-      "summary": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
-      "url": "https://www.lavanguardia.com/politica/20260825/11619201/laura-vilagra-increible-corrupcion-desgaste-electoralmente.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c4aa193e78.r_d.2300-1015-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
-      "lead_fa": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "bf371304e484",
       "source": "La Vanguardia",
       "title": "El Teatro Balmes abre en noviembre con 490 butacas para el humor",
@@ -1717,17 +1710,17 @@
       "editorial_version": 2
     },
     {
-      "id": "9abeb48bdbab",
+      "id": "f54ed7b74993",
       "source": "La Vanguardia",
-      "title": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
-      "summary": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
-      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260825/11613274/como-conseguir-ahorrar-bolsillo-podcast-pca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7db4f758c5d.r_d.1090-624-0.jpeg",
+      "title": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
+      "summary": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
+      "url": "https://www.lavanguardia.com/politica/20260825/11619201/laura-vilagra-increible-corrupcion-desgaste-electoralmente.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c4aa193e78.r_d.2300-1015-0.jpeg",
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
-      "lead_fa": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
+      "title_fa": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
+      "lead_fa": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1739,17 +1732,17 @@
       "editorial_version": 2
     },
     {
-      "id": "5a4fe8a49851",
+      "id": "9abeb48bdbab",
       "source": "La Vanguardia",
-      "title": "De Oques Grasses a The Strokes, 10 conciertos para el otoño",
-      "summary": "El final de año ofrece de la nostalgia de La Oreja de Van Gogh a la extravagancia de Ca7riel & Paco Amoroso",
-      "url": "https://www.lavanguardia.com/cultura/20260825/11619296/oques-grasses-the-strokes-10-conciertos-otono.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c6a0195a95.r_d.486-322-0.jpeg",
+      "title": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
+      "summary": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
+      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260825/11613274/como-conseguir-ahorrar-bolsillo-podcast-pca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7db4f758c5d.r_d.1090-624-0.jpeg",
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "sociedad",
       "priority": 68,
-      "title_fa": "De Oques Grasses a The Strokes, 10 conciertos para el otoño",
-      "lead_fa": "El final de año ofrece de la nostalgia de La Oreja de Van Gogh a la extravagancia de Ca7riel & Paco Amoroso",
+      "title_fa": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
+      "lead_fa": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2478,7 +2471,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 143
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
@@ -2493,7 +2486,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 126
+      "count": 124
     }
   ]
 }
