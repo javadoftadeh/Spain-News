@@ -1,14 +1,72 @@
 {
-  "generated_at": "2026-08-25T07:12:20.108270+00:00",
+  "generated_at": "2026-08-25T07:55:26.708016+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "02197f47c53b",
+    "175162ba9729",
     "3f3e9abd9cfa",
     "0843711b5aa4",
-    "3554430d042f",
-    "f2ad7968d8ed",
-    "83c6d2128e60"
+    "3554430d042f"
   ],
   "items": [
+    {
+      "id": "02197f47c53b",
+      "source": "EL PAÍS",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
+      "summary": "El Gobierno crea un mando único y pone a Ángel Víctor Torres al frente | Siete ministros comparecerán en el Congreso por la crisis migratoria, empezando hoy por Margarita Robles",
+      "url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6EWA5TJFXRHDJDDE7JNDILOOSY.jpg?auth=57ff22ddbc9e726cd91dc40707bada47c60b10d2913376c90fb3332af8d353b0",
+      "published_at": "2026-08-25T07:36:38+00:00",
+      "category": "migracion",
+      "priority": 89,
+      "title_fa": "تشکیل جلسه شورای امنیت ملی اسپانیا بحران سبته",
+      "lead_fa": "دولت اسپانیا برای مدیریت بحران مهاجرت در سبته فرماندهی واحدی ایجاد کرد. پدرو سانچز امروز شورای امنیت ملی را برای بررسی این وضعیت تشکیل می‌دهد.",
+      "key_points_fa": [
+        "آنخل ویکتور تورس به عنوان مسئول فرماندهی واحد جدید منصوب شد.",
+        "هفت وزیر دولت برای پاسخگویی درباره بحران مهاجرت در کنگره حضور می‌یابند.",
+        "مارگاریتا روبلس امروز نخستین وزیری است که در پارلمان گزارش می‌دهد."
+      ],
+      "analysis_fa": "افزایش ورود مهاجران به سبته واکنش فوری دولت مرکزی را به همراه داشته است. ایجاد فرماندهی واحد و حضور وزرا در پارلمان نشان‌دهنده تلاش مادرید برای مدیریت متمرکز و پاسخگویی سیاسی به این بحران است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "breaking",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجرت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "175162ba9729",
+      "source": "La Vanguardia",
+      "title": "Robles abre las comparecencias del Gobierno en el Congreso sobre la gestión de la crisis en Ceuta",
+      "summary": "La ministra de Defensa deberá responder si el CNI tenía información sobre la avalancha de migrantes que entraron en la ciudad autónoma a finales de julio y qué papel jugó Marruecos",
+      "url": "https://www.lavanguardia.com/politica/20260825/11619571/robles-abre-comparecencias-gobierno-congreso-sobre-gestion-crisis-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/11/69b159f30432d.r_d.1150-1119-0.jpeg",
+      "published_at": "2026-08-25T08:55:59+02:00",
+      "category": "politica",
+      "priority": 82,
+      "title_fa": "حضور وزیر دفاع اسپانیا در کنگره برای پاسخگویی درباره بحران سبته",
+      "lead_fa": "مارگاریتا روبلز، وزیر دفاع اسپانیا، نخستین مقام دولتی است که در کنگره درباره مدیریت بحران سبته توضیح می‌دهد. او باید درباره اطلاعات سازمان اطلاعات و نقش مراکش در ورود مهاجران پاسخ دهد.",
+      "key_points_fa": [
+        "آغاز دور جدید پاسخگویی دولتمردان اسپانیا در کنگره درباره بحران مهاجرتی سبته",
+        "تمرکز پرسش‌ها بر عملکرد سازمان اطلاعات و نقش دولت مراکش در این رویداد",
+        "حضور وزیر دفاع به عنوان نخستین مقام کابینه برای شفاف‌سازی بحران اواخر ژوئیه"
+      ],
+      "analysis_fa": "این حضور پارلمانی پاسخی به فشارهای سیاسی برای شفاف‌سازی ابعاد اطلاعاتی و دیپلماتیک بحران اخیر در مرزهای سبته است. چگونگی ارزیابی عملکرد نهادهای امنیتی و روابط با مراکش در کانون توجه احزاب سیاسی قرار دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#مهاجرت",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "3f3e9abd9cfa",
       "source": "La Vanguardia",
@@ -68,7 +126,7 @@
     },
     {
       "id": "3554430d042f",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS España",
       "title": "Robles reafirmará la labor de las Fuerzas Armadas y la españolidad de Ceuta en el Congreso",
       "summary": "La ministra de Defensa estrena las explicaciones del Gobierno sobre su gestión de la crisis basada en la “legalidad, colaboración institucional y respeto a los derechos humanos”",
       "url": "https://elpais.com/espana/2026-08-25/robles-reafirmara-la-labor-de-las-fuerzas-armadas-y-la-espanolidad-de-ceuta-en-el-congreso.html",
@@ -182,10 +240,10 @@
     {
       "id": "fcbc2e1253b9",
       "source": "La Vanguardia",
-      "title": "La reunión extraordinaria del Consejo de Seguridad Nacional sobre la crisis de Ceuta presidida por Pedro Sánchez, en directo",
+      "title": "Última hora: Pedro Sánchez preside la reunión extraordinaria del Consejo de Seguridad Nacional sobre la crisis de Ceuta, en directo",
       "summary": "26 días después de la entrada masiva de casi 80.000 migrantes a Ceuta, se tratará la situación en la ciudad autónoma en este órgano",
       "url": "https://www.lavanguardia.com/politica/20260825/11619548/consejo-seguridad-nacional-consejo-de-ministros-crisis-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a770e9a68478.r_d.1549-1426-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/17/6a82ecd5a78e8.jpeg",
       "published_at": "2026-08-25T08:00:02+02:00",
       "category": "migracion",
       "priority": 77,
@@ -440,7 +498,7 @@
       "id": "563d3199c824",
       "source": "La Vanguardia",
       "title": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
-      "summary": "El Consejo de Ministros nombrará hoy como responsable a Víctor Ángel Torres",
+      "summary": "El Consejo de Ministros nombrará hoy como responsable a Ángel Víctor Torres",
       "url": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d31089eb7b.jpeg",
       "published_at": "2026-08-25T06:00:00+02:00",
@@ -636,7 +694,7 @@
       "title": "Ulrich Siegmund, el nuevo rostro de la ultraderecha alemana",
       "summary": "El partido Alternativa para Alemania (AfD) roza la mayoría absoluta en los sondeos de las elecciones de Sajonia-Anhalt y aspira a gobernar",
       "url": "https://www.lavanguardia.com/internacional/20260825/11619331/ulrich-siegmund-nuevo-rostro-ultraderecha-alemania-afd-sajonia-anhalt.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c7ba290647.r_d.2300-1533-0.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d3fdc0837e.jpeg",
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "politica",
       "priority": 74,
@@ -668,16 +726,23 @@
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "economia",
       "priority": 74,
-      "title_fa": "El paraguas de sol deja de ser una excentricidad asiática y se convierte en accesorio del verano",
-      "lead_fa": "El mercado del paraguas solar superó los 1.600 millones de dólares en 2025 y crece un 7% anual: la investigación científica confirma que reduce hasta 10 grados la temperatura radiante",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "فراگیری چترهای ضدآفتاب در تابستان اسپانیا",
+      "lead_fa": "بازار جهانی چترهای ضدآفتاب در سال ۲۰۲۵ از مرز ۱.۶ میلیارد دلار گذشت و سالانه ۷ درصد رشد می‌کند. تحقیقات علمی تأیید می‌کنند که این وسیله دمای تابشی را تا ۱۰ درجه کاهش می‌دهد.",
+      "key_points_fa": [
+        "ارزش بازار چترهای ضدآفتاب در سال ۲۰۲۵ از ۱.۶ میلیارد دلار فراتر رفت.",
+        "این بازار با نرخ رشد سالانه ۷ درصد در حال توسعه است.",
+        "پژوهش‌های علمی نشان می‌دهند که استفاده از این چترها می‌تواند دمای تابشی را تا ۱۰ درجه کاهش دهد."
+      ],
+      "analysis_fa": "افزایش محبوبیت چترهای ضدآفتاب در تابستان‌های اسپانیا نشان‌دهنده تغییر الگوهای رفتاری مصرف‌کنندگان در برابر گرمای فزاینده است. این روند که پیش‌تر در آسیا رایج بود، اکنون به دلیل نیاز به حفاظت مؤثرتر در برابر تابش شدید خورشید، به بازارهای غربی نیز راه یافته و فرصت‌های اقتصادی جدیدی ایجاد کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#تابستان",
+        "#سلامت"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1176,50 +1241,6 @@
       "editorial_version": 2
     },
     {
-      "id": "329f2e8f8ab7",
-      "source": "La Vanguardia",
-      "title": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
-      "summary": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
-      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260825/11618963/elisabetta-franchi-creo-empoderamiento-signifique-renunciar-feminidad-deseo-sentirse-bella.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c19b7c1a6b.r_d.3127-1896-0.jpeg",
-      "published_at": "2026-08-25T06:29:11+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
-      "lead_fa": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2fd0de70db7b",
-      "source": "La Vanguardia",
-      "title": "Las playas que se han puesto de moda este verano en España",
-      "summary": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
-      "url": "https://www.lavanguardia.com/magazine/viajes/20260825/11618939/playas-han-puesto-moda-verano-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c0efb7196a.r_d.939-1001-0.jpeg",
-      "published_at": "2026-08-25T06:23:02+02:00",
-      "category": "turismo",
-      "priority": 70,
-      "title_fa": "Las playas que se han puesto de moda este verano en España",
-      "lead_fa": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6c11e9e2cc40",
       "source": "La Vanguardia",
       "title": "El Chelsea de Xabi Alonso se impone al Fulham de Arbeloa en la Premier League",
@@ -1274,6 +1295,50 @@
         "#سرمایه_گذاری"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "329f2e8f8ab7",
+      "source": "La Vanguardia",
+      "title": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
+      "summary": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260825/11618963/elisabetta-franchi-creo-empoderamiento-signifique-renunciar-feminidad-deseo-sentirse-bella.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c19b7c1a6b.r_d.3127-1896-0.jpeg",
+      "published_at": "2026-08-25T06:29:11+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
+      "lead_fa": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2fd0de70db7b",
+      "source": "La Vanguardia",
+      "title": "Las playas que se han puesto de moda este verano en España",
+      "summary": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260825/11618939/playas-han-puesto-moda-verano-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c0efb7196a.r_d.939-1001-0.jpeg",
+      "published_at": "2026-08-25T06:23:02+02:00",
+      "category": "turismo",
+      "priority": 69,
+      "title_fa": "Las playas que se han puesto de moda este verano en España",
+      "lead_fa": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1508,28 +1573,6 @@
       "priority": 69,
       "title_fa": "De Oques Grasses a The Strokes, 10 conciertos para el otoño",
       "lead_fa": "El final de año ofrece de la nostalgia de La Oreja de Van Gogh a la extravagancia de Ca7riel & Paco Amoroso",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0534ddcb6a87",
-      "source": "La Vanguardia",
-      "title": "La sociedad ha quedado configurada para los jóvenes y a los mayores nos deja fuera”",
-      "summary": "Premio Planeta y quinta mujer académica de la RAE, Puértolas es un referente de las letras españolas, además de ser una mujer que lucha por la igualdad porque “es lo lógico, lo justo y enriquece cualquier campo”",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260825/11608233/soledad-puertolas-escritora-79-anos-sociedad-quedado-configurada-jovenes-mayores-avances-tecnicos-dejan-fuera.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72fe0d6d36f.r_d.3314-894-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La sociedad ha quedado configurada para los jóvenes y a los mayores nos deja fuera”",
-      "lead_fa": "Premio Planeta y quinta mujer académica de la RAE, Puértolas es un referente de las letras españolas, además de ser una mujer que lucha por la igualdad porque “es lo lógico, lo justo y enriquece cualquier campo”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2201,28 +2244,6 @@
       "editorial_version": 2
     },
     {
-      "id": "882e6bd90add",
-      "source": "La Vanguardia",
-      "title": "Una experiencia ‘vintage’",
-      "summary": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
-      "url": "https://www.lavanguardia.com/opinion/20260825/11618970/experiencia-vintage.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c1a321940c.r_d.1660-961-0.jpeg",
-      "published_at": "2026-08-25T00:30:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Una experiencia ‘vintage’",
-      "lead_fa": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "175170833d43",
       "source": "La Vanguardia",
       "title": "Londres ayudará a Kyiv a fabricar misiles de largo alcance ante la escasez de Patriots",
@@ -2336,6 +2357,28 @@
       "editorial_version": 2
     },
     {
+      "id": "882e6bd90add",
+      "source": "La Vanguardia",
+      "title": "Una experiencia ‘vintage’",
+      "summary": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
+      "url": "https://www.lavanguardia.com/opinion/20260825/11618970/experiencia-vintage.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c1a321940c.r_d.1660-961-0.jpeg",
+      "published_at": "2026-08-25T00:30:00+02:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Una experiencia ‘vintage’",
+      "lead_fa": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9341bdc5f237",
       "source": "La Vanguardia",
       "title": "“Con algoritmos pasé de predecir taquillas de cine a enfermedades”",
@@ -2400,28 +2443,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "090ada3b6a0e",
-      "source": "EL PAÍS Economía",
-      "title": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
-      "summary": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
-      "url": "https://elpais.com/economia/negocios/2026-08-24/kimberly-byron-match-hospitality-la-gente-lo-que-mas-valora-es-no-tener-que-hacer-cola-y-esta-dispuesta-a-pagar-por-ello.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YY2U4WRRBRERXIKNKZKTTSSZH4.jpg?auth=80e668263751cc251acc6ced850993e1299ecf68b0d8727fff9eccc407e39053",
-      "published_at": "2026-08-24T03:30:00+00:00",
-      "category": "sociedad",
-      "priority": 61,
-      "title_fa": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
-      "lead_fa": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2468,7 +2489,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 128
     }
   ]
 }
