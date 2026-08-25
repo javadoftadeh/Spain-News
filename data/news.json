@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-08-25T04:50:27.641489+00:00",
+  "generated_at": "2026-08-25T05:44:12.374652+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "3f3e9abd9cfa",
     "0843711b5aa4",
     "3554430d042f",
     "f2ad7968d8ed",
-    "83c6d2128e60",
-    "f229ea5a67e3"
+    "83c6d2128e60"
   ],
   "items": [
+    {
+      "id": "3f3e9abd9cfa",
+      "source": "La Vanguardia",
+      "title": "La caída del consumo de vino y los bajos precios de la uva amenazan el futuro del viticultor",
+      "summary": "Alerta por una vendimia con producción sin salida por el stock que acumula el sector del cava",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260825/11617858/caida-consumo-vino-bajos-precios-uva-amenazan-futuro-viticultor.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8883dc67f81.r_d.1913-1276-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "economia",
+      "priority": 82,
+      "title_fa": "کاهش مصرف شراب و افت قیمت انگور آینده کشاورزان اسپانیایی را تهدید می‌کند",
+      "lead_fa": "بخش تولید شراب و انگور در اسپانیا با بحران انباشت محصول و کاهش تقاضا مواجه شده است. این وضعیت معیشت تولیدکنندگان را به خطر انداخته و زنگ خطر را برای صنعت کاوا به صدا درآورده است.",
+      "key_points_fa": [
+        "افت چشمگیر مصرف شراب در بازارهای داخلی و خارجی",
+        "کاهش قیمت خرید انگور از کشاورزان و تولیدکنندگان",
+        "انباشت مازاد محصول و مشکلات فروش در بخش تولید کاوا"
+      ],
+      "analysis_fa": "بحران کنونی در بخش کشاورزی و تولید شراب اسپانیا ناشی از ترکیب کاهش تقاضای عمومی و مازاد انبار شده است. تداوم این روند می‌تواند به تغییرات ساختاری در بازار و کاهش سطح زیرکشت انگور منجر شود، بدون اینکه در حال حاضر بتوان زمان مشخصی برای خروج از این رکود پیش‌بینی کرد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#اقتصاد",
+        "#کشاورزی",
+        "#شراب"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "0843711b5aa4",
       "source": "EL PAÍS",
@@ -244,18 +273,25 @@
       "url": "https://elpais.com/economia/2026-08-25/china-ya-tiene-un-culpable-de-su-crisis-inmobiliaria-pero-sigue-sin-encontrar-la-solucion.html",
       "image": "https://imagenes.elpais.com/resizer/v2/EY7CR7Z6VFITNKTOCLX5B6TF54.jpg?auth=c03f769cb907a3bd601a141f195f2194083423c9687c667fd1a5275ffac5dbb5",
       "published_at": "2026-08-25T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 77,
-      "title_fa": "China ya tiene un culpable de su crisis inmobiliaria, pero sigue sin encontrar la solución",
-      "lead_fa": "La cadena perpetua al fundador del gigante quebrado Evergrande llega con las promotoras públicas ganando terreno; pero crédito, inversión y demanda continúan retrocediendo",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بحران مسکن در چین؛ حبس ابد برای بنیانگذار اورگراند",
+      "lead_fa": "بنیانگذار شرکت ورشکسته اورگراند به حبس ابد محکوم شد. با وجود این اقدام، بخش مسکن چین همچنان با رکود در سرمایه‌گذاری و تقاضا روبروست.",
+      "key_points_fa": [
+        "صدور حکم حبس ابد برای بنیانگذار غول املاک اورگراند در چین",
+        "افزایش نقش و حضور شرکت‌های توسعه‌دهنده دولتی در بازار مسکن",
+        "ادامه روند نزولی در بخش‌های اعتبار، سرمایه‌گذاری و تقاضا"
+      ],
+      "analysis_fa": "صدور احکام سنگین برای مدیران شرکت‌های بزرگ ورشکسته نشان‌دهنده تلاش دولت چین برای برخورد با مسئولان بحران است، اما مشکلات ساختاری بازار مسکن و افت تقاضا با برخوردهای قضایی به تنهایی حل نمی‌شود.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#چین",
+        "#بحران_مسکن",
+        "#اورگراند",
+        "#اقتصاد"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -282,34 +318,6 @@
         "#آنتونیوکویستا",
         "#کی‌یف",
         "#اروپا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "4a5ea72f9fcd",
-      "source": "La Vanguardia",
-      "title": "Detenido en Barcelona por quemar más de 100 contenedores en Sarrià-Sant Gervasi",
-      "summary": "El Ayuntamiento calcula que los daños causados por estos incendios ascienden a unos 115.000 euros",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260824/11619256/detenido-barcelona-quemar-mas-100-contenedores-sarria-sant-gervasi.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/10/16/5fa534844aa8d.jpeg",
-      "published_at": "2026-08-24T17:20:25+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "دستگیری فردی به ازای به آتش کشیدن بیش از ۱۰۰ سطل زباله در بارسلونا",
-      "lead_fa": "مردی در منطقه ساریا-سانت ژرواسی بارسلونا به اتهام آتش زدن بیش از ۱۰۰ سطل زباله دستگیر شد. شهرداری بارسلونا خسارت ناشی از این آتش‌سوزی‌ها را حدود ۱۱۵ هزار یورو برآورد کرده است.",
-      "key_points_fa": [
-        "دستگیری فرد متهم به تخریب اموال عمومی در بارسلونا",
-        "آتش زدن بیش از ۱۰۰ سطل زباله در منطقه ساریا-سانت ژرواسی",
-        "برآورد مالی خسارت‌ها در حدود ۱۱۵ هزار یورو توسط شهرداری"
-      ],
-      "analysis_fa": "این دستگیری پس از ماه‌ها خسارت به زیرساخت‌های شهری و نارضایتی شهروندان از تخریب اموال عمومی صورت گرفته است. تحقیقات پلیس برای بررسی ابعاد کامل این پرونده و انگیزه‌های متهم همچنان ادامه دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#حوادث",
-        "#اسپانیا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -400,35 +408,6 @@
       "editorial_version": 2
     },
     {
-      "id": "612b2d507c16",
-      "source": "La Vanguardia",
-      "title": "Levantan el confinamiento de los vecinos de Gátova afectados por el incendio de Segorbe",
-      "summary": "El levantamiento de las restricciones permite recuperar la actividad habitual, aunque siguen cerrados los accesos al monte y los vecinos deberán consumir agua embotellada hasta conocer las nuevas analíticas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260824/11619225/levantan-confinamiento-vecinos-gatova-afectados-incendio-segorbe.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c52a000448.jpeg",
-      "published_at": "2026-08-24T16:19:24+02:00",
-      "category": "sociedad",
-      "priority": 76,
-      "title_fa": "پایان قرنطینه اهالی گاتوا در پی کنترل آتش‌سوزی سگوربه",
-      "lead_fa": "محدودیت‌های تردد در منطقه گاتوا پس از مهار آتش‌سوزی برداشته شد. با این حال، دسترسی به مناطق جنگلی همچنان ممنوع است.",
-      "key_points_fa": [
-        "لغو محدودیت‌ها به ساکنان اجازه بازگشت به فعالیت‌های عادی را داد.",
-        "ورود به مناطق کوهستانی و جنگلی همچنان مسدود است.",
-        "اهالی باید تا زمان انتشار نتایج آزمایش‌های جدید، از آب بسته‌بندی استفاده کنند."
-      ],
-      "analysis_fa": "مهار این آتش‌سوزی به بحران محلی پایان داد، اما ادامه محدودیت دسترسی به کوهستان و پایش کیفیت آب نشان می‌دهد که بازگشت کامل به شرایط عادی نیازمند زمان و بررسی‌های بیشتر است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آتش‌سوزی",
-        "#گاتوا",
-        "#اخبار_جامعه"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "563d3199c824",
       "source": "La Vanguardia",
       "title": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
@@ -438,16 +417,21 @@
       "published_at": "2026-08-25T06:00:00+02:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
-      "lead_fa": "El Consejo de Ministros nombrará hoy como responsable a Víctor Ángel Torres",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "دولت اسپانیا فرماندهی واحدی برای سبته ایجاد کرد",
+      "lead_fa": "دولت اسپانیا یک ماه پس از رویدادهای اخیر، فرماندهی واحدی را برای شهر سبته تعیین می‌کند. شورای وزیران ویکتور آنخل تورس را به عنوان مسئول این بخش منصوب خواهد کرد.",
+      "key_points_fa": [
+        "ایجاد فرماندهی واحد برای سبته یک ماه پس از هجوم اخیر",
+        "انتصاب ویکتور آنخل تورس توسط شورای وزیران به عنوان مسئول این نهاد"
+      ],
+      "analysis_fa": "این تصمیم دولت در راستای تمرکز مدیریتی و پاسخگویی به چالش‌های امنیتی و مرزی در مناطق خودمختار سبته اتخاذ شده است و نشان‌دهنده تلاش برای هماهنگی بیشتر نهادهای دولتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#سبته",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -506,6 +490,50 @@
       "priority": 75,
       "title_fa": "El paraguas de sol deja de ser una excentricidad asiática y se convierte en accesorio del verano",
       "lead_fa": "El mercado del paraguas solar superó los 1.600 millones de dólares en 2025 y crece un 7% anual: la investigación científica confirma que reduce hasta 10 grados la temperatura radiante",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8d86c2c42a37",
+      "source": "La Vanguardia",
+      "title": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
+      "summary": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
+      "url": "https://www.lavanguardia.com/economia/20260825/11619311/bitcoin-cotizacion-eeuu-comprar-etf-inversores.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c71a4bbc1c.r_d.457-270-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
+      "lead_fa": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8fabb30c76c8",
+      "source": "EL PAÍS",
+      "title": "El linchamiento en Copacabana de un hombre acusado de robar una bicicleta horroriza a Brasil",
+      "summary": "Dos guardas de seguridad y dos repartidores han sido encarcelados tras la mortal paliza en un acomodado y famoso barrio de Río",
+      "url": "https://elpais.com/america/2026-08-25/el-linchamiento-en-copacabana-de-un-hombre-acusado-de-robar-una-bicicleta-horroriza-a-brasil.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207376_182222_video_1800.mp4",
+      "published_at": "2026-08-25T04:00:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El linchamiento en Copacabana de un hombre acusado de robar una bicicleta horroriza a Brasil",
+      "lead_fa": "Dos guardas de seguridad y dos repartidores han sido encarcelados tras la mortal paliza en un acomodado y famoso barrio de Río",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -893,34 +921,6 @@
       "editorial_version": 2
     },
     {
-      "id": "4a7e6c1fe248",
-      "source": "La Vanguardia",
-      "title": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
-      "summary": "El precio de la vivienda expulsa a los ciudadanos de las Baleares: uno de cada cuatro compradores busca casa fuera de las islas, con el Principado como lugar preferido",
-      "url": "https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/23/6a8b26dbea87b.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "economia",
-      "priority": 75,
-      "title_fa": "بحران مسکن در جزایر بالئار؛ مهاجرت خریداران به آستوریاس",
-      "lead_fa": "افزایش شدید قیمت مسکن در جزایر بالئار ساکنان این منطقه را ناچار به جستجوی خانه در دیگر نقاط اسپانیا کرده است. در این میان، یک چهارم خریداران مناطق دیگری مانند آستوریاس را ترجیح می‌دهند.",
-      "key_points_fa": [
-        "بالا بودن قیمت مسکن در جزایر بالئار عامل اصلی کوچ خریداران است.",
-        "یک چهارم متقاضیان خرید مسکن در این مجمع‌الج الجزایر، به دنبال ملک در خارج از جزایر هستند.",
-        "منطقه آستوریاس به عنوان مقصد اصلی خریداران مسکن خارج از جزایر انتخاب شده است."
-      ],
-      "analysis_fa": "رشد بی‌رویه قیمت مسکن در مناطق گردشگری و جزیره‌ای اسپانیا، توان مالی ساکنان محلی را تحت تأثیر قرار داده و پدیده کوچ خریداران به مناطق ارزان‌تر در شبه‌جزیره را تشدید کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#مسکن_اسپانیا",
-        "#جزایر_بالئار",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "9c7a3481d291",
       "source": "EL PAÍS Economía",
       "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
@@ -1091,34 +1091,6 @@
       "editorial_version": 2
     },
     {
-      "id": "ffbd3a06bfb1",
-      "source": "La Vanguardia",
-      "title": "El diseño de virus con IA alerta a los investigadores sobre la bioseguridad",
-      "summary": "Una investigación logra crear 16 patógenos capaces de atacar con éxito una bacteria",
-      "url": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8bfacc8f341.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 72,
-      "title_fa": "هشدار محققان درباره خطر ساخت ویروس با هوش مصنوعی",
-      "lead_fa": "پژوهش جدیدی موفق به ساخت ۱۶ پاتوژن شده است که توانایی حمله موفقیت‌آمیز به یک باکتری را دارند. این دستاورد نگرانی‌ها درباره مسائل ایمنی زیستی و سوءاستفاده احتمالی از هوش مصنوعی را افزایش داده است.",
-      "key_points_fa": [
-        "موفقیت در ساخت ۱۶ پاتوژن با کمک فناوری‌های نوین",
-        "توانایی این پاتوژن‌ها در حمله به باکتری‌ها",
-        "افزایش نگرانی جامعه علمی درباره امنیت زیستی"
-      ],
-      "analysis_fa": "پیشرفت‌های سریع در حوزه هوش مصنوعی و زیست‌فناوری مرز میان نوآوری علمی و خطرات امنیتی را کم‌رنگ‌تر کرده است. این تحقیق نشان می‌دهد که فناوری‌های پیشرفته می‌توانند ابزاری برای تولید عوامل بیماری‌زا باشند و ضرورت نظارت دقیق‌تر نهادهای بین‌المللی بر پژوهش‌های این حوزه را برجسته می‌سازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#هوش_مصنوعی",
-        "#امنیت_زیستی",
-        "#پژوهش"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "77f89cfc4ddc",
       "source": "EL PAÍS Economía",
       "title": "El sector de la aceituna de mesa española se une a Italia y Grecia para plantar batalla en la guerra comercial",
@@ -1145,6 +1117,50 @@
         "#تجارت_جهانی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "329f2e8f8ab7",
+      "source": "La Vanguardia",
+      "title": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
+      "summary": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260825/11618963/elisabetta-franchi-creo-empoderamiento-signifique-renunciar-feminidad-deseo-sentirse-bella.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c19b7c1a6b.r_d.3127-1896-0.jpeg",
+      "published_at": "2026-08-25T06:29:11+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Elisabetta Franchi: “No creo que el empoderamiento signifique renunciar a la feminidad ni al deseo de sentirse bella”",
+      "lead_fa": "Para esta diseñadora, cuando una mujer compra una prenda de ropa no solo busca un vestido, sino también una sensación. Así, reivindica la moda como confianza, identidad y libertad de elección",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2fd0de70db7b",
+      "source": "La Vanguardia",
+      "title": "Las playas que se han puesto de moda este verano en España",
+      "summary": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
+      "url": "https://www.lavanguardia.com/magazine/viajes/20260825/11618939/playas-han-puesto-moda-verano-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c0efb7196a.r_d.939-1001-0.jpeg",
+      "published_at": "2026-08-25T06:23:02+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "Las playas que se han puesto de moda este verano en España",
+      "lead_fa": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1181,6 +1197,270 @@
       "priority": 70,
       "title_fa": "Cercanías estrena trenes en Madrid, Rodalies espera hacerlo a final de año",
       "lead_fa": "Los nuevos convoyes fabricados por Stadler empiezan a prestar servicio en la capital mientras los de Alstom siguen pendientes del permiso de seguridad ferroviaria",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "592901ce6ab0",
+      "source": "La Vanguardia",
+      "title": "Julián Álvarez se gana al Barça con su resiliencia",
+      "summary": "El jugador argentino está asumiendo muchos riesgos para forzar su salida del Atlético",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260825/11619346/julian-alvarez-gana-barca-resiliencia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c832a2db74.r_d.1586-1390-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Julián Álvarez se gana al Barça con su resiliencia",
+      "lead_fa": "El jugador argentino está asumiendo muchos riesgos para forzar su salida del Atlético",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "cb2470da2a6b",
+      "source": "La Vanguardia",
+      "title": "Pesajes, medidas y controles: así revisa el Zoo de Londres a sus animales",
+      "summary": "La información obtenida durante estos controles también se comparte con otros zoológicos y centros de conservación",
+      "url": "https://www.lavanguardia.com/mascotas/20260825/11619352/zoo-londres-animales.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c906b6c339.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Pesajes, medidas y controles: así revisa el Zoo de Londres a sus animales",
+      "lead_fa": "La información obtenida durante estos controles también se comparte con otros zoológicos y centros de conservación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6e51e3826825",
+      "source": "La Vanguardia",
+      "title": "La ruta brutal de Chéjov hacia Sajalín",
+      "summary": "Enfermo de tuberculosis, viajó en 1890 a la remota isla del Pacífico para estudiar la vida en la colonia penitenciaria rusa",
+      "url": "https://www.lavanguardia.com/cultura/20260825/11619206/ruta-brutal-chejov-sajalin.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c4c840cea8.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La ruta brutal de Chéjov hacia Sajalín",
+      "lead_fa": "Enfermo de tuberculosis, viajó en 1890 a la remota isla del Pacífico para estudiar la vida en la colonia penitenciaria rusa",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5e1756aed20e",
+      "source": "La Vanguardia",
+      "title": "¿Qué significa hoy ser un ‘buen’ padre? El reto de la nueva paternidad sin modelos",
+      "summary": "Cada vez más hombres desean ocupar un lugar activo y corresponsable en la crianza, pero ese cambio en las expectativas todavía no se ha traducido en un reparto igualitario de los cuidados",
+      "url": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260825/11618902/que-significa-hoy-buen-padre-reto-nueva-paternidad-modelos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/02/06/65c25cc992f17.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Qué significa hoy ser un ‘buen’ padre? El reto de la nueva paternidad sin modelos",
+      "lead_fa": "Cada vez más hombres desean ocupar un lugar activo y corresponsable en la crianza, pero ese cambio en las expectativas todavía no se ha traducido en un reparto igualitario de los cuidados",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1afe9f54a837",
+      "source": "La Vanguardia",
+      "title": "La picadora de carne que no sirvió de vacuna",
+      "summary": "Trincheras, paisaje lunar a causa de los cráteres que provocó la artillería pesada y huesos de los centenares de miles de soldados muertos. Verdún es el recuerdo de una gran carnicería",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260825/11617867/picadora-carne-sirvio-vacuna.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88870d5f807.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La picadora de carne que no sirvió de vacuna",
+      "lead_fa": "Trincheras, paisaje lunar a causa de los cráteres que provocó la artillería pesada y huesos de los centenares de miles de soldados muertos. Verdún es el recuerdo de una gran carnicería",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f54ed7b74993",
+      "source": "La Vanguardia",
+      "title": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
+      "summary": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
+      "url": "https://www.lavanguardia.com/politica/20260825/11619201/laura-vilagra-increible-corrupcion-desgaste-electoralmente.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c4aa193e78.r_d.2300-1015-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Laura Vilagrà: “Es increíble que la corrupción no desgaste electoralmente”",
+      "lead_fa": "La exconsellera republicana de la Presidència (2021-2024) es ahora gerente del Consell Comarcal del Bages",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "bf371304e484",
+      "source": "La Vanguardia",
+      "title": "El Teatro Balmes abre en noviembre con 490 butacas para el humor",
+      "summary": "El nuevo espacio programará también teatro, danza, variedades y una amplia programación escolar",
+      "url": "https://www.lavanguardia.com/cultura/20260825/11619360/balmes-teatro-barcelona-apertura-noviembre-humor-mpc-rambleta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c91991c64c.r_d.788-591-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "ciencia",
+      "priority": 70,
+      "title_fa": "El Teatro Balmes abre en noviembre con 490 butacas para el humor",
+      "lead_fa": "El nuevo espacio programará también teatro, danza, variedades y una amplia programación escolar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9abeb48bdbab",
+      "source": "La Vanguardia",
+      "title": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
+      "summary": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
+      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260825/11613274/como-conseguir-ahorrar-bolsillo-podcast-pca.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7db4f758c5d.r_d.1090-624-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
+      "lead_fa": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5a4fe8a49851",
+      "source": "La Vanguardia",
+      "title": "De Oques Grasses a The Strokes, 10 conciertos para el otoño",
+      "summary": "El final de año ofrece de la nostalgia de La Oreja de Van Gogh a la extravagancia de Ca7riel & Paco Amoroso",
+      "url": "https://www.lavanguardia.com/cultura/20260825/11619296/oques-grasses-the-strokes-10-conciertos-otono.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c6a0195a95.r_d.486-322-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "De Oques Grasses a The Strokes, 10 conciertos para el otoño",
+      "lead_fa": "El final de año ofrece de la nostalgia de La Oreja de Van Gogh a la extravagancia de Ca7riel & Paco Amoroso",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0534ddcb6a87",
+      "source": "La Vanguardia",
+      "title": "La sociedad ha quedado configurada para los jóvenes y a los mayores nos deja fuera”",
+      "summary": "Premio Planeta y quinta mujer académica de la RAE, Puértolas es un referente de las letras españolas, además de ser una mujer que lucha por la igualdad porque “es lo lógico, lo justo y enriquece cualquier campo”",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260825/11608233/soledad-puertolas-escritora-79-anos-sociedad-quedado-configurada-jovenes-mayores-avances-tecnicos-dejan-fuera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a72fe0d6d36f.r_d.3314-894-0.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La sociedad ha quedado configurada para los jóvenes y a los mayores nos deja fuera”",
+      "lead_fa": "Premio Planeta y quinta mujer académica de la RAE, Puértolas es un referente de las letras españolas, además de ser una mujer que lucha por la igualdad porque “es lo lógico, lo justo y enriquece cualquier campo”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "05bc3d996f76",
+      "source": "La Vanguardia",
+      "title": "De casal fallero a pisos turísticos: Benicalap centra la nueva lucha vecinal",
+      "summary": "El barrio tiene muchos locales vacíos y no llega al tope legal para vetar los proyectos turísticos",
+      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619268/casal-fallero-pisos-turisticos-benicalap-centra-nueva-lucha-vecinal.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c629ca40f3.r_d.2771-2312-0.jpeg",
+      "published_at": "2026-08-25T05:30:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "De casal fallero a pisos turísticos: Benicalap centra la nueva lucha vecinal",
+      "lead_fa": "El barrio tiene muchos locales vacíos y no llega al tope legal para vetar los proyectos turísticos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0be0e1319429",
+      "source": "La Vanguardia",
+      "title": "Cuanto el Estado falla",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
+      "published_at": "2026-08-25T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Cuanto el Estado falla",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1456,17 +1736,39 @@
       "editorial_version": 2
     },
     {
-      "id": "377209351f20",
+      "id": "126092644c54",
       "source": "EL PAÍS",
-      "title": "Ellas, de Netflix y ellos, de HBO Max: así es el público de cada plataforma",
-      "summary": "Los datos de GfK DAM muestran que las mujeres hacen un uso más intensivo de los servicios de ‘streaming’ que los hombres",
-      "url": "https://elpais.com/television/2026-08-25/ellas-de-netflix-y-ellos-de-hbo-max-asi-es-el-publico-de-cada-plataforma.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/OXZRJPF6ZBCABCKSOZBGWFPGVU.jpg?auth=74371c5324b0c8e73abefe0ea551c85584f130be748c870ae185d8f120d2b91f",
+      "title": "El que ve humor negro en vejar a una mujer (y los que lo amparan)",
+      "summary": "Individuos indecentes, manipuladores narcisistas, que quieran vivir de exhibir sus fechorías ‘online’ habrá mientras se les permita. Redes como Kick, donde este tipo emite, han hecho de su falta de escrúpulos su negocio y el de sus usuarios",
+      "url": "https://elpais.com/television/2026-08-25/el-que-ve-humor-negro-en-vejar-a-una-mujer-y-los-que-lo-amparan.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206619_171508_video_1800.mp4",
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Ellas, de Netflix y ellos, de HBO Max: así es el público de cada plataforma",
-      "lead_fa": "Los datos de GfK DAM muestran que las mujeres hacen un uso más intensivo de los servicios de ‘streaming’ que los hombres",
+      "title_fa": "El que ve humor negro en vejar a una mujer (y los que lo amparan)",
+      "lead_fa": "Individuos indecentes, manipuladores narcisistas, que quieran vivir de exhibir sus fechorías ‘online’ habrá mientras se les permita. Redes como Kick, donde este tipo emite, han hecho de su falta de escrúpulos su negocio y el de sus usuarios",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "a8f1ebe515f6",
+      "source": "EL PAÍS",
+      "title": "Perros vs niños: ¿por qué se relaciona el aumento de las mascotas con la bajada de la natalidad?",
+      "summary": "Los expertos rechazan que el hecho de que en España haya más animales de compañía en los hogares se deba a un descenso de los nacimientos. Eso sí, ambas cosas son resultado de una sociedad hiperindividualista",
+      "url": "https://elpais.com/estilo-de-vida/2026-08-25/perros-vs-ninos-por-que-se-relaciona-el-aumento-de-las-mascotas-con-la-bajada-de-la-natalidad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JKJHTT5VGFAHHCISLNYARGSBFA.jpg?auth=1eec4df4b8bc7c0e555820e3e792378000a01e95caf71d715e262bf2b838ec3e",
+      "published_at": "2026-08-25T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Perros vs niños: ¿por qué se relaciona el aumento de las mascotas con la bajada de la natalidad?",
+      "lead_fa": "Los expertos rechazan que el hecho de que en España haya más animales de compañía en los hogares se deba a un descenso de los nacimientos. Eso sí, ambas cosas son resultado de una sociedad hiperindividualista",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1566,28 +1868,6 @@
       "editorial_version": 2
     },
     {
-      "id": "a8f1ebe515f6",
-      "source": "EL PAÍS",
-      "title": "Perros vs niños: ¿por qué se relaciona el aumento de las mascotas con la bajada de la natalidad?",
-      "summary": "Los expertos rechazan que el hecho de que en España haya más animales de compañía en los hogares se deba a un descenso de los nacimientos. Eso sí, ambas cosas son resultado de una sociedad hiperindividualista",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-25/perros-vs-ninos-por-que-se-relaciona-el-aumento-de-las-mascotas-con-la-bajada-de-la-natalidad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/JKJHTT5VGFAHHCISLNYARGSBFA.jpg?auth=1eec4df4b8bc7c0e555820e3e792378000a01e95caf71d715e262bf2b838ec3e",
-      "published_at": "2026-08-25T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Perros vs niños: ¿por qué se relaciona el aumento de las mascotas con la bajada de la natalidad?",
-      "lead_fa": "Los expertos rechazan que el hecho de que en España haya más animales de compañía en los hogares se deba a un descenso de los nacimientos. Eso sí, ambas cosas son resultado de una sociedad hiperindividualista",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3f3d9a8f38ab",
       "source": "EL PAÍS",
       "title": "Más allá de los ‘influencers’: la revancha del internet de pago con el micromecenazgo digital",
@@ -1610,17 +1890,17 @@
       "editorial_version": 2
     },
     {
-      "id": "126092644c54",
+      "id": "377209351f20",
       "source": "EL PAÍS",
-      "title": "El que ve humor negro en vejar a una mujer (y los que lo amparan)",
-      "summary": "Individuos indecentes, manipuladores narcisistas, que quieran vivir de exhibir sus fechorías ‘online’ habrá mientras se les permita. Redes como Kick, donde este tipo emite, han hecho de su falta de escrúpulos su negocio y el de sus usuarios",
-      "url": "https://elpais.com/television/2026-08-25/el-que-ve-humor-negro-en-vejar-a-una-mujer-y-los-que-lo-amparan.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206619_171508_video_1800.mp4",
+      "title": "Ellas, de Netflix y ellos, de HBO Max: así es el público de cada plataforma",
+      "summary": "Los datos de GfK DAM muestran que las mujeres hacen un uso más intensivo de los servicios de ‘streaming’ que los hombres",
+      "url": "https://elpais.com/television/2026-08-25/ellas-de-netflix-y-ellos-de-hbo-max-asi-es-el-publico-de-cada-plataforma.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/OXZRJPF6ZBCABCKSOZBGWFPGVU.jpg?auth=74371c5324b0c8e73abefe0ea551c85584f130be748c870ae185d8f120d2b91f",
       "published_at": "2026-08-25T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "El que ve humor negro en vejar a una mujer (y los que lo amparan)",
-      "lead_fa": "Individuos indecentes, manipuladores narcisistas, que quieran vivir de exhibir sus fechorías ‘online’ habrá mientras se les permita. Redes como Kick, donde este tipo emite, han hecho de su falta de escrúpulos su negocio y el de sus usuarios",
+      "title_fa": "Ellas, de Netflix y ellos, de HBO Max: así es el público de cada plataforma",
+      "lead_fa": "Los datos de GfK DAM muestran que las mujeres hacen un uso más intensivo de los servicios de ‘streaming’ que los hombres",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1709,28 +1989,6 @@
       "priority": 70,
       "title_fa": "¿Se puede criticar el turismo masivo mientras se hace turismo? Sí, se puede",
       "lead_fa": "No es tan raro que los que viajan quieran pagar tasas municipales o tener la certeza de no habitar pisos ilegales; es decir, saber que su actividad está regulada para no expulsar a los vecinos o destruir la ciudad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "50236784d5ca",
-      "source": "EL PAÍS",
-      "title": "Isabel Peña, coguionista de ‘El ser querido’: “Escribir es equivocarte y dudar. Soy una duda con piernas”",
-      "summary": "La coescritora de la nueva película de Rodrigo Sorogoyen, que se estrena en España este miércoles, presentará en el festival de San Sebastián la serie ‘El castillo’, su debut como ‘showrunner’",
-      "url": "https://elpais.com/cultura/cine/2026-08-25/isabel-pena-coguionista-de-el-ser-querido-escribir-es-equivocarte-y-dudar-soy-una-duda-con-piernas.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206983_145227_video_1800.mp4",
-      "published_at": "2026-08-25T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Isabel Peña, coguionista de ‘El ser querido’: “Escribir es equivocarte y dudar. Soy una duda con piernas”",
-      "lead_fa": "La coescritora de la nueva película de Rodrigo Sorogoyen, que se estrena en España este miércoles, presentará en el festival de San Sebastián la serie ‘El castillo’, su debut como ‘showrunner’",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1887,6 +2145,28 @@
       "editorial_version": 2
     },
     {
+      "id": "882e6bd90add",
+      "source": "La Vanguardia",
+      "title": "Una experiencia ‘vintage’",
+      "summary": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
+      "url": "https://www.lavanguardia.com/opinion/20260825/11618970/experiencia-vintage.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c1a321940c.r_d.1660-961-0.jpeg",
+      "published_at": "2026-08-25T00:30:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Una experiencia ‘vintage’",
+      "lead_fa": "Somos ‘boomers’ y en un pasado no tan lejano habíamos viajado con mapas de papel",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "9341bdc5f237",
       "source": "La Vanguardia",
       "title": "“Con algoritmos pasé de predecir taquillas de cine a enfermedades”",
@@ -1928,35 +2208,6 @@
         "#اخبار_اسپانیا"
       ],
       "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6f3427c45df6",
-      "source": "La Vanguardia",
-      "title": "Los nudistas reivindican su espacio en las playas de tradición naturista",
-      "summary": "El Club Català de Naturisme cierra en Cala Vinyeta, en Calella, la campaña de verano con una cadena nudista y reclama más reconocimiento, información y señalización de estos espacios",
-      "url": "https://www.lavanguardia.com/local/maresme/20260824/11619252/nudistas-reivindican-preservar-espacio-playas-tradicion-naturista.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c633c0dd76.r_d.416-537-0.jpeg",
-      "published_at": "2026-08-24T17:32:20+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "فراخوان برهه‌گرایان اسپانیا برای رسمیت و نشانه‌گذاری بهتر سواحل",
-      "lead_fa": "باشگاه طبیعت‌گرایی کاتالان با برگزاری یک زنجیره انسانی در کاللا، به کارزار تابستانی خود پایان داد. این گروه خواستار به رسمیت شناختن بیشتر، اطلاع‌رسانی دقیق‌تر و نشانه‌گذاری مناسب سواحل برهه‌گرایی شد.",
-      "key_points_fa": [
-        "بسته شدن کمپین تابستانی باشگاه طبیعت‌گرایی کاتالان در کالا وینیتا",
-        "برگزاری زنجیره انسانی برای مطالبه حقوق برهه‌گرایان در سواحل",
-        "درخواست بهبود نشانه‌گذاری و اطلاع‌رسانی رسمی درباره این مناطق"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش جامعه طبیعت‌گرایان برای حفظ و گسترش فضاهای اختصاصی خود در سواحل اسپانیاست. چالش اصلی میان حفظ حریم خصوصی این گروه و استفاده عمومی از سواحل گردشگری همچنان در سطح محلی مطرح است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#طبیعت‌گرایی",
-        "#سواحل",
-        "#جامعه"
-      ],
-      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -2073,305 +2324,17 @@
       "editorial_version": 2
     },
     {
-      "id": "888b5ae62704",
+      "id": "3ffdb5367bb6",
       "source": "La Vanguardia",
-      "title": "Erola Jons, la influencer apartada de los ciclistas tras sus comentarios sexistas a Pogacar",
-      "summary": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla sus contenidos",
-      "url": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c27a53b301.jpeg",
-      "published_at": "2026-08-24T13:38:02+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "محدودیت برای ارولا یونس پس از اظهارات جنجالی درباره پوگاچار در دوچرخه‌سواری",
-      "lead_fa": "ارولا یونس به پوشش مسابقات دوچرخه‌سواری «لا ووئلتا» ادامه می‌دهد. با این حال، سازماندهی مسابقات او را از ارتباط مستقیم با ورزشکاران محروم کرد.",
-      "key_points_fa": [
-        "ادامه فعالیت ارولا یونس در پوشش رسانه‌ای لا ووئلتا",
-        "واکنش به اظهارات جنجالی او درباره تادئی پوگاچار",
-        "تغییر شرایط تولید محتوا و حذف تماس مستقیم با دوچرخه‌سواران"
-      ],
-      "analysis_fa": "این تصمیم نشان‌دهنده حساسیت نهادهای ورزشی نسبت به رفتار چهره‌های رسانه‌ای و اینفلوئنسرها در رویدادهای بزرگ است تا از تنش جلوگیری کنند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#دوچرخه‌سواری",
-        "#اخبار_ورزشی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "128684a111df",
-      "source": "La Vanguardia",
-      "title": "“Estamos en una misión de Dios”: León XIV conoce al saxofonista de los Blues Brothers, sus ídolos de su juventud",
-      "summary": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "url": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c258ff1528.jpeg",
-      "published_at": "2026-08-24T13:06:05+02:00",
+      "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
+      "summary": "Protección Civil finaliza el aviso por acumulaciones de más de 60 l/m² en 3 horas en el Baix Camp y el Tarragonès",
+      "url": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c7d9082476.jpeg",
+      "published_at": "2026-08-24T19:06:28+02:00",
       "category": "sociedad",
       "priority": 66,
-      "title_fa": "دیدار پاپ فرانسیس با نوازنده گروه بلوز برادرز",
-      "lead_fa": "رهبر کاتولیک‌های جهان با «بلو لو» مارینی، نوازنده ساکسفون گروه معروف بلوز برادرز دیدار کرد. این هنرمند در جریان دیدار، یک عینک دودی مشابه اعضای این گروه به پاپ هدیه داد.",
-      "key_points_fa": [
-        "دیدار پاپ فرانسیس با 'بلو لو' مارینی نوازنده ساکسفون",
-        "گروه بلوز برادرز از اسطوره‌های دوران جوانی پاپ محسوب می‌شود",
-        "مارینی یک عینک دودی نمادین به رهبر واتیکان هدیه داد"
-      ],
-      "analysis_fa": "این دیدار در راستای تعاملات فرهنگی و هنری رهبر کاتولیک‌ها با چهره‌های شناخته‌شده عرصه موسیقی انجام شده است و نشان‌دهنده علاقه شخصی او به موسیقی دوران جوانی‌اش است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#پاپ_فرانسیس",
-        "#موسیقی",
-        "#اسپانیا",
-        "#واتیکان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "eaffb5d9ae6d",
-      "source": "La Vanguardia",
-      "title": "Reino Unido investiga si un reto viral está detrás de un accidente de coche con siete muertos",
-      "summary": "En las últimas semanas se han producido diferentes siniestros mortales similares, uno de ellos en Irlanda",
-      "url": "https://www.lavanguardia.com/vida/20260824/11619001/reto-viral-tiktok-conducir-direccion-contraria-muertos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c20052c966.r_d.3351-2649-0.jpeg",
-      "published_at": "2026-08-24T12:47:39+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "تحقیق بریتانیا درباره نقش یک چالش وایرال در تصادف مرگبار",
-      "lead_fa": "مقام‌های بریتانیایی در حال بررسی این موضوع هستند که آیا یک چالش خطرناک در شبکه‌های اجتماعی عامل تصادف مرگبار اخیر بوده است. در هفته‌های گذشته حوادث مشابه دیگری نیز رخ داده است.",
-      "key_points_fa": [
-        "تحقیقات درباره ارتباط یک چالش وایرال با تصادفات مرگبار جاده‌ای در بریتانیا",
-        "ثبت چند تصادف مرگبار مشابه در هفته‌های اخیر، از جمله یک مورد در ایرلند",
-        "بررسی‌های پلیس برای کشف ابعاد دقیق این حوادث شبکه‌های اجتماعی"
-      ],
-      "analysis_fa": "رشد پدیده‌های خطرناک در شبکه‌های اجتماعی و تأثیر آن بر رفتارهای پرخطر رانندگان، به یکی از چالش‌های جدی برای نهادهای امنیتی و پلیس در اروپا تبدیل شده است. این روند نیازمند نظارت بیشتر بر محتوای آنلاین و افزایش آگاهی‌بخشی به جوانان است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بریتانیا",
-        "#حادثه",
-        "#شبکه‌های_اجتماعی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "a803e26c6cba",
-      "source": "La Vanguardia",
-      "title": "Detienen en Alicante a dos fugitivos reclamados por Alemania vinculados a una red de tráfico de estupefacientes",
-      "summary": "Los dos hombres habrían huido a España en junio de 2025 por lo que se pidió la colaboración de la Guardia Civil",
-      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618916/detienen-alicante-dos-fugitivos-reclamados-alemania-vinculados-red-trafico-estupefacientes.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
-      "published_at": "2026-08-24T11:03:01+02:00",
-      "category": "sociedad",
-      "priority": 66,
-      "title_fa": "بازداشت دو فراری تحت تعقیب آلمان در آلیکانته",
-      "lead_fa": "پلیس اسپانیا دو مرد متهم به دست داشتن در قاچاق مواد مخدر را در آلیکانته بازداشت کرد. این افراد از ژوئن ۲۰۲۵ به اسپانیا گریخته بودند.",
-      "key_points_fa": [
-        "بازداشت دو تبعه تحت تعقیب مقامات آلمانی",
-        "ارتباط متهمان با یک شبکه قاچاق مواد مخدر",
-        "همکاری گارد مدنی اسپانیا برای شناسایی و دستگیری فراریان"
-      ],
-      "analysis_fa": "این بازداشت نشان‌دهنده همکاری‌های انتظامی میان کشورهای اروپایی برای ردیابی و دستگیری مظنونانی است که از کشوری به کشور دیگر می‌گریزند. حضور این افراد در اسپانیا اهمیت تبادل اطلاعات مرزی را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#آلیکانته",
-        "#پلیس",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd80147ec333",
-      "source": "La Vanguardia",
-      "title": "El calor extremo deja 96 muertes en Valencia en una semana, la segunda cifra más alta del verano",
-      "summary": "El balance desde el inicio del verano eleva a 458 las muertes atribuibles al calor, 108 más que en el mismo periodo de 2025, según el sistema MoMo",
-      "url": "https://www.lavanguardia.com/local/valencia/20260824/11618921/calor-extremo-deja-96-muertes-valencia-semana-segunda-cifra-mas-alta-verano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f82ca186e5.r_d.476-663-0.jpeg",
-      "published_at": "2026-08-24T11:01:49+02:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "مرگ ۹۶ نفر در والنسیا طی یک هفته بر اثر گرمای شدید",
-      "lead_fa": "گرمازدگی جان ۹۶ نفر را طی یک هفته در والنسیا گرفت. این دومین رقم بالای مرگ‌ومیر ناشی از گرما در تابستان جاری است.",
-      "key_points_fa": [
-        "ثبت ۹۶ مرگ در والنسیا طی یک هفته",
-        "افزایش کل مرگ‌های منتسب به گرما در تابستان به ۴۵۸ نفر",
-        "افزایش ۱۰۸ موردی نسبت به دوره مشابه در سال گذشته بر اساس سامانه مومو"
-      ],
-      "analysis_fa": "آمارهای سامانه مومو نشان‌دهنده افزایش چشمگیر تلفات ناشی از موج‌های گرمای تابستانی است که فشار مضاعفی را بر سیستم بهداشتی و درمانی اسپانیا وارد کرده و لزوم آمادگی بیشتر در برابر تغییرات اقلیمی را برجسته می‌سازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#والنسیا",
-        "#موج_گرما",
-        "#سلامت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "525d78bd8e65",
-      "source": "La Vanguardia",
-      "title": "Australia pausa los visados para jóvenes de 23 países, incluida España",
-      "summary": "El Gobierno australiano no ha explicado las razones de esta decisión anunciada por el ministro de Interior",
-      "url": "https://www.lavanguardia.com/vida/20260823/11618648/australia-pausa-visados-jovenes-23-paises-incluido-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2011/06/23/5f9af498e44c2.r_d.491-238-0.jpeg",
-      "published_at": "2026-08-23T20:55:36+02:00",
-      "category": "migracion",
-      "priority": 65,
-      "title_fa": "استرالیا صدور ویزا برای جوانان ۲۳ کشور از جمله اسپانیا را متوقف کرد",
-      "lead_fa": "دولت استرالیا صدور ویزا برای جوانان ۲۳ کشور مختلف را به طور موقت متوقف کرد. اسپانیا یکی از کشورهایی است که مشمول این تصمیم شده است.",
-      "key_points_fa": [
-        "توقف موقت صدور ویزا شامل جوانان ۲۳ کشور می‌شود.",
-        "اسپانیا نیز در فهرست کشورهای تحت تاثیر این تصمیم قرار دارد.",
-        "وزارت کشور استرالیا هنوز دلایل این تصمیم را اعلام نکرده است."
-      ],
-      "analysis_fa": "دولت استرالیا بدون ارائه توضیحات رسمی، برنامه صدور ویزا برای جوانان این گروه از کشورها را متوقف کرده است. عدم شفافیت درباره دلایل این تصمیم، گمانه‌زنی‌ها درباره تغییرات احتمالی در سیاست‌های مهاجرتی این کشور را افزایش داده است.",
-      "audience_impact_fa": "برای متقاضیان اسپانیایی این ویزاها در استرالیا، اثر مستقیم مشخصی گزارش نشده است، اما برنامه‌ریزی مهاجرتی جوانان جویای کار یا تحصیل موقت با تاخیر مواجه خواهد شد.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#استرالیا",
-        "#اسپانیا",
-        "#ویزا",
-        "#مهاجرت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "85a8b7f3bab0",
-      "source": "La Vanguardia",
-      "title": "Una batalla campal obliga a interrumpir varias horas la fiesta mayor de Sitges",
-      "summary": "El Ayuntamiento de Sitges ha emitido un comunicado para rechazar y condenar de manera contundente las actitudes violentas y los altercados",
-      "url": "https://www.lavanguardia.com/local/vilanova/20260824/11618876/batalla-campal-obliga-interrumpir-horas-fiesta-mayor-sitges.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c214797eb1.jpeg",
-      "published_at": "2026-08-24T10:10:37+02:00",
-      "category": "sociedad",
-      "priority": 64,
-      "title_fa": "درگیری و ناآرامی در جشن بزرگ سیتخس",
-      "lead_fa": "شورای شهر سیتخس با انتشار بیانیه‌ای خشونت‌ها و ناآرامی‌های اخیر در جریان جشنواره محلی را به شدت محکوم کرد. این حوادث باعث توقف چند ساعته برنامه‌های جشن شد.",
-      "key_points_fa": [
-        "صدور بیانیه رسمی محکومیت خشونت توسط شهرداری سیتخس",
-        "وقوع درگیری و ناآرامی در جریان برگزاری جشن بزرگ شهر",
-        "وقفه چند ساعته در اجرای برنامه‌های جشنواره به دلیل حوادث"
-      ],
-      "analysis_fa": "بروز ناآرامی در جریان رویدادهای عمومی و جشن‌های محلی چالش‌های امنیتی و مدیریتی تازه‌ای را برای نهادهای محلی ایجاد می‌کند و واکنش سریع مقامات را به دنبال دارد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سیتخس",
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "fd8843c431d7",
-      "source": "La Vanguardia",
-      "title": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "summary": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "url": "https://www.lavanguardia.com/local/lleida/20260824/11618823/mossos-buscan-tres-jovenes-agresion-sexual-chica-alpicat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/20/664b67d97f4ef.r_d.693-318-0.jpeg",
-      "published_at": "2026-08-24T07:52:02+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Los Mossos buscan a tres jóvenes por la agresión sexual a una chica en Alpicat",
-      "lead_fa": "La víctima fue asaltada por tres jóvenes que le amenazaron con una navaja, le robaron el dinero y le hicieron tocamientos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "fea4148f9675",
-      "source": "La Vanguardia",
-      "title": "Harry Potter, bajo sospecha",
-      "summary": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
-      "url": "https://www.lavanguardia.com/series/20260824/11617049/harry-potter-sospecha.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/26/69c56acd88e89.jpeg",
-      "published_at": "2026-08-24T06:22:44+02:00",
-      "category": "cultura",
-      "priority": 62,
-      "title_fa": "Harry Potter, bajo sospecha",
-      "lead_fa": "La reputación tránsfoba de J.K. Rowling complica la promoción de la serie: los actores se tienen que pronunciar y hay directoras que se negaron a trabajar por los vínculos con la autora",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "defb7944d109",
-      "source": "La Vanguardia",
-      "title": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
-      "summary": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260824/11618576/nuevo-convenio-mossos-guardia-urbana-sigue-firmarse.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/23/6a8b03f6cc8b2.r_d.459-306-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "El nuevo convenio de los Mossos y la Guardia Urbana sigue sin firmarse",
-      "lead_fa": "El pacto que mejora la coordinación se aprobó en mayo pero está parado y no se ejecuta",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "292912e53f7d",
-      "source": "La Vanguardia",
-      "title": "¿Podría la IA llegar a tener conciencia?",
-      "summary": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
-      "url": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a8824d600bdf.r_d.1777-684-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "¿Podría la IA llegar a tener conciencia?",
-      "lead_fa": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4504cccf9c90",
-      "source": "La Vanguardia",
-      "title": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
-      "summary": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260824/11598704/francisco-jose-tarazona-geriatra-miedo-excesivo-caerse-lleva-caminar-forma-mas-rigida-reducir-actividad-fisica-perder-fuerza-muscular.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/22/6a60d4d3ea6a2.r_d.360-256-0.jpeg",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "“El miedo a caerse lleva a caminar de forma más rígida y perder fuerza muscular”",
-      "lead_fa": "El doctor Francisco José Tarazona, presidente de la Sociedad Española de Geriatría y Gerontología, explica cómo el miedo a volver a caerse puede tener consecuencias en la salud física",
+      "title_fa": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
+      "lead_fa": "Protección Civil finaliza el aviso por acumulaciones de más de 60 l/m² en 3 horas en el Baix Camp y el Tarragonès",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2447,28 +2410,6 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
-    },
-    {
-      "id": "f28271904317",
-      "source": "EL PAÍS Economía",
-      "title": "La familia Botín se reparte 40 millones en dividendos gracias a su capital en Bankinter y Línea Directa",
-      "summary": "La saga recibe 129 millones por sus participaciones financieras",
-      "url": "https://cincodias.elpais.com/companias/2026-08-24/la-familia-botin-se-reparte-40-millones-en-dividendos-gracias-a-su-capital-en-bankinter-y-linea-directa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3RKCP5EXK5HCFOWNT4TGI3SLCQ.jpg?auth=bded8ad267fe89340025acda83b84bd5f66fb9f2617bbfac0b4e593d1936b1cc",
-      "published_at": "2026-08-24T03:15:00+00:00",
-      "category": "cultura",
-      "priority": 62,
-      "title_fa": "La familia Botín se reparte 40 millones en dividendos gracias a su capital en Bankinter y Línea Directa",
-      "lead_fa": "La saga recibe 129 millones por sus participaciones financieras",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2500,7 +2441,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 141
+      "count": 142
     },
     {
       "source": "EL PAÍS España",
@@ -2515,7 +2456,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 127
+      "count": 125
     }
   ]
 }
