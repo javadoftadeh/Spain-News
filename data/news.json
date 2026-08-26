@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:48:53.609414+00:00",
+  "generated_at": "2026-08-26T11:40:41.673943+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "905ceb51c6a2",
@@ -13,7 +13,7 @@
       "id": "905ceb51c6a2",
       "source": "La Vanguardia",
       "title": "Sánchez comparecerá el 3 de septiembre en el Congreso para dar cuenta de la crisis de Ceuta",
-      "summary": "El presidente registra su petición de comparecencia el mismo día en que el BOE recoge la declaración de la “situación de interés para la seguridad nacional con un mando único que estará vigente hasta final de año",
+      "summary": "Los grupos parlamentarios fuerzan el adelanto de la comparecencia ya que el Gobierno había propuesto hacerlo el día 9",
       "url": "https://www.lavanguardia.com/politica/20260826/11620268/sanchez-comparecera-3-septiembre-congreso-dar-cuenta-crisis-ceuta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d696d46318.jpeg",
       "published_at": "2026-08-26T11:31:01+02:00",
@@ -43,8 +43,8 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
       "summary": "Elma Saiz regresa a la Ciudad Autónoma para supervisar la ampliación de los recursos de acogida a migrantes | Feijóo exige convocar la Comisión de Secretos Oficiales para que el CNI aclare las “versiones” del Gobierno",
       "url": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/4HRFHYWYAFHWZHSM37RMWFBXS4.jpg?auth=63d67b509827ce1e34a34140e3cc364b45c103ae3f4a52cbb1297ef404fbf275",
-      "published_at": "2026-08-26T10:39:34+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/R5FOVFX7YJJGPHGZSWMDZZWH5Q.jpg?auth=9e5a5e720face1aa66ce5a5ce136a76dfaa585012e490454d47eb534c7c4666c",
+      "published_at": "2026-08-26T11:08:30+00:00",
       "category": "politica",
       "priority": 82,
       "title_fa": "تحولات مهاجرتی سبته؛ درخواست سانچز برای نشست کنگره",
@@ -70,7 +70,7 @@
       "id": "0310b070f89a",
       "source": "La Vanguardia",
       "title": "Torres apoya la versión de Marlaska sobre la ausencia de aviso del CNI ante la crisis de Ceuta",
-      "summary": "Sánchez registra, a petición propia, la solicitud de comparecencia en el Congreso, aún sin fecha",
+      "summary": "Sánchez comparecerá en el Congreso. a petición propia, el próximo 3 de septiembre",
       "url": "https://www.lavanguardia.com/politica/20260826/11620237/torres-apoya-version-marlaska-sobre-ausencia-aviso-cni-sobre-crisis-ceuta.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8ea225c5060.jpeg",
       "published_at": "2026-08-26T09:25:56+02:00",
@@ -207,6 +207,35 @@
       "editorial_version": 2
     },
     {
+      "id": "84f0fc4be73d",
+      "source": "EL PAÍS",
+      "title": "Muere una mujer tras recibir un disparo “accidental” de su marido mientras cazaban en Palencia",
+      "summary": "Las primeras investigaciones atribuyen el suceso a lo fortuito y no a violencia machista",
+      "url": "https://elpais.com/espana/2026-08-26/muere-una-mujer-tras-recibir-un-disparo-accidental-de-su-marido-mientras-cazaban-en-palencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/T5DUXSUSQ5FTLFS3EGUUOJWGNE.jpg?auth=fb40dbb623646aa9b521b17dd023e7c277ebece9b557671bd5b62257c09c9ace",
+      "published_at": "2026-08-26T11:16:48+00:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "مرگ یک زن در پالنسیا بر اثر شلیک تصادفی همسرش در جریان شکار",
+      "lead_fa": "تحقیقات اولیه پلیس این حادثه را تصادفی دانسته و خشونت جنسیتی را رد کرده است. این رویداد تلخ هنگام شکار در استان پالنسیا رخ داد.",
+      "key_points_fa": [
+        "جان باختن یک زن بر اثر اصابت گلوله در پالنسیا",
+        "بررسی‌های اولیه حاکی از ماهیت تصادفی شلیک است",
+        "همسر مقتول در جریان شکار اقدام به تیراندازی کرده بود",
+        "مقام‌های قضایی احتمال خشونت خانگی را رد کردند"
+      ],
+      "analysis_fa": "حوادث مربوط به سلاح گرم در جریان فعالیت‌های شکارگاهی گهگاه در اسپانیا رخ می‌دهد و این پرونده نیز بر اساس بررسی‌های اولیه پلیس، در زمره سوانح تصادفی طبقه‌بندی شده است. نهادهای امنیتی معمولاً در چنین پرونده‌هایی پیش از اعلام نظر قطعی، ابعاد مختلف حادثه از جمله رعایت اصول ایمنی استفاده از سلاح را بررسی می‌کنند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#حوادث",
+        "#پالنسیا"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "68e8fe5db479",
       "source": "EL PAÍS",
       "title": "El Kremlin confirma que el director de la CIA se reunió durante su visita a Moscú con los servicios de inteligencia rusos",
@@ -264,39 +293,10 @@
       "editorial_version": 2
     },
     {
-      "id": "988ebee871b0",
-      "source": "EL PAÍS",
-      "title": "Mueren la madre y la hija que resultaron heridas durante el temporal en Tarragona",
-      "summary": "Las dos víctimas quedaron gravemente heridas al caerles encima el muro de un jardín, arrastrado por la tromba de agua",
-      "url": "https://elpais.com/espana/catalunya/2026-08-26/mueren-la-madre-y-la-hija-que-resultaron-heridas-durante-el-temporal-en-tarragona.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TGTAM7RFZBPR3FKVVMJU4J2ATE.jpg?auth=26b600ab5af3e1424eda2126081ca7102aa56af018136e4e72f196ee93390f45",
-      "published_at": "2026-08-26T07:49:50+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "جان باختن مادر و دختر در پی طوفان تاراگونا",
-      "lead_fa": "مادر و دختری که بر اثر طوفان شدید در تاراگونا به شدت مجروح شده بودند، جان باختند. این حادثه ناشی از سقوط دیوار یک باغ بر روی آن‌ها بود.",
-      "key_points_fa": [
-        "قربانیان شامل یک مادر و دختر هستند.",
-        "جراحات ناشی از ریزش دیوار در جریان سیلاب و طوفان ایجاد شد.",
-        "این رویداد در منطقه تاراگونا رخ داده است."
-      ],
-      "analysis_fa": "این حادثه مرگبار بار دیگر آسیب‌پذیری زیرساخت‌ها در برابر حوادث جوی شدید و سیلاب‌های ناگهانی را برجسته می‌کند. بررسی‌های نهادهای مسئول درباره ایمنی سازه‌ها و مدیریت بحران در چنین شرایطی معمولاً پس از وقوع این دست حوادث تشدید می‌شود.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#تاراگونا",
-        "#طوفان",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7d0dc037dea7",
       "source": "La Vanguardia",
       "title": "Estabilizado el fuego en Collserola, que obligó a desalojar a los vecinos de Torre Baró",
-      "summary": "Las llamas han arrasado un perímetro de unas 35 hectáreas de matorral y arboleda",
+      "summary": "Las llamas han arrasado un perímetro de unas 45 hectáreas de matorral y arboleda",
       "url": "https://www.lavanguardia.com/local/barcelona/20260826/11620033/nuevo-incendio-collserola-fase-estabilizacion-obliga-desalojar-vecinos-torre-baro.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8e876e5b882.jpeg",
       "published_at": "2026-08-26T00:05:00+02:00",
@@ -406,12 +406,41 @@
       "editorial_version": 2
     },
     {
+      "id": "1d9c44c91eed",
+      "source": "La Vanguardia",
+      "title": "Arranca la Tomatina de Buñol con cifra récord de tomates",
+      "summary": "La localidad valenciana reúne a unas 22.000 personas de múltiples nacionalidades en la 79ª edición de una fiesta que este año lanza 150.000 kilos de tomates, 30.000 más que en 2025",
+      "url": "https://www.lavanguardia.com/local/valencia/20260826/11620358/arranca-tomatina-bunol-cifra-record-tomates.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8ec1e2dce0d.jpeg",
+      "published_at": "2026-08-26T12:21:23+02:00",
+      "category": "cultura",
+      "priority": 75,
+      "title_fa": "آغاز جشنواره گوجه‌فرنگی بونیول با رکورد جدید",
+      "lead_fa": "شهر بونیول در والنسیا میزبان هفتاد و نهمین دوره جشنواره گوجه‌فرنگی است. این رویداد با حضور حدود ۲۲ هزار شرکت‌کننده از ملیت‌های مختلف برگزار می‌شود.",
+      "key_points_fa": [
+        "حضور حدود ۲۲ هزار نفر از ملیت‌های گوناگون در مراسم",
+        "توزیع ۱۵۰ هزار کیلوگرم گوجه‌فرنگی برای پرتاب",
+        "افزایش ۳۰ هزار کیلوگرمی مقدار گوجه‌فرنگی نسبت به سال گذشته"
+      ],
+      "analysis_fa": "جشنواره «توماتینا» یکی از شناخته‌شده‌ترین رویدادهای فرهنگی و گردشگری اسپانیاست که هر ساله هزاران گردشگر بین‌المللی را به خود جلب می‌کند و تاثیر قابل توجهی بر اقتصاد محلی و صنعت گردشگری منطقه دارد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#توماتینا",
+        "#اسپانیا",
+        "#والنسیا",
+        "#گردشگری"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "0621d17372db",
       "source": "La Vanguardia",
       "title": "Junts vuelve a registrar la ley para la delegación de competencias en inmigración y cambia el preámbulo",
       "summary": "La iniciativa no prosperó el año pasado porque Podemos calificó de “racista” la exposición de motivos de la norma y ahora los posconvergentes la modifican para intentar atraer los votos de los morados",
       "url": "https://www.lavanguardia.com/politica/20260826/11620318/junts-vuelve-registrar-ley-delegacion-competencias-inmigracion-cambia-preambulo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8eb19896e34.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/26/6a8eb19896e34.r_d.804-485-0.jpeg",
       "published_at": "2026-08-26T11:21:40+02:00",
       "category": "migracion",
       "priority": 75,
@@ -520,7 +549,7 @@
     },
     {
       "id": "329c71e75d14",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
       "summary": "Los de Puigdemont aceleran la medida ante el avance electoral de Aliança Catalana y cambian el preámbulo de la proposición de ley para atraer a Podemos, que dice ahora que ese no era el “único problema” del texto",
       "url": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html",
@@ -549,7 +578,7 @@
     },
     {
       "id": "c132fd3e28ae",
-      "source": "EL PAÍS España",
+      "source": "EL PAÍS",
       "title": "El decreto que regula los ‘lobbies’ contempla sanciones de hasta 40.000 euros por infracciones graves",
       "summary": "El Gobierno reforma la ley de altos cargos e impide que trabajen para grupos de interés durante los dos años posteriores a su cese",
       "url": "https://elpais.com/espana/2026-08-26/el-decreto-que-regula-los-lobbies-contempla-sanciones-de-hasta-40000-euros-por-infracciones-graves.html",
@@ -557,16 +586,21 @@
       "published_at": "2026-08-26T10:10:00+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El decreto que regula los ‘lobbies’ contempla sanciones de hasta 40.000 euros por infracciones graves",
-      "lead_fa": "El Gobierno reforma la ley de altos cargos e impide que trabajen para grupos de interés durante los dos años posteriores a su cese",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "جریمه تا ۴۰ هزار یورویی برای تخلف لابی‌گری در اسپانیا",
+      "lead_fa": "دولت اسپانیا لایحه تنظیم فعالیت لابی‌ها و مقام‌های ارشد را اصلاح کرد. این قانون مقام‌های سابق را از کار در گروه‌های منافع تا دو سال پس از ترک منصب منع می‌کند.",
+      "key_points_fa": [
+        "تعیین جریمه تا ۴۰ هزار یورو برای تخلفات جدی لابی‌گری.",
+        "ممنوعیت فعالیت مقام‌های ارشد در گروه‌های ذی‌نفع تا دو سال پس از استعفا یا برکناری."
+      ],
+      "analysis_fa": "این اقدام با هدف افزایش شفافیت در نهادهای دولتی و جلوگیری از تعارض منافع انجام شده است. اجرای دقیق این مقررات می‌تواند به شفاف‌سازی روابط میان سیاستمداران و بخش خصوصی کمک کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#لابیگری",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -614,28 +648,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9fa406b96b8b",
-      "source": "EL PAÍS",
-      "title": "Cabify y tres socios de las VTC escapan de medio millón en multas de la Generalitat",
-      "summary": "Una sentencia del TSJC considera que el Gobierno catalán falló en los plazos para sancionar una falta grave por cesión ilegal de trabajadores",
-      "url": "https://elpais.com/espana/catalunya/2026-08-26/cabify-y-tres-socios-de-las-vtc-escapan-de-medio-millon-en-multas-de-la-generalitat.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/QJNOFL2O7FFIJMA7W5WDJ53ZME.jpg?auth=9444b03d077e99dc6d7fadde1fb9f78bbbca0a11127e7690b77fedc19b245d68",
-      "published_at": "2026-08-26T09:08:07+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "Cabify y tres socios de las VTC escapan de medio millón en multas de la Generalitat",
-      "lead_fa": "Una sentencia del TSJC considera que el Gobierno catalán falló en los plazos para sancionar una falta grave por cesión ilegal de trabajadores",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "9f214667f1ee",
       "source": "EL PAÍS",
       "title": "Estados Unidos suspende las citas para solicitar visados en embajadas y consulados de todo el mundo",
@@ -659,7 +671,7 @@
     },
     {
       "id": "0e5dabc95f15",
-      "source": "EL PAÍS",
+      "source": "EL PAÍS Economía",
       "title": "La firma de hipotecas repunta en junio y acaba el primer semestre con la cifra más elevada en 16 años",
       "summary": "En el sexto mes se constituyeron 45.907 préstamos para la compra de una vivienda, que sitúan en casi 260.000 el total desde enero, casi un 7% más que en 2025",
       "url": "https://elpais.com/economia/vivienda/2026-08-26/la-firma-de-hipotecas-repunta-en-junio-y-acaba-el-primer-semestre-con-la-cifra-mas-elevada-en-16-anos.html",
@@ -1068,17 +1080,17 @@
       "editorial_version": 2
     },
     {
-      "id": "a2af5cc5d214",
+      "id": "ff1c709be544",
       "source": "EL PAÍS Economía",
-      "title": "Carney hace bien en no pisar el fertilizante",
-      "summary": "Ottawa domina la potasa y el crudo que Washington necesita, pero cortar el suministro le costaría clientes para siempre",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-26/carney-hace-bien-en-no-pisar-el-fertilizante.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SCDQZWBAEJJ5DFZRGPOL762KUA.jpg?auth=4c4e0b82d37ad6cf5325066128760e12bb3535ff787c996f3116f76c02116b97",
+      "title": "El alto precio del petróleo aún puede convertirse en un suelo",
+      "summary": "Los inventarios mundiales se agotan mientras el estrecho de Ormuz sigue bloqueado y Washington y Teherán ni siquiera negocian",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-26/el-alto-precio-del-petroleo-aun-puede-convertirse-en-un-suelo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q2XBRMX6CRFEPE4NDZEH3OO2SM.jpg?auth=41aabfdea7cf68548ce273edcfdc9a7a43fc3b4e87e3fc1a31caf159b0cb95cd",
       "published_at": "2026-08-26T03:40:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 73,
-      "title_fa": "Carney hace bien en no pisar el fertilizante",
-      "lead_fa": "Ottawa domina la potasa y el crudo que Washington necesita, pero cortar el suministro le costaría clientes para siempre",
+      "title_fa": "El alto precio del petróleo aún puede convertirse en un suelo",
+      "lead_fa": "Los inventarios mundiales se agotan mientras el estrecho de Ormuz sigue bloqueado y Washington y Teherán ni siquiera negocian",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1316,35 +1328,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e87439006de2",
-      "source": "La Vanguardia",
-      "title": "United Airlines abre una ruta directa entre València y Nueva York con tres frecuencias semanales",
-      "summary": "Las autoridades valencianas se felicitan por una “excelente noticia” que confirma el interés creciente del mercado norteamericano en la Comunidad Valenciana",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619760/anuncian-ruta-aerea-conectar-valencia-nueva-york-tres-frecuencias-semanales.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/03/29/6606bdf9de93a.r_d.1040-696-0.jpeg",
-      "published_at": "2026-08-25T13:30:20+02:00",
-      "category": "economia",
-      "priority": 72,
-      "title_fa": "برقراری پرواز مستقیم میان والنسیا و نیویورک",
-      "lead_fa": "خط پروازی مستقیم میان والنسیا و نیویورک با سه پرواز در هفته راه‌اندازی می‌شود. مقامات محلی این رویداد را نشانه‌ای از افزایش جذابیت گردشگری و تجاری منطقه می‌دانند.",
-      "key_points_fa": [
-        "راه‌اندازی پرواز مستقیم میان والنسیا و نیویورک",
-        "انجام پروازها با سه فرکانس در هفته",
-        "استقبال مقامات والنسیا به عنوان خبری عالی برای بازار منطقه"
-      ],
-      "analysis_fa": "این اقدام نشان‌دهنده تلاش برای تقویت ارتباطات بین‌المللی و جذب بیشتر گردشگران و سرمایه‌گذاران بازار آمریکای شمالی به منطقه والنسیا است که می‌تواند به رشد اقتصادی محلی کمک کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#والنسیا",
-        "#پروازمستقیم",
-        "#اسپانیا",
-        "#اقتصاد"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "0604c8e5dd2b",
       "source": "EL PAÍS España",
       "title": "Ceuta, el Supremo y la ansiedad del PP",
@@ -1369,6 +1352,72 @@
         "#دیوان_عالی"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "7fc41685dfc0",
+      "source": "La Vanguardia",
+      "title": "Castilla y León, Extremadura y Aragón plantarán la reunión de Infancia sobre Ceuta",
+      "summary": "De momento diez comunidades han confirmado su asistencia a la cita que servirá para debatir el reparto de los menores migrantes que permanecen en la ciudad autónoma",
+      "url": "https://www.lavanguardia.com/politica/20260826/11620338/castilla-leon-extremadura-aragon-plantaran-reunion-infancia-sobre-ceuta.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c4d2a2ad7c.r_d.2820-1444-0.jpeg",
+      "published_at": "2026-08-26T11:55:11+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Castilla y León, Extremadura y Aragón plantarán la reunión de Infancia sobre Ceuta",
+      "lead_fa": "De momento diez comunidades han confirmado su asistencia a la cita que servirá para debatir el reparto de los menores migrantes que permanecen en la ciudad autónoma",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6aa9eac0c484",
+      "source": "EL PAÍS",
+      "title": "La Tomatina de hoy, “tan divertida y tan loca” como siempre: aplastar el tomate con fuerza y lanzarlo con ganas",
+      "summary": "Buñol se tiñe de rojo con 22.000 personas lanzándose 150 toneladas de este fruto rojo en una catarsis festiva",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-08-26/la-tomatina-de-hoy-tan-divertida-y-tan-loca-como-siempre-aplastar-el-tomate-con-fuerza-y-lanzarlo-con-ganas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/QASXBBX3K5ODHJDPDX5EMQ6SVQ.jpg?auth=3ffd0abb016f5f5fd9b326f10ccb3d827e927cc76af16fb3244ecd43d646a1b8",
+      "published_at": "2026-08-26T11:07:03+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "La Tomatina de hoy, “tan divertida y tan loca” como siempre: aplastar el tomate con fuerza y lanzarlo con ganas",
+      "lead_fa": "Buñol se tiñe de rojo con 22.000 personas lanzándose 150 toneladas de este fruto rojo en una catarsis festiva",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c8592d5648bb",
+      "source": "EL PAÍS",
+      "title": "Las lluvias y las tormentas continúan hoy en el norte y seguirán arreciando hasta el viernes",
+      "summary": "Las temperaturas continuarán hoy con valores bajos para la época del año en Galicia, Asturias y oeste de Castilla-León",
+      "url": "https://elpais.com/el-tiempo/2026-08-26/las-lluvias-y-las-tormentas-continuaran-hoy-en-el-norte-y-seguiran-arreciando-hasta-el-viernes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/57TP7ZHCDJME5HT3RKRTOHV3TI.jpg?auth=dfc4555f34ce793f1b14f077df7071b581ceb9e664f3929aeb0aef075b874fca",
+      "published_at": "2026-08-26T10:58:58+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Las lluvias y las tormentas continúan hoy en el norte y seguirán arreciando hasta el viernes",
+      "lead_fa": "Las temperaturas continuarán hoy con valores bajos para la época del año en Galicia, Asturias y oeste de Castilla-León",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1405,72 +1454,6 @@
       "priority": 70,
       "title_fa": "Sale a la luz un vídeo inédito del fallecido Brad Gobright cuando escalaba sin cuerda una vía de alta dificultad",
       "lead_fa": "Los cinco minutos de grabación del estadounidense en una ruta de 7c/c+ suponen un testimonio brutal de la terrible exposición a la que se somete el escalador, que murió en 2019",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bc3b2d6833c6",
-      "source": "EL PAÍS",
-      "title": "Vídeo en directo | Buñol celebra la Tomatina 2026 con el lanzamiento de más de 150 toneladas de tomates",
-      "summary": "La fiesta vuelve a teñir de rojo las calles de la población valenciana. Se espera que acudan unas 22.000 personas",
-      "url": "https://elpais.com/videos/2026-08-26/video-en-directo-bunol-celebra-la-tomatina-2026-con-el-lanzamiento-de-mas-de-150-toneladas-de-tomates.html",
-      "image": "https://www.youtube.com/watch?v=x5eMUGjOR3w",
-      "published_at": "2026-08-26T09:31:02+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Vídeo en directo | Buñol celebra la Tomatina 2026 con el lanzamiento de más de 150 toneladas de tomates",
-      "lead_fa": "La fiesta vuelve a teñir de rojo las calles de la población valenciana. Se espera que acudan unas 22.000 personas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8e6f5adf147b",
-      "source": "EL PAÍS",
-      "title": "Detenido un hombre en Zaragoza por agredir sexualmente a su hija de dos años y difundió las imágenes",
-      "summary": "La Policía Nacional constató que utilizaba herramientas de inteligencia artificial para generar imágenes de explotación sexual infantil a partir de fotografías obtenidas en redes sociales",
-      "url": "https://elpais.com/sociedad/2026-08-26/detenido-un-hombre-en-zaragoza-que-agredio-sexualmente-a-su-hija-de-dos-anos-y-difundio-las-imagenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q426UCLHQFDTNBVYVVEUKMLJLI.jpg?auth=271247c33a533e7094c12fed2314986c2af3e7c0834ac70ee523f4d31b86f176",
-      "published_at": "2026-08-26T09:05:51+00:00",
-      "category": "ciencia",
-      "priority": 70,
-      "title_fa": "Detenido un hombre en Zaragoza por agredir sexualmente a su hija de dos años y difundió las imágenes",
-      "lead_fa": "La Policía Nacional constató que utilizaba herramientas de inteligencia artificial para generar imágenes de explotación sexual infantil a partir de fotografías obtenidas en redes sociales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "c5000130be49",
-      "source": "EL PAÍS",
-      "title": "Telecinco cancela ‘El show de Paz’ tras dos meses de bajas audiencias y sigue sin encontrar el rumbo los fines de semana",
-      "summary": "El programa de Paz Padilla fue uno de los experimentos veraniegos de Mediaset pero se ha saldado con un 6,9% de cuota media",
-      "url": "https://elpais.com/television/2026-08-26/telecinco-cancela-el-show-de-paz-tras-dos-meses-de-bajas-audiencias-y-sigue-sin-encontrar-el-rumbo-los-fines-de-semana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TSJOJZSTUNBILLZF2BWI65PTQM.jpg?auth=108b105ce73311f1e9f1ffb644be4d1a31f5b484eb20283201d5e241c7e2ff5a",
-      "published_at": "2026-08-26T08:13:04+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Telecinco cancela ‘El show de Paz’ tras dos meses de bajas audiencias y sigue sin encontrar el rumbo los fines de semana",
-      "lead_fa": "El programa de Paz Padilla fue uno de los experimentos veraniegos de Mediaset pero se ha saldado con un 6,9% de cuota media",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1569,6 +1552,28 @@
       "priority": 69,
       "title_fa": "Elsa Pataky, Bigote Arrocet, Tamara Falcó y Susanna Griso protagonizan las portadas",
       "lead_fa": "Como cada miércoles, les ofrecemos las portadas de las revistas del corazón, que hoy se hacen dueñas del kiosco",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "c5000130be49",
+      "source": "EL PAÍS",
+      "title": "Telecinco cancela ‘El show de Paz’ tras dos meses de bajas audiencias y sigue sin encontrar el rumbo los fines de semana",
+      "summary": "El programa de Paz Padilla fue uno de los experimentos veraniegos de Mediaset pero se ha saldado con un 6,9% de cuota media",
+      "url": "https://elpais.com/television/2026-08-26/telecinco-cancela-el-show-de-paz-tras-dos-meses-de-bajas-audiencias-y-sigue-sin-encontrar-el-rumbo-los-fines-de-semana.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TSJOJZSTUNBILLZF2BWI65PTQM.jpg?auth=108b105ce73311f1e9f1ffb644be4d1a31f5b484eb20283201d5e241c7e2ff5a",
+      "published_at": "2026-08-26T08:13:04+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Telecinco cancela ‘El show de Paz’ tras dos meses de bajas audiencias y sigue sin encontrar el rumbo los fines de semana",
+      "lead_fa": "El programa de Paz Padilla fue uno de los experimentos veraniegos de Mediaset pero se ha saldado con un 6,9% de cuota media",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1756,28 +1761,6 @@
       "priority": 68,
       "title_fa": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
       "lead_fa": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0e709aec3d93",
-      "source": "La Vanguardia",
-      "title": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
-      "summary": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
-      "url": "https://www.lavanguardia.com/internacional/20260826/11619914/seis-jugadores-pelota-ningun-rival-asi-chinlone.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dde74acb73.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
-      "lead_fa": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2461,6 +2444,28 @@
       ],
       "ai_translated": false,
       "editorial_version": 2
+    },
+    {
+      "id": "090ada3b6a0e",
+      "source": "EL PAÍS Economía",
+      "title": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
+      "summary": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
+      "url": "https://elpais.com/economia/negocios/2026-08-24/kimberly-byron-match-hospitality-la-gente-lo-que-mas-valora-es-no-tener-que-hacer-cola-y-esta-dispuesta-a-pagar-por-ello.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YY2U4WRRBRERXIKNKZKTTSSZH4.jpg?auth=80e668263751cc251acc6ced850993e1299ecf68b0d8727fff9eccc407e39053",
+      "published_at": "2026-08-24T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 52,
+      "title_fa": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
+      "lead_fa": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
     }
   ],
   "feeds": [
@@ -2507,7 +2512,7 @@
     {
       "source": "La Vanguardia",
       "ok": true,
-      "count": 128
+      "count": 129
     }
   ]
 }
