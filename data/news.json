@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T04:21:30.548753+00:00",
+  "generated_at": "2026-08-26T05:09:57.100225+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "cc54ac63e1ca",
     "8cf2ba45ddcd",
     "4bb7b827e8fe",
-    "adc9b08eb84b",
-    "71913469b957"
+    "7d0dc037dea7",
+    "e81052ebe711"
   ],
   "items": [
     {
@@ -95,66 +95,9 @@
       "editorial_version": 2
     },
     {
-      "id": "adc9b08eb84b",
-      "source": "La Vanguardia",
-      "title": "Defensa e Interior exhiben versiones contrarias sobre los avisos previos a la crisis de Ceuta",
-      "summary": "Robles asegura que el CNI ha compartido la información recabada en Ceuta, mientras Marlaska niega que ningún servicio de inteligencia anticipara una entrada masiva",
-      "url": "https://www.lavanguardia.com/politica/20260825/11619830/defensa-e-interior-exhiben-versiones-contrarias-sobre-avisos-previos-crisis-ceuta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dae653d555.jpeg",
-      "published_at": "2026-08-25T15:24:21+02:00",
-      "category": "politica",
-      "priority": 82,
-      "title_fa": "اختلاف نظر وزارتخانه‌های دفاع و کشور اسپانیا درباره بحران سبته",
-      "lead_fa": "مقام‌های ارشد دولتی اسپانیا روایت‌های متفاوتی درباره هشدارهای پیش از بحران مهاجرتی سبته ارائه داده‌اند. این تناقض میان وزارتخانه‌های دفاع و کشور توجه رسانه‌ها را به خود جلب کرده است.",
-      "key_points_fa": [
-        "مارگاریتا روبلس، وزیر دفاع، اعلام کرد که مرکز اطلاعات ملی (CNI) اطلاعات مربوط به سبته را به اشتراک گذاشته است.",
-        "فرناندو گراند مارلاسکا، وزیر کشور، هرگونه پیش‌بینی ورود انبوه مهاجران توسط سرویس‌های اطلاعاتی را رد کرد.",
-        "این اظهارات متناقض ابهاماتی را درباره هماهنگی نهادهای امنیتی اسپانیا ایجاد کرده است."
-      ],
-      "analysis_fa": "تفاوت در موضع‌گیری دو وزارتخانه کلیدی دولت اسپانیا نشان‌دهنده چالش‌های موجود در ارزیابی و مدیریت اطلاعات امنیتی پیش از وقوع بحران‌های مرزی است. این مسئله می‌تواند پرسش‌هایی را درباره کارایی تبادل اطلاعات میان نهادهای مختلف دولتی مطرح کند بدون آنکه در حال حاضر نتیجه‌گیری قطعی درباره پیامدهای سیاسی آن میسر باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبته",
-        "#مهاجرت",
-        "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "71913469b957",
-      "source": "La Vanguardia",
-      "title": "Robles apunta al ataque híbrido de un “actor interesado” en desestabilizar España",
-      "summary": "Atribuye la entrada masiva a los mensajes en redes sobre la falta de obstáculos",
-      "url": "https://www.lavanguardia.com/politica/20260826/11619996/robles-apunta-ataque-hibrido-actor-interesado-desestabilizar-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dde22d0586.jpeg",
-      "published_at": "2026-08-26T00:05:00+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "اشاره روبلز به حمله ترکیبی یک بازیگر دولتی برای بی‌ثباتی اسپانیا",
-      "lead_fa": "وزیر دفاع اسپانیا ورود گسترده اخیر را به انتشار پیام‌هایی در شبکه‌های اجتماعی نسبت داد. او این اقدام را تلاش یک بازیگر علاقه‌مند به بی‌ثباتی کشور ارزیابی کرد.",
-      "key_points_fa": [
-        "اشاره مارگاریتا روبلز به حمله ترکیبی علیه اسپانیا",
-        "ارتباط دادن ورود انبوه افراد به پیام‌های شبکه‌های اجتماعی درباره نبود موانع",
-        "نقش احتمالی یک بازیگر خارجی در ناآرامی‌ها و ورودهای اخیر"
-      ],
-      "analysis_fa": "اظهارات مقامات دولتی اسپانیا درباره حملات ترکیبی و سوءاستفاده از شبکه‌های اجتماعی برای مدیریت جریان‌های مهاجرتی، ابعاد امنیتی چالش‌های مرزی را برجسته می‌کند. این رویکرد نشان‌دهنده نگرانی فزاینده نهادهای رسمی از تاثیر جنگ روانی و انتشار اطلاعات نادرست بر ثبات داخلی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#مهاجرت",
-        "#امنیت"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "7d0dc037dea7",
       "source": "La Vanguardia",
-      "title": "Un nuevo incendio en Collserola, en fase de estabilización, desaloja a los vecinos de Torre Baró",
+      "title": "El fuego vuelve a poner Collserola en vilo con desalojos y confinamientos",
       "summary": "Las llamas han arrasado un perímetro de 35 hectáreas de matorral y arboleda",
       "url": "https://www.lavanguardia.com/local/barcelona/20260826/11620033/nuevo-incendio-collserola-fase-estabilizacion-obliga-desalojar-vecinos-torre-baro.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f293661270.r_d.1024-682-0.jpeg",
@@ -329,18 +272,25 @@
       "url": "https://cincodias.elpais.com/opinion/2026-08-26/carney-hace-bien-en-no-pisar-el-fertilizante.html",
       "image": "https://imagenes.elpais.com/resizer/v2/SCDQZWBAEJJ5DFZRGPOL762KUA.jpg?auth=4c4e0b82d37ad6cf5325066128760e12bb3535ff787c996f3116f76c02116b97",
       "published_at": "2026-08-26T03:40:00+00:00",
-      "category": "politica",
+      "category": "economia",
       "priority": 75,
-      "title_fa": "Carney hace bien en no pisar el fertilizante",
-      "lead_fa": "Ottawa domina la potasa y el crudo que Washington necesita, pero cortar el suministro le costaría clientes para siempre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "استراتژی کارنی در قبال ایالات متحده؛ احتیاط در تامین کود و انرژی",
+      "lead_fa": "کانادا با تسلط بر بازار پتاس و نفت مورد نیاز واشنگتن، با موقعیت حساسی روبه‌روست. قطع عرضه این منابع می‌تواند به از دست رفتن دائمی مشتریان منجر شود.",
+      "key_points_fa": [
+        "تسلط اتاوا بر منابع پتاس و نفت خام حیاتی برای واشنگتن",
+        "ریسک از دست رفتن دائمی مشتریان در صورت قطع عرضه",
+        "رویکرد محتاطانه مارک کارنی در مدیریت مناسبات اقتصادی با ایالات متحده"
+      ],
+      "analysis_fa": "این تحلیل به اهمیت ژئواستژیک منابع طبیعی کانادا و وابستگی انرژی ایالات متحده اشاره دارد. تصمیم‌گیری در این حوزه نیازمند توازن میان استفاده از اهرم‌های فشار اقتصادی و حفظ بازارهای صادراتی در بلندمدت است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#کانادا",
+        "#اقتصاد",
+        "#انرژی",
+        "#آمریکا"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -353,16 +303,22 @@
       "published_at": "2026-08-26T03:30:01+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
-      "lead_fa": "La Comunidad de Madrid valoró comprar una vivienda de 4 millones en el paseo del Pintor Rosales antes de decantarse por el apartamento de Chamberí",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "خرید مسکن لوکس توسط دولت مادرید پیش از انتخاب آپارتمان چامبری",
+      "lead_fa": "دولت خودمختار مادرید پیش از انتخاب آپارتمان جنجالی در منطقه چامبری، خرید یک ملک چهار میلیون یورویی را بررسی کرده بود. این ماموریت به همان آژانس املاک لوکسی واگذار شده بود که پنت‌هاوس جنجالی را فروخته بود.",
+      "key_points_fa": [
+        "دولت مادرید به دنبال ملکی بین ۲۵۰ تا ۴۰۰ متر مربع به همراه یک تراس بزرگ بوده است.",
+        "این ملک در منطقه پائوس دل پینتور روزالس با ارزش تخمینی چهار میلیون یورو مد نظر قرار گرفته بود.",
+        "معامله توسط همان آژانس املاک لوکسی پیگیری شده که پیش‌تر پنت‌هاوس مرتبط را فروخته بود."
+      ],
+      "analysis_fa": "این اطلاعات ابعاد تازه‌ای از روند تصمیم‌گیری و انتخاب مسکن توسط مقامات دولت مادرید را روشن می‌کند. بررسی املاک چند میلیون یورویی و استفاده از آژانس‌های تخصصی املاک لوکس، پرسش‌هایی را درباره فرآیند خرید و تخصیص منابع عمومی ایجاد کرده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#مادرید",
+        "#سیاست"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -375,16 +331,23 @@
       "published_at": "2026-08-26T03:30:01+00:00",
       "category": "politica",
       "priority": 75,
-      "title_fa": "Robles indigna al resto del Gobierno al chocar con Marlaska y plantear que el CNI sí avisó de que venía un gran salto en Ceuta",
-      "lead_fa": "Varios ministros, cada vez más molestos con una responsable de Defensa que va por libre y choca con el mensaje de La Moncloa. El delegado del Gobierno también la desmiente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "اختلاف در دولت اسپانیا بر سر هشدار اطلاعاتی درباره ورود مهاجران به سبته",
+      "lead_fa": "وزیر دفاع اسپانیا با اظهاراتی درباره هشدار مرکز اطلاعاتی پیش از ورود مهاجران به سبته، جنجال آفرید. این موضع‌گیری با واکنش منفی سایر وزرا و تکذیب نماینده دولت مواجه شد.",
+      "key_points_fa": [
+        "مارگاریتا روبلس ادعا کرد که CNI درباره ورود گسترده مهاجران به سبته هشدار داده بود.",
+        "این موضع‌گیری در تضاد با خط خبری رسمی کاخ مونکلوآ و سخنان فرناندو گراند مارلاسکا است.",
+        "چندین وزیر از رفتار مستقل وزیر دفاع ابراز نارضایتی کرده‌اند."
       ],
-      "ai_translated": false,
+      "analysis_fa": "این تنش داخلی نشان‌دهنده اختلاف نظر و هماهنگی میان وزارتخانه‌های مختلف دولت اسپانیا در مدیریت بحران‌های مرزی و امنیتی است. اظهارات مستقل وزیر دفاع می‌تواند فشار سیاسی بر دولت را افزایش دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#سبته",
+        "#دولت_اسپانیا",
+        "#مهاجرت"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -738,34 +701,6 @@
         "#مراکز_داده",
         "#سرمایه_گذاری",
         "#فناوری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "d5291ea8161b",
-      "source": "EL PAÍS",
-      "title": "Dolly Parton, fascinante creadora de películas de tres minutos",
-      "summary": "La artista, que ha muerto a los 80 años, demostró una capacidad narrativa prodigiosa y su radio de influencia va de Stevie Nicks a Miley Cyrus",
-      "url": "https://elpais.com/cultura/2026-08-25/dolly-parton-fascinante-creadora-de-peliculas-de-tres-minutos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ETAGZABRFVNO5FRT42LMNWZM7U.jpg?auth=4c2e7dec538297e33277870e2abea97b1ad85f6c8a79bd1e8ed76b85b8fd1c61",
-      "published_at": "2026-08-25T19:45:27+00:00",
-      "category": "cultura",
-      "priority": 75,
-      "title_fa": "دالی پارتن، خالق افسانه‌ای ترانه‌ها، در هشتاد سالگی درگذشت",
-      "lead_fa": "این هنرمند برجسته آمریکایی توانایی روایی بی‌نظیری در آثار خود داشت. دالی پارتن در سن هشتاد سالگی چشم از جهان فروبست.",
-      "key_points_fa": [
-        "درگذشت دالی پارتن در سن ۸۰ سالگی",
-        "توانایی برجسته روایی در خلق آثار هنری کوتاه",
-        "گستره وسیع تأثیرگذاری بر هنرمندانی مانند استیوی نیکس و مایلی سایرس"
-      ],
-      "analysis_fa": "دالی پارتن یکی از چهره‌های ماندگار موسیقی و فرهنگ عامه بود که با ترانه‌سرایی و سبک منحصر‌به‌فرد خود، نسل‌های متعددی از هنرمندان را تحت تأثیر قرار داد. مرگ او پایان بخشی از تاریخ موسیقی معاصر را رقم می‌زند، بدون آنکه ابعاد کامل میراث فرهنگی‌اش به این زودی قابل ارزیابی باشد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#دالی_پارتن",
-        "#موسیقی",
-        "#درگذشت"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1190,6 +1125,50 @@
       "editorial_version": 2
     },
     {
+      "id": "4b89488e1037",
+      "source": "La Vanguardia",
+      "title": "Marlaska y Robles discrepan sobre si el CNI avisó del alud de Ceuta",
+      "summary": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
+      "url": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dd3ff859cd.r_d.955-512-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Marlaska y Robles discrepan sobre si el CNI avisó del alud de Ceuta",
+      "lead_fa": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "66ec0a26a328",
+      "source": "EL PAÍS",
+      "title": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
+      "summary": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-26/dolly-parton-la-estrella-que-se-nego-a-elegir-un-bando-politico-pero-nunca-se-quedo-callada.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/E2XRKIKCDVPG3OGD3Y7XVRD2ME.jpg?auth=de438397afa2870df798ac35f2e23226aa60531bc90f6f7658dd18678480e61a",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
+      "lead_fa": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1d82497bc134",
       "source": "EL PAÍS",
       "title": "Maxim Kuzminov, el desertor ruso que no supo ser discreto en España",
@@ -1564,6 +1543,28 @@
       "editorial_version": 2
     },
     {
+      "id": "98ac9c477a2d",
+      "source": "EL PAÍS",
+      "title": "Lo que España aún le debe a Ceuta",
+      "summary": "El Estado ha fallado gravemente a una ciudad pequeña que ha soportado un golpe capaz de destruir lugares mucho más poderosos",
+      "url": "https://elpais.com/opinion/2026-08-26/lo-que-espana-aun-le-debe-a-ceuta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LGVPUPNVKRJSVFAZUIYFSUFBXY.jpg?auth=9d79bddf45d8876631fabe3ecac732f43968bdad3e8699042e60761bd91d22c4",
+      "published_at": "2026-08-26T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Lo que España aún le debe a Ceuta",
+      "lead_fa": "El Estado ha fallado gravemente a una ciudad pequeña que ha soportado un golpe capaz de destruir lugares mucho más poderosos",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "89b67935043e",
       "source": "EL PAÍS",
       "title": "Moda agosteña de Flavita Banana: el tanga",
@@ -1586,17 +1587,17 @@
       "editorial_version": 2
     },
     {
-      "id": "98ac9c477a2d",
+      "id": "9bd8e71343f6",
       "source": "EL PAÍS",
-      "title": "Lo que España aún le debe a Ceuta",
-      "summary": "El Estado ha fallado gravemente a una ciudad pequeña que ha soportado un golpe capaz de destruir lugares mucho más poderosos",
-      "url": "https://elpais.com/opinion/2026-08-26/lo-que-espana-aun-le-debe-a-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LGVPUPNVKRJSVFAZUIYFSUFBXY.jpg?auth=9d79bddf45d8876631fabe3ecac732f43968bdad3e8699042e60761bd91d22c4",
+      "title": "La tormenta de bulos de la regularización",
+      "summary": "Abundan en redes mensajes alarmistas de abogados, tramitadores o personas cuya única experiencia es haber hecho su propia solicitud, junto al contenido racista contra la medida",
+      "url": "https://elpais.com/opinion/2026-08-26/la-tormenta-de-bulos-de-la-regularizacion.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZW2D2GPYHNDJND7QHMIWXICXWQ.JPG?auth=1157733b060c06dc934d7ebbf3d64e1547c69a23c260a55e25d6b8cb0d274ca0",
       "published_at": "2026-08-26T03:30:01+00:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Lo que España aún le debe a Ceuta",
-      "lead_fa": "El Estado ha fallado gravemente a una ciudad pequeña que ha soportado un golpe capaz de destruir lugares mucho más poderosos",
+      "title_fa": "La tormenta de bulos de la regularización",
+      "lead_fa": "Abundan en redes mensajes alarmistas de abogados, tramitadores o personas cuya única experiencia es haber hecho su propia solicitud, junto al contenido racista contra la medida",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1630,28 +1631,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7e17d85a8388",
-      "source": "EL PAÍS",
-      "title": "Cara y cruz en la búsqueda y exhumación de víctimas del franquismo en Jaén",
-      "summary": "Localizados los nueve primeros cuerpos en una fosa de Linares, pero en la capital de la provincia andaluza fracasa la búsqueda de otros 173 represaliados",
-      "url": "https://elpais.com/espana/2026-08-26/cara-y-cruz-en-la-busqueda-y-exhumacion-de-victimas-del-franquismo-en-jaen.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/RL6MIO42IJEWNJPUYWSHHW2PYI.jpg?auth=a3203c21544bb8ae555ce06b6bff8739cb4c3211c1440834c962dccbcdc4e9b6",
-      "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Cara y cruz en la búsqueda y exhumación de víctimas del franquismo en Jaén",
-      "lead_fa": "Localizados los nueve primeros cuerpos en una fosa de Linares, pero en la capital de la provincia andaluza fracasa la búsqueda de otros 173 represaliados",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "d653e1bcc1d6",
       "source": "EL PAÍS",
       "title": "Cinco recetas y varios consejos para preparar granizados y granitas en casa",
@@ -1663,28 +1642,6 @@
       "priority": 70,
       "title_fa": "Cinco recetas y varios consejos para preparar granizados y granitas en casa",
       "lead_fa": "Con fruta entera, con zumo, con hierbas y hasta con sangría, para preparar la bebida más refrescante del verano no necesitas más cacharrería que un recipiente y el congelador",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1e254bd83927",
-      "source": "EL PAÍS",
-      "title": "El ‘todo incluido’ de un festival rural: saberes ancestrales, música, comunidad y una manta... por si refresca",
-      "summary": "La séptima edición de Artim, organizado en Espinosa de los Monteros (Burgos) por la asociación Ábrego, ha sido una nueva oportunidad para los asistentes (muchos repiten) de huir de las ciudades, el calor y la masificación",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-26/el-todo-incluido-de-un-festival-rural-saberes-ancestrales-musica-comunidad-y-una-manta-por-si-refresca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/XIRKJAR63FCK5EYZNIHAEMMPCM.jpg?auth=362a5fa05856760082900688e977fcadcfca5e8c6affff5f8aea854bf3260b0c",
-      "published_at": "2026-08-26T03:30:00+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "El ‘todo incluido’ de un festival rural: saberes ancestrales, música, comunidad y una manta... por si refresca",
-      "lead_fa": "La séptima edición de Artim, organizado en Espinosa de los Monteros (Burgos) por la asociación Ábrego, ha sido una nueva oportunidad para los asistentes (muchos repiten) de huir de las ciudades, el calor y la masificación",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1769,6 +1726,28 @@
         "#فوتبال_هلند"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e282ece33f30",
+      "source": "EL PAÍS",
+      "title": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
+      "summary": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
+      "url": "https://elpais.com/america/2026-08-26/una-nueva-matanza-en-haiti-deja-al-menos-47-muertos-22-ejecutados-en-una-iglesia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3EIVLFTXMJK75BCR7RUD3DOEUQ.jpg?auth=6b67222df3e6aabe698f4a779042e78e62bf2a91fabdd292864ef3bdf6427315",
+      "published_at": "2026-08-26T01:02:21+00:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
+      "lead_fa": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1939,6 +1918,28 @@
         "#تورم"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "a841a62f5dee",
+      "source": "La Vanguardia",
+      "title": "Señales de humo",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/opinion/20260825/11620050/senales-humo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d83275afc0.jpeg",
+      "published_at": "2026-08-25T23:40:56+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Señales de humo",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2121,50 +2122,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6b15f2587621",
-      "source": "La Vanguardia",
-      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
-      "published_at": "2026-08-25T13:06:43+02:00",
-      "category": "turismo",
-      "priority": 65,
-      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e8b8ce8ef3d6",
-      "source": "La Vanguardia",
-      "title": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
-      "summary": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260825/11619698/joan-laporta-llama-interesa-menor-golpeado-policia-elche.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d75c5b62e8.jpeg",
-      "published_at": "2026-08-25T12:44:49+02:00",
-      "category": "deportes",
-      "priority": 65,
-      "title_fa": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
-      "lead_fa": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6baa49d4d15c",
       "source": "EL PAÍS Economía",
       "title": "United Airlines anuncia vuelo directo de Valencia a Nueva York con tres frecuencias semanales a partir de junio de 2027",
@@ -2187,6 +2144,50 @@
       "editorial_version": 2
     },
     {
+      "id": "6b15f2587621",
+      "source": "La Vanguardia",
+      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
+      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
+      "published_at": "2026-08-25T13:06:43+02:00",
+      "category": "turismo",
+      "priority": 64,
+      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "e8b8ce8ef3d6",
+      "source": "La Vanguardia",
+      "title": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
+      "summary": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260825/11619698/joan-laporta-llama-interesa-menor-golpeado-policia-elche.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d75c5b62e8.jpeg",
+      "published_at": "2026-08-25T12:44:49+02:00",
+      "category": "deportes",
+      "priority": 64,
+      "title_fa": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
+      "lead_fa": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f7196e9a39ec",
       "source": "La Vanguardia",
       "title": "Detienen en Valencia a un fugitivo reclamado por un intento de asesinato en 2025 en Alemania",
@@ -2195,7 +2196,7 @@
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d46feb0037.jpeg",
       "published_at": "2026-08-25T09:26:31+02:00",
       "category": "sociedad",
-      "priority": 64,
+      "priority": 63,
       "title_fa": "Detienen en Valencia a un fugitivo reclamado por un intento de asesinato en 2025 en Alemania",
       "lead_fa": "El fugitivo, que planificó los hechos junto con otros tres cómplices, disparó con una metralleta a la víctima en repetidas ocasiones que la dejaron gravemente herida y con secuelas",
       "key_points_fa": [],
@@ -2502,7 +2503,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 142
+      "count": 144
     },
     {
       "source": "EL PAÍS España",
