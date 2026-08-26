@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-08-26T05:09:57.100225+00:00",
+  "generated_at": "2026-08-26T05:48:28.283273+00:00",
   "editorial_version": 2,
   "featured_ids": [
+    "b8bb77c8dd75",
     "cc54ac63e1ca",
     "8cf2ba45ddcd",
     "4bb7b827e8fe",
-    "7d0dc037dea7",
-    "e81052ebe711"
+    "f9afb91adbf2"
   ],
   "items": [
+    {
+      "id": "b8bb77c8dd75",
+      "source": "La Vanguardia",
+      "title": "Mueren al menos 15 recién nacidos en Pakistán tras un incendio en un hospital de Islamabad",
+      "summary": "El incendio es uno de los más mortíferos registrados en hospitales del país en los últimos años",
+      "url": "https://www.lavanguardia.com/internacional/20260826/11620204/mueren-15-recien-nacidos-pakistan-incendio-hospital-islamabad.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8e7958ca9c0.jpeg",
+      "published_at": "2026-08-26T07:31:55+02:00",
+      "category": "sociedad",
+      "priority": 84,
+      "title_fa": "جان باختن دست‌کم ۱۵ نوزاد در آتش‌سوزی بیمارستانی در پاکستان",
+      "lead_fa": "بر اثر وقوع آتش‌سوزی در بیمارستانی در اسلام‌آباد، دست‌کم ۱۵ نوزاد تازه متولد شده جان باختند. این حادثه یکی از مرگبارترین حوادث بیمارستانی در سال‌های اخیر در پاکستان محسوب می‌شود.",
+      "key_points_fa": [
+        "وقوع آتش‌سوزی مرگبار در بیمارستانی در اسلام‌آباد",
+        "جان باختن حداقل ۱۵ نوزاد تازه متولد شده",
+        "ثبت یکی از مرگبارترین سوانح بیمارستانی سال‌های اخیر در پاکستان"
+      ],
+      "analysis_fa": "این حادثه تراژیک بار دیگر ضعف ایمنی و زیرساخت‌های درمانی در برخی مراکز پزشکی پاکستان را برجسته کرده است و مقام‌های محلی را تحت فشار برای بررسی دقیق علت آتش‌سوزی و مسئولیت‌پذیری نهادهای مربوطه قرار داده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#پاکستان",
+        "#آتش_سوزی",
+        "#حوادث"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
     {
       "id": "cc54ac63e1ca",
       "source": "EL PAÍS Economía",
@@ -95,10 +123,89 @@
       "editorial_version": 2
     },
     {
+      "id": "f9afb91adbf2",
+      "source": "La Vanguardia",
+      "title": "Merz ante el peligro: el canciller de Alemania afronta la pujanza de la ultraderecha debilitado por las crisis de agosto",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/internacional/20260826/11619964/merz-alemania-ultraderecha-afd-elecciones-crisis-agosto-calor.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dcd2598f79.r_d.3000-2000-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "چالش فریدریش مرتس در برابر راست افراطی آلمان",
+      "lead_fa": "فریدریش مرتس، نامزد صدراعظمی آلمان، با قدرت‌گرفتن جریان راست افراطی مواجه است. او هم‌زمان از بحران‌های ماه‌های اخیر آسیب دیده و ضعیف شده است.",
+      "key_points_fa": [
+        "قدرت‌گیری حزب راست افراطی در آلمان چالش بزرگی ایجاد کرده است.",
+        "بحران‌های سیاسی اخیر موقعیت فریدریش مرتس را تضعیف کرده است.",
+        "مرتس به‌عنوان رهبر محافظه‌کاران برای مقابله با این روند تحت فشار است."
+      ],
+      "analysis_fa": "رشد جریان‌های راست افراطی در اروپا و به‌ویژه آلمان، ساختار سیاسی سنتی این کشور را با چالش‌های جدی روبه‌رو کرده است. ضعف نسبی رهبران میانه‌رو در مدیریت بحران‌ها می‌تواند فضا را برای پیشروی این گروه‌ها بازتر کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#آلمان",
+        "#سیاست",
+        "#راست_افراطی"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e9d1be37fc9b",
+      "source": "La Vanguardia",
+      "title": "El verano de las IAs rebeldes",
+      "summary": "Cómo la narrativa de las compañías de IA nos pone en alerta sobre elementos de seguridad que sólo ellas controlan",
+      "url": "https://www.lavanguardia.com/vida/20260826/11619984/verano-ias-rebeldes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dd4ce8fadf.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "تابستان هوش‌های مصنوعی سرکش و روایت امنیت",
+      "lead_fa": "شرکت‌های فناوری با روایت‌های خود درباره خطرات هوش مصنوعی، افکار عمومی را نگران می‌کنند. این در حالی است که کنترل ابزارهای ایمنی منحصراً در دست خود این شرکت‌ها قرار دارد.",
+      "key_points_fa": [
+        "تمرکز شرکت‌های هوش مصنوعی بر خطرات احتمالی و هشداردهنده",
+        "انحصار کنترل ابزارهای امنیتی در اختیار شرکت‌های سازنده",
+        "نقش روایت‌های شرکتی در شکل‌دهی به ادراک عمومی از فناوری"
+      ],
+      "analysis_fa": "این روند نشان می‌دهد که چگونه گفتمان پیرامون امنیت هوش مصنوعی می‌تواند به ابزاری برای تقویت جایگاه شرکت‌های بزرگ تبدیل شود. با برجسته کردن خطراتی که تنها خودشان قادر به مهار آن‌ها هستند، آن‌ها عملاً استانداردهای نظارتی را به نفع خود شکل می‌دهند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#هوش_مصنوعی",
+        "#اسپانیا",
+        "#امنیت_دیجیتال",
+        "#فناوری"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "2267e56bfb32",
+      "source": "La Vanguardia",
+      "title": "Críticas por la falta de alertas a los móviles en las últimas inundaciones",
+      "summary": "El Govern lo justifica en la imprevisibilidad y los vecinos expresan su indignación",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260826/11619995/criticas-falta-alertas-moviles-ultimas-inundaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8ddda46392a.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 77,
+      "title_fa": "Críticas por la falta de alertas a los móviles en las últimas inundaciones",
+      "lead_fa": "El Govern lo justifica en la imprevisibilidad y los vecinos expresan su indignación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "7d0dc037dea7",
       "source": "La Vanguardia",
-      "title": "El fuego vuelve a poner Collserola en vilo con desalojos y confinamientos",
-      "summary": "Las llamas han arrasado un perímetro de 35 hectáreas de matorral y arboleda",
+      "title": "Estabilizado el fuego en Collserola, que obligó a desalojar a los vecinos de Torre Baró",
+      "summary": "Las llamas han arrasado un perímetro de unas 35 hectáreas de matorral y arboleda",
       "url": "https://www.lavanguardia.com/local/barcelona/20260826/11620033/nuevo-incendio-collserola-fase-estabilizacion-obliga-desalojar-vecinos-torre-baro.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7f293661270.r_d.1024-682-0.jpeg",
       "published_at": "2026-08-26T00:05:00+02:00",
@@ -179,35 +286,6 @@
       "editorial_version": 2
     },
     {
-      "id": "316cd747c449",
-      "source": "La Vanguardia",
-      "title": "Más enfermedades transmitidas por mosquitos elevan la alerta en Europa",
-      "summary": "El cambio climático expande el alcance del virus del Nilo, que llega a Países Bajos",
-      "url": "https://www.lavanguardia.com/vida/20260825/11619333/mas-enfermedades-transmitidas-mosquitos-elevan-alerta-europa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c7bea97078.r_d.1771-1181-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "افزایش بیماری‌های ناقل پشه‌ای و هشدار در اروپا",
-      "lead_fa": "تغییرات اقلیمی محدوده شیوع ویروس نیل غربی را در اروپا گسترش داده است. این ویروس اکنون به هلند نیز رسیده است.",
-      "key_points_fa": [
-        "گسترش بیماری‌های منتقل شده توسط پشه‌ها در اروپا",
-        "نقش تغییرات اقلیمی در توسعه محدوده فعالیت ویروس نیل غربی",
-        "تأیید رسیدن ویروس نیل غربی به کشور هلند"
-      ],
-      "analysis_fa": "تغییرات اقلیمی و گرمایش زمین زیستگاه پشه‌های ناقل بیماری را گسترش داده و چالش‌های جدیدی برای سیستم‌های بهداشتی در سراسر اروپا ایجاد کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#تغییرات_اقلیمی",
-        "#سلامت",
-        "#اروپا",
-        "#هلند"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "dcb8450affc8",
       "source": "EL PAÍS Economía",
       "title": "China ya tiene un culpable de su crisis inmobiliaria, pero sigue sin encontrar la solución",
@@ -234,6 +312,50 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "4b89488e1037",
+      "source": "La Vanguardia",
+      "title": "El Gobierno admite que se informó del aumento de entradas en Ceuta pero no de un asalto “excepcional”",
+      "summary": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
+      "url": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dd3ff859cd.r_d.955-512-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El Gobierno admite que se informó del aumento de entradas en Ceuta pero no de un asalto “excepcional”",
+      "lead_fa": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "08de97706f9d",
+      "source": "La Vanguardia",
+      "title": "Con enaguas y de luto en el trópico africano",
+      "summary": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619844/enaguas-luto-tropico-africano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8d9fd7f032f.r_d.2480-1646-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Con enaguas y de luto en el trópico africano",
+      "lead_fa": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -265,32 +387,25 @@
       "editorial_version": 2
     },
     {
-      "id": "a2af5cc5d214",
+      "id": "ff1c709be544",
       "source": "EL PAÍS Economía",
-      "title": "Carney hace bien en no pisar el fertilizante",
-      "summary": "Ottawa domina la potasa y el crudo que Washington necesita, pero cortar el suministro le costaría clientes para siempre",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-26/carney-hace-bien-en-no-pisar-el-fertilizante.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SCDQZWBAEJJ5DFZRGPOL762KUA.jpg?auth=4c4e0b82d37ad6cf5325066128760e12bb3535ff787c996f3116f76c02116b97",
+      "title": "El alto precio del petróleo aún puede convertirse en un suelo",
+      "summary": "Los inventarios mundiales se agotan mientras el estrecho de Ormuz sigue bloqueado y Washington y Teherán ni siquiera negocian",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-26/el-alto-precio-del-petroleo-aun-puede-convertirse-en-un-suelo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q2XBRMX6CRFEPE4NDZEH3OO2SM.jpg?auth=41aabfdea7cf68548ce273edcfdc9a7a43fc3b4e87e3fc1a31caf159b0cb95cd",
       "published_at": "2026-08-26T03:40:00+00:00",
       "category": "economia",
       "priority": 75,
-      "title_fa": "استراتژی کارنی در قبال ایالات متحده؛ احتیاط در تامین کود و انرژی",
-      "lead_fa": "کانادا با تسلط بر بازار پتاس و نفت مورد نیاز واشنگتن، با موقعیت حساسی روبه‌روست. قطع عرضه این منابع می‌تواند به از دست رفتن دائمی مشتریان منجر شود.",
-      "key_points_fa": [
-        "تسلط اتاوا بر منابع پتاس و نفت خام حیاتی برای واشنگتن",
-        "ریسک از دست رفتن دائمی مشتریان در صورت قطع عرضه",
-        "رویکرد محتاطانه مارک کارنی در مدیریت مناسبات اقتصادی با ایالات متحده"
-      ],
-      "analysis_fa": "این تحلیل به اهمیت ژئواستژیک منابع طبیعی کانادا و وابستگی انرژی ایالات متحده اشاره دارد. تصمیم‌گیری در این حوزه نیازمند توازن میان استفاده از اهرم‌های فشار اقتصادی و حفظ بازارهای صادراتی در بلندمدت است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "title_fa": "El alto precio del petróleo aún puede convertirse en un suelo",
+      "lead_fa": "Los inventarios mundiales se agotan mientras el estrecho de Ormuz sigue bloqueado y Washington y Teherán ni siquiera negocian",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
       "urgency": "normal",
       "hashtags_fa": [
-        "#کانادا",
-        "#اقتصاد",
-        "#انرژی",
-        "#آمریکا"
+        "#اخبار_اسپانیا"
       ],
-      "ai_translated": true,
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -327,7 +442,7 @@
       "title": "Robles indigna al resto del Gobierno al chocar con Marlaska y plantear que el CNI sí avisó de que venía un gran salto en Ceuta",
       "summary": "Varios ministros, cada vez más molestos con una responsable de Defensa que va por libre y choca con el mensaje de La Moncloa. El delegado del Gobierno también la desmiente",
       "url": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/HRTGTZIDAVFRRBC7M53MEDU6GU.jpg?auth=8a8985ccc260a8c0c4ec7ac96d817770a723bd4092fcdc3974c76e5e8f7817f4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4",
       "published_at": "2026-08-26T03:30:01+00:00",
       "category": "politica",
       "priority": 75,
@@ -494,6 +609,28 @@
       "priority": 75,
       "title_fa": "El pasado de corrupción del PP de Madrid aflora a menos de un año de las próximas elecciones autonómicas",
       "lead_fa": "La Audiencia Nacional inaugura una batería de juicios a Francisco Granados e Ignacio González, hombres de confianza de Aguirre, y otros exconsejeros populares",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "f5bcc24bad3a",
+      "source": "EL PAÍS",
+      "title": "Drenaje linfático: todo sobre el masaje estrella del verano",
+      "summary": "Esta técnica, con décadas de historia pero con una popularidad renovada gracias a celebridades como Hailey Bieber, combate la retención de líquidos y la sensación de pesadez tan propia de los meses de calor. En redes sociales se multiplican los tutoriales para ponerlo en práctica, pero los expertos advierten: “Estos vídeos virales simplifican la técnica”",
+      "url": "https://elpais.com/smoda/belleza/2026-08-26/drenaje-linfatico-todo-sobre-el-masaje-estrella-del-verano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SHQME7DCNFHUDAU5WUWZS5MFUQ.jpg?auth=08cbe8e1777a0c67ff0788ae561aea6ff4c27b6b4058f1ab1d108718445bf109",
+      "published_at": "2026-08-26T03:30:01+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "Drenaje linfático: todo sobre el masaje estrella del verano",
+      "lead_fa": "Esta técnica, con décadas de historia pero con una popularidad renovada gracias a celebridades como Hailey Bieber, combate la retención de líquidos y la sensación de pesadez tan propia de los meses de calor. En redes sociales se multiplican los tutoriales para ponerlo en práctica, pero los expertos advierten: “Estos vídeos virales simplifican la técnica”",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -706,35 +843,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8c994b0915b0",
-      "source": "La Vanguardia",
-      "title": "El director de la CIA visita Moscú en un viaje lleno de misterio",
-      "summary": "Según los medios CBS y Axios, John Ratcliffe, jefe de la agencia de espionaje estadounidense, vuela a Moscú, pero los gobiernos de EE.UU. y Rusia no confirman el viaje de forma oficial",
-      "url": "https://www.lavanguardia.com/internacional/20260825/11619944/el-director-de-la-cia-visita-moscu-en-una-viaje-lleno-de-misterio.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dc24bd55fb.r_d.1820-1058-0.jpeg",
-      "published_at": "2026-08-25T18:30:54+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "سفر مرموز رئیس سیا به مسکو؛ مقصد دیپلماتیک یا امنیتی؟",
-      "lead_fa": "رسانه‌های آمریکایی از سفر جان راتکلیف، رئیس سازمان سیا، به مسکو خبر دادند. با این حال، دولت آمریکا و کرملین هنوز این سفر را به صورت رسمی تأیید نکرده‌اند.",
-      "key_points_fa": [
-        "گزارش سفر توسط رسانه‌های سی‌بی‌اس و اکسیوس منتشر شده است.",
-        "مقامات رسمی در واشنگتن و مسکو سکوت اختیار کرده‌اند.",
-        "جزئیات و اهداف این سفر ناپیدا باقی مانده است."
-      ],
-      "analysis_fa": "سکوت مقام‌های رسمی ایالات متحده و روسیه درباره این سفر نشان‌دهنده حساسیت بالای مسائل امنیتی و دیپلماتیک میان دو کشور است. سفرهای این‌چنینی معمولاً در راستای مدیریت بحران‌های پنهان یا تبادل پیام‌های پشت پرده انجام می‌شود، اما عدم تأیید آن امکان ارزیابی دقیق دستاوردها یا اهداف آن را دشوار می‌سازد.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#سیا",
-        "#روسیه",
-        "#آمریکا",
-        "#دیپلماسی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "f1562bf38856",
       "source": "La Vanguardia",
       "title": "Canadá rompe la negociación comercial con EE.UU. porque Trump ataca al idioma francés",
@@ -762,34 +870,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6807c563758c",
-      "source": "La Vanguardia",
-      "title": "Detenido un multirreincidente que entró a robar en el despacho de una concejal de Badalona",
-      "summary": "El hombre, de 29 años y nacionalidad ecuatoriana, que tiene 26 antecendentes, superó el control de vigilancia del Viver con la excusa de realizar un trámite en la OAC y acabó accediendo a los despachos de los concejales",
-      "url": "https://www.lavanguardia.com/local/barcelones-nord/20260825/11619871/detenido-multirreincidente-entro-robar-despacho-concejal-badalona.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8da91d570cf.r_d.788-415-0.jpeg",
-      "published_at": "2026-08-25T16:41:37+02:00",
-      "category": "migracion",
-      "priority": 75,
-      "title_fa": "بازداشت مجرم سابقه دار با ۲۶ فقره سابقه در دفتر شورای شهر بادالونا",
-      "lead_fa": "مردی ۲۹ ساله اهل اکوادور با ۲۶ سابقه کیفری پس از ورود به ساختمان اداری بادالونا بازداشت شد. متهم با بهانه انجام کارهای اداری از کنترل امنیتی عبور کرده و وارد دفاتر اعضای شورای شهر شده بود.",
-      "key_points_fa": [
-        "متهم ۲۹ ساله و تبعه اکوادور است.",
-        "این فرد دارای ۲۶ فقره سابقه کیفری قبلی است.",
-        "او با بهانه مراجعه به بخش اداری از گیت نظارتی عبور کرده بود."
-      ],
-      "analysis_fa": "این رخداد بار دیگر بحث درباره سطح امنیت و کنترل دسترسی در ساختمان های عمومی و نهادهای دولتی محلی را مطرح می کند. حضور فردی با سوابق کیفری متعدد در بخش های اداری حساس، مدیریت امنیتی این مراکز را زیر سوال برده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#بادالونا",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "1063147a6420",
       "source": "EL PAÍS España",
       "title": "El Gobierno endurece las leyes de extranjería y asilo en línea con el pacto europeo en plena crisis de Ceuta",
@@ -812,33 +892,6 @@
         "#اسپانیا",
         "#مهاجرت",
         "#پناهندگی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "ec7fd22a545b",
-      "source": "La Vanguardia",
-      "title": "El Govern condena la agresión de la Policía a un aficionado del Barça en Elche",
-      "summary": "El Ejecutivo de Illa remarca que la retirada de estelades no está amparada por la ley mientras que Marlaska defiende la investigación de oficio que se ha impulsado",
-      "url": "https://www.lavanguardia.com/politica/20260825/11619798/govern-condena-agresion-policia-aficionado-barca-elche.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7d7dc48c9.jpeg",
-      "published_at": "2026-08-25T14:07:45+02:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "محکومیت خشونت پلیس علیه هوادار بارسا توسط دولت کاتالونیا",
-      "lead_fa": "دولت کاتالونیا خشونت پلیس علیه یک هوادار بارسلونا در الچه را محکوم کرد. این نهاد تاکید کرد که جمع‌آوری پرچم‌های استلادا مبنای قانونی ندارد.",
-      "key_points_fa": [
-        "محکومیت برخورد خشونت‌آمیز پلیس با هوادار بارسلونا در الچه توسط دولت کاتالونیا",
-        "تاکید دولت بر غیرقانونی بودن جمع‌آوری پرچم‌های استلادا"
-      ],
-      "analysis_fa": "این موضع‌گیری دولت کاتالونیا نشان‌دهنده حساسیت سیاسی پیرامون نمادهای استقلال‌طلبانه و حدود اختیارات و رفتارهای نیروهای انتظامی در رویدادهای ورزشی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بارسلونا",
-        "#اسپانیا",
-        "#پلیس"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -929,34 +982,6 @@
       "editorial_version": 2
     },
     {
-      "id": "515616d12705",
-      "source": "La Vanguardia",
-      "title": "Buñol prepara 150.000 kilos de tomates para una Tomatina más accesible y abierta al mundo",
-      "summary": "La batalla, que celebra este miércoles su 79 aniversario, reunirá a 22.000 participantes de múltiples nacionalidades y contará con 1.700 plazas adicionales de Cercanías",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619870/bunol-prepara-150-000-kilos-tomates-tomatina-mas-accesible-abierta-mundo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/28/66cefa3b9bd3f.jpeg",
-      "published_at": "2026-08-25T16:39:33+02:00",
-      "category": "turismo",
-      "priority": 74,
-      "title_fa": "آمادگی بونیول برای برگزاری جشن گوجه‌فرنگی با ۱۵۰ تن محصول",
-      "lead_fa": "شهر بونیول اسپانیا خود را برای هفتاد و نهمین دوره جشنواره سنتی توماتینا آماده می‌کند. این مراسم با حضور ۲۲ هزار شرکت‌کننده از ملیت‌های مختلف برگزار خواهد شد.",
-      "key_points_fa": [
-        "توزیع ۱۵۰ هزار کیلوگرم گوجه‌فرنگی در میان شرکت‌کنندگان",
-        "حضور ۲۲ هزار نفر از سراسر جهان در این رویداد",
-        "افزایش ۱۷۰۰ ظرفیت جدید در قطارهای حومه‌ای برای تسهیل دسترسی"
-      ],
-      "analysis_fa": "جشنواره توماتینا یکی از نمادهای گردشگری فرهنگی اسپانیاست که هر ساله توجه رسانه‌های بین‌المللی و هزاران گردشگر خارجی را به خود جلب می‌کند. تلاش برای دسترسی آسان‌تر نشان‌دهنده اهمیت مدیریت گردشگری در رویدادهای بزرگ محلی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#توماتینا",
-        "#اسپانیا",
-        "#گردشگری"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "59aec65ed4ce",
       "source": "EL PAÍS España",
       "title": "El Gobierno aprueba por decreto la creación del registro público de ‘lobbies’ ante el bloqueo del Congreso",
@@ -980,62 +1005,6 @@
         "#اسپانیا",
         "#لابی",
         "#سیاست"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "85a73ae39f21",
-      "source": "La Vanguardia",
-      "title": "Un tornado deja 41 heridos en el sur de Francia durante las fuertes tormentas",
-      "summary": "El balance de daños materiales cifra en 300 las viviendas afectadas, ya que algunos tejados han sido arrancados y varias casas han quedado parcialmente destruidas",
-      "url": "https://www.lavanguardia.com/internacional/20260825/11619557/tornado-deja-41-heridos-sur-francia-fuertes-tormentas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d3544cf8b9.jpeg",
-      "published_at": "2026-08-25T08:08:29+02:00",
-      "category": "sociedad",
-      "priority": 74,
-      "title_fa": "گردباد در جنوب فرانسه ۴۱ زخمی برجای گذاشت",
-      "lead_fa": "وقوع گردباد و طوفان شدید در جنوب فرانسه خسارت‌های زیادی به بار آورد. این حادثه ۴۱ مصدوم و تخریب سقف صدها خانه را در پی داشت.",
-      "key_points_fa": [
-        "مصدوم شدن ۴۱ نفر در جریان طوفان و گردباد",
-        "آسیب دیدن حدود ۳۰۰ واحد مسکونی",
-        "کنده شدن سقف‌ها و تخریب نسبی برخی منازل"
-      ],
-      "analysis_fa": "این رویداد طبیعی نشان‌دهنده شدت گرفتن ناهنجاری‌های جوی در منطقه است که زیرساخت‌های شهری و مسکونی را به شدت تحت تأثیر قرار داده و مقامات محلی را با چالش ارزیابی و جبران خسارت‌ها مواجه کرده است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "important",
-      "hashtags_fa": [
-        "#فرانسه",
-        "#گردباد",
-        "#طوفان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "f1c4f92ca64d",
-      "source": "La Vanguardia",
-      "title": "La leyenda de los Pérez de las Shetland",
-      "summary": "Hay el mito popular de que los habitantes de cabello y piel oscura son descendientes de marineros de la Armada Invencible",
-      "url": "https://www.lavanguardia.com/internacional/20260825/11618968/leyenda-perez-shetland.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c194446e23.r_d.1542-1190-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "cultura",
-      "priority": 73,
-      "title_fa": "افسانه تاریخی ریشه‌های اسپانیایی در جزایر شتلند",
-      "lead_fa": "یک باور عامیانه در جزایر شتلند وجود دارد که ساکنان با مو و پوست تیره را از نسل ملوانان ناوگان شکست‌ناپذیر اسپانیا می‌داند. این روایت تاریخی سال‌هاست که به عنوان یک افسانه محبوب در این منطقه بازگو می‌شود.",
-      "key_points_fa": [
-        "وجود باورهای محلی درباره ارتباط ساکنان شتلند با ملوانان اسپانیایی",
-        "نسبت دادن ویژگی‌های ظاهری تیره به نسل ناوگان شکست‌ناپذیر",
-        "این موضوع بخشی از فرهنگ عامه و اسطوره‌های محلی است"
-      ],
-      "analysis_fa": "این روایت نمونه‌ای از اسطوره‌های محلی است که تلاش می‌کند ویژگی‌های ظاهری خاص را به رویدادهای بزرگ تاریخی پیوند بزند. با وجود جذابیت فرهنگی، مورخان معمولاً با احتیاط به چنین روایت‌هایی نگاه می‌کنند زیرا نیازمند مستندات ژنتیکی و تاریخی دقیق هستند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#شتلند",
-        "#تاریخ"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -1071,7 +1040,7 @@
     {
       "id": "e87439006de2",
       "source": "La Vanguardia",
-      "title": "Anuncian un vuelo directo entre València y Nueva York con tres frecuencias semanales",
+      "title": "United Airlines abre una ruta directa entre València y Nueva York con tres frecuencias semanales",
       "summary": "Las autoridades valencianas se felicitan por una “excelente noticia” que confirma el interés creciente del mercado norteamericano en la Comunidad Valenciana",
       "url": "https://www.lavanguardia.com/local/valencia/20260825/11619760/anuncian-ruta-aerea-conectar-valencia-nueva-york-tres-frecuencias-semanales.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/03/29/6606bdf9de93a.r_d.1040-696-0.jpeg",
@@ -1125,17 +1094,281 @@
       "editorial_version": 2
     },
     {
-      "id": "4b89488e1037",
+      "id": "2244a62b12ca",
       "source": "La Vanguardia",
-      "title": "Marlaska y Robles discrepan sobre si el CNI avisó del alud de Ceuta",
-      "summary": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
-      "url": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dd3ff859cd.r_d.955-512-0.jpeg",
+      "title": "Elísabet Benavent: “Ahora creo más en el pequeño romanticismo, en el de todos los días”",
+      "summary": "La escritora superventas de novela romántica estrena la adaptación a miniserie de su libro 'Toda la verdad de mis mentiras'",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20260826/11619224/elisabet-benavent-creo-mas-pequeno-romanticismo-todos-dias.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c5c2c4bee8.r_d.2250-1500-0.jpeg",
+      "published_at": "2026-08-26T06:30:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Elísabet Benavent: “Ahora creo más en el pequeño romanticismo, en el de todos los días”",
+      "lead_fa": "La escritora superventas de novela romántica estrena la adaptación a miniserie de su libro 'Toda la verdad de mis mentiras'",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "7a1055e49b31",
+      "source": "La Vanguardia",
+      "title": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
+      "summary": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
+      "url": "https://www.lavanguardia.com/vida/20260826/11619770/psicosis-postparto-trastorno-grave-delirios-lindsay-clancy.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7d3223aaf.jpeg",
+      "published_at": "2026-08-26T06:05:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
+      "lead_fa": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5335d090994a",
+      "source": "La Vanguardia",
+      "title": "Veinte novedades literarias para disfrutar este nuevo curso",
+      "summary": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619712/veinte-libros-disfrutar-nuevo-curso-rentree-castellano-catalan.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d84ab9f54c.jpeg",
       "published_at": "2026-08-26T06:00:00+02:00",
       "category": "sociedad",
       "priority": 70,
-      "title_fa": "Marlaska y Robles discrepan sobre si el CNI avisó del alud de Ceuta",
-      "lead_fa": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
+      "title_fa": "Veinte novedades literarias para disfrutar este nuevo curso",
+      "lead_fa": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4be5eec5bf16",
+      "source": "La Vanguardia",
+      "title": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
+      "summary": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
+      "url": "https://www.lavanguardia.com/vida/20260826/11620003/choque-social-ee-uu-caso-madre-mato-tres-hijos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8de07ba34b5.r_d.1491-829-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
+      "lead_fa": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "01395276e58b",
+      "source": "La Vanguardia",
+      "title": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
+      "summary": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
+      "url": "https://www.lavanguardia.com/gente/20260826/11619674/amaia-montero-oreja-van-gogh-regreso-50.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/12/6a03251c2bea5.r_d.1552-1236-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
+      "lead_fa": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0e709aec3d93",
+      "source": "La Vanguardia",
+      "title": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
+      "summary": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
+      "url": "https://www.lavanguardia.com/internacional/20260826/11619914/seis-jugadores-pelota-ningun-rival-asi-chinlone.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dde74acb73.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
+      "lead_fa": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "18fca3a888a0",
+      "source": "La Vanguardia",
+      "title": "Deja de buscar el propósito de tu vida y empieza a disfrutar de un picnic",
+      "summary": "El neurólogo Richard Sima propone los 'aperitivos de alegría': pequeños momentos cotidianos (un café, un paseo, una conversación) que según la psicología producen más bienestar sostenido que los grandes logros",
+      "url": "https://www.lavanguardia.com/vivo/psicologia-salud-mental/20260826/11603686/deja-buscar-proposito-vida-empieza-disfrutar-picnic-filosofia-joy-snacking.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/06/66dacd2020b5c.r_d.3940-1675-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Deja de buscar el propósito de tu vida y empieza a disfrutar de un picnic",
+      "lead_fa": "El neurólogo Richard Sima propone los 'aperitivos de alegría': pequeños momentos cotidianos (un café, un paseo, una conversación) que según la psicología producen más bienestar sostenido que los grandes logros",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1dfedf2138c5",
+      "source": "La Vanguardia",
+      "title": "Hacerse mayor siendo trans: “Envejecer produce rechazo dentro del colectivo”",
+      "summary": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260826/11606599/realidad-hacerse-mayor-siendo-trans-olvido-ibamos-envejecer-hacerlo-produce-rechazo-colectivo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705745d67f9.r_d.2041-821-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Hacerse mayor siendo trans: “Envejecer produce rechazo dentro del colectivo”",
+      "lead_fa": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0210b2ef1cfb",
+      "source": "La Vanguardia",
+      "title": "Los soldados más próximos y los más silenciosos",
+      "summary": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260826/11619741/soldados-mas-proximos-mas-silenciosos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d76af9e65d.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Los soldados más próximos y los más silenciosos",
+      "lead_fa": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "83ba5f49b365",
+      "source": "La Vanguardia",
+      "title": "“La IA puede ser una brújula, no un GPS”: cada vez más viajeros recurren a la inteligencia artificial para organizar sus vacaciones",
+      "summary": "Un estudio internacional revela que el 42% de los viajeros ya recurrió a estas herramientas en 2025, mientras expertos advierten de sus errores y recomiendan verificar la información antes de reservar",
+      "url": "https://www.lavanguardia.com/neo/ia/20260826/11616490/ia-brujula-gps-vez-mas-viajeros-recurren-inteligencia-artificial-organizar-vacaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85892f20967.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "turismo",
+      "priority": 70,
+      "title_fa": "“La IA puede ser una brújula, no un GPS”: cada vez más viajeros recurren a la inteligencia artificial para organizar sus vacaciones",
+      "lead_fa": "Un estudio internacional revela que el 42% de los viajeros ya recurrió a estas herramientas en 2025, mientras expertos advierten de sus errores y recomiendan verificar la información antes de reservar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2884da60c042",
+      "source": "La Vanguardia",
+      "title": "'El ser querido' (★★★★✩), de qué hablamos cuando hablamos de amor, y otros estrenos de la semana",
+      "summary": "Los críticos de 'La Vanguardia' también analizan 'Tadeo Jones y la lámpara maravillosa', 'La constelación del perro', 'Anoche conquisté Tebas', 'Una noche al año', 'Erupcja' y 'La superviviente'",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619943/querido-que-hablamos-hablamos-amor-otros-estrenos-semana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dc29a2cc52.r_d.667-488-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "'El ser querido' (★★★★✩), de qué hablamos cuando hablamos de amor, y otros estrenos de la semana",
+      "lead_fa": "Los críticos de 'La Vanguardia' también analizan 'Tadeo Jones y la lámpara maravillosa', 'La constelación del perro', 'Anoche conquisté Tebas', 'Una noche al año', 'Erupcja' y 'La superviviente'",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5736627f13eb",
+      "source": "La Vanguardia",
+      "title": "Tensión en València por la situación del asentamiento en el viejo circuito de Fórmula 1",
+      "summary": "El posible desalojo que el Ayuntamiento niega por el momento desata las críticas de la oposición",
+      "url": "https://www.lavanguardia.com/local/valencia/20260826/11619890/tension-valencia-situacion-asentamiento-viejo-circuito-formula-1.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8daf106930c.jpeg",
+      "published_at": "2026-08-26T05:10:00+02:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Tensión en València por la situación del asentamiento en el viejo circuito de Fórmula 1",
+      "lead_fa": "El posible desalojo que el Ayuntamiento niega por el momento desata las críticas de la oposición",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9cac9e92bf19",
+      "source": "La Vanguardia",
+      "title": "Oír música en valenciano",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260826/11619716/oir-musica-valenciano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/09/09/6139dbbb45f5c.r_d.3008-2008-0.jpeg",
+      "published_at": "2026-08-26T05:00:00+02:00",
+      "category": "cultura",
+      "priority": 70,
+      "title_fa": "Oír música en valenciano",
+      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1191,28 +1424,6 @@
       "editorial_version": 2
     },
     {
-      "id": "190b4e07a0f7",
-      "source": "EL PAÍS",
-      "title": "De Guadagnino a Cuarón a Tati, cinco películas para cerrar el verano",
-      "summary": "Antes de que la realidad absorba lo que hemos vivido o descubierto fuera de nuestra rutina, estos títulos demuestran lo tangible que verdaderamente fue",
-      "url": "https://elpais.com/eps/2026-08-26/de-guadagnino-a-cuaron-a-tati-cinco-peliculas-para-cerrar-el-verano.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/LPEZPDVLZVAYHBPBKFWF2LHCVM.jpg?auth=d57ce6e644f4fcdea69da15a1743ccfd9c2fc909b0a6f6d5d3f69c7d991607dd",
-      "published_at": "2026-08-26T03:40:00+00:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "De Guadagnino a Cuarón a Tati, cinco películas para cerrar el verano",
-      "lead_fa": "Antes de que la realidad absorba lo que hemos vivido o descubierto fuera de nuestra rutina, estos títulos demuestran lo tangible que verdaderamente fue",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "07d06543611a",
       "source": "EL PAÍS",
       "title": "Ángel Ortiz, el nieto del inventor de las palas de playa, quiere revolucionar este deporte",
@@ -1224,6 +1435,28 @@
       "priority": 70,
       "title_fa": "Ángel Ortiz, el nieto del inventor de las palas de playa, quiere revolucionar este deporte",
       "lead_fa": "Con un radar inventado en Grecia que calcula el número de golpes, su velocidad y los fallos, el objetivo es que este juego se convierta en deporte oficial",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "190b4e07a0f7",
+      "source": "EL PAÍS",
+      "title": "De Guadagnino a Cuarón a Tati, cinco películas para cerrar el verano",
+      "summary": "Antes de que la realidad absorba lo que hemos vivido o descubierto fuera de nuestra rutina, estos títulos demuestran lo tangible que verdaderamente fue",
+      "url": "https://elpais.com/eps/2026-08-26/de-guadagnino-a-cuaron-a-tati-cinco-peliculas-para-cerrar-el-verano.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/LPEZPDVLZVAYHBPBKFWF2LHCVM.jpg?auth=d57ce6e644f4fcdea69da15a1743ccfd9c2fc909b0a6f6d5d3f69c7d991607dd",
+      "published_at": "2026-08-26T03:40:00+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "De Guadagnino a Cuarón a Tati, cinco películas para cerrar el verano",
+      "lead_fa": "Antes de que la realidad absorba lo que hemos vivido o descubierto fuera de nuestra rutina, estos títulos demuestran lo tangible que verdaderamente fue",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1345,6 +1578,28 @@
       "editorial_version": 2
     },
     {
+      "id": "c1388c6bb956",
+      "source": "EL PAÍS",
+      "title": "Escándalo en las letras inglesas: Rachel Cusk destruye sin nombrarla a la actriz Natalie Portman en su última novela",
+      "summary": "Ninguna de ellas ha confirmado que la intérprete sea la protagonista de `Life of M’ (La Vida de M)",
+      "url": "https://elpais.com/cultura/2026-08-26/escandalo-en-las-letras-inglesas-rachel-cusk-destruye-sin-nombrarla-a-la-actriz-natalie-portman-en-su-ultima-novela.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5GVJYP6JKFE6VMSGN27GXXWB7U.jpg?auth=1eac0f63571aea28e24a7c25dbd48d6c23c6cdb8bc6256b39764fcaeb634d9ac",
+      "published_at": "2026-08-26T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Escándalo en las letras inglesas: Rachel Cusk destruye sin nombrarla a la actriz Natalie Portman en su última novela",
+      "lead_fa": "Ninguna de ellas ha confirmado que la intérprete sea la protagonista de `Life of M’ (La Vida de M)",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "f678f906213f",
       "source": "EL PAÍS",
       "title": "‘Farmear’ aura, el fenómeno que conquista a Rosalía y espanta a mileniales y ‘boomers’",
@@ -1367,17 +1622,17 @@
       "editorial_version": 2
     },
     {
-      "id": "c1388c6bb956",
+      "id": "dd5c0fb575e6",
       "source": "EL PAÍS",
-      "title": "Escándalo en las letras inglesas: Rachel Cusk destruye sin nombrarla a la actriz Natalie Portman en su última novela",
-      "summary": "Ninguna de ellas ha confirmado que la intérprete sea la protagonista de `Life of M’ (La Vida de M)",
-      "url": "https://elpais.com/cultura/2026-08-26/escandalo-en-las-letras-inglesas-rachel-cusk-destruye-sin-nombrarla-a-la-actriz-natalie-portman-en-su-ultima-novela.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5GVJYP6JKFE6VMSGN27GXXWB7U.jpg?auth=1eac0f63571aea28e24a7c25dbd48d6c23c6cdb8bc6256b39764fcaeb634d9ac",
+      "title": "Ella Rubin, la actriz de 24 años que todos comparan con Julia Roberts y que triunfa con ‘Sterling Point’",
+      "summary": "Tiene el rostro de una estrella de los noventa, un estilo minimalista que empieza a llamar la atención de las grandes firmas y una carrera construida durante más de una década a base de pequeños papeles y muchos noes. Ahora, gracias a la serie ‘Sterling Point’, Ella Rubin vive su gran momento",
+      "url": "https://elpais.com/smoda/famosos/2026-08-26/ella-rubin-la-actriz-de-24-anos-que-todos-comparan-con-anne-hathaway-y-julia-roberts-y-que-se-ha-convertido-en-la-nueva-obsesion-de-hollywood.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/N33PH6PVFZAX5BMFGKAY6BJLEM.jpg?auth=eaef425717f9f9141f706d83ae878c748c7e431ae35ab39475e9d824370bbddd",
       "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 70,
-      "title_fa": "Escándalo en las letras inglesas: Rachel Cusk destruye sin nombrarla a la actriz Natalie Portman en su última novela",
-      "lead_fa": "Ninguna de ellas ha confirmado que la intérprete sea la protagonista de `Life of M’ (La Vida de M)",
+      "title_fa": "Ella Rubin, la actriz de 24 años que todos comparan con Julia Roberts y que triunfa con ‘Sterling Point’",
+      "lead_fa": "Tiene el rostro de una estrella de los noventa, un estilo minimalista que empieza a llamar la atención de las grandes firmas y una carrera construida durante más de una década a base de pequeños papeles y muchos noes. Ahora, gracias a la serie ‘Sterling Point’, Ella Rubin vive su gran momento",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1477,61 +1732,17 @@
       "editorial_version": 2
     },
     {
-      "id": "dd5c0fb575e6",
+      "id": "3f52e91f5694",
       "source": "EL PAÍS",
-      "title": "Ella Rubin, la actriz de 24 años que todos comparan con Julia Roberts y que triunfa con ‘Sterling Point’",
-      "summary": "Tiene el rostro de una estrella de los noventa, un estilo minimalista que empieza a llamar la atención de las grandes firmas y una carrera construida durante más de una década a base de pequeños papeles y muchos noes. Ahora, gracias a la serie ‘Sterling Point’, Ella Rubin vive su gran momento",
-      "url": "https://elpais.com/smoda/famosos/2026-08-26/ella-rubin-la-actriz-de-24-anos-que-todos-comparan-con-anne-hathaway-y-julia-roberts-y-que-se-ha-convertido-en-la-nueva-obsesion-de-hollywood.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/N33PH6PVFZAX5BMFGKAY6BJLEM.jpg?auth=eaef425717f9f9141f706d83ae878c748c7e431ae35ab39475e9d824370bbddd",
+      "title": "‘El ser querido’: incontestable talento expresivo, escasa emoción",
+      "summary": "Existen varias cosas muy valiosas para mí en este drama. Una es la capacidad de Sorogoyen para mantenerme abstraído durante todo el metraje",
+      "url": "https://elpais.com/cultura/cine/2026-08-26/el-ser-querido-incontestable-talento-expresivo-escasa-emocion.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207731_192412_video_1800.mp4",
       "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "cultura",
+      "category": "sociedad",
       "priority": 70,
-      "title_fa": "Ella Rubin, la actriz de 24 años que todos comparan con Julia Roberts y que triunfa con ‘Sterling Point’",
-      "lead_fa": "Tiene el rostro de una estrella de los noventa, un estilo minimalista que empieza a llamar la atención de las grandes firmas y una carrera construida durante más de una década a base de pequeños papeles y muchos noes. Ahora, gracias a la serie ‘Sterling Point’, Ella Rubin vive su gran momento",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "67d5832db7f3",
-      "source": "EL PAÍS",
-      "title": "El misterio sin resolver de los mini-Mozarts desaparecidos en Salzburgo",
-      "summary": "El robo de 210 esculturas del músico enturbia las celebraciones por el 270º aniversario del compositor. En 2024, otras 115 miniaturas de Wagner fueron saqueadas en el Festival de Bayreuth",
-      "url": "https://elpais.com/cultura/2026-08-26/el-misterio-sin-resolver-de-los-mini-mozarts-desaparecidos-en-salzburgo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TF6P3DUFUFHLNHILIIH7FL7PPI.jpg?auth=416a97bcbcb073d0eb2c3a1746a5ea1b41dd53db4b8e41e6670f988a9dd92c99",
-      "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "El misterio sin resolver de los mini-Mozarts desaparecidos en Salzburgo",
-      "lead_fa": "El robo de 210 esculturas del músico enturbia las celebraciones por el 270º aniversario del compositor. En 2024, otras 115 miniaturas de Wagner fueron saqueadas en el Festival de Bayreuth",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "99a016e599f1",
-      "source": "EL PAÍS",
-      "title": "Un verano de nostalgia con ‘Dragon Ball’: ¡Goku, arriba la patria!",
-      "summary": "Esta es una de esas series que nos trae recuerdos endulzados de desayunos con Krispies y mañanas de piscina con amigos. Y, sin embargo, no me atrevo a volver a verla",
-      "url": "https://elpais.com/television/2026-08-26/un-verano-de-nostalgia-con-dragon-ball-goku-arriba-la-patria.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/V2KUM6L53VCMJPK3W5TAITGTXQ.jpg?auth=6a00bbe9790b6d7b8e6d2a1f989eaabb7ca725dfcd849efd44fb45288d510dff",
-      "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "cultura",
-      "priority": 70,
-      "title_fa": "Un verano de nostalgia con ‘Dragon Ball’: ¡Goku, arriba la patria!",
-      "lead_fa": "Esta es una de esas series que nos trae recuerdos endulzados de desayunos con Krispies y mañanas de piscina con amigos. Y, sin embargo, no me atrevo a volver a verla",
+      "title_fa": "‘El ser querido’: incontestable talento expresivo, escasa emoción",
+      "lead_fa": "Existen varias cosas muy valiosas para mí en este drama. Una es la capacidad de Sorogoyen para mantenerme abstraído durante todo el metraje",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1677,10 +1888,10 @@
     {
       "id": "f7835fe1e8f0",
       "source": "La Vanguardia",
-      "title": "Alcaraz regresa a las pistas después de su larga ausencia formando pareja con Serena Williams",
-      "summary": "El murciano ha estado recuperándose de la lesión de muñeca que sufrió en el Godó en abril",
+      "title": "La dupla Alcaraz-Williams se despide del dobles mixto tras caer en segunda ronda",
+      "summary": "Tras un debut ilusionante, la pareja no consigue derrotar al italiano Flavio Cobolli y la suiza Belinda Bencic",
       "url": "https://www.lavanguardia.com/deportes/tenis/20260825/11620028/alcaraz-regresa-pistas-larga-ausencia-formando-pareja-serena-williams.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dfee3a54f4.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/26/6a8e73a14ef8c.r_d.2789-970-0.jpeg",
       "published_at": "2026-08-25T23:15:13+02:00",
       "category": "deportes",
       "priority": 70,
@@ -1751,35 +1962,6 @@
       "editorial_version": 2
     },
     {
-      "id": "98a6ae6d7370",
-      "source": "La Vanguardia",
-      "title": "El calor extremo provoca al menos 35.000 muertes más en Europa este verano",
-      "summary": "El exceso de mortalidad atribuible a las altas temperaturas en Alemania, Francia y España supera los 25.000 fallecidos, según cifras provisionales brindadas por 'The Guardian'",
-      "url": "https://www.lavanguardia.com/natural/20260825/11619838/calor-extremo-provoca-35-000-muertes-mas-europa-verano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/22/6a38ea64384b7.r_d.493-418-0.jpeg",
-      "published_at": "2026-08-25T19:30:23+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "گرمازدگی شدید عامل هزاران مرگ در اروپا طی تابستان گذشته",
-      "lead_fa": "آمارهای اولیه حاکی از جان باختن بیش از ۳۵ هزار نفر در اثر گرمای شدید تابستان در اروپا است. این تعداد مرگ‌ومیر ناشی از دماهای بالا در آلمان، فرانسه و اسپانیا فراتر از ۲۵ هزار نفر گزارش شده است.",
-      "key_points_fa": [
-        "ثبت بیش از ۳۵ هزار مرگ اضافی در اروپا به دلیل گرمای شدید تابستان.",
-        "سهم آلمان، فرانسه و اسپانیا بیش از ۲۵ هزار فوتی از این آمار کلی است.",
-        "داده‌ها بر اساس ارقام موقت منتشر شده از سوی روزنامه گاردین است."
-      ],
-      "analysis_fa": "افزایش مرگ‌ومیر ناشی از موج‌های گرمای تابستانی نشان‌دهنده چالش‌های رو به رشد تغییرات اقلیمی برای سیستم‌های بهداشتی و زیرساخت‌های شهری در کشورهای اروپایی است. این وضعیت ضرورت بازنگری در سیاست‌های مقابله با بحران‌های جوی و حفاظت از گروه‌های آسیب‌پذیر را برجسته‌تر می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#اروپا",
-        "#گرمازدگی",
-        "#تغییرات_اقلیمی"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "20fb6beb78b4",
       "source": "EL PAÍS",
       "title": "El juicio a Lindsay Clancy se acerca a su fin: psicólogos de la acusación y la defensa chocan sobre qué llevó a la madre a matar a sus hijos",
@@ -1802,34 +1984,6 @@
         "#لیندسی_کلنسی",
         "#دادگاه",
         "#سلامت_روان"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "8d86c2c42a37",
-      "source": "La Vanguardia",
-      "title": "El bitcoin revive entre las dudas por las finanzas de EE.UU. y el retorno inversor",
-      "summary": "El mercado cripto sale del letargo con subidas que llegan al 50% en pocos días",
-      "url": "https://www.lavanguardia.com/economia/20260825/11619311/bitcoin-cotizacion-eeuu-comprar-etf-inversores.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c71a4bbc1c.r_d.457-270-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "economia",
-      "priority": 69,
-      "title_fa": "احیای بازار بیت‌کوین همزمان با نگرانی‌های مالی در آمریکا",
-      "lead_fa": "بازار ارزهای دیجیتال پس از یک دوره رکود، شاهد رشد چشمگیر قیمت‌ها بوده است. این افزایش قیمت در پی ابهامات مالی ایالات متحده و بازگشت سرمایه‌گذاران رخ داده است.",
-      "key_points_fa": [
-        "خروج بازار رمزارزها از رکود و سکون گذشته",
-        "ثبت رشد تا سقف ۵۰ درصدی در عرض چند روز",
-        "نقش عوامل مرتبط با وضعیت مالی ایالات متحده در این تغییر روند"
-      ],
-      "analysis_fa": "بازگشت تقاضا و رشد قیمت بیت‌کوین نشان‌دهنده واکنش سرمایه‌گذاران به شرایط کلان اقتصادی و مسائل مالی ایالات متحده است. این نوسانات بار دیگر پویایی و حساسیت بازار رمزارزها را نسبت به تحولات اقتصادی جهان برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#بیت‌کوین",
-        "#ارزدیجیتال",
-        "#اقتصاد"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -2000,33 +2154,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7c885778a5fa",
-      "source": "La Vanguardia",
-      "title": "El Mago Pop visita la NASA para preparar su próximo espectáculo",
-      "summary": "Antonio Díaz charló con los ingenieros del Johnson Space Center pensando en su proyecto de estadios",
-      "url": "https://www.lavanguardia.com/cultura/20260825/11619940/mago-pop-visita-nasa-preparar-proximo-espectaculo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dc116aaaf5.r_d.547-844-0.jpeg",
-      "published_at": "2026-08-25T18:23:17+02:00",
-      "category": "cultura",
-      "priority": 67,
-      "title_fa": "بازدید شعبده‌باز اسپانیایی از ناسا برای نمایش جدید",
-      "lead_fa": "آنتونیو دیاز، معروف به «ال ماگو پاپ»، از مرکز فضایی جانسون ناسا بازدید کرد. او این بازدید را برای آماده‌سازی پروژه جدید خود در استادیوم‌ها انجام داده است.",
-      "key_points_fa": [
-        "آنتونیو دیاز با مهندسان مرکز فضایی جانسون ناسا گفتگو کرد.",
-        "این دیدار با هدف طراحی و آماده‌سازی نمایش جدید او در استادیوم‌ها صورت گرفت."
-      ],
-      "analysis_fa": "همکاری هنرمندان با مراکز علمی و فناوری مانند ناسا نشان‌دهنده تلاش برای نوآوری در اجرای نمایش‌های بزرگ و جذب مخاطبان بیشتر است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#ناسا",
-        "#فرهنگ"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "b22ada162952",
       "source": "EL PAÍS Economía",
       "title": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
@@ -2053,6 +2180,28 @@
         "#اقتصاد"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "9ff1deb1c851",
+      "source": "La Vanguardia",
+      "title": "Ulrich Siegmund, el nuevo rostro de la ultraderecha alemana",
+      "summary": "El partido Alternativa para Alemania (AfD) roza la mayoría absoluta en los sondeos de las elecciones de Sajonia-Anhalt y aspira a gobernar",
+      "url": "https://www.lavanguardia.com/internacional/20260825/11619331/ulrich-siegmund-nuevo-rostro-ultraderecha-alemania-afd-sajonia-anhalt.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d3fdc0837e.jpeg",
+      "published_at": "2026-08-25T06:00:00+02:00",
+      "category": "politica",
+      "priority": 67,
+      "title_fa": "Ulrich Siegmund, el nuevo rostro de la ultraderecha alemana",
+      "lead_fa": "El partido Alternativa para Alemania (AfD) roza la mayoría absoluta en los sondeos de las elecciones de Sajonia-Anhalt y aspira a gobernar",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2100,28 +2249,6 @@
       "editorial_version": 2
     },
     {
-      "id": "38cfd0e46be6",
-      "source": "La Vanguardia",
-      "title": "RTVE entra por primera vez en las criptas de Cuelgamuros para mostrar su estado actual",
-      "summary": "La corporación pública presentará el documental 'Cuelgamuros: entre lo difícil y lo imposible' en el Festival de San Sebastián",
-      "url": "https://www.lavanguardia.com/television/20260825/11619818/rtve-graba-primera-vez-interior-criptas-cuelgamuros.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8d90f779252.r_d.515-274-0.jpeg",
-      "published_at": "2026-08-25T15:00:38+02:00",
-      "category": "cultura",
-      "priority": 65,
-      "title_fa": "RTVE entra por primera vez en las criptas de Cuelgamuros para mostrar su estado actual",
-      "lead_fa": "La corporación pública presentará el documental 'Cuelgamuros: entre lo difícil y lo imposible' en el Festival de San Sebastián",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "6baa49d4d15c",
       "source": "EL PAÍS Economía",
       "title": "United Airlines anuncia vuelo directo de Valencia a Nueva York con tres frecuencias semanales a partir de junio de 2027",
@@ -2133,204 +2260,6 @@
       "priority": 65,
       "title_fa": "United Airlines anuncia vuelo directo de Valencia a Nueva York con tres frecuencias semanales a partir de junio de 2027",
       "lead_fa": "El aeropuerto valenciano recupera la conexión con la ciudad norteamericana quince años después",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "6b15f2587621",
-      "source": "La Vanguardia",
-      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
-      "published_at": "2026-08-25T13:06:43+02:00",
-      "category": "turismo",
-      "priority": 64,
-      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "e8b8ce8ef3d6",
-      "source": "La Vanguardia",
-      "title": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
-      "summary": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
-      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260825/11619698/joan-laporta-llama-interesa-menor-golpeado-policia-elche.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d75c5b62e8.jpeg",
-      "published_at": "2026-08-25T12:44:49+02:00",
-      "category": "deportes",
-      "priority": 64,
-      "title_fa": "Laporta llama al menor golpeado por la Policía en Elche el pasado domingo",
-      "lead_fa": "El presidente del FC Barcelona se ha puesto a disposición de la familia ante lo que el club considera “uso de fuerza desproporcionada”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f7196e9a39ec",
-      "source": "La Vanguardia",
-      "title": "Detienen en Valencia a un fugitivo reclamado por un intento de asesinato en 2025 en Alemania",
-      "summary": "El fugitivo, que planificó los hechos junto con otros tres cómplices, disparó con una metralleta a la víctima en repetidas ocasiones que la dejaron gravemente herida y con secuelas",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619577/detienen-valencia-fugitivo-reclamado-intento-asesinato-2025-alemania.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d46feb0037.jpeg",
-      "published_at": "2026-08-25T09:26:31+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Detienen en Valencia a un fugitivo reclamado por un intento de asesinato en 2025 en Alemania",
-      "lead_fa": "El fugitivo, que planificó los hechos junto con otros tres cómplices, disparó con una metralleta a la víctima en repetidas ocasiones que la dejaron gravemente herida y con secuelas",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1afe9f54a837",
-      "source": "La Vanguardia",
-      "title": "La picadora de carne que no sirvió de vacuna",
-      "summary": "Trincheras, paisaje lunar a causa de los cráteres que provocó la artillería pesada y huesos de los centenares de miles de soldados muertos. Verdún es el recuerdo de una gran carnicería",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260825/11617867/picadora-carne-sirvio-vacuna.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88870d5f807.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "La picadora de carne que no sirvió de vacuna",
-      "lead_fa": "Trincheras, paisaje lunar a causa de los cráteres que provocó la artillería pesada y huesos de los centenares de miles de soldados muertos. Verdún es el recuerdo de una gran carnicería",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "61e954139e17",
-      "source": "La Vanguardia",
-      "title": "Cercanías estrena trenes en Madrid, Rodalies espera hacerlo a final de año",
-      "summary": "Los nuevos convoyes fabricados por Stadler empiezan a prestar servicio en la capital mientras los de Alstom siguen pendientes del permiso de seguridad ferroviaria",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260825/11619343/estreno-nuevos-trenes-cercanias-madrid-rodalies-espera-final-ano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c8494703f4.r_d.600-289-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Cercanías estrena trenes en Madrid, Rodalies espera hacerlo a final de año",
-      "lead_fa": "Los nuevos convoyes fabricados por Stadler empiezan a prestar servicio en la capital mientras los de Alstom siguen pendientes del permiso de seguridad ferroviaria",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "bf371304e484",
-      "source": "La Vanguardia",
-      "title": "El Teatro Balmes abre en noviembre con 490 butacas para el humor",
-      "summary": "El nuevo espacio programará también teatro, danza, variedades y una amplia programación escolar",
-      "url": "https://www.lavanguardia.com/cultura/20260825/11619360/balmes-teatro-barcelona-apertura-noviembre-humor-mpc-rambleta.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c91991c64c.r_d.788-591-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "ciencia",
-      "priority": 62,
-      "title_fa": "El Teatro Balmes abre en noviembre con 490 butacas para el humor",
-      "lead_fa": "El nuevo espacio programará también teatro, danza, variedades y una amplia programación escolar",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "9abeb48bdbab",
-      "source": "La Vanguardia",
-      "title": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
-      "summary": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
-      "url": "https://www.lavanguardia.com/dinero/bolsillo/20260825/11613274/como-conseguir-ahorrar-bolsillo-podcast-pca.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/13/6a7db4f758c5d.r_d.1090-624-0.jpeg",
-      "published_at": "2026-08-25T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Ganar 3.000 euros al mes y quedarse corto: evita el principal error que comete la gente",
-      "lead_fa": "¿Por qué hay personas que cobrando un buen sueldo no consiguen ahorrar?",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "05bc3d996f76",
-      "source": "La Vanguardia",
-      "title": "De casal fallero a pisos turísticos: Benicalap centra la nueva lucha vecinal",
-      "summary": "El barrio tiene muchos locales vacíos y no llega al tope legal para vetar los proyectos turísticos",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619268/casal-fallero-pisos-turisticos-benicalap-centra-nueva-lucha-vecinal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/24/6a8c629ca40f3.r_d.2771-2312-0.jpeg",
-      "published_at": "2026-08-25T05:30:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "De casal fallero a pisos turísticos: Benicalap centra la nueva lucha vecinal",
-      "lead_fa": "El barrio tiene muchos locales vacíos y no llega al tope legal para vetar los proyectos turísticos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0be0e1319429",
-      "source": "La Vanguardia",
-      "title": "Cuanto el Estado falla",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
-      "published_at": "2026-08-25T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 62,
-      "title_fa": "Cuanto el Estado falla",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2463,6 +2392,28 @@
       "priority": 58,
       "title_fa": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
       "lead_fa": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "090ada3b6a0e",
+      "source": "EL PAÍS Economía",
+      "title": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
+      "summary": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
+      "url": "https://elpais.com/economia/negocios/2026-08-24/kimberly-byron-match-hospitality-la-gente-lo-que-mas-valora-es-no-tener-que-hacer-cola-y-esta-dispuesta-a-pagar-por-ello.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/YY2U4WRRBRERXIKNKZKTTSSZH4.jpg?auth=80e668263751cc251acc6ced850993e1299ecf68b0d8727fff9eccc407e39053",
+      "published_at": "2026-08-24T03:30:00+00:00",
+      "category": "sociedad",
+      "priority": 54,
+      "title_fa": "Kimberly Byron (Match Hospitality): “La gente lo que más valora es no tener que hacer cola. Y está dispuesta a pagar por ello”",
+      "lead_fa": "La directora global de esta firma especializada en preparar citas deportivas como el Gran Premio de España de Fórmula 1, que se celebrará en Madrid, es una enamorada de Londres. “Quien se aburre en esta ciudad es que es un aburrido”, asegura.",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
