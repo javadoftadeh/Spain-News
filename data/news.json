@@ -1,42 +1,14 @@
 {
-  "generated_at": "2026-08-26T09:54:12.203689+00:00",
+  "generated_at": "2026-08-26T10:48:53.609414+00:00",
   "editorial_version": 2,
   "featured_ids": [
-    "038f6a2c57ae",
     "905ceb51c6a2",
     "84ad2313ab71",
     "0310b070f89a",
-    "ac5cf2e30637"
+    "ac5cf2e30637",
+    "cc54ac63e1ca"
   ],
   "items": [
-    {
-      "id": "038f6a2c57ae",
-      "source": "EL PAÍS",
-      "title": "Mueren al menos 15 recién nacidos en un incendio en un hospital en Pakistán",
-      "summary": "El fuego se ha ocasionado por la explosión de un compresor del sistema de aire acondicionado, según medios locales",
-      "url": "https://elpais.com/internacional/2026-08-26/mueren-varios-recien-nacidos-en-un-incendio-en-un-hospital-en-pakistan.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207825_073153_video_1800.mp4",
-      "published_at": "2026-08-26T06:14:01+00:00",
-      "category": "sociedad",
-      "priority": 91,
-      "title_fa": "جان باختن دست‌کم ۱۵ نوزاد در آتش‌سوزی بیمارستانی در پاکستان",
-      "lead_fa": "حریق مرگباری در یک بیمارستان در پاکستان رخ داد که به جان باختن حداقل ۱۵ نوزاد تازه متولد شده منجر شد. رسانه‌های محلی علت این حادثه را انفجار کمپرسور سیستم تهویه مطبوع اعلام کرده‌اند.",
-      "key_points_fa": [
-        "وقوع آتش‌سوزی در یک بیمارستان در پاکستان",
-        "جان باختن حداقل ۱۵ نوزاد تازه متولد شده",
-        "تشخیص اولیه علت حادثه: انفجار کمپرسور تهویه مطبوع"
-      ],
-      "analysis_fa": "این حادثه تراژیک نقص‌های جدی در ایمنی زیرساخت‌های درمانی و تجهیزات بیمارستانی در برخی مناطق را آشکار می‌کند و نیازمند بررسی دقیق مسئولان محلی برای جلوگیری از تکرار چنین حوادثی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "breaking",
-      "hashtags_fa": [
-        "#پاکستان",
-        "#آتش_سوزی",
-        "#حوادث"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
     {
       "id": "905ceb51c6a2",
       "source": "La Vanguardia",
@@ -72,7 +44,7 @@
       "summary": "Elma Saiz regresa a la Ciudad Autónoma para supervisar la ampliación de los recursos de acogida a migrantes | Feijóo exige convocar la Comisión de Secretos Oficiales para que el CNI aclare las “versiones” del Gobierno",
       "url": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
       "image": "https://imagenes.elpais.com/resizer/v2/4HRFHYWYAFHWZHSM37RMWFBXS4.jpg?auth=63d67b509827ce1e34a34140e3cc364b45c103ae3f4a52cbb1297ef404fbf275",
-      "published_at": "2026-08-26T09:47:30+00:00",
+      "published_at": "2026-08-26T10:39:34+00:00",
       "category": "politica",
       "priority": 82,
       "title_fa": "تحولات مهاجرتی سبته؛ درخواست سانچز برای نشست کنگره",
@@ -235,6 +207,35 @@
       "editorial_version": 2
     },
     {
+      "id": "68e8fe5db479",
+      "source": "EL PAÍS",
+      "title": "El Kremlin confirma que el director de la CIA se reunió durante su visita a Moscú con los servicios de inteligencia rusos",
+      "summary": "El portavoz Dmitry Peskov afirma que es pronto para determinar si estos contactos podrían sacara a EE UU y Rusia de una “profunda crisis”",
+      "url": "https://elpais.com/internacional/2026-08-26/el-kremlin-confirma-que-el-director-de-la-cia-se-reunio-durante-su-visita-a-moscu-con-los-servicios-de-inteligencia-rusos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JPKZYV2YHJNYDLAI2ZPWCXJRNU.jpg?auth=b98874dab22f07355153993d9639d6193b1dcc268b36809d3d1603bbdc077ac5",
+      "published_at": "2026-08-26T10:41:21+00:00",
+      "category": "politica",
+      "priority": 77,
+      "title_fa": "دیدار رئیس سیا با مقام‌های اطلاعاتی روسیه در مسکو",
+      "lead_fa": "کرملین تایید کرد که رئیس سازمان اطلاعات مرکزی آمریکا (سیا) در سفر به مسکو با مقام‌های اطلاعاتی روسیه دیدار کرده است. سخنگوی کرملین اعلام کرد که هنوز برای قضاوت درباره خروج روابط دو کشور از بحران زود است.",
+      "key_points_fa": [
+        "تایید دیدار رئیس سیا از سوی دیمیتری پسکوف، سخنگوی کرملین.",
+        "انجام این مذاکرات در میان تنش‌ها و بحران عمیق میان ایالات متحده و روسیه.",
+        "احتیاط مسکو در ارزیابی نتایج اولیه این تماس‌ها برای بهبود روابط دوجانبه."
+      ],
+      "analysis_fa": "این دیدارها نشان‌دهنده استمرار کانال‌های ارتباطی پنهان میان واشنگتن و مسکو با وجود تنش‌های شدید سیاسی است. با این حال، اظهارات مقام‌های روس حاکی از آن است که این تماس‌ها هنوز به دستاوردی ملموس برای حل‌وفصل بحران‌های بنیادین میان دو کشور منجر نشده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#سیا",
+        "#روسیه",
+        "#آمریکا",
+        "#مسکو"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
       "id": "8d702dcda910",
       "source": "La Vanguardia",
       "title": "Mueren las dos mujeres heridas por la caída de un muro por las lluvias en Roda de Berà",
@@ -343,34 +344,6 @@
         "#دالی_پارتن",
         "#موسیقی_کانتری",
         "#سینمای_هالیوود"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
-      "id": "b086bf91960c",
-      "source": "EL PAÍS España",
-      "title": "Bruselas evaluará “rápidamente” la demanda de España de ayuda de emergencia por Ceuta",
-      "summary": "La Comisión Europea insiste en que sean devueltos todos los que entraron irregularmente desde Marruecos",
-      "url": "https://elpais.com/espana/2026-08-25/bruselas-evaluara-rapidamente-la-demanda-de-espana-de-ayuda-de-emergencia-por-ceuta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WSM2AK7LQVIQTECXGEGEMZO52A.jpg?auth=07055a27b155c6946b3b41be71f42a740757c32eeab51f6cbadd2a4e5da356b4",
-      "published_at": "2026-08-25T12:43:23+00:00",
-      "category": "sociedad",
-      "priority": 77,
-      "title_fa": "بررسی سریع درخواست کمک اضطراری اسپانیا برای سبتا توسط بروکسل",
-      "lead_fa": "کمیسیون اروپا اعلام کرد درخواست کمک اضطراری اسپانیا را به سرعت ارزیابی می‌کند. این نهاد همچنان بر بازگرداندن تمامی افرادی که به صورت غیرقانونی از مراکش وارد شده‌اند، تأکید دارد.",
-      "key_points_fa": [
-        "ارزیابی سریع درخواست کمک اضطراری اسپانیا توسط کمیسیون اروپا",
-        "تأکید اتحادیه اروپا بر لزوم بازگرداندن مهاجران غیرقانونی ورودی از مراکش"
-      ],
-      "analysis_fa": "این موضع‌گیری نشان‌دهنده چالش‌های مداوم مدیریتی و مرزی در مناطق مرزی اسپانیا و نیاز به همکاری نزدیک میان دولت مادرید و نهادهای اروپایی برای کنترل مهاجرت‌های غیرقانونی است.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#سبتا",
-        "#مهاجرت",
-        "#اتحادیه_اروپا"
       ],
       "ai_translated": true,
       "editorial_version": 2
@@ -489,6 +462,136 @@
       "editorial_version": 2
     },
     {
+      "id": "fed34e584283",
+      "source": "EL PAÍS",
+      "title": "El eslogan de Vox choca con la realidad: el menú halal no está prohibido en los colegios valencianos",
+      "summary": "El partido ultra presume de haber vetado la comida adaptada a las creencias musulmanas en la Comunidad Valenciana tras el cambio aprobado con PP. Pero la nueva normativa no dice eso, como admite la Generalitat",
+      "url": "https://elpais.com/educacion/2026-08-26/el-eslogan-de-vox-choca-con-la-realidad-el-menu-halal-no-esta-prohibido-en-los-colegios-valencianos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6T5RUV6IGZFFRORA6BZP4EGUGU.jpg?auth=9288521283ed60b84c8d7a64ecec6a07b9ce6e78d0ffb54bf63d9ac1d50253a8",
+      "published_at": "2026-08-26T10:29:42+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "ادعای ووکس درباره ممنوعیت غذای حلال در والنسیا با واقعیت همخوانی ندارد",
+      "lead_fa": "حزب راست افراطی ووکس مدعی ممنوعیت غذای حلال در مدارس والنسیا شده است. با این حال، متن مصوبه جدید و مقامات محلی چنین موضوعی را تایید نمی‌کنند.",
+      "key_points_fa": [
+        "حزب ووکس مدعی شد که منوی غذایی مطابق با باورهای مسلمانان در مدارس والنسیا ممنوع شده است.",
+        "این تصمیم پس از توافق جدید میان حزب مردمی (PP) و ووکس حاشیه‌ساز شد.",
+        "دولت محلی والنسیا (جنرالیتات) تصریح کرد که قوانین جدید به معنای ممنوعیت غذای حلال نیست."
+      ],
+      "analysis_fa": "این مناقشه نشان‌دهنده تلاش جریان‌های سیاسی افراطی برای بهره‌برداری تبلیغاتی از موضوعات هویت‌محور و مهاجرستیزی است. مغایرت میان ادعاهای سیاسی و مفاد واقعی مصوبات دولتی، بار دیگر چالش‌های گفتمان سیاسی درباره تنوع فرهنگی و مذهبی در اسپانیا را برجسته می‌کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اسپانیا",
+        "#والنسیا",
+        "#ووکس",
+        "#غذای_حلال"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "73720d0e0345",
+      "source": "EL PAÍS",
+      "title": "Madrid dilata publicar los detalles de la compra del ático de Ayuso con la excusa del “elevado número de solicitudes”",
+      "summary": "La empresa pública que adquirió la vivienda se acoge a su derecho a ampliar 20 días el plazo de contestación a una petición de transparencia",
+      "url": "https://elpais.com/espana/madrid/2026-08-26/madrid-dilata-publicar-los-detalles-de-la-compra-del-atico-de-ayuso-con-la-excusa-del-elevado-numero-de-solicitudes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6IFJ2A2ZQBFMBMGDAX36EPIZQ4.jpg?auth=6235790a1ca6809935f2ab4fccb84f7dc4c6a54278469494b5cc7eaa2df189b6",
+      "published_at": "2026-08-26T10:15:42+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "تاخیر مادرید در انتشار جزییات خرید خانه پنتهاوس مرتبط با آیوسو",
+      "lead_fa": "شرکت دولتی خریدار مسکن، مهلت پاسخ به درخواست شفافیت را تمدید کرد. دلیل این تصمیم حجم بالای درخواست‌های ارسالی اعلام شده است.",
+      "key_points_fa": [
+        "استفاده شرکت دولتی از حق قانونی برای افزایش ۲۰ روزه مهلت پاسخگویی",
+        "استناد مسئولان به حجم بالای درخواست‌های شفافیت‌سازی",
+        "محفوظ ماندن اطلاعات مربوط به خرید پنتهاوس جنجالی"
+      ],
+      "analysis_fa": "این تاخیر در پاسخگویی به درخواست‌های شفاف‌سازی، روند نظارت بر معاملات اموال عمومی و نهادهای دولتی در اسپانیا را با چالش مواجه کرده و بحث‌های سیاسی پیرامون این پرونده را تداوم بخشیده است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#مادرید",
+        "#اسپانیا",
+        "#شفافیت"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "329c71e75d14",
+      "source": "EL PAÍS España",
+      "title": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
+      "summary": "Los de Puigdemont aceleran la medida ante el avance electoral de Aliança Catalana y cambian el preámbulo de la proposición de ley para atraer a Podemos, que dice ahora que ese no era el “único problema” del texto",
+      "url": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TM3P5D4LBBEYVOEJSWIZECFVWM.jpg?auth=24addd3431efcd01206d320bcc2b5e2a6d00862fc8fb1423aee15792c2bb326a",
+      "published_at": "2026-08-26T10:10:49+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "تشدید مواضع حزب خونتس و درخواست انتقال اختیارات مهاجرت به کاتالونیا",
+      "lead_fa": "حزب خونتس به رهبری پوجدمون خواستار واگذاری فوری اختیارات مهاجرت به دولت محلی کاتالونیا شد. این اقدام با هدف رقابت با جریان‌های رقیب و جلب نظر دیگر احزاب صورت گرفته است.",
+      "key_points_fa": [
+        "حزب خونتس بر ضرورت اقدام فوری برای مدیریت مهاجرت در کاتالونیا تاکید کرد.",
+        "این تغییر موضع پاسخی به پیشروی انتخاباتی حزب آلینسا کاتالانا است.",
+        "پیش‌نویس قانون اصلاح شده تا حمایت حزب پودموس را نیز جلب کند."
+      ],
+      "analysis_fa": "تغییر لحن و شتاب حزب خونتس در طرح مسئله مهاجرت، نمایانگر رقابت فزاینده سیاسی در فضای انتخاباتی کاتالونیا است. تلاش برای همراه کردن جریان‌های مختلف مانند پودموس نشان می‌دهد که این حزب به دنبال اجماع‌سازی پیرامون مطبوعات منطقه‌ای خود است، موضوعی که می‌تواند پویایی تازه‌ای در پارلمان اسپانیا ایجاد کند.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#کاتالونیا",
+        "#مهاجرت",
+        "#اسپانیا",
+        "#سیاست"
+      ],
+      "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "c132fd3e28ae",
+      "source": "EL PAÍS España",
+      "title": "El decreto que regula los ‘lobbies’ contempla sanciones de hasta 40.000 euros por infracciones graves",
+      "summary": "El Gobierno reforma la ley de altos cargos e impide que trabajen para grupos de interés durante los dos años posteriores a su cese",
+      "url": "https://elpais.com/espana/2026-08-26/el-decreto-que-regula-los-lobbies-contempla-sanciones-de-hasta-40000-euros-por-infracciones-graves.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/NPFEX2UA5ZEXFGI7G4GFCWCFCU.jpg?auth=035a00b3eebe19278bc440be1832347b8a751460ca9d3417ab2d368fe7bb4f24",
+      "published_at": "2026-08-26T10:10:00+00:00",
+      "category": "politica",
+      "priority": 75,
+      "title_fa": "El decreto que regula los ‘lobbies’ contempla sanciones de hasta 40.000 euros por infracciones graves",
+      "lead_fa": "El Gobierno reforma la ley de altos cargos e impide que trabajen para grupos de interés durante los dos años posteriores a su cese",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "afa35a0ffdf4",
+      "source": "EL PAÍS",
+      "title": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
+      "summary": "La Audiencia Nacional había ordenado su arresto tras no presentarse a un juicio por fraude en el que la Fiscalía pide 89 años de cárcel para él",
+      "url": "https://elpais.com/espana/2026-08-26/detenido-en-dubai-alejandro-hamlyn-el-empresario-profugo-de-los-audios-de-leire-diez.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/RRUTCLNII5HRHNVLFINFIOBLIU.jpg?auth=30fd769ddc21df977b4d6ae2ef932e5223f67d1f4873fb36346ea275dfacbdac",
+      "published_at": "2026-08-26T09:50:40+00:00",
+      "category": "economia",
+      "priority": 75,
+      "title_fa": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
+      "lead_fa": "La Audiencia Nacional había ordenado su arresto tras no presentarse a un juicio por fraude en el que la Fiscalía pide 89 años de cárcel para él",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "7375fc265a75",
       "source": "EL PAÍS",
       "title": "Deloitte acuerda pagar 18,4 millones para zanjar una investigación del Gobierno de EE UU sobre políticas de igualdad",
@@ -555,39 +658,10 @@
       "editorial_version": 2
     },
     {
-      "id": "fed34e584283",
-      "source": "EL PAÍS",
-      "title": "El eslogan de Vox choca con la realidad: el menú halal no está prohibido en los colegios valencianos",
-      "summary": "El partido ultra presume de haber vetado la comida adaptada a las creencias musulmanas en la Comunidad Valenciana tras el cambio aprobado con PP. Pero la nueva normativa no dice eso, como admite la Generalitat",
-      "url": "https://elpais.com/educacion/2026-08-26/el-eslogan-de-vox-choca-con-la-realidad-el-menu-halal-no-esta-prohibido-en-los-colegios-valencianos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6T5RUV6IGZFFRORA6BZP4EGUGU.jpg?auth=9288521283ed60b84c8d7a64ecec6a07b9ce6e78d0ffb54bf63d9ac1d50253a8",
-      "published_at": "2026-08-26T07:25:30+00:00",
-      "category": "politica",
-      "priority": 75,
-      "title_fa": "ادعای ووکس درباره ممنوعیت غذای حلال در والنسیا با واقعیت همخوانی ندارد",
-      "lead_fa": "حزب راست افراطی ووکس مدعی ممنوعیت غذای حلال در مدارس والنسیا شده است. با این حال، متن مصوبه جدید و مقامات محلی چنین موضوعی را تایید نمی‌کنند.",
-      "key_points_fa": [
-        "حزب ووکس مدعی شد که منوی غذایی مطابق با باورهای مسلمانان در مدارس والنسیا ممنوع شده است.",
-        "این تصمیم پس از توافق جدید میان حزب مردمی (PP) و ووکس حاشیه‌ساز شد.",
-        "دولت محلی والنسیا (جنرالیتات) تصریح کرد که قوانین جدید به معنای ممنوعیت غذای حلال نیست."
-      ],
-      "analysis_fa": "این مناقشه نشان‌دهنده تلاش جریان‌های سیاسی افراطی برای بهره‌برداری تبلیغاتی از موضوعات هویت‌محور و مهاجرستیزی است. مغایرت میان ادعاهای سیاسی و مفاد واقعی مصوبات دولتی، بار دیگر چالش‌های گفتمان سیاسی درباره تنوع فرهنگی و مذهبی در اسپانیا را برجسته می‌کند.",
-      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اسپانیا",
-        "#والنسیا",
-        "#ووکس",
-        "#غذای_حلال"
-      ],
-      "ai_translated": true,
-      "editorial_version": 2
-    },
-    {
       "id": "0e5dabc95f15",
       "source": "EL PAÍS",
       "title": "La firma de hipotecas repunta en junio y acaba el primer semestre con la cifra más elevada en 16 años",
-      "summary": "En el sexto mes se constituyeron 45.907 préstamos para la compra de una vivienda, que sitúan en 260.000 el total desde enero, casi un 7% más que en 2025",
+      "summary": "En el sexto mes se constituyeron 45.907 préstamos para la compra de una vivienda, que sitúan en casi 260.000 el total desde enero, casi un 7% más que en 2025",
       "url": "https://elpais.com/economia/vivienda/2026-08-26/la-firma-de-hipotecas-repunta-en-junio-y-acaba-el-primer-semestre-con-la-cifra-mas-elevada-en-16-anos.html",
       "image": "https://imagenes.elpais.com/resizer/v2/DB5IYQ7KINGVLOVT2NWQK3UKDU.jpg?auth=185a94492e92e928f89598fda58b76cce3072972580636e3254e512bc79fe0d0",
       "published_at": "2026-08-26T07:15:16+00:00",
@@ -944,28 +1018,6 @@
       "editorial_version": 2
     },
     {
-      "id": "08de97706f9d",
-      "source": "La Vanguardia",
-      "title": "Con enaguas y de luto en el trópico africano",
-      "summary": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
-      "url": "https://www.lavanguardia.com/cultura/20260826/11619844/enaguas-luto-tropico-africano.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8d9fd7f032f.r_d.2480-1646-0.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "politica",
-      "priority": 74,
-      "title_fa": "Con enaguas y de luto en el trópico africano",
-      "lead_fa": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "59aec65ed4ce",
       "source": "EL PAÍS España",
       "title": "El Gobierno aprueba por decreto la creación del registro público de ‘lobbies’ ante el bloqueo del Congreso",
@@ -991,6 +1043,28 @@
         "#سیاست"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "08de97706f9d",
+      "source": "La Vanguardia",
+      "title": "Con enaguas y de luto en el trópico africano",
+      "summary": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619844/enaguas-luto-tropico-africano.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8d9fd7f032f.r_d.2480-1646-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "politica",
+      "priority": 73,
+      "title_fa": "Con enaguas y de luto en el trópico africano",
+      "lead_fa": "Mary Kingsley se adentró en un continente casi ignoto a finales del XIX, cuando las damas no se aventuraban más allá de Canarias",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -1320,6 +1394,28 @@
       "editorial_version": 2
     },
     {
+      "id": "18e0da02d93d",
+      "source": "EL PAÍS",
+      "title": "Sale a la luz un vídeo inédito del fallecido Brad Gobright cuando escalaba sin cuerda una vía de alta dificultad",
+      "summary": "Los cinco minutos de grabación del estadounidense en una ruta de 7c/c+ suponen un testimonio brutal de la terrible exposición a la que se somete el escalador, que murió en 2019",
+      "url": "https://elpais.com/deportes/el-montanista/2026-08-26/sale-a-la-luz-un-video-inedito-del-fallecido-brad-gobright-cuando-escalaba-sin-cuerda-una-via-de-alta-dificultad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/2O4M5LR3MSSVQVKUIRY6EECPNE.jpg?auth=c0ee11869723e1308303d7f00c787e76b7b9cee6cf7a9dbeb90f5c1a513854ac",
+      "published_at": "2026-08-26T09:45:36+00:00",
+      "category": "sociedad",
+      "priority": 70,
+      "title_fa": "Sale a la luz un vídeo inédito del fallecido Brad Gobright cuando escalaba sin cuerda una vía de alta dificultad",
+      "lead_fa": "Los cinco minutos de grabación del estadounidense en una ruta de 7c/c+ suponen un testimonio brutal de la terrible exposición a la que se somete el escalador, que murió en 2019",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "bc3b2d6833c6",
       "source": "EL PAÍS",
       "title": "Vídeo en directo | Buñol celebra la Tomatina 2026 con el lanzamiento de más de 150 toneladas de tomates",
@@ -1353,28 +1449,6 @@
       "priority": 70,
       "title_fa": "Detenido un hombre en Zaragoza por agredir sexualmente a su hija de dos años y difundió las imágenes",
       "lead_fa": "La Policía Nacional constató que utilizaba herramientas de inteligencia artificial para generar imágenes de explotación sexual infantil a partir de fotografías obtenidas en redes sociales",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "09aeaa8030fc",
-      "source": "La Vanguardia",
-      "title": "Los hijos de una pareja irlandesa en Cullera hallan a sus padres muertos en un jacuzzi",
-      "summary": "Investigan si la pareja irlandesa hallada muerta en Cullera (Valencia) falleció a causa de las drogas aunque no se descartan otras hipótesis",
-      "url": "https://www.lavanguardia.com/local/valencia/20260826/11620225/hijos-matrimonio-irlandes-cullera-encuentran-padres-muertos-jacuzzi.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69ea9b42e1936.r_d.691-766-0.jpeg",
-      "published_at": "2026-08-26T09:02:27+02:00",
-      "category": "sociedad",
-      "priority": 70,
-      "title_fa": "Los hijos de una pareja irlandesa en Cullera hallan a sus padres muertos en un jacuzzi",
-      "lead_fa": "Investigan si la pareja irlandesa hallada muerta en Cullera (Valencia) falleció a causa de las drogas aunque no se descartan otras hipótesis",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1462,6 +1536,28 @@
       "editorial_version": 2
     },
     {
+      "id": "09aeaa8030fc",
+      "source": "La Vanguardia",
+      "title": "Los hijos de una pareja irlandesa en Cullera hallan a sus padres muertos en un jacuzzi",
+      "summary": "Investigan si la pareja irlandesa hallada muerta en Cullera (Valencia) falleció a causa de las drogas aunque no se descartan otras hipótesis",
+      "url": "https://www.lavanguardia.com/local/valencia/20260826/11620225/hijos-matrimonio-irlandes-cullera-encuentran-padres-muertos-jacuzzi.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69ea9b42e1936.r_d.691-766-0.jpeg",
+      "published_at": "2026-08-26T09:02:27+02:00",
+      "category": "sociedad",
+      "priority": 69,
+      "title_fa": "Los hijos de una pareja irlandesa en Cullera hallan a sus padres muertos en un jacuzzi",
+      "lead_fa": "Investigan si la pareja irlandesa hallada muerta en Cullera (Valencia) falleció a causa de las drogas aunque no se descartan otras hipótesis",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1f227db24d5f",
       "source": "La Vanguardia",
       "title": "Elsa Pataky, Bigote Arrocet, Tamara Falcó y Susanna Griso protagonizan las portadas",
@@ -1506,182 +1602,6 @@
       "editorial_version": 2
     },
     {
-      "id": "7a1055e49b31",
-      "source": "La Vanguardia",
-      "title": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
-      "summary": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
-      "url": "https://www.lavanguardia.com/vida/20260826/11619770/psicosis-postparto-trastorno-grave-delirios-lindsay-clancy.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/02/64f269a9d1360.jpeg",
-      "published_at": "2026-08-26T06:05:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
-      "lead_fa": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "4be5eec5bf16",
-      "source": "La Vanguardia",
-      "title": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
-      "summary": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
-      "url": "https://www.lavanguardia.com/vida/20260826/11620003/choque-social-ee-uu-caso-madre-mato-tres-hijos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8de07ba34b5.r_d.1491-829-0.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
-      "lead_fa": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "2bb9dce70011",
-      "source": "La Vanguardia",
-      "title": "La mentira con dolor real de Tania Head, la impostora catalana de los atentados del 11-S",
-      "summary": "Kike Maíllo estrena un documental que explora “qué puede llevar a alguien a hacer algo así y, sobre todo, por qué pudo suceder algo así”",
-      "url": "https://www.lavanguardia.com/cultura/20260826/11619825/la-superviviente-mentira-dolor-real-tania-head-impostora-catalana-11-s.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dcf5a00cb8.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La mentira con dolor real de Tania Head, la impostora catalana de los atentados del 11-S",
-      "lead_fa": "Kike Maíllo estrena un documental que explora “qué puede llevar a alguien a hacer algo así y, sobre todo, por qué pudo suceder algo así”",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "01395276e58b",
-      "source": "La Vanguardia",
-      "title": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
-      "summary": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
-      "url": "https://www.lavanguardia.com/gente/20260826/11619674/amaia-montero-oreja-van-gogh-regreso-50.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/12/6a03251c2bea5.r_d.1552-1236-0.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
-      "lead_fa": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0e709aec3d93",
-      "source": "La Vanguardia",
-      "title": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
-      "summary": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
-      "url": "https://www.lavanguardia.com/internacional/20260826/11619914/seis-jugadores-pelota-ningun-rival-asi-chinlone.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dde74acb73.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
-      "lead_fa": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "5335d090994a",
-      "source": "La Vanguardia",
-      "title": "Veinte novedades literarias para disfrutar este nuevo curso",
-      "summary": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
-      "url": "https://www.lavanguardia.com/cultura/20260826/11619712/veinte-libros-disfrutar-nuevo-curso-rentree-castellano-catalan.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d84ab9f54c.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Veinte novedades literarias para disfrutar este nuevo curso",
-      "lead_fa": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "1dfedf2138c5",
-      "source": "La Vanguardia",
-      "title": "La realidad de hacerse mayor siendo trans: “Se nos olvidó que también íbamos a envejecer, y hacerlo produce rechazo dentro del colectivo”",
-      "summary": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
-      "url": "https://www.lavanguardia.com/vivo/longevity/20260826/11606599/realidad-hacerse-mayor-siendo-trans-olvido-ibamos-envejecer-hacerlo-produce-rechazo-colectivo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705745d67f9.r_d.2041-821-0.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "La realidad de hacerse mayor siendo trans: “Se nos olvidó que también íbamos a envejecer, y hacerlo produce rechazo dentro del colectivo”",
-      "lead_fa": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0210b2ef1cfb",
-      "source": "La Vanguardia",
-      "title": "Los soldados más próximos y los más silenciosos",
-      "summary": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260826/11619741/soldados-mas-proximos-mas-silenciosos.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d76af9e65d.jpeg",
-      "published_at": "2026-08-26T06:00:00+02:00",
-      "category": "sociedad",
-      "priority": 69,
-      "title_fa": "Los soldados más próximos y los más silenciosos",
-      "lead_fa": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "15865d6e686b",
       "source": "EL PAÍS Economía",
       "title": "La guerra de Irán dispara en 282.000 millones la factura en combustibles para los países importadores",
@@ -1693,28 +1613,6 @@
       "priority": 69,
       "title_fa": "La guerra de Irán dispara en 282.000 millones la factura en combustibles para los países importadores",
       "lead_fa": "España es uno de los diez países donde más incrementa el gasto, pero a la vez es uno de los tres que más mitigan el impacto gracias a las energías limpias",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "66ec0a26a328",
-      "source": "EL PAÍS",
-      "title": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
-      "summary": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
-      "url": "https://elpais.com/us/entretenimiento/2026-08-26/dolly-parton-la-estrella-que-se-nego-a-elegir-un-bando-politico-pero-nunca-se-quedo-callada.html",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207727_191950_video_1800.mp4",
-      "published_at": "2026-08-26T04:00:00+00:00",
-      "category": "cultura",
-      "priority": 69,
-      "title_fa": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
-      "lead_fa": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1781,6 +1679,182 @@
       "editorial_version": 2
     },
     {
+      "id": "7a1055e49b31",
+      "source": "La Vanguardia",
+      "title": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
+      "summary": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
+      "url": "https://www.lavanguardia.com/vida/20260826/11619770/psicosis-postparto-trastorno-grave-delirios-lindsay-clancy.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/02/64f269a9d1360.jpeg",
+      "published_at": "2026-08-26T06:05:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
+      "lead_fa": "Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "4be5eec5bf16",
+      "source": "La Vanguardia",
+      "title": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
+      "summary": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
+      "url": "https://www.lavanguardia.com/vida/20260826/11620003/choque-social-ee-uu-caso-madre-mato-tres-hijos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8de07ba34b5.r_d.1491-829-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
+      "lead_fa": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "2bb9dce70011",
+      "source": "La Vanguardia",
+      "title": "La mentira con dolor real de Tania Head, la impostora catalana de los atentados del 11-S",
+      "summary": "Kike Maíllo estrena un documental que explora “qué puede llevar a alguien a hacer algo así y, sobre todo, por qué pudo suceder algo así”",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619825/la-superviviente-mentira-dolor-real-tania-head-impostora-catalana-11-s.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dcf5a00cb8.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La mentira con dolor real de Tania Head, la impostora catalana de los atentados del 11-S",
+      "lead_fa": "Kike Maíllo estrena un documental que explora “qué puede llevar a alguien a hacer algo así y, sobre todo, por qué pudo suceder algo así”",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "01395276e58b",
+      "source": "La Vanguardia",
+      "title": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
+      "summary": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
+      "url": "https://www.lavanguardia.com/gente/20260826/11619674/amaia-montero-oreja-van-gogh-regreso-50.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/12/6a03251c2bea5.r_d.1552-1236-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
+      "lead_fa": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0e709aec3d93",
+      "source": "La Vanguardia",
+      "title": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
+      "summary": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
+      "url": "https://www.lavanguardia.com/internacional/20260826/11619914/seis-jugadores-pelota-ningun-rival-asi-chinlone.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dde74acb73.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
+      "lead_fa": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "5335d090994a",
+      "source": "La Vanguardia",
+      "title": "Veinte novedades literarias para disfrutar este nuevo curso",
+      "summary": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
+      "url": "https://www.lavanguardia.com/cultura/20260826/11619712/veinte-libros-disfrutar-nuevo-curso-rentree-castellano-catalan.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d84ab9f54c.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Veinte novedades literarias para disfrutar este nuevo curso",
+      "lead_fa": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "1dfedf2138c5",
+      "source": "La Vanguardia",
+      "title": "La realidad de hacerse mayor siendo trans: “Se nos olvidó que también íbamos a envejecer, y hacerlo produce rechazo dentro del colectivo”",
+      "summary": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
+      "url": "https://www.lavanguardia.com/vivo/longevity/20260826/11606599/realidad-hacerse-mayor-siendo-trans-olvido-ibamos-envejecer-hacerlo-produce-rechazo-colectivo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a705745d67f9.r_d.2041-821-0.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "La realidad de hacerse mayor siendo trans: “Se nos olvidó que también íbamos a envejecer, y hacerlo produce rechazo dentro del colectivo”",
+      "lead_fa": "Las personas mayores LGTBI+, especialmente las trans, llegan a la vejez con mayores niveles de precariedad, soledad no deseada y problemas de salud mental; ahora, después de toda una vida reivindicando derechos, esa generación empieza también a reclamar poder envejecer con dignidad",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "0210b2ef1cfb",
+      "source": "La Vanguardia",
+      "title": "Los soldados más próximos y los más silenciosos",
+      "summary": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260826/11619741/soldados-mas-proximos-mas-silenciosos.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d76af9e65d.jpeg",
+      "published_at": "2026-08-26T06:00:00+02:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Los soldados más próximos y los más silenciosos",
+      "lead_fa": "La memoria de la Guerra Civil en el Ebro pide la paleta de colores entera para ser precisa. Aquí se libró la batalla más cruenta del conflicto",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "5736627f13eb",
       "source": "La Vanguardia",
       "title": "Tensión en València por la situación del asentamiento en el viejo circuito de Fórmula 1",
@@ -1825,6 +1899,28 @@
       "editorial_version": 2
     },
     {
+      "id": "66ec0a26a328",
+      "source": "EL PAÍS",
+      "title": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
+      "summary": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
+      "url": "https://elpais.com/us/entretenimiento/2026-08-26/dolly-parton-la-estrella-que-se-nego-a-elegir-un-bando-politico-pero-nunca-se-quedo-callada.html",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207727_191950_video_1800.mp4",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "category": "cultura",
+      "priority": 68,
+      "title_fa": "Dolly Parton, la estrella que se negó a elegir un bando político pero nunca se quedó callada",
+      "lead_fa": "La reina del country, que murió el martes a los 80 años, evitó respaldar abiertamente a republicanos o demócratas. Sin embargo, dejó clara su postura sobre los derechos de las mujeres, las personas LGBTQ+, el racismo y los trabajadores",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "1d82497bc134",
       "source": "EL PAÍS",
       "title": "Maxim Kuzminov, el desertor ruso que no supo ser discreto en España",
@@ -1858,28 +1954,6 @@
       "priority": 68,
       "title_fa": "De Guadagnino a Cuarón a Tati, cinco películas para cerrar el verano",
       "lead_fa": "Antes de que la realidad absorba lo que hemos vivido o descubierto fuera de nuestra rutina, estos títulos demuestran lo tangible que verdaderamente fue",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "07d06543611a",
-      "source": "EL PAÍS",
-      "title": "Ángel Ortiz, el nieto del inventor de las palas de playa, quiere revolucionar este deporte",
-      "summary": "Con un radar inventado en Grecia que calcula el número de golpes, su velocidad y los fallos, el objetivo es que este juego se convierta en deporte oficial",
-      "url": "https://elpais.com/eps/2026-08-26/angel-ortiz-el-nieto-del-inventor-de-las-palas-de-playa-quiere-revolucionar-este-deporte.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WCZ6AVBXZFHEXNR2MHCSEXVV6I.jpg?auth=973215ef64def7331c133113689f9e231c25e067b020ece6a4f9c1652b9adf46",
-      "published_at": "2026-08-26T03:40:00+00:00",
-      "category": "deportes",
-      "priority": 68,
-      "title_fa": "Ángel Ortiz, el nieto del inventor de las palas de playa, quiere revolucionar este deporte",
-      "lead_fa": "Con un radar inventado en Grecia que calcula el número de golpes, su velocidad y los fallos, el objetivo es que este juego se convierta en deporte oficial",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2067,28 +2141,6 @@
       "editorial_version": 2
     },
     {
-      "id": "8db48523fa3d",
-      "source": "EL PAÍS",
-      "title": "Las ‘kellys’ de los hoteles denuncian que el trabajo les cuesta la salud: “Comenzamos el día con café, seguimos con Nolotil y acabamos con relajantes musculares”",
-      "summary": "El colectivo de camareras de piso protesta en Barcelona por sus pésimas condiciones laborales y exige volver a tener contratos directos en la hostelería",
-      "url": "https://elpais.com/espana/catalunya/2026-08-26/las-kellys-de-los-hoteles-denuncian-que-el-trabajo-les-cuesta-la-salud-comenzamos-el-dia-con-cafe-seguimos-con-nolotil-y-acabamos-con-relajantes-musculares.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VTCY55CETBAWZDIRQVAX3BHAFA.jpg?auth=b14b830c267797da116ff49c8ea5790b21f4fed9ce98999ec663df754ef04183",
-      "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Las ‘kellys’ de los hoteles denuncian que el trabajo les cuesta la salud: “Comenzamos el día con café, seguimos con Nolotil y acabamos con relajantes musculares”",
-      "lead_fa": "El colectivo de camareras de piso protesta en Barcelona por sus pésimas condiciones laborales y exige volver a tener contratos directos en la hostelería",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "3f52e91f5694",
       "source": "EL PAÍS",
       "title": "‘El ser querido’: incontestable talento expresivo, escasa emoción",
@@ -2133,28 +2185,6 @@
       "editorial_version": 2
     },
     {
-      "id": "89b67935043e",
-      "source": "EL PAÍS",
-      "title": "Moda agosteña de Flavita Banana: el tanga",
-      "summary": "Viñeta del 26 de agosto de 2026",
-      "url": "https://elpais.com/opinion/2026-08-26/moda-agostena-de-flavita-banana-el-tanga.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/J4EI2ZP57FDAJLPJ7LOOWW5VSI.jpg?auth=54edd0f7a2e73e35bf810c426546bfdfa438afad65e541812edc3f75bb798e55",
-      "published_at": "2026-08-26T03:30:01+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Moda agosteña de Flavita Banana: el tanga",
-      "lead_fa": "Viñeta del 26 de agosto de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "e493902e6d97",
       "source": "EL PAÍS Economía",
       "title": "Tormentas, fuego y sequía: el campo español intenta resistir tras ocho meses de asfixia climática",
@@ -2166,6 +2196,28 @@
       "priority": 68,
       "title_fa": "Tormentas, fuego y sequía: el campo español intenta resistir tras ocho meses de asfixia climática",
       "lead_fa": "Con más de 1,2 millones de hectáreas dañadas en lo que va de año, las pérdidas obligan a los ganaderos a consumir en agosto las reservas de alimento previstas para el invierno",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8db48523fa3d",
+      "source": "EL PAÍS Economía",
+      "title": "Las ‘kellys’ de los hoteles denuncian que el trabajo les cuesta la salud: “Comenzamos el día con café, seguimos con Nolotil y acabamos con relajantes musculares”",
+      "summary": "El colectivo de camareras de piso protesta en Barcelona por sus pésimas condiciones laborales y exige volver a tener contratos directos en la hostelería",
+      "url": "https://elpais.com/espana/catalunya/2026-08-26/las-kellys-de-los-hoteles-denuncian-que-el-trabajo-les-cuesta-la-salud-comenzamos-el-dia-con-cafe-seguimos-con-nolotil-y-acabamos-con-relajantes-musculares.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VTCY55CETBAWZDIRQVAX3BHAFA.jpg?auth=b14b830c267797da116ff49c8ea5790b21f4fed9ce98999ec663df754ef04183",
+      "published_at": "2026-08-26T03:30:01+00:00",
+      "category": "sociedad",
+      "priority": 68,
+      "title_fa": "Las ‘kellys’ de los hoteles denuncian que el trabajo les cuesta la salud: “Comenzamos el día con café, seguimos con Nolotil y acabamos con relajantes musculares”",
+      "lead_fa": "El colectivo de camareras de piso protesta en Barcelona por sus pésimas condiciones laborales y exige volver a tener contratos directos en la hostelería",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2243,28 +2295,6 @@
       "editorial_version": 2
     },
     {
-      "id": "e282ece33f30",
-      "source": "EL PAÍS",
-      "title": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
-      "summary": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
-      "url": "https://elpais.com/america/2026-08-26/una-nueva-matanza-en-haiti-deja-al-menos-47-muertos-22-ejecutados-en-una-iglesia.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/3EIVLFTXMJK75BCR7RUD3DOEUQ.jpg?auth=6b67222df3e6aabe698f4a779042e78e62bf2a91fabdd292864ef3bdf6427315",
-      "published_at": "2026-08-26T01:02:21+00:00",
-      "category": "sociedad",
-      "priority": 68,
-      "title_fa": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
-      "lead_fa": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "5ab9c3142a51",
       "source": "EL PAÍS Economía",
       "title": "El encarecimiento de la energía provoca el primer déficit comercial de la UE desde 2023",
@@ -2291,6 +2321,28 @@
         "#تجارت"
       ],
       "ai_translated": true,
+      "editorial_version": 2
+    },
+    {
+      "id": "e282ece33f30",
+      "source": "EL PAÍS",
+      "title": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
+      "summary": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
+      "url": "https://elpais.com/america/2026-08-26/una-nueva-matanza-en-haiti-deja-al-menos-47-muertos-22-ejecutados-en-una-iglesia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/3EIVLFTXMJK75BCR7RUD3DOEUQ.jpg?auth=6b67222df3e6aabe698f4a779042e78e62bf2a91fabdd292864ef3bdf6427315",
+      "published_at": "2026-08-26T01:02:21+00:00",
+      "category": "sociedad",
+      "priority": 67,
+      "title_fa": "Una nueva matanza en Haití deja al menos 47 muertos, 22 ejecutados en una iglesia",
+      "lead_fa": "La ONU eleva en más de 3.000 las víctimas de la violencia en la isla en lo que va de 2026",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
       "editorial_version": 2
     },
     {
@@ -2389,50 +2441,6 @@
       "editorial_version": 2
     },
     {
-      "id": "050d983edf11",
-      "source": "EL PAÍS España",
-      "title": "Génova rebaja la presión sobre Ayuso por la compra del ático pese al malestar por el daño a la marca",
-      "summary": "La dirección del PP admite el “daño reputacional a la marca” por la polémica y sostiene que Feijóo fue informado de las obras en una reunión con Ayuso el 8 de abril, seis días antes de la compra del ático, pero que no se le contó esa operación",
-      "url": "https://elpais.com/espana/2026-08-25/genova-rebaja-la-presion-sobre-ayuso-por-la-compra-del-atico-pese-al-malestar-por-el-dano-a-la-marca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZF2RMSWS5RBRRBXOV7S4AQQSTY.jpg?auth=60dfd57ac3b2d9ceb09c0cdfc76d1fb21f6e69f549416623608555ac3443ae82",
-      "published_at": "2026-08-25T03:45:01+00:00",
-      "category": "sociedad",
-      "priority": 60,
-      "title_fa": "Génova rebaja la presión sobre Ayuso por la compra del ático pese al malestar por el daño a la marca",
-      "lead_fa": "La dirección del PP admite el “daño reputacional a la marca” por la polémica y sostiene que Feijóo fue informado de las obras en una reunión con Ayuso el 8 de abril, seis días antes de la compra del ático, pero que no se le contó esa operación",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "f2c631bd98b3",
-      "source": "EL PAÍS España",
-      "title": "Pablo Crespo: “En prisión, haber salido en televisión es un mérito”",
-      "summary": "En libertad condicional desde hace cinco meses, el exdirigente del PP gallego y ‘número dos’ de la trama Gürtel defiende la utilidad de los programas de reinserción",
-      "url": "https://elpais.com/espana/2026-08-25/pablo-crespo-en-prision-salir-en-television-es-un-merito.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YAWGDXX2PZGXFLU5AMDEDRNQFY.jpg?auth=87671eda51a8a1bd5851a8efc515a3f86afced702719e72818713a125db3ca55",
-      "published_at": "2026-08-25T03:45:01+00:00",
-      "category": "cultura",
-      "priority": 60,
-      "title_fa": "Pablo Crespo: “En prisión, haber salido en televisión es un mérito”",
-      "lead_fa": "En libertad condicional desde hace cinco meses, el exdirigente del PP gallego y ‘número dos’ de la trama Gürtel defiende la utilidad de los programas de reinserción",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "cd5593e034da",
       "source": "EL PAÍS Economía",
       "title": "Los retoques en los Presupuestos hasta junio superan los de todo el año pasado",
@@ -2484,7 +2492,7 @@
     {
       "source": "EL PAÍS",
       "ok": true,
-      "count": 145
+      "count": 148
     },
     {
       "source": "EL PAÍS España",
