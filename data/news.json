@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:55:46.397677+00:00",
+  "generated_at": "2026-08-26T03:15:57.481395+00:00",
   "editorial_version": 2,
   "featured_ids": [
     "b683f3cf6fec",
@@ -1731,62 +1731,25 @@
       "url": "https://elpais.com/economia/negocios/2026-08-25/la-ley-de-la-prudencia-se-impone-a-la-hora-de-las-fusiones.html",
       "image": "https://imagenes.elpais.com/resizer/v2/NV6SCLYB5REGXOT6GAL77LNU6A.JPG?auth=1a43b9b58ea810926e8cbd272f39e38e4046c459108dd08a7e779ce83059eb42",
       "published_at": "2026-08-25T03:30:00+00:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "La ley de la prudencia se impone a la hora de las fusiones",
-      "lead_fa": "Las operaciones corporativas caen en número, pero se mantienen en volumen por los grandes acuerdos en un contexto de precios altos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "8f46d86b345e",
-      "source": "EL PAÍS Economía",
-      "title": "La tormenta perfecta con el precio del gas y el calor en verano dispara la factura de la luz",
-      "summary": "La fuerte volatilidad hace oscilar los precios del ‘pool’ desde cero euros por megavatio en las horas centrales del día a 200 y 300 cuando llega la noche",
-      "url": "https://cincodias.elpais.com/companias/2026-08-25/la-tormenta-perfecta-con-el-precio-del-gas-y-el-calor-en-verano-disparan-la-factura-de-la-luz.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TQEVUDHYHJN5JCKQSAXQ6SYOZA.jpg?auth=71562de33e73a68f97d73a7d5791fa897b08b40bff1e572b7575fecddf1eea5b",
-      "published_at": "2026-08-25T03:15:00+00:00",
       "category": "economia",
       "priority": 68,
-      "title_fa": "La tormenta perfecta con el precio del gas y el calor en verano dispara la factura de la luz",
-      "lead_fa": "La fuerte volatilidad hace oscilar los precios del ‘pool’ desde cero euros por megavatio en las horas centrales del día a 200 y 300 cuando llega la noche",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "کاهش ادغام‌های شرکتی در اسپانیا هم‌زمان با ثبات حجم معاملات",
+      "lead_fa": "تعداد معاملات شرکتی در اسپانیا کاهش یافته است. با وجود این، حجم کل معاملات به دلیل قراردادهای بزرگ و قیمت‌های بالا حفظ شده است.",
+      "key_points_fa": [
+        "افت تعداد عملیات‌های شرکتی و ادغام‌ها در بازار",
+        "ثبات حجم مالی معاملات به لطف توافق‌های کلان",
+        "تأثیر قیمت‌های بالا بر روند بازار و تصمیم‌گیری شرکت‌ها"
+      ],
+      "analysis_fa": "داده‌ها نشان می‌دهند که فعالان بازار شرکت‌ها رویکردی محتاطانه‌تر اتخاذ کرده‌اند. در حالی که تعداد قراردادها کمتر شده، تمرکز بر روی توافق‌های بزرگ مالی مانع از افت ارزش کلی معاملات شده است که نشان‌دهنده تغییر الگو در فعالیت‌های شرکتی است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#اقتصاد",
+        "#ادغام_شرکت_ها",
+        "#بازار_مالی"
       ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "b89406802f22",
-      "source": "EL PAÍS Economía",
-      "title": "La potencial venta de Deoleo a un grupo italiano deja poco margen a la aplicación del escudo antiopas del Gobierno",
-      "summary": "La protección a las inversiones extranjeras también afecta a las empresas comunitarias, según las condiciones de la operación. Solo dos transacciones se han vetado en seis años",
-      "url": "https://cincodias.elpais.com/companias/2026-08-25/la-potencial-venta-de-deoleo-a-un-grupo-italiano-deja-poco-margen-a-la-aplicacion-del-escudo-antiopas-del-gobierno.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VAK7RRGFGJD3DDIA7ONQMO5NTY.jpg?auth=7ea195c1e963bac251e247d74dafde091ad268a82b06b091e786c4751a970586",
-      "published_at": "2026-08-25T03:15:00+00:00",
-      "category": "politica",
-      "priority": 68,
-      "title_fa": "La potencial venta de Deoleo a un grupo italiano deja poco margen a la aplicación del escudo antiopas del Gobierno",
-      "lead_fa": "La protección a las inversiones extranjeras también afecta a las empresas comunitarias, según las condiciones de la operación. Solo dos transacciones se han vetado en seis años",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1797,18 +1760,23 @@
       "url": "https://www.lavanguardia.com/cultura/20260825/11619940/mago-pop-visita-nasa-preparar-proximo-espectaculo.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/25/6a8dc116aaaf5.r_d.547-844-0.jpeg",
       "published_at": "2026-08-25T18:23:17+02:00",
-      "category": "sociedad",
+      "category": "cultura",
       "priority": 67,
-      "title_fa": "El Mago Pop visita la NASA para preparar su próximo espectáculo",
-      "lead_fa": "Antonio Díaz charló con los ingenieros del Johnson Space Center pensando en su proyecto de estadios",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
+      "title_fa": "بازدید شعبده‌باز اسپانیایی از ناسا برای نمایش جدید",
+      "lead_fa": "آنتونیو دیاز، معروف به «ال ماگو پاپ»، از مرکز فضایی جانسون ناسا بازدید کرد. او این بازدید را برای آماده‌سازی پروژه جدید خود در استادیوم‌ها انجام داده است.",
+      "key_points_fa": [
+        "آنتونیو دیاز با مهندسان مرکز فضایی جانسون ناسا گفتگو کرد.",
+        "این دیدار با هدف طراحی و آماده‌سازی نمایش جدید او در استادیوم‌ها صورت گرفت."
+      ],
+      "analysis_fa": "همکاری هنرمندان با مراکز علمی و فناوری مانند ناسا نشان‌دهنده تلاش برای نوآوری در اجرای نمایش‌های بزرگ و جذب مخاطبان بیشتر است.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
       "urgency": "normal",
       "hashtags_fa": [
-        "#اخبار_اسپانیا"
+        "#اسپانیا",
+        "#ناسا",
+        "#فرهنگ"
       ],
-      "ai_translated": false,
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1819,18 +1787,25 @@
       "url": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207764_224845_video_1800.mp4",
       "published_at": "2026-08-25T16:34:35+00:00",
-      "category": "sociedad",
+      "category": "economia",
       "priority": 67,
-      "title_fa": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
-      "lead_fa": "Los nuevos gravámenes, que se dirigen a productos por un valor de unos 20.000 millones de dólares, entrarán en vigor el 8 de septiembre",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
+      "title_fa": "وضع تعرفه‌های جدید کانادا علیه ایالات متحده",
+      "lead_fa": "کانادا در تلافی سیاست‌های تعرفه‌ای دونالد ترامپ، عوارض جدیدی بر کالاهای آمریکایی اعمال کرد. این تعرفه‌ها محصولات به ارزش حدود ۲۰ میلیارد دلار را هدف قرار می‌دهند.",
+      "key_points_fa": [
+        "اعمال تعرفه‌های ۱۵ تا ۵۰ درصدی کانادا علیه ایالات متحده",
+        "هدف قرار گرفتن کالاهایی به ارزش تقریبی ۲۰ میلیارد دلار",
+        "اجرایی شدن این مصوبه از تاریخ ۸ سپتامبر"
       ],
-      "ai_translated": false,
+      "analysis_fa": "این اقدام کانادا نشان‌دهنده تشدید تنش‌های تجاری میان دو کشور همسایه در واکنش به سیاست‌های تعرفه‌ای دولت آمریکا است و می‌تواند پویایی‌های اقتصادی منطقه را تحت تأثیر قرار دهد.",
+      "audience_impact_fa": "اثر مستقیم مشخصی گزارش نشده است.",
+      "urgency": "important",
+      "hashtags_fa": [
+        "#کانادا",
+        "#آمریکا",
+        "#تعرفه_تجاری",
+        "#اقتصاد"
+      ],
+      "ai_translated": true,
       "editorial_version": 2
     },
     {
@@ -1867,6 +1842,50 @@
       "priority": 67,
       "title_fa": "Marlaska admite un posible “uso desproporcionado de la fuerza” por la Policía en los altercados del Elche-Barça",
       "lead_fa": "Interior estudia abrir expediente disciplinario al agente que golpeó a un menor aficionado azulgrana durante su detención",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "8f46d86b345e",
+      "source": "EL PAÍS Economía",
+      "title": "La tormenta perfecta con el precio del gas y el calor en verano dispara la factura de la luz",
+      "summary": "La fuerte volatilidad hace oscilar los precios del ‘pool’ desde cero euros por megavatio en las horas centrales del día a 200 y 300 cuando llega la noche",
+      "url": "https://cincodias.elpais.com/companias/2026-08-25/la-tormenta-perfecta-con-el-precio-del-gas-y-el-calor-en-verano-disparan-la-factura-de-la-luz.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TQEVUDHYHJN5JCKQSAXQ6SYOZA.jpg?auth=71562de33e73a68f97d73a7d5791fa897b08b40bff1e572b7575fecddf1eea5b",
+      "published_at": "2026-08-25T03:15:00+00:00",
+      "category": "economia",
+      "priority": 67,
+      "title_fa": "La tormenta perfecta con el precio del gas y el calor en verano dispara la factura de la luz",
+      "lead_fa": "La fuerte volatilidad hace oscilar los precios del ‘pool’ desde cero euros por megavatio en las horas centrales del día a 200 y 300 cuando llega la noche",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "b89406802f22",
+      "source": "EL PAÍS Economía",
+      "title": "La potencial venta de Deoleo a un grupo italiano deja poco margen a la aplicación del escudo antiopas del Gobierno",
+      "summary": "La protección a las inversiones extranjeras también afecta a las empresas comunitarias, según las condiciones de la operación. Solo dos transacciones se han vetado en seis años",
+      "url": "https://cincodias.elpais.com/companias/2026-08-25/la-potencial-venta-de-deoleo-a-un-grupo-italiano-deja-poco-margen-a-la-aplicacion-del-escudo-antiopas-del-gobierno.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/VAK7RRGFGJD3DDIA7ONQMO5NTY.jpg?auth=7ea195c1e963bac251e247d74dafde091ad268a82b06b091e786c4751a970586",
+      "published_at": "2026-08-25T03:15:00+00:00",
+      "category": "politica",
+      "priority": 67,
+      "title_fa": "La potencial venta de Deoleo a un grupo italiano deja poco margen a la aplicación del escudo antiopas del Gobierno",
+      "lead_fa": "La protección a las inversiones extranjeras también afecta a las empresas comunitarias, según las condiciones de la operación. Solo dos transacciones se han vetado en seis años",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -1922,28 +1941,6 @@
       "editorial_version": 2
     },
     {
-      "id": "6b15f2587621",
-      "source": "La Vanguardia",
-      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
-      "published_at": "2026-08-25T13:06:43+02:00",
-      "category": "turismo",
-      "priority": 66,
-      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
-      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "4f5a0806e1bd",
       "source": "EL PAÍS",
       "title": "Una nueva borrasca afectará a España el miércoles y el jueves con lluvias, tormentas y vientos fuertes en el noroeste",
@@ -1977,6 +1974,28 @@
       "priority": 66,
       "title_fa": "United Airlines anuncia vuelo directo de Valencia a Nueva York con tres frecuencias semanales a partir de junio de 2027",
       "lead_fa": "El aeropuerto valenciano recupera la conexión con la ciudad norteamericana quince años después",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "6b15f2587621",
+      "source": "La Vanguardia",
+      "title": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "summary": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
+      "url": "https://www.lavanguardia.com/clic/20260825/11619727/hotel-rescato-lavuelta-tormenta-termino-inundado-resenas-cinco-estrellas-lol.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8d7126c6584.jpeg",
+      "published_at": "2026-08-25T13:06:43+02:00",
+      "category": "turismo",
+      "priority": 65,
+      "title_fa": "El hotel que rescató a laVuelta de la tormenta y terminó inundado de reseñas de cinco estrellas",
+      "lead_fa": "Un hotel abrió sus puertas para que unos 180 ciclistas y miembros de los equipos pudieran refugiarse de la granizada y el pelotón encontró una original manera de agradecer su hospitalidad",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2032,28 +2051,6 @@
       "editorial_version": 2
     },
     {
-      "id": "9bb386927806",
-      "source": "EL PAÍS",
-      "title": "Detenido un entrenador por violar y dejar embarazada a una menor en Palma",
-      "summary": "El joven invitó a comer a su casa a la víctima y a otra niña, y allí la agredió sexualmente",
-      "url": "https://elpais.com/sociedad/2026-08-25/detenido-un-entrenador-por-violar-y-dejar-embarazada-a-una-menor-en-palma.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7T3S2PBW6RGGBJW2CB5V4WUA6E.jpg?auth=293cef8c174b0d2888623b9304597bffea18e2ba2d2be8636fa15c55a0c541de",
-      "published_at": "2026-08-25T07:58:00+00:00",
-      "category": "sociedad",
-      "priority": 65,
-      "title_fa": "Detenido un entrenador por violar y dejar embarazada a una menor en Palma",
-      "lead_fa": "El joven invitó a comer a su casa a la víctima y a otra niña, y allí la agredió sexualmente",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
       "id": "f08b4f416015",
       "source": "EL PAÍS España",
       "title": "Desconfinada la localidad zamorana de Ricobayo y reabierta la N-122 al lograr los bomberos perimetrar el fuego",
@@ -2087,6 +2084,28 @@
       "priority": 64,
       "title_fa": "Detienen en Valencia a un fugitivo reclamado por un intento de asesinato en 2025 en Alemania",
       "lead_fa": "El fugitivo, que planificó los hechos junto con otros tres cómplices, disparó con una metralleta a la víctima en repetidas ocasiones que la dejaron gravemente herida y con secuelas",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
+      "id": "9bb386927806",
+      "source": "EL PAÍS",
+      "title": "Detenido un entrenador por violar y dejar embarazada a una menor en Palma",
+      "summary": "El joven invitó a comer a su casa a la víctima y a otra niña, y allí la agredió sexualmente",
+      "url": "https://elpais.com/sociedad/2026-08-25/detenido-un-entrenador-por-violar-y-dejar-embarazada-a-una-menor-en-palma.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7T3S2PBW6RGGBJW2CB5V4WUA6E.jpg?auth=293cef8c174b0d2888623b9304597bffea18e2ba2d2be8636fa15c55a0c541de",
+      "published_at": "2026-08-25T07:58:00+00:00",
+      "category": "sociedad",
+      "priority": 64,
+      "title_fa": "Detenido un entrenador por violar y dejar embarazada a una menor en Palma",
+      "lead_fa": "El joven invitó a comer a su casa a la víctima y a otra niña, y allí la agredió sexualmente",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2197,28 +2216,6 @@
       "priority": 63,
       "title_fa": "De casal fallero a pisos turísticos: Benicalap centra la nueva lucha vecinal",
       "lead_fa": "El barrio tiene muchos locales vacíos y no llega al tope legal para vetar los proyectos turísticos",
-      "key_points_fa": [],
-      "analysis_fa": "",
-      "audience_impact_fa": "",
-      "urgency": "normal",
-      "hashtags_fa": [
-        "#اخبار_اسپانیا"
-      ],
-      "ai_translated": false,
-      "editorial_version": 2
-    },
-    {
-      "id": "0be0e1319429",
-      "source": "La Vanguardia",
-      "title": "Cuanto el Estado falla",
-      "summary": "",
-      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
-      "published_at": "2026-08-25T05:00:00+02:00",
-      "category": "sociedad",
-      "priority": 63,
-      "title_fa": "Cuanto el Estado falla",
-      "lead_fa": "",
       "key_points_fa": [],
       "analysis_fa": "",
       "audience_impact_fa": "",
@@ -2516,6 +2513,28 @@
       "editorial_version": 2
     },
     {
+      "id": "0be0e1319429",
+      "source": "La Vanguardia",
+      "title": "Cuanto el Estado falla",
+      "summary": "",
+      "url": "https://www.lavanguardia.com/local/valencia/20260825/11619219/cuanto-falla.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/24/6a8c1b0d78851.jpeg",
+      "published_at": "2026-08-25T05:00:00+02:00",
+      "category": "sociedad",
+      "priority": 62,
+      "title_fa": "Cuanto el Estado falla",
+      "lead_fa": "",
+      "key_points_fa": [],
+      "analysis_fa": "",
+      "audience_impact_fa": "",
+      "urgency": "normal",
+      "hashtags_fa": [
+        "#اخبار_اسپانیا"
+      ],
+      "ai_translated": false,
+      "editorial_version": 2
+    },
+    {
       "id": "4bb882aab49c",
       "source": "EL PAÍS Economía",
       "title": "La justicia europea rechaza la petición de Indra de paralizar un contrato de ciberseguridad que había perdido",
@@ -2524,7 +2543,7 @@
       "image": "https://imagenes.elpais.com/resizer/v2/EGZMUBH6J5OZ7BRGZ2FOF7JL4U.jpg?auth=32f3b76b694f864fe73b1619388077b6bb2b40da70dcb6f5f8f37074569ce6b6",
       "published_at": "2026-08-25T03:15:00+00:00",
       "category": "sociedad",
-      "priority": 63,
+      "priority": 62,
       "title_fa": "La justicia europea rechaza la petición de Indra de paralizar un contrato de ciberseguridad que había perdido",
       "lead_fa": "La española había sido la única invitada por el Servicio Europeo de Acción Exterior a participar de este proyecto, que asciende a 77,8 millones",
       "key_points_fa": [],
